@@ -1,7 +1,7 @@
 import os
 import re
-
 import fitz
+from pathlib import Path
 
 
 cores = [
@@ -32,6 +32,22 @@ def color_exists_in_page(page, cor_alvo_255):
     img_array = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
     return np.any(np.all(img_array[:, :, :3] == cor_alvo_255, axis=-1))
 
+def obter_caminho_unico(dir_path, cropped_name):
+    full_path = os.path.join(dir_path, cropped_name)   
+    # Se o arquivo não existe, retorna o caminho original
+    if not os.path.exists(full_path):
+        return full_path
+    # Separa o nome da extensão (ex: "imagem" e ".jpg")
+    name, extension = os.path.splitext(cropped_name)    
+    # Adiciona "-copia" e verifica repetidamente
+    counter = 1
+    new_name = f"{name}-copia{extension}"
+    new_path = os.path.join(dir_path, new_name)    
+    while os.path.exists(new_path):
+        new_name = f"{name}-copia({counter}){extension}"
+        new_path = os.path.join(dir_path, new_name)
+        counter += 1        
+    return new_path
 
 def Index(texto, termo):
     linhas = texto.splitlines()
@@ -117,7 +133,7 @@ def cropper_logic_energisa(input_path, output_path, template):
     linhas = texto.splitlines()
     l_5 = Index(texto, "ENDEREÇO DA UNIDADE CONSUMIDORA")
 
-    if recortes == template["LAYOUT_1"]:
+    if   recortes == template["LAYOUT_1"]:
         novo_nome += extrair_municipio_robusto(re.sub(r"\s*/\s*", " ", linhas[municipio[0] + 2])) + "_" + linhas[data[0] + 1] + "_" + linhas[unidade[0] + 1] + "_L1"
     elif recortes == template["LAYOUT_2"]:
         novo_nome += extrair_municipio_robusto(re.sub(r"\s*/\s*", " ", linhas[municipio[0] + 3])) + "_" + linhas[data[0] + 1] + "_" + linhas[unidade[0] + 1] + "_L2"
@@ -145,8 +161,10 @@ def cropper_logic_energisa(input_path, output_path, template):
     dir_path = os.path.dirname(output_path)
     cropped_name = novo_nome.replace(".pdf", "_Cropped.pdf")
     output_path = os.path.join(dir_path, cropped_name)
+    output_path = obter_caminho_unico(dir_path, cropped_name)
 
     dir_path = os.path.dirname(input_path)
     new_input_path = os.path.join(dir_path, novo_nome)
+    new_input_path = obter_caminho_unico(dir_path, novo_nome)
     os.rename(input_path, new_input_path)
     return output_path

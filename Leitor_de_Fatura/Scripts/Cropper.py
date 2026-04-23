@@ -18,53 +18,32 @@ from Cropper_logic_functions.cropper_logic_neoenergia   import cropper_logic_neo
 # ============================================================== #
 
 diretorio = Path(__file__).resolve().parent.parent
-print(f"Diretório do script: {diretorio}")
 
-PATH_FATURAS = diretorio / "Faturas"            # Endereço da pasta onde estão guardadas as subpastas contendo as faturas
-PATH_CROPPED = diretorio / "Faturas_Cropped"    # Enderço de para onde vão as subpastas contendo os PDFs croppados
-PATH_POPPLER = diretorio / "Faturas_Poppler"    # Endereço para onde vão os arquivos txt extraídos dos PDFs cropados
+PATH_FATURAS        = diretorio / "Faturas"            
+PATH_CROPPED        = diretorio / "Faturas_Cropped"    
+PATH_POPPLER        = diretorio / "Faturas_Poppler"    
+PATH_POPPLER_EXE    = diretorio / "poppler" / "Library" / "bin" / "pdftotext.exe"  
 
 # ============================================================== #
 # FUNÇÕES
 # ============================================================== #
 
 def obter_caminho_unico(dir_path, cropped_name):
-    full_path = os.path.join(dir_path, cropped_name)    
+    full_path = dir_path / cropped_name    
     # Se o arquivo não existe, retorna o caminho original
-    if not os.path.exists(full_path):
+    if not full_path.exists():
         return full_path
     # Separa o nome da extensão (ex: "imagem" e ".jpg")
     name, extension = os.path.splitext(cropped_name)    
     # Adiciona "-copia" e verifica repetidamente
     counter = 1
     new_name = f"{name}-copia{extension}"
-    new_path = os.path.join(dir_path, new_name)    
-    while os.path.exists(new_path):
+    new_path = dir_path / new_name    
+    while new_path.exists():
         new_name = f"{name}-copia({counter}){extension}"
-        new_path = os.path.join(dir_path, new_name)
+        new_path = dir_path / new_name
         counter += 1        
     return new_path
-
-def obter_caminho_poppler():
-    # Detecta se o script está rodando como um executável (.exe) ou script (.py)
-    if getattr(sys, 'frozen', False):
-        diretorio_atual = os.path.dirname(sys.executable)
-    else:
-        diretorio_atual = os.path.dirname(os.path.abspath(__file__))
-
-    # Aceita tanto pasta "Poppler" quanto "poppler"
-    caminhos_possiveis = [
-        os.path.join(diretorio_atual, "Poppler", "bin", "pdftotext.exe"),
-        os.path.join(diretorio_atual, "poppler", "bin", "pdftotext.exe"),
-    ]
-
-    for caminho in caminhos_possiveis:
-        if os.path.exists(caminho):
-            return caminho
-
-    return caminhos_possiveis[0]
-
-PATH_POPPLER_EXE = obter_caminho_poppler()
 
 def run_pdftotext(input_pdf, output_txt):
     """Executa o comando externo pdftotext via subprocess."""
@@ -100,9 +79,9 @@ def integralaiser_orchestrator():
     selected_template = TEMPLATES[selected_template_name]
 
     # 3. Processamento: Garante e salva os endereços das pastas e subpastas de origem e de saída
-    src_dir = os.path.join(PATH_FATURAS, selected_folder)
-    dst_dir = os.path.join(PATH_CROPPED, f"{selected_folder}_Cropped") 
-    txt_dir = os.path.join(PATH_POPPLER, f"{selected_folder}_Poppler")
+    src_dir = PATH_FATURAS / selected_folder
+    dst_dir = PATH_CROPPED / f"{selected_folder}_Cropped"
+    txt_dir = PATH_POPPLER / f"{selected_folder}_Poppler"
     if not os.path.exists(dst_dir): os.makedirs(dst_dir)
     if not os.path.exists(txt_dir): os.makedirs(txt_dir)
 
