@@ -1,0 +1,136 @@
+\documentclass[12pt,a4paper]{article}
+
+% --- Pacotes Básicos ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{times} % Fonte Times New Roman similar
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+
+% --- Configuração de Margens e Espaçamento ---
+\geometry{
+    a4paper,
+    top=0.5cm,
+    bottom=2cm,
+    left=3cm,
+    right=2cm
+}
+\onehalfspacing % Espaçamento 1.5
+\setlength{\parindent}{1.25cm} % Recuo da primeira linha
+
+
+% Configura o \section
+\titleformat{\section}
+  {\normalfont\fontsize{12}{14}\bfseries}
+  {}
+  {0pt}
+  {\noindent\framebox[\linewidth][l]{#1}}                                   % Código antes do título
+
+\begin{document}
+
+% --- Cabeçalho ---
+\begin{figure}[h]
+\centering
+\makebox[\textwidth][c]{\includegraphics[width=1.1\textwidth]{Imagens/Header_Inovve.png}}
+\end{figure}
+
+\vspace{-0.7cm}
+
+% --- Data e Local ---
+\begin{flushright}
+    <<MUNICIPIO>> - <<ESTADO>>, \today.
+\end{flushright}
+
+\vspace{1em}
+
+% --- Tipo de documento ---
+\noindent \textbf{<<TIPO_DOC>> <<CONTAGEM>>/\the\year – <<MUNICIPIO>>}
+
+% --- Unidade Consumidora ---
+<<UC_LINE>>
+
+% --- Destinatário ---
+\noindent <<CONCESSIONARIA>> \\
+\noindent \textbf{Área de Clientes Governo}
+
+\vspace{1em}
+
+\noindent \textbf{ASSUNTO: <<ASSUNTO>>}
+
+\vspace{1.5em}
+
+% --- Preâmbulo ---
+\noindent MUNICÍPIO DE <<MUNICIPIO>>, estado do <<ESTADO>>, pessoa jurídica de direito público interno, inscrito no CNPJ sob o nº <<CNPJ>>, com sede administrativa de endereço: <<ENDERECO>>, neste ato representado por seu(sua) Prefeito(a) Municipal <<PREFEITO>>, por meio do representante legal ANA MARIA FELIPE DIAS, devidamente constituídos na forma da procuração em anexo (Anexo I), vem à presença de V. Sas., requerer o que se segue.
+
+\vspace{1em}
+
+% --- Seção 1 ---
+\section*{DA LEGITIMIDADE E DOS PODERES DE REPRESENTAÇÃO}
+
+Em caráter inicial, observa-se que o município de <<MUNICIPIO>> firmou o Contrato nº <<CONTRATO>> com a empresa Inovve Serviços de Treinamentos e Consultoria Empresarial LTDA, inscrita no CNPJ nº 32.049.941/0001-06. A publicidade desse instrumento ocorreu no PNCP em 01 de dezembro de 2025. [cite: 11]
+
+\begin{quote}
+    \textit{``CLÁUSULA PRIMEIRA – OBJETO... O objeto do presente instrumento é a CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA... VOLTADOS À RECUPERAÇÃO DE VALORES PAGOS INDEVIDAMENTE...''} [cite: 14, 15]
+\end{quote}
+
+% --- Seção 2 ---
+\section*{DOS FATOS E DO DIREITO} [cite: 26]
+
+Trata-se de reclamação referente ao cliente descrito abaixo: [cite: 27]
+
+\vspace{0.5em}
+\noindent
+\begin{tabularx}{\textwidth}{|X|r|}
+    \hline
+    \textbf{NOME DO CLIENTE:} & \textbf{CÓDIGO DA INSTALAÇÃO} \\
+    PREF MUNICIPAL DE <<MUNICIPIO>> [cite: 27] & \textbf{419023} [cite: 27] \\ \cline{2-2}
+    ESC DR MOARCY BRENO SOUTO MAIOR [cite: 27] & \textbf{CÓDIGO DO CLIENTE} \\
+    \textbf{ENDEREÇO:} RO PE 090 130, <<MUNICIPIO>> PE [cite: 27] & \textbf{936462014} [cite: 27] \\
+    \hline
+\end{tabularx}
+
+\vspace{1em}
+Verificou-se que a UC 419023 apresenta um consumo bastante elevado no mês JUN/22, superando em mais de 3000 kWh os meses vizinhos. [cite: 28, 29]
+
+% --- Tabela de Consumo (Simplificada para Automação) ---
+\begin{center}
+\begin{tabular}{|l|c|c|}
+    \hline
+    \textbf{MÊS/ANO} & \textbf{CONSUMO (kWh)} & \textbf{DIAS FAT.} \\ \hline
+    DEZ/22 & 2297 & 31 \\ \hline
+    NOV/22 & 2582 & 31 \\ \hline
+    JUN/22 & \textbf{5205} & 30 \\ \hline
+    \dots & \dots & \dots \\ \hline
+\end{tabular}
+\end{center} 
+
+\vspace{1em}
+
+% --- Pedidos ---
+\section*{DO PEDIDO} [cite: 31]
+
+Ante o exposto REQUER que a concessionária: [cite: 32]
+\begin{itemize}[label=--, leftmargin=1.5cm]
+    \item Proceda a análise no prazo de 5 dias úteis (Art. 408, I, REN 1000/2021); [cite: 33, 34]
+    \item Informe sobre emissão de TOI; [cite: 36]
+    \item Devolva valores cobrados a maior em dobro, conforme Resolução 1.000/2021 da Aneel. [cite: 37, 38]
+\end{itemize}
+
+\vspace{3em}
+
+% --- Assinatura ---
+\begin{center}
+    \rule{8cm}{0.5pt} \\
+    \textbf{Ana Maria Felipe Dias} [cite: 45] \\
+    Representante Município [cite: 46]
+\end{center}
+
+\end{document}
