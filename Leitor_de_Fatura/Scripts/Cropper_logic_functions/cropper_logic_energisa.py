@@ -1,8 +1,15 @@
+# ============================================================= #
+# BIBLIOTECAS
+# ============================================================= #
+
 import os
 import re
 import fitz
 from pathlib import Path
 
+# ============================================================= #
+# CONFIGURAÇÕES
+# ============================================================= #
 
 cores = [
     (91, 179, 181),
@@ -25,6 +32,9 @@ marcadores_de_referencia = [
     "MARCADOR DE UNIDADE CONSUMIDORA",
 ]
 
+# ============================================================= #
+# FUNÇÕES
+# ============================================================= #
 
 def color_exists_in_page(page, cor_alvo_255):
     pix = page.get_pixmap()
@@ -57,7 +67,6 @@ def Index(texto, termo):
             indices.append(i)
     return indices
 
-
 def extrair_municipio_robusto(texto):
     texto = texto.strip()
     padrao = r"^(.+?)(?=\s*[\-\s]\s*[A-Z]{2}\b|\s*\(|$)"
@@ -68,6 +77,9 @@ def extrair_municipio_robusto(texto):
         return resultado.title()
     return texto.strip().title()
 
+# ============================================================= #
+# EXECUÇÃO
+# ============================================================= #
 
 def cropper_logic_energisa(input_path, output_path, template):
     doc = fitz.open(input_path)
