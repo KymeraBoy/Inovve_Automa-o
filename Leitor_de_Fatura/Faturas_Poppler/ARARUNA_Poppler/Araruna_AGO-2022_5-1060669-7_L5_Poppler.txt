@@ -1,0 +1,47 @@
+PM ARARUNA MINI SHOPPING POPULAR
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA MINI SHOPPING POPULAR
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0062 - 110 - 0390                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008735253                            DOM. BANC.:
+MATRÍCULA: 1060669-2022-8-2                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PROF JOAO MOREIRA SOARES, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/1060669-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      3.525,00    0,596920    0,756230    2.665,72      2.665,72   18      479,82       2.185,89       14,58         67,17
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       2.665,72      2.665,72           479,82       2.185,89       14,58         67,17
+AGO/22   3.525,00
+JUL/22   3.684,00
+JUN/22   4.311,00
+MAI/22   4.098,00
+ABR/22   4.299,00
+MAR/22   4.687,00
+FEV/22   3.459,00
+JAN/22   3.412,00
+DEZ/21   4.207,00
+NOV/21   3.540,00
+OUT/21   3.502,00
+SET/21   3.567,00
+AGO/21   3.223,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

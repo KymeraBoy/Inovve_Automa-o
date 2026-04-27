@@ -1,0 +1,47 @@
+PM ARARUNA ESCOLA NORMAL
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA ESCOLA NORMAL
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0062 - 070 - 3920                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000161089                            DOM. BANC.:
+MATRÍCULA: 315647-2022-8-3                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PADRE BANDEIRA, 132 - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/315647-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   22,68         22,68   18      4,08           18,60        0,12          0,57
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          22,68         22,68           4,08           18,60        0,12          0,57
+AGO/22   0,00 *
+JUL/22   0,00 *
+JUN/22   0,00 *
+MAI/22   0,00 *
+ABR/22   0,00 *
+MAR/22   0,00 *
+FEV/22   0,00 *
+JAN/22   0,00 *
+DEZ/21   0,00 *
+NOV/21   0,00
+OUT/21   0,00 *
+SET/21   0,00 *
+AGO/21   0,00 *
+DIC     12,00   1,20   0,00      0
+FIC      4,00   1,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

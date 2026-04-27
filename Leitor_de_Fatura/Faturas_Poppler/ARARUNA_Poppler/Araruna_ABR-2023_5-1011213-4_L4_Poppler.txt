@@ -1,0 +1,44 @@
+PM ARARUNA EM DE PRIMEIRO GRAU SANTOS
+DUMONT
+LOC POV DE MACAPA, S/N - 58233000 - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+Abril / 2023
+5/1011213-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0000874879   Energia ativa em kWh   Ponta   18874   19239   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        365,00       0,777870        283,92       14,15         283,92   18      51,10   0,599080
+
+
+
+
+                           TOTAL:                         283,92       14,15         283,92           51,10
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS          232,81   1,0845    2,52
+COFINS       232,81   4,9955   11,63
+CMS          283,92    18,00   51,10
+DIC     24,00   0,00   0,00   0,00
+FIC      6,00   0,00   0,00   0,00
+DMIC    18,00   0,00
+DICRI   26,00
+ABR/23   365,00
+MAR/23   412,00
+FEV/23   182,00
+JAN/23   170,00
+DEZ/22   343,00
+NOV/22   405,00
+OUT/22   454,00
+SET/22   442,00
+AGO/22   357,00
+JUL/22   291,00
+JUN/22   462,00
+MAI/22   666,00
+ABR/22   760,00
+

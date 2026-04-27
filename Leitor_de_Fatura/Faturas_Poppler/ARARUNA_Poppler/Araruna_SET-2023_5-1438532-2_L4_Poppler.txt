@@ -1,0 +1,44 @@
+PM ARARUNA GARAGEM
+
+RUA PEDRO BEZERRA SILVA, S/N - 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Setembro / 2023
+5/1438532-2
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008260793   Energia ativa em kWh   Ponta   6439   6939   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        500,00       0,762410        381,20       11,68         381,20   18      68,61   0,601800
+
+
+
+
+                           TOTAL:                         381,20       11,68         381,20           68,61
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS          312,59   0,6671    2,08
+COFINS       312,59   3,0729    9,60
+CMS          381,20    18,00   68,61
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+SET/23   500,00
+AGO/23    40,00
+JUL/23   110,00
+JUN/23   106,00
+MAI/23   100,00
+ABR/23    85,00
+MAR/23   150,00
+FEV/23   116,00
+JAN/23   104,00
+DEZ/22    94,00
+NOV/22    96,00
+OUT/22    95,00
+SET/22   104,00
+

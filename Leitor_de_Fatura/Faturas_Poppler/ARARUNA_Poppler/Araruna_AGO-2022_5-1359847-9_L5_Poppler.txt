@@ -1,0 +1,47 @@
+PM ARARUNA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0062 - 070 - 2970                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008023546                            DOM. BANC.:
+MATRÍCULA: 1359847-2022-8-4                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PADRE TARGINO SOBRINHO, S/N - 58233000
+CEHAP
+ARARUNA (AG: 62)
+Agosto/2022
+5/1359847-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        199,00    0,596920    0,756230      150,49        150,49   18      27,08         123,39        0,82          3,79
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         150,49        150,49           27,08         123,39        0,82          3,79
+AGO/22   199,00
+JUL/22   191,00
+JUN/22   195,00
+MAI/22   129,00
+ABR/22    57,00
+MAR/22    52,00
+FEV/22   109,00
+JAN/22    75,00 *
+DEZ/21     0,00 *
+NOV/21    65,00
+OUT/21    79,00
+SET/21    62,00
+AGO/21    68,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

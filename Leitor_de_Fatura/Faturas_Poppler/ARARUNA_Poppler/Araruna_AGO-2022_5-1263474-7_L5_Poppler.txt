@@ -1,0 +1,47 @@
+PM ARARUNA POLICLINICA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA POLICLINICA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 040 - 4180                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008370965                            DOM. BANC.:
+MATRÍCULA: 1263474-2022-8-2                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SEVERINO CABRAL DE LUCENA, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/1263474-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        475,00    0,596920    0,756230      359,21        359,21   18      64,65         294,55        1,96          9,05
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         359,21        359,21           64,65         294,55        1,96          9,05
+AGO/22    475,00
+JUL/22    506,00
+JUN/22     828,00
+MAI/22   1.069,00
+ABR/22   1.027,00
+MAR/22   1.268,00
+FEV/22   1.131,00
+JAN/22    983,00
+DEZ/21   1.424,00
+NOV/21   1.281,00
+OUT/21   1.120,00
+SET/21     970,00
+AGO/21     830,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

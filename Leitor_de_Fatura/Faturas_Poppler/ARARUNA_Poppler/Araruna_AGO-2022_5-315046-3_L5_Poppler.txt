@@ -1,0 +1,47 @@
+PM ARARUNA MERCADO PUBLICO
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA MERCADO PUBLICO
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 014 - 0062 - 080 - 7060                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008064258                            DOM. BANC.:
+MATRÍCULA: 315046-2022-8-8                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ANTONIO CARNEIRO, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/315046-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        112,00    0,596920    0,756230       84,69         84,69   18      15,24          69,45        0,46          2,13
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          84,69         84,69           15,24          69,45        0,46          2,13
+AGO/22   112,00
+JUL/22   100,00
+JUN/22   105,00
+MAI/22   127,00
+ABR/22   127,00
+MAR/22    88,00
+FEV/22    92,00
+JAN/22   147,00
+DEZ/21   159,00
+NOV/21   147,00
+OUT/21   143,00
+SET/21   171,00
+AGO/21   196,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

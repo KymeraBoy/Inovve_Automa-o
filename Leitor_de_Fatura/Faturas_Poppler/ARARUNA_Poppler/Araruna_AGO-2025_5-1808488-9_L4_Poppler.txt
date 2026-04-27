@@ -1,0 +1,46 @@
+PM ARARUNA POSTO DE SAUDE
+
+SIT FAZ NOVA, S/N - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+Agosto / 2025
+5/1808488-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008819037   Energia ativa em kWh   Ponta   34973   35396   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH        423,00       0,776160        328,31       13,81         328,31   20      65,66   0,588270
+Adic. B. Vermelha                                             9,83        0,41           9,83   20       1,96
+Adic. B. Vermelha                                            26,60        1,12          26,60   20       5,32
+
+
+
+
+                             TOTAL:                         364,74       15,34         364,74           72,94
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         291,77    0,9383      2,73
+COFINS      291,77    4,3217     12,61
+ICMS        364,74     20,00     72,94
+DIC     20,00   0,97   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   0,97
+DICRI   26,00
+AGO/25   423,00
+JUL/25   354,00
+JUN/25   286,00
+MAI/25   354,00
+ABR/25   480,00
+MAR/25   424,00
+FEV/25   431,00
+JAN/25   408,00
+DEZ/24   456,00
+NOV/24   443,00
+OUT/24   362,00
+SET/24   354,00
+AGO/24   316,00
+

@@ -1,0 +1,44 @@
+PM ARARUNA EM SAGRADA FAMILIA
+
+AV SEMEAO LEAL, S/N - 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Abril / 2023
+5/314430-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0000625773   Energia ativa em kWh   Ponta   80790   81070   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        280,00       0,777870        217,80       10,86         217,80   18      39,20   0,599080
+
+
+
+
+                           TOTAL:                         217,80       10,86         217,80           39,20
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS          178,59   1,0845    1,94
+COFINS       178,59   4,9955    8,92
+CMS          217,80    18,00   39,20
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/23   280,00 *
+MAR/23   271,00
+FEV/23   319,00
+JAN/23   321,00
+DEZ/22     0,00 *
+NOV/22   234,00
+OUT/22   287,00
+SET/22   301,00
+AGO/22   314,00
+JUL/22   538,00
+JUN/22     0,00 *
+MAI/22   366,00
+ABR/22   218,00 *
+

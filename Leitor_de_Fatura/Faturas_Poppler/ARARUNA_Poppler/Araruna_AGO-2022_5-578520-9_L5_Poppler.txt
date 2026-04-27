@@ -1,0 +1,48 @@
+PM ARARUNA ILUMINACAO PUBLICA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA ILUMINACAO PUBLICA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0062 - 099 - 4510                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 578520-2022-8-4                                 DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/578520-9
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta     1.672,00    0,328450    0,416100      695,73        695,73   18        125,23         570,50       3,80          17,53
+0601 Consumo em kWh                             117.529,00    0,328450    0,416100   48.905,15     48.905,15   18      8.802,92      40.102,22     267,52       1.232,30
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      49.600,88     49.600,88           8.928,15      40.672,72     271,32       1.249,83
+AGO/22   117.529,00
+JUL/22   117.529,00
+JUN/22   113.738,00
+MAI/22   127.828,00
+ABR/22   123.705,00
+MAR/22   127.828,00
+FEV/22   115.458,00
+JAN/22   127.828,00
+DEZ/21   127.828,00
+NOV/21   123.705,00
+OUT/21   127.828,00
+SET/21   123.705,00
+AGO/21   127.828,00
+DIC
+FIC
+DMIC
+DICRI
+

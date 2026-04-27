@@ -1,0 +1,46 @@
+PM ARARUNA BANHEIRO PUBLICO
+
+RUA ANTONIO CARNEIRO, S/N - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+Agosto / 2025
+5/1508624-2
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0000892217   Energia ativa em kWh   Ponta   4695   4774   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH         79,00       0,776160         61,31        2,58          61,31   20      12,26   0,588270
+Adic. B. Vermelha                                             6,65        0,28           6,65   20       1,33
+Adic. B. Vermelha                                             0,88        0,04           0,88   20       0,17
+
+
+
+
+                             TOTAL:                          68,84        2,90          68,84           13,76
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          55,05    0,9383      0,52
+COFINS       55,05    4,3217      2,38
+ICMS         68,84     20,00     13,76
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+AGO/25   79,00
+JUL/25   33,00
+JUN/25   30,00
+MAI/25   38,00
+ABR/25   19,00
+MAR/25   12,00
+FEV/25   11,00
+JAN/25    8,00
+DEZ/24    4,00
+NOV/24    7,00
+OUT/24    5,00
+SET/24    5,00
+AGO/24    7,00
+

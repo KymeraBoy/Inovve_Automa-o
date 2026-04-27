@@ -1,0 +1,47 @@
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 157 - 0190                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000614000                            DOM. BANC.:
+MATRÍCULA: 662729-2022-8-8                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+LOC POV DE MACAPA, S/N
+AREA RURAL
+ARARUNA (AG: 62)
+Agosto/2022
+5/662729-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        145,00    0,596920    0,756230      109,65        109,65   18      19,73          89,91        0,60          2,76
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         109,65        109,65           19,73          89,91        0,60          2,76
+AGO/22   145,00
+JUL/22   143,00
+JUN/22   173,00
+MAI/22   173,00
+ABR/22   162,00
+MAR/22   112,00
+FEV/22    18,00
+JAN/22     6,00
+DEZ/21    36,00
+NOV/21     0,00
+OUT/21   101,00
+SET/21   100,00
+AGO/21    89,00
+DIC     24,00   0,00   0,00      0
+FIC      6,00   0,00   0,00   0,00
+DMIC    18,00   0,00
+DICRI   26,00
+

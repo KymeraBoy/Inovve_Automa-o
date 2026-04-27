@@ -1,0 +1,47 @@
+PM ARARUNA CENTRO DE TREINAMENTO PROFESSORES
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CENTRO DE TREINAMENTO PROFESSORES
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0062 - 110 - 0970                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000480385                            DOM. BANC.:
+MATRÍCULA: 677016-2022-8-3                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ARNULFO GOMES, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/677016-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        181,00    0,596920    0,756230      136,87        136,87   18      24,63         112,24        0,75          3,45
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         136,87        136,87           24,63         112,24        0,75          3,45
+AGO/22   181,00
+JUL/22   181,00
+JUN/22   196,00
+MAI/22   316,00
+ABR/22   344,00
+MAR/22   351,00
+FEV/22   344,00
+JAN/22   293,00
+DEZ/21   367,00
+NOV/21   317,00
+OUT/21   308,00
+SET/21   251,00
+AGO/21   199,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

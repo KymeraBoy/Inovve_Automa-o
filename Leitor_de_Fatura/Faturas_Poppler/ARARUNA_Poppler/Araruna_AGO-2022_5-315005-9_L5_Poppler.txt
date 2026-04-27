@@ -1,0 +1,47 @@
+PM ARARUNA SECRETARIA DE ASSISTENCIA SOCIAL
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA SECRETARIA DE ASSISTENCIA SOCIAL
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 014 - 0062 - 080 - 6740                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000231781                            DOM. BANC.:
+MATRÍCULA: 315005-2022-8-4                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ANTONIO CARNEIRO, 232 - 58233000
+ARARUNA
+ARARUNA (AG: 62)
+Agosto/2022
+5/315005-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         87,00    0,596920    0,756230       65,79         65,79   18      11,84          53,95        0,36          1,66
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          65,79         65,79           11,84          53,95        0,36          1,66
+AGO/22   87,00
+JUL/22   93,00
+JUN/22   79,00
+MAI/22   79,00
+ABR/22   83,00
+MAR/22   93,00
+FEV/22   83,00
+JAN/22   84,00
+DEZ/21   81,00
+NOV/21   81,00
+OUT/21   87,00
+SET/21   78,00
+AGO/21   96,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

@@ -1,0 +1,47 @@
+PM ARARUNA ACADEMIA DE SAUDE
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA ACADEMIA DE SAUDE
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0062 - 070 - 1023                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: N5140067350                            DOM. BANC.:
+MATRÍCULA: 2327663-2022-8-2                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PERILO DE OLIVEIRA, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/2327663-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   22,68         22,68   18      4,08           18,60        0,12          0,57
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          22,68         22,68           4,08           18,60        0,12          0,57
+AGO/22    21,00
+JUL/22    51,00
+JUN/22   150,00
+MAI/22   148,00
+ABR/22    40,00
+MAR/22     0,00 *
+FEV/22     0,00 *
+JAN/22     0,00 *
+DEZ/21
+NOV/21
+OUT/21
+SET/21
+AGO/21
+DIC
+FIC
+DMIC
+DICRI
+

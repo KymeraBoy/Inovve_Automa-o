@@ -1,0 +1,44 @@
+PM ARARUNA
+
+RUA BENEDITO FIALHO, 93 - SL 9 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Abril / 2023
+5/1418929-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008170032   Energia ativa em kWh   Ponta   346   347   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          23,33        1,16          23,33   18       4,19
+
+
+
+
+                                   TOTAL:                         23,33        1,15          23,33            4,19
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS           19,13   1,0845   0,21
+COFINS        19,13   4,9955   0,95
+CMS           23,33    18,00   4,19
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/23    1,00
+MAR/23    0,00 *
+FEV/23    0,00 *
+JAN/23    7,00
+DEZ/22    9,00
+NOV/22   11,00
+OUT/22   12,00
+SET/22   21,00
+AGO/22    5,00
+JUL/22    0,00
+JUN/22    1,00
+MAI/22    0,00 *
+ABR/22    0,00 *
+

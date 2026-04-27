@@ -1,0 +1,46 @@
+PM ARARUNA GARAGEM
+
+RUA DR JOSE TARGINO MARANHAO, S/N - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Novembro / 2024
+5/315735-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008654533   Energia ativa em kWh   Ponta   95480   96639   1
+                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh      KWH       1.159,00       0,777730        901,40       39,31         901,40   20      180,28   0,588270
+Adic. B. Amarela                                              23,47        1,02          23,47   20        4,69
+Adic. B. Vermelha                                             22,59        0,98          22,59   20        4,52
+
+
+
+
+                             TOTAL:                          947,46       41,31         947,46           189,49
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         757,95    0,9725       7,36
+COFINS      757,95    4,4795      33,95
+ICMS        947,46     20,00     189,49
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24   1.159,00 *
+OUT/24   1.017,00 *
+SET/24     748,00 *
+AGO/24     860,00 *
+JUL/24     801,00 *
+JUN/24     906,00 *
+MAI/24   1.112,00 *
+ABR/24   1.299,00 *
+MAR/24   1.238,00 *
+FEV/24   1.506,00
+JAN/24   1.289,00 *
+DEZ/23   1.062,00 *
+NOV/23   1.227,00 *
+

@@ -1,0 +1,46 @@
+PM ARARUNA TORRE EQUIPAMENTO
+
+LOT JOSE GOMES DE AZEVEDO, S/N - 58233000
+
+
+LOT JOSE GOMES NASCIMENTO
+ARARUNA (AG: 62)
+Agosto / 2025
+5/2302842-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+W5138880219   Energia ativa em kWh   Ponta   49477   50795   1
+                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh      KWH       1.318,00       0,776160      1.022,98       43,05       1.022,98   20      204,59   0,588270
+Adic. B. Vermelha                                             32,91        1,39          32,91   20        6,58
+Adic. B. Vermelha                                             78,88        3,32          78,88   20       15,78
+
+
+
+
+                             TOTAL:                        1.134,77       47,76       1.134,77           226,95
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         907,78    0,9383       8,52
+COFINS      907,78    4,3217      39,24
+ICMS      1.134,77     20,00     226,95
+DIC     20,00   0,97   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   0,97
+DICRI   26,00
+AGO/25   1.318,00
+JUL/25   1.196,00
+JUN/25   1.183,00
+MAI/25   1.360,00
+ABR/25   1.198,00
+MAR/25   1.226,00
+FEV/25   1.253,00
+JAN/25   1.195,00
+DEZ/24   1.167,00
+NOV/24   1.191,00
+OUT/24   1.301,00
+SET/24   1.175,00
+AGO/24   1.229,00
+

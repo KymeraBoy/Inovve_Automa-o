@@ -1,0 +1,47 @@
+PM ARARUNA CONSULTORIO ODONTOLOGICO
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CONSULTORIO ODONTOLOGICO
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0062 - 070 - 3700                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000812826                            DOM. BANC.:
+MATRÍCULA: 315607-2022-8-7                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA RIO BRANCO, 62 - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/315607-2
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        315,00    0,596920    0,756230      238,21        238,21   18      42,87         195,33        1,30          6,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         238,21        238,21           42,87         195,33        1,30          6,00
+AGO/22   315,00
+JUL/22   391,00
+JUN/22   397,00
+MAI/22   558,00
+ABR/22   662,00
+MAR/22   739,00
+FEV/22   675,00
+JAN/22   554,00
+DEZ/21   706,00
+NOV/21   615,00
+OUT/21   627,00
+SET/21   476,00
+AGO/21   462,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

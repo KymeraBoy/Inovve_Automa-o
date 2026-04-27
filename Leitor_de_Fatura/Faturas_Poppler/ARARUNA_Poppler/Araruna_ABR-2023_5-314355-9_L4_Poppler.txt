@@ -1,0 +1,44 @@
+PM ARARUNA ALMOXARIFADO CENTRAL
+
+RUA PRES JOAO PESSOA, 255 - 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Abril / 2023
+5/314355-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0001019427   Energia ativa em kWh   Ponta   17788   17846   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH         58,00       0,777870         45,11        2,25          45,11   18       8,11   0,599080
+
+
+
+
+                           TOTAL:                          45,11        2,25          45,11            8,11
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS           36,98   1,0845   0,40
+COFINS        36,98   4,9955   1,85
+CMS           45,11    18,00   8,11
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/23   58,00
+MAR/23   53,00
+FEV/23   45,00
+JAN/23   44,00
+DEZ/22   43,00
+NOV/22   71,00
+OUT/22   42,00
+SET/22   46,00
+AGO/22   47,00
+JUL/22   54,00
+JUN/22   34,00
+MAI/22   37,00
+ABR/22   49,00
+

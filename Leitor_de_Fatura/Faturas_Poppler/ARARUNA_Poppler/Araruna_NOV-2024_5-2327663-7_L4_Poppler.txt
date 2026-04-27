@@ -1,0 +1,46 @@
+PM ARARUNA ACADEMIA DE SAUDE
+
+RUA PERILO DE OLIVEIRA, S/N - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Novembro / 2024
+5/2327663-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5140067350   Energia ativa em kWh   Ponta   1432   1465   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH         33,00       0,777730         25,66        1,12          25,66   20       5,13   0,588270
+Adic. B. Amarela                                              0,64        0,02           0,64   20       0,13
+Adic. B. Vermelha                                             0,72        0,02           0,72   20       0,14
+
+
+
+
+                             TOTAL:                          27,02        1,16          27,02            5,40
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          21,61    0,9725      0,20
+COFINS       21,61    4,4795      0,96
+ICMS         27,02     20,00      5,40
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24   33,00 *
+OUT/24   30,00 *
+SET/24   39,00 *
+AGO/24   40,00 *
+JUL/24   40,00 *
+JUN/24   42,00 *
+MAI/24   40,00 *
+ABR/24   39,00 *
+MAR/24   38,00 *
+FEV/24   41,00
+JAN/24   40,00 *
+DEZ/23   46,00 *
+NOV/23   31,00 *
+

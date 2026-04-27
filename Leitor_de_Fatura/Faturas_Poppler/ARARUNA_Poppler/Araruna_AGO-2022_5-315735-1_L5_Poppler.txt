@@ -1,0 +1,47 @@
+PM ARARUNA GARAGEM
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA GARAGEM
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0062 - 110 - 2610                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008654533                            DOM. BANC.:
+MATRÍCULA: 315735-2022-8-6                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DR JOSE TARGINO MARANHAO, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/315735-1
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        655,00    0,596920    0,756230      495,33        495,33   18      89,15         406,17        2,71         12,48
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         495,33        495,33           89,15         406,17        2,71         12,48
+AGO/22    655,00
+JUL/22    610,00
+JUN/22     806,00
+MAI/22     918,00
+ABR/22   1.034,00
+MAR/22   1.126,00
+FEV/22     979,00
+JAN/22   1.060,00
+DEZ/21   1.302,00
+NOV/21   1.120,00
+OUT/21   1.053,00
+SET/21     921,00
+AGO/21     707,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

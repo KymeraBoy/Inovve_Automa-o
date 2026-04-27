@@ -1,0 +1,47 @@
+PM ARARUNA EM SAO LUIZ
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA EM SAO LUIZ
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 151 - 2600                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008759343                            DOM. BANC.:
+MATRÍCULA: 1095624-2022-8-6                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT ALTO GRANDE, S/N - 58233000
+AREA RURAL
+ARARUNA (AG: 62)
+Agosto/2022
+5/1095624-1
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        133,00    0,596920    0,756230      100,57        100,57   18      18,10          82,47        0,55          2,53
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         100,57        100,57           18,10          82,47        0,55          2,53
+AGO/22   133,00
+JUL/22    21,00
+JUN/22     7,00
+MAI/22    38,00
+ABR/22    31,00
+MAR/22    71,00
+FEV/22    85,00
+JAN/22   129,00
+DEZ/21   311,00
+NOV/21   302,00
+OUT/21   226,00
+SET/21    75,00
+AGO/21    66,00
+DIC     24,00   0,00   0,00      0
+FIC      6,00   0,00   0,00   0,00
+DMIC    18,00   0,00
+DICRI   26,00
+

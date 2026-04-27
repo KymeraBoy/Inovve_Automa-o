@@ -1,0 +1,44 @@
+PM ARARUNA EMEF MONS SEVERINO
+
+RUA ABELARDO T DA FONSECA, S/N - 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Abril / 2023
+5/315373-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008971255   Energia ativa em kWh   Ponta   11819   12121   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        302,00       0,777870        234,91       11,71         234,91   18      42,28   0,599080
+
+
+
+
+                           TOTAL:                         234,91       11,71         234,91           42,28
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS          192,63   1,0845    2,09
+COFINS       192,63   4,9955    9,62
+CMS          234,91    18,00   42,28
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/23   302,00
+MAR/23   274,00
+FEV/23   199,00
+JAN/23   226,00
+DEZ/22   207,00
+NOV/22   206,00
+OUT/22   183,00
+SET/22   195,00
+AGO/22   208,00
+JUL/22   182,00
+JUN/22   196,00
+MAI/22   235,00
+ABR/22   240,00
+

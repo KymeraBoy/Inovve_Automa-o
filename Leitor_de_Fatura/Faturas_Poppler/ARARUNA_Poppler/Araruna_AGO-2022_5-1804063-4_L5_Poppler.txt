@@ -1,0 +1,47 @@
+PM ARARUNA CENTRO DE REABILITACAO CER II
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CENTRO DE REABILITACAO CER II
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 040 - 4070                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008837319                            DOM. BANC.:
+MATRÍCULA: 1804063-2022-8-9                            DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MARIA DO CARMO BRANDAO, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+Agosto/2022
+5/1804063-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      2.700,00    0,596920    0,756230    2.041,83      2.041,83   18      367,52       1.674,30       11,17         51,45
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       2.041,83      2.041,83           367,52       1.674,30       11,17         51,45
+AGO/22   2.700,00
+JUL/22   2.243,00
+JUN/22   1.681,00
+MAI/22   1.569,00
+ABR/22   2.506,00
+MAR/22   3.058,00
+FEV/22   1.596,00
+JAN/22   1.243,00
+DEZ/21   1.555,00
+NOV/21   1.323,00
+OUT/21   1.113,00
+SET/21     620,00
+AGO/21     569,00
+DIC     12,00   0,00   0,00      0
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+

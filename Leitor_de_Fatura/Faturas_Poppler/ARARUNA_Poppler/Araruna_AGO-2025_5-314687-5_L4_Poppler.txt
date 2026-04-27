@@ -1,0 +1,46 @@
+PM ARARUNA EM PROF JOAO MOREIRA
+
+RUA PROF JOAO MOREIRA SOARES, S/N - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Agosto / 2025
+5/314687-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0000857804   Energia ativa em kWh   Ponta   94484   95505   1
+                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh      KWH       1.021,00       0,776160        792,46       33,35         792,46   20      158,49   0,588270
+Adic. B. Vermelha                                             18,78        0,79          18,78   20        3,75
+Adic. B. Vermelha                                             72,95        3,07          72,95   20       14,59
+
+
+
+
+                             TOTAL:                          884,19       37,21         884,19           176,83
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         707,33    0,9383       6,64
+COFINS      707,33    4,3217      30,57
+ICMS        884,19     20,00     176,83
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+AGO/25   1.021,00
+JUL/25     603,00
+JUN/25   1.126,00
+MAI/25   1.299,00
+ABR/25   1.439,00
+MAR/25   1.020,00
+FEV/25     305,00
+JAN/25    313,00
+DEZ/24     982,00
+NOV/24   1.065,00
+OUT/24   1.044,00
+SET/24     676,00
+AGO/24     268,00
+

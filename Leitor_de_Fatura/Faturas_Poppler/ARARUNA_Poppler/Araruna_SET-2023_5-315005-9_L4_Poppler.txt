@@ -1,0 +1,44 @@
+PM ARARUNA SECRETARIA DE ASSISTENCIA
+SOCIAL
+RUA ANTONIO CARNEIRO, 232 - 58233000 - 58233000
+
+
+ARARUNA
+ARARUNA (AG: 62)
+Setembro / 2023
+5/315005-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0000231781   Energia ativa em kWh   Ponta   31691   31772   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH         81,00       0,762250         61,74        1,89          61,74   18      11,11   0,601680
+
+
+
+
+                           TOTAL:                          61,74        1,89          61,74           11,11
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS           50,62   0,6671   0,34
+COFINS        50,62   3,0729   1,55
+CMS           61,74    18,00   11,11
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+SET/23   81,00
+AGO/23   71,00
+JUL/23   72,00
+JUN/23   76,00
+MAI/23   78,00
+ABR/23   73,00
+MAR/23   78,00
+FEV/23   70,00
+JAN/23   70,00
+DEZ/22   83,00
+NOV/22   85,00
+OUT/22   96,00
+SET/22   91,00
+

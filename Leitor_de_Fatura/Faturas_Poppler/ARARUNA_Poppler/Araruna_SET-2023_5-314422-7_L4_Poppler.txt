@@ -1,0 +1,44 @@
+PM ARARUNA CRECHE MARIA TECLA DA SILVA
+
+TRAV CASTRO PINTO, S/N - 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+Setembro / 2023
+5/314422-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0000325874   Energia ativa em kWh   Ponta   72661   72739   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH         78,00       0,761570         59,40        1,82          59,40   18      10,69   0,601140
+
+
+
+
+                           TOTAL:                          59,40        1,82          59,40           10,69
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS           48,70   0,6671    0,32
+COFINS        48,70   3,0729    1,50
+CMS           59,40    18,00   10,69
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+SET/23    78,00 *
+AGO/23    20,00
+JUL/23    75,00
+JUN/23    88,00
+MAI/23   111,00
+ABR/23   105,00
+MAR/23   101,00
+FEV/23    35,00
+JAN/23    26,00
+DEZ/22    93,00
+NOV/22    92,00
+OUT/22    83,00
+SET/22    98,00
+
