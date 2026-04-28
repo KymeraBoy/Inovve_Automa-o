@@ -1,0 +1,47 @@
+POCO ARTESIANO
+
+POV BEIJA FLOR DE CIMA, S/N - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Janeiro / 2023
+3/1029618-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+W6006991371   Energia ativa em kWh   Ponta   5957   6168   1
+                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                     211,00       0,656350        138,49        6,32           0,00   0        0,00   0,626440
+Subsídio                                                          4,28        0,19           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio                                                -4,09       0,00                  0        0,00
+
+
+
+
+                                 TOTAL:                         138,68        6,51           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         142,78    0,8132      1,16
+COFINS      142,78    3,7456      5,35
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+JAN/23   211,00
+DEZ/22   142,00
+NOV/22   205,00
+OUT/22   190,00
+SET/22   114,00
+AGO/22    95,00
+JUL/22    59,00
+JUN/22    34,00
+MAI/22   107,00
+ABR/22   207,00
+MAR/22   272,00
+FEV/22    83,00
+JAN/22   178,00
+

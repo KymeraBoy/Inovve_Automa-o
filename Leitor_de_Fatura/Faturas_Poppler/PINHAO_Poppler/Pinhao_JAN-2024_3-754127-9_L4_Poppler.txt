@@ -1,0 +1,47 @@
+PREFEITURA MUNICIPAL
+
+TRAV SAO DOMINGOS, S/N - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Janeiro / 2024
+3/754127-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+3002350800   Energia ativa em kWh   Ponta   32290   33967   1
+                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                      1.677,00       0,864410      1.449,63       71,39       1.449,63   19      275,42   0,657610
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                            -17,39
+
+
+
+
+                                   TOTAL:                        1.432,24       71,39       1.449,63           275,42
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS        1.174,20    1,0845      12,73
+COFINS     1.174,20    4,9955      58,66
+ICMS       1.449,63     18,00     260,93
+ICMS FCP   1.449,63      1,00      14,49
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+JAN/24   1.677,00   0,00
+DEZ/23   1.440,00   0,00
+NOV/23   1.304,00   0,00
+OUT/23   1.288,00   0,00
+SET/23   1.091,00   0,00
+AGO/23     814,00   0,00
+JUL/23     853,00   0,00
+JUN/23    904,00    0,00
+MAI/23   1.063,00   0,00
+ABR/23   1.131,00   0,00
+MAR/23   1.409,00   0,00
+FEV/23   1.385,00   0,00
+JAN/23   1.516,00   0,00
+

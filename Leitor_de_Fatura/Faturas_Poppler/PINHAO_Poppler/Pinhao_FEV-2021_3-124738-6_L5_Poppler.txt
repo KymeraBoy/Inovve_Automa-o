@@ -1,0 +1,53 @@
+ILUMINACAO PUBLICA PINHAO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0140 - 099 - 0005                             LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 124738-2021-2-6                                 DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PINHAO, S/N
+CENTRO
+PINHAO (AG: 30)
+Fevereiro/2021
+3/124738-6
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta     1.515,00    0,294530    0,305960      463,54          0,00   0       0,00          463,54       3,09          14,24
+0601 Consumo em kWh                              80.831,00    0,294530    0,305960   24.732,13          0,00   0       0,00       24.732,13     164,99         760,00
+0601 Adic. B. Amarela                                                                 1.148,86          0,00   0       0,00        1.148,86       7,66          35,30
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 12/2020                                                      240,33                 0       0,00            0,00        0,00          0,00
+0805 MULTA 12/2020                                                                      582,58                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 12/2020                                                              174,77                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      27.342,21          0,00           0,00       26.344,53     175,74         809,54
+FEV/21   80.831,00
+JAN/21   78.305,00
+DEZ/20   78.305,00
+NOV/20   75.779,00
+OUT/20   78.305,00
+SET/20   75.779,00
+AGO/20   78.305,00
+JUL/20   78.305,00
+JUN/20   75.779,00
+MAI/20   78.305,00
+ABR/20   75.779,00
+MAR/20   78.305,00
+FEV/20   73.253,00
+DIC
+FIC
+DMIC
+DICRI
+

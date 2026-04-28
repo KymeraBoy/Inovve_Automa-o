@@ -1,0 +1,51 @@
+ILUMINACAO PUBLICA PREFEITURA MUNICIPAL DE
+PINHAO
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N S/N CPREDE
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 016 - 0140 - 160 - 3630                             LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7001637020                                DOM. BANC.:
+MATRÍCULA: 908666-2022-3-7                                 DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, 00000 - CPREDE
+CENTRO
+PINHAO (AG: 30)
+Março/2022
+3/908666-1
+                                                     TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE      TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7362%)     (3,3912%)
+0601 Consumo em kWh                       3.111,00    0,319240    0,332970    1.035,91          0,00   0       0,00        1.035,91        7,62         35,13
+0601 Adic. B. Vermelha                                                          460,78          0,00   0       0,00          460,78        3,39         15,62
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 02/2022                                                               26,59                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 02/2022                                                        0,44                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                             TOTAL:       1.523,72          0,00           0,00        1.496,69       11,01         50,75
+MAR/22   3.111,00
+FEV/22   2.739,00
+JAN/22   3.236,00
+DEZ/21   3.038,00
+NOV/21   3.032,00
+OUT/21   3.021,00
+SET/21   3.481,00
+AGO/21   3.410,00
+JUL/21   3.770,00
+JUN/21   3.512,00
+MAI/21   3.431,00
+ABR/21   3.823,00
+MAR/21   3.335,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

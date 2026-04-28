@@ -1,0 +1,47 @@
+ACADEMIA DE SAUDE
+
+DOMICÍLIO DE ENTREGA
+ACADEMIA DE SAUDE
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 160 - 0029                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: E6006757796                            DOM. BANC.:
+MATRÍCULA: 1028184-2022-8-3                            DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, S/N
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Agosto/2022
+3/1028184-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        101,00    0,645820    0,818180       82,63         82,63   18      14,87          67,75        0,45          2,08
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          82,63         82,63           14,87          67,75        0,45          2,08
+AGO/22   101,00
+JUL/22   110,00
+JUN/22   109,00
+MAI/22    93,00
+ABR/22   100,00
+MAR/22   170,00
+FEV/22   192,00
+JAN/22   184,00
+DEZ/21   134,00
+NOV/21   162,00
+OUT/21   177,00
+SET/21   185,00
+AGO/21   193,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

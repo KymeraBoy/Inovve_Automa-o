@@ -1,0 +1,45 @@
+CRAS
+RUA JUSTINO PEREIRA, S/N - PODER PUBLICO - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/124883-0
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        239,00   0,530720        0,692770        165,57        165,57    18     29,80          165,57       1,59         7,33
+0601 Adic. B. Amarela                                                                 0,87          0,87    18      0,15            0,87       0,01         0,04
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              166,44        166,44           29,95          166,44       1,60         7,37
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         239
+JAN/20         225
+DEZ/19         301
+NOV/19         249
+OUT/19         254
+SET/19         226
+AGO/19         153
+JUL/19         143
+JUN/19         266
+MAI/19         372
+ABR/19         485
+MAR/19         395
+FEV/19         310
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

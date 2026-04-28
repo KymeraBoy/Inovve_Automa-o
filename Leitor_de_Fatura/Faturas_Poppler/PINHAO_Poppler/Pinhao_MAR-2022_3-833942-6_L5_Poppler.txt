@@ -1,0 +1,53 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0140 - 320 - 0134                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6016210511                            DOM. BANC.:
+MATRÍCULA: 833942-2022-3-2                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA, 00000
+AREA RURAL
+PINHAO (AG: 30)
+Março/2022
+3/833942-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,7362%)     (3,3912%)
+0601 Consumo em kWh                        963,00    0,580440    0,738320      711,00        711,00   18      127,98         583,02        4,29         19,77
+0601 Faturamento Art.113   205 kWh                                             151,35        151,35   18       27,24         124,11        0,91          4,21
+0601 Adic. B. Vermelha                                                         210,96        210,96   18       37,97         172,99        1,27          5,86
+     LANÇAMENTOS E SERVIÇOS
+0999 VALOR PARCELADO 00/2                                                     -118,99                 0         0,00           0,00        0,00          0,00
+0805 MULTA 02/2022                                                              14,07                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 02/2022                                                       0,23                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         968,62      1.073,31           193,19         880,12        6,47         29,84
+MAR/22    963,00
+FEV/22    759,00 *
+JAN/22     445,00
+DEZ/21     652,00
+NOV/21     767,00
+OUT/21   1.290,00
+SET/21     684,00 *
+AGO/21      28,00
+JUL/21     644,00 *
+JUN/21     756,00
+MAI/21   1.032,00
+ABR/21     868,00
+MAR/21     973,00
+DIC     20,00   0,00   999,00      999
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+

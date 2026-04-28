@@ -1,0 +1,44 @@
+ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, 000 - - PC LUIZ ARAUJO DE SANTANA
+CENTRO
+PINHAO
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 150 - 6080                               LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: D6082496190                               DOM. BANC.:
+MATRÍCULA: 7255979-2021-9-7                                DOM. ENT.:
+Setembro/2021
+3/7255979-4
+                                                           TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                               QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em Kwh Recuperado                  8.805,00                            6.474,07      6.474,07   18      1.165,32       5.308,59       35,41        163,13
+0601 Adic. B. Amarela                                                                  60,87         60,87   18         10,96          49,86        0,33          1,53
+0601 Adic. B. Vermelha                                                                411,71        411,71   18         74,10         337,56        2,25         10,37
+     LANÇAMENTOS E SERVIÇOS
+0603 CUSTO ADMINISTRAT. DE INSPECAO 09/2021                                           179,11
+
+
+
+
+CCI: Código de Classificação do Item                                   TOTAL:       7.125,76      6.946,65           1.250,38       5.696,01       37,99        175,03
+SET/21
+AGO/21
+JUL/21
+JUN/21
+MAI/21
+ABR/21
+MAR/21
+FEV/21
+JAN/21
+DEZ/20
+NOV/20
+OUT/20
+SET/20
+DIC
+FIC
+DMIC
+DICRI
+

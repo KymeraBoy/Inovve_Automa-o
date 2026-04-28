@@ -1,0 +1,54 @@
+DELEGACIA DE PINHAO
+
+PC LEANDRO MACIEL, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Dezembro / 2024
+3/582670-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+7005794475   Energia ativa em kWh   Ponta   61564   62300   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                            736,00       0,865760        637,20       26,02         637,20   19      121,07   0,665910
+Adic. B. Amarela                                                         2,40        0,10           2,40   19        0,45
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -9,13
+ATUALIZAÇÃO MONETÁRIA 11/2024                                            0,63
+ATUALIZAÇÃO MONETÁRIA 10/2024                                            0,60
+MULTA 11/2024                                                           13,96
+MULTA 10/2024                                                           13,53
+JUROS DE MORA 11/2024                                                    1,16
+JUROS DE MORA 10/2024                                                    1,35
+
+
+
+
+                                        TOTAL:                         661,70       26,12         639,60           121,52
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS          518,05    0,8995       4,66
+COFINS       518,05    4,1433     21,46
+ICMS         639,60     18,00     115,13
+ICMS FCP     639,60      1,00       6,39
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+DEZ/24   736,00   0,00
+NOV/24   780,00   0,00
+OUT/24   721,00   0,00
+SET/24   527,00   0,00
+AGO/24   498,00   0,00
+JUL/24   511,00   0,00
+JUN/24   510,00   0,00
+MAI/24   609,00   0,00
+ABR/24   902,00   0,00
+MAR/24   922,00   0,00
+FEV/24   841,00   0,00
+JAN/24   956,00   0,00
+DEZ/23   814,00   0,00
+

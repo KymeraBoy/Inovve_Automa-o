@@ -1,0 +1,51 @@
+PREFEITURA MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 1388                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q3002350800                            DOM. BANC.:
+MATRÍCULA: 754127-2021-9-4                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV SAO DOMINGOS, S/N
+CENTRO
+PINHAO (AG: 30)
+Setembro/2021
+3/754127-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        802,00    0,580440    0,735340      589,75        589,75   18      106,15         483,60        3,22         14,86
+0601 Adic. B. Vermelha                                                         136,82        136,82   18       24,63         112,19        0,75          3,44
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 08/2021                                                              11,25                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 08/2021                                                       0,19                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         738,01        726,57           130,78         595,79        3,97         18,30
+SET/21    802,00
+AGO/21    657,00
+JUL/21     757,00
+JUN/21     803,00
+MAI/21     930,00
+ABR/21   1.373,00
+MAR/21   1.458,00
+FEV/21   1.408,00
+JAN/21   1.313,00
+DEZ/20   1.180,00
+NOV/20     875,00
+OUT/20     637,00
+SET/20     369,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

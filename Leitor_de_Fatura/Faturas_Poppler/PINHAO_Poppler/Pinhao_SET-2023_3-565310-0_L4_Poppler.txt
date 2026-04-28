@@ -1,0 +1,48 @@
+POCO ARTESIANO MUNICIPAL
+
+POV RAJAS, S/N - SERVICO PUBLICO - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Setembro / 2023
+3/565310-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+W2003146057   Energia ativa em kWh   Ponta   10051   10066   1
+                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                               34,15        1,28           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 07/2023                                           0,01
+MULTA 07/2023                                                           0,70
+JUROS DE MORA 07/2023                                                   0,11
+
+
+
+
+                                        TOTAL:                         34,97        1,28           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          34,15    0,6671      0,23
+COFINS       34,15    3,0729      1,05
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,91   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   0,91
+DICRI   26,00
+SET/23   15,00
+AGO/23    7,00
+JUL/23    6,00
+JUN/23    2,00
+MAI/23    9,00
+ABR/23   17,00
+MAR/23   10,00
+FEV/23   14,00
+JAN/23   12,00
+DEZ/22    7,00
+NOV/22   15,00
+OUT/22   17,00
+SET/22   11,00
+

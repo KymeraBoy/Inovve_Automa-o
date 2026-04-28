@@ -1,0 +1,48 @@
+PREFEITURA MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 1388                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q3002350800                            DOM. BANC.:
+MATRÍCULA: 754127-2021-8-6                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV SAO DOMINGOS, S/N
+CENTRO
+PINHAO (AG: 30)
+Agosto/2021
+3/754127-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6755%)     (3,1114%)
+0601 Consumo em kWh                        657,00    0,580440    0,735710      483,36        483,36   18       87,00         396,35        2,67         12,33
+0601 Adic. B. Vermelha                                                          79,04         79,04   18       14,23          64,81        0,44          2,01
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         562,40        562,40           101,23         461,16        3,11         14,34
+AGO/21    657,00
+JUL/21    757,00
+JUN/21     803,00
+MAI/21     930,00
+ABR/21   1.373,00
+MAR/21   1.458,00
+FEV/21   1.408,00
+JAN/21   1.313,00
+DEZ/20   1.180,00
+NOV/20     875,00
+OUT/20     637,00
+SET/20     369,00
+AGO/20     411,00
+DIC      5,67   2,12   11,34   22,69
+FIC      3,30   2,00    6,60   13,20
+DMIC     3,29   1,92
+DICRI   12,22
+

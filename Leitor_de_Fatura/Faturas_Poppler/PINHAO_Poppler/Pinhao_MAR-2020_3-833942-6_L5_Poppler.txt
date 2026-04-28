@@ -1,0 +1,49 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 320 - 0134                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6016210511                          DOM. BANC.:
+MATRÍCULA: 833942-2020-3-6                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA, 00000
+AREA RURAL
+PINHAO (AG: 30)
+Março/2020
+3/833942-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9319%)     (4,2926%)
+0601 Consumo em kWh                        704,00    0,530720    0,691250      486,64        486,64   18      87,59         486,64        4,53         20,88
+     LANÇAMENTOS E SERVIÇOS
+0899 PARCELA COMPENSADA 01/2                                                    66,86                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         553,50        486,64           87,59         486,64        4,53         20,88
+MAR/20   704,00
+FEV/20   406,00
+JAN/20   142,00 *
+DEZ/19   265,00
+NOV/19   167,00
+OUT/19   312,00
+SET/19     0,00
+AGO/19     3,00
+JUL/19    50,00 *
+JUN/19   191,00
+MAI/19    35,00
+ABR/19     0,00 *
+MAR/19     0,00 *
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

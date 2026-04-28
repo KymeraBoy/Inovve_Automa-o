@@ -1,0 +1,51 @@
+PREFEITURA MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 145 - 1388                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q3002350800                          DOM. BANC.:
+MATRÍCULA: 754127-2020-5-4                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV SAO DOMINGOS, S/N
+CENTRO
+PINHAO (AG: 30)
+Maio/2020
+3/754127-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0647%)     (4,9040%)
+0601 Consumo em kWh                        780,00    0,530720    0,698020      544,46        544,46   18      98,00         544,46        5,79         26,70
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 03/2020                                               1,95                 0        0,00           0,00        0,00          0,00
+0805 MULTA 03/2020                                                              16,31                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2020                                                       5,98                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         568,70        544,46           98,00         544,46        5,79         26,70
+MAI/20    780,00
+ABR/20    810,00
+MAR/20   1.180,00
+FEV/20   1.384,00
+JAN/20   1.070,00
+DEZ/19   1.346,00
+NOV/19   1.029,00
+OUT/19    833,00
+SET/19     583,00
+AGO/19     558,00
+JUL/19     493,00
+JUN/19     758,00
+MAI/19   1.219,00
+DIC      5,67   0,07   11,34   22,69
+FIC      3,30   1,00    6,60   13,20
+DMIC     3,29   0,07
+DICRI   12,22
+

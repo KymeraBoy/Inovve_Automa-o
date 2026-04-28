@@ -1,0 +1,53 @@
+POCO ARTESIANO MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO MUNICIPAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
+ROTEIRO: 014 - 0140 - 300 - 0100                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: A2003761715                          DOM. BANC.:
+MATRÍCULA: 391853-2021-1-1                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA BRANCA, S/N - SERVICO PUBLICO
+AREA RURAL
+PINHAO (AG: 30)
+Janeiro/2021
+3/391853-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   25,31          0,00   0       0,00           25,31        0,16          0,77
+0601 Adic. B. Amarela                                                            0,50          0,00   0       0,00            0,50        0,00          0,01
+0601 Adic. B. Vermelha                                                           0,90          0,00   0       0,00            0,90        0,01          0,03
+0610 Subsídio                                                                    2,50          0,00   0       0,00            2,50        0,02          0,08
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                         -2,41                 0       0,00            0,00        0,00          0,00
+0904 COMPENSACAO DMIC 11/2020                                                   -0,22                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          26,58          0,00           0,00           29,21        0,19          0,89
+JAN/21   50,00 *
+DEZ/20   50,00 *
+NOV/20    0,00
+OUT/20   50,00 *
+SET/20   50,00 *
+AGO/20   50,00 *
+JUL/20   50,00 *
+JUN/20   50,00 *
+MAI/20   50,00 *
+ABR/20   50,00
+MAR/20   50,00 *
+FEV/20   50,00 *
+JAN/20   50,00 *
+DIC     11,01   6,85   22,03   44,07
+FIC      7,59   2,00   15,19   30,39
+DMIC     5,98   6,78
+DICRI   16,60
+

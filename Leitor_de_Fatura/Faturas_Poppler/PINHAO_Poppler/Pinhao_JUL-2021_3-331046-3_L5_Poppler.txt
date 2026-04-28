@@ -1,0 +1,51 @@
+POSTO MUNICIPAL DE SAUDE
+
+DOMICÍLIO DE ENTREGA
+POSTO MUNICIPAL DE SAUDE
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 014 - 0140 - 300 - 0360                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6019398413                            DOM. BANC.:
+MATRÍCULA: 331046-2021-7-2                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV RAJAS, S/N - PODER PUBLICO
+AREA RURAL
+PINHAO (AG: 30)
+Julho/2021
+3/331046-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   36,76         36,76   18      6,61           30,15        0,20          0,92
+0601 Adic. B. Vermelha                                                           5,46          5,46   18      0,98            4,49        0,03          0,14
+     LANÇAMENTOS E SERVIÇOS
+0899 AJUSTE TARIFA ICMS - RTA 2021                                               0,04                 0       0,00            0,00        0,00          0,00
+0601 AJUSTE TARIFA CONSUMO-RTA 2021                                              0,16                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          42,42         42,22           7,59           34,64        0,23          1,06
+JUL/21   31,00
+JUN/21   51,00
+MAI/21   40,00
+ABR/21   28,00
+MAR/21   12,00
+FEV/21    8,00
+JAN/21    8,00
+DEZ/20    7,00
+NOV/20   11,00
+OUT/20   11,00
+SET/20   20,00
+AGO/20   20,00
+JUL/20   19,00
+DIC     11,01   9,94   22,03   44,07
+FIC      7,59   2,00   15,19   30,39
+DMIC     5,98   6,90
+DICRI   16,60
+

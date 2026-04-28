@@ -1,0 +1,54 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 320 - 0134                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6016210511                          DOM. BANC.:
+MATRÍCULA: 833942-2020-12-7                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA, 00000
+AREA RURAL
+PINHAO (AG: 30)
+Dezembro/2020
+3/833942-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        844,00    0,535510    0,678430      572,59        572,59   18      103,07         469,53        3,13         14,42
+0601 Faturamento Art.113   596 kWh                                             404,34        404,34   18       72,78         331,56        2,21         10,19
+0601 Adic. B. Vermelha                                                          78,57         78,57   18       14,14          64,43        0,43          1,98
+     LANÇAMENTOS E SERVIÇOS
+0999 VALOR PARCELADO 00/2                                                     -319,16                 0         0,00           0,00        0,00          0,00
+0904 COMPENSACAO DMIC 10/2020                                                  -17,42                 0         0,00           0,00        0,00          0,00
+0805 MULTA 10/2020                                                               7,68                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 10/2020                                                       0,64                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         727,24      1.055,50           189,99         865,52        5,77         26,59
+DEZ/20   844,00
+NOV/20   305,00 *
+OUT/20   566,00
+SET/20    74,00
+AGO/20   158,00
+JUL/20     0,00
+JUN/20   267,00 *
+MAI/20   300,00
+ABR/20   564,00
+MAR/20   704,00
+FEV/20   406,00
+JAN/20   142,00 *
+DEZ/19   265,00
+DIC     11,01   12,43   22,03   44,07
+FIC      7,59    4,00   15,19   30,39
+DMIC     5,98   10,87
+DICRI   16,60
+

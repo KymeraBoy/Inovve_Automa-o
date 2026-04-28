@@ -1,0 +1,44 @@
+POCO ARTESIANO MUNICIPAL
+
+POV DIOGO, 0 - POCO ARTESIANO - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Abril / 2023
+3/391849-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+W2002777771   Energia ativa em kWh   Ponta   9130,833333 9324,833333   1
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              194,00       0,688790        133,62        8,12           0,00   0        0,00   0,646920
+
+
+
+
+                          TOTAL:                         133,62        8,12           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         133,62    1,0845      1,45
+COFINS      133,62    4,9955      6,67
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+ABR/23   194,00 *
+MAR/23   183,83 *
+FEV/23   174,00 *
+JAN/23   176,00 *
+DEZ/22   169,00 *
+NOV/22   169,00 *
+OUT/22   189,00 *
+SET/22   244,00 *
+AGO/22   229,00 *
+JUL/22   215,00
+JUN/22   206,00 *
+MAI/22   197,00 *
+ABR/22   188,00 *
+

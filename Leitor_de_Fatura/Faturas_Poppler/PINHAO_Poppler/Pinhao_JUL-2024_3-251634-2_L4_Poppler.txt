@@ -1,0 +1,48 @@
+CASA DE FARINHA COMUNITARIA
+
+POV BEIJA FLOR DE BAIXO, S/N - PODER PUBLICO - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Julho / 2024
+3/251634-2
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+3003681043   Energia ativa em kWh   Ponta   1033   1033   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          85,40        2,58          85,40   19      16,22
+Adic. B. Amarela                                                   2,00        0,06           2,00   19       0,38
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                           -1,04
+
+
+
+
+                                   TOTAL:                         86,36        2,64          87,40           16,60
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           70,79    0,6671      0,47
+COFINS        70,79    3,0729      2,17
+ICMS          87,40     18,00     15,73
+ICMS FCP      87,40      1,00      0,87
+DIC     20,00   3,40   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+JUL/24   0,00 *   0,00
+JUN/24   0,00 *   0,00
+MAI/24   0,00 *   0,00
+ABR/24   0,00 *   0,00
+MAR/24   0,00 *   0,00
+FEV/24   0,00 *   0,00
+JAN/24   0,00 *   0,00
+DEZ/23   0,00 *   0,00
+NOV/23   0,00 *   0,00
+OUT/23   0,00     0,00
+SET/23   0,00 *   0,00
+AGO/23   0,00 *   0,00
+JUL/23   0,00 *   0,00
+

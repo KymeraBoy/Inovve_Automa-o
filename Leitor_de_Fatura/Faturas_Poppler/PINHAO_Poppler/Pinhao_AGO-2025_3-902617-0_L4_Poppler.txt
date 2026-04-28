@@ -1,0 +1,51 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+AV GOV JOSE ROLLEMBERG LEITE, 0 - 49517000
+
+
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Agosto / 2025
+3/902617-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+LIGAÇÃO: TRIFASICO
+7002418022   Energia ativa em kWh   Ponta   7818   10038   1
+                                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                  Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                  KWH       2.220,00       0,415270        921,91       51,98           0,00   0        0,00   0,391860
+Adic. B. Vermelha                                                         19,67         1,11          0,00   0        0,00
+Adic. B. Vermelha                                                        150,59        8,49           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 07/2025                                                      1,54        0,00           0,00            0,00
+MULTA 07/2025                                                             18,48        0,00           0,00            0,00
+ATUALIZAÇÃO MONETÁRIA 07/2025                                              0,36        0,00           0,00            0,00
+IMPOSTO DE RENDA PPE/PPM                                                  -14,05       0,00           0,00            0,00
+
+
+
+
+                                         TOTAL:                        1.098,50       61,58           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.092,17    1,0058     10,98
+COFINS    1.092,17    4,6328     50,60
+ICMS          0,00       0,00     0,00
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+AGO/25   2.220,00
+JUL/25   2.032,00
+JUN/25   2.068,00
+MAI/25   2.161,00
+ABR/25   2.275,00
+MAR/25   2.147,00
+FEV/25   2.041,00
+JAN/25   2.159,00
+DEZ/24   2.000,00
+NOV/24   2.206,00
+OUT/24   2.197,00
+SET/24   2.342,00
+AGO/24   2.626,00
+

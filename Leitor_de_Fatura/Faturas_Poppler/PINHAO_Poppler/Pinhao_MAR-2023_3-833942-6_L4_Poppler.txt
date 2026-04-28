@@ -1,0 +1,48 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+POV LAGOA, 0 - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Março / 2023
+3/833942-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+W6016210511   Energia ativa em kWh   Ponta   25304 25908,916667   1   604,9
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                            604,92       0,838560        507,26       25,29         507,26   18      91,30   0,645820
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 02/2023                                            0,08        0,00                  0        0,00
+MULTA 02/2023                                                           10,26        0,00                  0        0,00
+JUROS DE MORA 02/2023                                                    0,17        0,00                  0        0,00
+
+
+
+
+                                        TOTAL:                         517,77       25,29         507,26           91,30
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         415,95    1,0845      4,51
+COFINS      415,95    4,9955     20,78
+ICMS        507,26     18,00     91,30
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+MAR/23   604,92 *
+FEV/23   617,00 *
+JAN/23   604,00 *
+DEZ/22   403,00
+NOV/22    50,00 *
+OUT/22     1,00
+SET/22   779,00 *
+AGO/22   723,00 *
+JUL/22   717,00 *
+JUN/22   720,00
+MAI/22   744,00 *
+ABR/22   889,00
+MAR/22   963,00
+

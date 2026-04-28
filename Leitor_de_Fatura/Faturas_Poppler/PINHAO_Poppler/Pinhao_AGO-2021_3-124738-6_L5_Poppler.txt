@@ -1,0 +1,50 @@
+ILUMINACAO PUBLICA PINHAO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA PINHAO
+
+
+(AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0140 - 099 - 0005                             LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 124738-2021-8-3                                 DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PINHAO, S/N
+CENTRO
+PINHAO (AG: 30)
+Agosto/2021
+3/124738-6
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6755%)     (3,1114%)
+0601 Consumo kWh - Ligação Provisória - Ponta     2.290,00    0,319240    0,331800      759,83          0,00   0       0,00          759,83       5,13          23,64
+0601 Consumo em kWh                              72.234,00    0,319240    0,331800   23.967,61          0,00   0       0,00       23.967,61     161,90         745,72
+0601 Adic. B. Vermelha                                                                7.352,23          0,00   0       0,00        7.352,23      49,66         228,76
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      32.079,67          0,00           0,00       32.079,67     216,69         998,12
+AGO/21   72.234,00
+JUL/21   72.234,00
+JUN/21   71.367,00
+MAI/21   73.746,00
+ABR/21   71.367,00
+MAR/21   78.305,00
+FEV/21   80.831,00
+JAN/21   78.305,00
+DEZ/20   78.305,00
+NOV/20   75.779,00
+OUT/20   78.305,00
+SET/20   75.779,00
+AGO/20   78.305,00
+DIC
+FIC
+DMIC
+DICRI
+

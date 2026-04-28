@@ -1,0 +1,47 @@
+CRAS
+
+DOMICÍLIO DE ENTREGA
+CRAS
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 140 - 2676                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W3003262918                          DOM. BANC.:
+MATRÍCULA: 124883-2020-3-0                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JUSTINO PEREIRA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Março/2020
+3/124883-0
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9319%)     (4,2926%)
+0601 Consumo em kWh                        185,00    0,530720    0,691250      127,88        127,88   18      23,01         127,88        1,19          5,48
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         127,88        127,88           23,01         127,88        1,19          5,48
+MAR/20   185,00
+FEV/20   239,00
+JAN/20   225,00
+DEZ/19   301,00
+NOV/19   249,00
+OUT/19   254,00
+SET/19   226,00
+AGO/19   153,00
+JUL/19   143,00
+JUN/19   266,00
+MAI/19   372,00
+ABR/19   485,00
+MAR/19   395,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

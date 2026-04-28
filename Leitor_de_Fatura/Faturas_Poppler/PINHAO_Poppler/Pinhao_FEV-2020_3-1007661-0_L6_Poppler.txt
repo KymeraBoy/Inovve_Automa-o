@@ -1,0 +1,45 @@
+ILUMINACAO PUBLICA DE PINHAO
+PINHAO, 000 - TREVO PARA FREI PAULO - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/1007661-0
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+Classe/Subcls.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+LIGAÇÃO: BIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        388,00   0,291900        0,308530        119,71          0,00     0      0,00          119,71       1,15         5,30
+0601 Adic. B. Amarela                                                                 1,51          0,00     0      0,00            1,51       0,01         0,07
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              121,22          0,00            0,00          121,22       1,15         5,37
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         388
+JAN/20         390
+DEZ/19         373
+NOV/19         411
+OUT/19         401
+SET/19         436
+AGO/19         402
+JUL/19         413
+JUN/19         476
+MAI/19         410
+ABR/19         412
+MAR/19         347
+FEV/19         307
+DIC MENSAL       11,01   0,00
+DIC TRIMESTRAL   22,03
+DIC ANUAL        44,07
+FIC MENSAL        7,59   0,00
+FIC TRIMESTRAL   15,19
+FIC ANUAL        30,39
+DMIC              5,98   0,00
+DICRI            16,60
+

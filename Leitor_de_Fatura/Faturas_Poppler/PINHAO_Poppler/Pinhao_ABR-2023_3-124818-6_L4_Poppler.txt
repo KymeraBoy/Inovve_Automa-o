@@ -1,0 +1,45 @@
+SECRETARIA MUNICIPAL DE ASSIST SOCIAL
+
+TRAV MUNICIPAL, 0012 - FUNDO DA - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Abril / 2023
+3/124818-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+2005934479   Energia ativa em kWh   Ponta   38848   38857   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          42,05        2,09          42,05   18       7,56
+
+
+
+
+                                   TOTAL:                         42,05        2,09          42,05            7,56
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           34,47    1,0845      0,37
+COFINS        34,47    4,9955      1,72
+ICMS          42,05     17,00      7,14
+ICMS FCP      42,05      1,00      0,42
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+ABR/23    9,00
+MAR/23   10,00
+FEV/23   14,00
+JAN/23    5,00
+DEZ/22    6,00
+NOV/22    6,00
+OUT/22    5,00
+SET/22    3,00
+AGO/22    7,00
+JUL/22   12,00
+JUN/22    5,00
+MAI/22    5,00
+ABR/22    8,00
+

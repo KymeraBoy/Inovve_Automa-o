@@ -1,0 +1,50 @@
+POCO ARTESIANO
+
+SIT SERRA SOLTEIRA PINHAO, SN - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Maio / 2025
+3/1718081-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+W6192960933   Energia ativa em kWh   Ponta   74   95   1
+                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                               37,00        1,39           0,00   0        0,00
+Adic. B. Amarela                                                        0,78        0,02           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                -0,47
+ATUALIZAÇÃO MONETÁRIA 03/2025                                           0,10
+MULTA 03/2025                                                           0,70
+JUROS DE MORA 03/2025                                                   0,08
+
+
+
+
+                                        TOTAL:                         38,19        1,41           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          37,78    0,6671      0,25
+COFINS       37,78    3,0729      1,16
+ICMS          0,00       0,00     0,00
+DIC     20,00   2,14   999,00   999,00
+FIC      6,00   2,00   999,00   999,00
+DMIC    15,00   1,72
+DICRI   26,00
+MAI/25   21,00
+ABR/25    5,00
+MAR/25    0,00 *
+FEV/25    0,00 *
+JAN/25    0,00 *
+DEZ/24
+NOV/24
+OUT/24
+SET/24
+AGO/24
+JUL/24
+JUN/24
+MAI/24
+

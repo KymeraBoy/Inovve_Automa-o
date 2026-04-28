@@ -1,0 +1,50 @@
+POCO ARTESIANO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+ROTEIRO: 016 - 0140 - 140 - 7363                          LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7009825259                             DOM. BANC.:
+MATRÍCULA: 1200773-2022-7-5                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, 000
+CENTRO
+PINHAO (AG: 30)
+Julho/2022
+3/1200773-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7681%)     (3,5377%)
+0601 Custo de Disponibilidade                                                   67,14          0,00   0       0,00           67,14        0,52          2,37
+0610 Subsídio                                                                    2,08          0,00   0       0,00            2,08        0,01          0,07
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                         -1,99                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          67,23          0,00           0,00           69,22        0,53          2,44
+JUL/22    2,00
+JUN/22    6,00
+MAI/22    8,00
+ABR/22   13,00
+MAR/22   48,00
+FEV/22   15,00
+JAN/22    0,00
+DEZ/21    0,00
+NOV/21    0,00
+OUT/21    0,00
+SET/21    0,00
+AGO/21    0,00
+JUL/21    3,00
+DIC
+FIC
+DMIC
+DICRI
+

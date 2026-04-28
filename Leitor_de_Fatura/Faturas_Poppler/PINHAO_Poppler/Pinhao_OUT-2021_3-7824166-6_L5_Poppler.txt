@@ -1,0 +1,41 @@
+ILUMINACAO PUBLICA PINHAO
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PINHAO, 0 - - PINHAO
+CENTRO
+PINHAO
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+ROTEIRO: 088 - 0140 - 099 - 0005                        LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 0                                     DOM. BANC.:
+MATRÍCULA: 7824166-2021-10-1                          DOM. ENT.:
+Outubro/2021
+3/7824166-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.    PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)       (%)            (%)
+     LANÇAMENTOS E SERVIÇOS
+0899 PARCELAMENTO DEB. 02/3                                                 17.240,52
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:      17.240,52          0,00           0,00            0,00       0,00          0,00
+OUT/21
+SET/21
+AGO/21
+JUL/21
+JUN/21
+MAI/21
+ABR/21
+MAR/21
+FEV/21
+JAN/21
+DEZ/20
+NOV/20
+OUT/20
+DIC
+FIC
+DMIC
+DICRI
+

@@ -1,0 +1,48 @@
+ESCOLA MUN JOSE MESSIAS FEITOSA
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUN JOSE MESSIAS FEITOSA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 320 - 0342                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5017585996                          DOM. BANC.:
+MATRÍCULA: 391858-2020-12-9                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA, S/N
+AREA RURAL
+PINHAO (AG: 30)
+Dezembro/2020
+3/391858-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         58,00    0,535510    0,678430       39,34         39,34   18      7,08           32,26        0,21          0,99
+0601 Adic. B. Vermelha                                                           3,63          3,63   18      0,65            2,98        0,02          0,09
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          42,97         42,97           7,73           35,24        0,23          1,08
+DEZ/20    58,00
+NOV/20   104,00
+OUT/20    64,00
+SET/20    82,00
+AGO/20    58,00
+JUL/20     1,00
+JUN/20    38,00 *
+MAI/20    37,00 *
+ABR/20    88,00
+MAR/20    33,00
+FEV/20    10,00
+JAN/20     0,00 *
+DEZ/19     5,00
+DIC     11,01   1,56   22,03   44,07
+FIC      7,59   3,00   15,19   30,39
+DMIC     5,98   1,27
+DICRI   16,60
+

@@ -1,0 +1,48 @@
+ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
+RUA SIMAO DIAS S/N S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 150 - 6080                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: D6082496190                            DOM. BANC.:
+MATRÍCULA: 741477-2022-3-0                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, 000
+CENTRO
+PINHAO (AG: 30)
+Março/2022
+3/741477-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7362%)     (3,3912%)
+0601 Consumo em kWh                        193,00    0,580440    0,738320      142,49        142,49   18      25,65         116,84        0,86          3,96
+0601 Adic. B. Vermelha                                                          34,86         34,86   18       6,27          28,58        0,21          0,97
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         177,35        177,35           31,92         145,42        1,07          4,93
+MAR/22   193,00
+FEV/22    97,00
+JAN/22    77,00
+DEZ/21    88,00
+NOV/21    83,00
+OUT/21    88,00
+SET/21    84,00
+AGO/21   118,00
+JUL/21   119,00
+JUN/21   128,00
+MAI/21   127,00
+ABR/21   111,00
+MAR/21    87,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

@@ -1,0 +1,47 @@
+QUADRA DE ESPORTES COLEGIO JOAO LIMA
+FEITOSA
+PC SEN LOURIVAL BATISTA, 0 - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Maio / 2025
+3/1239076-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+LIGAÇÃO: TRIFASICO
+7021409024   Energia ativa em kWh   Ponta   2480   2515   1
+                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                        35,00       0,407070         14,24        0,53           0,00   0        0,00   0,391860
+Adic. B. Amarela                                                    0,64        0,02           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                            -0,17
+
+
+
+
+                                   TOTAL:                          14,71        0,55           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          14,88    0,6671      0,09
+COFINS       14,88    3,0729      0,46
+ICMS          0,00       0,00     0,00
+DIC     10,00   2,14   999,00   999,00
+FIC      4,00   2,00   999,00   999,00
+DMIC     7,00   1,72
+DICRI   13,00
+MAI/25    35,00
+ABR/25    97,00
+MAR/25     6,00
+FEV/25    30,00
+JAN/25   312,00
+DEZ/24     0,00
+NOV/24     0,00
+OUT/24     0,00
+SET/24     0,00
+AGO/24     0,00
+JUL/24     0,00 *
+JUN/24     0,00 *
+MAI/24   100,00 *
+

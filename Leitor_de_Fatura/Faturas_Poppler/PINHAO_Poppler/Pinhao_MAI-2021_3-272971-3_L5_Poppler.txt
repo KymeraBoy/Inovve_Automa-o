@@ -1,0 +1,49 @@
+GINASIO DE ESPORTES
+
+DOMICÍLIO DE ENTREGA
+GINASIO DE ESPORTES
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 140 - 7440                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: B3001240501                            DOM. BANC.:
+MATRÍCULA: 272971-2021-5-6                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, S/N
+CENTRO
+PINHAO (AG: 30)
+Maio/2021
+3/272971-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      1.710,00    0,580440    0,735340    1.257,45      1.257,45   18      226,34       1.031,11        6,87         31,69
+0601 Adic. B. Amarela                                                            3,01          3,01   18        0,54           2,46        0,02          0,07
+0601 Adic. B. Vermelha                                                          80,96         80,96   18       14,57          66,39        0,44          2,04
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.341,42      1.341,42           241,45       1.099,96        7,33         33,80
+MAI/21   1.710,00
+ABR/21   2.217,00
+MAR/21   2.040,00
+FEV/21   2.141,00
+JAN/21     319,00
+DEZ/20       0,00
+NOV/20   1.084,00 *
+OUT/20   1.591,00
+SET/20   1.992,00
+AGO/20   1.698,00
+JUL/20     129,00
+JUN/20       0,00
+MAI/20      83,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

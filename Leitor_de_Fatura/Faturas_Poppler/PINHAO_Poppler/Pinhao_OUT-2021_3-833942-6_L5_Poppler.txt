@@ -1,0 +1,51 @@
+PREFEITURA MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0140 - 320 - 0134                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6016210511                            DOM. BANC.:
+MATRÍCULA: 833942-2021-10-9                            DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA, 00000
+AREA RURAL
+PINHAO (AG: 30)
+Outubro/2021
+3/833942-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      1.290,00    0,580440    0,735340      948,60        948,60   18      170,75         777,85        5,19         23,90
+0601 Faturamento Art.113  692 kWh                                              508,86        508,86   18       91,59         417,27        2,78         12,82
+0601 Adic. B. Vermelha                                                         356,55        356,55   18       64,18         292,37        1,95          8,98
+     LANÇAMENTOS E SERVIÇOS
+0999 VALOR PARCELADO 00/2                                                     -401,66                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.412,35      1.814,01           326,52       1.487,49        9,92         45,70
+OUT/21   1.290,00
+SET/21     684,00 *
+AGO/21      28,00
+JUL/21     644,00 *
+JUN/21     756,00
+MAI/21   1.032,00
+ABR/21     868,00
+MAR/21    973,00
+FEV/21     951,00
+JAN/21   1.147,00
+DEZ/20     844,00
+NOV/20     305,00 *
+OUT/20     566,00
+DIC     11,01   1,98   22,03   44,07
+FIC      7,59   1,00   15,19   30,39
+DMIC     5,98   1,98
+DICRI   16,60
+

@@ -1,0 +1,51 @@
+CASA DE FARINHA COMUNITARIA
+
+DOMICÍLIO DE ENTREGA
+CASA DE FARINHA COMUNITARIA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 420 - 0968                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: A3003681043                          DOM. BANC.:
+MATRÍCULA: 251634-2020-5-7                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV BEIJA FLOR DE BAIXO, S/N - PODER PUBLICO
+AREA RURAL
+PINHAO (AG: 30)
+Maio/2020
+3/251634-2
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0647%)     (4,9040%)
+0601 Custo de Disponibilidade                                                   69,80         69,80   18      12,56          69,80        0,74          3,42
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 03/2020                                               0,16                 0        0,00           0,00        0,00          0,00
+0805 MULTA 03/2020                                                               1,38                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2020                                                       0,51                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          71,85         69,80           12,56          69,80        0,74          3,42
+MAI/20     0,00 *
+ABR/20   100,00 *
+MAR/20     0,00 *
+FEV/20     0,00 *
+JAN/20     0,00 *
+DEZ/19     0,00 *
+NOV/19     0,00 *
+OUT/19   100,00 *
+SET/19     0,00 *
+AGO/19     0,00
+JUL/19     0,00 *
+JUN/19     0,00 *
+MAI/19     0,00 *
+DIC     11,01   3,94   22,03   44,07
+FIC      7,59   2,00   15,19   30,39
+DMIC     5,98   0,07
+DICRI   16,60
+

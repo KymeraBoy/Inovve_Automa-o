@@ -1,0 +1,44 @@
+CENTRO DE FISIOTERAPIA
+
+RUA SIMAO DIAS, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Outubro / 2022
+3/124812-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+6006676613   Energia ativa em kWh   Ponta   14305   14597   1
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              292,00       0,837360        244,51       11,92         244,51   18      44,01   0,645820
+
+
+
+
+                          TOTAL:                         244,51       11,92         244,51           44,01
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         200,49    1,0605      2,13
+COFINS      200,49    4,8848      9,79
+ICMS        244,51     18,00     44,01
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+OUT/22   292,00
+SET/22   276,00
+AGO/22   254,00
+JUL/22   193,00
+JUN/22   271,00
+MAI/22   271,00
+ABR/22   400,00
+MAR/22   388,00
+FEV/22   371,00
+JAN/22   313,00
+DEZ/21   356,00
+NOV/21   331,00
+OUT/21   413,00
+

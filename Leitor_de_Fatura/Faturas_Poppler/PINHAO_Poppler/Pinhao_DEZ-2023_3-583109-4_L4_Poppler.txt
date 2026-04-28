@@ -1,0 +1,51 @@
+ILUM PUBL PREF DE PINHAO
+
+PC JOAO BARBOSA SOUZA, S/N - CPREDE - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Dezembro / 2023
+3/583109-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+LIGAÇÃO: BIFASICO
+6007969240   Energia ativa em kWh   Ponta   32680   32956   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                            275,00       0,385080        105,90        6,44           0,00   0        0,00   0,361680
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -1,44
+ATUALIZAÇÃO MONETÁRIA 10/2023                                            0,06
+MULTA 11/2023                                                            1,67
+MULTA 10/2023                                                            1,67
+JUROS DE MORA 11/2023                                                    0,03
+JUROS DE MORA 10/2023                                                    0,28
+
+
+
+
+                                        TOTAL:                         108,17        6,44           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         105,90    1,0845      1,15
+COFINS      105,90    4,9955      5,29
+ICMS          0,00       0,00     0,00
+DIC     10,00   1,02   999,00   999,00
+FIC      4,00   1,00   999,00   999,00
+DMIC     7,00   1,02
+DICRI   13,00
+DEZ/23   275,00
+NOV/23   222,00
+OUT/23   225,00
+SET/23   246,00
+AGO/23   413,00
+JUL/23   199,00
+JUN/23   212,00
+MAI/23   233,00
+ABR/23   274,00
+MAR/23   288,00
+FEV/23   276,00
+JAN/23   280,00
+DEZ/22   213,00
+

@@ -1,0 +1,49 @@
+QUADRA DE ESPORTES COLEGIO JOAO LIMA FEITOSA
+
+DOMICÍLIO DE ENTREGA
+QUADRA DE ESPORTES COLEGIO JOAO LIMA FEITOSA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 150 - 1806                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: E7021409024                          DOM. BANC.:
+MATRÍCULA: 1239076-2021-1-3                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC SEN LOURIVAL BATISTA, 00
+CENTRO
+PINHAO (AG: 30)
+Janeiro/2021
+3/1239076-1
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   67,84         67,84   18      12,21          55,63        0,37          1,70
+0601 Adic. B. Amarela                                                            1,51          1,51   18       0,27           1,24        0,01          0,04
+0601 Adic. B. Vermelha                                                           0,87          0,87   18       0,15           0,71        0,00          0,02
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          70,22         70,22           12,63          57,58        0,38          1,76
+JAN/21    98,00
+DEZ/20   304,00
+NOV/20   239,00
+OUT/20   198,00
+SET/20   371,00
+AGO/20
+JUL/20
+JUN/20
+MAI/20
+ABR/20
+MAR/20
+FEV/20
+JAN/20
+DIC
+FIC
+DMIC
+DICRI
+

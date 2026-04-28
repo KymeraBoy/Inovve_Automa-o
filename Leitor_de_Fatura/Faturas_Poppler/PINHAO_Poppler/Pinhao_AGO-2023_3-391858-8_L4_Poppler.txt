@@ -1,0 +1,48 @@
+ESCOLA MUN JOSE MESSIAS FEITOSA
+
+POV LAGOA, S/N - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Agosto / 2023
+3/391858-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5021070855   Energia ativa em kWh   Ponta   4012   4012   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          25,30        0,77          25,30   19       4,80
+LANÇAMENTOS E SERVIÇOS
+MULTA 06/2023                                                      0,52
+JUROS DE MORA 06/2023                                              0,10
+
+
+
+
+                                   TOTAL:                         25,92        0,77          25,30            4,80
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           20,48    0,6671      0,14
+COFINS        20,48    3,0729      0,63
+ICMS          25,30     18,00      4,55
+ICMS FCP      25,30      1,00      0,25
+DIC     20,00   6,94   999,00   999,00
+FIC      6,00   2,00   999,00   999,00
+DMIC    15,00   6,43
+DICRI   26,00
+AGO/23   0,00 *
+JUL/23   0,00 *
+JUN/23   0,00 *
+MAI/23   0,00 *
+ABR/23   0,00 *
+MAR/23   0,00 *
+FEV/23   0,00 *
+JAN/23   0,00 *
+DEZ/22   0,00 *
+NOV/22   0,00
+OUT/22   0,00 *
+SET/22   0,00 *
+AGO/22   0,00 *
+

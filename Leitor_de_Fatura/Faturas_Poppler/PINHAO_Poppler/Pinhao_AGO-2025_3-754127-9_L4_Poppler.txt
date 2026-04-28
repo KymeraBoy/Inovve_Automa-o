@@ -1,0 +1,52 @@
+PREFEITURA MUNICIPAL
+
+TRAV SAO DOMINGOS, S/N - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Agosto / 2025
+3/754127-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+3002350800   Energia ativa em kWh   Ponta   51272   51873   1
+                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                  Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                  KWH        601,00       0,932140        560,22       25,58         560,22   19      106,44   0,712470
+Adic. B. Vermelha                                                         6,59        0,30           6,59   19        1,25
+Adic. B. Vermelha                                                        50,29        2,30          50,29   19        9,55
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 07/2025                                                     0,88        0,00           0,00             0,00
+MULTA 07/2025                                                            10,51        0,00           0,00             0,00
+ATUALIZAÇÃO MONETÁRIA 07/2025                                             0,20        0,00           0,00             0,00
+IMPOSTO DE RENDA PPE/PPM                                                  -7,93       0,00           0,00             0,00
+
+
+
+
+                                         TOTAL:                         620,76       28,18         617,10           117,24
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS          499,83    1,0058      5,02
+COFINS       499,83    4,6328     23,16
+ICMS         617,10     18,00     111,08
+ICMS FCP     617,10      1,00       6,16
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+AGO/25    601,00
+JUL/25    540,00
+JUN/25     589,00
+MAI/25     880,00
+ABR/25   1.075,00
+MAR/25   1.024,00
+FEV/25   1.169,00
+JAN/25   1.104,00
+DEZ/24   1.008,00
+NOV/24     864,00
+OUT/24     904,00
+SET/24     720,00
+AGO/24     711,00
+

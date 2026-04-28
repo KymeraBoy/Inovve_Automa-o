@@ -1,0 +1,49 @@
+POCO ARTESIANO POV BEIJA FLOR
+
+POV BEIJA FLOR, S/N - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Abril / 2025
+3/1047978-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+6006999455   Energia ativa em kWh   Ponta   5146   5205   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                             59,00       0,712360         42,02        2,39           0,00   0        0,00   0,671850
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -0,53
+ATUALIZAÇÃO MONETÁRIA 02/2025                                            0,08
+MULTA 02/2025                                                            0,80
+JUROS DE MORA 02/2025                                                    0,07
+
+
+
+
+                                        TOTAL:                          42,44        2,39           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          42,02    1,0147      0,43
+COFINS       42,02    4,6737      1,96
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+ABR/25   59,00
+MAR/25   51,00
+FEV/25   57,00
+JAN/25   64,00
+DEZ/24   72,00
+NOV/24   84,00
+OUT/24   55,00
+SET/24    4,00
+AGO/24   50,00
+JUL/24   52,00
+JUN/24   15,00
+MAI/24   22,00
+ABR/24   61,00
+

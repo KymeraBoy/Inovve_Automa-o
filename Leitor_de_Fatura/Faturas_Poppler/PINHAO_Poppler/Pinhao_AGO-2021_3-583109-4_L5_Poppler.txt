@@ -1,0 +1,48 @@
+ILUM PUBL PREF DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+ILUM PUBL PREF DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 016 - 0140 - 145 - 1363                             LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: N6007969240                                DOM. BANC.:
+MATRÍCULA: 583109-2021-8-1                                 DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC JOAO BARBOSA SOUZA, S/N - CPREDE
+CENTRO
+PINHAO (AG: 30)
+Agosto/2021
+3/583109-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6755%)     (3,1114%)
+0601 Consumo em kWh                        464,00    0,319240    0,331800      153,95          0,00   0       0,00          153,95        1,03          4,79
+0601 Adic. B. Vermelha                                                          45,77          0,00   0       0,00           45,77        0,31          1,42
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         199,72          0,00           0,00          199,72        1,34          6,21
+AGO/21   464,00
+JUL/21   539,00
+JUN/21   366,00
+MAI/21   516,00
+ABR/21   516,00
+MAR/21   372,00
+FEV/21   406,00
+JAN/21   370,00
+DEZ/20   430,00
+NOV/20   405,00
+OUT/20   439,00
+SET/20   423,00
+AGO/20   465,00
+DIC      5,67   2,12   11,34   22,69
+FIC      3,30   2,00    6,60   13,20
+DMIC     3,29   1,92
+DICRI   12,22
+

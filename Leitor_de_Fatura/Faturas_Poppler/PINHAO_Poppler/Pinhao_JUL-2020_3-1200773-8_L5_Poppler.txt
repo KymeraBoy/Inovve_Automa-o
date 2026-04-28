@@ -1,0 +1,51 @@
+POCO ARTESIANO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
+ROTEIRO: 016 - 0140 - 140 - 7363                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7009825259                          DOM. BANC.:
+MATRÍCULA: 1200773-2020-7-9                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, 000
+CENTRO
+PINHAO (AG: 30)
+Julho/2020
+3/1200773-8
+                                                           TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                               QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9064%)     (4,1747%)
+0601 Custo de Disponibilidade                                                          50,96          0,00   0       0,00           50,96        0,46          2,13
+0610 Subsídio                                                                           5,35          0,00   0       0,00            5,35        0,05          0,22
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                                -5,08                 0       0,00            0,00        0,00          0,00
+0999 INDENIZ VIOL.PZO VIST AREA URB 04/2020                                           -29,75                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                   TOTAL:          21,48          0,00           0,00           56,31        0,51          2,35
+JUL/20    1,00
+JUN/20    1,00
+MAI/20   18,00
+ABR/20
+MAR/20
+FEV/20
+JAN/20
+DEZ/19
+NOV/19
+OUT/19
+SET/19
+AGO/19
+JUL/19
+DIC
+FIC
+DMIC
+DICRI
+

@@ -1,0 +1,52 @@
+POCO ARTESIANO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO
+RUA SIMAO DIAS S/N S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+ROTEIRO: 016 - 0140 - 140 - 7363                          LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7009825259                             DOM. BANC.:
+MATRÍCULA: 1200773-2021-12-7                            DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, 000
+CENTRO
+PINHAO (AG: 30)
+Dezembro/2021
+3/1200773-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   56,67          0,00   0       0,00           56,67        0,38          1,74
+0601 Adic. B. Amarela                                                            2,50          0,00   0       0,00            2,50        0,02          0,07
+0601 Adic. B. Vermelha                                                          12,24          0,00   0       0,00           12,24        0,08          0,38
+0610 Subsídio                                                                    3,62          0,00   0       0,00            3,62        0,02          0,11
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                         -3,48                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          71,55          0,00           0,00           75,03        0,50          2,30
+DEZ/21     0,00
+NOV/21     0,00
+OUT/21     0,00
+SET/21     0,00
+AGO/21     0,00
+JUL/21     3,00
+JUN/21     3,00
+MAI/21     0,00
+ABR/21     6,00
+MAR/21    11,00
+FEV/21   147,00
+JAN/21   137,00
+DEZ/20   275,00
+DIC     4,95   0,00   9,91   19,82
+FIC     3,30   0,00   6,60   13,20
+DMIC    2,77   0,00
+DICRI
+

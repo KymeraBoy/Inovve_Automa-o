@@ -1,0 +1,47 @@
+ESCOLA MUNICIPAL BEIJA FLOR
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL BEIJA FLOR
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 420 - 1180                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: N1039134300                          DOM. BANC.:
+MATRÍCULA: 391850-2020-3-5                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV BEIJA FLOR DE BAIXO, S/N - RUA 8
+AREA RURAL
+PINHAO (AG: 30)
+Março/2020
+3/391850-5
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9319%)     (4,2926%)
+0601 Consumo em kWh                         79,00    0,530720    0,691250       54,60         54,60   18      9,82           54,60        0,50          2,34
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          54,60         54,60           9,82           54,60        0,50          2,34
+MAR/20   79,00
+FEV/20   53,00
+JAN/20   66,00
+DEZ/19   54,00 *
+NOV/19   72,00
+OUT/19   70,00
+SET/19   69,00
+AGO/19   53,00
+JUL/19   57,00
+JUN/19   70,00
+MAI/19   41,00
+ABR/19   43,00
+MAR/19   55,00
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

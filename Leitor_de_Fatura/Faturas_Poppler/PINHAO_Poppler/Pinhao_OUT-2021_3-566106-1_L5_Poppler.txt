@@ -1,0 +1,48 @@
+ESCOLA MUNICIPAL ISMAEL TRINDADE
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL ISMAEL TRINDADE
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0140 - 600 - 0901                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6005620344                            DOM. BANC.:
+MATRÍCULA: 566106-2021-10-4                            DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ASSENT VARZEA BARRIS, S/N - RUA 1 ESCOLA
+AREA RURAL
+PINHAO (AG: 30)
+Outubro/2021
+3/566106-1
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         57,00    0,580440    0,735340       41,91         41,91   18      7,54           34,37        0,22          1,05
+0601 Adic. B. Vermelha                                                          10,25         10,25   18      1,84            8,40        0,06          0,26
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          52,16         52,16           9,38           42,77        0,28          1,31
+OUT/21   57,00
+SET/21   54,00
+AGO/21   47,00
+JUL/21   60,00
+JUN/21   53,00
+MAI/21   45,00
+ABR/21   65,00
+MAR/21   61,00
+FEV/21   81,00
+JAN/21   81,00
+DEZ/20   60,00
+NOV/20   60,00
+OUT/20   81,00
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

@@ -1,0 +1,47 @@
+CASA DE FARINHA COMUNITARIA
+
+DOMICÍLIO DE ENTREGA
+CASA DE FARINHA COMUNITARIA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 420 - 0222                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5040750180                          DOM. BANC.:
+MATRÍCULA: 251327-2020-7-4                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV BEIJA FLOR DE CIMA, S/N - PODER PUBLICO
+AREA RURAL
+PINHAO (AG: 30)
+Julho/2020
+3/251327-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9064%)     (4,1747%)
+0601 Custo de Disponibilidade                                                   20,84         20,84   18      3,75           20,84        0,18          0,87
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          20,84         20,84           3,75           20,84        0,18          0,87
+JUL/20    1,00
+JUN/20    1,00
+MAI/20    1,00
+ABR/20    0,00 *
+MAR/20    0,00 *
+FEV/20    8,00
+JAN/20    8,00
+DEZ/19   18,00
+NOV/19   21,00
+OUT/19   20,00
+SET/19   21,00
+AGO/19   23,00
+JUL/19   23,00
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

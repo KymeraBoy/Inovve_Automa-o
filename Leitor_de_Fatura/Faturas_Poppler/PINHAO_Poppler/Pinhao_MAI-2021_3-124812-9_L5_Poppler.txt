@@ -1,0 +1,53 @@
+CENTRO DE FISIOTERAPIA
+
+DOMICÍLIO DE ENTREGA
+CENTRO DE FISIOTERAPIA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 1469                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: E6006676613                            DOM. BANC.:
+MATRÍCULA: 124812-2021-5-2                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SIMAO DIAS, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Maio/2021
+3/124812-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        250,00    0,580440    0,735340      183,83        183,83   18      33,08         150,75        1,01          4,63
+0601 Adic. B. Amarela                                                            0,44          0,44   18       0,08           0,35        0,00          0,01
+0601 Adic. B. Vermelha                                                          11,83         11,83   18       2,13           9,69        0,06          0,30
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 03/2021                                               0,70                 0        0,00           0,00        0,00          0,00
+0805 MULTA 03/2021                                                               3,13                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2021                                                       0,78                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         200,71        196,10           35,29         160,79        1,07          4,94
+MAI/21   250,00
+ABR/21   214,00
+MAR/21   225,00
+FEV/21   217,00
+JAN/21   192,00
+DEZ/20   121,00
+NOV/20   119,00
+OUT/20   102,00
+SET/20   103,00
+AGO/20   127,00
+JUL/20   134,00
+JUN/20   132,00
+MAI/20   155,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

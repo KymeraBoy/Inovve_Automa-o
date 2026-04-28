@@ -1,0 +1,51 @@
+POSTO DE SAUDE PINHAO
+
+POV LAGOA, 0 - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Setembro / 2024
+3/1664188-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+6102334523   Energia ativa em kWh   Ponta   75   110   1
+                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                               42,70        1,29          42,70   19       8,11
+Adic. B. Vermelha                                                       2,11        0,06           2,11   19       0,40
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                -0,57
+ATUALIZAÇÃO MONETÁRIA 08/2024                                           0,01
+MULTA 08/2024                                                           0,85
+JUROS DE MORA 08/2024                                                   0,04
+
+
+
+
+                                        TOTAL:                         45,14        1,35          44,81            8,51
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           36,29    0,6671      0,24
+COFINS        36,29    3,0729      1,11
+ICMS          44,81     18,00      8,07
+ICMS FCP      44,81      1,00      0,44
+DIC     0,00   0,00   0,00   0,00
+FIC     0,00   0,00   0,00   0,00
+DMIC    5,00   0,00
+DICRI   0,00
+SET/24   35,00   0,00
+AGO/24   27,00   0,00
+JUL/24   45,00   0,00
+JUN/24    1,00   0,00
+MAI/24    2,00   0,00
+ABR/24           0,00
+MAR/24           0,00
+FEV/24           0,00
+JAN/24           0,00
+DEZ/23           0,00
+NOV/23           0,00
+OUT/23           0,00
+SET/23           0,00
+

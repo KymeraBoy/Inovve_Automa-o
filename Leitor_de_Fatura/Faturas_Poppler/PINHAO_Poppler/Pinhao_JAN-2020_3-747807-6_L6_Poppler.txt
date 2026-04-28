@@ -1,0 +1,52 @@
+QUADRA DESPORTISTA OZIRES RAMOS DA FONSECA
+ECA
+RUA UM, S/N - PODER PUBLICO - 49517000
+AREA RURAL
+PINHAO-SE (AG: 30)
+Janeiro/2020
+3/747807-6
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: MONOFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
+0601 Custo de Disponibilidade                                                        20,40         20,40    18      3,67           20,40       0,14         0,66
+0601 Adic. B. Amarela                                                                 0,51          0,51    18      0,09            0,51       0,00         0,02
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    0,13                   0      0,00            0,00       0,00         0,00
+0805 MULTA 12/2019                                                                    0,42                   0      0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                    0,44                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 12/2019                                                            0,01                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                            0,07                   0      0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:               21,98         20,91            3,76           20,91       0,14         0,68
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20          0
+DEZ/19          0
+NOV/19         23
+OUT/19          0
+SET/19          0
+AGO/19          2
+JUL/19          0
+JUN/19          0
+MAI/19          0
+ABR/19          2
+MAR/19          5
+FEV/19          1
+JAN/19          0
+DIC MENSAL       11,16   0,00
+DIC TRIMESTRAL   22,32
+DIC ANUAL        44,65
+FIC MENSAL        7,67   0,00
+FIC TRIMESTRAL   15,34
+FIC ANUAL        30,69
+DMIC              6,08   0,00
+DICRI            16,60
+

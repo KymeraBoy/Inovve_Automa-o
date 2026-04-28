@@ -1,0 +1,47 @@
+QUADRA DESPORTISTA OZIRES RAMOS DA FONSECA
+
+DOMICÍLIO DE ENTREGA
+QUADRA DESPORTISTA OZIRES RAMOS DA FONSECA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 320 - 0278                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: N1050984072                          DOM. BANC.:
+MATRÍCULA: 747807-2020-10-1                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA UM, S/N - PODER PUBLICO
+AREA RURAL
+PINHAO (AG: 30)
+Outubro/2020
+3/747807-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         84,00    0,535510    0,678430       56,98         56,98   18      10,25          46,73        0,31          1,43
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          56,98         56,98           10,25          46,73        0,31          1,43
+OUT/20   84,00
+SET/20    0,00 *
+AGO/20    0,00 *
+JUL/20    0,00 *
+JUN/20    0,00 *
+MAI/20    0,00 *
+ABR/20    0,00 *
+MAR/20   10,00
+FEV/20    0,00 *
+JAN/20    0,00
+DEZ/19    0,00 *
+NOV/19   23,00
+OUT/19    0,00 *
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

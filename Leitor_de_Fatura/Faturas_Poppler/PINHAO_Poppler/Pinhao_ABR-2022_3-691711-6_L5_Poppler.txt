@@ -1,0 +1,51 @@
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+RUA SIMAO DIAS S/N S/N PODER PUBLICO
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 150 - 0270                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7001175654                            DOM. BANC.:
+MATRÍCULA: 691711-2022-4-0                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC SEN LOURIVAL BATISTA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Abril/2022
+3/691711-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      1.170,00    0,602460    0,763240      893,00        893,00   18      160,74         732,26        4,88         22,50
+0601 Adic. B. Vermelha                                                         122,15        122,15   18       21,98         100,16        0,67          3,07
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 03/2022                                                              19,79                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2022                                                       1,65                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.036,59      1.015,15           182,72         832,42        5,55         25,57
+ABR/22   1.170,00
+MAR/22   1.077,00
+FEV/22     507,00
+JAN/22     526,00
+DEZ/21   1.406,00
+NOV/21     451,00
+OUT/21     718,00
+SET/21    490,00
+AGO/21    490,00
+JUL/21    386,00
+JUN/21    363,00
+MAI/21    425,00
+ABR/21    436,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

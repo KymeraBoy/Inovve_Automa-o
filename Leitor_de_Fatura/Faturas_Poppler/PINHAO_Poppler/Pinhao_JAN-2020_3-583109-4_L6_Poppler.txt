@@ -1,0 +1,51 @@
+ILUM PUBL PREF DE PINHAO
+PC JOAO BARBOSA SOUZA, S/N - CPREDE - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Janeiro/2020
+3/583109-4
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+Classe/Subcls.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+LIGAÇÃO: BIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
+0601 Consumo em kWh                        390,00   0,291900        0,303950        118,54          0,00     0      0,00          118,54       0,83         3,86
+0601 Adic. B. Amarela                                                                 5,45          0,00     0      0,00            5,45       0,04         0,18
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    1,02                   0      0,00            0,00       0,00         0,00
+0805 MULTA 12/2019                                                                    2,87                   0      0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                    3,39                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 12/2019                                                            0,05                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                            0,51                   0      0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              131,83          0,00            0,00          123,99       0,87         4,04
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         390
+DEZ/19         444
+NOV/19         488
+OUT/19         427
+SET/19         442
+AGO/19         489
+JUL/19         453
+JUN/19         523
+MAI/19         470
+ABR/19         463
+MAR/19         396
+FEV/19         378
+JAN/19         356
+DIC MENSAL        5,79   0,00
+DIC TRIMESTRAL   11,58
+DIC ANUAL        23,16
+FIC MENSAL        3,36   0,00
+FIC TRIMESTRAL    6,72
+FIC ANUAL        13,45
+DMIC              3,37   0,00
+DICRI            12,22
+

@@ -1,0 +1,51 @@
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 160 - 0002                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q0003121567                            DOM. BANC.:
+MATRÍCULA: 894726-2021-9-4                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Setembro/2021
+3/894726-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      3.221,00    0,580440    0,735340    2.368,58      2.368,58   18      426,34       1.942,23       12,96         59,68
+0601 Adic. B. Vermelha                                                         549,44        549,44   18       98,90         450,54        3,00         13,84
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 08/2021                                                              40,04                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 08/2021                                                       0,67                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       2.958,73      2.918,02           525,24       2.392,77       15,96         73,52
+SET/21   3.221,00
+AGO/21   2.339,00
+JUL/21   2.464,00
+JUN/21   3.262,00
+MAI/21   3.536,00
+ABR/21   4.915,00
+MAR/21   4.414,00
+FEV/21   3.676,00
+JAN/21   3.433,00
+DEZ/20   4.396,00
+NOV/20   3.958,00
+OUT/20   3.498,00
+SET/20   2.341,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

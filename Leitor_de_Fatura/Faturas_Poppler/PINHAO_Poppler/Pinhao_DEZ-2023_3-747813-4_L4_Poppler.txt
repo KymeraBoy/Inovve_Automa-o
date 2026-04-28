@@ -1,0 +1,50 @@
+ESCOLA MUNICIPAL JOSE DORIA DE ALMEIDA
+
+POV ESPINHEIRO, S/N - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Dezembro / 2023
+3/747813-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+1051039584   Energia ativa em kWh   Ponta   7275,75   7315,75   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                             40,00       0,864410         34,57        1,70          34,57   19       6,56   0,657610
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -0,44
+ATUALIZAÇÃO MONETÁRIA 10/2023                                            0,02
+MULTA 10/2023                                                            0,63
+JUROS DE MORA 10/2023                                                    0,11
+
+
+
+
+                                        TOTAL:                          34,89        1,70          34,57            6,56
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           28,00    1,0845      0,30
+COFINS        28,00    4,9955      1,40
+ICMS          34,57     18,00      6,22
+ICMS FCP      34,57      1,00      0,34
+DIC     20,00   3,09   999,00   999,00
+FIC      6,00   2,00   999,00   999,00
+DMIC    15,00   2,07
+DICRI   26,00
+DEZ/23   40,00 *
+NOV/23   39,00 *
+OUT/23   38,00 *
+SET/23   38,00 *
+AGO/23   41,00 *
+JUL/23   45,00 *
+JUN/23   47,00 *
+MAI/23   49,00 *
+ABR/23   48,00 *
+MAR/23   46,75
+FEV/23    0,00 *
+JAN/23    0,00 *
+DEZ/22    0,00 *
+

@@ -1,0 +1,45 @@
+ACADEMIA DE SAUDE
+RUA CINCO DE NOVEMBRO, S/N - 49517000
+25 DE NOVEMBRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/1028184-8
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: BIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Custo de Disponibilidade                                                        34,63         34,63    18      6,23           34,63       0,33         1,53
+0601 Adic. B. Amarela                                                                 0,17          0,17    18      0,03            0,17       0,00         0,01
+
+
+
+
+CCI: Código de Classificação do Item                            Total:                34,8         34,80            6,26           34,80       0,33         1,54
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20          50
+JAN/20          42
+DEZ/19          48
+NOV/19          52
+OUT/19          43
+SET/19          44
+AGO/19         101
+JUL/19          66
+JUN/19          74
+MAI/19          41
+ABR/19          64
+MAR/19           0
+FEV/19          21
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

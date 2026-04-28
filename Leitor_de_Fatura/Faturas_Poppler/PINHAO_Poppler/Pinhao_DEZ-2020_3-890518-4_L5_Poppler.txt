@@ -1,0 +1,54 @@
+POCO ARTESIANO PREFEITURA MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO PREFEITURA MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
+ROTEIRO: 015 - 0140 - 260 - 0250                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: E6003537809                          DOM. BANC.:
+MATRÍCULA: 890518-2020-12-5                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV ESPINHEIRO, S/N
+AREA RURAL
+PINHAO (AG: 30)
+Dezembro/2020
+3/890518-4
+                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                           104,00    0,487300    0,506230       52,64          0,00   0       0,00           52,64        0,36          1,62
+0601 Adic. B. Vermelha                                                              5,38          0,00   0       0,00            5,38        0,03          0,16
+0610 Subsídio                                                                       5,22          0,00   0       0,00            5,22        0,03          0,16
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                            -5,02                 0       0,00            0,00        0,00          0,00
+0904 COMPENSACAO POR DIC MENSAL 10/2020                                            -1,84                 0       0,00            0,00        0,00          0,00
+0805 MULTA 10/2020                                                                  0,23                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 10/2020                                                          0,02                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                               TOTAL:          56,63          0,00           0,00           63,24        0,42          1,94
+DEZ/20   104,00 *
+NOV/20   109,00 *
+OUT/20    50,00 *
+SET/20     0,00
+AGO/20   110,00
+JUL/20     0,00
+JUN/20   109,00 *
+MAI/20   105,00 *
+ABR/20   100,00 *
+MAR/20    35,00
+FEV/20   105,00 *
+JAN/20   211,00
+DEZ/19   194,00
+DIC     11,01   17,44   22,03   44,07
+FIC      7,59    5,00   15,19   30,39
+DMIC     5,98    8,20
+DICRI   16,60
+

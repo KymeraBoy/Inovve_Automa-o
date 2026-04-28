@@ -1,0 +1,54 @@
+CENTRO DE FISIOTERAPIA
+
+RUA SIMAO DIAS, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Dezembro / 2024
+3/124812-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+6006676613   Energia ativa em kWh   Ponta   22105   22298   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                            193,00       0,865760        167,09        6,83         167,09   19      31,74   0,665910
+Adic. B. Amarela                                                         0,63        0,02           0,63   19       0,12
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -2,28
+ATUALIZAÇÃO MONETÁRIA 11/2024                                            0,15
+ATUALIZAÇÃO MONETÁRIA 10/2024                                            0,11
+MULTA 11/2024                                                            3,31
+MULTA 10/2024                                                            2,49
+JUROS DE MORA 11/2024                                                    0,28
+JUROS DE MORA 10/2024                                                    0,25
+
+
+
+
+                                        TOTAL:                         172,03        6,85         167,72           31,86
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS          135,85    0,8995      1,22
+COFINS       135,85    4,1433      5,63
+ICMS         167,72     18,00     30,19
+ICMS FCP     167,72      1,00      1,67
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+DEZ/24   193,00   0,00
+NOV/24   185,00   0,00
+OUT/24   133,00   0,00
+SET/24   245,00   0,00
+AGO/24   264,00   0,00
+JUL/24   232,00   0,00
+JUN/24   175,00   0,00
+MAI/24   249,00   0,00
+ABR/24   522,00   0,00
+MAR/24   373,00   0,00
+FEV/24   470,00   0,00
+JAN/24   408,00   0,00
+DEZ/23   409,00   0,00
+

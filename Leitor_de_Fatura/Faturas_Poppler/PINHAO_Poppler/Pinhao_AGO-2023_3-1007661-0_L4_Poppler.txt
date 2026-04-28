@@ -1,0 +1,47 @@
+ILUMINACAO PUBLICA DE PINHAO
+
+PINHAO, 0 - TREVO PARA FREI PAULO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Agosto / 2023
+3/1007661-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+LIGAÇÃO: BIFASICO
+W6005473457   Energia ativa em kWh   Ponta   44403   44686   1
+                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                     282,00       0,375730        105,95        3,96           0,00   0        0,00   0,361680
+LANÇAMENTOS E SERVIÇOS
+MULTA 06/2023                                                     2,26
+JUROS DE MORA 06/2023                                             0,45
+
+
+
+
+                                 TOTAL:                         108,66        3,96           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         105,95    0,6671      0,71
+COFINS      105,95    3,0729      3,25
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,49   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   0,49
+DICRI   26,00
+AGO/23   282,00
+JUL/23   313,00
+JUN/23   294,00
+MAI/23   282,00
+ABR/23   303,00
+MAR/23   266,00
+FEV/23   267,00
+JAN/23   254,00
+DEZ/22   283,00
+NOV/22   269,00
+OUT/22   260,00
+SET/22   292,00
+AGO/22   297,00
+

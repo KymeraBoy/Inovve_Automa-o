@@ -1,0 +1,45 @@
+ESCOLA MUNICIPAL CENTRAL
+PC LUIZ ARAUJO DE SANTANA, S/N - PODER PUBLICO - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/567438-7
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        805,00   0,530720        0,692770        557,68        557,68    18     100,38          557,68       5,36        24,71
+0601 Adic. B. Amarela                                                                 2,98          2,98    18       0,53            2,98       0,03         0,13
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              560,66        560,66           100,91          560,66       5,39        24,84
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         805
+JAN/20         469
+DEZ/19         865
+NOV/19         863
+OUT/19         703
+SET/19         761
+AGO/19         943
+JUL/19         713
+JUN/19         930
+MAI/19         796
+ABR/19         819
+MAR/19         865
+FEV/19         937
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

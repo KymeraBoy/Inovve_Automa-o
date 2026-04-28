@@ -1,0 +1,53 @@
+POCO ARTESIANO MUNICIPAL
+POV BEIJA FLOR DE CIMA, S/N - SERVICO PUBLICO - 49517000
+AREA RURAL
+PINHAO-SE (AG: 30)
+Janeiro/2020
+3/305600-9
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
+0601 Consumo em kWh                        324,00   0,467020        0,486300        157,56          0,00     0      0,00          157,56       1,11         5,13
+0601 Adic. B. Amarela                                                                 4,53          0,00     0      0,00            4,53       0,03         0,15
+0610 Subsídio                                                                        21,49          0,00     0      0,00           21,49       0,15         0,70
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                             -20,64                   0      0,00            0,00       0,00         0,00
+0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    0,53                   0      0,00            0,00       0,00         0,00
+0805 MULTA 12/2019                                                                    3,56                   0      0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                    1,77                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 12/2019                                                            0,06                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                            0,26                   0      0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              169,12          0,00            0,00          183,58       1,29         5,98
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         324
+DEZ/19         349
+NOV/19         165
+OUT/19         100
+SET/19         200
+AGO/19           6
+JUL/19           2
+JUN/19          23
+MAI/19          87
+ABR/19          34
+MAR/19          45
+FEV/19         203
+JAN/19         354
+DIC MENSAL       11,16   1,83
+DIC TRIMESTRAL   22,32
+DIC ANUAL        44,65
+FIC MENSAL        7,67   1,00
+FIC TRIMESTRAL   15,34
+FIC ANUAL        30,69
+DMIC              6,08   1,83
+DICRI            16,60
+

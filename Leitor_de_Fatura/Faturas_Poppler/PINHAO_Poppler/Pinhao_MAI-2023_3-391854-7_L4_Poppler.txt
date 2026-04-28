@@ -1,0 +1,49 @@
+POCO ARTESIANO MUNICIPAL
+
+POV LAGOA BRANCA, S/N - RUA 3 POCO - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Maio / 2023
+3/391854-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+2003774361   Energia ativa em kWh   Ponta   16770   16827   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                             57,00       0,700100         39,90        2,42           0,00   0        0,00   0,657540
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio                                                       -0,01       0,00                  0        0,00
+ATUALIZAÇÃO MONETÁRIA 03/2023                                            0,06
+MULTA 03/2023                                                            0,77
+JUROS DE MORA 03/2023                                                    0,09
+
+
+
+
+                                        TOTAL:                          40,81        2,42           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          39,90    1,0845      0,43
+COFINS       39,90    4,9955      1,99
+ICMS          0,00       0,00     0,00
+DIC     20,00   3,52   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   3,52
+DICRI   26,00
+MAI/23    57,00 *
+ABR/23    36,00
+MAR/23    57,92 *
+FEV/23    62,00
+JAN/23    57,00 *
+DEZ/22    36,00
+NOV/22    67,00
+OUT/22   101,00
+SET/22     0,00 *
+AGO/22    30,00
+JUL/22    16,00
+JUN/22    18,00
+MAI/22    43,00
+

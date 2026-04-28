@@ -1,0 +1,48 @@
+ACADEMIA DE SAUDE
+
+DOMICÍLIO DE ENTREGA
+ACADEMIA DE SAUDE
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 160 - 0029                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: E6006757796                          DOM. BANC.:
+MATRÍCULA: 1028184-2020-12-9                         DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, S/N
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Dezembro/2020
+3/1028184-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        149,00    0,535510    0,678430      101,08        101,08   18      18,19          82,89        0,55          2,54
+0601 Adic. B. Vermelha                                                           9,96          9,96   18       1,79           8,17        0,05          0,25
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         111,04        111,04           19,98          91,06        0,60          2,79
+DEZ/20   149,00
+NOV/20   128,00
+OUT/20   148,00
+SET/20   117,00
+AGO/20    67,00
+JUL/20    25,00
+JUN/20    27,00
+MAI/20    38,00
+ABR/20    44,00
+MAR/20    45,00
+FEV/20    50,00
+JAN/20    42,00
+DEZ/19    48,00
+DIC      5,67   0,29   11,34   22,69
+FIC      3,30   2,00    6,60   13,20
+DMIC     3,29   0,16
+DICRI   12,22
+

@@ -1,0 +1,52 @@
+ESCOLA MUNICIPAL JOSE DORIA DE ALMEIDA
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL JOSE DORIA DE ALMEIDA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 260 - 0073                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: N1051039584                          DOM. BANC.:
+MATRÍCULA: 747813-2020-11-7                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV ESPINHEIRO, S/N
+AREA RURAL
+PINHAO (AG: 30)
+Novembro/2020
+3/747813-4
+                                                          TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                              QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                         20,35         20,35   18      3,66           16,68        0,11          0,51
+     LANÇAMENTOS E SERVIÇOS
+0904 COMPENSACAO POR DIC MENSAL 09/2020                                               -1,74                 0       0,00            0,00        0,00          0,00
+0904 COMP INDICADOR DIC TRIMESTRAL 09/2020                                            -0,59                 0       0,00            0,00        0,00          0,00
+0805 MULTA 10/2020                                                                     0,53                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 10/2020                                                             0,03                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                  TOTAL:          18,58         20,35           3,66           16,68        0,11          0,51
+NOV/20    7,00
+OUT/20   48,00
+SET/20   52,00
+AGO/20   43,00
+JUL/20    0,00 *
+JUN/20   36,00
+MAI/20   57,00 *
+ABR/20   48,00
+MAR/20   43,00
+FEV/20   50,00
+JAN/20   58,00 *
+DEZ/19   48,00
+NOV/19   74,00
+DIC     11,01   16,34   22,03   44,07
+FIC      7,59    4,00   15,19   30,39
+DMIC     5,98    9,48
+DICRI   16,60
+

@@ -1,0 +1,46 @@
+POCO ARTESIANO MUNICIPAL
+
+POV BEIJA FLOR, 2 - PLT - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Fevereiro / 2025
+3/1035228-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+W6006964811   Energia ativa em kWh   Ponta   22645   23171   1
+                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                       526,00       0,709010        372,94       22,67           0,00   0        0,00   0,665910
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                            -4,47
+
+
+
+
+                                   TOTAL:                         368,47       22,67           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         372,94    1,0845      4,04
+COFINS      372,94    4,9955     18,63
+ICMS          0,00       0,00     0,00
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+FEV/25   526,00
+JAN/25   434,00
+DEZ/24   338,00
+NOV/24   392,00
+OUT/24   351,00
+SET/24   330,00
+AGO/24   239,00
+JUL/24   239,00
+JUN/24   275,00
+MAI/24    97,00
+ABR/24   315,00
+MAR/24   379,00
+FEV/24   367,00
+

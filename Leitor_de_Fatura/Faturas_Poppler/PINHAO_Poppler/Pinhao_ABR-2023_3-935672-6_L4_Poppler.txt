@@ -1,0 +1,45 @@
+CRECHE JOSE SIQUEIRA FILHO
+
+POV LAGOA BRANCA, 0 - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Abril / 2023
+3/935672-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5016767238   Energia ativa em kWh   Ponta   4170   4255   1
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh               85,00       0,839990         71,39        3,55          71,39   18      12,85   0,646920
+
+
+
+
+                          TOTAL:                          71,39        3,55          71,39           12,85
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           58,53    1,0845      0,63
+COFINS        58,53    4,9955      2,92
+ICMS          71,39     17,00     12,14
+ICMS FCP      71,39      1,00      0,71
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+ABR/23   85,00
+MAR/23   75,00
+FEV/23   34,00
+JAN/23   28,00
+DEZ/22   24,00
+NOV/22   81,00
+OUT/22   57,00
+SET/22   46,00
+AGO/22   49,00
+JUL/22    7,00
+JUN/22    0,00 *
+MAI/22    1,00
+ABR/22    0,00 *
+

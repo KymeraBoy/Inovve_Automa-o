@@ -1,0 +1,50 @@
+CRAS
+
+RUA JUSTINO PEREIRA, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Outubro / 2024
+3/124883-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+W3003262918   Energia ativa em kWh   Ponta   32413   32413   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          85,66        2,79          85,66   19      16,27
+Adic. B. Vermelha                                                  9,38        0,29           9,38   19       1,78
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                           -1,21
+MULTA 09/2024                                                      1,78
+JUROS DE MORA 09/2024                                              0,09
+
+
+
+
+                                   TOTAL:                         95,70        3,08          95,04           18,05
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           76,96    0,7182      0,55
+COFINS        76,96    3,3082      2,53
+ICMS          95,04     18,00     17,12
+ICMS FCP      95,04      1,00      0,93
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+OUT/24     0,00 *   0,00
+SET/24     0,00 *   0,00
+AGO/24     0,00 *   0,00
+JUL/24     0,00 *   0,00
+JUN/24     0,00 *   0,00
+MAI/24     0,00 *   0,00
+ABR/24     0,00 *   0,00
+MAR/24     0,00 *   0,00
+FEV/24     0,00 *   0,00
+JAN/24   107,00     0,00
+DEZ/23   107,00     0,00
+NOV/23   179,00     0,00
+OUT/23    91,00     0,00
+

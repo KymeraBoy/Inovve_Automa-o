@@ -1,0 +1,51 @@
+BIBLIOTECA MARIA DE LOURDES MENDONCA
+RUA SIMAO DIAS, S/N - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Janeiro/2020
+3/296959-0
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
+0601 Consumo em kWh                      1.371,00   0,530720        0,680100        932,43        932,43    18     167,83          932,43       6,59        30,38
+0601 Adic. B. Amarela                                                                23,59         23,59    18       4,25           23,59       0,17         0,77
+     LANÇAMENTOS E SERVIÇOS
+0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    6,90                   0       0,00            0,00       0,00         0,00
+0805 MULTA 12/2019                                                                   22,72                   0       0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                   22,92                   0       0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 12/2019                                                            0,38                   0       0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                            3,44                   0       0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:             1012,38        956,02           172,08          956,02       6,76        31,15
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20        1371
+DEZ/19        1613
+NOV/19        1547
+OUT/19        1127
+SET/19         816
+AGO/19         697
+JUL/19         634
+JUN/19         979
+MAI/19        1287
+ABR/19        1439
+MAR/19        1405
+FEV/19        1626
+JAN/19        1465
+DIC MENSAL        5,79   0,00
+DIC TRIMESTRAL   11,58
+DIC ANUAL        23,16
+FIC MENSAL        3,36   0,00
+FIC TRIMESTRAL    6,72
+FIC ANUAL        13,45
+DMIC              3,37   0,00
+DICRI            12,22
+

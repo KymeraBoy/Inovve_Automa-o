@@ -1,0 +1,47 @@
+BIBLIOTECA MARIA DE LOURDES MENDONCA
+
+DOMICÍLIO DE ENTREGA
+BIBLIOTECA MARIA DE LOURDES MENDONCA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 4001                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: A3004251590                            DOM. BANC.:
+MATRÍCULA: 296959-2022-7-7                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SIMAO DIAS, S/N
+CENTRO
+PINHAO (AG: 30)
+Julho/2022
+3/296959-0
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7681%)     (3,5377%)
+0601 Custo de Disponibilidade                                                   84,42         84,42   18      15,19          69,22        0,53          2,44
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          84,42         84,42           15,19          69,22        0,53          2,44
+JUL/22    90,00
+JUN/22   153,00
+MAI/22   354,00
+ABR/22   887,00
+MAR/22   619,00
+FEV/22   611,00
+JAN/22   335,00
+DEZ/21   694,00
+NOV/21   644,00
+OUT/21   569,00
+SET/21   426,00
+AGO/21   167,00
+JUL/21   173,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

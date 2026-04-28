@@ -1,0 +1,47 @@
+POCO ARTESIANO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 015 - 0140 - 600 - 0200                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6006991371                          DOM. BANC.:
+MATRÍCULA: 1029618-2020-9-1                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV BEIJA FLOR DE CIMA, S/N
+AREA RURAL
+PINHAO (AG: 30)
+Setembro/2020
+3/1029618-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8737%)     (4,0244%)
+0601 Custo de Disponibilidade                                                   34,33         34,33   18      6,17           28,15        0,24          1,13
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          34,33         34,33           6,17           28,15        0,24          1,13
+SET/20     0,00 *
+AGO/20    50,00 *
+JUL/20     0,00 *
+JUN/20    50,00 *
+MAI/20     0,00
+ABR/20    80,00 *
+MAR/20     0,00 *
+FEV/20     0,00 *
+JAN/20    80,00
+DEZ/19   159,00
+NOV/19   181,00
+OUT/19   105,00
+SET/19    63,00
+DIC     11,01   0,00   22,03   44,07
+FIC      7,59   0,00   15,19   30,39
+DMIC     5,98   0,00
+DICRI   16,60
+

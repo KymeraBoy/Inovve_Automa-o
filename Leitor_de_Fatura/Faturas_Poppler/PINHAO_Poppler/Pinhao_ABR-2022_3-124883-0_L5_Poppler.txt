@@ -1,0 +1,51 @@
+CRAS
+
+DOMICÍLIO DE ENTREGA
+CRAS
+RUA SIMAO DIAS S/N S/N PODER PUBLICO
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 140 - 2676                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W3003262918                            DOM. BANC.:
+MATRÍCULA: 124883-2022-4-4                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JUSTINO PEREIRA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Abril/2022
+3/124883-0
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        324,00    0,602460    0,763240      247,29        247,29   18      44,51         202,77        1,35          6,23
+0601 Adic. B. Vermelha                                                          33,82         33,82   18       6,08          27,73        0,18          0,85
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 03/2022                                                               7,77                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2022                                                       0,65                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         289,53        281,11           50,59         230,50        1,53          7,08
+ABR/22   324,00
+MAR/22   423,00
+FEV/22   386,00
+JAN/22   376,00
+DEZ/21   362,00
+NOV/21   264,00
+OUT/21   309,00
+SET/21   179,00
+AGO/21   110,00
+JUL/21   187,00
+JUN/21   302,00
+MAI/21   273,00
+ABR/21   362,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

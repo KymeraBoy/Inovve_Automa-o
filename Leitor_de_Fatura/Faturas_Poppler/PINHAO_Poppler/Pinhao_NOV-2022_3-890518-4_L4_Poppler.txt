@@ -1,0 +1,47 @@
+POCO ARTESIANO PREFEITURA MUNICIPAL DE
+PINHAO
+POV ESPINHEIRO, S/N - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Novembro / 2022
+3/890518-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: BIFASICO
+6003537809   Energia ativa em kWh   Ponta   10924   10988   1
+                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                      64,00       0,665790         42,61        2,52           0,00   0        0,00   0,626440
+Subsídio                                                          1,31        0,07           0,00   0        0,00
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio                                                -1,24       0,00                  0        0,00
+
+
+
+
+                                 TOTAL:                          42,68        2,59           0,00            0,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          43,93    1,0546      0,46
+COFINS       43,93    4,8575      2,13
+ICMS          0,00       0,00     0,00
+DIC     20,00   4,08   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    15,00   4,08
+DICRI   26,00
+NOV/22   64,00 *
+OUT/22   65,00 *
+SET/22   66,00 *
+AGO/22   50,00 *
+JUL/22    0,00 *
+JUN/22   67,00 *
+MAI/22   66,00 *
+ABR/22   69,00 *
+MAR/22   48,00
+FEV/22   48,00
+JAN/22   91,00
+DEZ/21   73,00 *
+NOV/21   76,00 *
+

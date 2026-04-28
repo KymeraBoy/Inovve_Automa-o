@@ -1,0 +1,45 @@
+ILUM PUBL PREF DE PINHAO
+PC JOAO BARBOSA SOUZA, S/N - CPREDE - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/583109-4
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+Classe/Subcls.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+LIGAÇÃO: BIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        444,00   0,291900        0,308530        136,99          0,00     0      0,00          136,99       1,32         6,06
+0601 Adic. B. Amarela                                                                 1,33          0,00     0      0,00            1,33       0,01         0,06
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              138,32          0,00            0,00          138,32       1,33         6,11
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         444
+JAN/20         390
+DEZ/19         444
+NOV/19         488
+OUT/19         427
+SET/19         442
+AGO/19         489
+JUL/19         453
+JUN/19         523
+MAI/19         470
+ABR/19         463
+MAR/19         396
+FEV/19         378
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

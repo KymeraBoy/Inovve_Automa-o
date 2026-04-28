@@ -1,0 +1,45 @@
+MERCADO MUNICIPAL DE PINHAO
+PC LEANDRO MACIEL, S/N - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/530486-0
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: BIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        263,00   0,530720        0,692770        182,20        182,20    18     32,79          182,20       1,75         8,07
+0601 Adic. B. Amarela                                                                 0,96          0,96    18      0,17            0,96       0,01         0,04
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              183,16        183,16           32,96          183,16       1,76         8,11
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         263
+JAN/20         224
+DEZ/19         220
+NOV/19         267
+OUT/19         222
+SET/19         211
+AGO/19         299
+JUL/19         208
+JUN/19         238
+MAI/19         190
+ABR/19         218
+MAR/19         176
+FEV/19         206
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

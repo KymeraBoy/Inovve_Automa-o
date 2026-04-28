@@ -1,0 +1,50 @@
+ESCOLA MUNICIPAL JUSTINO
+
+POV LAGOA BRANCA, S/N - RUA 3 - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Março / 2023
+3/391846-3
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+1012541661   Energia ativa em kWh   Ponta   18329 18360,916667   1   31,9
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                             31,92       0,838560         26,76        1,34          26,76   18       4,81   0,645820
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 01/2023                                            0,01        0,00                  0        0,00
+MULTA 02/2023                                                            0,53        0,00                  0        0,00
+MULTA 01/2023                                                            0,54        0,00                  0        0,00
+JUROS DE MORA 02/2023                                                    0,01        0,00                  0        0,00
+JUROS DE MORA 01/2023                                                    0,02        0,00                  0        0,00
+
+
+
+
+                                        TOTAL:                          27,87        1,34          26,76            4,81
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          21,94    1,0845      0,24
+COFINS       21,94    4,9955      1,10
+ICMS         26,76     18,00      4,81
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+MAR/23   31,92 *
+FEV/23   32,00 *
+JAN/23   33,00 *
+DEZ/22   32,00 *
+NOV/22   33,00 *
+OUT/22   33,00 *
+SET/22   25,00
+AGO/22   27,00
+JUL/22   29,00
+JUN/22   35,00
+MAI/22   13,00
+ABR/22    0,00 *
+MAR/22   35,00 *
+

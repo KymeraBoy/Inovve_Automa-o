@@ -1,0 +1,48 @@
+MERCADO MUNICIPAL DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+MERCADO MUNICIPAL DE PINHAO
+RUA SIMAO DIAS S/N S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 1314                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: A2003986971                            DOM. BANC.:
+MATRÍCULA: 530486-2022-2-8                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LEANDRO MACIEL, S/N
+CENTRO
+PINHAO (AG: 30)
+Fevereiro/2022
+3/530486-0
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
+0601 Custo de Disponibilidade                                                   37,23         37,23   18      6,70           30,53        0,27          1,24
+0601 Adic. B. Vermelha                                                           9,11          9,11   18      1,64            7,47        0,06          0,30
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          46,34         46,34           8,34           38,00        0,33          1,54
+FEV/22    45,00
+JAN/22    21,00
+DEZ/21    80,00
+NOV/21    58,00
+OUT/21    61,00
+SET/21    67,00
+AGO/21    69,00
+JUL/21    74,00
+JUN/21    81,00
+MAI/21    69,00
+ABR/21   137,00
+MAR/21   162,00
+FEV/21    59,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

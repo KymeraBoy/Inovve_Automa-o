@@ -1,0 +1,47 @@
+ ILUMINACAO PUBLICA PREFEITURA MUNICIPAL DE PINHAO
+ERUA
+   PINHAO
+     CINCO DE NOVEMBRO, 00000 - CPREDE - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/908666-1
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+Classe/Subcls.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                      3.906,00   0,291900        0,308530      1.205,14          0,00     0      0,00        1.205,14      11,59        53,39
+0601 Adic. B. Amarela                                                                11,75          0,00     0      0,00           11,75       0,11         0,52
+
+
+
+
+CCI: Código de Classificação do Item                            Total:             1216,89          0,00            0,00         1.216,89     11,70        53,91
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20        3906
+JAN/20        3421
+DEZ/19        3433
+NOV/19        3732
+OUT/19        3595
+SET/19        3495
+AGO/19        3872
+JUL/19        3205
+JUN/19        4103
+MAI/19        3641
+ABR/19        3584
+MAR/19        3657
+FEV/19        3560
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

@@ -1,0 +1,52 @@
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 150 - 0270                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7001175654                          DOM. BANC.:
+MATRÍCULA: 691711-2021-1-8                           DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC SEN LOURIVAL BATISTA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Janeiro/2021
+3/691711-6
+                                                      TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                          QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                          134,00    0,535510    0,678430       90,91         90,91   18      16,36          74,54        0,49          2,29
+0601 Adic. B. Amarela                                                              2,04          2,04   18       0,37           1,67        0,01          0,05
+0601 Adic. B. Vermelha                                                             1,10          1,10   18       0,19           0,90        0,01          0,02
+     LANÇAMENTOS E SERVIÇOS
+0999 RECEBIMENTO A MAIOR ( - ) 01/2021                                            -0,54                 0
+0904 COMPENSACAO DMIC 11/2020                                                     -4,70                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                              TOTAL:          88,81         94,05           16,92          77,11        0,51          2,36
+JAN/21   134,00
+DEZ/20   604,00
+NOV/20   228,00
+OUT/20   236,00
+SET/20   190,00
+AGO/20   226,00
+JUL/20   236,00
+JUN/20   236,00
+MAI/20   311,00
+ABR/20   382,00
+MAR/20   868,00
+FEV/20   650,00
+JAN/20   513,00
+DIC      5,67   6,64   11,34   22,69
+FIC      3,30   2,00    6,60   13,20
+DMIC     3,29   6,57
+DICRI   12,22
+

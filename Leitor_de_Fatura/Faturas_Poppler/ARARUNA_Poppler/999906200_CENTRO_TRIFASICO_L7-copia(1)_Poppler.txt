@@ -1,18 +1,0 @@
-DIC          0,00    0,00   0,00    0,00   SET/23   1.928,00
-FIC          0,00    0,00   0,00    0,00   AGO/23   1.777,00
-DMIC        15,00    0,00                  JUL/23   1.723,00
-DICRI        0,00                          JUN/23   1.862,00
-                                           MAI/23   2.115,00
-Conjunto:                                  ABR/23   2.148,00
-                                           MAR/23   2.196,00                         24,00
-Referência:                    07/2023     FEV/23   2.185,00                         24,00
-Tensão Contratada:                         JAN/23   2.147,00
-Limite Adequado:                           DEZ/22   2.137,00
-                                           NOV/22   2.166,00
-                                           OUT/22   2.149,00
-                                           SET/22   2.508,00
-
-
-
-                                                    *FATURAMENTO PELA MÉDIA/MÍNIMO
-

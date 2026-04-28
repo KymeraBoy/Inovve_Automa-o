@@ -1,0 +1,49 @@
+POSTO MUNICIPAL DE SAUDE
+
+POV RAJAS, S/N - PODER PUBLICO - 49517000
+
+
+AREA RURAL
+PINHAO (AG: 30)
+Agosto / 2025
+3/331046-3
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+W6019398413   Energia ativa em kWh   Ponta   3127   3161   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          46,60        2,13          46,60   19       8,86
+Adic. B. Vermelha                                                  0,87        0,04           0,87   19       0,16
+Adic. B. Vermelha                                                  3,60        0,16           3,60   19       0,68
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                           -0,60       0,00           0,00            0,00
+
+
+
+
+                                   TOTAL:                         50,47        2,33          51,07            9,70
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           41,34    1,0058      0,42
+COFINS        41,34    4,6328      1,91
+ICMS          51,07     18,00      9,21
+ICMS FCP      51,07      1,00      0,49
+DIC     20,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    15,00   0,00
+DICRI   26,00
+AGO/25   34,00
+JUL/25   27,00
+JUN/25   30,00
+MAI/25   43,00
+ABR/25   42,00
+MAR/25   37,00
+FEV/25   41,00
+JAN/25   31,00
+DEZ/24   24,00
+NOV/24   41,00
+OUT/24   33,00
+SET/24   52,00
+AGO/24   44,00
+

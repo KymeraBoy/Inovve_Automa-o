@@ -1,0 +1,47 @@
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+RUA SIMAO DIAS S/N SERVICO PUBLICO
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 160 - 0002                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q0003121567                            DOM. BANC.:
+MATRÍCULA: 894726-2022-7-6                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Julho/2022
+3/894726-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,7681%)     (3,5377%)
+0601 Consumo em kWh                      2.326,00    0,662450    0,844200    1.963,64      1.963,64   18      353,45       1.610,18       12,36         56,96
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.963,64      1.963,64           353,45       1.610,18       12,36         56,96
+JUL/22   2.326,00
+JUN/22   3.058,00
+MAI/22   3.525,00
+ABR/22   4.502,00
+MAR/22   4.773,00
+FEV/22   4.528,00
+JAN/22   3.569,00 *
+DEZ/21   4.082,00
+NOV/21   3.851,00
+OUT/21   3.633,00
+SET/21   3.221,00
+AGO/21   2.339,00
+JUL/21   2.464,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

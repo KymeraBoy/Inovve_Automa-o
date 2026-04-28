@@ -1,0 +1,47 @@
+SECRETARIA MUNICIPAL DE ASSIST SOCIAL
+
+DOMICÍLIO DE ENTREGA
+SECRETARIA MUNICIPAL DE ASSIST SOCIAL
+RUA SIMAO DIAS S/N FUNDO DA
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 4190                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: B2005934479                            DOM. BANC.:
+MATRÍCULA: 124818-2022-6-5                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV MUNICIPAL, 0012 - FUNDO DA
+CENTRO
+PINHAO (AG: 30)
+Junho/2022
+3/124818-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0845%)     (4,9955%)
+0601 Custo de Disponibilidade                                                   44,01         44,01   18      7,92           36,08        0,39          1,80
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          44,01         44,01           7,92           36,08        0,39          1,80
+JUN/22    5,00
+MAI/22    5,00
+ABR/22    8,00
+MAR/22   10,00
+FEV/22   12,00
+JAN/22    4,00
+DEZ/21    5,00
+NOV/21    7,00
+OUT/21    5,00
+SET/21    6,00
+AGO/21    5,00
+JUL/21    6,00
+JUN/21    2,00
+DIC     10,00   0,24   999,00      999
+FIC      4,00   1,00   999,00   999,00
+DMIC     7,00   0,24
+DICRI   13,00
+

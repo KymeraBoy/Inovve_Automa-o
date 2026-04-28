@@ -1,0 +1,49 @@
+ACADEMIA DE SAUDE
+
+RUA CINCO DE NOVEMBRO, SN - 49517000
+
+
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Maio / 2023
+3/1028184-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+6006757796   Energia ativa em kWh   Ponta   8500   8636   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                            136,00       0,853870        116,12        5,79         116,12   18      20,90   0,657610
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 03/2023                                            0,12
+MULTA 03/2023                                                            1,48
+JUROS DE MORA 03/2023                                                    0,17
+
+
+
+
+                                        TOTAL:                         117,89        5,79         116,12           20,90
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           95,21    1,0845      1,03
+COFINS        95,21    4,9955      4,76
+ICMS         116,12     17,00     19,74
+ICMS FCP     116,12      1,00      1,16
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+MAI/23   136,00
+ABR/23    90,00
+MAR/23    88,00
+FEV/23    99,00
+JAN/23    70,00
+DEZ/22    78,00
+NOV/22    67,00
+OUT/22    77,00
+SET/22    98,00
+AGO/22   101,00
+JUL/22   110,00
+JUN/22   109,00
+MAI/22    93,00
+

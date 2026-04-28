@@ -1,0 +1,52 @@
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+
+DOMICÍLIO DE ENTREGA
+CLINICA DE SAUDE DA FAMILIA DE PINHAO
+RUA SIMAO DIAS S/N S/N SERVICO PUBLICO
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 160 - 0002                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q0003121567                            DOM. BANC.:
+MATRÍCULA: 894726-2022-4-3                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO
+25 DE NOVEMBRO
+PINHAO (AG: 30)
+Abril/2022
+3/894726-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      4.502,00    0,602460    0,763240    3.436,16      3.436,16   18      618,51       2.817,65       18,79         86,58
+0601 Adic. B. Vermelha                                                         470,25        470,25   18       84,64         385,60        2,57         11,85
+     LANÇAMENTOS E SERVIÇOS
+0899 PARCELA COMPENSADA 02/2                                                   322,43                 0         0,00           0,00        0,00          0,00
+0805 MULTA 03/2022                                                              94,17                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2022                                                       7,85                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       4.330,86      3.906,41           703,15       3.203,25       21,36         98,43
+ABR/22   4.502,00
+MAR/22   4.773,00
+FEV/22   4.528,00
+JAN/22   3.569,00 *
+DEZ/21   4.082,00
+NOV/21   3.851,00
+OUT/21   3.633,00
+SET/21   3.221,00
+AGO/21   2.339,00
+JUL/21   2.464,00
+JUN/21   3.262,00
+MAI/21   3.536,00
+ABR/21   4.915,00
+DIC     10,00   0,00   999,00      999
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+

@@ -1,0 +1,49 @@
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL JOAO LIMA FEITOSA
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 150 - 0270                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7001175654                            DOM. BANC.:
+MATRÍCULA: 691711-2021-5-9                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC SEN LOURIVAL BATISTA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Maio/2021
+3/691711-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        425,00    0,580440    0,735340      312,52        312,52   18      56,25         256,26        1,71          7,87
+0601 Adic. B. Amarela                                                            0,74          0,74   18       0,13           0,61        0,00          0,02
+0601 Adic. B. Vermelha                                                          20,12         20,12   18       3,62          16,50        0,11          0,51
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         333,38        333,38           60,00         273,37        1,82          8,40
+MAI/21   425,00
+ABR/21   436,00
+MAR/21   371,00
+FEV/21   307,00
+JAN/21   134,00
+DEZ/20   604,00
+NOV/20   228,00
+OUT/20   236,00
+SET/20   190,00
+AGO/20   226,00
+JUL/20   236,00
+JUN/20   236,00
+MAI/20   311,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+

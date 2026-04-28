@@ -1,0 +1,45 @@
+DELEGACIA DE PINHAO
+PC LEANDRO MACIEL, S/N - PODER PUBLICO - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/582670-6
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                        693,00   0,530720        0,692770        480,09        480,09    18     86,41          480,09       4,62        21,27
+0601 Adic. B. Amarela                                                                 2,57          2,57    18      0,46            2,57       0,02         0,11
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              482,66        482,66           86,86          482,66       4,63        21,38
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         693
+JAN/20         553
+DEZ/19         506
+NOV/19         557
+OUT/19         589
+SET/19         699
+AGO/19         835
+JUL/19         722
+JUN/19         931
+MAI/19         952
+ABR/19        1259
+MAR/19        1419
+FEV/19        1280
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

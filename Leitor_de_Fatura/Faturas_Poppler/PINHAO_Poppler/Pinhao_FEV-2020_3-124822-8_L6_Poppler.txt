@@ -1,0 +1,45 @@
+POSTO TELEFONICO MUNICIPAL
+TRAV MUNICIPAL, S/N - PODER PUBLICO - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Fevereiro/2020
+3/124822-8
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: MONOFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
+0601 Consumo em kWh                         54,00   0,530720        0,692770         37,40         37,40    18      6,73           37,40       0,36         1,65
+0601 Adic. B. Amarela                                                                 0,19          0,19    18      0,03            0,19       0,00         0,01
+
+
+
+
+CCI: Código de Classificação do Item                            Total:               37,59         37,58            6,76           37,58       0,36         1,66
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+FEV/20         54
+JAN/20         42
+DEZ/19         43
+NOV/19         50
+OUT/19         47
+SET/19         43
+AGO/19         52
+JUL/19         51
+JUN/19         58
+MAI/19         46
+ABR/19         50
+MAR/19         43
+FEV/19         47
+DIC MENSAL        5,67   0,00
+DIC TRIMESTRAL   11,34
+DIC ANUAL        22,69
+FIC MENSAL        3,30   0,00
+FIC TRIMESTRAL    6,60
+FIC ANUAL        13,20
+DMIC              3,29   0,00
+DICRI            12,22
+

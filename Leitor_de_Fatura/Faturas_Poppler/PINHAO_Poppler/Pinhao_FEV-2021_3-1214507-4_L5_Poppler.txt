@@ -1,0 +1,54 @@
+POCO ARTESIANO POVOADO BEIJA FLOR DE BAIXO
+
+DOMICÍLIO DE ENTREGA
+POCO ARTESIANO POVOADO BEIJA FLOR DE BAIXO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
+ROTEIRO: 015 - 0140 - 420 - 0901                       LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6019616852                          DOM. BANC.:
+MATRÍCULA: 1214507-2021-2-4                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV BEIJA FLOR, S/N - RUA 6
+AREA RURAL
+PINHAO (AG: 30)
+Fevereiro/2021
+3/1214507-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   25,31          0,00   0       0,00           25,31        0,17          0,77
+0601 Adic. B. Amarela                                                            0,69          0,00   0       0,00            0,69        0,00          0,02
+0610 Subsídio                                                                    2,50          0,00   0       0,00            2,50        0,02          0,08
+     LANÇAMENTOS E SERVIÇOS
+0906 Devolução Subsídio                                                         -2,41                 0       0,00            0,00        0,00          0,00
+0899 ATUALIZAÇÃO MONETÁRIA 12/2020                                               0,23                 0       0,00            0,00        0,00          0,00
+0805 MULTA 12/2020                                                               0,56                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 12/2020                                                       0,14                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          27,02          0,00           0,00           28,50        0,19          0,87
+FEV/21   0,00 *
+JAN/21   0,00 *
+DEZ/20   0,00 *
+NOV/20   0,00 *
+OUT/20   0,00 *
+SET/20   0,00 *
+AGO/20   0,00 *
+JUL/20   0,00
+JUN/20
+MAI/20
+ABR/20
+MAR/20
+FEV/20
+DIC
+FIC
+DMIC
+DICRI
+

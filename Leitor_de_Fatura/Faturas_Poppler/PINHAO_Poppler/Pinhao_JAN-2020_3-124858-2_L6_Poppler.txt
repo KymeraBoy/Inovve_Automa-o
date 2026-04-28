@@ -1,0 +1,48 @@
+SECRETARIA MUNICIPAL DE EDUCACAO
+PC LEANDRO MACIEL, S/N - 49517000
+CENTRO
+PINHAO-SE (AG: 30)
+Janeiro/2020
+3/124858-2
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: TRIFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
+0601 Consumo em kWh                        684,00   0,530720        0,680100        465,19        465,19    18     83,73          465,19       3,29        15,16
+0601 Adic. B. Amarela                                                                11,77         11,77    18      2,12           11,77       0,08         0,38
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 12/2019                                                                   10,17                   0      0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 12/2019                                                            0,17                   0      0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:               487,3        476,96           85,85          476,96       3,37        15,54
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         684
+DEZ/19         722
+NOV/19         724
+OUT/19         692
+SET/19         474
+AGO/19         302
+JUL/19         269
+JUN/19         470
+MAI/19         696
+ABR/19         733
+MAR/19         677
+FEV/19         763
+JAN/19         674
+DIC MENSAL        5,79   0,00
+DIC TRIMESTRAL   11,58
+DIC ANUAL        23,16
+FIC MENSAL        3,36   0,00
+FIC TRIMESTRAL    6,72
+FIC ANUAL        13,45
+DMIC              3,37   0,00
+DICRI            12,22
+

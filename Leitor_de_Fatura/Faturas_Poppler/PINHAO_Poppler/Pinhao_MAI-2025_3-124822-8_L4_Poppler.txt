@@ -1,0 +1,48 @@
+POSTO TELEFONICO MUNICIPAL
+
+TRAV MUNICIPAL, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Maio / 2025
+3/124822-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+1046257695   Energia ativa em kWh   Ponta   23741   23861   1
+                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                       120,00       0,913760        109,65        3,32         109,65   19      20,83   0,712470
+Adic. B. Amarela                                                    2,70        0,08           2,70   19       0,51
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                            -1,34
+
+
+
+
+                                   TOTAL:                         111,01        3,40         112,35           21,34
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           91,00    0,6671      0,60
+COFINS        91,00    3,0729      2,80
+ICMS         112,35     18,00     20,23
+ICMS FCP     112,35      1,00      1,11
+DIC     10,00   0,47   999,00   999,00
+FIC      4,00   2,00   999,00   999,00
+DMIC     7,00   0,42
+DICRI   13,00
+MAI/25   120,00
+ABR/25   179,00
+MAR/25   148,00
+FEV/25   152,00
+JAN/25   137,00
+DEZ/24   119,00
+NOV/24   134,00
+OUT/24   114,00
+SET/24   103,00
+AGO/24   131,00
+JUL/24   126,00
+JUN/24   122,00
+MAI/24    72,00
+

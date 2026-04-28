@@ -1,0 +1,48 @@
+ESCOLA MUNICIPAL CENTRAL
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL CENTRAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 016 - 0140 - 150 - 1417                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: Q3000009854                          DOM. BANC.:
+MATRÍCULA: 567438-2020-12-8                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PC LUIZ ARAUJO DE SANTANA, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Dezembro/2020
+3/567438-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        536,00    0,535510    0,678430      363,64        363,64   18      65,45         298,18        1,98          9,16
+0601 Adic. B. Vermelha                                                          35,98         35,98   18       6,48          29,50        0,20          0,90
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         399,62        399,62           71,93         327,68        2,18         10,06
+DEZ/20   536,00 *
+NOV/20   561,00 *
+OUT/20   850,00
+SET/20   107,00
+AGO/20   895,00
+JUL/20   100,00 *
+JUN/20   100,00 *
+MAI/20   100,00 *
+ABR/20   788,00 *
+MAR/20   794,00
+FEV/20   805,00 *
+JAN/20   469,00
+DEZ/19   865,00 *
+DIC      5,67   0,29   11,34   22,69
+FIC      3,30   2,00    6,60   13,20
+DMIC     3,29   0,16
+DICRI   12,22
+

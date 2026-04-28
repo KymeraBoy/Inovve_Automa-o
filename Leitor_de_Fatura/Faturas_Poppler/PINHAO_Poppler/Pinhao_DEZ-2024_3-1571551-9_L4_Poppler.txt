@@ -1,0 +1,54 @@
+INSTITUTO DE IDENTIFICACOES
+
+PC LEANDRO MACIEL, 0332 - PROX RESTAURANTE DE ERALDINHO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Dezembro / 2024
+3/1571551-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: BIFASICO
+6152532020   Energia ativa em kWh   Ponta   900   989   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                             89,00       0,865760         77,05        3,14          77,05   19      14,64   0,665910
+Adic. B. Amarela                                                         0,29        0,01           0,29   19       0,05
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                 -1,07
+ATUALIZAÇÃO MONETÁRIA 11/2024                                            0,07
+ATUALIZAÇÃO MONETÁRIA 10/2024                                            0,07
+MULTA 11/2024                                                            1,74
+MULTA 10/2024                                                            1,65
+JUROS DE MORA 11/2024                                                    0,14
+JUROS DE MORA 10/2024                                                    0,17
+
+
+
+
+                                        TOTAL:                          80,11        3,15          77,34           14,69
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS           62,63    0,8995      0,56
+COFINS        62,63    4,1433      2,59
+ICMS          77,34     18,00     13,92
+ICMS FCP      77,34      1,00      0,77
+DIC     10,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     7,00   0,00
+DICRI   13,00
+DEZ/24   89,00   0,00
+NOV/24   97,00   0,00
+OUT/24   88,00   0,00
+SET/24   86,00   0,00
+AGO/24   91,00   0,00
+JUL/24   84,00   0,00
+JUN/24   81,00   0,00
+MAI/24   85,00   0,00
+ABR/24   74,00   0,00
+MAR/24   35,00   0,00
+FEV/24   58,00   0,00
+JAN/24   35,00   0,00
+DEZ/23   16,00   0,00
+

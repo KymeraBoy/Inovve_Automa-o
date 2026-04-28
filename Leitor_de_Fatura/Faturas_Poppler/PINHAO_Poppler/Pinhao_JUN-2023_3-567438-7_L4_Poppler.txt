@@ -1,0 +1,49 @@
+ESCOLA MUNICIPAL CENTRAL
+
+PC LUIZ ARAUJO DE SANTANA, S/N - PODER PUBLICO - 49517000
+
+
+CENTRO
+PINHAO (AG: 30)
+Junho / 2023
+3/567438-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+3000009854   Energia ativa em kWh   Ponta   85689   86205   1
+                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                            516,00       0,864410        446,04       21,97         446,04   19      84,74   0,657610
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 04/2023                                            1,52
+MULTA 04/2023                                                           17,24
+JUROS DE MORA 04/2023                                                    2,59
+
+
+
+
+                                        TOTAL:                         467,39       21,97         446,04           84,74
+Tributo    Base de     Alíquota   Valor
+           Cálc.(R$)      (%)      (R$)
+PIS          361,28    1,0845      3,92
+COFINS       361,28    4,9955     18,05
+ICMS         446,04     18,00     80,28
+ICMS FCP     446,04      1,00      4,46
+DIC     7,00   0,00   999,00   999,00
+FIC     4,00   0,00   999,00   999,00
+DMIC    6,00   0,00
+DICRI   8,00
+JUN/23    516,00
+MAI/23    898,00
+ABR/23   1.025,00
+MAR/23     953,00
+FEV/23     375,00
+JAN/23     724,00
+DEZ/22     543,00 *
+NOV/22    534,00 *
+OUT/22    622,00
+SET/22    625,00
+AGO/22    537,00
+JUL/22    476,00 *
+JUN/22    383,00
+

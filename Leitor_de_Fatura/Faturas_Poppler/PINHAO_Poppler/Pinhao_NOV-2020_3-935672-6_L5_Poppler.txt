@@ -1,0 +1,47 @@
+CRECHE JOSE SIQUEIRA FILHO
+
+DOMICÍLIO DE ENTREGA
+CRECHE JOSE SIQUEIRA FILHO
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 014 - 0140 - 300 - 0680                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: E5016767238                          DOM. BANC.:
+MATRÍCULA: 935672-2020-11-9                          DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+POV LAGOA BRANCA, 0
+CENTRO
+PINHAO (AG: 30)
+Novembro/2020
+3/935672-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   20,35         20,35   18      3,66           16,68        0,11          0,51
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          20,35         20,35           3,66           16,68        0,11          0,51
+NOV/20   23,00
+OUT/20   29,00
+SET/20   59,00
+AGO/20   48,00
+JUL/20   47,00
+JUN/20   52,00
+MAI/20   52,00
+ABR/20   42,00
+MAR/20   35,00
+FEV/20    9,00
+JAN/20    3,00
+DEZ/19   32,00
+NOV/19   30,00
+DIC     11,01   0,64   22,03   44,07
+FIC      7,59   1,00   15,19   30,39
+DMIC     5,98   0,64
+DICRI   16,60
+

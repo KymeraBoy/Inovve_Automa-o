@@ -1,0 +1,48 @@
+POSTO TELEFONICO MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+POSTO TELEFONICO MUNICIPAL
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0140 - 145 - 4160                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: A1046257695                            DOM. BANC.:
+MATRÍCULA: 124822-2021-4-4                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV MUNICIPAL, S/N - PODER PUBLICO
+CENTRO
+PINHAO (AG: 30)
+Abril/2021
+3/124822-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         35,00    0,543670    0,688760       24,10         24,10   18      4,33           19,76        0,13          0,61
+0601 Adic. B. Amarela                                                            0,59          0,59   18      0,11            0,49        0,00          0,01
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          24,69         24,69           4,44           20,25        0,13          0,62
+ABR/21   35,00
+MAR/21   33,00
+FEV/21   33,00
+JAN/21   39,00
+DEZ/20   53,00
+NOV/20   48,00
+OUT/20   51,00
+SET/20   51,00
+AGO/20   51,00
+JUL/20   48,00
+JUN/20   47,00
+MAI/20   44,00
+ABR/20   49,00
+DIC      5,67   0,00   11,34   22,69
+FIC      3,30   0,00    6,60   13,20
+DMIC     3,29   0,00
+DICRI   12,22
+
