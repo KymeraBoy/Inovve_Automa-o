@@ -1,0 +1,46 @@
+PM LUCENA QUADRA ESPORTIVA
+
+RUA MANOEL MARINHO, S/N - 58315000
+
+
+COSTINHA
+LUCENA (AG: 1)
+Novembro / 2024
+5/2304105-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008613567   Energia ativa em kWh   Ponta   7213   7359   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH        146,00       0,777730        113,55        4,95         113,55   20      22,71   0,588270
+Adic. B. Amarela                                              1,57        0,06           1,57   20       0,31
+Adic. B. Vermelha                                             8,64        0,38           8,64   20       1,73
+
+
+
+
+                             TOTAL:                         123,76        5,39         123,76           24,75
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          98,97    0,9725      0,96
+COFINS       98,97    4,4795      4,43
+ICMS        123,76     20,00     24,75
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24   146,00 *
+OUT/24   156,00 *
+SET/24   131,00 *
+AGO/24   128,00 *
+JUL/24   127,00 *
+JUN/24   142,00 *
+MAI/24   208,00 *
+ABR/24   207,00 *
+MAR/24   172,00 *
+FEV/24   122,00
+JAN/24    11,00 *
+DEZ/23   152,00 *
+NOV/23   156,00 *
+

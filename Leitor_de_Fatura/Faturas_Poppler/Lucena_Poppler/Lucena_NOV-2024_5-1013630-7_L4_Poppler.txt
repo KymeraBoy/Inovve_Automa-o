@@ -1,0 +1,46 @@
+P M L PREFEITURA MUNICIPAL DE LUCENA
+
+RUA FIRMINO DE SOUSA FALCAO, 736 - 58315000
+
+
+CENTRO
+LUCENA (AG: 1)
+Novembro / 2024
+5/1013630-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008901413   Energia ativa em kWh   Ponta   63480   64281   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh      KWH        801,00       0,777730        622,96       27,17         622,96   20      124,59   0,588270
+Adic. B. Amarela                                              9,96        0,44           9,96   20        1,99
+Adic. B. Vermelha                                            41,76        1,82          41,76   20        8,35
+
+
+
+
+                             TOTAL:                         674,68       29,43         674,68           134,93
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         539,73    0,9725       5,25
+COFINS      539,73    4,4795      24,18
+ICMS        674,68     20,00     134,93
+DIC     12,00   0,00   0,00   0,00
+FIC      4,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24    801,00 *
+OUT/24    719,00 *
+SET/24     639,00 *
+AGO/24     577,00 *
+JUL/24     700,00 *
+JUN/24     749,00 *
+MAI/24   1.226,00 *
+ABR/24   1.127,00 *
+MAR/24   1.115,00 *
+FEV/24   1.110,00
+JAN/24   1.036,00 *
+DEZ/23   1.081,00 *
+NOV/23     974,00 *
+
