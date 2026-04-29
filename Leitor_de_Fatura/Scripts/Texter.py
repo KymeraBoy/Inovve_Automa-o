@@ -1,45 +1,97 @@
 # ============================================================== #
 #     BIBLIOTECAS 
 # ============================================================== #
+
+# Bibliotecas para manipulação de arquivos, planilhas e dados
 import re
-from pathlib import Path
 import sys
 import pandas as pd
-from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
-from openpyxl.utils import get_column_letter
-from collections import defaultdict
-from texter_utils import salvar_arquivo, carregar_arquivo, matriz, consumo, historico
+from pathlib import Path
+
+# Bibliotecas para formatação de planilhas
+from openpyxl.styles    import Font, Alignment, PatternFill, Border, Side
+from openpyxl.utils     import get_column_letter
+from collections        import defaultdict
+
+# Bibliotecas de funções específicas do Texter
+from texter_utils import salvar_arquivo, carregar_arquivo, aba_info_geral, aba_historico_consumo, historico
 from Texter_format_functions.texter_format_enel       import format_enel
 from Texter_format_functions.texter_format_energisa   import format_energisa
 from Texter_format_functions.texter_format_neoenergia import format_neoenergia
-from Texter_format_functions.texter_format_qip        import format_qip
 
 # ============================================================== #
 # CONFIGURAÇÕES
 # ============================================================== #
-diretorio = Path(__file__).resolve().parent.parent
+
+if getattr(sys, "frozen", False):
+    diretorio = Path(sys.executable).resolve().parent
+else:
+    diretorio = Path(__file__).resolve().parent.parent  # caminho base do projeto (pasta Scripts)
 
 PATH_INPUT          = diretorio / "Faturas_Poppler"
 PATH_OUTPUT         = diretorio / "Faturas_Texter"
 CABECALHO_PADRAO    = "RELATORIO DE FATURA - SISTEMA INTEGRALAISER\n" + ("=" * 50) + "\n"
 
+meses = {
+            "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
+            "MAI": 5, "JUN": 6, "JUL": 7, "AGO": 8,
+            "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12
+        }
+
+# ============================================================== #
+# FUNÇÕES
+# ============================================================== #
+
+def parse_data(data_str):
+    mes, ano = data_str.split("/")
+    mes = mes.strip().upper()
+    ano = re.sub(r"\D", "", ano)
+
+    if len(ano) == 0:
+        raise ValueError(f"Ano inválido em: {data_str}")
+
+    return (2000 + int(ano), meses[mes])
+
+def transformar(matriz_consumo):
+    datas = set()
+    for linha in matriz_consumo:
+        for d, _ in linha[1:]:
+            datas.add(d)
+
+    datas_ordenadas = sorted(datas, key=parse_data)
+
+    resultado = []
+    resultado.append(["DATA"] + datas_ordenadas)
+
+    for linha in matriz_consumo:
+        id_ = linha[0]
+        mapa = {d: v for d, v in linha[1:]}
+
+        nova_linha = [id_]
+        for d in datas_ordenadas:
+            nova_linha.append(mapa.get(d, "UNK"))
+
+        resultado.append(nova_linha)
+
+    return resultado
+
 # ============================================================== #
 # MAPEAMENTO DAS FUNÇÕES DE FORMATAÇÃO
 # ============================================================== #
 
-
 FORMATADORES = {
-    "ENEL": format_enel,
+    # "ENEL": format_enel,
     "ENERGISA": format_energisa,
-    "NEOENERGIA":format_neoenergia,    
-    "QIP":format_qip,
+    "NEOENERGIA":format_neoenergia,        
 }
 
 # ORQUESTRADOR
 def texter_orchestrator():
-    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
+    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)  # garante que a pasta de saída exista
 
-    # 1. Seleção de Subpasta
+    # ========== 1. SELEÇÃO DE PASTA ========== #
+    """ Lista as subpastas dentro de PATH_INPUT e permite que o usuário escolha uma delas. A pasta escolhida é então usada como diretório de origem para os arquivos a serem processados. O nome da pasta de destino é gerado automaticamente substituindo "Poppler" por "Texter". """
+
     subfolders = [f.name for f in PATH_INPUT.iterdir() if f.is_dir()]
     print("\n--- SELEÇÃO DE PASTA (ORIGEM: POPPLER) ---")
     for i, folder in enumerate(subfolders):
@@ -55,7 +107,9 @@ def texter_orchestrator():
     
     dst_dir.mkdir(parents=True, exist_ok=True)
 
-    # 2. Seleção de Formatação
+    # ========== 2. SELEÇÃO DE FORMATO ========== #
+    """ Apresenta ao usuário uma lista de formatos disponíveis (baseados nas chaves do dicionário FORMATADORES) e permite que ele escolha um. A função de formatação correspondente à escolha do usuário é então armazenada para uso posterior no processamento dos arquivos. """
+
     print("\n--- QUAL FORMATAÇÃO APLICAR? ---")
     formatos = list(FORMATADORES.keys())
     for i, nome in enumerate(formatos):
@@ -64,7 +118,9 @@ def texter_orchestrator():
     print(fmt_choice)
     funcao_formatadora = FORMATADORES[formatos[fmt_choice]]
 
-    # 3. Escopo de Execução
+    # ========== 3. ESCOPO DE EXECUÇÃO ========== #
+    """ Permite ao usuário escolher entre processar todos os documentos da subpasta ou apenas um documento específico. """
+
     print("\n--- MODO DE EXECUÇÃO ---")
     print("1 - Todos os documentos da subpasta")
     print("2 - Apenas um documento específico")
@@ -78,7 +134,9 @@ def texter_orchestrator():
         file_choice = int(input("Índice do arquivo: "))
         files = [files[file_choice]]
 
-    # 4. Processamento
+    # ========== 4. PROCESSAMENTO ========== #
+    """ Processa os arquivos selecionados aplicando a função de formatação escolhida e salvando os resultados na pasta de destino. """
+
     for file_name in files:
         input_path = src_dir / file_name
         # Regra: Trocar nome do arquivo
@@ -92,89 +150,52 @@ def texter_orchestrator():
         
         salvar_arquivo(output_path, conteudo_formatado) 
 
+    # ========== 5. ANÁLISES ========== #
+    """ Realiza análises nos dados processados, incluindo a criação de matrizes de identificação e consumo. """
 
-    # 5. Análises
-    if fmt_choice == 1:
-        # 5.1 Área da MATRIZ DE IDENTIFICAÇÃO
-        colunas_base_identificacao = ["UNIDADE", "FORNECIMENTO", "NÍVEL DE TENSÃO", "CÓDIGO", "CLASSIFICAÇÃO", "DESTINO", "ENDEREÇO"]
-        max_colunas_identificacao = max((len(linha) for linha in matriz), default=0)
+    # Análise específica para o formato ENERGISA
+    if funcao_formatadora is format_energisa:
 
-        cabecalho_identificacao = []
-        for i in range(max_colunas_identificacao):
-            if i < len(colunas_base_identificacao):
-                cabecalho_identificacao.append(colunas_base_identificacao[i])
-            elif i == max_colunas_identificacao - 1:
-                cabecalho_identificacao.append("COMPLEMENTO")
+        # 5.1 ABA DE INFORMAÇÃO GERAL
+        colunas_base_info_geral = ["UNIDADE", "FORNECIMENTO", "NÍVEL DE TENSÃO", "CÓDIGO", "CLASSIFICAÇÃO", "DESTINO", "ENDEREÇO"]
+        max_colunas_info_geral = max((len(linha) for linha in aba_info_geral), default=0)
+
+        cabecalho_info_geral = []
+        for i in range(max_colunas_info_geral):
+            if i < len(colunas_base_info_geral):
+                cabecalho_info_geral.append(colunas_base_info_geral[i])
+            elif i == max_colunas_info_geral - 1:
+                cabecalho_info_geral.append("COMPLEMENTO")
             else:
-                cabecalho_identificacao.append(f"CAMPO_{i+1}")
+                cabecalho_info_geral.append(f"CAMPO_{i+1}")
 
-        identificacao = [cabecalho_identificacao] + matriz if max_colunas_identificacao > 0 else []
+        info_geral = [cabecalho_info_geral] + aba_info_geral if max_colunas_info_geral > 0 else []
 
-        # 5.2 Área da MATRIZ DE CONSUMO
-        grupos = defaultdict(list)
-        for linha in consumo:
+        # 5.2 ABA DE HISTÓRICO DE CONSUMO
+        grupos_historico_consumo = defaultdict(list)
+        for linha in aba_historico_consumo:
             chave = linha[0]
-            grupos[chave].extend(linha[1:])
+            grupos_historico_consumo[chave].extend(linha[1:])
 
-        consumo_agrupado = []
-        for chave, valores in grupos.items():
-            consumo_agrupado.append([chave] + valores)
+        historico_consumo_agrupado = []
+        for chave, valores in grupos_historico_consumo.items():
+            historico_consumo_agrupado.append([chave] + valores)
 
-        meses = {
-            "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
-            "MAI": 5, "JUN": 6, "JUL": 7, "AGO": 8,
-            "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12
-        }
+        historico_consumo_tratado = transformar(historico_consumo_agrupado)
 
-        def parse_data(data_str):
-            mes, ano = data_str.split("/")
-            mes = mes.strip().upper()
-            ano = re.sub(r"\D", "", ano)
-
-            if len(ano) == 0:
-                raise ValueError(f"Ano inválido em: {data_str}")
-
-            return (2000 + int(ano), meses[mes])
-
-        def transformar(matriz_consumo):
-            datas = set()
-            for linha in matriz_consumo:
-                for d, _ in linha[1:]:
-                    datas.add(d)
-
-            datas_ordenadas = sorted(datas, key=parse_data)
-
-            resultado = []
-            resultado.append(["DATA"] + datas_ordenadas)
-
-            for linha in matriz_consumo:
-                id_ = linha[0]
-                mapa = {d: v for d, v in linha[1:]}
-
-                nova_linha = [id_]
-                for d in datas_ordenadas:
-                    nova_linha.append(mapa.get(d, "UNK"))
-
-                resultado.append(nova_linha)
-
-            return resultado
-
-        consumo_tratado = transformar(consumo_agrupado)
-
-        # 5.3 Formação da planilha (cada matriz em uma aba)
-        df_identificacao = pd.DataFrame(identificacao)
-        df_consumo = pd.DataFrame(consumo_tratado)
+        # 5.3 FORMAÇÃO DA PLANILHA (cada matriz em uma aba)
+        df_info_geral = pd.DataFrame(info_geral)
+        df_historico_consumo = pd.DataFrame(historico_consumo_tratado)
 
         nome_planilha = dst_dir.name.replace("Texter", "Analaiser") + ".xlsx"
         arquivo = dst_dir / nome_planilha
 
         with pd.ExcelWriter(arquivo, engine="openpyxl") as writer:
-            df_identificacao.to_excel(writer, sheet_name="Identificacao", index=False, header=False)
-            df_consumo.to_excel(writer, sheet_name="Consumo", index=False, header=False)
+            df_info_geral.to_excel(writer, sheet_name="INFORMAÇÃO GERAL", index=False, header=False)
+            df_historico_consumo.to_excel(writer, sheet_name="HISTÓRICO DE CONSUMO", index=False, header=False)
 
-        # 5.4 Formatação visual da planilha
+        # 5.4 FORMATAÇÃO VISUAL DA PLANILHA
         from openpyxl import load_workbook
-
         wb = load_workbook(arquivo)
 
         # Estilos base
@@ -208,13 +229,13 @@ def texter_orchestrator():
                     elif eh_cabecalho:
                         cell.fill = fill_claro
 
-        formatar_aba(wb["Identificacao"], cabecalho=True, alternado=True)
-        formatar_aba(wb["Consumo"],       cabecalho=True, alternado=False)
+        formatar_aba(wb["INFORMAÇÃO GERAL"], cabecalho=True, alternado=True)
+        formatar_aba(wb["HISTÓRICO DE CONSUMO"], cabecalho=True, alternado=True)
 
         wb.save(arquivo)
 
-
-    if fmt_choice == 2:
+    # Análise específica para o formato NEOENERGIA
+    if funcao_formatadora is format_neoenergia:
         # ANALISADOR NEOENERGIA (CELPE)
         agrupados = defaultdict(list)
         for v in historico:
@@ -252,12 +273,12 @@ def texter_orchestrator():
             historico[:] = resultado
 
         # CONSUMO
-        for v in consumo:
+        for v in aba_historico_consumo:
             chave = v[0]
             agrupados[chave].extend(v[1:])  # junta os valores
             resultado = [[k] + valores for k, valores in agrupados.items()]    
-        consumo[:] = [[v[0]] + list(set(v[1:])) for v in resultado]
-        meses = [tupla[0] for subvetor in consumo for tupla in subvetor if isinstance(tupla, tuple)]
+        aba_historico_consumo[:] = [[v[0]] + list(set(v[1:])) for v in resultado]
+        meses = [tupla[0] for subvetor in aba_historico_consumo for tupla in subvetor if isinstance(tupla, tuple)]
         meses = list(set(meses))
         ordem_meses = {
             "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
@@ -272,7 +293,7 @@ def texter_orchestrator():
         resultado = []
         resultado.append(meses)
         resultado[0].insert(0,"UCs")
-        for subvetor in consumo:
+        for subvetor in aba_historico_consumo:
             chave = subvetor[0]
             # inicializa com zeros (um para cada mês)
             valores = ["UNK"] * len(meses)
@@ -284,13 +305,13 @@ def texter_orchestrator():
                         idx = meses_index[mes]
                         valores[idx] = valor
             resultado.append([chave] + valores)
-            consumo[:] = resultado
+            aba_historico_consumo[:] = resultado
 
-        df = pd.DataFrame(matriz)    
+        df = pd.DataFrame(aba_info_geral)    
         df.to_excel(dst_dir / "enquadramentos.xlsx", index=False, header=False)
         df = pd.DataFrame(historico)
         df.to_excel(dst_dir / "historico.xlsx", index=False, header=False)
-        df = pd.DataFrame(consumo)
+        df = pd.DataFrame(aba_historico_consumo)
         df.to_excel(dst_dir / "consumo.xlsx", index=False, header=False)
 
 if __name__ == "__main__":

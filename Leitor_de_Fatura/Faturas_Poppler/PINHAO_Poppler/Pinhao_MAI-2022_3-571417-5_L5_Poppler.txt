@@ -1,50 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N SERVICO PUBLICO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 014 - 0140 - 310 - 0081                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: A2003716329                             DOM. BANC.:
-MATRÍCULA: 571417-2022-5-6                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV PARACATU, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Maio/2022
-3/571417-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8537%)     (3,9324%)
-0601 Custo de Disponibilidade                                                   34,53          0,00   0       0,00           34,53        0,29          1,35
-0610 Subsídio                                                                    1,06          0,00   0       0,00            1,06        0,01          0,04
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -1,01                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          34,58          0,00           0,00           35,59        0,30          1,39
-MAI/22   10,00
-ABR/22   12,00
-MAR/22   16,00
-FEV/22   11,00
-JAN/22    6,00
-DEZ/21   25,00
-NOV/21    0,00 *
-OUT/21   11,00
-SET/21    0,00 *
-AGO/21    0,00
-JUL/21    0,00 *
-JUN/21    0,00 *
-MAI/21    0,00 *
-DIC     20,00   3,13   999,00      999
-FIC      6,00   1,00   999,00   999,00
-DMIC    15,00   3,13
-DICRI   26,00
-

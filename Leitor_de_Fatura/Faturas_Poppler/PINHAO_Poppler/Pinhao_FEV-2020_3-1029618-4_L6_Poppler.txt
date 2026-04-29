@@ -1,45 +1,0 @@
-POCO ARTESIANO
-POV BEIJA FLOR DE CIMA, S/N - 49517000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/1029618-4
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Custo de Disponibilidade                                                        34,63         34,63    18      6,23           34,63       0,33         1,53
-0601 Adic. B. Amarela                                                                 0,22          0,22    18      0,04            0,22       0,00         0,01
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               34,85         34,85            6,27           34,85       0,33         1,54
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20           0
-JAN/20          80
-DEZ/19         159
-NOV/19         181
-OUT/19         105
-SET/19          63
-AGO/19          29
-JUL/19          23
-JUN/19          50
-MAI/19          69
-ABR/19          44
-MAR/19          62
-FEV/19          61
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

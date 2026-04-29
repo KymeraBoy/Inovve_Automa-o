@@ -1,47 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-POV BEIJA FLOR DE CIMA, S/N - SERVICO PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Outubro / 2022
-3/305600-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: TRIFASICO
-W3003523223   Energia ativa em kWh   Ponta   43629   44023   1
-                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                     394,00       0,666020        262,41       15,60           0,00   0        0,00   0,626440
-Subsídio                                                          8,13        0,49           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-Devolução Subsídio                                                -7,64       0,00                  0        0,00
-
-
-
-
-                                 TOTAL:                         262,90       16,09           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         270,53    1,0605      2,87
-COFINS      270,53    4,8848     13,22
-ICMS          0,00       0,00     0,00
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-OUT/22   394,00
-SET/22   158,00
-AGO/22   148,00
-JUL/22    70,00
-JUN/22    24,00
-MAI/22   139,00
-ABR/22   235,00
-MAR/22   233,00
-FEV/22   359,00
-JAN/22   101,00
-DEZ/21   115,00
-NOV/21   266,00
-OUT/21   368,00
-

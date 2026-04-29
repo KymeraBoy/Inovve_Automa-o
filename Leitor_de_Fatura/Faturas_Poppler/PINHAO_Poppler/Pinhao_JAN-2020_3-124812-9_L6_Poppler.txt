@@ -1,48 +1,0 @@
-CENTRO DE FISIOTERAPIA
-RUA SIMAO DIAS, S/N - PODER PUBLICO - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Janeiro/2020
-3/124812-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
-0601 Consumo em kWh                        290,00   0,530720        0,680100        197,23        197,23    18     35,50          197,23       1,40         6,42
-0601 Adic. B. Amarela                                                                 4,99          4,99    18      0,89            4,99       0,03         0,16
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 12/2019                                                                    2,80                   0      0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 12/2019                                                            0,05                   0      0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              205,07        202,22           36,39          202,22       1,43         6,58
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         290
-DEZ/19         199
-NOV/19         164
-OUT/19         168
-SET/19         127
-AGO/19         150
-JUL/19         154
-JUN/19         163
-MAI/19         178
-ABR/19         193
-MAR/19         198
-FEV/19         186
-JAN/19         157
-DIC MENSAL        5,79   0,00
-DIC TRIMESTRAL   11,58
-DIC ANUAL        23,16
-FIC MENSAL        3,36   0,00
-FIC TRIMESTRAL    6,72
-FIC ANUAL        13,45
-DMIC              3,37   0,00
-DICRI            12,22
-

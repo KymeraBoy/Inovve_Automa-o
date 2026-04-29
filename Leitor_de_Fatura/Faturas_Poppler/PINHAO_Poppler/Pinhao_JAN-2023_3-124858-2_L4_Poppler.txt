@@ -1,44 +1,0 @@
-SECRETARIA MUNICIPAL DE EDUCACAO
-
-PC LEANDRO MACIEL, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Janeiro / 2023
-3/124858-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7054305921   Energia ativa em kWh   Ponta   0   186   1
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh              186,00       0,825190        153,48        5,73         153,48   18      27,62   0,645820
-
-
-
-
-                          TOTAL:                         153,48        5,73         153,48           27,62
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         125,86    0,8132      1,02
-COFINS      125,86    3,7456      4,71
-ICMS        153,48     18,00     27,62
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-JAN/23   186,00
-DEZ/22   100,00 *
-NOV/22   100,00 *
-OUT/22   100,00 *
-SET/22   713,00 *
-AGO/22   699,00 *
-JUL/22   694,00 *
-JUN/22   535,00
-MAI/22   644,00
-ABR/22   796,00
-MAR/22   722,00 *
-FEV/22   727,00 *
-JAN/22   730,00 *
-

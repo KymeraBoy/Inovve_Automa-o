@@ -1,51 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 420 - 0140                          LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W3003523223                             DOM. BANC.:
-MATRÍCULA: 305600-2021-7-8                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR DE CIMA, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Julho/2021
-3/305600-9
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        248,00    0,545600    0,566790      140,56          0,00   0       0,00          140,56        0,93          4,32
-0601 Adic. B. Vermelha                                                          22,65          0,00   0       0,00           22,65        0,15          0,70
-0610 Subsídio                                                                    8,98          0,00   0       0,00            8,98        0,06          0,27
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -8,64                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         163,55          0,00           0,00          172,19        1,14          5,29
-JUL/21   248,00
-JUN/21   259,00
-MAI/21   105,00
-ABR/21   233,00
-MAR/21   340,00
-FEV/21   311,00
-JAN/21   365,00
-DEZ/20   283,00
-NOV/20   231,00
-OUT/20     0,00
-SET/20     0,00 *
-AGO/20     0,00 *
-JUL/20   100,00 *
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

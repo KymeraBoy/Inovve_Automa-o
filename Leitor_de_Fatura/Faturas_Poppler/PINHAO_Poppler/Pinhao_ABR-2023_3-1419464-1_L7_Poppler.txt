@@ -1,40 +1,0 @@
-JOSEFA BATISTA IRMA
-
-
-RUA GOV LUIZ GARCIA S/N - CENTRO
-PINHAO / SE (AG: 30)
-ABR/2023
-3/1419464-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B1
-RESIDENCIAL/RESIDENCIAL
-Tipo de Fornecimento: MONOFASICO
-                                                                 Base Calc.            ICMS        Tarifa
-                                Preço unit     Valor      PIS/    ICMS (R$)     Aliq
-                                c/ tributos             Cofins                ICMS      (R$)        unit.
-                                               Total
-ITENS DA FATURA   Unid. Quant          (R$)     (R$)      (R$)                  (%)                  (R$)
-Consumo em kWh             48       0,689690    33,10     2,00         0,00        0      0,00   0,647770
-PIS/PASEP   33,10   1,0845    0,35
-COFINS      33,10   4,9955    1,65
-ICMS         0,00      0,00   0,00
-   * Faturamento pela média/mínimo
-
-
-
-
-D5129706868              kWh         Total   972   1020   1   48
-ABR/22        56   31
- MAI/22       44   28
-JUN/22        54   32
- JUL/22       50   29
-AGO/22        52   31
-SET/22        57   32
-OUT/22    v   53   29
-NOV/22        58   30
-DEZ/22        54   32
- JAN/23       50   29
-FEV/23        52   30
-MAR/23        56   31
-ABR/23        48   30
-  Média       53
-

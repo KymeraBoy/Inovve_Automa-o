@@ -1,51 +1,0 @@
-ESCOLA MUNICIPAL MARIA REGINA
-
-RUA ANTONIO TORRES, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Dezembro / 2024
-3/391847-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5051921318   Energia ativa em kWh   Ponta   8852   9126   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            274,00       0,865760        237,22        9,69         237,22   19      45,07   0,665910
-Adic. B. Amarela                                                         0,90        0,04           0,90   19       0,17
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -3,17
-ATUALIZAÇÃO MONETÁRIA 11/2024                                            0,28
-MULTA 11/2024                                                            6,23
-JUROS DE MORA 11/2024                                                    0,52
-
-
-
-
-                                        TOTAL:                         241,98        9,73         238,12           45,24
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          192,85    0,8995      1,74
-COFINS       192,85    4,1433      7,99
-ICMS         238,12     18,00     42,87
-ICMS FCP     238,12      1,00      2,37
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-DEZ/24   274,00   0,00
-NOV/24   348,00   0,00
-OUT/24   315,00   0,00
-SET/24   299,00   0,00
-AGO/24   299,00   0,00
-JUL/24   213,00   0,00
-JUN/24   269,00   0,00
-MAI/24   376,00   0,00
-ABR/24   393,00   0,00
-MAR/24   333,00   0,00
-FEV/24   277,00   0,00
-JAN/24   226,00   0,00
-DEZ/23   237,00   0,00
-

@@ -1,47 +1,0 @@
-ESCOLA MUNICIPAL BEIJA FLOR
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL BEIJA FLOR
-RUA SIMAO DIAS S/N RUA 8
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0140 - 420 - 1180                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: N1039134300                            DOM. BANC.:
-MATRÍCULA: 391850-2022-7-2                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR DE BAIXO, S/N - RUA 8
-AREA RURAL
-PINHAO (AG: 30)
-Julho/2022
-3/391850-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7681%)     (3,5377%)
-0601 Consumo em kWh                         34,00    0,664910    0,847340       28,80         28,80   18      5,18           23,62        0,18          0,83
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          28,80         28,80           5,18           23,62        0,18          0,83
-JUL/22   34,00
-JUN/22   26,00
-MAI/22   30,00
-ABR/22   35,00
-MAR/22   35,00
-FEV/22   19,00
-JAN/22   37,00 *
-DEZ/21   25,00
-NOV/21   25,00
-OUT/21   27,00
-SET/21   24,00
-AGO/21   23,00
-JUL/21   24,00
-DIC     20,00   3,83   999,00      999
-FIC      6,00   1,00   999,00   999,00
-DMIC    15,00   3,83
-DICRI   26,00
-

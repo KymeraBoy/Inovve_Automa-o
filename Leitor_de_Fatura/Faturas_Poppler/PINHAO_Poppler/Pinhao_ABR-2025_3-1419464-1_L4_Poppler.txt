@@ -1,50 +1,0 @@
-COORDENADORIA DA MULHER
-
-RUA GOV LUIZ GARCIA, 0 - 0 - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Abril / 2025
-3/1419464-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-5129706868   Energia ativa em kWh   Ponta   1577   1638   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                             61,00       0,884510         53,95        2,48          53,95   19      10,25   0,675710
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -0,67
-ATUALIZAÇÃO MONETÁRIA 03/2025                                            0,11
-MULTA 03/2025                                                            0,76
-JUROS DE MORA 03/2025                                                    0,09
-
-
-
-
-                                        TOTAL:                          54,24        2,48          53,95           10,25
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           43,69    1,0147      0,44
-COFINS        43,69    4,6737      2,04
-ICMS          53,95     18,00      9,72
-ICMS FCP      53,95      1,00      0,53
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-ABR/25   61,00
-MAR/25   44,00
-FEV/25   59,00
-JAN/25   38,00
-DEZ/24   37,00
-NOV/24   48,00
-OUT/24   41,00
-SET/24   40,00
-AGO/24   36,00
-JUL/24   35,00
-JUN/24   35,00
-MAI/24   38,00
-ABR/24   18,00
-

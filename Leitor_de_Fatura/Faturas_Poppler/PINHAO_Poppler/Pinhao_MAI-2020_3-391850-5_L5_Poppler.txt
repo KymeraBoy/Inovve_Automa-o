@@ -1,51 +1,0 @@
-ESCOLA MUNICIPAL BEIJA FLOR
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL BEIJA FLOR
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 015 - 0140 - 420 - 1180                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: N1039134300                          DOM. BANC.:
-MATRÍCULA: 391850-2020-5-0                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR DE BAIXO, S/N - RUA 8
-AREA RURAL
-PINHAO (AG: 30)
-Maio/2020
-3/391850-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0647%)     (4,9040%)
-0601 Consumo em kWh                         61,00    0,530720    0,698020       42,57         42,57   18      7,66           42,57        0,45          2,08
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 03/2020                                               0,13                 0       0,00            0,00        0,00          0,00
-0805 MULTA 03/2020                                                               1,09                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 03/2020                                                       0,40                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          44,19         42,57           7,66           42,57        0,45          2,08
-MAI/20   61,00 *
-ABR/20   51,00
-MAR/20   79,00
-FEV/20   53,00
-JAN/20   66,00
-DEZ/19   54,00 *
-NOV/19   72,00
-OUT/19   70,00
-SET/19   69,00
-AGO/19   53,00
-JUL/19   57,00
-JUN/19   70,00
-MAI/19   41,00
-DIC     11,01   3,94   22,03   44,07
-FIC      7,59   2,00   15,19   30,39
-DMIC     5,98   0,07
-DICRI   16,60
-

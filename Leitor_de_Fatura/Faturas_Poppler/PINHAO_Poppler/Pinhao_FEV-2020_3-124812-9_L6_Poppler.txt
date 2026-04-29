@@ -1,45 +1,0 @@
-CENTRO DE FISIOTERAPIA
-RUA SIMAO DIAS, S/N - PODER PUBLICO - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/124812-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                        261,00   0,530720        0,692770        180,81        180,81    18     32,54          180,81       1,73         8,01
-0601 Adic. B. Amarela                                                                 0,96          0,96    18      0,17            0,96       0,01         0,04
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              181,77        181,77           32,71          181,77       1,74         8,04
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20         261
-JAN/20         290
-DEZ/19         199
-NOV/19         164
-OUT/19         168
-SET/19         127
-AGO/19         150
-JUL/19         154
-JUN/19         163
-MAI/19         178
-ABR/19         193
-MAR/19         198
-FEV/19         186
-DIC MENSAL        5,67   0,00
-DIC TRIMESTRAL   11,34
-DIC ANUAL        22,69
-FIC MENSAL        3,30   0,00
-FIC TRIMESTRAL    6,60
-FIC ANUAL        13,20
-DMIC              3,29   0,00
-DICRI            12,22
-

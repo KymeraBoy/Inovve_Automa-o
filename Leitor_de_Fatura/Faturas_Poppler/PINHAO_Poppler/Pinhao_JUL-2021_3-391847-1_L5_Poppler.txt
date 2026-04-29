@@ -1,48 +1,0 @@
-ESCOLA MUNICIPAL MARIA REGINA
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL MARIA REGINA
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 140 - 2756                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W1026973499                            DOM. BANC.:
-MATRÍCULA: 391847-2021-7-0                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA ANTONIO TORRES, S/N
-CENTRO
-PINHAO (AG: 30)
-Julho/2021
-3/391847-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   22,06         22,06   18      3,97           18,09        0,12          0,56
-0601 Adic. B. Vermelha                                                           3,39          3,39   18      0,61            2,78        0,01          0,08
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          25,45         25,45           4,58           20,87        0,13          0,64
-JUL/21       0,00 *
-JUN/21     118,00 *
-MAI/21     111,00 *
-ABR/21      18,00
-MAR/21      12,00
-FEV/21       9,00
-JAN/21   1.003,00
-DEZ/20      30,00 *
-NOV/20      30,00 *
-OUT/20      30,00
-SET/20      30,00 *
-AGO/20      30,00 *
-JUL/20      30,00 *
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

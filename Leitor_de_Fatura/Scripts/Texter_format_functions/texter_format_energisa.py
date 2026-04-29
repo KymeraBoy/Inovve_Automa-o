@@ -3,7 +3,7 @@ import re
 from texter_utils import (Index, Index_duplo, Linha, Apagar_linhas, Juntar,
                           Linha_para_Vetor, Justificar, formatar_e_alinhar_tabela,
                           normalizar_tipo_fornecimento,
-                          marcadores, fornecimento, matriz, consumo)
+                          marcadores, fornecimento, aba_info_geral, aba_historico_consumo)
 
 
 def index_sigla_isolada(texto, sigla):
@@ -324,10 +324,10 @@ def format_energisa(texto, filename=None):
 
     if len(vetor) > 6:
         vetor = vetor[:6] + [" ".join(vetor[6:])]
-    if any(linha[0] == vetor[0] for linha in matriz) == False:
-        matriz.append(vetor)
+    if any(linha[0] == vetor[0] for linha in aba_info_geral) == False:
+        aba_info_geral.append(vetor)
     
-    consumo
+    aba_historico_consumo
     vetor = []
     index = Index(texto,"HISTÓRICO_DE_CONSUMO:")
     vetor.append(Linha_para_Vetor(texto,Index(texto,info[0])[0])[1])
@@ -336,5 +336,5 @@ def format_energisa(texto, filename=None):
         if len(linha) == 1:
             linha.append("UNK")
         vetor.append((linha[0],linha[1]))
-    consumo.append(vetor)
+    aba_historico_consumo.append(vetor)
     return texto

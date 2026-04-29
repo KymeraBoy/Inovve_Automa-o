@@ -1,46 +1,0 @@
-PRACA JOSEFA PEREIRA NUNES
-
-PC SEN LOURIVAL BATISTA, SN - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2025
-3/1772647-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: BIFASICO
-W6237288280   Energia ativa em kWh   Ponta   0   1675   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH       1.675,00       0,415270        695,58       39,22           0,00   0        0,00   0,391860
-Adic. B. Vermelha                                             18,63        1,05           0,00   0        0,00
-Adic. B. Vermelha                                            106,93        6,02           0,00   0        0,00
-
-
-
-
-                             TOTAL:                          821,14       46,29           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         821,14    1,0058      8,26
-COFINS      821,14    4,6328     38,03
-ICMS          0,00       0,00     0,00
-DIC      0,00   0,00   0,00   0,00
-FIC      0,00   0,00   0,00   0,00
-DMIC    15,00   0,00
-DICRI    0,00
-AGO/25   1.675,00
-JUL/25
-JUN/25
-MAI/25
-ABR/25
-MAR/25
-FEV/25
-JAN/25
-DEZ/24
-NOV/24
-OUT/24
-SET/24
-AGO/24
-

@@ -1,49 +1,0 @@
-CLINICA DE SAUDE DA FAMILIA DE PINHAO
-
-RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO - 49517000
-
-
-25 DE NOVEMBRO
-PINHAO (AG: 30)
-Julho / 2023
-3/894726-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0003121567   Energia ativa em kWh   Ponta   161013   163296   1
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                           2.283,00       0,864410      1.973,47       97,18       1.973,47   19      374,95   0,657610
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 05/2023                                             4,12
-MULTA 05/2023                                                            58,03
-JUROS DE MORA 05/2023                                                     6,77
-
-
-
-
-                                        TOTAL:                        2.042,39       97,18       1.973,47           374,95
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS        1.598,50    1,0845      17,33
-COFINS     1.598,50    4,9955      79,85
-ICMS       1.973,47     18,00     355,22
-ICMS FCP   1.973,47      1,00      19,73
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-JUL/23   2.283,00
-JUN/23   3.009,00
-MAI/23   3.398,00
-ABR/23   3.750,00
-MAR/23   4.234,00
-FEV/23   4.015,00
-JAN/23   3.873,00
-DEZ/22   3.830,00
-NOV/22   3.483,00
-OUT/22   3.582,00
-SET/22   2.949,00
-AGO/22   2.736,00
-JUL/22   2.326,00
-

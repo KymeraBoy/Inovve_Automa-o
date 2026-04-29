@@ -1,47 +1,0 @@
-GINASIO DE ESPORTES
-
-DOMICÍLIO DE ENTREGA
-GINASIO DE ESPORTES
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-ROTEIRO: 016 - 0140 - 140 - 7440                             LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: B3001240501                                DOM. BANC.:
-MATRÍCULA: 272971-2022-7-0                                 DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC LUIZ ARAUJO DE SANTANA, S/N
-CENTRO
-PINHAO (AG: 30)
-Julho/2022
-3/272971-3
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7681%)     (3,5377%)
-0601 Consumo em kWh                        704,00    0,364340    0,380730      268,03          0,00   0       0,00          268,03        2,05          9,48
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         268,03          0,00           0,00          268,03        2,05          9,48
-JUL/22     704,00
-JUN/22   1.398,00
-MAI/22   1.394,00
-ABR/22   1.733,00
-MAR/22   1.689,00
-FEV/22   1.710,00
-JAN/22   2.059,00
-DEZ/21   1.720,00
-NOV/21   1.192,00
-OUT/21   1.478,00
-SET/21   1.107,00
-AGO/21   1.764,00
-JUL/21   1.586,00
-DIC     10,00   0,00   999,00      999
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-

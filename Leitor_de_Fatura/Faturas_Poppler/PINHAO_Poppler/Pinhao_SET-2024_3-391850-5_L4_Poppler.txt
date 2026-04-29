@@ -1,49 +1,0 @@
-ESCOLA MUNICIPAL BEIJA FLOR
-
-POV BEIJA FLOR DE BAIXO, S/N - RUA 8 - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Setembro / 2024
-3/391850-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-1039134300   Energia ativa em kWh   Ponta   19252   19287   1
-                                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                                      35,00       0,854040         29,89        0,90          29,89   19       5,68   0,665910
-Adic. B. Vermelha                                                                 1,48        0,05           1,48   19       0,28
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                          -0,36
-COMPENSACAO POR INDICADOR -DIC 07/2024                                            -9,57
-
-
-
-
-                                                 TOTAL:                          21,44        0,95          31,37            5,96
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           25,40    0,6671      0,17
-COFINS        25,40    3,0729      0,78
-ICMS          31,37     18,00      5,66
-ICMS FCP      31,37      1,00      0,30
-DIC     20,00   24,15   999,00   999,00
-FIC      6,00    1,00   999,00   999,00
-DMIC    15,00   24,15
-DICRI   26,00
-SET/24   35,00 *   0,00
-AGO/24   34,00 *   0,00
-JUL/24   34,00 *   0,00
-JUN/24   34,00 *   0,00
-MAI/24   34,00 *   0,00
-ABR/24   35,00 *   0,00
-MAR/24   35,00 *   0,00
-FEV/24   28,00     0,00
-JAN/24   35,00 *   0,00
-DEZ/23   34,00     0,00
-NOV/23   46,00     0,00
-OUT/23   34,00 *   0,00
-SET/23   35,00     0,00
-

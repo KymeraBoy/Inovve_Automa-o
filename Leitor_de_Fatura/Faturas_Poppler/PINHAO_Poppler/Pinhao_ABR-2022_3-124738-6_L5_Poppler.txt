@@ -1,52 +1,0 @@
-ILUMINACAO PUBLICA PINHAO
-
-DOMICÍLIO DE ENTREGA
-ILUMINACAO PUBLICA PINHAO
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-ROTEIRO: 088 - 0140 - 099 - 0005                             LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 0                                          DOM. BANC.:
-MATRÍCULA: 124738-2022-4-0                                 DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PINHAO, 0
-CENTRO
-PINHAO (AG: 30)
-Abril/2022
-3/124738-6
-                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo kWh - Ligação Provisória - Ponta     2.359,00    0,335320    0,348340      821,75          0,00   0       0,00          821,75       5,48          25,25
-0601 Consumo em kWh                              70.000,00    0,335320    0,348340   24.384,37          0,00   0       0,00       24.384,37     162,67         749,31
-0601 Adic. B. Vermelha                                                                5.337,16          0,00   0       0,00        5.337,16      35,60         164,00
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 03/2022                                                                      718,68                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 03/2022                                                               71,87                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                     TOTAL:      31.333,83          0,00           0,00       30.543,28     203,75         938,56
-ABR/22   70.000,00
-MAR/22   72.333,00
-FEV/22   65.333,00
-JAN/22   72.333,00
-DEZ/21   72.333,00
-NOV/21   69.904,00
-OUT/21   72.234,00
-SET/21   69.904,00
-AGO/21   72.234,00
-JUL/21   72.234,00
-JUN/21   71.367,00
-MAI/21   73.746,00
-ABR/21   71.367,00
-DIC
-FIC
-DMIC
-DICRI
-

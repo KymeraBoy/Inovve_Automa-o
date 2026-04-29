@@ -1,53 +1,0 @@
-POCO ARTESIANO PREFEITURA MUNICIPAL DE PINHAO
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO PREFEITURA MUNICIPAL DE PINHAO
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 260 - 0250                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: E6003537809                             DOM. BANC.:
-MATRÍCULA: 890518-2022-3-0                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV ESPINHEIRO, S/N
-AREA RURAL
-PINHAO (AG: 30)
-Março/2022
-3/890518-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7362%)     (3,3912%)
-0601 Custo de Disponibilidade                                                   28,45          0,00   0       0,00           28,45        0,21          0,96
-0601 Adic. B. Vermelha                                                           7,40          0,00   0       0,00            7,40        0,05          0,25
-0610 Subsídio                                                                    1,81          0,00   0       0,00            1,81        0,01          0,06
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -1,74                 0       0,00            0,00        0,00          0,00
-0805 MULTA 02/2022                                                               0,49                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 02/2022                                                       0,01                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          36,42          0,00           0,00           37,66        0,27          1,27
-MAR/22    48,00
-FEV/22    48,00
-JAN/22    91,00
-DEZ/21    73,00 *
-NOV/21    76,00 *
-OUT/21    74,00 *
-SET/21    76,00
-AGO/21    48,00
-JUL/21    36,00
-JUN/21    79,00
-MAI/21    42,00
-ABR/21   108,00
-MAR/21    60,00
-DIC     20,00   0,00   999,00      999
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-

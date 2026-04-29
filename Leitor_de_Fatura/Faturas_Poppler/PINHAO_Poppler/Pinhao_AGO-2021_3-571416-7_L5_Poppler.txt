@@ -1,51 +1,0 @@
-POCO ARTESIANO PARACATU
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO PARACATU
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 260 - 0440                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6010924406                             DOM. BANC.:
-MATRÍCULA: 571416-2021-8-4                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV ESPINHEIRO, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Agosto/2021
-3/571416-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6755%)     (3,1114%)
-0601 Consumo em kWh                         61,00    0,545600    0,567060       34,59          0,00   0       0,00           34,59        0,23          1,07
-0601 Adic. B. Vermelha                                                           6,01          0,00   0       0,00            6,01        0,04          0,19
-0610 Subsídio                                                                    2,20          0,00   0       0,00            2,20        0,01          0,07
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -2,12                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          40,68          0,00           0,00           42,80        0,28          1,33
-AGO/21    61,00
-JUL/21    52,00
-JUN/21    66,00 *
-MAI/21    35,00
-ABR/21     5,00
-MAR/21    10,00
-FEV/21   236,00
-JAN/21    50,00 *
-DEZ/20    51,00 *
-NOV/20    51,00
-OUT/20    51,00 *
-SET/20     0,00 *
-AGO/20    58,00
-DIC     11,01   31,15   22,03   44,07
-FIC      7,59    3,00   15,19   30,39
-DMIC     5,98   21,18
-DICRI   16,60
-

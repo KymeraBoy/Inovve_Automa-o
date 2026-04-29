@@ -1,50 +1,0 @@
-ESCOLA MUNICIPAL JUSTINO
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL JUSTINO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0140 - 300 - 1600                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: A1012541661                            DOM. BANC.:
-MATRÍCULA: 391846-2021-3-1                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV LAGOA BRANCA, S/N - RUA 3
-AREA RURAL
-PINHAO (AG: 30)
-Março/2021
-3/391846-3
-                                                      TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                          QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                           43,00    0,535510    0,678430       29,17         29,17   18      5,25           23,91        0,16          0,73
-0601 Adic. B. Amarela                                                              0,73          0,73   18      0,13            0,59        0,00          0,02
-     LANÇAMENTOS E SERVIÇOS
-0999 RECEBIMENTO A MAIOR ( - ) 03/2021                                           -23,50                 0
-
-
-
-
-CCI: Código de Classificação do Item                              TOTAL:           6,40         29,90           5,38           24,50        0,16          0,75
-MAR/21   43,00 *
-FEV/21   43,00 *
-JAN/21   43,00 *
-DEZ/20   30,00 *
-NOV/20    0,00
-OUT/20   47,00 *
-SET/20   48,00 *
-AGO/20   48,00 *
-JUL/20    0,00
-JUN/20   30,00
-MAI/20   53,00 *
-ABR/20   54,00 *
-MAR/20   55,00 *
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

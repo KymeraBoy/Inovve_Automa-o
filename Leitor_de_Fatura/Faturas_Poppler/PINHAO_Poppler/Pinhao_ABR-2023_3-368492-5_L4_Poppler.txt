@@ -1,45 +1,0 @@
-BARRACAO MUNICIPAL DE CULTURA
-
-POV RAJAS, SN - PODER PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Abril / 2023
-3/368492-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-2003877179   Energia ativa em kWh   Ponta   3056   3056   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          41,99        2,09          41,99   18       7,55
-
-
-
-
-                                   TOTAL:                         41,99        2,09          41,99            7,55
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           34,43    1,0845      0,37
-COFINS        34,43    4,9955      1,72
-ICMS          41,99     17,00      7,14
-ICMS FCP      41,99      1,00      0,41
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-ABR/23    0,00 *
-MAR/23   50,00 *
-FEV/23    0,00 *
-JAN/23    0,00 *
-DEZ/22    0,00 *
-NOV/22    0,00 *
-OUT/22    0,00 *
-SET/22    0,00 *
-AGO/22    0,00 *
-JUL/22    0,00
-JUN/22    0,00 *
-MAI/22    0,00 *
-ABR/22    0,00 *
-

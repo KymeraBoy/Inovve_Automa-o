@@ -214,7 +214,7 @@ def cropper_logic_energisa(input_path, output_path, template):
     dir_path = os.path.dirname(output_path)
     cropped_name = novo_nome.replace(".pdf", "_Cropped.pdf")
     output_path = os.path.join(dir_path, cropped_name)
-    output_path = obter_caminho_unico(dir_path, cropped_name)
+    # output_path = obter_caminho_unico(dir_path, cropped_name)
 
     if len(new_doc) > 0:
         new_doc.save(output_path)

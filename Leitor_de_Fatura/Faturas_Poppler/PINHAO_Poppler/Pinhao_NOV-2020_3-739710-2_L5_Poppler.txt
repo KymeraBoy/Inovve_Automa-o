@@ -1,47 +1,0 @@
-CEMITERIO MUNICIPAL SAO JOSE
-
-DOMICÍLIO DE ENTREGA
-CEMITERIO MUNICIPAL SAO JOSE
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 016 - 0140 - 140 - 1018                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5121488498                          DOM. BANC.:
-MATRÍCULA: 739710-2020-11-5                          DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOAO ALVES FILHO, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Novembro/2020
-3/739710-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   20,35         20,35   18      3,66           16,68        0,11          0,51
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          20,35         20,35           3,66           16,68        0,11          0,51
-NOV/20   13,00
-OUT/20    1,00
-SET/20    2,00
-AGO/20    1,00
-JUL/20    0,00 *
-JUN/20    0,00 *
-MAI/20    2,00
-ABR/20    0,00 *
-MAR/20    1,00
-FEV/20    2,00
-JAN/20    3,00
-DEZ/19    2,00
-NOV/19   13,00
-DIC      5,67   0,64   11,34   22,69
-FIC      3,30   1,00    6,60   13,20
-DMIC     3,29   0,64
-DICRI   12,22
-

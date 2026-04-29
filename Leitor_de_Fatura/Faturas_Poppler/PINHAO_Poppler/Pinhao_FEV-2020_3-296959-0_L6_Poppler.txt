@@ -1,45 +1,0 @@
-BIBLIOTECA MARIA DE LOURDES MENDONCA
-RUA SIMAO DIAS, S/N - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/296959-0
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                      1.863,00   0,530720        0,692770      1.290,64      1.290,64    18     232,32        1.290,64      12,41        57,18
-0601 Adic. B. Amarela                                                                 6,92          6,92    18       1,24            6,92       0,07         0,30
-
-
-
-
-CCI: Código de Classificação do Item                            Total:             1297,56      1.297,56           233,56         1.297,56     12,48        57,48
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20        1863
-JAN/20        1371
-DEZ/19        1613
-NOV/19        1547
-OUT/19        1127
-SET/19         816
-AGO/19         697
-JUL/19         634
-JUN/19         979
-MAI/19        1287
-ABR/19        1439
-MAR/19        1405
-FEV/19        1626
-DIC MENSAL        5,67   0,00
-DIC TRIMESTRAL   11,34
-DIC ANUAL        22,69
-FIC MENSAL        3,30   0,00
-FIC TRIMESTRAL    6,60
-FIC ANUAL        13,20
-DMIC              3,29   0,00
-DICRI            12,22
-

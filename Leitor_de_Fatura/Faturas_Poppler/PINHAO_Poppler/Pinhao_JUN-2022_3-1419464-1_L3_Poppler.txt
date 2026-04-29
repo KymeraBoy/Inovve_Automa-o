@@ -1,46 +1,0 @@
-JOSEFA BATISTA IRMA
-RUA GOV LUIZ GARCIA S/N - CENTRO
-PINHAO / SE (AG: 30)
-JUN/2022
-3/1419464-1
-Grp/Sbg:MTC-CONVENCIONAL BAIXA TENSÃO / B1
-Cls/Sbc:RESIDENCIAL/RESIDENCIAL MONOFÁSICA
-JUN/21
- JUL/21
-AGO/21
-SET/21
-OUT/21
-NOV/21
-DEZ/21
- JAN/22
-FEV/22    42
-MAR/22    56
-ABR/22    44
- MAI/22   54
-  Média   49
-         LEITURAS
-Anterior 26/05/22      436 kWh
-Atual    27/06/22      490 kWh
-
-Consumo                 54 kWh
-Período                32 dias
-Constante do medidor
-                                                                 BASE                   BASE CALC.
-                                   TARIFA C/    Valor Total      CALC. Aliq.   ICMS     PIS/COFINS       PIS ($)   COFINS ($)
- CCI Descrição             QUANT. IMPOSTOS             (R$)   ICMS(R$) ICMS     (R$)           (R$)    1,0845%       4,9955%
-601 Consumo em kWh           54     0,962490         51,97        51,97 25        12,99        38,97       0,42          1,94
-     LANÇAMENTOS E SERVIÇOS
-899 PARCELAMENTO DEB. 04/6                          279,37               0
-805 MULTA 04/2022                                     6,65               0
-804 JUROS DE MORA 04/2022                             2,88               0
-
-
-
-
-CCI: Código de Classificação do Item   Total:       340,87       51,97           12,99        38,97        0,42          1,94
-MENSAL    APURADO TRIMEST.   ANUAL
-  10,00       0,24  999,00   999,00
-   4,00       1,00  999,00   999,00
-   7,00       0,24
-  13,00
-

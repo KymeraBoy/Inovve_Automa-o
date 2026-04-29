@@ -1,45 +1,0 @@
-BARRACAO MUNICIPAL DE CULTURA
-
-POV BEIJA FLOR DE CIMA, S/N - PODER PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Abril / 2023
-3/391852-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-2005917973   Energia ativa em kWh   Ponta   8621   8671   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          42,02        2,09          42,02   18       7,56
-
-
-
-
-                                   TOTAL:                         42,02        2,09          42,02            7,56
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           34,45    1,0845      0,37
-COFINS        34,45    4,9955      1,72
-ICMS          42,02     17,00      7,14
-ICMS FCP      42,02      1,00      0,42
-DIC     20,00   3,87   999,00   999,00
-FIC      6,00   1,00   999,00   999,00
-DMIC    15,00   3,87
-DICRI   26,00
-ABR/23   50,00 *
-MAR/23    0,00
-FEV/23   50,00 *
-JAN/23    0,00 *
-DEZ/22   50,00 *
-NOV/22   50,00 *
-OUT/22   50,00 *
-SET/22    0,00 *
-AGO/22    0,00 *
-JUL/22    0,00
-JUN/22    0,00 *
-MAI/22   50,00 *
-ABR/22    0,00 *
-

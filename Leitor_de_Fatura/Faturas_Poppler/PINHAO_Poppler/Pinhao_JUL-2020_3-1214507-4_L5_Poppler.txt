@@ -1,43 +1,0 @@
-POCO ARTESIANO POVOADO BEIJA FLOR DE BAIXO
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR, S/N - RUA 6 - CEP:49517-000
-AREA RURAL
-PINHAO (AG: 30)
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
-ROTEIRO: 015 - 0140 - 420 - 0901                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6019616852                          DOM. BANC.:
-MATRÍCULA: 1214507-2020-7-5                          DOM. ENT.:
-Julho/2020
-3/1214507-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9064%)     (4,1747%)
-0601 Custo de Disponibilidade                                                   25,24          0,00   0       0,00           25,24        0,23          1,05
-0610 Subsídio                                                                    2,86          0,00   0       0,00            2,86        0,02          0,12
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -2,72                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          25,38          0,00           0,00           28,10        0,25          1,17
-JUL/20   0,00
-JUN/20
-MAI/20
-ABR/20
-MAR/20
-FEV/20
-JAN/20
-DEZ/19
-NOV/19
-OUT/19
-SET/19
-AGO/19
-JUL/19
-DIC
-FIC
-DMIC
-DICRI
-

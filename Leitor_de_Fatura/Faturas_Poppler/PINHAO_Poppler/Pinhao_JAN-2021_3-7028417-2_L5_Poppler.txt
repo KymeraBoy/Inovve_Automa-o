@@ -1,42 +1,0 @@
-CEMITERIO MUNICIPAL SAO JOSE
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOAO ALVES FILHO, S/N - PODER PUBLICO - AV GOV JOAO ALVES FILHO
-CENTRO
-PINHAO
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 016 - 0140 - 140 - 1018                             LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5121488498                                DOM. BANC.:
-MATRÍCULA: 7028417-2021-1-1                                 DOM. ENT.:
-Janeiro/2021
-3/7028417-2
-                                                           TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                               QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em Kwh Recuperado                 10.607,00                            7.195,55      7.195,55   18      1.295,16       5.899,99       39,36        181,30
-     LANÇAMENTOS E SERVIÇOS
-0603 CUSTO ADMINISTRAT. DE INSPECAO 01/2021                                           112,59
-
-
-
-
-CCI: Código de Classificação do Item                                   TOTAL:       7.308,14      7.195,55           1.295,16       5.899,99       39,36        181,30
-JAN/21
-DEZ/20
-NOV/20
-OUT/20
-SET/20
-AGO/20
-JUL/20
-JUN/20
-MAI/20
-ABR/20
-MAR/20
-FEV/20
-JAN/20
-DIC
-FIC
-DMIC
-DICRI
-

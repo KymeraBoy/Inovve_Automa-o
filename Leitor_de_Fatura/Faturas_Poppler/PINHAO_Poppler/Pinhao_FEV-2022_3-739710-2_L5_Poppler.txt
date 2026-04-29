@@ -1,48 +1,0 @@
-CEMITERIO MUNICIPAL SAO JOSE
-
-DOMICÍLIO DE ENTREGA
-CEMITERIO MUNICIPAL SAO JOSE
-RUA SIMAO DIAS S/N S/N PODER PUBLICO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 140 - 1018                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5121488498                            DOM. BANC.:
-MATRÍCULA: 739710-2022-2-0                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOAO ALVES FILHO, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Fevereiro/2022
-3/739710-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
-0601 Consumo em kWh                        539,00    0,580440    0,744780      401,44        401,44   18      72,25         329,17        2,91         13,41
-0601 Adic. B. Vermelha                                                          98,20         98,20   18      17,68          80,52        0,71          3,28
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         499,64        499,64           89,93         409,69        3,62         16,69
-FEV/22   539,00
-JAN/22   572,00
-DEZ/21   736,00
-NOV/21   589,00
-OUT/21     9,00
-SET/21     1,00
-AGO/21     4,00
-JUL/21     3,00
-JUN/21     6,00
-MAI/21     2,00
-ABR/21     3,00
-MAR/21     1,00
-FEV/21     3,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

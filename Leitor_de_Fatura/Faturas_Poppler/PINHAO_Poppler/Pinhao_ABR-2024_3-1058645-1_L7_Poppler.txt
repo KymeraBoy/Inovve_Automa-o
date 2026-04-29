@@ -1,40 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-
-POV BEIJA FLOR DE BAIXO S/N - AREA RURAL
-PINHAO / SE (AG: 30)
-ABR/2024
-3/1058645-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B1
-RESIDENCIAL/RESIDENCIAL
-Tipo de Fornecimento: BIFASICO
-                                                                         Base Calc.            ICMS      Tarifa
-                                         Preço unit    Valor      PIS/    ICMS (R$)     Aliq
-                                         c/ tributos            Cofins                ICMS      (R$)      unit.
-                                                       Total
-ITENS DA FATURA            Unid. Quant          (R$)    (R$)      (R$)                  (%)               (R$)
-Custo de Disponibilidade                                35,02     2,11         0,00        0      0,00
-PIS/PASEP   35,02   1,0805    0,37
-COFINS      35,02   4,9771    1,74
-ICMS         0,00      0,00   0,00
-   * Faturamento pela média/mínimo
-
-
-
-
-W6008184201              kWh         Total   6232   6232   1   0
-ABR/23        50    * 32
- MAI/23       0     * 29
-JUN/23        50    * 30
- JUL/23       50    * 32
-AGO/23        50    * 30
-SET/23         0      32
-OUT/23    v   50    * 30
-NOV/23         0    * 30
-DEZ/23        330     32
- JAN/24       145     29
-FEV/24         0      30
-MAR/24         0      28
-ABR/24         0      32
-  Média       56
-

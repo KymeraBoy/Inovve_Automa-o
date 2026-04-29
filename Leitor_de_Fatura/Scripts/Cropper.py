@@ -17,7 +17,10 @@ from Cropper_logic_functions.cropper_logic_neoenergia   import cropper_logic_neo
 # CONFIGURAÇÕES
 # ============================================================== #
 
-diretorio = Path(__file__).resolve().parent.parent
+if getattr(sys, "frozen", False):
+    diretorio = Path(sys.executable).resolve().parent
+else:
+    diretorio = Path(__file__).resolve().parent.parent
 
 PATH_FATURAS        = diretorio / "Faturas"            
 PATH_CROPPED        = diretorio / "Faturas_Cropped"    

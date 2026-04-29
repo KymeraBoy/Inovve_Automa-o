@@ -1,45 +1,0 @@
-ESCOLA MUNICIPAL JOAO LIMA FEITOSA
-PC SEN LOURIVAL BATISTA, S/N - PODER PUBLICO - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/691711-6
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                        650,00   0,530720        0,692770        450,30        450,30    18     81,05          450,30       4,33        19,95
-0601 Adic. B. Amarela                                                                 2,40          2,40    18      0,43            2,40       0,02         0,10
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               452,7        452,70           81,48          452,70       4,34        20,05
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20        650
-JAN/20        513
-DEZ/19        892
-NOV/19        905
-OUT/19        897
-SET/19        793
-AGO/19        766
-JUL/19        462
-JUN/19        957
-MAI/19        1125
-ABR/19        1193
-MAR/19        1132
-FEV/19        768
-DIC MENSAL        5,67   0,00
-DIC TRIMESTRAL   11,34
-DIC ANUAL        22,69
-FIC MENSAL        3,30   0,00
-FIC TRIMESTRAL    6,60
-FIC ANUAL        13,20
-DMIC              3,29   0,00
-DICRI            12,22
-

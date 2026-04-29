@@ -1,49 +1,0 @@
-CENTRO DE FISIOTERAPIA
-
-DOMICÍLIO DE ENTREGA
-CENTRO DE FISIOTERAPIA
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 1469                         LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: E6006676613                            DOM. BANC.:
-MATRÍCULA: 124812-2021-11-0                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA SIMAO DIAS, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Novembro/2021
-3/124812-9
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        331,00    0,580440    0,735340      243,40        243,40   18      43,81         199,58        1,33          6,13
-0601 Adic. B. Amarela                                                           51,27         51,27   18       9,23          42,04        0,28          1,29
-0601 Adic. B. Vermelha                                                           8,27          8,27   18       1,48           6,78        0,04          0,21
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         302,94        302,94           54,52         248,40        1,65          7,63
-NOV/21   331,00
-OUT/21   413,00
-SET/21   260,00
-AGO/21   128,00
-JUL/21   162,00
-JUN/21   174,00
-MAI/21   250,00
-ABR/21   214,00
-MAR/21   225,00
-FEV/21   217,00
-JAN/21   192,00
-DEZ/20   121,00
-NOV/20   119,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

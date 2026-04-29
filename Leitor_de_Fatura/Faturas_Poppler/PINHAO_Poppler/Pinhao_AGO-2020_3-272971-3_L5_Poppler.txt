@@ -1,49 +1,0 @@
-GINASIO DE ESPORTES
-
-DOMICÍLIO DE ENTREGA
-GINASIO DE ESPORTES
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 016 - 0140 - 140 - 7440                       LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: B3001240501                          DOM. BANC.:
-MATRÍCULA: 272971-2020-8-2                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC LUIZ ARAUJO DE SANTANA, S/N
-CENTRO
-PINHAO (AG: 30)
-Agosto/2020
-3/272971-3
-                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (1,0010%)     (4,6107%)
-0601 Consumo em kWh                         1.698,00    0,535510    0,701030    1.190,36      1.190,36   18      214,26       1.190,36       11,91         54,88
-     LANÇAMENTOS E SERVIÇOS
-0904 COMPENSACAO POR DIC MENSAL 06/2020                                            -0,53                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                               TOTAL:       1.189,83      1.190,36           214,26       1.190,36       11,91         54,88
-AGO/20   1.698,00
-JUL/20     129,00
-JUN/20       0,00
-MAI/20      83,00
-ABR/20      93,00
-MAR/20   3.018,00
-FEV/20       0,00
-JAN/20   1.501,00
-DEZ/19   1.585,00
-NOV/19   1.093,00
-OUT/19   1.861,00
-SET/19   1.835,00
-AGO/19   2.358,00
-DIC      5,67   6,58   11,34   22,69
-FIC      3,30   3,00    6,60   13,20
-DMIC     3,29   4,05
-DICRI   12,22
-

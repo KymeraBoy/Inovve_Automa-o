@@ -2,7 +2,7 @@ import re
 
 from texter_utils import (Index, Linha, Apagar_linhas, Juntar,
                           Linha_para_Vetor, Justificar,
-                          matriz, historico, consumo)
+                          aba_info_geral, historico, aba_historico_consumo)
 
 # ============================================================== #
 # EXECUÇÃO - NEOENERGIA
@@ -118,8 +118,8 @@ def format_neoenergia(texto, filename=None):
         vetor.extend(Linha_para_Vetor(texto, cod[i]+5))
         vetor.extend(Linha_para_Vetor(texto, cod[i]+3))
         chave = vetor[0]
-        if not any(sub[0] == chave for sub in matriz):
-            matriz.append(vetor)
+        if not any(sub[0] == chave for sub in aba_info_geral):
+            aba_info_geral.append(vetor)
         # HISTORICO
         grab = []
         grab.extend(Linha_para_Vetor(texto, cod[i]+1))

@@ -1,50 +1,0 @@
-INSTITUTO DE IDENTIFICACOES
-
-PC LEANDRO MACIEL, 0332 - PROX RESTAURANTE DE ERALDINHO - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Outubro / 2024
-3/1571551-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-6152532020   Energia ativa em kWh   Ponta   715   803   1
-                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                        88,00       0,856590         75,38        2,46          75,38   19      14,32   0,665910
-Adic. B. Vermelha                                                   8,25        0,26           8,25   19       1,56
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                            -1,06
-MULTA 09/2024                                                       1,53
-JUROS DE MORA 09/2024                                               0,08
-
-
-
-
-                                   TOTAL:                          84,18        2,72          83,63           15,88
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           67,72    0,7182      0,48
-COFINS        67,72    3,3082      2,24
-ICMS          83,63     18,00     15,06
-ICMS FCP      83,63      1,00      0,82
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-OUT/24   88,00   0,00
-SET/24   86,00   0,00
-AGO/24   91,00   0,00
-JUL/24   84,00   0,00
-JUN/24   81,00   0,00
-MAI/24   85,00   0,00
-ABR/24   74,00   0,00
-MAR/24   35,00   0,00
-FEV/24   58,00   0,00
-JAN/24   35,00   0,00
-DEZ/23   16,00   0,00
-NOV/23   23,00   0,00
-OUT/23   27,00   0,00
-

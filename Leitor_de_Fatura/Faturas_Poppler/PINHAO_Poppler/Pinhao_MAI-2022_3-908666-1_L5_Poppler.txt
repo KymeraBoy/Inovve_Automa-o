@@ -1,50 +1,0 @@
-ILUMINACAO PUBLICA PREFEITURA MUNICIPAL DE
-PINHAO
-DOMICÍLIO DE ENTREGA
-ILUMINACAO PUBLICA PREFEITURA MUNICIPAL DE PINHAO
-RUA SIMAO DIAS S/N CPREDE
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-ROTEIRO: 016 - 0140 - 160 - 3630                             LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7001637020                                DOM. BANC.:
-MATRÍCULA: 908666-2022-5-2                                 DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA CINCO DE NOVEMBRO, 00000 - CPREDE
-CENTRO
-PINHAO (AG: 30)
-Maio/2022
-3/908666-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8537%)     (3,9324%)
-0601 Consumo em kWh                      3.016,00    0,372890    0,391630    1.181,16          0,00   0       0,00        1.181,16       10,08         46,44
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 04/2022                                                              25,84                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 04/2022                                                       1,72                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:       1.208,72          0,00           0,00        1.181,16       10,08         46,44
-MAI/22   3.016,00
-ABR/22   3.006,00
-MAR/22   3.111,00
-FEV/22   2.739,00
-JAN/22   3.236,00
-DEZ/21   3.038,00
-NOV/21   3.032,00
-OUT/21   3.021,00
-SET/21   3.481,00
-AGO/21   3.410,00
-JUL/21   3.770,00
-JUN/21   3.512,00
-MAI/21   3.431,00
-DIC     10,00   0,00   999,00      999
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-

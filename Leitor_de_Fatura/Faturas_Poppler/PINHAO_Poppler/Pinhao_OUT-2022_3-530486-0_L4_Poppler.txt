@@ -1,44 +1,0 @@
-MERCADO MUNICIPAL DE PINHAO
-
-PC LEANDRO MACIEL, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Outubro / 2022
-3/530486-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-2003986971   Energia ativa em kWh   Ponta   66262   66354   1
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh               92,00       0,837360         77,03        3,75          77,03   18      13,86   0,645820
-
-
-
-
-                          TOTAL:                          77,03        3,75          77,03           13,86
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          63,17    1,0605      0,67
-COFINS       63,17    4,8848      3,08
-ICMS         77,03     18,00     13,86
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-OUT/22   92,00
-SET/22   86,00
-AGO/22   87,00
-JUL/22   65,00
-JUN/22   96,00
-MAI/22   46,00
-ABR/22   41,00
-MAR/22   49,00
-FEV/22   45,00
-JAN/22   21,00
-DEZ/21   80,00
-NOV/21   58,00
-OUT/21   61,00
-

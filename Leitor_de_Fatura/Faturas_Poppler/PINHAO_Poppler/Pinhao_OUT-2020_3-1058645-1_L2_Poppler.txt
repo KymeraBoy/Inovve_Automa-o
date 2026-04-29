@@ -1,44 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-POV BEIJA FLOR DE BAIXO S/N - AREA RURAL
-PINHAO / SE (AG: 30)
-OUT/2020
-3/1058645-1
-Grp/Sbg:MTC-CONVENCIONAL BAIXA TENSÃO / B1
-Cls/Sbc:RESIDENCIAL/RESIDENCIAL BIFÁSICA
-OUT/19        214   *
-NOV/19        194
-DEZ/19        202   *
- JAN/20       143   *
-FEV/20        185   *
-MAR/20    v   77    *
-ABR/20         5
- MAI/20        2
-JUN/20         2
- JUL/20        3
-AGO/20        66
-SET/20        19
-  Média       93
-         LEITURAS
-Anterior 23/09/20      5488 kWh
-Atual    23/10/20      5507 kWh
-
-Consumo                  19 kWh
-Período                 30 dias
-Constante do medidor
-                                                                       BASE                    BASE CALC.
-                                         TARIFA C/    Valor Total      CALC. Aliq.   ICMS                      PIS ($)   COFINS ($)
-                                                                                               PIS/COFINS
-CCI Descrição                    QUANT. IMPOSTOS             (R$)   ICMS(R$) ICMS     (R$)                   0,6671%       3,0729%
-                                                                                                      (R$)
-601   Custo de Disponibilidade                             27,81           0   0        0,00         27,81       0,18          0,85
-
-
-
-
-CCI: Código de Classificação do Item         Total:        27,81           0            0,00         27,81       0,18          0,85
-MENSAL    APURADO TRIMEST.   ANUAL
-  11,01       0,00   22,03    44,07
-   7,59       0,00   15,19    30,39
-   5,98       0,00
-  16,60
-

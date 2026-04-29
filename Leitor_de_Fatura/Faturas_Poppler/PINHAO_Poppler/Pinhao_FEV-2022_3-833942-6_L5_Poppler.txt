@@ -1,48 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE PINHAO
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0140 - 320 - 0134                         LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6016210511                            DOM. BANC.:
-MATRÍCULA: 833942-2022-2-4                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV LAGOA, 00000
-AREA RURAL
-PINHAO (AG: 30)
-Fevereiro/2022
-3/833942-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
-0601 Consumo em kWh                        759,00    0,580440    0,744780      565,29        565,29   18      101,75         463,54        4,10         18,88
-0601 Adic. B. Vermelha                                                         138,29        138,29   18       24,89         113,39        1,00          4,62
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         703,58        703,58           126,64         576,93        5,10         23,50
-FEV/22    759,00 *
-JAN/22    445,00
-DEZ/21     652,00
-NOV/21     767,00
-OUT/21   1.290,00
-SET/21     684,00 *
-AGO/21      28,00
-JUL/21    644,00 *
-JUN/21     756,00
-MAI/21   1.032,00
-ABR/21     868,00
-MAR/21     973,00
-FEV/21     951,00
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

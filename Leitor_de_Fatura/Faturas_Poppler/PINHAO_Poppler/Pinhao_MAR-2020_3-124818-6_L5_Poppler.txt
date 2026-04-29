@@ -1,47 +1,0 @@
-SECRETARIA MUNICIPAL DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-SECRETARIA MUNICIPAL DE SAUDE
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 016 - 0140 - 145 - 4190                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: B2005934479                          DOM. BANC.:
-MATRÍCULA: 124818-2020-3-6                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-TRAV MUNICIPAL, 0012 - FUNDO DA
-CENTRO
-PINHAO (AG: 30)
-Março/2020
-3/124818-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9319%)     (4,2926%)
-0601 Custo de Disponibilidade                                                   34,56         34,56   18      6,22           34,56        0,32          1,48
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          34,56         34,56           6,22           34,56        0,32          1,48
-MAR/20   15,00
-FEV/20   15,00
-JAN/20    8,00
-DEZ/19    6,00
-NOV/19    6,00
-OUT/19   13,00
-SET/19   11,00
-AGO/19    9,00
-JUL/19   16,00
-JUN/19   13,00
-MAI/19   12,00
-ABR/19   15,00
-MAR/19   11,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

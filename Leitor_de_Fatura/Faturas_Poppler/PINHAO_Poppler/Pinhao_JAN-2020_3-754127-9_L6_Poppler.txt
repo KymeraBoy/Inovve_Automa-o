@@ -1,51 +1,0 @@
-PREFEITURA MUNICIPAL
-TRAV SAO DOMINGOS, S/N - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Janeiro/2020
-3/754127-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
-0601 Consumo em kWh                      1.070,00   0,530720        0,680100        727,71        727,71    18     130,99          727,71       5,14        23,71
-0601 Adic. B. Amarela                                                                18,41         18,41    18       3,31           18,41       0,13         0,60
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    4,59                   0       0,00            0,00       0,00         0,00
-0805 MULTA 12/2019                                                                   18,96                   0       0,00            0,00       0,00         0,00
-0805 MULTA 11/2019                                                                   15,25                   0       0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 12/2019                                                            0,32                   0       0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 11/2019                                                            2,29                   0       0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              787,53        746,12           134,30          746,12       5,27        24,31
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20        1070
-DEZ/19        1346
-NOV/19        1029
-OUT/19         833
-SET/19         583
-AGO/19         558
-JUL/19         493
-JUN/19         758
-MAI/19        1219
-ABR/19        1305
-MAR/19        1195
-FEV/19        1490
-JAN/19        1205
-DIC MENSAL        5,79   0,00
-DIC TRIMESTRAL   11,58
-DIC ANUAL        23,16
-FIC MENSAL        3,36   0,00
-FIC TRIMESTRAL    6,72
-FIC ANUAL        13,45
-DMIC              3,37   0,00
-DICRI            12,22
-

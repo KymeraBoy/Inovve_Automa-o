@@ -1,47 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE PINHAO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-ROTEIRO: 016 - 0140 - 160 - 1719                        LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: E7002418022                           DOM. BANC.:
-MATRÍCULA: 902617-2020-11-3                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOSE ROLLEMBERG LEITE, 000
-25 DE NOVEMBRO
-PINHAO (AG: 30)
-Novembro/2020
-3/902617-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                      2.362,00    0,294530    0,305960      722,70          0,00   0       0,00          722,70        4,82         22,20
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         722,70          0,00           0,00          722,70        4,82         22,20
-NOV/20   2.362,00
-OUT/20   2.647,00
-SET/20   2.602,00
-AGO/20   2.715,00
-JUL/20   2.597,00
-JUN/20   2.648,00
-MAI/20   2.765,00
-ABR/20   2.645,00
-MAR/20   2.620,00
-FEV/20   3.173,00
-JAN/20   2.776,00
-DEZ/19   2.816,00
-NOV/19   3.078,00
-DIC      5,67   0,64   11,34   22,69
-FIC      3,30   1,00    6,60   13,20
-DMIC     3,29   0,64
-DICRI   12,22
-

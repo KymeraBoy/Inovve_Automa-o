@@ -1,48 +1,0 @@
-ILUMINACAO PUBLICA PINHAO
-
-DOMICÍLIO DE ENTREGA
-ILUMINACAO PUBLICA PINHAO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-ROTEIRO: 018 - 0140 - 099 - 0005                        LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 0                                     DOM. BANC.:
-MATRÍCULA: 124738-2020-3-6                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PINHAO, S/N
-CENTRO
-PINHAO (AG: 30)
-Março/2020
-3/124738-6
-                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9319%)     (4,2926%)
-0601 Consumo kWh - Ligação Provisória - Ponta     1.448,00    0,291900    0,307980      445,97          0,00   0       0,00          445,97       4,15          19,14
-0601 Consumo em kWh                              78.305,00    0,291900    0,307980   24.117,23          0,00   0       0,00       24.117,23     224,75       1.035,25
-
-
-
-
-CCI: Código de Classificação do Item                                     TOTAL:      24.563,20          0,00           0,00       24.563,20     228,90       1.054,39
-MAR/20   78.305,00
-FEV/20   73.253,00
-JAN/20   78.305,00
-DEZ/19   78.305,00
-NOV/19   75.164,00
-OUT/19   80.379,00
-SET/19   77.754,00
-AGO/19   80.377,00
-JUL/19   80.409,00
-JUN/19   77.815,00
-MAI/19   80.409,00
-ABR/19   79.329,00
-MAR/19   79.329,00
-DIC
-FIC
-DMIC
-DICRI
-

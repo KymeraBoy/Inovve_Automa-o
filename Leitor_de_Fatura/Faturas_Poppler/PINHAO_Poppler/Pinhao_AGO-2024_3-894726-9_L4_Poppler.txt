@@ -1,51 +1,0 @@
-CLINICA DE SAUDE DA FAMILIA DE PINHAO
-
-RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO - 49517000
-
-
-25 DE NOVEMBRO
-PINHAO (AG: 30)
-Agosto / 2024
-3/894726-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0003121567   Energia ativa em kWh   Ponta   208674,33   211407,378   1 2733,0
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                           2.733,05       0,854040      2.334,16       70,71       2.334,16   19      443,49   0,665910
-Adic. B. Amarela                                                         10,66        0,32          10,66   19        2,02
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -30,05
-ATUALIZAÇÃO MONETÁRIA 07/2024                                             0,13
-MULTA 07/2024                                                            39,70
-JUROS DE MORA 07/2024                                                     0,66
-
-
-
-
-                                        TOTAL:                        2.355,26       71,03       2.344,82           445,51
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS        1.899,30    0,6671      12,67
-COFINS     1.899,30    3,0729      58,36
-ICMS       2.344,82     18,00     422,07
-ICMS FCP   2.344,82      1,00      23,44
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/24   2.733,05   0,00
-JUL/24   2.296,19   0,00
-JUN/24   2.771,64   0,00
-MAI/24   4.389,74   0,00
-ABR/24   5.000,89   0,00
-MAR/24   4.633,21   0,00
-FEV/24   4.730,13   0,00
-JAN/24   4.134,64   0,00
-DEZ/23   3.798,89   0,00
-NOV/23   4.469,00   0,00
-OUT/23   3.821,00   0,00
-SET/23   3.058,00   0,00
-AGO/23   2.275,00   0,00
-

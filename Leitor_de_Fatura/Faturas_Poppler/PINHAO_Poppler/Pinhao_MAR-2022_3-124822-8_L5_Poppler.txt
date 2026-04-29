@@ -1,51 +1,0 @@
-POSTO TELEFONICO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POSTO TELEFONICO MUNICIPAL
-RUA SIMAO DIAS S/N S/N PODER PUBLICO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 4160                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: A1046257695                            DOM. BANC.:
-MATRÍCULA: 124822-2022-3-4                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-TRAV MUNICIPAL, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Março/2022
-3/124822-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,7362%)     (3,3912%)
-0601 Custo de Disponibilidade                                                   22,14         22,14   18      3,98           18,16        0,13          0,61
-0601 Adic. B. Vermelha                                                           5,41          5,41   18      0,97            4,44        0,03          0,15
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 02/2022                                                               0,56                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 02/2022                                                       0,01                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          28,12         27,55           4,95           22,60        0,16          0,76
-MAR/22   25,00
-FEV/22   25,00
-JAN/22   19,00
-DEZ/21   20,00
-NOV/21   19,00
-OUT/21   33,00
-SET/21   37,00
-AGO/21   29,00
-JUL/21   37,00
-JUN/21   30,00
-MAI/21   35,00
-ABR/21   35,00
-MAR/21   33,00
-DIC     10,00   0,00   999,00      999
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-

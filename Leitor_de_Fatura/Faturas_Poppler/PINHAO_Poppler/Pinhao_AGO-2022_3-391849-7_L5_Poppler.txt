@@ -1,50 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N POCO ARTESIANO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 014 - 0140 - 340 - 0210                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W2002777771                             DOM. BANC.:
-MATRÍCULA: 391849-2022-8-2                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV DIOGO, 00 - POCO ARTESIANO
-AREA RURAL
-PINHAO (AG: 30)
-Agosto/2022
-3/391849-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        229,00    0,626440    0,650770      149,02          0,00   0       0,00          149,02        0,99          4,58
-0610 Subsídio                                                                    4,61          0,00   0       0,00            4,61        0,03          0,14
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -4,44                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         149,19          0,00           0,00          153,63        1,02          4,72
-AGO/22   229,00 *
-JUL/22   215,00 *
-JUN/22   206,00 *
-MAI/22   197,00 *
-ABR/22   188,00 *
-MAR/22    50,00 *
-FEV/22     0,00 *
-JAN/22   207,00 *
-DEZ/21    82,00
-NOV/21   175,00
-OUT/21   429,00
-SET/21   899,00
-AGO/21    50,00 *
-DIC     20,00   0,00   999,00      999
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-

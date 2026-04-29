@@ -1,45 +1,0 @@
-ESCOLA MUNICIPAL JUSTINO
-POV LAGOA BRANCA, S/N - RUA 3 - 49517000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/391846-3
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                         44,00   0,530720        0,692770         30,48         30,48    18      5,48           30,48       0,29         1,35
-0601 Adic. B. Amarela                                                                 0,22          0,22    18      0,04            0,22       0,00         0,01
-
-
-
-
-CCI: Código de Classificação do Item                            Total:                30,7         30,70            5,52           30,70       0,29         1,36
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20         44
-JAN/20         48
-DEZ/19         39
-NOV/19         57
-OUT/19         52
-SET/19         60
-AGO/19         52
-JUL/19         52
-JUN/19         62
-MAI/19         60
-ABR/19         65
-MAR/19         64
-FEV/19         60
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

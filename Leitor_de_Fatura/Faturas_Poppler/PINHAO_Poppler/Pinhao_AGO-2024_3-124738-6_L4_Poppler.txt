@@ -1,49 +1,0 @@
-ILUMINACAO PUBLICA PINHAO
-
-PINHAO, 0 - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2024
-3/124738-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-                                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                            Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo kWh - Ligação Provisória - Ponta            5.161,00       0,380470       1.963,65      73,44           0,00   0        0,00   0,366250
-Consumo em kWh                                     69.679,00       0,380470      26.511,46     991,53           0,00   0        0,00   0,366250
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                           -309,78
-DEVOLUÇÃO DE ICMS ( - )                                                             -24,52
-DEVOLUCAO FATURAMENTO ( - ) 08/2024                                              -1.051,51
-JUROS DE MORA ART.323 08/2024                                                      -396,05
-
-
-
-
-                                                   TOTAL:                        26.693,25    1.064,97          0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       28.475,11   0,6671     189,96
-COFINS    28.475,11   3,0729     875,01
-ICMS           0,00      0,00      0,00
-DIC     10,00   0,61   999,00   999,00
-FIC      4,00   0,15   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/24   69.679,00   0,00
-JUL/24   69.675,00   0,00
-JUN/24   67.488,00   0,00
-MAI/24   69.737,00   0,00
-ABR/24   68.955,00   0,00
-MAR/24   72.235,00   0,00
-FEV/24   67.573,00   0,00
-JAN/24   72.217,00   0,00
-DEZ/23   72.133,00   0,00
-NOV/23   69.976,00   0,00
-OUT/23   72.354,00   0,00
-SET/23   69.991,00   0,00
-AGO/23   72.291,00   0,00
-

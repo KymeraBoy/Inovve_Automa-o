@@ -1,52 +1,0 @@
-ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA
-FILHO
-PC LUIZ ARAUJO DE SANTANA, 0 - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Junho / 2025
-3/741477-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-6082496190   Energia ativa em kWh   Ponta   11934   12285   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            351,00       0,913760        320,73        9,71         320,73   19      60,94   0,712470
-Adic. B. Amarela                                                         1,16        0,04           1,16   19       0,22
-Adic. B. Vermelha                                                       17,34        0,52          17,34   19       3,29
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -4,42
-ATUALIZAÇÃO MONETÁRIA 05/2025                                            0,21
-MULTA 05/2025                                                            7,25
-JUROS DE MORA 05/2025                                                    0,48
-
-
-
-
-                                        TOTAL:                         342,75       10,27         339,23           64,45
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          274,75    0,6671      1,83
-COFINS       274,75    3,0729      8,44
-ICMS         339,23     18,00     61,07
-ICMS FCP     339,23      1,00      3,38
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-JUN/25   351,00
-MAI/25   392,00
-ABR/25   477,00
-MAR/25   380,00
-FEV/25   327,00
-JAN/25   260,00
-DEZ/24   300,00
-NOV/24   375,00
-OUT/24   334,00
-SET/24   330,00
-AGO/24   325,00
-JUL/24   239,00
-JUN/24   302,00
-

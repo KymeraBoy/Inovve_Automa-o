@@ -1,47 +1,0 @@
-ESCOLA MUNICIPAL MARIA REGINA
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL MARIA REGINA
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 140 - 2756                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5051921318                            DOM. BANC.:
-MATRÍCULA: 391847-2022-8-6                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA ANTONIO TORRES, S/N
-CENTRO
-PINHAO (AG: 30)
-Agosto/2022
-3/391847-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        205,00    0,645820    0,818180      167,72        167,72   18      30,18         137,53        0,92          4,23
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         167,72        167,72           30,18         137,53        0,92          4,23
-AGO/22   205,00
-JUL/22   162,00
-JUN/22   181,00
-MAI/22   209,00
-ABR/22   228,00
-MAR/22   225,00
-FEV/22     0,00 *
-JAN/22   163,00 *
-DEZ/21   153,00 *
-NOV/21   144,00
-OUT/21   135,00 *
-SET/21   146,00
-AGO/21    30,00 *
-DIC     10,00   0,00   999,00      999
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-

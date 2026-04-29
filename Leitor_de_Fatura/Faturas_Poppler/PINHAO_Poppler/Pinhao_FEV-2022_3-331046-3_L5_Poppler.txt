@@ -1,48 +1,0 @@
-POSTO MUNICIPAL DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-POSTO MUNICIPAL DE SAUDE
-RUA SIMAO DIAS S/N S/N PODER PUBLICO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0140 - 300 - 0360                         LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6019398413                            DOM. BANC.:
-MATRÍCULA: 331046-2022-2-1                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV RAJAS, S/N - PODER PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Fevereiro/2022
-3/331046-3
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
-0601 Consumo em kWh                         78,00    0,580440    0,744780       58,09         58,09   18      10,45          47,63        0,42          1,94
-0601 Adic. B. Vermelha                                                          14,21         14,21   18       2,56          11,65        0,10          0,47
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          72,30         72,30           13,01          59,28        0,52          2,41
-FEV/22   78,00
-JAN/22   59,00
-DEZ/21   19,00
-NOV/21   28,00
-OUT/21   35,00
-SET/21   30,00
-AGO/21   24,00
-JUL/21   31,00
-JUN/21   51,00
-MAI/21   40,00
-ABR/21   28,00
-MAR/21   12,00
-FEV/21    8,00
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

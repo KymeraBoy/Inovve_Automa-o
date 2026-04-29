@@ -1,49 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-AV GOV JOSE ROLLEMBERG LEITE, 0 - 49517000
-
-
-25 DE NOVEMBRO
-PINHAO (AG: 30)
-Novembro / 2023
-3/902617-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-7002418022   Energia ativa em kWh   Ponta   58453   60909   1
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                           2.456,00       0,381860        937,87       49,58           0,00   0        0,00   0,361680
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -12,43
-ATUALIZAÇÃO MONETÁRIA 09/2023                                             0,85
-MULTA 09/2023                                                            20,51
-JUROS DE MORA 09/2023                                                     3,42
-
-
-
-
-                                        TOTAL:                          950,22       49,58           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         937,87    0,9431      8,84
-COFINS      937,87    4,3442     40,74
-ICMS          0,00       0,00     0,00
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-NOV/23   2.456,00 *
-OUT/23   2.376,00
-SET/23   2.730,00
-AGO/23   2.615,00
-JUL/23   2.471,00
-JUN/23   2.775,00
-MAI/23   2.426,00
-ABR/23   2.449,00
-MAR/23   2.458,00
-FEV/23   2.314,00
-JAN/23   2.179,00
-DEZ/22   2.379,00
-NOV/22   2.311,00
-

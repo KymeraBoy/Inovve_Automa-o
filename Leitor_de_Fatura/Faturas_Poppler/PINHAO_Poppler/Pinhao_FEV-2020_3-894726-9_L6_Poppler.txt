@@ -1,45 +1,0 @@
-CLINICA DE SAUDE DA FAMILIA DE PINHAO
-RUA CINCO DE NOVEMBRO, S/N - SERVICO PUBLICO - 49517000
-25 DE NOVEMBRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/894726-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                      4.123,00   0,530720        0,692770      2.856,32      2.856,32    18     514,13        2.856,32      27,47       126,54
-0601 Adic. B. Amarela                                                                15,32         15,32    18       2,76           15,32       0,15         0,68
-
-
-
-
-CCI: Código de Classificação do Item                            Total:             2871,64      2.871,64           516,89         2.871,64     27,61       127,22
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20        4123
-JAN/20        3445
-DEZ/19        3755
-NOV/19        3319
-OUT/19        2782
-SET/19        1898
-AGO/19        1776
-JUL/19        1739
-JUN/19         701
-MAI/19         100
-ABR/19        2000
-MAR/19        2044
-FEV/19        2096
-DIC MENSAL        5,67   0,00
-DIC TRIMESTRAL   11,34
-DIC ANUAL        22,69
-FIC MENSAL        3,30   0,00
-FIC TRIMESTRAL    6,60
-FIC ANUAL        13,20
-DMIC              3,29   0,00
-DICRI            12,22
-

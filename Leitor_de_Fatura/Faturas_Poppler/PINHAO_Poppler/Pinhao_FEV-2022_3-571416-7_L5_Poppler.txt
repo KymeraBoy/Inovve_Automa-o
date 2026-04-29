@@ -1,55 +1,0 @@
-POCO ARTESIANO PARACATU
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO PARACATU
-RUA SIMAO DIAS S/N S/N SERVICO PUBLICO
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 260 - 0440                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6010924406                             DOM. BANC.:
-MATRÍCULA: 571416-2022-2-5                              DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV ESPINHEIRO, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Fevereiro/2022
-3/571416-7
-                                                          TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                              QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
-0601 Consumo em kWh                               87,00    0,545600    0,574050       49,94          0,00   0       0,00           49,94        0,44          2,03
-0601 Adic. B. Vermelha                                                                12,99          0,00   0       0,00           12,99        0,11          0,53
-0610 Subsídio                                                                          3,19          0,00   0       0,00            3,19        0,03          0,13
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                               -3,03                 0       0,00            0,00        0,00          0,00
-0899 PARCELA COMPENSADA 01/6                                                          19,91                 0       0,00            0,00        0,00          0,00
-0999 ATUALIZAÇÃO MONETARIA ART.113 06/2021                                            -0,31                 0       0,00            0,00        0,00          0,00
-0904 COMPENSACAO POR DIC MENSAL 06/2021                                               -8,88                 0       0,00            0,00        0,00          0,00
-0904 COMP INDICADOR DIC TRIMESTRAL 06/2021                                            -0,38                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                  TOTAL:          73,43          0,00           0,00           66,12        0,58          2,69
-FEV/22    87,00
-JAN/22   166,00
-DEZ/21    73,00 *
-NOV/21    71,00 *
-OUT/21    70,00 *
-SET/21    68,00 *
-AGO/21    61,00
-JUL/21    52,00
-JUN/21    66,00 *
-MAI/21    35,00
-ABR/21     5,00
-MAR/21    10,00
-FEV/21   236,00
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

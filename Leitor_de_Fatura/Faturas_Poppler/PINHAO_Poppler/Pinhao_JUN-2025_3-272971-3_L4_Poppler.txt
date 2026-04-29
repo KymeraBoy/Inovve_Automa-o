@@ -1,48 +1,0 @@
-GINASIO DE ESPORTES
-
-PC LUIZ ARAUJO DE SANTANA, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Junho / 2025
-3/272971-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-3001240501   Energia ativa em kWh   Ponta   79810   80605   1
-                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                       795,00       0,407070        323,63       12,10           0,00   0        0,00   0,391860
-Adic. B. Amarela                                                    4,44        0,17           0,00   0        0,00
-Adic. B. Vermelha                                                  26,33        0,98           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                            -4,24
-
-
-
-
-                                   TOTAL:                         350,16       13,25           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         354,40    0,6671      2,36
-COFINS      354,40    3,0729     10,89
-ICMS          0,00       0,00     0,00
-DIC     10,00   1,40   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   1,40
-DICRI   13,00
-JUN/25    795,00
-MAI/25    873,00
-ABR/25    632,00
-MAR/25    546,00
-FEV/25    711,00
-JAN/25    632,00
-DEZ/24    701,00
-NOV/24    754,00
-OUT/24     672,00
-SET/24     723,00
-AGO/24   1.037,00
-JUL/24     826,00
-JUN/24   1.209,00
-

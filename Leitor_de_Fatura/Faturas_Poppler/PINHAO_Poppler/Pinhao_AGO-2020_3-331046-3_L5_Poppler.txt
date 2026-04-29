@@ -1,47 +1,0 @@
-POSTO MUNICIPAL DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-POSTO MUNICIPAL DE SAUDE
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 014 - 0140 - 300 - 0360                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6019398413                          DOM. BANC.:
-MATRÍCULA: 331046-2020-8-2                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV RAJAS, S/N - PODER PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Agosto/2020
-3/331046-3
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0010%)     (4,6107%)
-0601 Custo de Disponibilidade                                                   35,05         35,05   18      6,30           35,05        0,35          1,61
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          35,05         35,05           6,30           35,05        0,35          1,61
-AGO/20   20,00
-JUL/20   19,00
-JUN/20    3,00
-MAI/20    0,00 *
-ABR/20    0,00 *
-MAR/20   52,00
-FEV/20    3,00
-JAN/20   30,00 *
-DEZ/19    0,00
-NOV/19   30,00
-OUT/19   30,00 *
-SET/19   30,00 *
-AGO/19    0,00
-DIC     11,01   6,71   22,03   44,07
-FIC      7,59   3,00   15,19   30,39
-DMIC     5,98   4,06
-DICRI   16,60
-

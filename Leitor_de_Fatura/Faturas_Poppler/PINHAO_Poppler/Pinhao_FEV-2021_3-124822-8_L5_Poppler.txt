@@ -1,52 +1,0 @@
-POSTO TELEFONICO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POSTO TELEFONICO MUNICIPAL
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 4160                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: A1046257695                            DOM. BANC.:
-MATRÍCULA: 124822-2021-2-8                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-TRAV MUNICIPAL, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Fevereiro/2021
-3/124822-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         33,00    0,535510    0,678430       22,38         22,38   18      4,02           18,36        0,12          0,56
-0601 Adic. B. Amarela                                                            0,56          0,56   18      0,10            0,46        0,00          0,01
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 12/2020                                               0,32                 0       0,00            0,00        0,00          0,00
-0805 MULTA 12/2020                                                               0,79                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 12/2020                                                       0,20                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          24,25         22,94           4,12           18,82        0,12          0,57
-FEV/21   33,00
-JAN/21   39,00
-DEZ/20   53,00
-NOV/20   48,00
-OUT/20   51,00
-SET/20   51,00
-AGO/20   51,00
-JUL/20   48,00
-JUN/20   47,00
-MAI/20   44,00
-ABR/20   49,00
-MAR/20   41,00
-FEV/20   54,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

@@ -1,45 +1,0 @@
-ESCOLA MUNICIPAL BEIJA FLOR
-POV BEIJA FLOR DE BAIXO, S/N - RUA 8 - 49517000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/391850-5
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                         53,00   0,530720        0,692770         36,71         36,71    18      6,61           36,71       0,35         1,62
-0601 Adic. B. Amarela                                                                 0,24          0,24    18      0,04            0,24       0,00         0,01
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               36,95         36,95            6,65           36,95       0,35         1,63
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20         53
-JAN/20         66
-DEZ/19         54
-NOV/19         72
-OUT/19         70
-SET/19         69
-AGO/19         53
-JUL/19         57
-JUN/19         70
-MAI/19         41
-ABR/19         43
-MAR/19         55
-FEV/19         35
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

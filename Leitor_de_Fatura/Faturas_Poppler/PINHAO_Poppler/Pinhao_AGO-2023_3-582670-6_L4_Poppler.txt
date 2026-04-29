@@ -1,48 +1,0 @@
-DELEGACIA DE PINHAO
-
-PC LEANDRO MACIEL, S/N - PODER PUBLICO - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2023
-3/582670-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7005794475   Energia ativa em kWh   Ponta   50097   50617   1
-                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                     520,00       0,843400        438,57       13,28         438,57   19      83,32   0,657610
-LANÇAMENTOS E SERVIÇOS
-MULTA 06/2023                                                     8,37
-JUROS DE MORA 06/2023                                             1,67
-
-
-
-
-                                 TOTAL:                         448,61       13,28         438,57           83,32
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          355,23    0,6671      2,37
-COFINS       355,23    3,0729     10,91
-ICMS         438,57     18,00     78,94
-ICMS FCP     438,57      1,00      4,38
-DIC     10,00   0,49   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   0,49
-DICRI   13,00
-AGO/23   520,00
-JUL/23   455,00
-JUN/23   484,00
-MAI/23   643,00
-ABR/23   693,00
-MAR/23   619,00
-FEV/23   744,00
-JAN/23   617,00
-DEZ/22   775,00
-NOV/22   652,00
-OUT/22   524,00
-SET/22   376,00
-AGO/22   344,00
-

@@ -1,52 +1,0 @@
-CRAS
-
-RUA JUSTINO PEREIRA, S/N - PODER PUBLICO - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2025
-3/124883-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-Energia ativa em kWh   Ponta   0   100   1
-                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                               93,21        4,26          93,21   19      17,71
-Adic. B. Vermelha                                                       1,10        0,05           1,10   19       0,21
-Adic. B. Vermelha                                                       8,34        0,38           8,34   19       1,58
-LANÇAMENTOS E SERVIÇOS
-JUROS DE MORA 07/2025                                                   0,16        0,00           0,00            0,00
-MULTA 07/2025                                                           1,95        0,00           0,00            0,00
-ATUALIZAÇÃO MONETÁRIA 07/2025                                           0,03        0,00           0,00            0,00
-IMPOSTO DE RENDA PPE/PPM                                                -1,31       0,00           0,00            0,00
-
-
-
-
-                                        TOTAL:                        103,48        4,69         102,65           19,50
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           83,14    1,0058      0,84
-COFINS        83,14    4,6328      3,85
-ICMS         102,65     18,00     18,48
-ICMS FCP     102,65      1,00      1,02
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/25   100,00 *
-JUL/25     0,00 *
-JUN/25     0,00
-MAI/25   100,00 *
-ABR/25     0,00 *
-MAR/25     0,00 *
-FEV/25     0,00
-JAN/25   100,00 *
-DEZ/24     0,00 *
-NOV/24     0,00
-OUT/24     0,00 *
-SET/24     0,00 *
-AGO/24     0,00 *
-

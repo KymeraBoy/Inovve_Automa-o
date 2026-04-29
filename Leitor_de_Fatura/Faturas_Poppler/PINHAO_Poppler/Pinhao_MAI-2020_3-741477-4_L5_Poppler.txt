@@ -1,51 +1,0 @@
-ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 016 - 0140 - 150 - 6080                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W2006295924                          DOM. BANC.:
-MATRÍCULA: 741477-2020-5-9                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC LUIZ ARAUJO DE SANTANA, 000
-CENTRO
-PINHAO (AG: 30)
-Maio/2020
-3/741477-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0647%)     (4,9040%)
-0601 Consumo em kWh                         87,00    0,530720    0,698020       60,72         60,72   18      10,92          60,72        0,64          2,97
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 03/2020                                               0,16                 0        0,00           0,00        0,00          0,00
-0805 MULTA 03/2020                                                               1,40                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 03/2020                                                       0,51                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          62,79         60,72           10,92          60,72        0,64          2,97
-MAI/20    87,00
-ABR/20    84,00
-MAR/20   101,00
-FEV/20   118,00
-JAN/20    98,00
-DEZ/19   203,00
-NOV/19   213,00
-OUT/19   171,00
-SET/19   159,00
-AGO/19   163,00
-JUL/19    84,00
-JUN/19   168,00
-MAI/19   184,00
-DIC      5,67   0,07   11,34   22,69
-FIC      3,30   1,00    6,60   13,20
-DMIC     3,29   0,07
-DICRI   12,22
-

@@ -1,50 +1,0 @@
-ESCOLA MUNICIPAL JOAO LIMA FEITOSA
-
-PC SEN LOURIVAL BATISTA, S/N - PODER PUBLICO - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Outubro / 2023
-3/691711-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7001175654   Energia ativa em kWh   Ponta   95774   96990   1
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                           1.216,00       0,843400      1.025,58       31,07       1.025,58   19      194,86   0,657610
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -13,16
-ATUALIZAÇÃO MONETÁRIA 08/2023                                             0,47
-MULTA 08/2023                                                            15,64
-JUROS DE MORA 08/2023                                                     2,08
-
-
-
-
-                                        TOTAL:                        1.030,61       31,07       1.025,58           194,86
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          830,71    0,6671       5,54
-COFINS       830,71    3,0729      25,53
-ICMS       1.025,58     18,00     184,61
-ICMS FCP   1.025,58      1,00      10,25
-DIC     10,00   0,07   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   0,07
-DICRI   13,00
-OUT/23   1.216,00
-SET/23   1.104,00
-AGO/23     927,00
-JUL/23     904,00
-JUN/23   1.219,00
-MAI/23   1.130,00
-ABR/23   1.071,00
-MAR/23   1.108,00
-FEV/23     685,00
-JAN/23     593,00
-DEZ/22   1.022,00
-NOV/22     982,00
-OUT/22     919,00
-

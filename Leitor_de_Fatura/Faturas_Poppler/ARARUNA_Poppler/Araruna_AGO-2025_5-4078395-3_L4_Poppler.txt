@@ -7,25 +7,25 @@ AREA RURAL
 ARARUNA (AG: 62)
 Agosto / 2025
 5/4078395-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
 LIGAÇÃO: MONOFASICO
 5147583404   Energia ativa em kWh   Ponta   1710   1772   1
                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
 Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH         62,00       0,776160         48,12        2,02          48,12   20       9,62   0,588270
+Consumo em kWh      KWH         62,00       0,426880         26,46         1,11         26,46   20       5,29   0,323550
 Adic. B. Vermelha                                             1,53        0,06           1,53   20       0,30
 Adic. B. Vermelha                                             3,74        0,16           3,74   20       0,75
 
 
 
 
-                             TOTAL:                          53,39        2,24          53,39           10,67
+                             TOTAL:                          31,73        1,33          31,73            6,34
 Tributo   Base de     Alíquota   Valor
           Cálc.(R$)      (%)      (R$)
-PIS          42,69    0,9383      0,40
-COFINS       42,69    4,3217      1,84
-ICMS         53,39     20,00     10,67
+PIS          25,37    0,9383      0,24
+COFINS       25,37    4,3217      1,09
+ICMS         31,73     20,00      6,34
 DIC     20,00   0,00   999,00   999,00
 FIC      6,00   0,00   999,00   999,00
 DMIC    15,00   0,00

@@ -1,50 +1,0 @@
-POCO ARTESIANO POCOES
-
-POV BAIXA LARGA, S/N - SERVICO PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Dezembro / 2024
-3/571418-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: BIFASICO
-2003716591   Energia ativa em kWh   Ponta   34315,583333 34365,583333   1
-                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                               35,06        1,76           0,00   0        0,00
-Adic. B. Amarela                                                        0,25        0,01           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                -0,45
-ATUALIZAÇÃO MONETÁRIA 10/2024                                           0,03
-MULTA 10/2024                                                           0,76
-JUROS DE MORA 10/2024                                                   0,08
-
-
-
-
-                                        TOTAL:                         35,73        1,77           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          35,31    0,8995      0,31
-COFINS       35,31    4,1433      1,46
-ICMS          0,00       0,00     0,00
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-DEZ/24   50,00 *   0,00
-NOV/24   50,00 *   0,00
-OUT/24   50,00 *   0,00
-SET/24   50,00 *   0,00
-AGO/24   50,00 *   0,00
-JUL/24   50,00 *   0,00
-JUN/24   50,00 *   0,00
-MAI/24   50,00 *   0,00
-ABR/24   50,00 *   0,00
-MAR/24   50,00     0,00
-FEV/24    0,00 *   0,00
-JAN/24   50,00 *   0,00
-DEZ/23    0,00 *   0,00
-

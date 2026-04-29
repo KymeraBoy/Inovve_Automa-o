@@ -1,52 +1,0 @@
-ILUMINACAO PUBLICA PREFEITURA MUNICIPAL
-DE PINHAO
-RUA CINCO DE NOVEMBRO, 0 - CPREDE - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Maio / 2024
-3/908666-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-W7001637020   Energia ativa em kWh   Ponta   282089   285260   1
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                           3.171,00       0,381750      1.210,55       49,17           0,00   0        0,00   0,366250
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -16,72
-ATUALIZAÇÃO MONETÁRIA 04/2024                                             0,05
-ATUALIZAÇÃO MONETÁRIA 03/2024                                             0,48
-MULTA 04/2024                                                            22,36
-MULTA 03/2024                                                            20,12
-JUROS DE MORA 04/2024                                                     0,37
-JUROS DE MORA 03/2024                                                     3,02
-
-
-
-
-                                        TOTAL:                        1.240,23       49,17           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.210,55    0,7246      8,77
-COFINS    1.210,55    3,3375     40,40
-ICMS          0,00       0,00     0,00
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-MAI/24   3.171,00   0,00
-ABR/24   2.939,00   0,00
-MAR/24   2.649,00   0,00
-FEV/24   3.096,00   0,00
-JAN/24   2.652,00   0,00
-DEZ/23   2.686,00   0,00
-NOV/23   2.874,00   0,00
-OUT/23   2.778,00   0,00
-SET/23   3.133,00   0,00
-AGO/23   3.054,00   0,00
-JUL/23   3.145,00   0,00
-JUN/23   3.433,00   0,00
-MAI/23   2.947,00   0,00
-

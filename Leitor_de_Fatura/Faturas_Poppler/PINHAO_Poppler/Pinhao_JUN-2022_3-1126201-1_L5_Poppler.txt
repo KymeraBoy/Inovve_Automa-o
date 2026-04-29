@@ -1,50 +1,0 @@
-POCO ARTESIANO 2 POVOADO LAGOAS
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO 2 POVOADO LAGOAS
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 320 - 0194                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6011184228                             DOM. BANC.:
-MATRÍCULA: 1126201-2022-6-0                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV LAGOA, 00
-POV LAGOA
-PINHAO (AG: 30)
-Junho/2022
-3/1126201-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0845%)     (4,9955%)
-0601 Consumo em kWh                         69,00    0,657640    0,700210       48,31          0,00   0       0,00           48,31        0,52          2,41
-0610 Subsídio                                                                    1,50          0,00   0       0,00            1,50        0,02          0,07
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -1,41                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          48,40          0,00           0,00           49,81        0,54          2,48
-JUN/22    69,00
-MAI/22   200,00
-ABR/22   177,00
-MAR/22   233,00
-FEV/22    81,00
-JAN/22   224,00
-DEZ/21   193,00
-NOV/21    90,00
-OUT/21     0,00 *
-SET/21     0,00
-AGO/21     0,00 *
-JUL/21     0,00 *
-JUN/21     0,00 *
-DIC     20,00   0,92   999,00      999
-FIC      6,00   2,00   999,00   999,00
-DMIC    15,00   0,68
-DICRI   26,00
-

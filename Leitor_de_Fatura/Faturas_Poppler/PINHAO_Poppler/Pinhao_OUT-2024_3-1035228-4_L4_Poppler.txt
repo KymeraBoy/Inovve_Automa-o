@@ -1,52 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-POV BEIJA FLOR, 2 - PLT - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Outubro / 2024
-3/1035228-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: BIFASICO
-W6006964811   Energia ativa em kWh   Ponta   21130   21481   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            351,00       0,693840        243,54        9,81           0,00   0        0,00   0,665910
-Adic. B. Vermelha                                                       26,31        1,05           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -3,61
-ATUALIZAÇÃO MONETÁRIA 08/2024                                            0,08
-MULTA 09/2024                                                            4,74
-MULTA 08/2024                                                            3,28
-JUROS DE MORA 09/2024                                                    0,24
-JUROS DE MORA 08/2024                                                    0,22
-
-
-
-
-                                        TOTAL:                         274,80       10,86           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         269,85    0,7182      1,93
-COFINS      269,85    3,3082      8,93
-ICMS          0,00       0,00     0,00
-DIC     20,00   1,57   999,00   999,00
-FIC      6,00   2,00   999,00   999,00
-DMIC    15,00   1,35
-DICRI   26,00
-OUT/24   351,00   0,00
-SET/24   330,00   0,00
-AGO/24   239,00   0,00
-JUL/24   239,00   0,00
-JUN/24   275,00   0,00
-MAI/24    97,00   0,00
-ABR/24   315,00   0,00
-MAR/24   379,00   0,00
-FEV/24   367,00   0,00
-JAN/24   480,00   0,00
-DEZ/23   478,00   0,00
-NOV/23   433,00   0,00
-OUT/23   325,00   0,00
-

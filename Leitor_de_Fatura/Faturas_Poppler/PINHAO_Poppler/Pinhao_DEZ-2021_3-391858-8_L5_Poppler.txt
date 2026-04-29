@@ -1,49 +1,0 @@
-ESCOLA MUN JOSE MESSIAS FEITOSA
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUN JOSE MESSIAS FEITOSA
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0140 - 320 - 0342                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5017585996                            DOM. BANC.:
-MATRÍCULA: 391858-2021-12-7                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV LAGOA, S/N
-AREA RURAL
-PINHAO (AG: 30)
-Dezembro/2021
-3/391858-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         52,00    0,580440    0,735340       38,23         38,23   18      6,88           31,35        0,21          0,96
-0601 Adic. B. Amarela                                                            1,97          1,97   18      0,35            1,62        0,01          0,05
-0601 Adic. B. Vermelha                                                           7,37          7,37   18      1,33            6,05        0,04          0,18
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          47,57         47,57           8,56           39,02        0,26          1,19
-DEZ/21    52,00 *
-NOV/21    56,00 *
-OUT/21    57,00 *
-SET/21    30,00 *
-AGO/21     0,00
-JUL/21    30,00 *
-JUN/21    30,00 *
-MAI/21    62,00 *
-ABR/21    64,00 *
-MAR/21    61,00
-FEV/21     8,00
-JAN/21   115,00
-DEZ/20    58,00
-DIC     11,01   2,59   22,03   44,07
-FIC      7,59   1,00   15,19   30,39
-DMIC     5,98   2,59
-DICRI   16,60
-

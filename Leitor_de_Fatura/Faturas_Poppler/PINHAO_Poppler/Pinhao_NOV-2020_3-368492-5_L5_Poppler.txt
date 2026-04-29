@@ -1,49 +1,0 @@
-BARRACAO MUNICIPAL DE CULTURA
-
-DOMICÍLIO DE ENTREGA
-BARRACAO MUNICIPAL DE CULTURA
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 014 - 0140 - 300 - 1750                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: A2003877179                          DOM. BANC.:
-MATRÍCULA: 368492-2020-11-8                          DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV RAJAS, S/N - PODER PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Novembro/2020
-3/368492-5
-                                                          TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                              QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                         33,92         33,92   18      6,10           27,81        0,18          0,85
-     LANÇAMENTOS E SERVIÇOS
-0904 COMP INDICADOR DIC TRIMESTRAL 09/2020                                            -0,05                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                  TOTAL:          33,87         33,92           6,10           27,81        0,18          0,85
-NOV/20    0,00 *
-OUT/20    0,00 *
-SET/20    0,00 *
-AGO/20   50,00 *
-JUL/20    0,00 *
-JUN/20    0,00 *
-MAI/20    0,00 *
-ABR/20    0,00 *
-MAR/20    0,00 *
-FEV/20    0,00
-JAN/20    0,00 *
-DEZ/19    0,00 *
-NOV/19    0,00 *
-DIC     11,01   0,64   22,03   44,07
-FIC      7,59   1,00   15,19   30,39
-DMIC     5,98   0,64
-DICRI   16,60
-

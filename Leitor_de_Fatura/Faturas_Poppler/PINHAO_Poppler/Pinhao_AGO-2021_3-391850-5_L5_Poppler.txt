@@ -1,48 +1,0 @@
-ESCOLA MUNICIPAL BEIJA FLOR
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL BEIJA FLOR
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0140 - 420 - 1180                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: N1039134300                            DOM. BANC.:
-MATRÍCULA: 391850-2021-8-2                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR DE BAIXO, S/N - RUA 8
-AREA RURAL
-PINHAO (AG: 30)
-Agosto/2021
-3/391850-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6755%)     (3,1114%)
-0601 Custo de Disponibilidade                                                   22,07         22,07   18      3,97           18,10        0,12          0,56
-0601 Adic. B. Vermelha                                                           3,60          3,60   18      0,65            2,95        0,02          0,09
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          25,67         25,67           4,62           21,05        0,14          0,65
-AGO/21   23,00
-JUL/21   24,00
-JUN/21   22,00
-MAI/21   23,00
-ABR/21   29,00
-MAR/21   28,00
-FEV/21   52,00
-JAN/21   92,00
-DEZ/20   55,00
-NOV/20   51,00
-OUT/20   34,00
-SET/20   24,00
-AGO/20   21,00
-DIC     11,01   2,12   22,03   44,07
-FIC      7,59   2,00   15,19   30,39
-DMIC     5,98   1,92
-DICRI   16,60
-

@@ -1,51 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 015 - 0140 - 420 - 0905                          LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6006964811                             DOM. BANC.:
-MATRÍCULA: 1035228-2021-6-5                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR, 2 - PLT
-AREA RURAL
-PINHAO (AG: 30)
-Junho/2021
-3/1035228-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        180,00    0,545600    0,566790      102,02          0,00   0       0,00          102,02        0,68          3,13
-0601 Adic. B. Vermelha                                                          10,87          0,00   0       0,00           10,87        0,07          0,33
-0610 Subsídio                                                                    6,51          0,00   0       0,00            6,51        0,04          0,20
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -6,27                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         113,13          0,00           0,00          119,40        0,79          3,66
-JUN/21   180,00
-MAI/21   157,00
-ABR/21   268,00
-MAR/21   246,00
-FEV/21   261,00
-JAN/21   237,00
-DEZ/20   236,00
-NOV/20   218,00
-OUT/20    20,00
-SET/20     0,00
-AGO/20     0,00
-JUL/20    34,00
-JUN/20    71,00
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

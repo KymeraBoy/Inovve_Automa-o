@@ -1,49 +1,0 @@
-CRAS
-
-DOMICÍLIO DE ENTREGA
-CRAS
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 140 - 2676                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W3003262918                            DOM. BANC.:
-MATRÍCULA: 124883-2021-12-9                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA JUSTINO PEREIRA, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Dezembro/2021
-3/124883-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        362,00    0,580440    0,735340      266,19        266,19   18      47,91         218,27        1,46          6,70
-0601 Adic. B. Amarela                                                           11,15         11,15   18       2,01           9,14        0,06          0,28
-0601 Adic. B. Vermelha                                                          53,96         53,96   18       9,71          44,26        0,29          1,36
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         331,30        331,30           59,63         271,67        1,81          8,34
-DEZ/21   362,00
-NOV/21   264,00
-OUT/21   309,00
-SET/21   179,00
-AGO/21   110,00
-JUL/21   187,00
-JUN/21   302,00
-MAI/21   273,00
-ABR/21   362,00
-MAR/21   310,00
-FEV/21   256,00
-JAN/21   128,00
-DEZ/20    76,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

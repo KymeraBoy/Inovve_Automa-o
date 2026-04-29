@@ -1,50 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
-ROTEIRO: 014 - 0140 - 480 - 0150                       LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W3003423946                          DOM. BANC.:
-MATRÍCULA: 571419-2020-8-0                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT SERRA SOLTEIRAE E O C, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Agosto/2020
-3/571419-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0010%)     (4,6107%)
-0601 Custo de Disponibilidade                                                   51,62          0,00   0       0,00           51,62        0,51          2,38
-0610 Subsídio                                                                    5,10          0,00   0       0,00            5,10        0,05          0,23
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -4,82                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          51,90          0,00           0,00           56,72        0,56          2,61
-AGO/20   100,00 *
-JUL/20   100,00 *
-JUN/20   100,00 *
-MAI/20   100,00 *
-ABR/20   100,00 *
-MAR/20   100,00 *
-FEV/20   100,00 *
-JAN/20     0,00 *
-DEZ/19   100,00 *
-NOV/19   100,00
-OUT/19   100,00 *
-SET/19   100,00 *
-AGO/19     0,00 *
-DIC     11,01   6,71   22,03   44,07
-FIC      7,59   3,00   15,19   30,39
-DMIC     5,98   4,06
-DICRI   16,60
-

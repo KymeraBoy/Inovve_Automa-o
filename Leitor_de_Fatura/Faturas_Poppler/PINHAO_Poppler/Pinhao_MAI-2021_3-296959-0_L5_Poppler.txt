@@ -1,49 +1,0 @@
-BIBLIOTECA MARIA DE LOURDES MENDONCA
-
-DOMICÍLIO DE ENTREGA
-BIBLIOTECA MARIA DE LOURDES MENDONCA
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 4001                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: A3004251590                            DOM. BANC.:
-MATRÍCULA: 296959-2021-5-3                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA SIMAO DIAS, S/N
-CENTRO
-PINHAO (AG: 30)
-Maio/2021
-3/296959-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        436,00    0,580440    0,735340      320,61        320,61   18      57,70         262,90        1,76          8,07
-0601 Adic. B. Amarela                                                            0,76          0,76   18       0,14           0,62        0,00          0,02
-0601 Adic. B. Vermelha                                                          20,65         20,65   18       3,72          16,93        0,11          0,52
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         342,02        342,02           61,56         280,45        1,87          8,61
-MAI/21    436,00
-ABR/21    925,00
-MAR/21   1.436,00
-FEV/21   1.877,00
-JAN/21   1.445,00
-DEZ/20   1.653,00
-NOV/20   1.392,00
-OUT/20   1.305,00
-SET/20    760,00
-AGO/20    466,00
-JUL/20    456,00
-JUN/20    426,00
-MAI/20    991,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

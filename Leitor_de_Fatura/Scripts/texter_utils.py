@@ -17,9 +17,10 @@ fornecimento = ["MONOFASICO","BIFASICO","TRIFASICO"]
 # ESTADO COMPARTILHADO
 # ============================================================== #
 
-matriz = []
+aba_info_geral = []
+aba_historico_consumo = []
 historico = []
-consumo = []
+
 
 # ============================================================== #
 # FUNÇÕES

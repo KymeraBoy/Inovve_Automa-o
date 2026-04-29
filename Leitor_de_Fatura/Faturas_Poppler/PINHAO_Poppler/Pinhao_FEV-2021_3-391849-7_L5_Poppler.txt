@@ -1,55 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
-ROTEIRO: 014 - 0140 - 340 - 0210                       LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W2002777771                          DOM. BANC.:
-MATRÍCULA: 391849-2021-2-7                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV DIOGO, 00 - POCO ARTESIANO
-AREA RURAL
-PINHAO (AG: 30)
-Fevereiro/2021
-3/391849-7
-                                                          TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                              QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                              186,00    0,487300    0,506230       94,15          0,00   0       0,00           94,15        0,62          2,89
-0601 Adic. B. Amarela                                                                  2,59          0,00   0       0,00            2,59        0,02          0,07
-0610 Subsídio                                                                          9,32          0,00   0       0,00            9,32        0,06          0,29
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                               -8,97                 0       0,00            0,00        0,00          0,00
-0899 ATUALIZAÇÃO MONETÁRIA 12/2020                                                     0,22                 0       0,00            0,00        0,00          0,00
-0904 COMPEN. P/INDICADOR-DIC ANUAL 12/2020                                            -5,01                 0       0,00            0,00        0,00          0,00
-0805 MULTA 12/2020                                                                     0,54                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 12/2020                                                             0,14                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                  TOTAL:          92,98          0,00           0,00          106,06        0,70          3,25
-FEV/21   186,00
-JAN/21     0,00 *
-DEZ/20     0,00 *
-NOV/20    28,00
-OUT/20    54,00 *
-SET/20     0,00 *
-AGO/20     0,00 *
-JUL/20    50,00 *
-JUN/20    97,00
-MAI/20     0,00
-ABR/20     0,00 *
-MAR/20     0,00 *
-FEV/20    50,00 *
-DIC     11,01   3,77   22,03   44,07
-FIC      7,59   1,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

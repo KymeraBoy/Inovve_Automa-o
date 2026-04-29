@@ -1,51 +1,0 @@
-CEMITERIO MUNICIPAL SAO JOSE
-
-DOMICÍLIO DE ENTREGA
-CEMITERIO MUNICIPAL SAO JOSE
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 140 - 1018                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5121488498                            DOM. BANC.:
-MATRÍCULA: 739710-2021-9-7                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOAO ALVES FILHO, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Setembro/2021
-3/739710-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   22,06         22,06   18      3,97           18,09        0,12          0,55
-0601 Adic. B. Vermelha                                                           5,09          5,09   18      0,91            4,18        0,02          0,13
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 08/2021                                                               0,51                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 08/2021                                                       0,01                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          27,67         27,15           4,88           22,27        0,14          0,68
-SET/21    1,00
-AGO/21    4,00
-JUL/21    3,00
-JUN/21    6,00
-MAI/21    2,00
-ABR/21    3,00
-MAR/21    1,00
-FEV/21    3,00
-JAN/21    3,00
-DEZ/20    2,00
-NOV/20   13,00
-OUT/20    1,00
-SET/20    2,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

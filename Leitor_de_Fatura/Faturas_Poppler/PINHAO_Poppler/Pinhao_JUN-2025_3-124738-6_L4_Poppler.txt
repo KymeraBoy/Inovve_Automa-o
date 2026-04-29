@@ -1,47 +1,0 @@
-ILUMINACAO PUBLICA PINHAO
-
-PINHAO, 0 - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Junho / 2025
-3/124738-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-                                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                            Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo kWh - Ligação Provisória - Ponta            5.161,00       0,407070       2.100,96      78,57           0,00   0        0,00   0,391860
-Consumo em kWh                                     67.484,00       0,407070      27.471,72    1.027,44          0,00   0        0,00   0,391860
-Adic. B. Vermelha                                                                 3.368,10     125,96           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                           -395,28
-
-
-
-
-                                                   TOTAL:                        32.545,50    1.231,97          0,00            0,00
-Tributo   Base de     Alíquota     Valor
-          Cálc.(R$)      (%)        (R$)
-PIS       32.940,78   0,6671      219,74
-COFINS    32.940,78   3,0729     1.012,23
-ICMS           0,00      0,00        0,00
-DIC     10,00   0,05   999,00   999,00
-FIC      4,00   0,12   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-JUN/25   67.484,00
-MAI/25   69.648,00
-ABR/25   67.446,00
-MAR/25   69.737,00
-FEV/25   62.974,00
-JAN/25   69.687,00
-DEZ/24   69.737,00
-NOV/24   67.449,00
-OUT/24   69.726,00
-SET/24   67.464,00
-AGO/24   69.679,00
-JUL/24   69.675,00
-JUN/24   67.488,00
-

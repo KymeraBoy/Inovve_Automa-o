@@ -1,51 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE PINHAO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-ROTEIRO: 016 - 0140 - 160 - 1719                        LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: E7002418022                           DOM. BANC.:
-MATRÍCULA: 902617-2020-6-3                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOSE ROLLEMBERG LEITE, 000
-25 DE NOVEMBRO
-PINHAO (AG: 30)
-Junho/2020
-3/902617-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8489%)     (3,9102%)
-0601 Consumo em kWh                      2.648,00    0,291900    0,306470      811,57          0,00   0       0,00          811,57        6,88         31,73
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 04/2020                                               0,29                 0       0,00            0,00        0,00          0,00
-0805 MULTA 04/2020                                                              16,23                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 04/2020                                                       3,79                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         831,88          0,00           0,00          811,57        6,88         31,73
-JUN/20   2.648,00
-MAI/20   2.765,00
-ABR/20   2.645,00
-MAR/20   2.620,00
-FEV/20   3.173,00
-JAN/20   2.776,00
-DEZ/19   2.816,00
-NOV/19   3.078,00
-OUT/19   2.960,00
-SET/19   3.057,00
-AGO/19   3.131,00
-JUL/19   2.998,00
-JUN/19   3.818,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

@@ -1,50 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-SIT SERRA SOLTEIRAE E O C, S/N - SERVICO PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Maio / 2025
-3/571419-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: TRIFASICO
-W3003423946   Energia ativa em kWh   Ponta   15596   15696   1
-                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                               74,01        2,76           0,00   0        0,00
-Adic. B. Amarela                                                        1,54        0,06           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                -0,96
-ATUALIZAÇÃO MONETÁRIA 03/2025                                           0,21
-MULTA 03/2025                                                           1,40
-JUROS DE MORA 03/2025                                                   0,16
-
-
-
-
-                                        TOTAL:                         76,36        2,82           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          75,55    0,6671      0,50
-COFINS       75,55    3,0729      2,32
-ICMS          0,00       0,00     0,00
-DIC     20,00   2,14   999,00   999,00
-FIC      6,00   2,00   999,00   999,00
-DMIC    15,00   1,72
-DICRI   26,00
-MAI/25   100,00 *
-ABR/25   100,00 *
-MAR/25   100,00 *
-FEV/25   100,00 *
-JAN/25   100,00 *
-DEZ/24   100,00 *
-NOV/24   100,00 *
-OUT/24   100,00 *
-SET/24   100,00 *
-AGO/24   100,00
-JUL/24   100,00 *
-JUN/24   100,00 *
-MAI/24   100,00 *
-

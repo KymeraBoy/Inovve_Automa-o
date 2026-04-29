@@ -1,41 +1,0 @@
-JOSEFA BATISTA IRMA
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA GOV LUIZ GARCIA, S/N - - RUA GOV LUIZ GARCIA
-CENTRO
-PINHAO
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B1
-CLASSE/SUBCLS.: RESIDENCIAL/RESIDENCIAL
-ROTEIRO: 016 - 0140 - 150 - 6840                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: D5129706868                          DOM. BANC.:
-MATRÍCULA: 7768878-2022-2-4                          DOM. ENT.:
-Fevereiro/2022
-3/7768878-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.    PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)       (%)            (%)
-     LANÇAMENTOS E SERVIÇOS
-0899 PARCELAMENTO DEB. 00/6                                                    700,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         700,00          0,00           0,00            0,00       0,00          0,00
-FEV/22
-JAN/22
-DEZ/21
-NOV/21
-OUT/21
-SET/21
-AGO/21
-JUL/21
-JUN/21
-MAI/21
-ABR/21
-MAR/21
-FEV/21
-DIC
-FIC
-DMIC
-DICRI
-

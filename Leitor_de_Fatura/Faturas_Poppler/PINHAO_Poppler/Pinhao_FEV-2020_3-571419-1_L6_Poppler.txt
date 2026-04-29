@@ -1,49 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-SIT SERRA SOLTEIRAE E O C, S/N - SERVICO PUBLICO - 49517000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/571419-1
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: SERVIÇO PÚBLICO/ÁGUA, ESGOTO E
-LIGAÇÃO: TRIFASICO
-                                                          Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                                Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Custo de Disponibilidade                                                              49,36          0,00     0      0,00           49,36       0,48         2,18
-0601 Adic. B. Amarela                                                                       0,44          0,00     0      0,00            0,44       0,00         0,02
-0610 Subsídio                                                                               6,73          0,00     0      0,00            6,73       0,06         0,30
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                                     -6,37                  0      0,00            0,00       0,00         0,00
-0904 COMPEN. P/INDICADOR-DIC ANUAL 12/2019                                                  -0,35                  0      0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                                  Total:               49,81          0,00            0,00           56,53       0,54         2,50
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20         100
-JAN/20          0
-DEZ/19         100
-NOV/19         100
-OUT/19         100
-SET/19         100
-AGO/19          0
-JUL/19         100
-JUN/19         100
-MAI/19         100
-ABR/19          0
-MAR/19          0
-FEV/19          0
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

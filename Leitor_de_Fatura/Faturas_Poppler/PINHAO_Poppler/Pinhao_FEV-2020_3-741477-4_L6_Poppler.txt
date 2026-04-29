@@ -1,46 +1,0 @@
-ESCOLA MUNICIPAL JOSE EMIDIO DA COSTA FILHO
-O
-PC LUIZ ARAUJO DE SANTANA, 000 - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/741477-4
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Consumo em kWh                        118,00   0,530720        0,692770         81,74         81,74    18     14,71           81,74       0,79         3,62
-0601 Adic. B. Amarela                                                                 0,43          0,43    18      0,08            0,43       0,00         0,02
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               82,17         82,17           14,79           82,17       0,79         3,64
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20         118
-JAN/20          98
-DEZ/19         203
-NOV/19         213
-OUT/19         171
-SET/19         159
-AGO/19         163
-JUL/19          84
-JUN/19         168
-MAI/19         184
-ABR/19         226
-MAR/19         334
-FEV/19         277
-DIC MENSAL        5,67   0,00
-DIC TRIMESTRAL   11,34
-DIC ANUAL        22,69
-FIC MENSAL        3,30   0,00
-FIC TRIMESTRAL    6,60
-FIC ANUAL        13,20
-DMIC              3,29   0,00
-DICRI            12,22
-

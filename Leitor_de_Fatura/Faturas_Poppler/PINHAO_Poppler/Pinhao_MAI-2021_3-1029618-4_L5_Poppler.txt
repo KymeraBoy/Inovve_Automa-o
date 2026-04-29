@@ -1,49 +1,0 @@
-POCO ARTESIANO
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0140 - 600 - 0200                         LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: W6006991371                            DOM. BANC.:
-MATRÍCULA: 1029618-2021-5-7                            DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV BEIJA FLOR DE CIMA, S/N
-AREA RURAL
-PINHAO (AG: 30)
-Maio/2021
-3/1029618-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   36,76         36,76   18      6,61           30,15        0,20          0,92
-0601 Adic. B. Amarela                                                            0,11          0,11   18      0,02            0,09        0,00          0,00
-0601 Adic. B. Vermelha                                                           2,27          2,27   18      0,41            1,86        0,01          0,06
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          39,14         39,14           7,04           32,10        0,21          0,98
-MAI/21   24,00
-ABR/21    0,00
-MAR/21   53,00 *
-FEV/21    0,00 *
-JAN/21    0,00 *
-DEZ/20    0,00 *
-NOV/20    0,00 *
-OUT/20    0,00 *
-SET/20    0,00 *
-AGO/20   50,00
-JUL/20    0,00 *
-JUN/20   50,00 *
-MAI/20    0,00
-DIC     11,01   0,00   22,03   44,07
-FIC      7,59   0,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-

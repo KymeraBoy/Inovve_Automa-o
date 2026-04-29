@@ -1,47 +1,0 @@
-CEMITERIO MUNICIPAL SAO JOSE
-
-AV GOV JOAO ALVES FILHO, S/N - PODER PUBLICO - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Janeiro / 2025
-3/739710-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5121488498   Energia ativa em kWh   Ponta   10448   10449   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          26,25        1,29          26,25   19       4,98
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                           -0,31
-
-
-
-
-                                   TOTAL:                         25,94        1,29          26,25            4,98
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS           21,26    1,0845      0,23
-COFINS        21,26    4,9955      1,06
-ICMS          26,25     18,00      4,72
-ICMS FCP      26,25      1,00      0,26
-DIC     10,00   0,12   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   0,12
-DICRI   13,00
-JAN/25    1,00
-DEZ/24    0,00 *
-NOV/24   17,00
-OUT/24    5,00
-SET/24    6,00
-AGO/24    0,00 *
-JUL/24    0,00 *
-JUN/24    1,00
-MAI/24    0,00 *
-ABR/24    1,00
-MAR/24    2,00
-FEV/24    1,00
-JAN/24    0,00 *
-

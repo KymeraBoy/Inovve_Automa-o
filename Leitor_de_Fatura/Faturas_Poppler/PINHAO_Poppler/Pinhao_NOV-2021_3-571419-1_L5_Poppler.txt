@@ -1,52 +1,0 @@
-POCO ARTESIANO MUNICIPAL
-
-DOMICÍLIO DE ENTREGA
-POCO ARTESIANO MUNICIPAL
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: SERVIÇO PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-ROTEIRO: 014 - 0140 - 480 - 0150                          LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W3003423946                             DOM. BANC.:
-MATRÍCULA: 571419-2021-11-2                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT SERRA SOLTEIRAE E O C, S/N - SERVICO PUBLICO
-AREA RURAL
-PINHAO (AG: 30)
-Novembro/2021
-3/571419-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   56,67          0,00   0       0,00           56,67        0,38          1,74
-0601 Adic. B. Amarela                                                           11,65          0,00   0       0,00           11,65        0,08          0,36
-0601 Adic. B. Vermelha                                                           3,09          0,00   0       0,00            3,09        0,02          0,09
-0610 Subsídio                                                                    3,62          0,00   0       0,00            3,62        0,02          0,11
-     LANÇAMENTOS E SERVIÇOS
-0906 Devolução Subsídio                                                         -3,48                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          71,55          0,00           0,00           75,03        0,50          2,30
-NOV/21     0,00
-OUT/21   100,00 *
-SET/21   100,00 *
-AGO/21   100,00 *
-JUL/21   100,00 *
-JUN/21   100,00 *
-MAI/21   100,00 *
-ABR/21   100,00 *
-MAR/21   100,00 *
-FEV/21     0,00
-JAN/21   100,00 *
-DEZ/20   100,00 *
-NOV/20   100,00 *
-DIC     11,01   1,52   22,03   44,07
-FIC      7,59   1,00   15,19   30,39
-DMIC     5,98   1,52
-DICRI   16,60
-

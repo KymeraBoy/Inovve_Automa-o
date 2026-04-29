@@ -1,48 +1,0 @@
-DELEGACIA DE PINHAO
-
-DOMICÍLIO DE ENTREGA
-DELEGACIA DE PINHAO
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 1366                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: N7005794475                            DOM. BANC.:
-MATRÍCULA: 582670-2021-7-5                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC LEANDRO MACIEL, S/N - PODER PUBLICO
-CENTRO
-PINHAO (AG: 30)
-Julho/2021
-3/582670-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        432,00    0,580440    0,735340      317,67        317,67   18      57,18         260,49        1,73          8,00
-0601 Adic. B. Vermelha                                                          49,14         49,14   18       8,84          40,30        0,27          1,24
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         366,81        366,81           66,02         300,79        2,00          9,24
-JUL/21   432,00
-JUN/21   495,00
-MAI/21   490,00
-ABR/21   719,00
-MAR/21   646,00
-FEV/21   662,00
-JAN/21   509,00
-DEZ/20   675,00
-NOV/20   580,00
-OUT/20   639,00
-SET/20   431,00
-AGO/20   466,00
-JUL/20   470,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

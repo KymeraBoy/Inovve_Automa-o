@@ -1,50 +1,0 @@
-BIBLIOTECA MARIA DE LOURDES MENDONCA
-
-RUA SIMAO DIAS, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Outubro / 2023
-3/296959-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-3004251590   Energia ativa em kWh   Ponta   66579   67197   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            618,00       0,843400        521,22       15,79         521,22   19      99,03   0,657610
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -6,37
-ATUALIZAÇÃO MONETÁRIA 08/2023                                            0,07
-MULTA 08/2023                                                            2,45
-JUROS DE MORA 08/2023                                                    0,33
-
-
-
-
-                                        TOTAL:                         517,70       15,79         521,22           99,03
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          422,18    0,6671      2,82
-COFINS       422,18    3,0729     12,97
-ICMS         521,22     18,00     93,82
-ICMS FCP     521,22      1,00      5,21
-DIC     10,00   0,07   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   0,07
-DICRI   13,00
-OUT/23   618,00
-SET/23   384,00
-AGO/23   145,00
-JUL/23   134,00
-JUN/23   185,00
-MAI/23   449,00
-ABR/23   581,00
-MAR/23   843,00
-FEV/23   672,00
-JAN/23   358,00
-DEZ/22   390,00
-NOV/22   427,00
-OUT/22   561,00
-

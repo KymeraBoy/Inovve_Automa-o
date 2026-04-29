@@ -1,37 +1,0 @@
- Janeiro/2020      31/01/202
-
-                             Tarifa
-Descrição       Quantidade   Tribut
-5 MULTA 12/2019
-5 MULTA 11/2019
-4 JUROS DE MORA 12/2019
-s/   Tarifa c/   Valor Total   B
-Emis
-ssão: 27/01/2020
-CCI: Código de Classificação do Item                                Total:   21,98   20,91      3,76
-
-
-
-
-         DISCRIMINAÇÃO
-SERVIÇO DISTRIBUIÇÃO
-                                       VALOR (R$)
-                                               5,96
-                                                        %
-                                                       27,11   21/02/2020                    R$ 21,98
-COMPRA DE ENERGIA                              8,60    39,13
-SERVIÇO DE TRANSMISSÃO                         0,58     2,64
-ENCARGOS SETORIAIS                             1,19     5,41
-IMPOSTOS DIRETOS E ENCARGOS                    5,65    25,71
-OUTROS SERVIÇOS                                0,00     0,00
-              TOTAL                          21,98    100,00
-- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 8,54
- MÊS/ANO   CONVENCIONAL
-
-
-JAN/20          3
-DEZ/19          2
-   HISTÓRICO DE CONSUMO (kWh)
-
-PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-

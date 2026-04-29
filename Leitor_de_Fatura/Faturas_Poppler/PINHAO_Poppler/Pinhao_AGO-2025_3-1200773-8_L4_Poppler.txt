@@ -1,48 +1,0 @@
-POCO ARTESIANO
-
-PC LUIZ ARAUJO DE SANTANA, 0 - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2025
-3/1200773-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: TRIFASICO
-W7009825259   Energia ativa em kWh   Ponta   9902   9912   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          75,50        4,26           0,00   0        0,00
-Adic. B. Vermelha                                                  5,92        0,33           0,00   0        0,00
-Adic. B. Vermelha                                                  1,37        0,07           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                           -0,98       0,00           0,00            0,00
-
-
-
-
-                                   TOTAL:                         81,81        4,66           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          82,79    1,0058      0,83
-COFINS       82,79    4,6328      3,83
-ICMS          0,00       0,00     0,00
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/25   10,00
-JUL/25    9,00
-JUN/25   18,00
-MAI/25   21,00
-ABR/25   29,00
-MAR/25   34,00
-FEV/25   26,00
-JAN/25   36,00
-DEZ/24   58,00
-NOV/24   79,00
-OUT/24   49,00
-SET/24   27,00
-AGO/24   29,00
-

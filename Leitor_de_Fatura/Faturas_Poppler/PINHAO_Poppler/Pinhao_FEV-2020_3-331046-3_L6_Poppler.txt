@@ -1,47 +1,0 @@
-POSTO MUNICIPAL DE SAUDE
-POV RAJAS, S/N - PODER PUBLICO - 49517-000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/331046-3
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                      Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                            Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Custo de Disponibilidade                                                          34,63         34,63    18      6,23           34,63       0,33         1,53
-0601 Adic. B. Amarela                                                                   0,26          0,26    18      0,05            0,26       0,00         0,01
-     LANÇAMENTOS E SERVIÇOS
-0899 DIF PRECO MED. MONO P/ BI 02/2020                                                 49,31                   0      0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                              Total:                84,2         34,89            6,28           34,89       0,33         1,54
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20          3
-JAN/20         30
-DEZ/19          0
-NOV/19         30
-OUT/19         30
-SET/19         30
-AGO/19          0
-JUL/19         30
-JUN/19         30
-MAI/19          0
-ABR/19         30
-MAR/19          0
-FEV/19         30
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

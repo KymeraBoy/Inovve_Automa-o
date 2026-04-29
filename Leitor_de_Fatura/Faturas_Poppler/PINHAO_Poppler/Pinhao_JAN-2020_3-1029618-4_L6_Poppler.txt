@@ -1,51 +1,0 @@
-POCO ARTESIANO
-POV BEIJA FLOR DE CIMA, S/N - 49517000
-AREA RURAL
-PINHAO-SE (AG: 30)
-Janeiro/2020
-3/1029618-4
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: BIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,7074%)     (3,2584%)
-0601 Consumo em kWh                         80,00   0,530720        0,680100         54,40         54,40    18      9,79           54,40       0,38         1,77
-0601 Adic. B. Amarela                                                                 1,37          1,37    18      0,24            1,37       0,01         0,04
-     LANÇAMENTOS E SERVIÇOS
-0899 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    0,80                   0      0,00            0,00       0,00         0,00
-0805 MULTA 12/2019                                                                    2,24                   0      0,00            0,00       0,00         0,00
-0805 MULTA 11/2019                                                                    2,68                   0      0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 12/2019                                                            0,04                   0      0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 11/2019                                                            0,40                   0      0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               61,93         55,77           10,02           55,77       0,39         1,81
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          80
-DEZ/19         159
-NOV/19         181
-OUT/19         105
-SET/19          63
-AGO/19          29
-JUL/19          23
-JUN/19          50
-MAI/19          69
-ABR/19          44
-MAR/19          62
-FEV/19          61
-JAN/19         104
-DIC MENSAL       11,16   0,00
-DIC TRIMESTRAL   22,32
-DIC ANUAL        44,65
-FIC MENSAL        7,67   0,00
-FIC TRIMESTRAL   15,34
-FIC ANUAL        30,69
-DMIC              6,08   0,00
-DICRI            16,60
-

@@ -1,44 +1,0 @@
-SISTEMA DESALINISADOR MUNICIPAL
-
-POV LAGOA BRANCA, S/N - PODER PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Janeiro / 2023
-3/391855-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-2003761898   Energia ativa em kWh   Ponta   4414   4464   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          41,26        1,54          41,26   18       7,42
-
-
-
-
-                                   TOTAL:                         41,26        1,54          41,26            7,42
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          33,83    0,8132      0,27
-COFINS       33,83    3,7456      1,27
-ICMS         41,26     18,00      7,42
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-JAN/23   50,00 *
-DEZ/22    0,00 *
-NOV/22    0,00 *
-OUT/22    0,00 *
-SET/22    0,00 *
-AGO/22    0,00 *
-JUL/22    0,00 *
-JUN/22    0,00 *
-MAI/22    0,00 *
-ABR/22    0,00
-MAR/22    0,00 *
-FEV/22    0,00 *
-JAN/22    0,00 *
-

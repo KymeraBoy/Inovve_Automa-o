@@ -1,44 +1,0 @@
-ILUMINACAO PUBLICA PREFEITURA MUNICIPAL
-DE PINHAO
-RUA CINCO DE NOVEMBRO, 0 - CPREDE - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Dezembro / 2022
-3/908666-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-W7001637020   Energia ativa em kWh   Ponta   232577   235111   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh             2.534,00       0,372070        942,83       42,76           0,00   0        0,00   0,355200
-
-
-
-
-                          TOTAL:                          942,83       42,76           0,00            0,00
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         942,83    0,8089      7,63
-COFINS      942,83    3,7259     35,13
-ICMS          0,00       0,00     0,00
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-DEZ/22   2.534,00
-NOV/22   2.792,00
-OUT/22   2.847,00
-SET/22   3.305,00
-AGO/22   3.320,00
-JUL/22   3.251,00
-JUN/22   3.441,00
-MAI/22   3.016,00
-ABR/22   3.006,00
-MAR/22   3.111,00
-FEV/22   2.739,00
-JAN/22   3.236,00
-DEZ/21   3.038,00
-

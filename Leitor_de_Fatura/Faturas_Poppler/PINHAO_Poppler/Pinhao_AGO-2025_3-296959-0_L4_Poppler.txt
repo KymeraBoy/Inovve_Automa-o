@@ -1,52 +1,0 @@
-BIBLIOTECA MARIA DE LOURDES MENDONCA
-
-RUA SIMAO DIAS, S/N - 49517000
-
-
-CENTRO
-PINHAO (AG: 30)
-Agosto / 2025
-3/296959-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-3004251590   Energia ativa em kWh   Ponta   78292   78447   1
-                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                  Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                  KWH        155,00       0,932140        144,48        6,60         144,48   19      27,45   0,712470
-Adic. B. Vermelha                                                        12,98        0,59          12,98   19       2,46
-Adic. B. Vermelha                                                         1,69        0,07           1,69   19       0,32
-LANÇAMENTOS E SERVIÇOS
-JUROS DE MORA 07/2025                                                     0,17        0,00           0,00            0,00
-MULTA 07/2025                                                             2,04        0,00           0,00            0,00
-ATUALIZAÇÃO MONETÁRIA 07/2025                                             0,04        0,00           0,00            0,00
-IMPOSTO DE RENDA PPE/PPM                                                  -1,99       0,00           0,00            0,00
-
-
-
-
-                                         TOTAL:                         159,41        7,26         159,15           30,23
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          128,89    1,0058      1,29
-COFINS       128,89    4,6328      5,97
-ICMS         159,15     18,00     28,66
-ICMS FCP     159,15      1,00      1,57
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/25   155,00
-JUL/25   105,00
-JUN/25   143,00
-MAI/25   491,00
-ABR/25   739,00
-MAR/25   486,00
-FEV/25   645,00
-JAN/25   506,00
-DEZ/24   550,00
-NOV/24   465,00
-OUT/24   600,00
-SET/24   262,00
-AGO/24   118,00
-

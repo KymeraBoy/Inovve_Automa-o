@@ -1,45 +1,0 @@
-CRECHE JOSE SIQUEIRA FILHO
-POV LAGOA BRANCA, 0 - 49517000
-CENTRO
-PINHAO-SE (AG: 30)
-Fevereiro/2020
-3/935672-6
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9619%)     (4,4305%)
-0601 Custo de Disponibilidade                                                        20,78         20,78    18      3,74           20,78       0,20         0,92
-0601 Adic. B. Amarela                                                                 0,15          0,15    18      0,02            0,15       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               20,93         20,93            3,76           20,93       0,20         0,92
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-FEV/20          9
-JAN/20          3
-DEZ/19         32
-NOV/19         30
-OUT/19         28
-SET/19         27
-AGO/19         29
-JUL/19         22
-JUN/19         29
-MAI/19         28
-ABR/19         32
-MAR/19         21
-FEV/19         26
-DIC MENSAL       11,01   0,00
-DIC TRIMESTRAL   22,03
-DIC ANUAL        44,07
-FIC MENSAL        7,59   0,00
-FIC TRIMESTRAL   15,19
-FIC ANUAL        30,39
-DMIC              5,98   0,00
-DICRI            16,60
-

@@ -1,50 +1,0 @@
-ESCOLA MUNICIPAL ISMAEL TRINDADE
-
-ASSENT VARZEA BARRIS, S/N - RUA 1 ESCOLA - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-Maio / 2024
-3/566106-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: BIFASICO
-W6005620344   Energia ativa em kWh   Ponta   10678   10889   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            211,00       0,856910        180,81        5,95         180,81   19      34,35   0,665910
-LANÇAMENTOS E SERVIÇOS
-IMPOSTO DE RENDA PPE/PPM                                                 -2,37
-ATUALIZAÇÃO MONETÁRIA 03/2024                                            0,08
-MULTA 03/2024                                                            4,01
-JUROS DE MORA 03/2024                                                    0,53
-
-
-
-
-                                        TOTAL:                         183,06        5,95         180,81           34,35
-Tributo    Base de     Alíquota   Valor
-           Cálc.(R$)      (%)      (R$)
-PIS          146,44    0,7246      1,06
-COFINS       146,44    3,3375      4,89
-ICMS         180,81     18,00     32,55
-ICMS FCP     180,81      1,00      1,80
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-MAI/24   211,00   0,00
-ABR/24   238,00   0,00
-MAR/24   235,00   0,00
-FEV/24    88,00   0,00
-JAN/24    78,00   0,00
-DEZ/23    97,00   0,00
-NOV/23   129,00   0,00
-OUT/23   125,00   0,00
-SET/23   125,00   0,00
-AGO/23    76,00   0,00
-JUL/23    52,00   0,00
-JUN/23    75,00   0,00
-MAI/23    95,00   0,00
-

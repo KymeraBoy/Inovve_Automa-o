@@ -1,48 +1,0 @@
-SECRETARIA MUNICIPAL DE EDUCACAO
-
-DOMICÍLIO DE ENTREGA
-SECRETARIA MUNICIPAL DE EDUCACAO
-RUA SIMAO DIAS S/N S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0140 - 145 - 4280                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7002473373                            DOM. BANC.:
-MATRÍCULA: 124858-2022-2-0                             DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC LEANDRO MACIEL, S/N
-CENTRO
-PINHAO (AG: 30)
-Fevereiro/2022
-3/124858-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,8846%)     (4,0745%)
-0601 Consumo em kWh                        727,00    0,580440    0,744780      541,46        541,46   18       97,46         443,99        3,92         18,09
-0601 Adic. B. Vermelha                                                         132,46        132,46   18       23,84         108,62        0,96          4,42
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         673,92        673,92           121,30         552,61        4,88         22,51
-FEV/22   727,00 *
-JAN/22   730,00 *
-DEZ/21   714,00
-NOV/21   739,00
-OUT/21   799,00
-SET/21   753,00
-AGO/21   540,00
-JUL/21   634,00
-JUN/21   670,00
-MAI/21   733,00
-ABR/21   810,00
-MAR/21   811,00
-FEV/21   786,00
-DIC      5,67   0,00   11,34   22,69
-FIC      3,30   0,00    6,60   13,20
-DMIC     3,29   0,00
-DICRI   12,22
-

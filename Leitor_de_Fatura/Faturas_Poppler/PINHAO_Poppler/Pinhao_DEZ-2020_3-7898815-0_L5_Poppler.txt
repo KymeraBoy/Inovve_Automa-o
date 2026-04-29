@@ -1,41 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-AV GOV JOSE ROLLEMBERG LEITE, 000 - - AV GOV JOSE ROLLEMBERG LEITE
-25 DE NOVEMBRO
-PINHAO
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-ROTEIRO: 016 - 0140 - 160 - 1719                           LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: E7002418022                              DOM. BANC.:
-MATRÍCULA: 7898815-2020-12-2                             DOM. ENT.:
-Dezembro/2020
-3/7898815-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.    PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)       (%)            (%)
-     LANÇAMENTOS E SERVIÇOS
-0899 PARCELAMENTO DEB. 00/3                                                  5.000,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:       5.000,00          0,00           0,00            0,00       0,00          0,00
-DEZ/20
-NOV/20
-OUT/20
-SET/20
-AGO/20
-JUL/20
-JUN/20
-MAI/20
-ABR/20
-MAR/20
-FEV/20
-JAN/20
-DEZ/19
-DIC
-FIC
-DMIC
-DICRI
-

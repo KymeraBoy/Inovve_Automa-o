@@ -1,47 +1,0 @@
-ESCOLA MUNICIPAL JOSE DORIA DE ALMEIDA
-
-DOMICÍLIO DE ENTREGA
-ESCOLA MUNICIPAL JOSE DORIA DE ALMEIDA
-RUA SIMAO DIAS S/N
-PINHAO (AG: 30)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 015 - 0140 - 260 - 0073                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: N1051039584                          DOM. BANC.:
-MATRÍCULA: 747813-2020-4-2                           DOM. ENT.: 140
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-POV ESPINHEIRO, S/N
-AREA RURAL
-PINHAO (AG: 30)
-Abril/2020
-3/747813-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8638%)     (3,9788%)
-0601 Consumo em kWh                         48,00    0,530720    0,687830       33,01         33,01   18      5,94           33,01        0,28          1,31
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          33,01         33,01           5,94           33,01        0,28          1,31
-ABR/20   48,00
-MAR/20   43,00
-FEV/20    50,00
-JAN/20    58,00 *
-DEZ/19    48,00
-NOV/19    74,00
-OUT/19   111,00
-SET/19   35,00
-AGO/19   64,00
-JUL/19   48,00
-JUN/19   55,00
-MAI/19   52,00
-ABR/19   55,00
-DIC     11,01   4,50   22,03   44,07
-FIC      7,59   1,00   15,19   30,39
-DMIC     5,98   0,00
-DICRI   16,60
-
