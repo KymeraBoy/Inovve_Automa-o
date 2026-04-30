@@ -1,0 +1,44 @@
+PM GURINHEM SECRETARIA DE SAUDE
+
+RUA 7 DE SETEMBRO, 36 - 58356000
+
+
+CENTRO
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/179050-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008950373   Energia ativa em kWh   Ponta   34722   34802   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          89,44        3,98          89,44   20      17,88
+
+
+
+
+                                   TOTAL:                         89,44        3,98          89,44           17,88
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          71,54    0,9940      0,71
+COFINS       71,54    4,5784      3,27
+ICMS         89,44     20,00     17,88
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+FEV/26    80,00
+JAN/26    92,00
+DEZ/25   148,00
+NOV/25    81,00
+OUT/25    89,00
+SET/25   113,00
+AGO/25    88,00
+JUL/25    90,00
+JUN/25    91,00
+MAI/25    67,00
+ABR/25    81,00
+MAR/25   103,00
+FEV/25    88,00
+

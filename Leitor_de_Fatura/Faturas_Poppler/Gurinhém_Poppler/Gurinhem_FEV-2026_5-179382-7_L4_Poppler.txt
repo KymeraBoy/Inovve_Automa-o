@@ -1,0 +1,44 @@
+GRUPO ESCOLAR MADRE DANTES
+
+RUA PROJETADA, S/N - 58356000
+
+
+CENTRO
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/179382-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+7088562379   Energia ativa em kWh   Ponta   14341   14808   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        467,00       0,894390        417,68       18,62         417,68   20      83,53   0,675650
+
+
+
+
+                           TOTAL:                         417,68       18,62         417,68           83,53
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         334,13    0,9940      3,32
+COFINS      334,13    4,5784     15,30
+ICMS        417,68     20,00     83,53
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+FEV/26    467,00
+JAN/26    654,00
+DEZ/25   2.267,00
+NOV/25   2.737,00
+OUT/25   2.674,00
+SET/25   2.010,00
+AGO/25   2.209,00
+JUL/25    375,00
+JUN/25   1.415,00
+MAI/25   1.440,00
+ABR/25     100,00 *
+MAR/25   1.726,00 *
+FEV/25   1.633,00 *
+

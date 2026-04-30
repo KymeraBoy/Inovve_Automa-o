@@ -1,0 +1,44 @@
+PM GURINHEM QUADRA DE ESPORTES
+
+SIT PAU FERRO, S/N - 58356000
+
+
+AREA RURAL
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/1295590-2
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+7022030258   Energia ativa em kWh   Ponta   18928   19285   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        357,00       0,894390        319,30       14,23         319,30   20      63,86   0,675650
+
+
+
+
+                           TOTAL:                         319,30       14,23         319,30           63,86
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         255,43    0,9940      2,54
+COFINS      255,43    4,5784     11,69
+ICMS        319,30     20,00     63,86
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+FEV/26   357,00
+JAN/26   164,00
+DEZ/25    36,00
+NOV/25    40,00
+OUT/25    54,00
+SET/25    63,00
+AGO/25    91,00
+JUL/25    94,00
+JUN/25   112,00
+MAI/25   128,00
+ABR/25   119,00
+MAR/25   122,00
+FEV/25   146,00
+

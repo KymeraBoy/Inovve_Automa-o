@@ -1,0 +1,53 @@
+PREFEITURA MUNICIPAL DE MIRANDA
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE MIRANDA
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 052 - 0013 - 510 - 1960                                LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000Q17535                                   DOM. BANC.:
+MATRÍCULA: 3064508-2021-7-8                                   DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ALDEIA MAE TERRA, S/N - 24.413.08.026000 - ESCOLA 79380000
+RURAL
+MIRANDA (AG: 13)
+Julho/2021
+10/3064508-9
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            907,00    0,693650    0,886870      804,39        804,39   17      136,74         667,65        6,87         31,64
+0601 Adic. B. Vermelha                                                              81,19         81,19   17       13,80          67,39        0,69          3,19
+     LANÇAMENTOS E SERVIÇOS
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -910,72                 0         0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   4,83                 0         0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                  14,86                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           5,45                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        885,58           150,54         735,04        7,56         34,83
+JUL/21   907,00
+JUN/21   882,00
+MAI/21   987,00
+ABR/21   894,00 *
+MAR/21   903,00 *
+FEV/21   861,00
+JAN/21   921,00 *
+DEZ/20   931,00 *
+NOV/20   853,00
+OUT/20   773,00
+SET/20   979,00 *
+AGO/20   943,00 *
+JUL/20   951,00 *
+DIC     18,36   0,00   36,72   73,45
+FIC      8,19   0,00   16,39   32,78
+DMIC     9,77   0,00
+DICRI   16,60
+

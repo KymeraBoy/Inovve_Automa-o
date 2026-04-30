@@ -1,0 +1,53 @@
+P M MIRANDA ESC EXT JOSE BALBINO
+
+DOMICÍLIO DE ENTREGA
+P M MIRANDA ESC EXT JOSE BALBINO
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 052 - 0013 - 510 - 1300                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00033022316                            DOM. BANC.:
+MATRÍCULA: 519396-2021-7-5                             DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ALDEIA BABACU, S/N - 24.413.08.703600 79380000
+RURAL
+MIRANDA (AG: 13)
+Julho/2021
+10/519396-6
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                             95,00    0,693650    0,886870       84,25         84,25   17      14,32          69,92        0,72          3,31
+0601 Adic. B. Vermelha                                                               8,48          8,48   17       1,44           7,04        0,07          0,33
+     LANÇAMENTOS E SERVIÇOS
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                           -96,50                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   0,72                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                   2,23                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           0,82                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00         92,73           15,76          76,96        0,79          3,64
+JUL/21    95,00
+JUN/21   107,00
+MAI/21    30,00 *
+ABR/21   134,00 *
+MAR/21   143,00 *
+FEV/21    30,00 *
+JAN/21   178,00 *
+DEZ/20   184,00 *
+NOV/20     0,00 *
+OUT/20    30,00
+SET/20   217,00 *
+AGO/20     0,00 *
+JUL/20    30,00 *
+DIC     11,59   0,00   23,19   46,38
+FIC      7,52   0,00   15,04   30,09
+DMIC     6,39   0,00
+DICRI   16,60
+

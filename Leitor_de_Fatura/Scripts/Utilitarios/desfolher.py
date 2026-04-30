@@ -28,6 +28,6 @@ def desfolhar_pasta(caminho_principal):
                 pass
 
 if __name__ == "__main__":
-    pasta = r"C:\Users\Usuário 1\Downloads\Lucena"
+    pasta = r"C:\Users\Usuário 1\OneDrive\Leitor_de_Fatura\Faturas\Gurinhém"
     desfolhar_pasta(pasta)
     print("Processo concluído!")

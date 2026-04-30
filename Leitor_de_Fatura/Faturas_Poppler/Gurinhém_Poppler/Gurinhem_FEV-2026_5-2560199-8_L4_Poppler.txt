@@ -1,0 +1,44 @@
+PM GURINHEM POCO ARTESIANO III
+
+SIT MANECOS, 0 - ZONA RURAL - 58356000
+
+
+AREA RURAL
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/2560199-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5204777585   Energia ativa em kWh   Ponta   11392   11794   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        402,00       0,894390        359,54       16,03         359,54   20      71,90   0,675650
+
+
+
+
+                           TOTAL:                         359,54       16,03         359,54           71,90
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         287,63    0,9940      2,86
+COFINS      287,63    4,5784     13,17
+ICMS        359,54     20,00     71,90
+DIC     24,00   1,12   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    18,00   1,12
+DICRI   26,00
+FEV/26   402,00
+JAN/26   444,00
+DEZ/25   439,00
+NOV/25   530,00
+OUT/25   527,00
+SET/25   427,00
+AGO/25   696,00
+JUL/25   617,00
+JUN/25   455,00
+MAI/25   540,00
+ABR/25   331,00
+MAR/25   369,00
+FEV/25   472,00
+

@@ -1,0 +1,54 @@
+PMM FMAS PETI
+
+DOMICÍLIO DE ENTREGA
+PMM FMAS PETI
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 002 - 0013 - 010 - 0201                              LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000H35190                                 DOM. BANC.:
+MATRÍCULA: 83663-2021-7-4                                   DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA HOMERO REBUA CANDIA, S/N - 11.013.01.503500 79380000
+CENTRO
+MIRANDA (AG: 13)
+Julho/2021
+10/83663-5
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            290,00    0,693650    0,886870      257,19        257,19   17      43,72         213,46        2,19         10,11
+0601 Adic. B. Vermelha                                                              25,97         25,97   17       4,41          21,54        0,22          1,02
+     LANÇAMENTOS E SERVIÇOS
+0807 CONT.IL.PUB-CIP MUNICIPAL                                                      24,19                 0        0,00           0,00        0,00          0,00
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -334,90                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   5,29                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                  16,29                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           5,97                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        283,16           48,13         235,00        2,41         11,13
+JUL/21   290,00
+JUN/21   530,00
+MAI/21   770,00
+ABR/21   980,00
+MAR/21   640,00
+FEV/21   620,00
+JAN/21   780,00
+DEZ/20   720,00
+NOV/20   450,00
+OUT/20   310,00
+SET/20   250,00
+AGO/20   200,00
+JUL/20   230,00
+DIC      6,15   0,00   12,30    24,6
+FIC      3,23   0,00    6,47   12,95
+DMIC     3,63   0,00
+DICRI   12,22
+

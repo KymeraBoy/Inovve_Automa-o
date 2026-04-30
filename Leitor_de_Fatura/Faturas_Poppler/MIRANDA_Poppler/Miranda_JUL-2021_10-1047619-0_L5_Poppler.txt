@@ -1,0 +1,57 @@
+PMM FMEC CASA DA CULTURA
+
+DOMICÍLIO DE ENTREGA
+PMM FMEC CASA DA CULTURA
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 017 - 0013 - 030 - 3071                               LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000J47274                                  DOM. BANC.:
+MATRÍCULA: 1047619-2021-7-9                                  DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VINTE E QUATRO DE FEVEREIRO, S/N - 02.013.03.275600 79380000
+CENTRO
+MIRANDA (AG: 13)
+Julho/2021
+10/1047619-0
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            165,00    0,693650    0,886870      146,33        146,33   17      24,87         121,46        1,24          5,76
+0601 Adic. B. Vermelha                                                              19,55         19,55   17       3,32          16,22        0,17          0,76
+     LANÇAMENTOS E SERVIÇOS
+0807 CONT.IL.PUB-CIP MUNICIPAL                                                      19,35                 0        0,00           0,00        0,00          0,00
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -190,20                 0        0,00           0,00        0,00          0,00
+0899 AJUSTE TARIFA ICMS - RTA 2021                                                   0,20                 0        0,00           0,00        0,00          0,00
+0601 AJUSTE TARIFA CONSUMO-RTA 2021                                                  0,98                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 05/2021                                                   0,10                 0        0,00           0,00        0,00          0,00
+0899 DIF.CREDITO A DEVOLVER 08/2021                                                  0,00                 0        0,00           0,00        0,00          0,00
+0805 MULTA 05/2021                                                                   2,67                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 05/2021                                                           1,02                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        165,88           28,19         137,68        1,41          6,52
+JUL/21   165,00
+JUN/21   122,00
+MAI/21   141,00
+ABR/21   121,00
+MAR/21   134,00
+FEV/21    99,00
+JAN/21    74,00
+DEZ/20   108,00
+NOV/20    92,00
+OUT/20   133,00
+SET/20   188,00
+AGO/20   231,00
+JUL/20   156,00
+DIC      6,15   0,00   12,30    24,6
+FIC      3,23   0,00    6,47   12,95
+DMIC     3,63   0,00
+DICRI   12,22
+

@@ -1,0 +1,54 @@
+PM ESCOLA BALDOMERO CORTADA FILHO
+
+DOMICÍLIO DE ENTREGA
+PM ESCOLA BALDOMERO CORTADA FILHO
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 054 - 0013 - 530 - 0020                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: 00053123196                            DOM. BANC.:
+MATRÍCULA: 972344-2021-7-5                             DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+AVENIDA AGAXI, S/N - 24.413.51.018500 79380000
+RURAL
+MIRANDA (AG: 13)
+Julho/2021
+10/972344-6
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            180,00    0,693650    0,886870      159,63        159,63   17      27,13         132,49        1,36          6,27
+0601 Adic. B. Vermelha                                                              17,05         17,05   17       2,90          14,15        0,14          0,67
+     LANÇAMENTOS E SERVIÇOS
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -182,33                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   1,08                 0        0,00           0,00        0,00          0,00
+0999 CREDITO ANTERIOR 08/2021                                                        0,00                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                   3,34                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           1,23                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        176,68           30,03         146,64        1,50          6,94
+JUL/21   180,00
+JUN/21   190,00
+MAI/21    22,00
+ABR/21   201,00 *
+MAR/21   211,00 *
+FEV/21    50,00 *
+JAN/21   230,00 *
+DEZ/20   237,00 *
+NOV/20    50,00 *
+OUT/20   297,00
+SET/20   297,00 *
+AGO/20    50,00 *
+JUL/20   302,00 *
+DIC     18,36   0,00   36,72   73,45
+FIC      8,19   0,00   16,39   32,78
+DMIC     9,77   0,00
+DICRI   16,60
+

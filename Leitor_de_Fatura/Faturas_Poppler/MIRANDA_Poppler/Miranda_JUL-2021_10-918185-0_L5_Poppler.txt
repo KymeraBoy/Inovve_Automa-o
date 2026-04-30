@@ -1,0 +1,58 @@
+PMM FUNDEB ESCOLA MUNICIPAL ESTANISLAU BOSSAY
+
+DOMICÍLIO DE ENTREGA
+PMM FUNDEB ESCOLA MUNICIPAL ESTANISLAU BOSSAY
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0013 - 020 - 2431                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000A14485                            DOM. BANC.:
+MATRÍCULA: 918185-2021-7-9                             DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA RUI BARBOSA, S/N - 17.013.03.013600 79380000
+CENTRO
+MIRANDA (AG: 13)
+Julho/2021
+10/918185-0
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            240,00    0,693650    0,886870      212,85        212,85   17      36,18         176,66        1,81          8,37
+0601 Adic. B. Vermelha                                                              26,21         26,21   17       4,46          21,76        0,23          1,03
+     LANÇAMENTOS E SERVIÇOS
+0807 CONT.IL.PUB-CIP MUNICIPAL                                                      21,77                 0        0,00           0,00        0,00          0,00
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -298,69                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 05/2021                                                   0,28                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   5,29                 0        0,00           0,00        0,00          0,00
+0899 DEBITO ANTERIOR 08/2021                                                         0,00                 0        0,00           0,00        0,00          0,00
+0805 MULTA 05/2021                                                                   7,25                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                  16,29                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 05/2021                                                           2,78                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           5,97                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        239,06           40,64         198,42        2,04          9,40
+JUL/21   240,00
+JUN/21   360,00
+MAI/21   390,00
+ABR/21   980,00
+MAR/21   970,00
+FEV/21   450,00
+JAN/21   280,00
+DEZ/20   580,00
+NOV/20   430,00
+OUT/20   240,00
+SET/20   200,00
+AGO/20   130,00
+JUL/20   300,00
+DIC      6,15   0,00   12,30    24,6
+FIC      3,23   0,00    6,47   12,95
+DMIC     3,63   0,00
+DICRI   12,22
+

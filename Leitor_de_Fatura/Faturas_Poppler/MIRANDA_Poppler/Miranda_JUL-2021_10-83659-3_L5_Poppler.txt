@@ -1,0 +1,56 @@
+PMM FUNDEB ESCOLA MUNIC XV DE OUTUBRO
+
+DOMICÍLIO DE ENTREGA
+PMM FUNDEB ESCOLA MUNIC XV DE OUTUBRO
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 017 - 0013 - 030 - 1201                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000P28469                            DOM. BANC.:
+MATRÍCULA: 83659-2021-7-2                              DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BODOQUENA, S/N - 03.013.01.034000 79380000
+CENTRO
+MIRANDA (AG: 13)
+Julho/2021
+10/83659-3
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            285,00    0,693650    0,886870      252,75        252,75   17      42,96         209,79        2,15          9,94
+0601 Adic. B. Vermelha                                                              33,83         33,83   17       5,75          28,08        0,29          1,33
+     LANÇAMENTOS E SERVIÇOS
+0807 CONT.IL.PUB-CIP MUNICIPAL                                                      24,19                 0        0,00           0,00        0,00          0,00
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -337,93                 0        0,00           0,00        0,00          0,00
+0899 AJUSTE TARIFA ICMS - RTA 2021                                                   1,72                 0        0,00           0,00        0,00          0,00
+0601 AJUSTE TARIFA CONSUMO-RTA 2021                                                  8,38                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 05/2021                                                   0,47                 0        0,00           0,00        0,00          0,00
+0805 MULTA 05/2021                                                                  11,99                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 05/2021                                                           4,60                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        286,58           48,71         237,87        2,44         11,27
+JUL/21    285,00
+JUN/21    456,00
+MAI/21     633,00
+ABR/21   1.027,00
+MAR/21   1.891,00
+FEV/21     871,00
+JAN/21     828,00
+DEZ/20   1.128,00
+NOV/20     837,00
+OUT/20   1.031,00
+SET/20     456,00
+AGO/20     411,00
+JUL/20     526,00
+DIC      6,15   0,00   12,30    24,6
+FIC      3,23   0,00    6,47   12,95
+DMIC     3,63   0,00
+DICRI   12,22
+

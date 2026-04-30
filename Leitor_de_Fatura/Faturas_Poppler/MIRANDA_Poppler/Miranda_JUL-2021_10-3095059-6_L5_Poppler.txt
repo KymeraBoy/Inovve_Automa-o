@@ -1,0 +1,55 @@
+PREFEITURA MUNICIPAL DE MIRANDA
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE MIRANDA
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 003 - 0013 - 010 - 1341                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00073022863                            DOM. BANC.:
+MATRÍCULA: 3095059-2021-7-5                            DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PROJETADA, 0 - 16.013.01.537000 79380000
+NOVO HABITAR
+MIRANDA (AG: 13)
+Julho/2021
+10/3095059-6
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            428,00    0,693650    0,886870      379,58        379,58   17      64,52         315,05        3,24         14,93
+0601 Adic. B. Vermelha                                                              39,30         39,30   17       6,68          32,62        0,33          1,54
+     LANÇAMENTOS E SERVIÇOS
+0807 CONT.IL.PUB-CIP MUNICIPAL                                                      41,13                 0        0,00           0,00        0,00          0,00
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -508,41                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   9,30                 0        0,00           0,00        0,00          0,00
+0899 DIF.CREDITO A DEVOLVER 08/2021                                                  0,00                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                  28,61                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                          10,49                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        418,88           71,20         347,67        3,57         16,47
+JUL/21    428,00
+JUN/21    821,00
+MAI/21   1.167,00
+ABR/21   1.721,00
+MAR/21   1.673,00
+FEV/21   1.563,00
+JAN/21   1.518,00
+DEZ/20   1.971,00
+NOV/20   1.693,00
+OUT/20   1.320,00
+SET/20     795,00
+AGO/20     886,00
+JUL/20     870,00
+DIC      6,15   0,00   12,30    24,6
+FIC      3,23   0,00    6,47   12,95
+DMIC     3,63   0,00
+DICRI   12,22
+

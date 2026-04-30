@@ -1,0 +1,54 @@
+PM DE MIRANDA ALDEIA CACHOEIRINHA
+
+DOMICÍLIO DE ENTREGA
+PM DE MIRANDA ALDEIA CACHOEIRINHA
+RUA TIRADENTES CENTRO, PACO MUNICIPAL
+MIRANDA (AG: 13)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 052 - 0013 - 520 - 3040                          LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000N05865                             DOM. BANC.:
+MATRÍCULA: 1482147-2021-7-3                             DOM. ENT.: 9990013001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ALDEIA CACHOEIRINHA, S/N - 24.235.01.039600 79380000
+RURAL
+MIRANDA (AG: 13)
+Julho/2021
+10/1482147-4
+                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
+0601 Consumo em kWh                            733,00    0,693650    0,886870      650,08        650,08   17      110,51         539,56        5,55         25,57
+0601 Adic. B. Vermelha                                                              65,60         65,60   17       11,15          54,45        0,56          2,58
+     LANÇAMENTOS E SERVIÇOS
+0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -741,19                 0         0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   4,90                 0         0,00           0,00        0,00          0,00
+0899 DEBITO ANTERIOR 08/2021                                                         0,00                 0         0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                                  15,08                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                           5,53                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                TOTAL:           0,00        715,68           121,66         594,01        6,11         28,15
+JUL/21    733,00
+JUN/21    870,00
+MAI/21     100,00 *
+ABR/21     907,00 *
+MAR/21     895,00 *
+FEV/21   1.604,00
+JAN/21     791,00 *
+DEZ/20    791,00 *
+NOV/20     93,00
+OUT/20    100,00
+SET/20    921,00 *
+AGO/20    861,00 *
+JUL/20    856,00 *
+DIC     11,59   0,00   23,19   46,38
+FIC      7,52   0,00   15,04   30,09
+DMIC     6,39   0,00
+DICRI   16,60
+

@@ -1,0 +1,44 @@
+PM DE GURINHEM POCO
+
+QUILOMBO MATAO, S/N - 58375000
+
+
+AREA RURAL
+MOGEIRO (AG: 113)
+Fevereiro / 2026
+5/1543357-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008535003   Energia ativa em kWh   Ponta   99856   100669   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH        813,00       0,894390        727,14       32,41         727,14   20      145,42   0,675650
+
+
+
+
+                           TOTAL:                         727,14       32,41         727,14           145,42
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         581,71    0,9940       5,78
+COFINS      581,71    4,5784      26,63
+ICMS        727,14     20,00     145,42
+DIC     24,00   0,28   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    18,00   0,28
+DICRI   26,00
+FEV/26    813,00
+JAN/26    789,00
+DEZ/25   1.507,00
+NOV/25   1.027,00
+OUT/25   1.176,00
+SET/25     721,00
+AGO/25   1.299,00
+JUL/25   1.165,00
+JUN/25   1.166,00
+MAI/25   1.124,00
+ABR/25   1.044,00
+MAR/25   1.080,00
+FEV/25   1.096,00
+

@@ -1,0 +1,59 @@
+% Configurações Gerais do Documento
+\input{../preambulo.tex} 
+\usepackage{tabularx}
+\usepackage{array}
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
+% Variáveis do Município
+\input{../../info.tex}
+
+% Variáveis da Petição
+\newcommand{\Peticao}{PETIÇÃO DE DOCUMENTOS E INFORMAÇÕES}
+\newcommand{\NumeroDoc}{008}
+
+
+% ============================================================
+
+\begin{document}
+\input{../intro.tex}
+\input{../legitimidade.tex}
+\input{../anexos.tex}
+
+% ============================================================
+
+\section{DOS PEDIDOS}
+
+\begin{enumerate}[resume]
+  \item Pela atual requisição, solicitamos a concessionária que no prazo máximo de 30 (trinta) dias, encaminhe planilha eletrônica, em formato Excel (.xlsx), contendo as informações seguindo o modelo da tabela \ref{modelo-planilha}, abrangendo o período de \textbf{janeiro de 2020 a dezembro de 2025}; com fundamento no art. 477 da REN nº 1.000/2021:
+
+\begin{table}[ht]
+  \caption{Modelo de Planilha Requerida}
+\fontsize{7}{12}\selectfont
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|}
+\hline
+PERÍODO DE REFERÊNCIA (MÊS/ANO) &
+  MONTANTE ARRECADADO DA CIP/COSIP (R\$) &
+  MONTANTE COBRADO PARA ARRECADAÇÃO DA CIP/COSIP (\%) &
+  LEGISLAÇÃO QUE CONTÉM PREVISÃO DE ENCONTRO DE CONTAS (NÚMERO DA LEI E DISPOSITIVO) &
+  MEIO DE COBRANÇA UTILIZADO (FATURA DE ENERGIA, NOTA FISCAL, BOLETO, ETC) &
+  REALIZADO ENCONTRO DE CONTAS (SIM OU NÃO) \\ \hline
+ &
+   ... &
+   ... &
+   ... &
+   ... &
+   ... \\ \hline
+\end{tabularx}
+  \label{modelo-planilha}
+\end{table}
+
+  \item Informe se existe legislação municipal vigente que autorize a realização de encontro de contas entre o Município e a distribuidora. Em caso positivo, indicar expressamente o número da lei e o respectivo dispositivo legal (artigo, parágrafo e inciso, se houver).
+  \item Encaminhe cópia integral da mencionada lei municipal.
+  \item Esclareça qual a forma atualmente adotada para a cobrança dos valores referentes à arrecadação da CIP/COSIP (por exemplo, inclusão em fatura de energia elétrica, emissão de boleto bancário, nota fiscal ou outro documento de cobrança).
+\end{enumerate}
+
+% ============================================================
+
+\input{../final.tex}
+
+
+\end{document}
