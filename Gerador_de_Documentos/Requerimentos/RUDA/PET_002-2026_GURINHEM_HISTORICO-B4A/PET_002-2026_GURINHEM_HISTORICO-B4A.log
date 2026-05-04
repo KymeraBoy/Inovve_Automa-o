@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.30)  30 APR 2026 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  4 MAY 2026 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -12,35 +12,35 @@ Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count271
-\c@section=\count272
-\c@subsection=\count273
-\c@subsubsection=\count274
-\c@paragraph=\count275
-\c@subparagraph=\count276
-\c@figure=\count277
-\c@table=\count278
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count279
-\Gm@cntv=\count280
-\c@Gm@tempcnt=\count281
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
 \Gm@bindingoffset=\dimen149
 \Gm@wd@mp=\dimen150
 \Gm@odd@mp=\dimen151
@@ -51,28 +51,20 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.c
-fg))
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-6.
-
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
+)
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
-
-
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
-
-) (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.st
+y
 Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaT
 eX and XeLaTeX
-\babel@savecnt=\count282
+\babel@savecnt=\count286
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
 ne 2078.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
@@ -90,10 +82,10 @@ on input line 2111.
 \U@D=\dimen157
 \l@unhyphenated=\language79
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def
-)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.d
+ef)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count283
+\bbl@dirlevel=\count287
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
 (babel)             Reported on input line 4206.
@@ -105,8 +97,8 @@ Package babel Info: Configuration files are deprecated, as
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/inva
-lid\babel-brazil.tex)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/inv
+alid\babel-brazil.tex)
 
 Package babel Warning: Name 'brazil' is deprecated.
 (babel)                Use 'brazilian' instead.
@@ -115,125 +107,86 @@ Package babel Warning: Name 'brazil' is deprecated.
 Package babel Info: Importing font and identification data for brazil
 (babel)             from babel-pt-BR.ini. Reported on input line 4330.
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\braz
-ilian.ldf
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\bra
+zilian.ldf
 Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 100.
 Package babel Info: Making " an active character on input line 132.
 ))
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.s
-ty
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\x
-parse.sty
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2026-01-19 L3 programming layer (loader) 
-
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
--xetex.def
-File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count284
-\g__pdfannot_backend_int=\count285
-\g__pdfannot_backend_link_int=\count286
-))
-Package: xparse 2025-10-09 L3 Experimental document command parser
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.st
+y
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
 )
-Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-x
-etex.sty
-Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count287
-\l__fontspec_language_int=\count288
-\l__fontspec_strnum_int=\count289
-\l__fontspec_tmp_int=\count290
-\l__fontspec_tmpa_int=\count291
-\l__fontspec_tmpb_int=\count292
-\l__fontspec_tmpc_int=\count293
-\l__fontspec_em_int=\count294
-\l__fontspec_emdef_int=\count295
-\l__fontspec_strong_int=\count296
-\l__fontspec_strongdef_int=\count297
-\l__fontspec_tmpa_dim=\dimen158
-\l__fontspec_tmpb_dim=\dimen159
-\l__fontspec_tmpc_dim=\dimen160
-
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-)
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.c
-fg)))
-
-Package fontspec Info: 
-(fontspec)             Font family 'Georgia(0)' created for font 'Georgia'
-(fontspec)             with options [Ligatures=TeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Georgia/OT:script=latn;language=dflt;mapping=tex-tex
-t;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"Georgia/OT:script=latn;language=dflt;+smcp;mapping=t
-ex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"Georgia/B/OT:script=latn;language=dflt;mapping=tex-t
-ext;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"Georgia/B/OT:script=latn;language=dflt;+smcp;mapping
-=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"Georgia/I/OT:script=latn;language=dflt;mapping=tex-t
-ext;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"Georgia/I/OT:script=latn;language=dflt;+smcp;mapping
-=tex-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"Georgia/BI/OT:script=latn;language=dflt;mapping=tex-
-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"Georgia/BI/OT:script=latn;language=dflt;+smcp;mappin
-g=tex-text;"
-
-
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.
+sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip51
-\enit@outerparindent=\dimen161
+\enit@outerparindent=\dimen158
 \enit@toks=\toks21
 \enit@inbox=\box53
-\enit@count@id=\count298
-\enitdp@description=\count299
+\enit@count@id=\count288
+\enitdp@description=\count289
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
-cs.cfg
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 106.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.
-def
-File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.
+sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -252,23 +205,34 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip65
 \@temptokenb=\toks22
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.
+sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.s
-ty
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.
+sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box54
 \beforetitleunit=\skip66
 \aftertitleunit=\skip67
-\ttl@plus=\dimen164
-\ttl@minus=\dimen165
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
 \ttl@toksa=\toks23
-\titlewidth=\dimen166
-\titlewidthlast=\dimen167
-\titlewidthfirst=\dimen168
-)) (../../info.tex) (PET_002-2026_GURINHEM_HISTORICO-B4A.aux
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+)) (../../info.tex)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 12
+.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
+d-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+) (PET_002-2026_GURINHEM_HISTORICO-B4A.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 5.
 )
@@ -284,17 +248,15 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -325,70 +287,50 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\big@size=\dimen166
 
-Package fontspec Info: 
-(fontspec)             Adjusting the maths setup (use [no-math] to avoid
-(fontspec)             this).
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen167
+\scratchbox=\box55
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen168
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
-\symlegacymaths=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 12.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 12.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 12.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 12.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 12.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 12.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 12.
-LaTeX Font Info:    Redeclaring math accent \check on input line 12.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 12.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 12.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 12.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 12.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 12.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 12.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Georgia(0)/m/n on input line 12.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 12.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/m/n on input line 12.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/m/n on input line 1
-2.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Georgia(0)/m/it on input line 12.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/b/n on input line 12.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 12.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 12.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/b/n on input line 1
-2.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Georgia(0)/b/it on input line 12.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 12.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 12.
-(../intro.tex) (../legitimidade.tex
-File: ../Header.png Graphic file (type bmp)
-<../Header.png>
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (../intro.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+.
 
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) (../legitimidade.tex
+Overfull \hbox (18.51093pt too wide) in paragraph at lines 8--8
+\T1/ptm/m/n/8 posta apre-sen-tada, es-pe-ci-fi-ca-��es t�c-ni-cas cor-res-pon-d
+en-tes, pro-cesso de Ine-xi-gi-bi-li-dade de Li-ci-ta-��o n\TS1/ptm/m/n/8 � \T1
+/ptm/m/n/8 IN00015/2025
+ []
+
+<../Header.png, id=1, 483.30562pt x 74.52844pt>
+File: ../Header.png Graphic file (type png)
+<use ../Header.png>
+Package pdftex.def Info: ../Header.png  used on input line 11.
+(pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
 
 Package fancyhdr Warning: \headheight is too small (71.13188pt): 
 (fancyhdr)                Make it at least 75.48192pt, for example:
@@ -396,22 +338,57 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-4.35004pt}.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
-[1
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 11.
 
-]) (../anexos.tex) (../final.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-File: ../Header.png Graphic file (type bmp)
-<../Header.png>
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 11.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 11.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 11.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+1.
+ (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+ [1
+
+{C:/Users/Usuário 1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
+/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Head
+er.png>]) (../anexos.tex) (../final.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+)
+File: ../Header.png Graphic file (type png)
+<use ../Header.png>
+Package pdftex.def Info: ../Header.png  used on input line 51.
+(pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
 
 
 Package fancyhdr Warning: \headheight is too small (71.13188pt): 
@@ -421,8 +398,10 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.35004pt}.
 
 [2]
-File: ../Header.png Graphic file (type bmp)
-<../Header.png>
+File: ../Header.png Graphic file (type png)
+<use ../Header.png>
+Package pdftex.def Info: ../Header.png  used on input line 51.
+(pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
 
 
 Package fancyhdr Warning: \headheight is too small (71.13188pt): 
@@ -438,12 +417,20 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6260 strings out of 402983
- 152656 string characters out of 5447654
- 626534 words of memory out of 5000000
- 34903 multiletter control sequences out of 15000+600000
- 633616 words of font info for 70 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 78i,15n,96p,794b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 4566 strings out of 467867
+ 77771 string characters out of 5415879
+ 507021 words of memory out of 5000000
+ 33378 multiletter control sequences out of 15000+600000
+ 659987 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,15n,70p,1118b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb
+8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmr8a.pfb>
+Output written on PET_002-2026_GURINHEM_HISTORICO-B4A.pdf (3 pages, 83823 bytes
+).
+PDF statistics:
+ 26 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on PET_002-2026_GURINHEM_HISTORICO-B4A.pdf (3 pages).
