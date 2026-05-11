@@ -1,0 +1,13 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}Objetivo do Guia}{1}{section.1}%
+\contentsline {section}{\numberline {2}Abrangência}{1}{section.2}%
+\contentsline {section}{\numberline {3}Enquadramento}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Contexto e Fundamentação}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Identificação}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Tipos de reclamação de enquadramento}{4}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}IP (Iluminação Pública) Não Corrigidas}{5}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}IP (Iluminação Pública) Já Corrigidas}{5}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}IP (Iluminação Pública) Censo}{5}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}AES (Água, Esgoto e Saneamento) Não Corrigidas}{5}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}AES (Água, Esgoto e Saneamento) Já Corrigidas}{5}{subsubsection.3.3.5}%
+\contentsline {section}{\numberline {4}Disposições Finais}{5}{section.4}%

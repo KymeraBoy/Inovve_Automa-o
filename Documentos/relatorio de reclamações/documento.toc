@@ -1,0 +1,6 @@
+\babel@toc {brazilian}{}\relax 
+\contentsline {chapter}{\numberline {1}Objetivo}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Resumo Geral das Reclamações}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Principais Teses em Discussão}{4}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Planilha Detalhada de Reclamações}{5}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Análise Geral}{6}{chapter.5}%

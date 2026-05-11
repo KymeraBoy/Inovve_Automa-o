@@ -1,0 +1,44 @@
+PMG ESC ANALIA ARRUDA ST URUCU
+
+SIT URUÇU, SN - 58356000
+
+
+AREA RURAL
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/2653958-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0009013495   Energia ativa em kWh   Ponta   40585   41314   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH        729,00       0,894390        652,01       29,06         652,01   20      130,40   0,675650
+
+
+
+
+                           TOTAL:                         652,01       29,06         652,01           130,40
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         521,60    0,9940       5,18
+COFINS      521,60    4,5784      23,88
+ICMS        652,01     20,00     130,40
+DIC     24,00   0,28   999,00   999,00
+FIC      6,00   1,00   999,00   999,00
+DMIC    18,00   0,28
+DICRI   26,00
+FEV/26    729,00
+JAN/26    596,00
+DEZ/25   1.197,00
+NOV/25   1.338,00
+OUT/25     939,00
+SET/25     890,00
+AGO/25   1.017,00
+JUL/25    599,00
+JUN/25   1.241,00
+MAI/25   1.406,00
+ABR/25   1.455,00
+MAR/25   1.409,00
+FEV/25     905,00
+

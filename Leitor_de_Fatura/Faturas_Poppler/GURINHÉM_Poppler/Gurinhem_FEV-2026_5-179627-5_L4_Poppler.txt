@@ -1,0 +1,44 @@
+PM GURINHEM QUADRA DE ESPORTE
+
+AV SEN HUMBERTO LUCENA, S/N - 58356000
+
+
+CENTRO
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/179627-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+W5203384615   Energia ativa em kWh   Ponta   2270   2324   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH         54,00       0,894390         48,29        2,15          48,29   20       9,65   0,675650
+
+
+
+
+                           TOTAL:                          48,29        2,15          48,29            9,65
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          38,63    0,9940      0,38
+COFINS       38,63    4,5784      1,77
+ICMS         48,29     20,00      9,65
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+FEV/26    54,00
+JAN/26    80,00
+DEZ/25    74,00
+NOV/25   102,00
+OUT/25    99,00
+SET/25    94,00
+AGO/25   116,00
+JUL/25   107,00
+JUN/25   100,00
+MAI/25   105,00
+ABR/25   102,00
+MAR/25   113,00
+FEV/25   110,00
+

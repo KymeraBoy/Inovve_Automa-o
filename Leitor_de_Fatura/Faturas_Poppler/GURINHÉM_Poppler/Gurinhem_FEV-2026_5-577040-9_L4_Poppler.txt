@@ -1,0 +1,44 @@
+PM GURINHEM MERCADO PUBLICO
+
+RUA DO MERCADO, 61 - 58356000
+
+
+CENTRO
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/577040-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0001150939   Energia ativa em kWh   Ponta   20214   20372   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        158,00       0,894390        141,31        6,29         141,31   20      28,26   0,675650
+
+
+
+
+                           TOTAL:                         141,31        6,29         141,31           28,26
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         113,04    0,9940      1,12
+COFINS      113,04    4,5784      5,17
+ICMS        141,31     20,00     28,26
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+FEV/26   158,00
+JAN/26   199,00
+DEZ/25   155,00
+NOV/25   177,00
+OUT/25   144,00
+SET/25   130,00
+AGO/25   155,00
+JUL/25   134,00
+JUN/25   132,00
+MAI/25   178,00
+ABR/25   141,00
+MAR/25   136,00
+FEV/25   133,00
+

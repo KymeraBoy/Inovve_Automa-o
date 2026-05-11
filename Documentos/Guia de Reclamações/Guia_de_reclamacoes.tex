@@ -1,0 +1,205 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+% Formatação solicitada: margens laterais de 2 cm e verticais de 2,5 cm
+\geometry{
+	left=2cm,
+	right=2cm,
+	top=2.5cm,
+	bottom=2.5cm
+}
+
+% Fonte solicitada: Arial, tamanho 12 (já definido na classe)
+\setmainfont{Arial}
+
+\onehalfspacing
+\setlist[itemize]{leftmargin=1.2cm}
+\setlist[enumerate]{leftmargin=1.2cm}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	urlcolor=blue,
+	pdftitle={Guia de Reclamações},
+	pdfauthor={Inovve Automação}
+}
+
+\titleformat{\section}{\normalfont\bfseries\fontsize{14}{16}\selectfont}{\thesection}{0.8em}{}
+\titleformat{\subsection}{\normalfont\bfseries\fontsize{12}{14}\selectfont}{\thesubsection}{0.8em}{}
+
+\begin{document}
+
+% Capa
+\begin{titlepage}
+	\centering
+	\vspace*{2.5cm}
+
+	{\Large \textbf{INOVVE AUTOMAÇÃO} \par}
+	\vspace{1.8cm}
+
+	{\LARGE \textbf{GUIA DE RECLAMAÇÕES} \par}
+	\vspace{0.6cm}
+	{\large Procedimentos, Fundamentação e Tratamento \par}
+
+	\vfill
+
+	\begin{flushleft}
+		\textbf{Versão:} 1.0 \\
+		\textbf{Data:} 07 de maio de 2026 \\
+		\textbf{Área responsável:} Atendimento e Qualidade
+	\end{flushleft}
+
+	\vspace{1.5cm}
+	{\large \today \par}
+\end{titlepage}
+
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\pagenumbering{arabic}
+
+\section{Objetivo do Guia}
+Este guia estabelece os critérios e procedimentos para recepção, registro, análise, tratamento e encerramento de reclamações no contexto empresarial. O objetivo é garantir padronização, transparência, rastreabilidade e melhoria contínua dos serviços prestados.
+
+\section{Abrangência}
+Este documento se aplica a todas as reclamações recebidas por canais oficiais da organização, incluindo:
+
+\section{Enquadramento}
+
+\subsection{Contexto e Fundamentação}
+Toda unidade consumidora de energia elétrica no Brasil é classificada em um enquadramento tarifário específico, definido a partir de critérios técnicos, regulatórios e das características de atendimento da instalação. Esse enquadramento é fundamental para a determinação das tarifas aplicadas e para o processo de faturamento da unidade consumidora. De forma geral, os principais tipos de enquadramento existentes no sistema elétrico brasileiro são:
+
+\begin{itemize}
+    
+    \item Grupo A --- Alta tensão
+    \begin{itemize}
+        \item A1 --- tensão maior ou igual a 230 kV
+        \item A2 --- tensão de 88 kV a 138 kV
+        \item A3 --- tensão de 69 kV
+        \item A3a --- tensão de 30 kV a 44 kV
+        \item A4 --- tensão de 2,3 kV a 25 kV
+        \item AS --- sistema subterrâneo
+    \end{itemize}
+
+    \item Grupo B --- Baixa tensão
+    \begin{itemize}
+        \item B1 --- residencial
+        \begin{itemize}
+            \item B1 Baixa Renda --- residencial baixa renda
+        \end{itemize}
+
+        \item B2 --- rural
+        \begin{itemize}
+            \item B2 Cooperativa --- cooperativas rurais
+        \end{itemize}
+
+        \item B3 --- demais classes
+
+        \item B4 --- iluminação pública
+        \begin{itemize}
+            \item B4a --- iluminação pública
+            \item B4b --- bulbo de sinalização e semáforos
+        \end{itemize}
+
+    \end{itemize}
+
+\end{itemize}
+
+Dentro da categoria B3, existem os seguintes subtipos de enquadramento, embora todas estejam em baixa tensão e no grupo “demais classes”, o enquadramento influencia tarifas, subsídios e classificação regulatória.
+
+\begin{itemize}
+
+    \item B3 Comercial, Serviços e Outras Atividades
+    \begin{itemize}
+        \item lojas
+        \item escritórios
+        \item pequenas empresas
+        \item igrejas
+        \item oficinas
+    \end{itemize}
+
+    \item B3 Poder Público
+    \begin{itemize}
+        \item prefeituras
+        \item escolas públicas
+        \item postos de saúde
+        \item prédios administrativos
+        \item repartições públicas
+    \end{itemize}
+
+    \item B3 Serviço Público
+    \begin{itemize}
+        \item serviços operados pelo poder público
+        \item autarquias
+        \item instalações de prestação de serviços essenciais
+    \end{itemize}
+
+    \item B3 Água, Esgoto e Saneamento
+    \begin{itemize}
+        \item estações de bombeamento
+        \item sistemas de abastecimento de água
+        \item tratamento de esgoto
+        \item companhias de saneamento
+    \end{itemize}
+
+\end{itemize}
+
+De maneira geral, os encargos tarifários aplicados às unidades consumidoras classificadas como iluminação pública tendem a ser menores quando comparados aos demais enquadramentos do Grupo B. Isso ocorre devido às características específicas desse tipo de consumo, associado à prestação de um serviço essencial de interesse coletivo, o que pode resultar em estruturas tarifárias diferenciadas definidas pela regulamentação do setor elétrico.
+
+Além disso, dentro das subclasses do enquadramento B3, observa-se que unidades classificadas como Água, Esgoto e Saneamento (AES) frequentemente apresentam encargos e componentes tarifários mais vantajosos em relação às subclasses Poder Público e Serviço Público. Essa diferenciação existe porque os serviços de abastecimento de água e saneamento básico também são considerados essenciais, podendo receber tratamentos tarifários específicos com o objetivo de reduzir custos operacionais e favorecer a continuidade desses serviços à população.
+
+Diante desse contexto, não é incomum encontrar unidades consumidoras cadastradas em enquadramentos tarifários que não correspondem adequadamente à sua real finalidade de uso ou às características efetivas da instalação. Situações desse tipo podem ocorrer devido a alterações no uso da unidade ao longo do tempo, erros cadastrais ou interpretações inadequadas durante o processo de ligação e classificação pela distribuidora.
+
+Nesses casos, torna-se possível a solicitação de revisão ou reclamação de enquadramento tarifário, procedimento realizado com o objetivo de adequar a classificação da unidade consumidora às condições previstas pela regulamentação do setor elétrico. Em muitos cenários, essa reclassificação pode resultar na redução dos encargos tarifários e, consequentemente, na diminuição dos custos com energia elétrica.
+
+Um exemplo recorrente ocorre em instalações públicas, como ginásios esportivos, que podem estar cadastrados na subclasse B3 Poder Público, apesar de possuírem características compatíveis com o enquadramento de iluminação pública. Dependendo das condições da instalação, especialmente quando o consumo está restrito aos sistemas de iluminação e não há utilização de tomadas ou outras cargas de uso geral, pode existir precedente regulatório para a solicitação de reenquadramento para a classe de iluminação pública, possibilitando a aplicação de tarifas mais vantajosas.
+
+\subsection{Identificação}
+
+O processo de identificação de possíveis inconsistências de enquadramento tarifário é realizado por meio da análise das características da instalação consumidora, considerando aspectos como a finalidade de utilização da unidade, os tipos de cargas instaladas, a forma de consumo de energia elétrica e o enquadramento atualmente registrado junto à distribuidora. A partir dessa comparação, torna-se possível verificar se a classificação tarifária aplicada está compatível com as condições reais de operação da unidade consumidora ou se existe possibilidade de reenquadramento para uma categoria mais adequada e economicamente vantajosa.
+
+As informações necessárias para a análise do enquadramento tarifário podem ser obtidas diretamente nas faturas de energia elétrica das unidades consumidoras, nas quais constam dados como classe de consumo, subclasse tarifária, modalidade de fornecimento e demais características cadastrais da instalação.
+
+Além das situações em que o consumidor ou responsável técnico solicita formalmente a revisão do enquadramento, também podem ocorrer casos em que a própria concessionária identifica inconsistências cadastrais e realiza a correção do enquadramento tarifário de forma administrativa. Nessas circunstâncias, quando constatado que a unidade consumidora permaneceu enquadrada incorretamente por determinado período, pode haver a necessidade de compensação retroativa dos valores cobrados de maneira indevida.
+
+Essa compensação ocorre devido à diferença entre as tarifas aplicadas no enquadramento incorreto e aquelas que deveriam ter sido efetivamente utilizadas. Dessa forma, surgem variáveis relacionadas ao processo de reclamação e recálculo tarifário, envolvendo aspectos como período de retroatividade, diferenças de faturamento, histórico de consumo e critérios regulatórios definidos pela concessionária e pela regulamentação do setor elétrico.
+
+Outra forma de encontrar possivies unidades consumidoras por enquadramento incorreto é por meio das informações de censo, nesse caso elas devem apresentar o numero de medidores, esse por sua ve são atreladoos a unidades consumidors, e todas elas devem estar enquadradas em iluminação publica, caso hja discordância a reclamação deve ser feita.
+
+Outra forma de identificar possíveis unidades consumidoras com enquadramento tarifário incorreto é por meio da análise das informações provenientes de censos e levantamentos de ativos de iluminação pública. Nesses registros, normalmente constam os pontos de iluminação instalados e seus respectivos números de medidores, os quais estão vinculados às unidades consumidoras cadastradas junto à concessionária de energia elétrica.
+
+Considerando que esses medidores atendem exclusivamente sistemas de iluminação pública, espera-se que as respectivas unidades consumidoras estejam enquadradas na classe tarifária correspondente a esse tipo de serviço. Assim, ao comparar os dados do censo com as informações cadastrais e tarifárias das faturas de energia, é possível identificar divergências de enquadramento.
+
+Quando constatada incompatibilidade entre a finalidade da instalação e o enquadramento aplicado pela distribuidora — por exemplo, unidades destinadas exclusivamente à iluminação pública cadastradas em subclasses como B3 Poder Público ou Serviço Público — torna-se cabível a solicitação de revisão tarifária, visando a adequação do enquadramento e a eventual recuperação de valores cobrados indevidamente.
+
+\subsection{Tipos de reclamação de enquadramento}
+ Dito isso podemos resumir os tipos de reclamação de enquadramento em 5 catergorias
+
+\subsubsection{IP (Iluminação Pública) Não Corrigidas}
+    Reclamação de unidades consumidoras destinadas exclusivamente à iluminação pública que estão enquadradas em subclasses como B3 Poder Público ou Serviço Público, buscando a revisão para a classe de iluminação pública.
+\subsubsection{IP (Iluminação Pública) Já Corrigidas}
+    Reclamação de unidades consumidoras destinadas exclusivamente à iluminação pública que já foram corrigidas pela distribuidora, buscando compensação retroativa pelos valores cobrados indevidamente durante os peridos em que foram enquadradas incorretamente.
+\subsubsection{IP (Iluminação Pública) Censo}
+    Reclamação de unidades consumidoras destinadas exclusivamente à iluminação pública que baseado nos dados do censo apresentam divergências de enquadramento.
+\subsubsection{AES (Água, Esgoto e Saneamento) Não Corrigidas}
+    Reclamação de unidades consumidoras classificadas como AES que estão enquadradas em subclasses como B3 Poder Público ou Serviço Público, buscando a revisão para a classe de AES.
+\subsubsection{AES (Água, Esgoto e Saneamento) Já Corrigidas}
+    Reclamação de unidades consumidoras classificadas como AES que já foram corrigidas pela distribuidora, buscando compensação retroativa pelos valores cobrados indevidamente durante os peridos em que foram enquadradas incorretamente.
+
+\section{Disposições Finais}
+Este guia pode ser revisado sempre que houver alteração relevante de processos, contratos, requisitos legais ou estrutura organizacional. Recomenda-se revisão periódica anual para atualização de práticas e melhoria contínua.
+
+\vspace{0.8cm}
+\noindent\textbf{Aprovação interna:} \rule{7cm}{0.4pt}
+
+\end{document}

@@ -1,0 +1,44 @@
+PMG GRUPO ESCOLAR
+
+RUA CON JOSE MARIA MESQUITA, S/N - 58356000
+
+
+CENTRO
+GURINHEM (AG: 113)
+Fevereiro / 2026
+5/179243-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0009071196   Energia ativa em kWh   Ponta   159251   160126   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH        875,00       0,894390        782,60       34,88         782,60   20      156,52   0,675650
+
+
+
+
+                           TOTAL:                         782,60       34,88         782,60           156,52
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         626,07    0,9940       6,22
+COFINS      626,07    4,5784      28,66
+ICMS        782,60     20,00     156,52
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+FEV/26    875,00
+JAN/26    610,00
+DEZ/25   2.263,00
+NOV/25   2.499,00
+OUT/25   1.998,00
+SET/25   1.366,00
+AGO/25   1.575,00
+JUL/25    568,00
+JUN/25   1.767,00
+MAI/25   1.993,00
+ABR/25   2.430,00
+MAR/25   2.468,00
+FEV/25   1.540,00
+
