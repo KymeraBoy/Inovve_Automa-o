@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ UNIDADE DE SAUDE PSF
-IV
-RUA JOAO BOSCO FERNANDES, S/N - 58890000
-
-
-POPULARES
-BREJO DO CRUZ (AG: 237)
-Janeiro / 2026
-5/1362101-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7007961791   Energia ativa em kWh   Ponta   93759   94681   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh     KWH        922,00       0,902460        832,07       42,71         832,07   20      166,41   0,675650
-Adic. B. Amarela                                            16,23        0,83          16,23   20        3,25
-
-
-
-
-                            TOTAL:                         848,30       43,54         848,30           169,66
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         678,63    1,1446       7,77
-COFINS      678,63    5,2721      35,77
-ICMS        848,30     20,00     169,66
-DIC     12,00   3,20   999,00   999,00
-FIC      4,00   2,00   999,00   999,00
-DMIC     9,00   2,27
-DICRI   13,00
-JAN/26     922,00
-DEZ/25   1.408,00
-NOV/25   1.428,00
-OUT/25   1.094,00
-SET/25   1.044,00
-AGO/25   1.261,00
-JUL/25   1.172,00
-JUN/25   1.341,00
-MAI/25   1.218,00
-ABR/25     899,00
-MAR/25     842,00
-FEV/25     857,00
-JAN/25     744,00
-

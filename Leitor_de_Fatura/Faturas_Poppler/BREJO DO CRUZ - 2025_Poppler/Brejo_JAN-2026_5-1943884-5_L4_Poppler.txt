@@ -1,47 +1,0 @@
-PM BREJO DO CRUZ ESCOLA MUNICIPAL
-CONEGO SANDOVAL
-RUA ADELITA ARNAUD PAIVA, SN - ESCOLA - 58890000
-
-
-URBANO
-BREJO DO CRUZ (AG: 237)
-Janeiro / 2026
-5/1943884-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7042855135   Energia ativa em kWh   Ponta   112057   113568   1
-W7042855135   Energia injetada       Ponta   135066   138382   1
-                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh             KWH       1.511,00       0,902460      1.363,63       70,00       1.363,63   20      272,73   0,675650
-Energia Atv Injetada GDI   KWH       1.411,00       0,790440      -1.115,32      -65,37       -483,08   20      -96,62   0,675650
-Adic. B. Amarela                                                      1,58        0,09           1,58   20        0,31
-
-
-
-
-                                    TOTAL:                          249,89        4,72         882,13           176,42
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          73,46    1,1446       0,85
-COFINS       73,46    5,2721       3,87
-ICMS        882,13     20,00     176,42
-DIC     12,00   0,05   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     9,00   0,05
-DICRI   13,00
-JAN/26   1.511,00
-DEZ/25   4.697,00
-NOV/25   4.096,00
-OUT/25   4.265,00
-SET/25   3.886,00
-AGO/25   3.449,00
-JUL/25   3.229,00
-JUN/25   3.607,00
-MAI/25   2.375,00
-ABR/25   2.224,00
-MAR/25   3.491,00
-FEV/25   2.094,00
-JAN/25   1.807,00
-

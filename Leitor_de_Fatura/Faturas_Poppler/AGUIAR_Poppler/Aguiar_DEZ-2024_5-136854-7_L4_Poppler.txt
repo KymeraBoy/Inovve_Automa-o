@@ -1,45 +1,0 @@
-EMEF LIDIA CABRAL AGUIAR
-
-RUA SEVERINO AMANCIO, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Dezembro / 2024
-5/136854-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008461421   Energia ativa em kWh   Ponta   97191   99283   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh              2.092,00       0,782550      1.637,12       79,04       1.637,12   20      327,42   0,588270
-Adic. B. Amarela                                            27,03        1,30          27,03   20        5,41
-
-
-
-
-                           TOTAL:                        1.664,15       80,34       1.664,15           332,83
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.331,31    1,0765      14,33
-COFINS    1.331,31    4,9583      66,01
-ICMS      1.664,15     20,00     332,83
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-DEZ/24   2.092,00   0,00
-NOV/24   2.766,00   0,00
-OUT/24   2.049,00   0,00
-SET/24   2.108,00   0,00
-AGO/24   2.049,00   0,00
-JUL/24     868,00   0,00
-JUN/24   2.122,00   0,00
-MAI/24   2.299,00   0,00
-ABR/24   2.381,00   0,00
-MAR/24   2.317,00   0,00
-FEV/24     641,00   0,00
-JAN/24     121,00   0,00
-DEZ/23     450,00   0,00
-

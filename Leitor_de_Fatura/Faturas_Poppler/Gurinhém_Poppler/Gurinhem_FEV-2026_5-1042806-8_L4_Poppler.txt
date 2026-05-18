@@ -1,44 +1,0 @@
-PM GURINHEM POCO
-
-SIT PAU FERRO, S/N - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/1042806-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7086814929   Energia ativa em kWh   Ponta   2899   3161   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        262,00       0,894390        234,33       10,44         234,33   20      46,86   0,675650
-
-
-
-
-                           TOTAL:                         234,33       10,44         234,33           46,86
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         187,46    0,9940      1,86
-COFINS      187,46    4,5784      8,58
-ICMS        234,33     20,00     46,86
-DIC     24,00   2,57   999,00   999,00
-FIC      6,00   1,00   999,00   999,00
-DMIC    18,00   2,57
-DICRI   26,00
-FEV/26   262,00
-JAN/26   109,00
-DEZ/25   548,00
-NOV/25   253,00
-OUT/25   240,00
-SET/25   354,00
-AGO/25   220,00
-JUL/25   362,00
-JUN/25   191,00
-MAI/25   408,00
-ABR/25   281,00
-MAR/25   236,00
-FEV/25   286,00
-

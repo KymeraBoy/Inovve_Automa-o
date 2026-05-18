@@ -1,46 +1,0 @@
-PM BREJO DO CRUZ SERVICO DE
-CONVIVENCIA E FORTALECIMENTO DE
-VINCULOS
-RUA PRES JOAO PESSOA, 95 - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/14850-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008254146   Energia ativa em kWh   Ponta   174083   174854   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH        771,00       0,828880        639,07       25,21         639,07   20      127,81   0,630420
-Adic. B. Vermelha                                            79,85        3,15          79,85   20       15,97
-
-
-
-
-                             TOTAL:                         718,92       28,36         718,92           143,78
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         575,12    0,8795       5,06
-COFINS      575,12    4,0510      23,30
-ICMS        718,92     20,00     143,78
-DIC     12,00   3,75   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-SET/25   771,00
-AGO/25   703,00
-JUL/25   501,00
-JUN/25   678,00
-MAI/25   541,00
-ABR/25   607,00
-MAR/25   532,00
-FEV/25   447,00
-JAN/25   355,00
-DEZ/24   712,00
-NOV/24   699,00
-OUT/24   567,00
-SET/24   559,00
-

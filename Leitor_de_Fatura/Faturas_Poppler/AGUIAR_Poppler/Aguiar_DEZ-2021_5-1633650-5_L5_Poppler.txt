@@ -1,49 +1,0 @@
-PM AGUIAR ACADEMIA DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR ACADEMIA DE SAUDE
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0149 - 420 - 4490                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008549649                            DOM. BANC.:
-MATRÍCULA: 1633650-2021-12-4                           DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA PROJETADA, S/N - RUA SATURNINO VIEIRA
-EVANDRO CABRAL
-AGUIAR (AG: 144)
-Dezembro/2021
-5/1633650-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   24,80         24,80   25      6,20           18,60        0,12          0,57
-0601 Adic. B. Amarela                                                            2,55          2,55   25      0,64            1,91        0,01          0,05
-0601 Adic. B. Vermelha                                                           3,34          3,34   25      0,83            2,50        0,02          0,08
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          30,69         30,69           7,67           23,01        0,15          0,70
-DEZ/21   20,00
-NOV/21   17,00
-OUT/21   17,00
-SET/21   13,00
-AGO/21    5,00
-JUL/21    2,00
-JUN/21   10,00
-MAI/21    6,00
-ABR/21    0,00 *
-MAR/21   16,00
-FEV/21    7,00
-JAN/21   27,00
-DEZ/20   17,00
-DIC      6,47   0,00   12,94   25,89
-FIC      3,48   0,00    6,97   13,95
-DMIC     3,80   0,00
-DICRI   12,22
-

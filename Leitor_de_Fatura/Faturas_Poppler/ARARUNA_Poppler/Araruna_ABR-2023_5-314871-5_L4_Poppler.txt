@@ -1,44 +1,0 @@
-PM ARARUNA CENTRO DE SAUDE
-
-RUA CEL PEDRO TARGINO, S/N - 58233000 - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Abril / 2023
-5/314871-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008036028   Energia ativa em kWh   Ponta   232875   236235   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       3.360,00       0,777870      2.613,67      130,30       2.613,67   18      470,46   0,599080
-
-
-
-
-                           TOTAL:                        2.613,67      130,30       2.613,67           470,46
-          Base de Alíquota      Valor
-Tributo   Cálc.(R$)  (%)         (R$)
-PIS        2.143,20   1,0845    23,24
-COFINS     2.143,20   4,9955   107,06
-CMS        2.613,67    18,00   470,46
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-ABR/23   3.360,00
-MAR/23   2.859,00
-FEV/23   3.468,00
-JAN/23   3.085,00
-DEZ/22   3.492,00
-NOV/22   2.806,00
-OUT/22   2.371,00
-SET/22   1.516,00
-AGO/22   1.191,00
-JUL/22   1.268,00
-JUN/22   1.546,00
-MAI/22   2.488,00
-ABR/22   3.291,00
-

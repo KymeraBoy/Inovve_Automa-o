@@ -1,56 +1,0 @@
-PMM SEC MUN DE TURISMO FECIR
-
-DOMICÍLIO DE ENTREGA
-PMM SEC MUN DE TURISMO FECIR
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 006 - 0013 - 040 - 0035                           LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00000Z21381                              DOM. BANC.:
-MATRÍCULA: 1501621-2021-7-4                              DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA AMARO BITENCOURT, S/N - 08.013.03.588500 79380000
-CENTRO
-MIRANDA (AG: 13)
-Julho/2021
-10/1501621-5
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Consumo em kWh                          1.260,00    0,693650    0,886870    1.117,46      1.117,46   17      189,96         927,49        9,55         43,95
-0601 Adic. B. Vermelha                                                             122,79        122,79   17       20,88         101,92        1,04          4,83
-     LANÇAMENTOS E SERVIÇOS
-0807 CONT.IL.PUB-CIP MUNICIPAL                                                      41,13                 0         0,00           0,00        0,00          0,00
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                        -1.310,07                 0         0,00           0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   5,51                 0         0,00           0,00        0,00          0,00
-0999 DEBITO A COMPENSAR 08/2021                                                      0,00                 0         0,00           0,00        0,00          0,00
-0899 DEBITO ANTERIOR 08/2021                                                         0,00                 0         0,00           0,00        0,00          0,00
-0805 MULTA 04/2021                                                                  16,96                 0         0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2021                                                           6,22                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00      1.240,25           210,84       1.029,41       10,59         48,78
-JUL/21   1.260,00
-JUN/21   1.140,00
-MAI/21   1.020,00
-ABR/21   1.020,00
-MAR/21   1.920,00
-FEV/21   2.400,00
-JAN/21   1.440,00
-DEZ/20   1.500,00
-NOV/20   1.380,00
-OUT/20   1.779,00
-SET/20   1.320,00 *
-AGO/20   1.403,00 *
-JUL/20     100,00
-DIC      6,15   0,00   12,30    24,6
-FIC      3,23   0,00    6,47   12,95
-DMIC     3,63   0,00
-DICRI   12,22
-

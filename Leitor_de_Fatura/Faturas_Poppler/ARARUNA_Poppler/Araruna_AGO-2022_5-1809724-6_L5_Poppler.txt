@@ -1,47 +1,0 @@
-PM ARARUNA UNIDADE DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA UNIDADE DE SAUDE
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 012 - 0062 - 157 - 0665                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008819022                            DOM. BANC.:
-MATRÍCULA: 1809724-2022-8-1                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT MACAPA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1809724-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        219,00    0,596920    0,756230      165,61        165,61   18      29,80         135,80        0,90          4,17
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         165,61        165,61           29,80         135,80        0,90          4,17
-AGO/22   219,00
-JUL/22   198,00
-JUN/22   249,00
-MAI/22   242,00
-ABR/22   255,00
-MAR/22   309,00
-FEV/22   264,00
-JAN/22   229,00
-DEZ/21   266,00
-NOV/21   235,00
-OUT/21   226,00
-SET/21   205,00
-AGO/21   197,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

@@ -1,49 +1,0 @@
-EMEF JOSE CICERO DE LACERDA AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF JOSE CICERO DE LACERDA AGUIAR
-RUA BOA VISTA S/N S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0149 - 473 - 3200                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00001151944                            DOM. BANC.:
-MATRÍCULA: 1297566-2021-12-9                           DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT SERRA DE SAO PEDRO, S/N
-AREA RURAL
-AGUIAR (AG: 144)
-Dezembro/2021
-5/1297566-0
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         61,00    0,596920    0,826800       50,43         50,43   25      12,60          37,82        0,26          1,16
-0601 Adic. B. Amarela                                                            5,11          5,11   25       1,28           3,83        0,02          0,11
-0601 Adic. B. Vermelha                                                           6,88          6,88   25       1,72           5,16        0,03          0,16
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          62,42         62,42           15,60          46,81        0,31          1,43
-DEZ/21   61,00
-NOV/21   48,00
-OUT/21   74,00
-SET/21   68,00
-AGO/21   71,00
-JUL/21   64,00
-JUN/21   63,00
-MAI/21   61,00
-ABR/21   68,00
-MAR/21   74,00
-FEV/21   63,00
-JAN/21   68,00
-DEZ/20   68,00
-DIC     11,94   2,98   23,89   47,79
-FIC      7,82   1,00   15,64   31,28
-DMIC     6,59   0,00
-DICRI   16,60
-

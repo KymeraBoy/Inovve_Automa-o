@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ EMEF JOAO TARGINO DA
-SILVA
-SIT BALIZA, S/N - 58890000
-
-
-AREA RURAL
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/1721955-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008691962   Energia ativa em kWh   Ponta   15691   16268   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH        577,00       0,817900        471,93       18,61         471,93   20       94,38   0,622070
-Adic. B. Vermelha                                            59,75        2,36          59,75   20       11,95
-
-
-
-
-                             TOTAL:                         531,68       20,97         531,68           106,33
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         425,34    0,8795       3,74
-COFINS      425,34    4,0510      17,23
-ICMS        531,68     20,00     106,33
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-SET/25   577,00
-AGO/25   555,00
-JUL/25   443,00
-JUN/25   509,00
-MAI/25   511,00
-ABR/25   495,00
-MAR/25   501,00
-FEV/25   313,00
-JAN/25   329,00
-DEZ/24   612,00
-NOV/24   502,00
-OUT/24   497,00
-SET/24   533,00
-

@@ -1,44 +1,0 @@
-EMEF JOANA LACERDA LEITE AGUIAR
-
-RUA ANTONIO ALVES DE ALMEIDA, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Dezembro / 2022
-5/888885-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008478220   Energia ativa em kWh   Ponta   40040   40552   1
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh              512,00       0,768300        393,37       15,83         393,37   18      70,80   0,599080
-
-
-
-
-                          TOTAL:                         393,37       15,83         393,37           70,80
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         322,56    0,8759      2,82
-COFINS      322,56    4,0342     13,01
-ICMS        393,37     18,00     70,80
-DIC     14,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC    10,00   0,00
-DICRI   13,00
-DEZ/22   512,00     0,00
-NOV/22   546,00     0,00
-OUT/22   552,00     0,00
-SET/22   460,00     0,00
-AGO/22   330,00     0,00
-JUL/22   266,00     0,00
-JUN/22   333,00     0,00
-MAI/22   523,00     0,00
-ABR/22   318,00 *   0,00
-MAR/22   347,00     0,00
-FEV/22   203,00     0,00
-JAN/22   297,00 *   0,00
-DEZ/21   683,00     0,00
-

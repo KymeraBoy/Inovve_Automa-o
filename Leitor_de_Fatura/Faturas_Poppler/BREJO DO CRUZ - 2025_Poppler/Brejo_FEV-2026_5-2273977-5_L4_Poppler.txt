@@ -1,44 +1,0 @@
-A PM BREJO DO CRUZ CENTRO DE
-ESPECIALIZACAO ODONTOLOGICA
-RUA PADRE AYRES, 0 - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Fevereiro / 2026
-5/2273977-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7039902998   Energia ativa em kWh   Ponta   31588   32617   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       1.029,00       0,894390        920,33       41,03         920,33   20      184,06   0,675650
-
-
-
-
-                           TOTAL:                          920,33       41,03         920,33           184,06
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         736,26    0,9940       7,32
-COFINS      736,26    4,5784      33,71
-ICMS        920,33     20,00     184,06
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-FEV/26   1.029,00
-JAN/26     615,00
-DEZ/25     930,00
-NOV/25   1.123,00
-OUT/25     982,00
-SET/25     930,00
-AGO/25     873,00
-JUL/25    729,00
-JUN/25    950,00
-MAI/25    791,00
-ABR/25    918,00
-MAR/25    861,00
-FEV/25    908,00
-

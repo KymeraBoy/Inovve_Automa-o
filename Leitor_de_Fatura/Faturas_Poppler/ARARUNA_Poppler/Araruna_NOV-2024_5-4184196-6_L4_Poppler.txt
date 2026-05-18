@@ -1,46 +1,0 @@
-PM ARARUNA CRECHE PRE INFANCIA
-
-LOT JOSE GOMES DE AZEVEDO, SN - LOTEAM JOSE GOMES - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Novembro / 2024
-5/4184196-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7077086614   Energia ativa em kWh   Ponta   126   204   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          77,77        3,39          77,77   20      15,55
-Adic. B. Amarela                                                   1,64        0,07           1,64   20       0,33
-Adic. B. Vermelha                                                  3,54        0,16           3,54   20       0,71
-
-
-
-
-                                   TOTAL:                         82,95        3,62          82,95           16,59
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          66,34    0,9725      0,64
-COFINS       66,34    4,4795      2,98
-ICMS         82,95     20,00     16,59
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24    78,00 *
-OUT/24    78,00 *
-SET/24     3,00 *
-AGO/24     5,00 *
-JUL/24     3,00 *
-JUN/24    21,00 *
-MAI/24    10,00 *
-ABR/24     6,00 *
-MAR/24     0,00 *
-FEV/24   100,00
-JAN/24          *
-DEZ/23          *
-NOV/23          *
-

@@ -1,47 +1,0 @@
-PM ARARUNA CRECHE MUNICIPAL DE MATA VELHA
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA CRECHE MUNICIPAL DE MATA VELHA
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0062 - 177 - 5940                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008951200                            DOM. BANC.:
-MATRÍCULA: 829001-2022-8-2                             DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT MATA VELHA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/829001-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        236,00    0,596920    0,756230      178,47        178,47   18      32,12         146,34        0,98          4,50
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         178,47        178,47           32,12         146,34        0,98          4,50
-AGO/22   236,00
-JUL/22   191,00
-JUN/22   175,00
-MAI/22   236,00
-ABR/22   397,00
-MAR/22   294,00
-FEV/22   193,00
-JAN/22   176,00
-DEZ/21   276,00
-NOV/21   244,00
-OUT/21   243,00
-SET/21   189,00
-AGO/21   183,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

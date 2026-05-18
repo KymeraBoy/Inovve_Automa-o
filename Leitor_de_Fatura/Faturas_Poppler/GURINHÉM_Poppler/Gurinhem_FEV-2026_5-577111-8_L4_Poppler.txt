@@ -1,44 +1,0 @@
-PM GURINHEM
-
-RUA PREF JORGE RIBEIRO, 219 - 58356000
-
-
-CENTRO
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/577111-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008561044   Energia ativa em kWh   Ponta   132593   132611   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          89,44        3,98          89,44   20      17,88
-
-
-
-
-                                   TOTAL:                         89,44        3,98          89,44           17,88
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          71,54    0,9940      0,71
-COFINS       71,54    4,5784      3,27
-ICMS         89,44     20,00     17,88
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-FEV/26   18,00
-JAN/26   27,00
-DEZ/25   26,00
-NOV/25   26,00
-OUT/25   25,00
-SET/25   32,00
-AGO/25   40,00
-JUL/25   38,00
-JUN/25   37,00
-MAI/25   41,00
-ABR/25   30,00
-MAR/25    5,00
-FEV/25    1,00
-

@@ -1,47 +1,0 @@
-PM BREJO DO CRUZ CRECHE PRO INFANCIA
-
-RUA S PAULO, S/N - 58890000
-
-
-B DOS ESTADOS
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/1535715-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7073143219   Energia ativa em kWh   Ponta   18373   19774   1
-7073143219   Energia injetada       Ponta   70603   75561   1
-                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh             KWH       1.401,00       0,817900      1.145,89       45,19       1.145,89   20      229,18   0,622070
-Energia Atv Injetada GDI   KWH       1.301,00       0,717390       -933,33       -41,97       -410,25   20      -82,05   0,622070
-Adic. B. Vermelha                                                    10,36        0,40          10,36   20        2,07
-
-
-
-
-                                    TOTAL:                          222,92        3,62         746,00           149,20
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          73,72    0,8795       0,64
-COFINS       73,72    4,0510       2,98
-ICMS        746,00     20,00     149,20
-DIC     12,00   4,63   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     9,00   4,63
-DICRI   13,00
-SET/25   1.401,00
-AGO/25   1.814,00
-JUL/25   1.948,00
-JUN/25   1.572,00
-MAI/25   1.237,00
-ABR/25   1.226,00
-MAR/25   1.360,00
-FEV/25    685,00
-JAN/25   1.037,00
-DEZ/24   1.783,00
-NOV/24   1.205,00
-OUT/24   1.095,00
-SET/24   1.204,00
-

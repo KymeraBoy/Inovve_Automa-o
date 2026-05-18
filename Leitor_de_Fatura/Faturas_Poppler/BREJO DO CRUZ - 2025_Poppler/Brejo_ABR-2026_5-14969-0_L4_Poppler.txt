@@ -1,44 +1,0 @@
-PM BREJO DO CRUZ ACOUGUE MUNICIPAL
-
-RUA MANOEL PADEIRO, 116 - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Abril / 2026
-5/14969-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008793516   Energia ativa em kWh   Ponta   62250   62642   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        391,00       0,881950        344,84       11,69         344,84   20      68,96   0,675650
-
-
-
-
-                           TOTAL:                         344,84       11,69         344,84           68,96
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         275,86    0,7563      2,08
-COFINS      275,86    3,4837      9,61
-ICMS        344,84     20,00     68,96
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-ABR/26   391,00
-MAR/26   422,00
-FEV/26   407,00
-JAN/26   488,00
-DEZ/25   466,00
-NOV/25   457,00
-OUT/25   419,00
-SET/25   418,00
-AGO/25   441,00
-JUL/25   437,00
-JUN/25   444,00
-MAI/25   419,00
-ABR/25   347,00
-

@@ -1,48 +1,0 @@
-PM AGUIAR UNIDADE DE SAUDE DR ANDRE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR UNIDADE DE SAUDE DR ANDRE
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 010 - 0149 - 457 - 1400                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008541179                          DOM. BANC.:
-MATRÍCULA: 880258-2020-12-0                          DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT RIACHO VERDE, S/N
-AREA RURAL
-AGUIAR (AG: 144)
-Dezembro/2020
-5/880258-9
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
-0601 Consumo em kWh                        374,00    0,562110    0,797710      298,34        298,34   25      74,59         228,19        2,41         11,11
-0601 Adic. B. Vermelha                                                          18,78         18,78   25       4,69          14,36        0,15          0,70
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         317,12        317,12           79,28         242,55        2,56         11,81
-DEZ/20   374,00
-NOV/20   314,00
-OUT/20   418,00
-SET/20   375,00
-AGO/20   283,00
-JUL/20   220,00
-JUN/20   284,00
-MAI/20   353,00
-ABR/20   343,00
-MAR/20   355,00
-FEV/20   412,00
-JAN/20   232,00
-DEZ/19   468,00
-DIC     11,94   0,60   23,89   47,79
-FIC      7,89   2,00   15,79   31,58
-DMIC     6,59   0,40
-DICRI   16,60
-

@@ -1,46 +1,0 @@
-EMEF JOSE CICERO DE LACERDA AGUIAR
-SIT SERRA DE SAO PEDRO, S/N - 58778000
-AREA RURAL
-AGUIAR-PB (AG: 144)
-                                         ENE
-Janeiro/2020
-5/1297566-0
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                         87,00   0,545400        0,785840         68,36         68,36    25     17,09           68,36       0,68         3,14
-0601 Adic. B. Amarela                                                                 1,68          1,68    25      0,42            1,68       0,01         0,08
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               70,04         70,04           17,51           70,04       0,69         3,22
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          87
-DEZ/19         108
-NOV/19         132
-OUT/19         133
-SET/19         126
-AGO/19         110
-JUL/19         100
-JUN/19         121
-MAI/19         114
-ABR/19         108
-MAR/19         123
-FEV/19         107
-JAN/19         122
-DIC MENSAL       12,35   0,00
-DIC TRIMESTRAL   24,71
-DIC ANUAL        49,42
-FIC MENSAL        7,97   0,00
-FIC TRIMESTRAL   15,94
-FIC ANUAL        31,88
-DMIC              6,79   0,00
-DICRI            16,60
-

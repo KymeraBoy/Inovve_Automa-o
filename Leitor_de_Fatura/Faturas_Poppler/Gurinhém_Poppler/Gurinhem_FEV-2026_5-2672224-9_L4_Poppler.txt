@@ -1,44 +1,0 @@
-PMG P ARTESIANO ST URUCU
-
-SIT URUÇU, 0 - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/2672224-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5214214347   Energia ativa em kWh   Ponta   2610   2614   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          26,83        1,19          26,83   20       5,36
-
-
-
-
-                                   TOTAL:                         26,83        1,19          26,83            5,36
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          21,45    0,9940      0,21
-COFINS       21,45    4,5784      0,98
-ICMS         26,83     20,00      5,36
-DIC     24,00   0,28   999,00   999,00
-FIC      6,00   1,00   999,00   999,00
-DMIC    18,00   0,28
-DICRI   26,00
-FEV/26   4,00
-JAN/26   0,00 *
-DEZ/25   9,00
-NOV/25   7,00
-OUT/25   7,00
-SET/25   5,00
-AGO/25   6,00
-JUL/25   3,00
-JUN/25   7,00
-MAI/25   3,00
-ABR/25   6,00
-MAR/25   6,00
-FEV/25   7,00
-

@@ -1,53 +1,0 @@
-MUNICIPIO DE MIRANDA
-
-DOMICÍLIO DE ENTREGA
-MUNICIPIO DE MIRANDA
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0013 - 010 - 3490                          LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00000N71699                             DOM. BANC.:
-MATRÍCULA: 2062787-2021-7-2                              DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA MARECHAL FLORIANO PEIXOTO, S/N - ESQUINA COM RUA BENJAMIM 79380000
-CENTRO
-MIRANDA (AG: 13)
-Julho/2021
-10/2062787-3
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Custo de Disponibilidade                                                       26,60         26,60   17      4,52           22,07        0,23          1,04
-0601 Adic. B. Vermelha                                                               3,38          3,38   17      0,57            2,80        0,02          0,13
-     LANÇAMENTOS E SERVIÇOS
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                           -30,78                 0       0,00            0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 05/2021                                                   0,02                 0       0,00            0,00        0,00          0,00
-0805 MULTA 05/2021                                                                   0,56                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 05/2021                                                           0,22                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00         29,98           5,09           24,87        0,25          1,17
-JUL/21   18,00
-JUN/21   18,00
-MAI/21   16,00
-ABR/21   22,00
-MAR/21
-FEV/21
-JAN/21
-DEZ/20
-NOV/20
-OUT/20
-SET/20
-AGO/20
-JUL/20
-DIC
-FIC
-DMIC
-DICRI
-

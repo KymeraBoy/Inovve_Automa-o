@@ -1,46 +1,0 @@
-EMEF SATIRO CLEMENTINO DANTAS AGUIAR
-SIT CAITITU, S/N - 58778000
-AREA RURAL
-AGUIAR-PB (AG: 144)
-                                       ENE
-Janeiro/2020
-5/1224643-5
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Custo de Disponibilidade                                                        23,57         23,57    25      5,89           23,57       0,24         1,08
-0601 Adic. B. Amarela                                                                 0,58          0,58    25      0,14            0,58       0,00         0,03
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               24,15         24,15            6,02           24,15       0,24         1,11
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          6
-DEZ/19         27
-NOV/19         31
-OUT/19         49
-SET/19         31
-AGO/19         25
-JUL/19         29
-JUN/19         39
-MAI/19         51
-ABR/19         41
-MAR/19         42
-FEV/19          3
-JAN/19         46
-DIC MENSAL       12,35   0,00
-DIC TRIMESTRAL   24,71
-DIC ANUAL        49,42
-FIC MENSAL        7,97   0,00
-FIC TRIMESTRAL   15,94
-FIC ANUAL        31,88
-DMIC              6,79   0,00
-DICRI            16,60
-

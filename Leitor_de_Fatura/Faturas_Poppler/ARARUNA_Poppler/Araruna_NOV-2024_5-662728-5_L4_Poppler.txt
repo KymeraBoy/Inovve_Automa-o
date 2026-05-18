@@ -1,46 +1,0 @@
-PM ARARUNA POSTO MEDICO DE MACAPA
-
-LOC POV DE MACAPA, S/N - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Novembro / 2024
-5/662728-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0001036818   Energia ativa em kWh   Ponta   8868   8921   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH         53,00       0,777730         41,22        1,80          41,22   20       8,25   0,588270
-Adic. B. Amarela                                              0,87        0,04           0,87   20       0,17
-Adic. B. Vermelha                                             1,87        0,08           1,87   20       0,37
-
-
-
-
-                             TOTAL:                          43,96        1,92          43,96            8,79
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          35,13    0,9725      0,34
-COFINS       35,13    4,4795      1,58
-ICMS         43,96     20,00      8,79
-DIC     24,00   0,00   0,00   0,00
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-NOV/24    53,00 *
-OUT/24   154,00 *
-SET/24     0,00 *
-AGO/24     0,00 *
-JUL/24    44,00 *
-JUN/24    55,00 *
-MAI/24    68,00 *
-ABR/24    77,00 *
-MAR/24    56,00 *
-FEV/24   143,00
-JAN/24     0,00 *
-DEZ/23    55,00 *
-NOV/23    60,00 *
-

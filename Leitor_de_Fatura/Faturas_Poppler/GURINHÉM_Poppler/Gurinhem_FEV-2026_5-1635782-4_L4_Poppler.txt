@@ -1,44 +1,0 @@
-PMG BOMBA DE POCO SITIO BOQUEIRAO
-
-SIT BOQUEIRAO, S/N - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/1635782-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008538885   Energia ativa em kWh   Ponta   35367   35460   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH         93,00       0,894390         83,17        3,70          83,17   20      16,63   0,675650
-
-
-
-
-                           TOTAL:                          83,17        3,70          83,17           16,63
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          66,53    0,9940      0,66
-COFINS       66,53    4,5784      3,04
-ICMS         83,17     20,00     16,63
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-FEV/26    93,00
-JAN/26   316,00
-DEZ/25   323,00
-NOV/25   314,00
-OUT/25   285,00
-SET/25   273,00
-AGO/25   285,00
-JUL/25   263,00
-JUN/25   218,00
-MAI/25   248,00
-ABR/25   227,00
-MAR/25   243,00
-FEV/25   209,00
-

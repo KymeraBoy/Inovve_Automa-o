@@ -1,46 +1,0 @@
-PM ARARUNA POCO
-
-SIT ALTO GRANDE, S/N - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Novembro / 2024
-5/1819615-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008840979   Energia ativa em kWh   Ponta   17505   17896   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        391,00       0,777730        304,09       13,26         304,09   20      60,82   0,588270
-Adic. B. Amarela                                              6,37        0,28           6,37   20       1,27
-Adic. B. Vermelha                                            14,05        0,61          14,05   20       2,81
-
-
-
-
-                             TOTAL:                         324,51       14,15         324,51           64,90
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         259,60    0,9725      2,52
-COFINS      259,60    4,4795     11,63
-ICMS        324,51     20,00     64,90
-DIC     24,00   0,00   0,00   0,00
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-NOV/24   391,00 *
-OUT/24   405,00 *
-SET/24   188,00 *
-AGO/24   260,00 *
-JUL/24   464,00 *
-JUN/24    67,00 *
-MAI/24   221,00 *
-ABR/24   150,00 *
-MAR/24   206,00 *
-FEV/24   275,00
-JAN/24   231,00 *
-DEZ/23   286,00 *
-NOV/23   343,00 *
-

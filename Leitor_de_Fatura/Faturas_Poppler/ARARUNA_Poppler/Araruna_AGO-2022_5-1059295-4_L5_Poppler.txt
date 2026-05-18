@@ -1,47 +1,0 @@
-PM ARARUNA EMEF JOSE FRANCISCO DE LIMA ARAUJO
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA EMEF JOSE FRANCISCO DE LIMA ARAUJO
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0062 - 171 - 5570                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00001248761                            DOM. BANC.:
-MATRÍCULA: 1059295-2022-8-9                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT CAMUCAR, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1059295-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        301,00    0,596920    0,756230      227,62        227,62   18      40,97         186,65        1,24          5,73
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         227,62        227,62           40,97         186,65        1,24          5,73
-AGO/22   301,00
-JUL/22   236,00
-JUN/22   316,00
-MAI/22   506,00
-ABR/22   590,00
-MAR/22   602,00
-FEV/22   111,00
-JAN/22     0,00 *
-DEZ/21     0,00 *
-NOV/21    30,00
-OUT/21     0,00 *
-SET/21    30,00 *
-AGO/21     0,00 *
-DIC     24,00   2,32   0,00      0
-FIC      6,00   1,00   0,00   0,00
-DMIC    18,00   2,32
-DICRI   26,00
-

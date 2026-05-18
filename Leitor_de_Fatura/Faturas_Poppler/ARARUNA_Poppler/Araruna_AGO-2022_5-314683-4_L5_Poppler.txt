@@ -1,47 +1,0 @@
-PM ARARUNA JUNTA MILITAR
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA JUNTA MILITAR
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0062 - 080 - 2640                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008907416                            DOM. BANC.:
-MATRÍCULA: 314683-2022-8-9                             DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA PROF JOAO MOREIRA SOARES, 21 - 58233000
-CENTRO
-ARARUNA (AG: 62)
-Agosto/2022
-5/314683-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        171,00    0,596920    0,756230      129,31        129,31   18      23,27         106,04        0,71          3,26
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         129,31        129,31           23,27         106,04        0,71          3,26
-AGO/22   171,00
-JUL/22   398,00
-JUN/22     0,00 *
-MAI/22   130,00
-ABR/22     0,00 *
-MAR/22   121,00 *
-FEV/22   187,00
-JAN/22   120,00 *
-DEZ/21   119,00
-NOV/21   122,00
-OUT/21   127,00
-SET/21    99,00
-AGO/21    83,00
-DIC     12,00   0,00   0,00      0
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-

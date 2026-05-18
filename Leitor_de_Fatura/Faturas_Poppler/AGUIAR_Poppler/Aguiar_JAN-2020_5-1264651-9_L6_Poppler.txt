@@ -1,46 +1,0 @@
-PM AGUIAR GINASIO DE ESPORTES
-RUA PEDRO NUNES, S/N - 58778000
-CENTRO
-AGUIAR-PB (AG: 144)
-                                  ENE
-Janeiro/2020
-5/1264651-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                        895,00   0,545400        0,785840        703,33        703,33    25     175,83          703,33       7,02        32,34
-0601 Adic. B. Amarela                                                                17,31         17,31    25       4,33           17,31       0,17         0,80
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              720,64        720,64           180,16          720,64       7,19        33,14
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         895
-DEZ/19         501
-NOV/19         771
-OUT/19         742
-SET/19         754
-AGO/19         510
-JUL/19         403
-JUN/19         466
-MAI/19         563
-ABR/19         567
-MAR/19         399
-FEV/19         399
-JAN/19        1002
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

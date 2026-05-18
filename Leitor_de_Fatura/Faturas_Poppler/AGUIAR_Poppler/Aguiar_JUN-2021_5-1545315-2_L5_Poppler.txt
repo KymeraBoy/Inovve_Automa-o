@@ -1,48 +1,0 @@
-PM AGUIAR PALCO
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR PALCO
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 400 - 5680                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008426992                            DOM. BANC.:
-MATRÍCULA: 1545315-2021-6-3                            DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-PC MIGUEL ISIDRO LEITE, S/N
-CENTRO
-AGUIAR (AG: 144)
-Junho/2021
-5/1545315-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
-0601 Consumo em kWh                         42,00    0,562110    0,787530       33,07         33,07   25      8,26           24,80        0,21          0,98
-0601 Adic. B. Vermelha                                                           3,08          3,08   25      0,77            2,31        0,02          0,09
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          36,15         36,15           9,03           27,11        0,23          1,07
-JUN/21   42,00
-MAI/21   44,00
-ABR/21   36,00
-MAR/21   51,00
-FEV/21   46,00
-JAN/21   49,00
-DEZ/20   56,00
-NOV/20   59,00
-OUT/20   44,00
-SET/20   49,00
-AGO/20   17,00
-JUL/20    4,00
-JUN/20    5,00
-DIC      6,47   1,31   12,94   25,89
-FIC      3,48   1,00    6,97   13,95
-DMIC     3,80   1,31
-DICRI   12,22
-

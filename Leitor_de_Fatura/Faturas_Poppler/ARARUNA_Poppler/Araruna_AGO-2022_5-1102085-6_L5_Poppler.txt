@@ -1,47 +1,0 @@
-PM ARARUNA EMEF EM TIMBAUBA
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA EMEF EM TIMBAUBA
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0062 - 167 - 2270                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00001394221                            DOM. BANC.:
-MATRÍCULA: 1102085-2022-8-1                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT UMBURANA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1102085-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         66,00    0,596920    0,756230       49,91         49,91   18      8,98           40,92        0,27          1,26
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          49,91         49,91           8,98           40,92        0,27          1,26
-AGO/22   66,00
-JUL/22   64,00
-JUN/22   65,00
-MAI/22   76,00
-ABR/22   82,00
-MAR/22   90,00
-FEV/22   78,00
-JAN/22   77,00
-DEZ/21   77,00
-NOV/21   95,00
-OUT/21   98,00
-SET/21   82,00
-AGO/21   64,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

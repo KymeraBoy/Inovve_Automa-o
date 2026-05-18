@@ -1,43 +1,0 @@
-ILUMINACAO PUBLICA - P.M.BREJO DO CRUZ
-
-ROD BR 230, S/N - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Janeiro / 2026
-5/16014-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: MONOFASICO
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
-Consumo em kWh    KWH      52.603,00       0,496340      26.109,45    1.340,29     26.109,45   20      5.221,89   0,371600
-
-
-
-
-                           TOTAL:                        26.109,45    1.340,29     26.109,45           5.221,89
-Tributo   Base de     Alíquota     Valor
-          Cálc.(R$)      (%)        (R$)
-PIS       20.887,56   1,1446      239,08
-COFINS    20.887,56   5,2721     1.101,21
-ICMS      26.109,45    20,00     5.221,89
-DIC     12,00   1,11   999,00   999,00
-FIC      4,00   0,34   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-JAN/26   52.603,00
-DEZ/25   52.588,00
-NOV/25   50.984,00
-OUT/25   52.678,00
-SET/25   50.891,00
-AGO/25   52.678,00
-JUL/25   52.641,00
-JUN/25   50.950,00
-MAI/25   52.632,00
-ABR/25   50.731,00
-MAR/25   52.616,00
-FEV/25   47.538,00
-JAN/25   52.632,00
-

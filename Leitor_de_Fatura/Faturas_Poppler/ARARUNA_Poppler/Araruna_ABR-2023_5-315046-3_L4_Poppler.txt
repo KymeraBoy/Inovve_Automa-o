@@ -1,44 +1,0 @@
-PM ARARUNA MERCADO PUBLICO
-
-RUA ANTONIO CARNEIRO, S/N - 58233000 - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Abril / 2023
-5/315046-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008064258   Energia ativa em kWh   Ponta   57836   57935   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          77,78        3,87          77,78   18      14,00
-
-
-
-
-                                   TOTAL:                         77,78        3,87          77,78           14,00
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS           63,77   1,0845    0,69
-COFINS        63,77   4,9955    3,18
-CMS           77,78    18,00   14,00
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-ABR/23    99,00
-MAR/23    87,00
-FEV/23    90,00
-JAN/23   183,00
-DEZ/22   195,00
-NOV/22   163,00
-OUT/22   103,00
-SET/22    79,00
-AGO/22   112,00
-JUL/22   100,00
-JUN/22   105,00
-MAI/22   127,00
-ABR/22   127,00
-

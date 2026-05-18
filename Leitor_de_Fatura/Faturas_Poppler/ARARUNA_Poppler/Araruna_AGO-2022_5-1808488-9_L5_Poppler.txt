@@ -1,47 +1,0 @@
-PM ARARUNA POSTO DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA POSTO DE SAUDE
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 013 - 0062 - 159 - 6073                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008819037                            DOM. BANC.:
-MATRÍCULA: 1808488-2022-8-4                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT FAZ NOVA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1808488-9
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        419,00    0,596920    0,756230      316,86        316,86   18      57,03         259,82        1,73          7,98
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         316,86        316,86           57,03         259,82        1,73          7,98
-AGO/22   419,00
-JUL/22   384,00
-JUN/22   377,00
-MAI/22   456,00
-ABR/22   488,00
-MAR/22   516,00
-FEV/22   488,00
-JAN/22   497,00
-DEZ/21   569,00
-NOV/21   542,00
-OUT/21   432,00
-SET/21   388,00
-AGO/21   347,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

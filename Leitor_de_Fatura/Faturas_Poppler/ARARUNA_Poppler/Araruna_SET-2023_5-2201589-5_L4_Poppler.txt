@@ -1,44 +1,0 @@
-PM ARARUNA VILA OLIMPICA
-
-SIT BALANCO, S/N - ROD PB 111 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Setembro / 2023
-5/2201589-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W0005314554   Energia ativa em kWh   Ponta   63897   65778   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       1.928,00       0,762640      1.470,40       45,09       1.470,40   18      264,67   0,601990
-
-
-
-
-                           TOTAL:                        1.470,40       45,09       1.470,40           264,67
-          Base de Alíquota      Valor
-Tributo   Cálc.(R$)  (%)         (R$)
-PIS        1.205,72   0,6671     8,04
-COFINS     1.205,72   3,0729    37,05
-CMS        1.470,40    18,00   264,67
-DIC      0,00   0,00   0,00   0,00
-FIC      0,00   0,00   0,00   0,00
-DMIC    15,00   0,00
-DICRI    0,00
-SET/23   1.928,00
-AGO/23   1.777,00
-JUL/23   1.723,00
-JUN/23   1.862,00
-MAI/23   2.115,00
-ABR/23   2.148,00
-MAR/23   2.196,00   24,00
-FEV/23   2.185,00   24,00
-JAN/23   2.147,00
-DEZ/22   2.137,00
-NOV/22   2.166,00
-OUT/22   2.149,00
-SET/22   2.508,00
-

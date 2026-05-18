@@ -1,47 +1,0 @@
-PM AGUIAR EMEF AMELIA ARANTES LEITE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR EMEF AMELIA ARANTES LEITE
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 410 - 6240                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: N5139987429                            DOM. BANC.:
-MATRÍCULA: 136394-2022-6-3                             DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT SAO FRANCISCO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Junho/2022
-5/136394-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        164,00    0,596920    0,826800      135,59        135,59   25      33,89         101,69        0,67          3,12
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         135,59        135,59           33,89         101,69        0,67          3,12
-JUN/22   164,00
-MAI/22   185,00
-ABR/22   169,00
-MAR/22   143,00
-FEV/22    26,00
-JAN/22     1,00
-DEZ/21     9,00
-NOV/21    17,00
-OUT/21    30,00
-SET/21    52,00
-AGO/21     0,00 *
-JUL/21     0,00 *
-JUN/21     0,00 *
-DIC     14,00   0,00   0,00      0
-FIC      5,00   0,00   0,00   0,00
-DMIC    10,00   0,00
-DICRI   13,00
-

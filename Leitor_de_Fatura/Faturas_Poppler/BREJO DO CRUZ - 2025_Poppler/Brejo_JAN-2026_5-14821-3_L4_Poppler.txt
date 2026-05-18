@@ -1,45 +1,0 @@
-PM BREJO DA CRUZ MATADOURO
-
-RUA PARAIBA, S/N - 58890000
-
-
-B DOS ESTADOS
-BREJO DO CRUZ (AG: 237)
-Janeiro / 2026
-5/14821-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008235765   Energia ativa em kWh   Ponta   42374   42562   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH        188,00       0,902460        169,66        8,70         169,66   20      33,93   0,675650
-Adic. B. Amarela                                             3,32        0,17           3,32   20       0,66
-
-
-
-
-                            TOTAL:                         172,98        8,87         172,98           34,59
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         138,37    1,1446      1,58
-COFINS      138,37    5,2721      7,29
-ICMS        172,98     20,00     34,59
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-JAN/26   188,00
-DEZ/25   212,00
-NOV/25   195,00
-OUT/25   195,00
-SET/25   184,00
-AGO/25   219,00
-JUL/25   150,00
-JUN/25   173,00
-MAI/25   144,00
-ABR/25   163,00
-MAR/25   161,00
-FEV/25   192,00
-JAN/25   181,00
-

@@ -1,46 +1,0 @@
-PM ARARUNA CALCADAO 2
-
-RUA ESTRADA GRANDE, SN - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto / 2025
-5/4457126-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: MONOFASICO
-5247136031   Energia ativa em kWh   Ponta   2750   3196   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        446,00       0,426880        190,39        8,01         190,39   20      38,08   0,323550
-Adic. B. Vermelha                                             5,77        0,24           5,77   20       1,15
-Adic. B. Vermelha                                            36,16        1,52          36,16   20       7,23
-
-
-
-
-                             TOTAL:                         232,32        9,77         232,32           46,46
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         185,85    0,9383      1,74
-COFINS      185,85    4,3217      8,03
-ICMS        232,32     20,00     46,46
-DIC     10,00   0,97   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     7,00   0,97
-DICRI   13,00
-AGO/25   446,00
-JUL/25   404,00
-JUN/25   412,00
-MAI/25   439,00
-ABR/25   406,00
-MAR/25   387,00
-FEV/25   391,00
-JAN/25   311,00
-DEZ/24
-NOV/24
-OUT/24
-SET/24
-AGO/24
-

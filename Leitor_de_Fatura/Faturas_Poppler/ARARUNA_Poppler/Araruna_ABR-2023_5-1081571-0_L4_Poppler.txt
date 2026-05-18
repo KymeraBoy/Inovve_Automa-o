@@ -1,44 +1,0 @@
-PM ARARUNA EM MARIA DE LOURDES
-MARTINS
-SIT LAGOA DE FORA, S/N - 58233000 - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Abril / 2023
-5/1081571-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000576931   Energia ativa em kWh   Ponta   8313   8396   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH         83,00       0,777870         64,56        3,21          64,56   18      11,62   0,599080
-
-
-
-
-                           TOTAL:                          64,56        3,21          64,56           11,62
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS           52,93   1,0845   0,57
-COFINS        52,93   4,9955   2,64
-CMS           64,56    18,00   11,62
-DIC     24,00   0,00   0,00   0,00
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-ABR/23   83,00
-MAR/23   75,00
-FEV/23   83,00
-JAN/23   78,00
-DEZ/22   78,00
-NOV/22   76,00
-OUT/22   57,00
-SET/22   52,00
-AGO/22   56,00
-JUL/22   65,00
-JUN/22   67,00
-MAI/22   61,00
-ABR/22   49,00
-

@@ -1,44 +1,0 @@
-ENE
-Janeiro/2020
-5/7028457-9
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-                                                       Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                             Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                           309,00   0,545400        0,785840        242,82        242,82    25     60,70          242,82       2,42        11,17
-0601 Adic. B. Amarela                                                                    5,97          5,97    25      1,49            5,97       0,06         0,27
-     LANÇAMENTOS E SERVIÇOS
-0603 DESPESA COM LIGAÇÃO PROVISÓRIA 01/2020                                             19,50
-
-
-
-
-CCI: Código de Classificação do Item                               Total:              268,29        248,79           62,19          248,79       2,48        11,44
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20
-DEZ/19
-NOV/19
-OUT/19
-SET/19
-AGO/19
-JUL/19
-JUN/19
-MAI/19
-ABR/19
-MAR/19
-FEV/19
-JAN/19
-DIC MENSAL
-DIC TRIMESTRAL
-DIC ANUAL
-FIC MENSAL
-FIC TRIMESTRAL
-FIC ANUAL
-DMIC
-DICRI
-

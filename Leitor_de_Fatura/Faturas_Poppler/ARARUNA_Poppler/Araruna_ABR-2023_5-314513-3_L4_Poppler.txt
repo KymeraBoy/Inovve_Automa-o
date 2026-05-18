@@ -1,44 +1,0 @@
-PM ARARUNA ASILO DE IDOSOS ABDON JOSE
-PEREIRA
-RUA PEDRO BEZERRA SILVA, S/N - 58233000 - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Abril / 2023
-5/314513-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0001180430   Energia ativa em kWh   Ponta   19189   19189   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          23,33        1,16          23,33   18       4,19
-
-
-
-
-                                   TOTAL:                         23,33        1,15          23,33            4,19
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS           19,13   1,0845   0,21
-COFINS        19,13   4,9955   0,95
-CMS           23,33    18,00   4,19
-DIC     12,00   4,07   0,00   0,00
-FIC      4,00   1,00   0,00   0,00
-DMIC     9,00   4,07
-DICRI   13,00
-ABR/23     0,00 *
-MAR/23     0,00 *
-FEV/23    71,00
-JAN/23    73,00
-DEZ/22    75,00
-NOV/22    65,00
-OUT/22    73,00
-SET/22   154,00
-AGO/22     0,00 *
-JUL/22   139,00
-JUN/22     0,00 *
-MAI/22   139,00
-ABR/22   110,00
-

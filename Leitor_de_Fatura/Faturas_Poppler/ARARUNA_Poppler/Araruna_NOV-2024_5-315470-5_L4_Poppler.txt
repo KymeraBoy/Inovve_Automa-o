@@ -1,46 +1,0 @@
-PM ARARUNA CENTRO TREINAMENTO
-PROFESSORES
-RUA PADRE TARGINO SOBRINHO, 22 - 58233000
-
-
-ARARUNA
-ARARUNA (AG: 62)
-Novembro / 2024
-5/315470-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008604948   Energia ativa em kWh   Ponta   35411   35829   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        418,00       0,777730        325,09       14,18         325,09   20      65,02   0,588270
-Adic. B. Amarela                                              8,14        0,35           8,14   20       1,63
-Adic. B. Vermelha                                             9,47        0,41           9,47   20       1,89
-
-
-
-
-                             TOTAL:                         342,70       14,94         342,70           68,54
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         274,14    0,9725      2,66
-COFINS      274,14    4,4795     12,28
-ICMS        342,70     20,00     68,54
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24   418,00 *
-OUT/24   464,00 *
-SET/24   335,00 *
-AGO/24   563,00 *
-JUL/24   348,00 *
-JUN/24   522,00 *
-MAI/24   666,00 *
-ABR/24   861,00 *
-MAR/24   774,00 *
-FEV/24   750,00
-JAN/24   462,00 *
-DEZ/23   578,00 *
-NOV/23   609,00 *
-

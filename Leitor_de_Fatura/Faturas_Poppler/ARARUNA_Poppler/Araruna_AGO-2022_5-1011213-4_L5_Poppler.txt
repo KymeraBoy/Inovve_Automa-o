@@ -1,47 +1,0 @@
-PM ARARUNA EM DE PRIMEIRO GRAU SANTOS DUMONT
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA EM DE PRIMEIRO GRAU SANTOS DUMONT
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 012 - 0062 - 157 - 0600                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00000874879                            DOM. BANC.:
-MATRÍCULA: 1011213-2022-8-9                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-LOC POV DE MACAPA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1011213-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        357,00    0,596920    0,756230      269,97        269,97   18      48,59         221,38        1,48          6,80
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         269,97        269,97           48,59         221,38        1,48          6,80
-AGO/22   357,00
-JUL/22   291,00
-JUN/22   462,00
-MAI/22   666,00
-ABR/22   760,00
-MAR/22   784,00
-FEV/22   182,00
-JAN/22   197,00
-DEZ/21   642,00
-NOV/21   637,00
-OUT/21   612,00
-SET/21   363,00
-AGO/21   230,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

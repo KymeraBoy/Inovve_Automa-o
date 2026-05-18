@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  13 MAY 2026 11:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  18 MAY 2026 11:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,11 +558,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+00.
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
 <Ruda_Header.png, id=3, 483.30562pt x 74.52844pt>
 File: Ruda_Header.png Graphic file (type png)
 <use Ruda_Header.png>
-Package pdftex.def Info: Ruda_Header.png  used on input line 109.
+Package pdftex.def Info: Ruda_Header.png  used on input line 120.
 (pdftex.def)             Requested size: 552.86174pt x 85.2635pt.
+
 [1
 
 {C:/Users/Usuário 1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
@@ -574,19 +580,19 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13203 strings out of 467867
- 207251 string characters out of 5415879
- 659206 words of memory out of 5000000
- 41913 multiletter control sequences out of 15000+600000
- 634548 words of font info for 53 fonts, out of 8000000 for 9000
+ 13262 strings out of 467867
+ 208054 string characters out of 5415879
+ 666206 words of memory out of 5000000
+ 41946 multiletter control sequences out of 15000+600000
+ 635279 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,79p,1006b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
 hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
 lvetic/uhvr8a.pfb>
-Output written on Sumario.pdf (1 page, 57808 bytes).
+Output written on Sumario.pdf (1 page, 61024 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 8198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 12294 words of extra memory for PDF output out of 14400 (max. 10000000)
 

@@ -1,44 +1,0 @@
-UBS DA FAMILIA PM GURINHEM
-
-SIT RIBEIRAO, SN - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/4680965-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7098172439   Energia ativa em kWh   Ponta   100   200   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          89,44        3,98          89,44   20      17,88
-
-
-
-
-                                   TOTAL:                         89,44        3,98          89,44           17,88
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          71,54    0,9940      0,71
-COFINS       71,54    4,5784      3,27
-ICMS         89,44     20,00     17,88
-DIC     0,00   0,00   0,00   0,00
-FIC     0,00   0,00   0,00   0,00
-DMIC    9,00   0,00
-DICRI   0,00
-FEV/26   100,00 *
-JAN/26   100,00 *
-DEZ/25
-NOV/25
-OUT/25
-SET/25
-AGO/25
-JUL/25
-JUN/25
-MAI/25
-ABR/25
-MAR/25
-FEV/25
-

@@ -1,49 +1,0 @@
-PM AGUIAR
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 400 - 0840                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7039905156                            DOM. BANC.:
-MATRÍCULA: 136378-2021-12-6                            DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA BOA VISTA, 8
-CENTRO
-AGUIAR (AG: 144)
-Dezembro/2021
-5/136378-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        800,00    0,596920    0,826800      661,45        661,45   25      165,36         496,08        3,31         15,24
-0601 Adic. B. Amarela                                                           71,00         71,00   25       17,75          53,25        0,35          1,64
-0601 Adic. B. Vermelha                                                          86,34         86,34   25       21,58          64,75        0,43          1,99
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         818,79        818,79           204,69         614,08        4,09         18,87
-DEZ/21   800,00
-NOV/21   691,00
-OUT/21   698,00
-SET/21   574,00
-AGO/21   436,00
-JUL/21   376,00
-JUN/21   519,00
-MAI/21   488,00
-ABR/21   380,00
-MAR/21   414,00
-FEV/21   537,00
-JAN/21   410,00 *
-DEZ/20   422,00 *
-DIC      6,47   3,10   12,94   25,89
-FIC      3,48   1,00    6,97   13,95
-DMIC     3,80   3,10
-DICRI   12,22
-

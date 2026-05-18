@@ -1,46 +1,0 @@
-PM GURINHEM POCO SITIO GURINHENZINHO
-
-SIT GURINHENZINHO, S/N - BOMBA D AGUA - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/1908903-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0009065883   Energia ativa em kWh   Ponta   16988   17159   1
-                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh            KWH        171,00       0,894390        152,94        6,82         152,94   20      30,58   0,675650
-LANÇAMENTOS E SERVIÇOS
-PARCELA COMPENSADA 01/4                                            20,94        0,00           0,00            0,00
-
-
-
-
-                                   TOTAL:                         173,88        6,82         152,94           30,58
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         122,34    0,9940      1,22
-COFINS      122,34    4,5784      5,60
-ICMS        152,94     20,00     30,58
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-FEV/26   171,00 *
-JAN/26   228,00
-DEZ/25   171,00 *
-NOV/25   175,00 *
-OUT/25   161,00
-SET/25   130,00
-AGO/25   187,00 *
-JUL/25   107,00
-JUN/25   188,00 *
-MAI/25   189,00
-ABR/25   150,00
-MAR/25   166,00
-FEV/25   203,00
-

@@ -1,44 +1,0 @@
-PM ARARUNA UNIDADE DE SAUDE
-
-SIT MACAPA, S/N - 58233000 - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Abril / 2023
-5/1809724-6
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008819022   Energia ativa em kWh   Ponta   14304   14562   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        258,00       0,777870        200,69       10,00         200,69   18      36,12   0,599080
-
-
-
-
-                           TOTAL:                         200,69       10,00         200,69           36,11
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS          164,56   1,0845   1,78
-COFINS       164,56   4,9955   8,22
-CMS          200,69    18,00   36,11
-DIC     24,00   0,00   0,00   0,00
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-ABR/23   258,00
-MAR/23   260,00
-FEV/23   275,00
-JAN/23   250,00
-DEZ/22   203,00
-NOV/22   187,00
-OUT/22   174,00
-SET/22   225,00
-AGO/22   219,00
-JUL/22   198,00
-JUN/22   249,00
-MAI/22   242,00
-ABR/22   255,00
-

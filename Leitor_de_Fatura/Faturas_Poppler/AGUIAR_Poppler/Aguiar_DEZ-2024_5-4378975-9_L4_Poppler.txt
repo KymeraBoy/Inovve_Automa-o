@@ -1,45 +1,0 @@
-PM AGUIAR QUADRA DE ESPORTES
-
-SIT SAO FRANCISCO, SN - 58778000
-
-
-SAO FRANCISCO
-AGUIAR (AG: 144)
-Dezembro / 2024
-5/4378975-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7081510551   Energia ativa em kWh   Ponta   57   102   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          78,25        3,77          78,25   20      15,65
-Adic. B. Amarela                                                   1,30        0,06           1,30   20       0,26
-
-
-
-
-                                   TOTAL:                         79,55        3,83          79,55           15,91
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          63,63    1,0765      0,68
-COFINS       63,63    4,9583      3,15
-ICMS         79,55     20,00     15,91
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-DEZ/24   45,00   0,00
-NOV/24   20,00   0,00
-OUT/24   36,00   0,00
-SET/24    1,00   0,00
-AGO/24           0,00
-JUL/24           0,00
-JUN/24           0,00
-MAI/24           0,00
-ABR/24           0,00
-MAR/24           0,00
-FEV/24           0,00
-JAN/24           0,00
-DEZ/23           0,00
-

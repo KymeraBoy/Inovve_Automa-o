@@ -1,52 +1,0 @@
-ESCOLA HORACIO RAMALHO
-
-DOMICÍLIO DE ENTREGA
-ESCOLA HORACIO RAMALHO
-RUA BOA VISTA S/N S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0149 - 457 - 2500                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5048237589                            DOM. BANC.:
-MATRÍCULA: 1942106-2022-1-4                            DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT RIACHO VERDE, S/N
-AREA RURAL
-AGUIAR (AG: 144)
-Janeiro/2022
-5/1942106-4
-                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                           319,00    0,596920    0,826800      263,75        263,75   25      65,94         197,81        1,32          6,08
-0601 Adic. B. Vermelha                                                             62,74         62,74   25      15,68          47,05        0,31          1,44
-     LANÇAMENTOS E SERVIÇOS
-0904 COMPENSACAO POR INDICADOR-DMIC 11/2021                                        -9,58                 0        0,00           0,00        0,00          0,00
-0805 MULTA 11/2021                                                                  4,32                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 11/2021                                                          0,29                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                               TOTAL:         321,52        326,49           81,62         244,86        1,63          7,52
-JAN/22   319,00
-DEZ/21   241,00
-NOV/21   211,00
-OUT/21   229,00
-SET/21   207,00
-AGO/21   278,00
-JUL/21   313,00
-JUN/21   216,00
-MAI/21   339,00
-ABR/21   312,00
-MAR/21   213,00
-FEV/21    72,00
-JAN/21   160,00
-DIC     11,94   13,07   23,89   47,79
-FIC      7,82    1,00   15,64   31,28
-DMIC     6,59   13,07
-DICRI   16,60
-

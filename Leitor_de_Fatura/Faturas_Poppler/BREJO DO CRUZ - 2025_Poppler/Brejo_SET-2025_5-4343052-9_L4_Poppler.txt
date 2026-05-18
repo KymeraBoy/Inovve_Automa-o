@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ UBS MANOEL CICERO
-DANTAS
-RUA ALAGOAS, SN - 58890000
-
-
-B DOS ESTADOS
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/4343052-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7044163213   Energia ativa em kWh   Ponta   26557   28590   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH       2.033,00       0,817900      1.662,82       65,59       1.662,82   20      332,56   0,622070
-Adic. B. Vermelha                                            210,55        8,30         210,55   20       42,11
-
-
-
-
-                             TOTAL:                        1.873,37       73,89       1.873,37           374,67
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.498,67    0,8795      13,18
-COFINS    1.498,67    4,0510      60,71
-ICMS      1.873,37     20,00     374,67
-DIC     12,00   7,64   999,00   999,00
-FIC      4,00   1,00   999,00   999,00
-DMIC     9,00   7,64
-DICRI   13,00
-SET/25   2.033,00
-AGO/25   1.933,00
-JUL/25   1.787,00
-JUN/25   2.063,00
-MAI/25   1.964,00
-ABR/25   1.903,00
-MAR/25   2.059,00
-FEV/25   2.206,00
-JAN/25   1.917,00
-DEZ/24   2.372,00
-NOV/24   2.121,00
-OUT/24   2.078,00
-SET/24   2.230,00
-

@@ -1,44 +1,0 @@
-PM BREJO DO CRUZ EMEF SEVERINO
-FERREIRA DE LIMA
-SIT RIACHO DO JARDIM, S/N - 58890000
-
-
-AREA RURAL
-BREJO DO CRUZ (AG: 237)
-Abril / 2026
-5/1644132-1
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-5204691435   Energia ativa em kWh   Ponta   25087   25765   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH        678,00       0,881950        597,96       20,28         597,96   20      119,59   0,675650
-
-
-
-
-                           TOTAL:                         597,96       20,28         597,96           119,59
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         478,37    0,7563       3,62
-COFINS      478,37    3,4837     16,66
-ICMS        597,96     20,00     119,59
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-ABR/26   678,00
-MAR/26   696,00
-FEV/26   431,00
-JAN/26   390,00
-DEZ/25   897,00
-NOV/25   845,00
-OUT/25   780,00
-SET/25   773,00
-AGO/25   716,00
-JUL/25   569,00
-JUN/25   648,00
-MAI/25   536,00
-ABR/25   514,00
-

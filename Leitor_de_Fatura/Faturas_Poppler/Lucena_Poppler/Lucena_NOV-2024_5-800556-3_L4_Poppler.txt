@@ -1,46 +1,0 @@
-P M L POSTO SAUDE P. LUCENA-P M LUCENA
-
-RUA EUGENIO DE LUNA FALCAO, S/N - 58315000
-
-
-PTA DE LUCENA
-LUCENA (AG: 1)
-Novembro / 2024
-5/800556-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000656603   Energia ativa em kWh   Ponta   57356,083333 57356,083333   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          23,33        1,01          23,33   20       4,67
-Adic. B. Amarela                                                   0,42        0,01           0,42   20       0,08
-Adic. B. Vermelha                                                  1,35        0,06           1,35   20       0,27
-
-
-
-
-                                   TOTAL:                         25,10        1,08          25,10            5,02
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          20,05    0,9725      0,19
-COFINS       20,05    4,4795      0,89
-ICMS         25,10     20,00      5,02
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24    0,00 *
-OUT/24    0,00 *
-SET/24    0,00 *
-AGO/24    0,00 *
-JUL/24    0,00 *
-JUN/24    0,00 *
-MAI/24    0,00 *
-ABR/24    0,00 *
-MAR/24    0,00 *
-FEV/24   71,00
-JAN/24   30,00 *
-DEZ/23   30,00 *
-NOV/23   30,00 *
-

@@ -1,48 +1,0 @@
-PM AGUIAR SECRETARIA DE SAUDE
-
-RUA FRANCISCO DEMETRIO, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Junho / 2023
-5/136938-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008479511   Energia ativa em kWh   Ponta   80099   80758   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            659,00       0,777870        512,62       25,56         512,62   18      92,27   0,599080
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 04/2023                                            1,50
-MULTA 04/2023                                                           10,07
-JUROS DE MORA 04/2023                                                    2,52
-
-
-
-
-                                        TOTAL:                         526,71       25,56         512,62           92,27
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         420,34    1,0845      4,56
-COFINS      420,34    4,9955     21,00
-ICMS        512,62     18,00     92,27
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-JUN/23   659,00     0,00
-MAI/23   752,00     0,00
-ABR/23   647,00     0,00
-MAR/23   763,00     0,00
-FEV/23   775,00     0,00
-JAN/23   874,00     0,00
-DEZ/22   875,00     0,00
-NOV/22   613,00 *   0,00
-OUT/22   809,00     0,00
-SET/22   582,00     0,00
-AGO/22   388,00     0,00
-JUL/22   512,00     0,00
-JUN/22   445,00     0,00
-

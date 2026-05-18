@@ -1,45 +1,0 @@
-EMEF JOSE CICERO DE LACERDA AGUIAR
-
-SIT SERRA DE SAO PEDRO, S/N - 58778000
-
-
-AREA RURAL
-AGUIAR (AG: 144)
-Dezembro / 2024
-5/1297566-0
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0001151944   Energia ativa em kWh   Ponta   9543   9543   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          23,47        1,13          23,47   20       4,69
-Adic. B. Amarela                                                   0,37        0,01           0,37   20       0,07
-
-
-
-
-                                   TOTAL:                         23,84        1,14          23,84            4,76
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          19,06    1,0765      0,20
-COFINS       19,06    4,9583      0,94
-ICMS         23,84     20,00      4,76
-DIC     24,00   0,00   0,00   0,00
-FIC      7,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-DEZ/24   0,00 *   0,00
-NOV/24   0,00 *   0,00
-OUT/24   0,00 *   0,00
-SET/24   0,00 *   0,00
-AGO/24   0,00 *   0,00
-JUL/24   0,00 *   0,00
-JUN/24   0,00 *   0,00
-MAI/24   0,00 *   0,00
-ABR/24   0,00 *   0,00
-MAR/24   0,00     0,00
-FEV/24   0,00 *   0,00
-JAN/24   0,00 *   0,00
-DEZ/23   0,00 *   0,00
-

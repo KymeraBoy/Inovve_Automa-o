@@ -1,54 +1,0 @@
-EMEF JOANA LACERDA LEITE AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF JOANA LACERDA LEITE AGUIAR
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0149 - 400 - 0180                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008478220                          DOM. BANC.:
-MATRÍCULA: 888885-2021-1-3                           DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA ANTONIO ALVES DE ALMEIDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-Janeiro/2021
-5/888885-1
-                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                           282,00    0,562110    0,779120      219,71        219,71   25      54,92         167,65        1,12          5,15
-0601 Adic. B. Amarela                                                               2,53          2,53   25       0,63           1,92        0,01          0,06
-0601 Adic. B. Vermelha                                                             12,63         12,63   25       3,16           9,64        0,06          0,29
-     LANÇAMENTOS E SERVIÇOS
-0805 ATUALIZAÇÃO MONETÁRIA 11/2020                                                  0,60                 0        0,00           0,00        0,00          0,00
-0904 COMPENSACAO POR INDICADOR-DMIC 11/2020                                        -1,17                 0        0,00           0,00        0,00          0,00
-0805 MULTA 11/2020                                                                  4,87                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 11/2020                                                          0,97                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                               TOTAL:         240,14        234,87           58,71         179,21        1,19          5,50
-JAN/21   282,00
-DEZ/20   297,00
-NOV/20   308,00
-OUT/20     0,00 *
-SET/20    30,00 *
-AGO/20     0,00
-JUL/20   161,00 *
-JUN/20   166,00 *
-MAI/20   170,00 *
-ABR/20    85,00
-MAR/20   209,00
-FEV/20    50,00
-JAN/20    21,00
-DIC      6,47   6,86   12,94   25,89
-FIC      3,55   2,00    7,10   14,20
-DMIC     3,80   4,34
-DICRI   12,22
-

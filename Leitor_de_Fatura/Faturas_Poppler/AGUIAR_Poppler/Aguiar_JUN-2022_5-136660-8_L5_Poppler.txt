@@ -1,47 +1,0 @@
-PM AGUIAR CENTRO ADMINISTRATIVO
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR CENTRO ADMINISTRATIVO
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 400 - 7580                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00009061265                            DOM. BANC.:
-MATRÍCULA: 136660-2022-6-7                             DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA IRINEU LACERDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-Junho/2022
-5/136660-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                      1.230,00    0,596920    0,826800    1.016,98      1.016,98   25      254,24         762,74        5,08         23,43
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:       1.016,98      1.016,98           254,24         762,74        5,08         23,43
-JUN/22   1.230,00
-MAI/22   1.479,00
-ABR/22   1.514,00
-MAR/22   1.549,00
-FEV/22   1.283,00
-JAN/22   1.087,00
-DEZ/21   1.929,00
-NOV/21   1.781,00
-OUT/21   1.723,00
-SET/21   1.464,00
-AGO/21   1.516,00
-JUL/21   1.419,00
-JUN/21   1.426,00
-DIC     14,00   0,00   0,00      0
-FIC      5,00   0,00   0,00   0,00
-DMIC    10,00   0,00
-DICRI   13,00
-

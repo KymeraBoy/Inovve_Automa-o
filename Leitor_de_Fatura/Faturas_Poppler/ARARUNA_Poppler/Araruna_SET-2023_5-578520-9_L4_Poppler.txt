@@ -1,43 +1,0 @@
-PM ARARUNA ILUMINACAO PUBLICA
-
-ROD BR 230, S/N - 58233000 - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Setembro / 2023
-5/578520-9
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: MONOFASICO
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
-Itens da Fatura    Unid.     Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
-Consumo em kWh    KWH      113.604,00       0,419580      47.667,70    1.461,87     47.667,70   18      8.580,18   0,331200
-
-
-
-
-                           TOTAL:                         47.667,70    1.461,87     47.667,70           8.580,18
-          Base de Alíquota        Valor
-Tributo   Cálc.(R$)  (%)           (R$)
-PIS       39.087,51   0,6671    260,75
-COFINS    39.087,51   3,0729   1.201,12
-CMS       47.667,70    18,00   8.580,18
-DIC     12,00   0,44   0,00   0,00
-FIC      4,00   0,08   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-SET/23   113.604,00
-AGO/23   117.408,00
-JUL/23   117.419,00
-JUN/23   113.667,00
-MAI/23   117.471,00
-ABR/23   113.670,00
-MAR/23   117.528,00
-FEV/23   106.113,00
-JAN/23   117.527,00
-DEZ/22   117.529,00
-NOV/22   113.738,00
-OUT/22   117.529,00
-SET/22   113.738,00
-

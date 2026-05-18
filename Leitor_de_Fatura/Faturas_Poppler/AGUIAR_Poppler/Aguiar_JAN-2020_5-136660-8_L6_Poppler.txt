@@ -1,46 +1,0 @@
-PM AGUIAR CENTRO ADMINISTRATIVO
-RUA IRINEU LACERDA, S/N - 58778000
-CENTRO
-AGUIAR-PB (AG: 144)
-                                     ENE
-Janeiro/2020
-5/136660-8
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                        946,00   0,545400        0,785840        743,41        743,41    25     185,85          743,41       7,42        34,19
-0601 Adic. B. Amarela                                                                18,30         18,30    25       4,57           18,30       0,18         0,84
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              761,71        761,70           190,42          761,70       7,60        35,03
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         946
-DEZ/19        1278
-NOV/19        1341
-OUT/19        1219
-SET/19        1064
-AGO/19         790
-JUL/19         826
-JUN/19         975
-MAI/19        1039
-ABR/19         925
-MAR/19         100
-FEV/19         100
-JAN/19         100
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

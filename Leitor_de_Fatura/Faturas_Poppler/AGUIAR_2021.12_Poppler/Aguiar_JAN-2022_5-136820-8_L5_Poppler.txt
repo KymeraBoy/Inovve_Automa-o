@@ -1,52 +1,0 @@
-PM AGUIAR CENTRO DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR CENTRO DE SAUDE
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. ESTADUAL
-ROTEIRO: 009 - 0149 - 410 - 3100                        LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008762466                           DOM. BANC.:
-MATRÍCULA: 136820-2022-1-8                            DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA SEVERINO AMANCIO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Janeiro/2022
-5/136820-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                      1.888,00    0,596920    0,826800    1.561,02      1.561,02   25      390,26       1.170,77        7,81         35,97
-0601 Adic. B. Vermelha                                                         371,34        371,34   25       92,83         278,51        1,85          8,56
-     LANÇAMENTOS E SERVIÇOS
-0807 CONTRIBUIÇÃO ILUM PUBLICA                                                   9,84                 0         0,00           0,00        0,00          0,00
-0805 MULTA 11/2021                                                              55,78                 0         0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 11/2021                                                       3,72                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:       2.001,70      1.932,36           483,09       1.449,28        9,66         44,53
-JAN/22   1.888,00
-DEZ/21   3.233,00
-NOV/21   2.856,00
-OUT/21   2.960,00
-SET/21   2.698,00
-AGO/21   2.532,00
-JUL/21   2.066,00
-JUN/21   2.215,00
-MAI/21   2.610,00
-ABR/21   2.688,00
-MAR/21   2.698,00
-FEV/21   2.711,00
-JAN/21   1.671,00
-DIC      6,47   0,00   12,94   25,89
-FIC      3,48   0,00    6,97   13,95
-DMIC     3,80   0,00
-DICRI   12,22
-

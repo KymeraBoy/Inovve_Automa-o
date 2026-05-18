@@ -1,44 +1,0 @@
-PM BREJO DO CRUZ QUADRA DE ESPORTES
-
-RUA RIO GRANDE DO NORTE, SN - 58890000
-
-
-B DOS ESTADOS
-BREJO DO CRUZ (AG: 237)
-Março / 2026
-5/1152175-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-LIGAÇÃO: TRIFASICO
-0008662945   Energia ativa em kWh   Ponta   31810   33179   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       1.369,00       0,482890        661,08       20,14         661,08   20      132,21   0,371600
-
-
-
-
-                           TOTAL:                          661,08       20,14         661,08           132,21
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         528,86    0,6794       3,59
-COFINS      528,86    3,1295      16,55
-ICMS        661,08     20,00     132,21
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-MAR/26   1.369,00
-FEV/26   1.090,00
-JAN/26   1.192,00
-DEZ/25   1.232,00
-NOV/25   1.245,00
-OUT/25   1.163,00
-SET/25   1.273,00
-AGO/25    952,00
-JUL/25    702,00
-JUN/25    359,00
-MAI/25    207,00
-ABR/25    160,00
-MAR/25    163,00
-

@@ -1,44 +1,0 @@
-PM DE GURINHEM CENTRO DE INFORMATICA
-
-SIT SERRA DO CATOLE, S/N - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/1610247-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008528998   Energia ativa em kWh   Ponta   19064   19613   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        549,00       0,894390        491,02       21,88         491,02   20      98,20   0,675650
-
-
-
-
-                           TOTAL:                         491,02       21,88         491,02           98,20
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         392,81    0,9940      3,90
-COFINS      392,81    4,5784     17,98
-ICMS        491,02     20,00     98,20
-DIC     24,00   0,28   999,00   999,00
-FIC      6,00   1,00   999,00   999,00
-DMIC    18,00   0,28
-DICRI   26,00
-FEV/26   549,00
-JAN/26   642,00
-DEZ/25   572,00
-NOV/25   590,00
-OUT/25   522,00
-SET/25   432,00
-AGO/25   483,00
-JUL/25   452,00
-JUN/25   491,00
-MAI/25   519,00
-ABR/25   477,00
-MAR/25   482,00
-FEV/25   537,00
-

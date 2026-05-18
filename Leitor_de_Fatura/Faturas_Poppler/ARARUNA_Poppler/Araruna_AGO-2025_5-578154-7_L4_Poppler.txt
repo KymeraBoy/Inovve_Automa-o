@@ -1,46 +1,0 @@
-PM ARARUNA GE MANOEL SOARES DA COSTA
-
-LOC POV DE MACAPA, S/N - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto / 2025
-5/578154-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000908455   Energia ativa em kWh   Ponta   19494   19792   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        298,00       0,776160        231,29        9,74         231,29   20      46,26   0,588270
-Adic. B. Vermelha                                            17,87        0,75          17,87   20       3,57
-Adic. B. Vermelha                                             7,41        0,31           7,41   20       1,48
-
-
-
-
-                             TOTAL:                         256,57       10,80         256,57           51,31
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         205,25    0,9383      1,92
-COFINS      205,25    4,3217      8,88
-ICMS        256,57     20,00     51,31
-DIC     20,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    15,00   0,00
-DICRI   26,00
-AGO/25   298,00
-JUL/25   236,00
-JUN/25   210,00
-MAI/25   257,00
-ABR/25   176,00
-MAR/25   165,00
-FEV/25   214,00
-JAN/25   221,00
-DEZ/24   228,00
-NOV/24   193,00
-OUT/24   234,00
-SET/24   222,00
-AGO/24   236,00
-

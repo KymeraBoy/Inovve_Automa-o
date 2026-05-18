@@ -1,47 +1,0 @@
-PM ARARUNA EM JOAO ALVES
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA EM JOAO ALVES
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 016 - 0062 - 110 - 1360                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008064993                            DOM. BANC.:
-MATRÍCULA: 825339-2022-8-0                             DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA CEL PEDRO TARGINO, S/N
-ARARUNA
-ARARUNA (AG: 62)
-Agosto/2022
-5/825339-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        566,00    0,596920    0,756230      428,02        428,02   18      77,04         350,98        2,34         10,78
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         428,02        428,02           77,04         350,98        2,34         10,78
-AGO/22    566,00
-JUL/22    403,00
-JUN/22     313,00
-MAI/22     709,00
-ABR/22   1.029,00
-MAR/22   1.342,00
-FEV/22     323,00
-JAN/22     53,00
-DEZ/21     829,00
-NOV/21   1.060,00
-OUT/21     737,00
-SET/21     271,00
-AGO/21     156,00
-DIC     12,00   0,00   0,00      0
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-

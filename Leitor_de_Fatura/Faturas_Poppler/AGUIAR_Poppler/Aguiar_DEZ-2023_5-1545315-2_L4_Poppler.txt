@@ -1,44 +1,0 @@
-PM AGUIAR PALCO
-
-PC MIGUEL ISIDRO LEITE, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Dezembro / 2023
-5/1545315-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008426992   Energia ativa em kWh   Ponta   14941   15009   1
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh               68,00       0,773670         52,61        2,19          52,61   18       9,46   0,602190
-
-
-
-
-                          TOTAL:                          52,61        2,19          52,61            9,46
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          43,13    0,9062      0,39
-COFINS       43,13    4,1741      1,80
-ICMS         52,61     18,00      9,46
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-DEZ/23    68,00   0,00
-NOV/23    66,00   0,00
-OUT/23    93,00   0,00
-SET/23    78,00   0,00
-AGO/23   102,00   0,00
-JUL/23    93,00   0,00
-JUN/23    68,00   0,00
-MAI/23    35,00   0,00
-ABR/23    54,00   0,00
-MAR/23    45,00   0,00
-FEV/23    42,00   0,00
-JAN/23    93,00   0,00
-DEZ/22    45,00   0,00
-

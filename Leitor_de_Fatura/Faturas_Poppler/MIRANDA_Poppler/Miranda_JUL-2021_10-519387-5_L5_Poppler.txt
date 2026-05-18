@@ -1,54 +1,0 @@
-POSTO IND FUNAI
-
-DOMICÍLIO DE ENTREGA
-POSTO IND FUNAI
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 052 - 0013 - 510 - 1480                         LIGAÇÃO: BIFASICO
-Nº DO MEDIDOR: 00000V26925                            DOM. BANC.:
-MATRÍCULA: 519387-2021-7-4                             DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-ALDEIA ARGOLA, S/N - 24.413.08.000204 79380000
-RURAL
-MIRANDA (AG: 13)
-Julho/2021
-10/519387-5
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Consumo em kWh                            289,00    0,693650    0,886870      256,30        256,30   17      43,57         212,73        2,18         10,08
-0601 Adic. B. Vermelha                                                              25,85         25,85   17       4,39          21,44        0,22          1,01
-     LANÇAMENTOS E SERVIÇOS
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -291,37                 0        0,00           0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   1,77                 0        0,00           0,00        0,00          0,00
-0999 DEBITO A COMPENSAR 08/2021                                                      0,00                 0        0,00           0,00        0,00          0,00
-0805 MULTA 04/2021                                                                   5,45                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2021                                                           2,00                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00        282,15           47,96         234,17        2,40         11,09
-JUL/21   289,00
-JUN/21   289,00
-MAI/21    96,00
-ABR/21   328,00 *
-MAR/21   339,00 *
-FEV/21   211,00
-JAN/21   349,00 *
-DEZ/20   360,00 *
-NOV/20   197,00
-OUT/20    50,00
-SET/20   432,00 *
-AGO/20   402,00 *
-JUL/20   418,00 *
-DIC     11,59   0,00   23,19   46,38
-FIC      7,52   0,00   15,04   30,09
-DMIC     6,39   0,00
-DICRI   16,60
-

@@ -1,44 +1,0 @@
-EM MANOEL FRANCISCO COELHO
-
-LOC BOQUEIRAO, S/N - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/444402-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7043475327   Energia ativa em kWh   Ponta   86929   87901   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH        972,00       0,894390        869,35       38,75         869,35   20      173,87   0,675650
-
-
-
-
-                           TOTAL:                         869,35       38,75         869,35           173,87
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         695,48    0,9940       6,91
-COFINS      695,48    4,5784      31,84
-ICMS        869,35     20,00     173,87
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-FEV/26    972,00
-JAN/26    626,00
-DEZ/25   2.704,00
-NOV/25   3.170,00
-OUT/25   2.563,00
-SET/25   2.053,00
-AGO/25   2.262,00
-JUL/25    817,00
-JUN/25   2.573,00
-MAI/25   2.427,00
-ABR/25   2.963,00
-MAR/25   2.692,00
-FEV/25   1.498,00
-

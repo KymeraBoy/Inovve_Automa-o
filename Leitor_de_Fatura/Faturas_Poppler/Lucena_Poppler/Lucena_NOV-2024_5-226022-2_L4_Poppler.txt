@@ -1,46 +1,0 @@
-PM LUCENA POSTO MEDICO
-
-RUA VALDOMIRO BEZERRA, S/N - 58315000
-
-
-COSTINHA
-LUCENA (AG: 1)
-Novembro / 2024
-5/226022-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008832224   Energia ativa em kWh   Ponta   38742   39691   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH        949,00       0,777730        738,07       32,19         738,07   20      147,61   0,588270
-Adic. B. Amarela                                             10,14        0,44          10,14   20        2,03
-Adic. B. Vermelha                                            56,44        2,46          56,44   20       11,29
-
-
-
-
-                             TOTAL:                         804,65       35,09         804,65           160,93
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         643,71    0,9725       6,26
-COFINS      643,71    4,4795      28,83
-ICMS        804,65     20,00     160,93
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24   949,00 *
-OUT/24   632,00 *
-SET/24   535,00 *
-AGO/24   554,00 *
-JUL/24   400,00 *
-JUN/24   548,00 *
-MAI/24   396,00 *
-ABR/24    30,00 *
-MAR/24     0,00 *
-FEV/24   444,00
-JAN/24    30,00 *
-DEZ/23    30,00 *
-NOV/23   532,00 *
-

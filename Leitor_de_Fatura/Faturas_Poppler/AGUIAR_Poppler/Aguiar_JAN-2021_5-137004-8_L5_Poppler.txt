@@ -1,55 +1,0 @@
-ILUMINACAO PUBLICA - P.M.AGUIAR
-
-DOMICÍLIO DE ENTREGA
-ILUMINACAO PUBLICA - P.M.AGUIAR
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-ROTEIRO: 015 - 0149 - 099 - 1560                        LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 0                                     DOM. BANC.:
-MATRÍCULA: 137004-2021-1-0                            DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-ROD BR 230, S/N
-CENTRO
-AGUIAR (AG: 144)
-Janeiro/2021
-5/137004-8
-                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo kWh - Ligação Provisória - Ponta       442,00    0,309160    0,428510      189,40        189,40   25         47,35         144,52        0,96          4,44
-0601 Consumo em kWh                              32.712,00    0,309160    0,428510   14.017,72     14.017,72   25      3.504,43      10.696,50       71,36        328,69
-0601 Adic. B. Amarela                                                                   468,17        468,17   25        117,04         357,24        2,38         10,98
-0601 Adic. B. Vermelha                                                                  692,51        692,51   25        173,13         528,43        3,52         16,23
-     LANÇAMENTOS E SERVIÇOS
-0999 REPASSE DE CIP 01/2021                                                          -13.284,75                0          0,00            0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 11/2020                                                        34,71                0          0,00            0,00        0,00          0,00
-0805 MULTA 11/2020                                                                       281,28                0          0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 11/2020                                                                56,26                0          0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                     TOTAL:       2.455,30     15.367,80           3.841,95      11.726,69       78,22        360,34
-JAN/21   32.712,00
-DEZ/20   32.712,00
-NOV/20   31.657,00
-OUT/20   32.712,00
-SET/20   31.657,00
-AGO/20   32.712,00
-JUL/20   32.712,00
-JUN/20   31.657,00
-MAI/20   32.712,00
-ABR/20   31.657,00
-MAR/20   32.712,00
-FEV/20   30.602,00
-JAN/20   32.712,00
-DIC
-FIC
-DMIC
-DICRI
-

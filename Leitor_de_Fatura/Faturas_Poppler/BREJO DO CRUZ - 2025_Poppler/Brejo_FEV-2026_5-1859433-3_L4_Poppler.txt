@@ -1,44 +1,0 @@
-PM BREJO DO CRUZ POCO ARTESIANO
-
-SIT POCO DA ONCA, 0 - 58890000
-
-
-AREA RURAL
-BREJO DO CRUZ (AG: 237)
-Fevereiro / 2026
-5/1859433-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0008973442   Energia ativa em kWh   Ponta   9615   9720   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        105,00       0,894390         93,91        4,18          93,91   20      18,78   0,675650
-
-
-
-
-                           TOTAL:                          93,91        4,18          93,91           18,78
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          75,12    0,9940      0,74
-COFINS       75,12    4,5784      3,44
-ICMS         93,91     20,00     18,78
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-FEV/26    105,00
-JAN/26    147,00
-DEZ/25     208,00
-NOV/25   1.075,00
-OUT/25       7,00
-SET/25     415,00
-AGO/25     333,00
-JUL/25    323,00
-JUN/25    273,00
-MAI/25    323,00
-ABR/25     93,00
-MAR/25    207,00
-FEV/25     75,00
-

@@ -1,46 +1,0 @@
-P M L UNIDADE MISTA DE SAUDE ( LUCENA )
-
-RUA PROJETADA, S/N - 58315000
-
-
-CENTRO
-LUCENA (AG: 1)
-Novembro / 2024
-5/1096861-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008377410   Energia ativa em kWh   Ponta   460321   467628   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
-Consumo em kWh      KWH       7.307,00       0,777730      5.682,94      247,86       5.682,94   20      1.136,58   0,588270
-Adic. B. Amarela                                              71,54        3,12          71,54   20        14,31
-Adic. B. Vermelha                                            461,96       20,14         461,96   20        92,39
-
-
-
-
-                             TOTAL:                        6.216,44      271,12       6.216,44           1.243,28
-Tributo   Base de     Alíquota     Valor
-          Cálc.(R$)      (%)        (R$)
-PIS       4.973,13    0,9725       48,36
-COFINS    4.973,13    4,4795      222,76
-ICMS      6.216,44     20,00     1.243,28
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24   7.307,00 *
-OUT/24   7.762,00 *
-SET/24   6.748,00 *
-AGO/24   6.486,00 *
-JUL/24   6.705,00 *
-JUN/24   7.071,00 *
-MAI/24   8.967,00 *
-ABR/24   8.913,00 *
-MAR/24   9.430,00 *
-FEV/24   8.180,00
-JAN/24   8.508,00 *
-DEZ/23   8.495,00 *
-NOV/23   8.734,00 *
-

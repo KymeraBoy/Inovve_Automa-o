@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ POCO SIT LOGRADOURO
-DE BAIXO
-SIT LOGRADOURO DE BAIXO, SN - 58890000
-
-
-AREA RURAL
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/4520492-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
-LIGAÇÃO: MONOFASICO
-5251365503   Energia ativa em kWh   Ponta   31   43   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          26,11        1,02          26,11   20       5,22
-Adic. B. Vermelha                                                  3,10        0,12           3,10   20       0,62
-
-
-
-
-                                   TOTAL:                         29,21        1,14          29,21            5,84
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          23,35    0,8795      0,20
-COFINS       23,35    4,0510      0,94
-ICMS         29,21     20,00      5,84
-DIC     24,00   0,00   999,00   999,00
-FIC      6,00   0,00   999,00   999,00
-DMIC    18,00   0,00
-DICRI   26,00
-SET/25   12,00
-AGO/25    9,00
-JUL/25    9,00
-JUN/25    7,00
-MAI/25    6,00
-ABR/25
-MAR/25
-FEV/25
-JAN/25
-DEZ/24
-NOV/24
-OUT/24
-SET/24
-

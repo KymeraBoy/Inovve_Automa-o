@@ -1,44 +1,0 @@
-PM ARARUNA CONSELHO TUTELAR
-
-RUA PROF JOAO MOREIRA SOARES, 234 - 58233000 - 58233000
-
-
-ARARUNA
-ARARUNA (AG: 62)
-Abril / 2023
-5/315273-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000102761   Energia ativa em kWh   Ponta   35443   35470   1
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          23,33        1,16          23,33   18       4,19
-
-
-
-
-                                   TOTAL:                         23,33        1,15          23,33            4,19
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS           19,13   1,0845   0,21
-COFINS        19,13   4,9955   0,95
-CMS           23,33    18,00   4,19
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-ABR/23   27,00
-MAR/23   30,00
-FEV/23   27,00
-JAN/23   25,00
-DEZ/22   31,00
-NOV/22   33,00
-OUT/22   34,00
-SET/22   34,00
-AGO/22   27,00
-JUL/22   28,00
-JUN/22   33,00
-MAI/22   36,00
-ABR/22   35,00
-

@@ -1,54 +1,0 @@
-PREFEITURA MUNIC MIRANDA ESCOLA PRES JOAO
-FIGUEIREDO
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNIC MIRANDA ESCOLA PRES JOAO FIGUEIREDO
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 059 - 0013 - 530 - 0630                          LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00000V60212                             DOM. BANC.:
-MATRÍCULA: 1633639-2021-7-7                             DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-ALDEIA LALIMA, S/N - 24.413.09.321700 79380000
-RURAL
-MIRANDA (AG: 13)
-Julho/2021
-10/1633639-8
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Custo de Disponibilidade                                                       88,68         88,68   17      15,07          73,61        0,75          3,48
-0601 Adic. B. Vermelha                                                              10,38         10,38   17       1,77           8,62        0,09          0,41
-     LANÇAMENTOS E SERVIÇOS
-0807 CONT.IL.PUB-CIP MUNICIPAL                                                      12,09                 0        0,00           0,00        0,00          0,00
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -113,96                 0        0,00           0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   0,54                 0        0,00           0,00        0,00          0,00
-0805 MULTA 04/2021                                                                   1,66                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2021                                                           0,61                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00         99,06           16,84          82,23        0,84          3,89
-JUL/21     100,00
-JUN/21   1.127,00
-MAI/21   1.169,00 *
-ABR/21     100,00 *
-MAR/21   1.331,00 *
-FEV/21   1.354,00 *
-JAN/21     100,00 *
-DEZ/20   1.392,00 *
-NOV/20   1.412,00 *
-OUT/20     100,00
-SET/20   1.559,00 *
-AGO/20   1.560,00 *
-JUL/20   1.741,00 *
-DIC      6,15   0,00   12,30    24,6
-FIC      3,23   0,00    6,47   12,95
-DMIC     3,63   0,00
-DICRI   12,22
-

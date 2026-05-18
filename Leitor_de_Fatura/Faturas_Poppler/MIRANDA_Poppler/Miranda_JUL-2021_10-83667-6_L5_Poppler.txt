@@ -1,53 +1,0 @@
-PM ESC GUMERCINDO RIBEIRO
-
-DOMICÍLIO DE ENTREGA
-PM ESC GUMERCINDO RIBEIRO
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 051 - 0013 - 520 - 0040                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00073008759                            DOM. BANC.:
-MATRÍCULA: 83667-2021-7-5                              DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RANCHO SALOBRA, S/N - 24.413.71.071001 79380000
-RURAL
-MIRANDA (AG: 13)
-Julho/2021
-10/83667-6
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Custo de Disponibilidade                                                       88,68         88,68   17      15,07          73,61        0,76          3,48
-0601 Adic. B. Vermelha                                                               8,60          8,60   17       1,46           7,13        0,07          0,34
-     LANÇAMENTOS E SERVIÇOS
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                          -100,09                 0        0,00           0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                                   0,54                 0        0,00           0,00        0,00          0,00
-0805 MULTA 04/2021                                                                   1,66                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2021                                                           0,61                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00         97,28           16,53          80,74        0,83          3,82
-JUL/21   100,00
-JUN/21   149,00
-MAI/21   153,00 *
-ABR/21   100,00 *
-MAR/21   158,00 *
-FEV/21   163,00 *
-JAN/21   100,00 *
-DEZ/20   169,00 *
-NOV/20   175,00 *
-OUT/20   100,00
-SET/20   181,00 *
-AGO/20   188,00 *
-JUL/20   100,00 *
-DIC     18,36   0,37   36,72   73,45
-FIC      8,19   2,00   16,39   32,78
-DMIC     9,77   0,32
-DICRI   16,60
-

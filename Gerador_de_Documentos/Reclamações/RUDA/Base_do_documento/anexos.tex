@@ -3,12 +3,27 @@
 \begin{enumerate}[resume]
 \item Para a devida comprovação, juntam-se a esta reclamação os documentos abaixo:
   \begin{enumerate}
-    \item Anexo I – Procuração e documentos do outorgante e do outorgado
-    \item Anexo II – Contrato de Mandato
-    \ifdefined\possuiAditivos
-      \ifnum\possuiAditivos=1
-        \item Anexo III - Aditivos
+    \item Anexo I – Instrumentos procuratórios
+    \item Anexo II – Contrato e demais documentos
+    \newcount\totalAditivos
+    \totalAditivos=0
+    \ifdefined\quantidadeAditivos
+      \totalAditivos=\quantidadeAditivos\relax
+    \else
+      \ifdefined\possuiAditivos
+        \ifnum\possuiAditivos=1
+          \totalAditivos=1
+        \fi
       \fi
+    \fi
+    \ifnum\totalAditivos>0
+      \newcount\indiceAditivo
+      \indiceAditivo=1
+      \loop
+        \item Anexo \Roman{enumii} - Aditivo \number\indiceAditivo
+        \advance\indiceAditivo by 1
+      \ifnum\indiceAditivo<\numexpr\totalAditivos+1\relax
+      \repeat
     \fi
   \end{enumerate}
 \end{enumerate}

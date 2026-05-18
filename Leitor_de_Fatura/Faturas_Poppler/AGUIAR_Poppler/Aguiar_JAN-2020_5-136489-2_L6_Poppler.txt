@@ -1,46 +1,0 @@
-PM AGUIAR MATADOURO
-SIT ALAGAMAR, S/N - 58778000
-AREA RURAL
-AGUIAR-PB (AG: 144)
-                               ENE
-Janeiro/2020
-5/136489-2
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Custo de Disponibilidade                                                        23,57         23,57    25      5,89           23,57       0,24         1,08
-0601 Adic. B. Amarela                                                                 0,58          0,58    25      0,14            0,58       0,00         0,03
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               24,15         24,15            6,02           24,15       0,24         1,11
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          4
-DEZ/19         11
-NOV/19          0
-OUT/19          5
-SET/19         22
-AGO/19          0
-JUL/19         28
-JUN/19          0
-MAI/19          0
-ABR/19          0
-MAR/19          0
-FEV/19          0
-JAN/19          0
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

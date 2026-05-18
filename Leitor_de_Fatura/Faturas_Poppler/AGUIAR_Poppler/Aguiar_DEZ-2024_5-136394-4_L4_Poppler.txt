@@ -1,45 +1,0 @@
-PM AGUIAR EMEF AMELIA ARANTES LEITE
-
-SIT SAO FRANCISCO, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Dezembro / 2024
-5/136394-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-5139987429   Energia ativa em kWh   Ponta   13071   14165   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh              1.094,00       0,782550        856,12       41,33         856,12   20      171,22   0,588270
-Adic. B. Amarela                                            14,14        0,68          14,14   20        2,83
-
-
-
-
-                           TOTAL:                          870,26       42,01         870,26           174,05
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         696,20    1,0765       7,49
-COFINS      696,20    4,9583      34,52
-ICMS        870,26     20,00     174,05
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-DEZ/24   1.094,00   0,00
-NOV/24   1.491,00   0,00
-OUT/24   1.268,00   0,00
-SET/24   1.413,00   0,00
-AGO/24   1.268,00   0,00
-JUL/24     662,00   0,00
-JUN/24   1.018,00   0,00
-MAI/24    617,00    0,00
-ABR/24    381,00    0,00
-MAR/24    262,00    0,00
-FEV/24     90,00    0,00
-JAN/24     78,00    0,00
-DEZ/23    201,00    0,00
-

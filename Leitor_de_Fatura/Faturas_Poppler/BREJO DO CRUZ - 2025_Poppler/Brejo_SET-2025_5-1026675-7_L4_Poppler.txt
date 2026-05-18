@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ SEDE
-
-RUA SOLON DE LUCENA, S/N - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/1026675-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7042066131   Energia ativa em kWh   Ponta   106878   110209   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH       3.331,00       0,832820      2.774,13      109,42       2.774,13   20      554,82   0,633410
-Adic. B. Vermelha                                            344,98       13,61         344,98   20       69,00
-
-
-
-
-                             TOTAL:                         3.119,11     123,03       3.119,11           623,82
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       2.495,28    0,8795      21,95
-COFINS    2.495,28    4,0510     101,08
-ICMS      3.119,11     20,00     623,82
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-SET/25   3.331,00 *
-AGO/25   3.512,00
-JUL/25   3.097,00
-JUN/25   3.266,00
-MAI/25   3.093,00
-ABR/25   6.088,00
-MAR/25       0,00 *
-FEV/25   3.436,00
-JAN/25   3.083,00
-DEZ/24   4.277,00
-NOV/24   3.176,00
-OUT/24   3.591,00
-SET/24   3.262,00
-

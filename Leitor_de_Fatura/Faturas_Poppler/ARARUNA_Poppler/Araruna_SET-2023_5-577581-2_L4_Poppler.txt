@@ -1,44 +1,0 @@
-PM ARARUNA EM FRANCISCO PEREIRA DOS
-SANTOS
-LOC POV DE MACAPA, S/N - 58233000 - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Setembro / 2023
-5/577581-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000705978   Energia ativa em kWh   Ponta   7850   7900   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH         50,00       0,761810         38,09        1,17          38,09   18       6,85   0,601330
-
-
-
-
-                           TOTAL:                          38,09        1,17          38,09            6,85
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS           31,22   0,6671   0,21
-COFINS        31,22   3,0729   0,96
-CMS           38,09    18,00   6,85
-DIC     24,00   1,93   0,00   0,00
-FIC      6,00   1,00   0,00   0,00
-DMIC    18,00   1,93
-DICRI   26,00
-SET/23   50,00
-AGO/23   35,00
-JUL/23   27,00
-JUN/23    8,00
-MAI/23    0,00 *
-ABR/23   69,00
-MAR/23   55,00
-FEV/23   68,00
-JAN/23   68,00
-DEZ/22   66,00
-NOV/22   78,00
-OUT/22   59,00
-SET/22   61,00
-

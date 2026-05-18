@@ -1,47 +1,0 @@
-ESCOLA HORACIO RAMALHO
-
-DOMICÍLIO DE ENTREGA
-ESCOLA HORACIO RAMALHO
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0149 - 457 - 2500                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5048237589                            DOM. BANC.:
-MATRÍCULA: 1942106-2022-6-3                            DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT RIACHO VERDE, S/N
-AREA RURAL
-AGUIAR (AG: 144)
-Junho/2022
-5/1942106-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        513,00    0,596920    0,826800      424,15        424,15   25      106,03         318,11        2,12          9,77
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         424,15        424,15           106,03         318,11        2,12          9,77
-JUN/22   513,00
-MAI/22   527,00
-ABR/22   588,00
-MAR/22   605,00
-FEV/22   269,00
-JAN/22   319,00
-DEZ/21   241,00
-NOV/21   211,00
-OUT/21   229,00
-SET/21   207,00
-AGO/21   278,00
-JUL/21   313,00
-JUN/21   216,00
-DIC     28,00   0,00   0,00      0
-FIC      7,00   0,00   0,00   0,00
-DMIC    20,00   0,00
-DICRI   26,00
-

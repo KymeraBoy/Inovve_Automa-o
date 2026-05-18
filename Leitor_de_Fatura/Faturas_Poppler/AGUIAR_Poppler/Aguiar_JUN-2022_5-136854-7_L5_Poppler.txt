@@ -1,47 +1,0 @@
-EMEF LIDIA CABRAL AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF LIDIA CABRAL AGUIAR
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 410 - 3740                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008461421                            DOM. BANC.:
-MATRÍCULA: 136854-2022-6-6                             DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA SEVERINO AMANCIO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Junho/2022
-5/136854-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        323,00    0,596920    0,826800      267,06        267,06   25      66,76         200,29        1,33          6,15
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         267,06        267,06           66,76         200,29        1,33          6,15
-JUN/22   323,00
-MAI/22   374,00
-ABR/22   349,00
-MAR/22   397,00
-FEV/22   137,00
-JAN/22   102,00
-DEZ/21   240,00
-NOV/21   235,00
-OUT/21   100,00
-SET/21     0,00
-AGO/21     0,00 *
-JUL/21     0,00 *
-JUN/21     0,00 *
-DIC     14,00   0,00   0,00      0
-FIC      5,00   0,00   0,00   0,00
-DMIC    10,00   0,00
-DICRI   13,00
-

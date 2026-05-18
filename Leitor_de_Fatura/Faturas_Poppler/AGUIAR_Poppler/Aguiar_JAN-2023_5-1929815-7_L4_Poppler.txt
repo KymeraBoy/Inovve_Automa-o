@@ -1,46 +1,0 @@
-PM DE AGUIAR POCO
-
-RUA VEREADOR JOAO PAULINO SOBRINHO, S/N - 58778000
-
-
-EVANDRO CABRAL
-AGUIAR (AG: 144)
-Janeiro / 2023
-5/1929815-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5043539307   Energia ativa em kWh   Ponta   8803   8803   1
-                                                           Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                          Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                                        23,01        0,90          23,01   18       4,14
-LANÇAMENTOS E SERVIÇOS
-COMPENSACAO POR INDICADOR-DMIC 11/2022                                           -3,86       0,00                  0        0,00
-
-
-
-
-                                                 TOTAL:                         19,15        0,90          23,01            4,14
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          18,87    0,8504      0,16
-COFINS       18,87    3,9170      0,74
-ICMS         23,01     18,00      4,14
-DIC     14,00   12,20   0,00   0,00
-FIC      5,00    1,00   0,00   0,00
-DMIC    10,00   12,20
-DICRI   13,00
-JAN/23     0,00 *   0,00
-DEZ/22     0,00 *   0,00
-NOV/22     0,00 *   0,00
-OUT/22     0,00 *   0,00
-SET/22     0,00 *   0,00
-AGO/22     0,00 *   0,00
-JUL/22     0,00 *   0,00
-JUN/22   111,00     0,00
-MAI/22   137,00     0,00
-ABR/22    88,00     0,00
-MAR/22    92,00     0,00
-FEV/22   100,00     0,00
-JAN/22    63,00     0,00
-

@@ -1,49 +1,0 @@
-EMEF SATIRO CLEMENTINO DANTAS AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF SATIRO CLEMENTINO DANTAS AGUIAR
-RUA BOA VISTA S/N S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0149 - 475 - 2030                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00001165282                            DOM. BANC.:
-MATRÍCULA: 1224643-2021-12-4                           DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT CAITITU, S/N
-AREA RURAL
-AGUIAR (AG: 144)
-Dezembro/2021
-5/1224643-5
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   24,80         24,80   25      6,20           18,60        0,12          0,57
-0601 Adic. B. Amarela                                                            2,55          2,55   25      0,64            1,91        0,01          0,05
-0601 Adic. B. Vermelha                                                           3,34          3,34   25      0,83            2,50        0,02          0,08
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          30,69         30,69           7,67           23,01        0,15          0,70
-DEZ/21    0,00 *
-NOV/21    0,00 *
-OUT/21    9,00
-SET/21   38,00
-AGO/21   24,00
-JUL/21    0,00 *
-JUN/21    0,00 *
-MAI/21   11,00
-ABR/21    6,00
-MAR/21    0,00
-FEV/21    0,00 *
-JAN/21    0,00 *
-DEZ/20   12,00
-DIC     11,94   2,98   23,89   47,79
-FIC      7,82   1,00   15,64   31,28
-DMIC     6,59   0,00
-DICRI   16,60
-

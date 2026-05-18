@@ -1,44 +1,0 @@
-PM AGUIAR CENTRO ADMINISTRATIVO
-
-RUA IRINEU LACERDA, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Janeiro / 2024
-5/136660-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0009061265   Energia ativa em kWh   Ponta   72347   73692   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh             1.345,00       0,799640      1.075,52       50,47       1.075,52   20      215,10   0,602190
-
-
-
-
-                          TOTAL:                        1.075,52       50,47       1.075,52           215,10
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         860,41    1,0464       9,00
-COFINS      860,41    4,8196      41,47
-ICMS      1.075,52     20,00     215,10
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-JAN/24   1.345,00   0,00
-DEZ/23   1.510,00   0,00
-NOV/23   1.348,00   0,00
-OUT/23   1.303,00   0,00
-SET/23   1.196,00   0,00
-AGO/23   1.207,00   0,00
-JUL/23     983,00   0,00
-JUN/23   1.221,00   0,00
-MAI/23   1.457,00   0,00
-ABR/23   1.199,00   0,00
-MAR/23   1.278,00   0,00
-FEV/23   1.340,00   0,00
-JAN/23   1.294,00   0,00
-

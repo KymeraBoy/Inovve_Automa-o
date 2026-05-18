@@ -1,46 +1,0 @@
-EMEF JOSUE ALVES DE AZEVEDO BREJO DO
-CRUZ
-RUA RIO GRANDE DO NORTE, 299 - 58890000
-
-
-B DOS ESTADOS
-BREJO DO CRUZ (AG: 237)
-Fevereiro / 2026
-5/83872-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7042824507   Energia ativa em kWh   Ponta   118218   119494   1
-W7042824507   Energia injetada       Ponta   75761    79162    1
-                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh             KWH       1.276,00       0,894390      1.141,25       50,87       1.141,25   20      228,25   0,675650
-Energia Atv Injetada GDI   KWH       1.176,00       0,783370       -921,25       -46,88       -399,02   20      -79,81   0,675650
-
-
-
-
-                                    TOTAL:                          220,00        3,99         742,23           148,44
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          71,55    0,9940       0,71
-COFINS       71,55    4,5784       3,28
-ICMS        742,23     20,00     148,44
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-FEV/26   1.276,00
-JAN/26   1.831,00
-DEZ/25   6.808,00
-NOV/25   5.997,00
-OUT/25   6.432,00
-SET/25   5.705,00
-AGO/25   4.956,00
-JUL/25   3.786,00
-JUN/25   5.333,00
-MAI/25   4.119,00
-ABR/25   4.430,00
-MAR/25   4.701,00
-FEV/25   1.755,00
-

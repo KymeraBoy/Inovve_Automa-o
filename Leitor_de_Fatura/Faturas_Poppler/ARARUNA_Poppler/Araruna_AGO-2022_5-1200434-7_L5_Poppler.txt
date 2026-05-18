@@ -1,47 +1,0 @@
-PM ARARUNA POSTO DE SAUDE DE ALTO GRANDE
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA POSTO DE SAUDE DE ALTO GRANDE
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 012 - 0062 - 151 - 2660                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7039104650                            DOM. BANC.:
-MATRÍCULA: 1200434-2022-8-2                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT ALTO GRANDE, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1200434-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        205,00    0,596920    0,756230      155,02        155,02   18      27,90         127,11        0,85          3,90
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         155,02        155,02           27,90         127,11        0,85          3,90
-AGO/22   205,00
-JUL/22   190,00
-JUN/22   268,00
-MAI/22   401,00
-ABR/22   476,00
-MAR/22   541,00
-FEV/22   437,00
-JAN/22   341,00
-DEZ/21   522,00
-NOV/21   497,00
-OUT/21   511,00
-SET/21   373,00
-AGO/21   345,00
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

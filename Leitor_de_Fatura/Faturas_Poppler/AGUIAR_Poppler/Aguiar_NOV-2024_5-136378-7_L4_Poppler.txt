@@ -1,46 +1,0 @@
-PM AGUIAR CEO
-
-RUA BOA VISTA, 8 - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Novembro / 2024
-5/136378-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-W7039905156   Energia ativa em kWh   Ponta   21278   22050   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                772,00       0,777730        600,41       26,18         600,41   20      120,08   0,588270
-Adic. B. Amarela                                             8,92        0,39           8,92   20        1,78
-Adic. B. Vermelha                                           43,11        1,87          43,11   20        8,62
-
-
-
-
-                            TOTAL:                         652,44       28,44         652,44           130,48
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         521,93    0,9725       5,07
-COFINS      521,93    4,4795      23,37
-ICMS        652,44     20,00     130,48
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24    772,00    0,00
-OUT/24    751,00    0,00
-SET/24    569,00    0,00
-AGO/24    168,00    0,00
-JUL/24    758,00    0,00
-JUN/24    583,00    0,00
-MAI/24    588,00    0,00
-ABR/24    728,00    0,00
-MAR/24     667,00   0,00
-FEV/24     755,00   0,00
-JAN/24     776,00   0,00
-DEZ/23   1.059,00   0,00
-NOV/23     904,00   0,00
-

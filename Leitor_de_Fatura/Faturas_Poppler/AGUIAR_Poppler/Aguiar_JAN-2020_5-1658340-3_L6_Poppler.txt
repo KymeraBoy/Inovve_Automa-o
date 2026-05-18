@@ -1,46 +1,0 @@
-PM AGUIAR CRECHE MUNICIPAL
-SIT SAO FRANCISCO, S/N - 58778000
-SAO FRANCISCO
-AGUIAR-PB (AG: 144)
-                                    ENE
-Janeiro/2020
-5/1658340-3
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Custo de Disponibilidade                                                        78,58         78,58    25     19,64           78,58       0,78         3,61
-0601 Adic. B. Amarela                                                                 1,93          1,93    25      0,48            1,93       0,02         0,09
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               80,51         80,51           20,12           80,51       0,80         3,70
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          93
-DEZ/19        1131
-NOV/19        1975
-OUT/19        1933
-SET/19        1890
-AGO/19        1281
-JUL/19        1117
-JUN/19        1561
-MAI/19        1739
-ABR/19        1955
-MAR/19         617
-FEV/19         140
-JAN/19         115
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

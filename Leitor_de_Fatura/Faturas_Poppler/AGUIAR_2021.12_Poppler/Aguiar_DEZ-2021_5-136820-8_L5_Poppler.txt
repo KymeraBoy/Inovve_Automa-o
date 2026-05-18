@@ -1,51 +1,0 @@
-PM AGUIAR CENTRO DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR CENTRO DE SAUDE
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. ESTADUAL
-ROTEIRO: 009 - 0149 - 410 - 3100                        LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008762466                           DOM. BANC.:
-MATRÍCULA: 136820-2021-12-7                           DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA SEVERINO AMANCIO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Dezembro/2021
-5/136820-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                      3.233,00    0,596920    0,826800    2.673,09      2.673,09   25      668,27       2.004,82       13,37         61,60
-0601 Adic. B. Amarela                                                          287,16        287,16   25       71,79         215,38        1,44          6,62
-0601 Adic. B. Vermelha                                                         348,73        348,73   25       87,18         261,54        1,74          8,04
-     LANÇAMENTOS E SERVIÇOS
-0807 CONTRIBUIÇÃO ILUM PUBLICA                                                   9,84                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:       3.318,82      3.308,98           827,24       2.481,74       16,55         76,26
-DEZ/21   3.233,00
-NOV/21   2.856,00
-OUT/21   2.960,00
-SET/21   2.698,00
-AGO/21   2.532,00
-JUL/21   2.066,00
-JUN/21   2.215,00
-MAI/21   2.610,00
-ABR/21   2.688,00
-MAR/21   2.698,00
-FEV/21   2.711,00
-JAN/21   1.671,00
-DEZ/20   2.240,00
-DIC      6,47   3,10   12,94   25,89
-FIC      3,48   1,00    6,97   13,95
-DMIC     3,80   3,10
-DICRI   12,22
-

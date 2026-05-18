@@ -1,48 +1,0 @@
-PM AGUIAR SECRETARIA DE EDUCACAO E
-CULTURA
-RUA PROJETADA, S/N - 58778000
-
-
-CENTRO
-AGUIAR (AG: 144)
-Junho / 2023
-5/136905-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008861348   Energia ativa em kWh   Ponta   20030   20618   1
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            588,00       0,777870        457,39       22,80         457,39   18      82,33   0,599080
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 04/2023                                            0,86
-MULTA 04/2023                                                            5,77
-JUROS DE MORA 04/2023                                                    1,44
-
-
-
-
-                                        TOTAL:                         465,46       22,80         457,39           82,33
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         375,05    1,0845      4,07
-COFINS      375,05    4,9955     18,73
-ICMS        457,39     18,00     82,33
-DIC     12,00   0,00   0,00   0,00
-FIC      5,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-JUN/23   588,00   0,00
-MAI/23   659,00   0,00
-ABR/23   371,00   0,00
-MAR/23   416,00   0,00
-FEV/23   435,00   0,00
-JAN/23   258,00   0,00
-DEZ/22   401,00   0,00
-NOV/22   286,00   0,00
-OUT/22   291,00   0,00
-SET/22   250,00   0,00
-AGO/22   246,00   0,00
-JUL/22   160,00   0,00
-JUN/22   263,00   0,00
-

@@ -1,57 +1,0 @@
-MUNICIPIO DE MIRANDA
-
-DOMICÍLIO DE ENTREGA
-MUNICIPIO DE MIRANDA
-RUA TIRADENTES CENTRO, PACO MUNICIPAL
-MIRANDA (AG: 13)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 015 - 0013 - 030 - 3302                              LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: D5108590614                              DOM. BANC.:
-MATRÍCULA: 2067327-2021-7-2                                  DOM. ENT.: 9990013001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA FRANCISCO REBUA, S/N - SEMAFORO ESQ. 13 JUNHO 79380000
-CENTRO
-MIRANDA (AG: 13)
-Julho/2021
-10/2067327-3
-                                                        TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                            QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0289%)     (4,7390%)
-0601 Consumo em kWh                             40,00    0,693650    0,886870       35,47         35,47   17      6,03           29,44        0,31          1,39
-0601 Adic. B. Vermelha                                                               4,55          4,55   17      0,77            3,78        0,03          0,18
-     LANÇAMENTOS E SERVIÇOS
-0601 DEVOLUCAO FATURAMENTO ( - ) 09/2021                                           -41,08                 0       0,00            0,00        0,00          0,00
-0899 AJUSTE TARIFA ICMS - RTA 2021                                                   0,01                 0       0,00            0,00        0,00          0,00
-0601 AJUSTE TARIFA CONSUMO-RTA 2021                                                  0,06                 0       0,00            0,00        0,00          0,00
-0805 ATUALIZAÇÃO MONETÁRIA 05/2021                                                   0,02                 0       0,00            0,00        0,00          0,00
-0999 DEBITO A COMPENSAR 08/2021                                                      0,00                 0       0,00            0,00        0,00          0,00
-0899 DEBITO ANTERIOR 08/2021                                                         0,00                 0       0,00            0,00        0,00          0,00
-0805 MULTA 05/2021                                                                   0,70                 0       0,00            0,00        0,00          0,00
-0804 JUROS DE MORA 05/2021                                                           0,27                 0       0,00            0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                TOTAL:           0,00         40,02           6,80           33,22        0,34          1,57
-JUL/21   40,00
-JUN/21   37,00
-MAI/21   37,00
-ABR/21   43,00
-MAR/21
-FEV/21
-JAN/21
-DEZ/20
-NOV/20
-OUT/20
-SET/20
-AGO/20
-JUL/20
-DIC
-FIC
-DMIC
-DICRI
-

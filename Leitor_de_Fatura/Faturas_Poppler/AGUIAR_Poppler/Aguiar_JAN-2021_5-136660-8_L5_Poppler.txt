@@ -1,54 +1,0 @@
-PM AGUIAR CENTRO ADMINISTRATIVO
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR CENTRO ADMINISTRATIVO
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0149 - 400 - 7580                       LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00009061265                          DOM. BANC.:
-MATRÍCULA: 136660-2021-1-0                           DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA IRINEU LACERDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-Janeiro/2021
-5/136660-8
-                                                         TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                           QUANTIDADE       TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                           1.468,00    0,562110    0,779120    1.143,75      1.143,75   25      285,93         872,76        5,82         26,81
-0601 Adic. B. Amarela                                                                13,19         13,19   25        3,30          10,07        0,07          0,31
-0601 Adic. B. Vermelha                                                               65,67         65,67   25       16,42          50,11        0,33          1,54
-     LANÇAMENTOS E SERVIÇOS
-0805 ATUALIZAÇÃO MONETÁRIA 11/2020                                                    2,99                 0         0,00           0,00        0,00          0,00
-0904 COMPENSACAO POR INDICADOR-DMIC 11/2020                                          -5,85                 0         0,00           0,00        0,00          0,00
-0805 MULTA 11/2020                                                                   24,27                 0         0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 11/2020                                                            4,85                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                                 TOTAL:       1.248,87      1.222,61           305,65         932,94        6,22         28,66
-JAN/21   1.468,00
-DEZ/20   1.651,00
-NOV/20   1.534,00
-OUT/20   1.564,00
-SET/20   1.293,00
-AGO/20     859,00
-JUL/20     805,00
-JUN/20    735,00
-MAI/20     605,00
-ABR/20     740,00
-MAR/20   1.255,00
-FEV/20   1.314,00
-JAN/20     946,00
-DIC      6,47   6,86   12,94   25,89
-FIC      3,55   2,00    7,10   14,20
-DMIC     3,80   4,34
-DICRI   12,22
-

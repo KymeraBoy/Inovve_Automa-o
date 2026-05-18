@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ ANTIGA CASA DO JUIZ DE
-BREJO DO CRUZ
-RUA BENTO FERNANDO ALENCAR, S/N - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/818790-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0000697370   Energia ativa em kWh   Ponta   60912   61182   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        270,00       0,828880        223,80        8,82         223,80   20      44,76   0,630420
-Adic. B. Vermelha                                            27,96        1,10          27,96   20       5,59
-
-
-
-
-                             TOTAL:                         251,76        9,92         251,76           50,35
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         201,39    0,8795      1,77
-COFINS      201,39    4,0510      8,15
-ICMS        251,76     20,00     50,35
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-SET/25   270,00
-AGO/25   236,00
-JUL/25   212,00
-JUN/25   235,00
-MAI/25   260,00
-ABR/25   209,00
-MAR/25   258,00
-FEV/25   325,00
-JAN/25   305,00
-DEZ/24   506,00
-NOV/24   250,00
-OUT/24   271,00
-SET/24   214,00
-

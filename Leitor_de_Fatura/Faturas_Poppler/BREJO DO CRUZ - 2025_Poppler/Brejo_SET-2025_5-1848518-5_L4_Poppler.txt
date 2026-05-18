@@ -1,45 +1,0 @@
-PM BREJO DO CRUZ GINASIO
-
-RUA JOAO BOSCO FERNANDES, SN - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Setembro / 2025
-5/1848518-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7081554923   Energia ativa em kWh   Ponta   4690   5637   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH        947,00       0,828880        784,96       30,96         784,96   20      156,99   0,630420
-Adic. B. Vermelha                                            98,07        3,87          98,07   20       19,61
-
-
-
-
-                             TOTAL:                         883,03       34,83         883,03           176,60
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         706,41    0,8795       6,21
-COFINS      706,41    4,0510      28,62
-ICMS        883,03     20,00     176,60
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-SET/25     947,00
-AGO/25   1.115,00
-JUL/25   1.065,00
-JUN/25     748,00
-MAI/25     533,00
-ABR/25      91,00
-MAR/25     163,00
-FEV/25    194,00
-JAN/25    152,00
-DEZ/24    369,00
-NOV/24    254,00
-OUT/24    338,00
-SET/24    376,00
-

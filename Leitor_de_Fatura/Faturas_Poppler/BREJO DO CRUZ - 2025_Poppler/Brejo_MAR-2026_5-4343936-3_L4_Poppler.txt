@@ -1,44 +1,0 @@
-PM BREJO DO CRUZ PRACA ESTEFANIA
-MARIANA
-RUA EDUARDO DIAS MELO, SN - PRACA - 58890000
-
-
-POPULARES
-BREJO DO CRUZ (AG: 237)
-Março / 2026
-5/4343936-3
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7072120908   Energia ativa em kWh   Ponta   26271   27574   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       1.303,00       0,877990      1.144,04       34,86       1.144,04   20      228,80   0,675650
-
-
-
-
-                           TOTAL:                        1.144,04       34,86       1.144,04           228,80
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         915,23    0,6794       6,22
-COFINS      915,23    3,1295      28,64
-ICMS      1.144,04     20,00     228,80
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-MAR/26   1.303,00
-FEV/26   1.252,00
-JAN/26   1.339,00
-DEZ/25   1.483,00
-NOV/25   1.364,00
-OUT/25   1.375,00
-SET/25   1.415,00
-AGO/25   1.423,00
-JUL/25   1.466,00
-JUN/25   1.329,00
-MAI/25   1.371,00
-ABR/25   1.272,00
-MAR/25   1.318,00
-

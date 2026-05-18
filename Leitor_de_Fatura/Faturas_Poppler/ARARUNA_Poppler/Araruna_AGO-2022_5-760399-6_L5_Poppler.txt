@@ -1,47 +1,0 @@
-PM ARARUNA EM DE FAZENDA NOVA ARARUNA
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA EM DE FAZENDA NOVA ARARUNA
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 013 - 0062 - 159 - 6620                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7033298011                            DOM. BANC.:
-MATRÍCULA: 760399-2022-8-1                             DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT FAZ NOVA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/760399-6
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        412,00    0,596920    0,756230      311,56        311,56   18      56,08         255,49        1,70          7,85
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         311,56        311,56           56,08         255,49        1,70          7,85
-AGO/22    412,00
-JUL/22    285,00
-JUN/22     501,00
-MAI/22     836,00
-ABR/22   1.088,00
-MAR/22     578,00
-FEV/22     488,00
-JAN/22    453,00
-DEZ/21   1.340,00
-NOV/21   1.355,00
-OUT/21     792,00
-SET/21     270,00
-AGO/21     255,00
-DIC     24,00   3,40   0,00      0
-FIC      6,00   1,00   0,00   0,00
-DMIC    18,00   3,40
-DICRI   26,00
-

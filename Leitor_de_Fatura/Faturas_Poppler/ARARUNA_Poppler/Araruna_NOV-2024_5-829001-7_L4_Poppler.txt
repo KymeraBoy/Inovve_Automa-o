@@ -1,46 +1,0 @@
-PM ARARUNA CRECHE MUNICIPAL DE MATA
-VELHA
-SIT MATA VELHA, S/N - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Novembro / 2024
-5/829001-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008951200   Energia ativa em kWh   Ponta   23343   23945   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        602,00       0,777730        468,19       20,42         468,19   20      93,63   0,588270
-Adic. B. Amarela                                             10,99        0,47          10,99   20       2,20
-Adic. B. Vermelha                                            16,76        0,73          16,76   20       3,35
-
-
-
-
-                             TOTAL:                         495,94       21,62         495,94           99,18
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         396,74    0,9725      3,85
-COFINS      396,74    4,4795     17,77
-ICMS        495,94     20,00     99,18
-DIC     24,00   0,00   0,00   0,00
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-NOV/24   602,00 *
-OUT/24   403,00 *
-SET/24   316,00 *
-AGO/24   334,00 *
-JUL/24   322,00 *
-JUN/24   373,00 *
-MAI/24   699,00 *
-ABR/24   905,00 *
-MAR/24   848,00 *
-FEV/24   571,00
-JAN/24   414,00 *
-DEZ/23   452,00 *
-NOV/23   592,00 *
-

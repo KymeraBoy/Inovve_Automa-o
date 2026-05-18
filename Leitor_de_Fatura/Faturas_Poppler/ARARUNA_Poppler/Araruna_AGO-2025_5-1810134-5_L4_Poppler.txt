@@ -1,46 +1,0 @@
-PM ARARUNA CALCADAO
-
-SIT BALANCO, S/N - 58233000
-
-
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto / 2025
-5/1810134-5
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008837317   Energia ativa em kWh   Ponta   32296   32475   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh      KWH        179,00       0,776160        138,93        5,84         138,93   20      27,78   0,588270
-Adic. B. Vermelha                                             1,05        0,05           1,05   20       0,21
-Adic. B. Vermelha                                            16,73        0,70          16,73   20       3,35
-
-
-
-
-                             TOTAL:                         156,71        6,59         156,71           31,34
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         125,36    0,9383      1,17
-COFINS      125,36    4,3217      5,42
-ICMS        156,71     20,00     31,34
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/25   179,00
-JUL/25   572,00
-JUN/25    60,00
-MAI/25    85,00
-ABR/25    87,00
-MAR/25    69,00
-FEV/25    55,00
-JAN/25     5,00
-DEZ/24     6,00
-NOV/24     8,00
-OUT/24     4,00
-SET/24     0,00 *
-AGO/24     0,00 *
-

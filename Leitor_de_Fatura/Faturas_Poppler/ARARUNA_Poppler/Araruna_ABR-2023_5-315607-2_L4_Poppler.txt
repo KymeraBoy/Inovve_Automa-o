@@ -1,44 +1,0 @@
-PM ARARUNA CONSULTORIO ODONTOLOGICO
-
-RUA RIO BRANCO, 62 - 58233000 - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Abril / 2023
-5/315607-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000812826   Energia ativa em kWh   Ponta   42077   42714   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        637,00       0,777870        495,50       24,71         495,50   18      89,19   0,599080
-
-
-
-
-                           TOTAL:                         495,50       24,71         495,50           89,19
-          Base de Alíquota     Valor
-Tributo   Cálc.(R$)  (%)        (R$)
-PIS          406,31   1,0845    4,41
-COFINS       406,31   4,9955   20,30
-CMS          495,50    18,00   89,19
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-ABR/23   637,00
-MAR/23   573,00
-FEV/23   719,00
-JAN/23   549,00
-DEZ/22   406,00
-NOV/22    72,00
-OUT/22    69,00
-SET/22   128,00
-AGO/22   315,00
-JUL/22   391,00
-JUN/22   397,00
-MAI/22   558,00
-ABR/22   662,00
-

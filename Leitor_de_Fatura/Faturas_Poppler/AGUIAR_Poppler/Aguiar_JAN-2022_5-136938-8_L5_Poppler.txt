@@ -1,51 +1,0 @@
-PM AGUIAR SECRETARIA DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR SECRETARIA DE SAUDE
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 400 - 0140                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008479511                            DOM. BANC.:
-MATRÍCULA: 136938-2022-1-8                             DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA FRANCISCO DEMETRIO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Janeiro/2022
-5/136938-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        552,00    0,596920    0,826800      456,40        456,40   25      114,10         342,29        2,28         10,52
-0601 Adic. B. Vermelha                                                         108,57        108,57   25       27,14          81,43        0,54          2,50
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 11/2021                                                              16,46                 0         0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 11/2021                                                       1,10                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         582,53        564,97           141,24         423,72        2,82         13,02
-JAN/22   552,00
-DEZ/21   765,00
-NOV/21   804,00
-OUT/21   643,00
-SET/21   594,00
-AGO/21   553,00
-JUL/21   482,00
-JUN/21   467,00
-MAI/21   517,00
-ABR/21   577,00
-MAR/21   727,00
-FEV/21   658,00
-JAN/21   815,00
-DIC      6,47   0,00   12,94   25,89
-FIC      3,48   0,00    6,97   13,95
-DMIC     3,80   0,00
-DICRI   12,22
-

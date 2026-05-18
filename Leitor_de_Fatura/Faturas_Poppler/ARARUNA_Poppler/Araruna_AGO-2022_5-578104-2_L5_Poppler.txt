@@ -1,47 +1,0 @@
-PM ARARUNA CRECHE
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA CRECHE
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 012 - 0062 - 153 - 4740                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00000061154                            DOM. BANC.:
-MATRÍCULA: 578104-2022-8-7                             DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT CARNAUBA, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/578104-2
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        150,00    0,596920    0,756230      113,43        113,43   18      20,41          93,01        0,62          2,86
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         113,43        113,43           20,41          93,01        0,62          2,86
-AGO/22   150,00
-JUL/22   142,00
-JUN/22   173,00
-MAI/22   168,00
-ABR/22   183,00
-MAR/22   181,00
-FEV/22   129,00
-JAN/22   139,00
-DEZ/21   173,00
-NOV/21   163,00
-OUT/21   162,00
-SET/21    95,00
-AGO/21     0,00 *
-DIC     24,00   0,00   0,00      0
-FIC      6,00   0,00   0,00   0,00
-DMIC    18,00   0,00
-DICRI   26,00
-

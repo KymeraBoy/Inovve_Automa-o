@@ -1,46 +1,0 @@
-PM AGUIAR
-RUA BOA VISTA, 8 - 58778000
-CENTRO
-AGUIAR-PB (AG: 144)
-                              ENE
-Janeiro/2020
-5/136378-7
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                        508,00   0,545400        0,785840        399,21        399,21    25      99,80          399,21       3,98        18,36
-0601 Adic. B. Amarela                                                                 9,83          9,83    25       2,46            9,83       0,10         0,45
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              409,04        409,04           102,26          409,04       4,08        18,80
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         508
-DEZ/19         570
-NOV/19         522
-OUT/19         457
-SET/19         453
-AGO/19         295
-JUL/19         247
-JUN/19         389
-MAI/19         494
-ABR/19        1259
-MAR/19         164
-FEV/19         209
-JAN/19        1179
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

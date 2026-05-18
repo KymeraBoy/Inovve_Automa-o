@@ -1,46 +1,0 @@
-PM LUCENA ESCOLA ANTENOR LOPES FALCAO
-
-RUA DA CARRAPETA, 0 - 58315000
-
-
-LUCENA
-LUCENA (AG: 1)
-Novembro / 2024
-5/2055893-8
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-7021983910   Energia ativa em kWh   Ponta   71952   73894   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH       1.942,00       0,777730      1.510,37       65,87       1.510,37   20      302,07   0,588270
-Adic. B. Amarela                                              24,19        1,06          24,19   20        4,84
-Adic. B. Vermelha                                            101,12        4,41         101,12   20       20,22
-
-
-
-
-                             TOTAL:                        1.635,68       71,34       1.635,68           327,13
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.308,53    0,9725      12,73
-COFINS    1.308,53    4,4795      58,61
-ICMS      1.635,68     20,00     327,13
-DIC     12,00   0,00   0,00   0,00
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-NOV/24   1.942,00 *
-OUT/24   1.805,00 *
-SET/24   2.143,00 *
-AGO/24   2.141,00 *
-JUL/24   1.235,00 *
-JUN/24   2.230,00 *
-MAI/24   2.530,00 *
-ABR/24   2.493,00 *
-MAR/24   2.345,00 *
-FEV/24   1.542,00
-JAN/24   1.192,00 *
-DEZ/23   2.098,00 *
-NOV/23   1.828,00 *
-

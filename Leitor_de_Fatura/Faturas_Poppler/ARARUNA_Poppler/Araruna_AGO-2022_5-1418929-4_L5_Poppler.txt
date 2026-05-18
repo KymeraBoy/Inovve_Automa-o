@@ -1,47 +1,0 @@
-PM ARARUNA
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA
-RUA PROFESSOR MOREIRA 21 SL 9 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 014 - 0062 - 080 - 3080                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008170032                            DOM. BANC.:
-MATRÍCULA: 1418929-2022-8-9                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA BENEDITO FIALHO, 93 - SL 9 58233000
-CENTRO
-ARARUNA (AG: 62)
-Agosto/2022
-5/1418929-4
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   22,68         22,68   18      4,08           18,60        0,12          0,57
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          22,68         22,68           4,08           18,60        0,12          0,57
-AGO/22   5,00
-JUL/22   0,00 *
-JUN/22   1,00
-MAI/22   0,00 *
-ABR/22   0,00 *
-MAR/22   2,00
-FEV/22   6,00
-JAN/22   7,00
-DEZ/21   6,00
-NOV/21   4,00
-OUT/21   1,00
-SET/21   0,00 *
-AGO/21   0,00 *
-DIC     12,00   0,00   0,00      0
-FIC      4,00   0,00   0,00   0,00
-DMIC     9,00   0,00
-DICRI   13,00
-

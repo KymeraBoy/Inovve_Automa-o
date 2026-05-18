@@ -1,49 +1,0 @@
-PM AGUIAR SECRETARIA DE SAUDE
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR SECRETARIA DE SAUDE
-RUA BOA VISTA SN SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0149 - 400 - 0140                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008479511                            DOM. BANC.:
-MATRÍCULA: 136938-2021-12-7                            DOM. ENT.: 9999149003
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA FRANCISCO DEMETRIO, S/N
-CENTRO
-AGUIAR (AG: 144)
-Dezembro/2021
-5/136938-8
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        765,00    0,596920    0,826800      632,51        632,51   25      158,13         474,38        3,16         14,58
-0601 Adic. B. Amarela                                                           67,85         67,85   25       16,96          50,89        0,34          1,56
-0601 Adic. B. Vermelha                                                          82,60         82,60   25       20,65          61,96        0,41          1,90
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         782,96        782,96           195,74         587,23        3,91         18,04
-DEZ/21   765,00
-NOV/21   804,00
-OUT/21   643,00
-SET/21   594,00
-AGO/21   553,00
-JUL/21   482,00
-JUN/21   467,00
-MAI/21   517,00
-ABR/21   577,00
-MAR/21   727,00
-FEV/21   658,00
-JAN/21   815,00
-DEZ/20   845,00
-DIC      6,47   0,00   12,94   25,89
-FIC      3,48   0,00    6,97   13,95
-DMIC     3,80   0,00
-DICRI   12,22
-

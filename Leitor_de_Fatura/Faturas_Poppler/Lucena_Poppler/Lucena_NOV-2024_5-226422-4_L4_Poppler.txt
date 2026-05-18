@@ -1,46 +1,0 @@
-P M L GR.ESC.MUNICIPAL
-
-RUA DESP JOAO ARAUJO DANTAS, S/N - 58315000
-
-
-COSTINHA
-LUCENA (AG: 1)
-Novembro / 2024
-5/226422-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-0000130677   Energia ativa em kWh   Ponta   81112   82712   1
-                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH       1.600,00       0,777730      1.244,38       54,27       1.244,38   20      248,87   0,588270
-Adic. B. Amarela                                              17,09        0,74          17,09   20        3,42
-Adic. B. Vermelha                                             95,18        4,15          95,18   20       19,04
-
-
-
-
-                             TOTAL:                        1.356,65       59,16       1.356,65           271,33
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.085,31    0,9725      10,55
-COFINS    1.085,31    4,4795      48,61
-ICMS      1.356,65     20,00     271,33
-DIC     12,00   2,42   0,00   0,00
-FIC      4,00   1,00   0,00   0,00
-DMIC     9,00   2,42
-DICRI   13,00
-NOV/24   1.600,00 *
-OUT/24   1.602,00 *
-SET/24   2.091,00 *
-AGO/24   1.502,00 *
-JUL/24   1.131,00 *
-JUN/24   2.608,00 *
-MAI/24   1.397,00 *
-ABR/24   1.903,00 *
-MAR/24   1.585,00 *
-FEV/24   1.338,00
-JAN/24     803,00 *
-DEZ/23   1.610,00 *
-NOV/23   1.639,00 *
-

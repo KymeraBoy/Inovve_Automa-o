@@ -1,46 +1,0 @@
-PM ARARUNA GRUPO ESCOLAR
-
-RUA CEL PEDRO TARGINO, S/N - 58233000 - 58233000
-
-
-ARARUNA
-ARARUNA (AG: 62)
-Setembro / 2023
-5/315259-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0001240946   Energia ativa em kWh   Ponta   226690   228385   1
-                                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                           Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                           KWH       1.695,00       0,762540      1.292,51       39,64       1.292,51   18      232,65   0,601900
-LANÇAMENTOS E SERVIÇOS
-COMPENSACAO POR INDICADOR-DMIC 07/2023                                           -135,47        0,00           0,00             0,00
-
-
-
-
-                                                  TOTAL:                        1.157,04       39,64       1.292,51           232,65
-          Base de Alíquota      Valor
-Tributo   Cálc.(R$)  (%)         (R$)
-PIS        1.059,85   0,6671     7,07
-COFINS     1.059,85   3,0729    32,57
-CMS        1.292,51    18,00   232,65
-DIC     12,00   9,33   0,00   0,00
-FIC      4,00   1,00   0,00   0,00
-DMIC     9,00   9,33
-DICRI   13,00
-SET/23   1.695,00
-AGO/23   1.724,00
-JUL/23   1.372,00
-JUN/23   1.469,00
-MAI/23   1.689,00
-ABR/23   1.769,00
-MAR/23   1.456,00
-FEV/23   1.548,00 *
-JAN/23     599,00
-DEZ/22   1.431,00
-NOV/22   1.855,00
-OUT/22   2.138,00
-SET/22   2.121,00
-

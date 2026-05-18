@@ -1,44 +1,0 @@
-PM GURINHEM QUIOSQUE 8
-
-AV SEN HUMBERTO LUCENA, 09 - BOX 09 - 58356000
-
-
-CENTRO
-GURINHEM (AG: 113)
-Fevereiro / 2026
-5/2078859-2
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5112630249   Energia ativa em kWh   Ponta   15305   15868   1
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH        563,00       0,894390        503,54       22,44         503,54   20      100,70   0,675650
-
-
-
-
-                           TOTAL:                         503,54       22,44         503,54           100,70
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         402,83    0,9940       4,00
-COFINS      402,83    4,5784      18,44
-ICMS        503,54     20,00     100,70
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-FEV/26   563,00
-JAN/26   694,00
-DEZ/25   629,00
-NOV/25   645,00
-OUT/25   553,00
-SET/25   520,00
-AGO/25   613,00
-JUL/25   467,00
-JUN/25   139,00
-MAI/25    68,00
-ABR/25    18,00
-MAR/25    90,00
-FEV/25    42,00
-

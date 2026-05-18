@@ -1,47 +1,0 @@
- PM AGUIAR SECRETARIA DE EDUCACAO E CULTURA
-URA
- RUA PROJETADA, S/N - 58778000
- CENTRO
- AGUIAR-PB (AG: 144)
-                                              ENE
-Janeiro/2020
-5/136905-7
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: TRIFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                        158,00   0,545400        0,785840        124,16        124,16    25     31,04          124,16       1,24         5,71
-0601 Adic. B. Amarela                                                                 3,05          3,05    25      0,76            3,05       0,03         0,14
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              127,21        127,21           31,80          127,21       1,27         5,85
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         158
-DEZ/19         360
-NOV/19         295
-OUT/19         325
-SET/19         287
-AGO/19         209
-JUL/19         203
-JUN/19         260
-MAI/19         251
-ABR/19         410
-MAR/19         358
-FEV/19         323
-JAN/19         183
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

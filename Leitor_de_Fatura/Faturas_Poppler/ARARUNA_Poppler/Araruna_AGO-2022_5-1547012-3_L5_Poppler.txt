@@ -1,47 +1,0 @@
-PM ARARUNA ESCOLA MUNICIPAL DE MUQUEM
-
-DOMICÍLIO DE ENTREGA
-PM ARARUNA ESCOLA MUNICIPAL DE MUQUEM
-RUA PROFESSOR MOREIRA 21 - CEP:58233000
-ARARUNA (AG: 62)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 012 - 0062 - 153 - 8182                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008442380                            DOM. BANC.:
-MATRÍCULA: 1547012-2022-8-8                            DOM. ENT.: 9999062001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-LOC DIST DE MUQUEM, S/N - 58233000
-AREA RURAL
-ARARUNA (AG: 62)
-Agosto/2022
-5/1547012-3
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        141,00    0,596920    0,756230      106,62        106,62   18      19,19          87,43        0,58          2,69
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         106,62        106,62           19,19          87,43        0,58          2,69
-AGO/22   141,00
-JUL/22   130,00
-JUN/22   153,00
-MAI/22   151,00
-ABR/22   131,00
-MAR/22    80,00
-FEV/22    24,00
-JAN/22    24,00
-DEZ/21    95,00
-NOV/21    38,00
-OUT/21    34,00
-SET/21    31,00
-AGO/21    21,00
-DIC     24,00   2,92   0,00      0
-FIC      6,00   1,00   0,00   0,00
-DMIC    18,00   2,92
-DICRI   26,00
-

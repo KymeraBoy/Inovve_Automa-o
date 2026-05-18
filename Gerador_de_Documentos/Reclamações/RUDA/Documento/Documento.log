@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  15 MAY 2026 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  18 MAY 2026 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,7 +323,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 <../Header_Ruda.png, id=1, 483.30562pt x 74.52844pt>
 File: ../Header_Ruda.png Graphic file (type png)
 <use ../Header_Ruda.png>
-Package pdftex.def Info: ../Header_Ruda.png  used on input line 11.
+Package pdftex.def Info: ../Header_Ruda.png  used on input line 8.
 (pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
 
 
@@ -334,49 +334,51 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.35004pt}.
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 11.
+ 8.
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 11.
+ 8.
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 11.
+ 8.
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 11.
+ 8.
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-1.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+.
  (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
  [1
 
 {C:/Users/Usuário 1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
 /Usuário 1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Head
-er_Ruda.png>]) (../Base_do_documento/anexos.tex)
+er_Ruda.png>]) (../Base_do_documento/anexos.tex
+\totalAditivos=\count297
+)
 (../Tipos_de_reclamacao/Enquadramento_AES.tex
 File: ../Header_Ruda.png Graphic file (type png)
 <use ../Header_Ruda.png>
-Package pdftex.def Info: ../Header_Ruda.png  used on input line 59.
+Package pdftex.def Info: ../Header_Ruda.png  used on input line 16.
 (pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
 
 
@@ -391,7 +393,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
-) (../Base_do_documento/final.tex
+File: ../Header_Ruda.png Graphic file (type png)
+<use ../Header_Ruda.png>
+Package pdftex.def Info: ../Header_Ruda.png  used on input line 76.
+(pdftex.def)             Requested size: 461.30588pt x 71.13188pt.
+
+
+Package fancyhdr Warning: \headheight is too small (71.13188pt): 
+(fancyhdr)                Make it at least 75.48192pt, for example:
+(fancyhdr)                \setlength{\headheight}{75.48192pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-4.35004pt}.
+
+[3]) (../Base_do_documento/final.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -411,27 +425,27 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-4.35004pt}.
 
-[3] (Documento.aux)
+[4] (Documento.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4595 strings out of 467867
- 78880 string characters out of 5415879
- 507798 words of memory out of 5000000
- 33400 multiletter control sequences out of 15000+600000
+ 4597 strings out of 467867
+ 78911 string characters out of 5415879
+ 505807 words of memory out of 5000000
+ 33402 multiletter control sequences out of 15000+600000
  668255 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,70p,1128b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,15n,70p,1128b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb
 8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
 /utmr8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on Documento.pdf (3 pages, 92703 bytes).
+Output written on Documento.pdf (4 pages, 93517 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,46 +1,0 @@
-PM ARARUNA POLICLINICA
-
-RUA SEVERINO CABRAL DE LUCENA, S/N - 58233000
-
-
-CENTRO
-ARARUNA (AG: 62)
-Agosto / 2025
-5/1263474-7
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: TRIFASICO
-0008370965   Energia ativa em kWh   Ponta   134489   135442   1
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh      KWH        953,00       0,776160        739,68       31,12         739,68   20      147,93   0,588270
-Adic. B. Vermelha                                            57,05        2,40          57,05   20       11,41
-Adic. B. Vermelha                                            23,78        1,00          23,78   20        4,76
-
-
-
-
-                             TOTAL:                         820,51       34,52         820,51           164,10
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         656,41    0,9383       6,16
-COFINS      656,41    4,3217      28,36
-ICMS        820,51     20,00     164,10
-DIC     10,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     7,00   0,00
-DICRI   13,00
-AGO/25    953,00
-JUL/25    985,00
-JUN/25   1.309,00
-MAI/25   2.104,00
-ABR/25   1.916,00
-MAR/25   1.968,00
-FEV/25   1.977,00
-JAN/25   1.782,00
-DEZ/24   2.095,00
-NOV/24   1.707,00
-OUT/24   1.962,00
-SET/24   1.240,00
-AGO/24   1.089,00
-

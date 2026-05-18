@@ -1,45 +1,0 @@
-PM BREJO DA CRUZ
-
-RUA PRESIDENTE JOAO PESSOA, SN - 58890000
-
-
-CENTRO
-BREJO DO CRUZ (AG: 237)
-Janeiro / 2026
-5/4585576-4
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL
-LIGAÇÃO: MONOFASICO
-W5090181283   Energia ativa em kWh   Ponta   564   729   1
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH        165,00       0,902460        148,90        7,64         148,90   20      29,78   0,675650
-Adic. B. Amarela                                             2,46        0,12           2,46   20       0,49
-
-
-
-
-                            TOTAL:                         151,36        7,76         151,36           30,27
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         121,08    1,1446      1,38
-COFINS      121,08    5,2721      6,38
-ICMS        151,36     20,00     30,27
-DIC     12,00   0,00   999,00   999,00
-FIC      4,00   0,00   999,00   999,00
-DMIC     9,00   0,00
-DICRI   13,00
-JAN/26   165,00
-DEZ/25   164,00
-NOV/25   178,00
-OUT/25   212,00
-SET/25     9,00
-AGO/25     1,00
-JUL/25
-JUN/25
-MAI/25
-ABR/25
-MAR/25
-FEV/25
-JAN/25
-

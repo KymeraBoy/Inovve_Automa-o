@@ -1,48 +1,0 @@
-EMEF JOANA LACERDA LEITE AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF JOANA LACERDA LEITE AGUIAR
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0149 - 400 - 0180                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008478220                          DOM. BANC.:
-MATRÍCULA: 888885-2020-12-2                          DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA ANTONIO ALVES DE ALMEIDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-Dezembro/2020
-5/888885-1
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
-0601 Consumo em kWh                        297,00    0,562110    0,797710      236,92        236,92   25      59,23         181,21        1,92          8,83
-0601 Adic. B. Vermelha                                                          13,99         13,99   25       3,49          10,70        0,11          0,52
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         250,91        250,91           62,72         191,91        2,03          9,35
-DEZ/20   297,00
-NOV/20   308,00
-OUT/20     0,00 *
-SET/20    30,00 *
-AGO/20     0,00
-JUL/20   161,00 *
-JUN/20   166,00 *
-MAI/20   170,00 *
-ABR/20    85,00
-MAR/20   209,00
-FEV/20    50,00
-JAN/20    21,00
-DEZ/19   230,00
-DIC      6,47   0,60   12,94   25,89
-FIC      3,55   2,00    7,10   14,20
-DMIC     3,80   0,40
-DICRI   12,22
-

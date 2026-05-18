@@ -1,46 +1,0 @@
-PM AGUIAR PALCO
-PC MIGUEL ISIDRO LEITE, S/N - 58778000
-CENTRO
-AGUIAR-PB (AG: 144)
-                                         ENE
-Janeiro/2020
-5/1545315-2
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-LIGAÇÃO: MONOFASICO
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                        112,00   0,545400        0,785840         88,01         88,01    25     22,00           88,01       0,88         4,04
-0601 Adic. B. Amarela                                                                 2,16          2,16    25      0,54            2,16       0,02         0,10
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               90,17         90,17           22,54           90,17       0,90         4,13
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20         112
-DEZ/19          49
-NOV/19          44
-OUT/19          47
-SET/19          70
-AGO/19          95
-JUL/19          74
-JUN/19          65
-MAI/19          70
-ABR/19          61
-MAR/19          50
-FEV/19          68
-JAN/19         143
-DIC MENSAL        6,87   0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61   0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97   0,00
-DICRI            12,22
-

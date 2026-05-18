@@ -1,48 +1,0 @@
-PM AGUIAR SECRETARIA DE EDUCACAO E CULTURA
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR SECRETARIA DE EDUCACAO E CULTURA
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 010 - 0149 - 420 - 4780                       LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008861348                          DOM. BANC.:
-MATRÍCULA: 136905-2020-12-8                          DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA PROJETADA, S/N
-CENTRO
-AGUIAR (AG: 144)
-Dezembro/2020
-5/136905-7
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
-0601 Consumo em kWh                        317,00    0,562110    0,797710      252,87        252,87   25      63,22         193,41        2,04          9,42
-0601 Adic. B. Vermelha                                                          15,94         15,94   25       3,98          12,19        0,13          0,59
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         268,81        268,81           67,20         205,60        2,17         10,01
-DEZ/20   317,00
-NOV/20   268,00
-OUT/20   276,00
-SET/20   236,00
-AGO/20   153,00
-JUL/20    63,00
-JUN/20    79,00
-MAI/20    94,00
-ABR/20    99,00
-MAR/20   332,00
-FEV/20   331,00
-JAN/20   158,00
-DEZ/19   360,00
-DIC      6,47   2,00   12,94   25,89
-FIC      3,55   3,00    7,10   14,20
-DMIC     3,80   0,40
-DICRI   12,22
-
