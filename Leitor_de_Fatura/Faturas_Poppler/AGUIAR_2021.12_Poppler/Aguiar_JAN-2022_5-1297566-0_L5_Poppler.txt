@@ -1,0 +1,54 @@
+EMEF JOSE CICERO DE LACERDA AGUIAR
+
+DOMICÍLIO DE ENTREGA
+EMEF JOSE CICERO DE LACERDA AGUIAR
+RUA BOA VISTA S/N S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0149 - 473 - 3200                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00001151944                            DOM. BANC.:
+MATRÍCULA: 1297566-2022-1-0                            DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT SERRA DE SAO PEDRO, S/N
+AREA RURAL
+AGUIAR (AG: 144)
+Janeiro/2022
+5/1297566-0
+                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                            53,00    0,596920    0,826800       43,82         43,82   25      10,96          32,86        0,22          1,00
+0601 Adic. B. Vermelha                                                             10,42         10,42   25       2,60           7,81        0,05          0,24
+     LANÇAMENTOS E SERVIÇOS
+0999 ATUALIZAÇÃO MONETARIA ART.113 04/2021                                         -0,01                 0        0,00           0,00        0,00          0,00
+0904 COMPENSACAO POR INDICADOR-DMIC 11/2021                                        -2,17                 0        0,00           0,00        0,00          0,00
+0904 COMPENSACAO POR INDICADOR-DMIC 04/2021                                        -0,31                 0        0,00           0,00        0,00          0,00
+0805 MULTA 11/2021                                                                  0,98                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 11/2021                                                          0,07                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                               TOTAL:          52,80         54,24           13,56          40,67        0,27          1,24
+JAN/22   53,00
+DEZ/21   61,00
+NOV/21   48,00
+OUT/21   74,00
+SET/21   68,00
+AGO/21   71,00
+JUL/21   64,00
+JUN/21   63,00
+MAI/21   61,00
+ABR/21   68,00
+MAR/21   74,00
+FEV/21   63,00
+JAN/21   68,00
+DIC     11,94   13,07   23,89   47,79
+FIC      7,82    1,00   15,64   31,28
+DMIC     6,59   13,07
+DICRI   16,60
+

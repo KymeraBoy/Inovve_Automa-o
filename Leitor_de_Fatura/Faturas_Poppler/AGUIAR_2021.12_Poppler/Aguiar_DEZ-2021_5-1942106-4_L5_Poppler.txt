@@ -1,0 +1,49 @@
+ESCOLA HORACIO RAMALHO
+
+DOMICÍLIO DE ENTREGA
+ESCOLA HORACIO RAMALHO
+RUA BOA VISTA S/N S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0149 - 457 - 2500                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5048237589                            DOM. BANC.:
+MATRÍCULA: 1942106-2021-12-3                           DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT RIACHO VERDE, S/N
+AREA RURAL
+AGUIAR (AG: 144)
+Dezembro/2021
+5/1942106-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        241,00    0,596920    0,826800      199,26        199,26   25      49,82         149,44        0,99          4,59
+0601 Adic. B. Amarela                                                           19,86         19,86   25       4,96          14,90        0,10          0,46
+0601 Adic. B. Vermelha                                                          27,53         27,53   25       6,88          20,65        0,14          0,63
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         246,65        246,65           61,66         184,99        1,23          5,68
+DEZ/21   241,00
+NOV/21   211,00
+OUT/21   229,00
+SET/21   207,00
+AGO/21   278,00
+JUL/21   313,00
+JUN/21   216,00
+MAI/21   339,00
+ABR/21   312,00
+MAR/21   213,00
+FEV/21    72,00
+JAN/21   160,00
+DEZ/20   167,00
+DIC     11,94   0,00   23,89   47,79
+FIC      7,82   0,00   15,64   31,28
+DMIC     6,59   0,00
+DICRI   16,60
+

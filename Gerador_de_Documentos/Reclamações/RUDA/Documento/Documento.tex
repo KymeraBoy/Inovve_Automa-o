@@ -1,0 +1,27 @@
+% Configurações Gerais do Documento
+\input{../Base_do_documento/preambulo.tex} 
+% Variáveis do Município
+
+% ESCOLHA DO MUNICÍPIO
+\input{../../Dados_Municipios/Dados_Gurinhem.tex}
+% Variáveis da Reclamação
+\newcommand{\Reclamacao}{RECLAMAÇÃO DE COBRANÇA INDEVIDA SOBRE ENQUADRAMENTO TARIFÁRIO INCORRETO}
+\newcommand{\numReclamacao}{037/2026}
+\newcommand{\unidadeConsumidora}{5/1543357-6}
+
+
+% ============================================================
+
+\begin{document}
+\input{../Base_do_documento/intro.tex}
+\input{../Base_do_documento/legitimidade.tex}
+\input{../Base_do_documento/anexos.tex}
+
+% ESCOLHA DA RECLAMAÇÃO
+\input{../Tipos_de_reclamacao/Enquadramento_AES.tex}
+\input{../Base_do_documento/final.tex}
+
+
+\end{document}
+
+% REC-\numReclamacao-\nomeMunicipioMaisculo-\tipoReclamacao-\unidadeConsumidora

@@ -1,0 +1,44 @@
+PM BREJO DO CRUZ ESTACAO ELEVATORIA
+
+SIT OLHO DAGUA, S/N - 58890000
+
+
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Abril / 2026
+5/1759991-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008743117   Energia ativa em kWh   Ponta   37406   37626   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        220,00       0,881950        194,03        6,58         194,03   20      38,80   0,675650
+
+
+
+
+                           TOTAL:                         194,03        6,58         194,03           38,80
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         155,22    0,7563      1,17
+COFINS      155,22    3,4837      5,41
+ICMS        194,03     20,00     38,80
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/26   220,00
+MAR/26   175,00
+FEV/26   140,00
+JAN/26   138,00
+DEZ/25   144,00
+NOV/25   144,00
+OUT/25   125,00
+SET/25   108,00
+AGO/25   120,00
+JUL/25   105,00
+JUN/25   112,00
+MAI/25   151,00
+ABR/25   182,00
+

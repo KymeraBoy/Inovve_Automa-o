@@ -1,0 +1,47 @@
+PM AGUIAR ACADEMIA DE SAUDE
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR ACADEMIA DE SAUDE
+RUA BOA VISTA SN RUA SATURNINO VIEIRA
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0149 - 420 - 4490                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008549649                            DOM. BANC.:
+MATRÍCULA: 1633650-2022-6-4                            DOM. ENT.: 9999149003
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PROJETADA, S/N - RUA SATURNINO VIEIRA
+EVANDRO CABRAL
+AGUIAR (AG: 144)
+Junho/2022
+5/1633650-5
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   24,80         24,80   25      6,20           18,60        0,12          0,57
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          24,80         24,80           6,20           18,60        0,12          0,57
+JUN/22   11,00
+MAI/22   23,00
+ABR/22    0,00 *
+MAR/22   12,00
+FEV/22   12,00
+JAN/22   11,00
+DEZ/21   20,00
+NOV/21   17,00
+OUT/21   17,00
+SET/21   13,00
+AGO/21    5,00
+JUL/21    2,00
+JUN/21   10,00
+DIC     14,00   0,00   0,00      0
+FIC      5,00   0,00   0,00   0,00
+DMIC    10,00   0,00
+DICRI   13,00
+

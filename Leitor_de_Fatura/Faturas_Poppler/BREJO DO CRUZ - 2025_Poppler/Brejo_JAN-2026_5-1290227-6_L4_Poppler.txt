@@ -1,0 +1,45 @@
+EMEF MARIA DE LOURDES GARCIA BREJO DO
+CRUZ
+SIT POCO DA ONCA, S/N - 58890000
+
+
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Janeiro / 2026
+5/1290227-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+W5249156838   Energia ativa em kWh   Ponta   1952   2131   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh     KWH        179,00       0,902460        161,54        8,29         161,54   20      32,30   0,675650
+Adic. B. Amarela                                             3,14        0,16           3,14   20       0,63
+
+
+
+
+                            TOTAL:                         164,68        8,45         164,68           32,93
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         131,74    1,1446      1,51
+COFINS      131,74    5,2721      6,94
+ICMS        164,68     20,00     32,93
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+JAN/26   179,00
+DEZ/25   257,00
+NOV/25   214,00
+OUT/25   220,00
+SET/25   229,00
+AGO/25   220,00
+JUL/25   137,00
+JUN/25   150,00
+MAI/25   129,00
+ABR/25   113,00
+MAR/25   121,00
+FEV/25   156,00
+JAN/25     6,00
+

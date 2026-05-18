@@ -1,0 +1,44 @@
+EMEF FRANCISCA GOMES BATISTA BREJO DO
+CRUZ
+RUA JOAO BOSCO FERNANDES, 277 - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Março / 2026
+5/1023519-0
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008387713   Energia ativa em kWh   Ponta   242094   246042   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH       3.948,00       0,877990      3.466,36      105,62       3.466,36   20      693,27   0,675650
+
+
+
+
+                           TOTAL:                        3.466,36      105,62       3.466,36           693,27
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       2.773,08    0,6794      18,84
+COFINS    2.773,08    3,1295      86,78
+ICMS      3.466,36     20,00     693,27
+DIC     12,00   6,20   999,00   999,00
+FIC      4,00   1,00   999,00   999,00
+DMIC     9,00   6,20
+DICRI   13,00
+MAR/26   3.948,00
+FEV/26   2.356,00
+JAN/26   1.810,00
+DEZ/25   5.625,00
+NOV/25   5.083,00
+OUT/25   5.557,00
+SET/25   5.092,00
+AGO/25   4.758,00
+JUL/25   3.499,00
+JUN/25   4.933,00
+MAI/25   4.200,00
+ABR/25   3.988,00
+MAR/25   4.432,00
+

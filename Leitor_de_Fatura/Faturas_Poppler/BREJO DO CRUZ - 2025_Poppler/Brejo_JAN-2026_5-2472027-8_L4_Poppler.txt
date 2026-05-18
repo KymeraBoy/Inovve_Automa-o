@@ -1,0 +1,45 @@
+PM BREJO DO CRUZ PSF CENTRO
+
+RUA VALDEVINO LOBO, 161 - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Janeiro / 2026
+5/2472027-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+W7071452163   Energia ativa em kWh   Ponta   8282   9773   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh     KWH       1.491,00       0,902460      1.345,58       69,07       1.345,58   20      269,11   0,675650
+Adic. B. Amarela                                             23,46        1,20          23,46   20        4,69
+
+
+
+
+                            TOTAL:                        1.369,04       70,27       1.369,04           273,80
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.095,22    1,1446      12,53
+COFINS    1.095,22    5,2721      57,74
+ICMS      1.369,04     20,00     273,80
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+JAN/26   1.491,00
+DEZ/25   1.793,00
+NOV/25   1.817,00
+OUT/25   1.656,00
+SET/25   1.369,00
+AGO/25   1.568,00
+JUL/25   1.335,00
+JUN/25   1.567,00
+MAI/25   1.499,00
+ABR/25   1.309,00
+MAR/25   1.392,00
+FEV/25   1.546,00
+JAN/25   1.312,00
+

@@ -1,0 +1,47 @@
+PM AGUIAR GINASIO DE ESPORTES
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR GINASIO DE ESPORTES
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0149 - 410 - 5280                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008954123                            DOM. BANC.:
+MATRÍCULA: 1264651-2022-6-8                            DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PEDRO NUNES, S/N
+CENTRO
+AGUIAR (AG: 144)
+Junho/2022
+5/1264651-9
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        588,00    0,596920    0,826800      486,16        486,16   25      121,54         364,62        2,43         11,20
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         486,16        486,16           121,54         364,62        2,43         11,20
+JUN/22    588,00
+MAI/22    633,00
+ABR/22    572,00
+MAR/22    536,00
+FEV/22    358,00
+JAN/22    910,00
+DEZ/21    796,00
+NOV/21    544,00
+OUT/21     592,00
+SET/21   1.070,00
+AGO/21      87,00
+JUL/21     212,00
+JUN/21     320,00
+DIC     14,00   0,00   0,00      0
+FIC      5,00   0,00   0,00   0,00
+DMIC    10,00   0,00
+DICRI   13,00
+

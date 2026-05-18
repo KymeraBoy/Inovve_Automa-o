@@ -1,0 +1,44 @@
+PM AGUIAR IGREJA SAO SEBASTIAO
+
+RUA IRINEU LACERDA, S/N - 58778000
+
+
+CENTRO
+AGUIAR (AG: 144)
+Janeiro / 2024
+5/136687-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0000830658   Energia ativa em kWh   Ponta   22781   23715   1
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh              934,00       0,799640        746,86       35,05         746,86   20      149,37   0,602190
+
+
+
+
+                          TOTAL:                         746,86       35,05         746,86           149,37
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         597,48    1,0464       6,25
+COFINS      597,48    4,8196      28,80
+ICMS        746,86     20,00     149,37
+DIC     12,00   0,00   0,00   0,00
+FIC      5,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+JAN/24   934,00   0,00
+DEZ/23   766,00   0,00
+NOV/23   606,00   0,00
+OUT/23   830,00   0,00
+SET/23   552,00   0,00
+AGO/23   479,00   0,00
+JUL/23   473,00   0,00
+JUN/23   577,00   0,00
+MAI/23   620,00   0,00
+ABR/23   606,00   0,00
+MAR/23   536,00   0,00
+FEV/23   592,00   0,00
+JAN/23   752,00   0,00
+

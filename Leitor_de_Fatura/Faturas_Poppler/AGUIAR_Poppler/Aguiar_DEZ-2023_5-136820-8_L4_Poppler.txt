@@ -1,0 +1,46 @@
+PM AGUIAR CENTRO DE SAUDE
+
+RUA SEVERINO AMANCIO, S/N - 58778000
+
+
+CENTRO
+AGUIAR (AG: 144)
+Dezembro / 2023
+5/136820-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. ESTADUAL
+LIGAÇÃO: TRIFASICO
+0008762466   Energia ativa em kWh   Ponta   208875   211689   1
+                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                       2.814,00       0,773670      2.177,14       90,70       2.177,14   18      391,88   0,602190
+LANÇAMENTOS E SERVIÇOS
+CONTRIBUIÇÃO ILUM PUBLICA                                             9,93        0,00                  0         0,00
+
+
+
+
+                                    TOTAL:                        2.187,07       90,70       2.177,14           391,88
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.785,25    0,9062      16,18
+COFINS    1.785,25    4,1741      74,52
+ICMS      2.177,14     18,00     391,88
+DIC     12,00   0,00   0,00   0,00
+FIC      5,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+DEZ/23   2.814,00   0,00
+NOV/23   2.494,00   0,00
+OUT/23   2.532,00   0,00
+SET/23   2.294,00   0,00
+AGO/23   1.943,00   0,00
+JUL/23   1.646,00   0,00
+JUN/23   2.218,00   0,00
+MAI/23   2.622,00   0,00
+ABR/23   2.061,00   0,00
+MAR/23   2.239,00   0,00
+FEV/23   2.426,00   0,00
+JAN/23   2.107,00   0,00
+DEZ/22   2.459,00   0,00
+

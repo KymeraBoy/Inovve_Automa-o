@@ -1,0 +1,48 @@
+EMEF PROF MANOEL TORRES BREJO DO CRUZ
+
+RUA JOAO BOSCO FERNANDES, 277 - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Abril / 2026
+5/83399-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+W0015284318   Energia ativa em kWh   Ponta   6529   13760   1
+W0015284318   Energia injetada       Ponta     16      29   1
+                                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
+Itens da Fatura                           Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
+Consumo em kWh                           KWH       7.231,00       0,881950      6.377,43      216,32       6.377,43   20      1.275,48   0,675650
+Energia Atv Injetada GDI                 KWH         13,00        0,772470         -10,04       -0,39         -4,34   20         -0,87   0,675650
+LANÇAMENTOS E SERVIÇOS
+IND VIOL PZ VIST MED ATÉ 2,3KV 02/2026                                           -732,77        0,00           0,00               0,00
+
+
+
+
+                                                  TOTAL:                        5.634,62      215,93       6.373,09           1.274,61
+Tributo   Base de     Alíquota     Valor
+          Cálc.(R$)      (%)        (R$)
+PIS       5.092,78    0,7563       38,51
+COFINS    5.092,78    3,4837      177,42
+ICMS      6.373,09     20,00     1.274,61
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+ABR/26   7.231,00
+MAR/26   7.108,00
+FEV/26   3.057,00
+JAN/26   1.575,00
+DEZ/25   8.014,00
+NOV/25   8.582,00
+OUT/25   8.664,00
+SET/25   8.161,00
+AGO/25   7.876,00
+JUL/25   5.025,00
+JUN/25   8.199,00
+MAI/25   5.093,00
+ABR/25   5.310,00
+

@@ -1,0 +1,49 @@
+PM AGUIAR CRECHE MUNICIPAL
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR CRECHE MUNICIPAL
+RUA BOA VISTA S/N S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0149 - 410 - 5300                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008977616                            DOM. BANC.:
+MATRÍCULA: 658591-2021-12-2                            DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DO CAMPO, S/N
+CENTRO
+AGUIAR (AG: 144)
+Dezembro/2021
+5/658591-3
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        189,00    0,596920    0,826800      156,26        156,26   25      39,06         117,19        0,78          3,60
+0601 Adic. B. Amarela                                                           16,71         16,71   25       4,18          12,54        0,08          0,38
+0601 Adic. B. Vermelha                                                          20,45         20,45   25       5,11          15,33        0,10          0,47
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         193,42        193,42           48,35         145,06        0,96          4,45
+DEZ/21   189,00 *
+NOV/21   184,00 *
+OUT/21   178,00
+SET/21   375,00
+AGO/21   429,00
+JUL/21   222,00
+JUN/21   170,00
+MAI/21   130,00
+ABR/21    97,00
+MAR/21   191,00
+FEV/21    89,00
+JAN/21    89,00
+DEZ/20    94,00
+DIC      6,47   3,10   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   3,10
+DICRI   12,22
+

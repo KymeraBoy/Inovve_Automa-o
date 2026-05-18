@@ -1,0 +1,45 @@
+PM BREJO DO CRUZ UNIDADE BASICA DE
+SAUDE
+RUA JOSE ELOY OLIVEIRA, S/N - CONJUNTO TRES MENINAS - 58890000
+
+
+TRES MENINAS
+BREJO DO CRUZ (AG: 237)
+Janeiro / 2026
+5/1689464-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008255035   Energia ativa em kWh   Ponta   173437   175045   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh     KWH       1.608,00       0,902460      1.451,17       74,49       1.451,17   20      290,23   0,675650
+Adic. B. Amarela                                             25,30        1,30          25,30   20        5,06
+
+
+
+
+                            TOTAL:                        1.476,47       75,79       1.476,47           295,29
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.181,16    1,1446      13,52
+COFINS    1.181,16    5,2721      62,27
+ICMS      1.476,47     20,00     295,29
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+JAN/26   1.608,00
+DEZ/25   2.865,00
+NOV/25   2.574,00
+OUT/25   1.962,00
+SET/25   1.928,00
+AGO/25   2.182,00
+JUL/25   2.187,00
+JUN/25   2.284,00
+MAI/25   2.075,00
+ABR/25   1.738,00
+MAR/25     893,00
+FEV/25   1.477,00
+JAN/25     802,00
+

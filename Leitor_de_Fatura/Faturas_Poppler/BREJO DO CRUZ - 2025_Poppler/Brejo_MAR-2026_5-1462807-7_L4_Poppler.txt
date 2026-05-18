@@ -1,0 +1,44 @@
+PM BREJO DO CRUZ SAMU
+
+RUA PETRONILIO RIBEIRO, S/N - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Março / 2026
+5/1462807-7
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008948843   Energia ativa em kWh   Ponta   146855   147894   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH       1.039,00       0,877990        912,24       27,80         912,24   20      182,44   0,675650
+
+
+
+
+                           TOTAL:                          912,24       27,80         912,24           182,44
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         729,79    0,6794       4,96
+COFINS      729,79    3,1295      22,84
+ICMS        912,24     20,00     182,44
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+MAR/26   1.039,00
+FEV/26   1.192,00
+JAN/26   1.477,00
+DEZ/25   1.380,00
+NOV/25   1.334,00
+OUT/25   1.018,00
+SET/25     844,00
+AGO/25   1.025,00
+JUL/25   1.021,00
+JUN/25   1.104,00
+MAI/25   1.244,00
+ABR/25     979,00
+MAR/25   1.143,00
+

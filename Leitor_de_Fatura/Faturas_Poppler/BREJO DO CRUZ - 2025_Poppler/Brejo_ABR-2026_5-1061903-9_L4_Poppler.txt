@@ -1,0 +1,45 @@
+EMEF LINO DANTAS BREJO DO CRUZ
+
+SIT SANTA ROSA DE CIMA, S/N - 58890000
+
+
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Abril / 2026
+5/1061903-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+7090382596   Energia ativa em kWh   Ponta   38155   41091   1
+                                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                            Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                            KWH       2.936,00       0,881950      2.589,42       87,82       2.589,42   20      517,88   0,675650
+Energia Atv Injetada GDI oUC 4/2026 mPT   KWH        101,00        0,772470         -78,02       -3,02        -33,79   20       -6,76   0,675650
+
+
+
+
+                                                   TOTAL:                        2.511,40       84,80       2.555,63           511,12
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       2.000,27    0,7563     15,12
+COFINS    2.000,27    3,4837     69,68
+ICMS      2.555,63     20,00     511,12
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+ABR/26   2.936,00 *
+MAR/26   3.431,00
+FEV/26   1.914,00
+JAN/26   1.959,00
+DEZ/25   4.703,00
+NOV/25   3.899,00
+OUT/25   3.801,00
+SET/25   3.034,00
+AGO/25   2.805,00
+JUL/25   1.974,00
+JUN/25   2.673,00
+MAI/25   2.176,00
+ABR/25   2.871,00
+

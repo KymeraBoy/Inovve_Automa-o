@@ -1,0 +1,49 @@
+ILUMINACAO PUBLICA - P.M.AGUIAR
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.AGUIAR
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+ROTEIRO: 015 - 0149 - 099 - 1560                        LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                     DOM. BANC.:
+MATRÍCULA: 137004-2020-6-1                            DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+AGUIAR (AG: 144)
+Junho/2020
+5/137004-8
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                     31.657,00    0,299970    0,429310   13.590,78     13.590,78   25      3.397,69      13.590,78     124,31         572,62
+     LANÇAMENTOS E SERVIÇOS
+0999 REPASSE DE CIP 06/2020                                                 -12.668,60                0          0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         922,18     13.590,78           3.397,69      13.590,78     124,31         572,62
+JUN/20   31.657,00
+MAI/20   32.712,00
+ABR/20   31.657,00
+MAR/20   32.712,00
+FEV/20   30.602,00
+JAN/20   32.712,00
+DEZ/19   32.712,00
+NOV/19   31.657,00
+OUT/19   32.712,00
+SET/19   31.657,00
+AGO/19   33.993,00
+JUL/19   33.804,00
+JUN/19   32.714,00
+DIC
+FIC
+DMIC
+DICRI
+

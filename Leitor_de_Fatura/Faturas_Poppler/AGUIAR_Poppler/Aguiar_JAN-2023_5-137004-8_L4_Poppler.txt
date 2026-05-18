@@ -1,0 +1,44 @@
+ILUMINACAO PUBLICA - P.M.AGUIAR
+
+ROD BR 230, S/N - 58778000
+
+
+CENTRO
+AGUIAR (AG: 144)
+Janeiro / 2023
+5/137004-8
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+LIGAÇÃO: MONOFASICO
+                                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
+Itens da Fatura                            Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
+Consumo kWh - Ligação Provisória - Ponta             316,00        0,421930        133,33        5,21         133,33   18        23,99    0,329500
+Consumo em kWh                                     32.440,00       0,421930      13.687,89     535,10      13.687,89   18      2.463,82   0,329500
+
+
+
+
+                                                   TOTAL:                        13.821,22     540,31      13.821,22           2.487,81
+Tributo   Base de     Alíquota     Valor
+          Cálc.(R$)      (%)        (R$)
+PIS       11.333,41   0,8504       96,38
+COFINS    11.333,41   3,9170      443,93
+ICMS      13.821,22    18,00     2.487,81
+DIC
+FIC
+DMIC
+DICRI
+JAN/23   32.440,00   0,00
+DEZ/22   32.480,00   0,00
+NOV/22   31.432,00   0,00
+OUT/22   32.480,00   0,00
+SET/22   31.432,00   0,00
+AGO/22   32.480,00   0,00
+JUL/22   32.480,00   0,00
+JUN/22   31.432,00   0,00
+MAI/22   32.480,00   0,00
+ABR/22   31.432,00   0,00
+MAR/22   32.480,00   0,00
+FEV/22   29.337,00   0,00
+JAN/22   32.480,00   0,00
+

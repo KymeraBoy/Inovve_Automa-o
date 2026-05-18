@@ -1,0 +1,46 @@
+PREDIO DA MERENDA ESCOLAR
+
+RUA MANOEL CLEMENTINO, 0 - 58778000
+
+
+CENTRO
+AGUIAR (AG: 144)
+Novembro / 2024
+5/136588-1
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008478690   Energia ativa em kWh   Ponta   44759   45201   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                442,00       0,777730        343,76       14,99         343,76   20      68,75   0,588270
+Adic. B. Amarela                                             5,10        0,22           5,10   20       1,02
+Adic. B. Vermelha                                           24,68        1,07          24,68   20       4,93
+
+
+
+
+                            TOTAL:                         373,54       16,28         373,54           74,70
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         298,81    0,9725      2,90
+COFINS      298,81    4,4795     13,38
+ICMS        373,54     20,00     74,70
+DIC     12,00   0,00   0,00   0,00
+FIC      5,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24   442,00     0,00
+OUT/24   426,00     0,00
+SET/24   479,00     0,00
+AGO/24   425,00     0,00
+JUL/24   486,00     0,00
+JUN/24   359,00 *   0,00
+MAI/24   377,00     0,00
+ABR/24   820,00     0,00
+MAR/24   318,00 *   0,00
+FEV/24     0,00     0,00
+JAN/24   304,00     0,00
+DEZ/23   334,00     0,00
+NOV/23   383,00     0,00
+

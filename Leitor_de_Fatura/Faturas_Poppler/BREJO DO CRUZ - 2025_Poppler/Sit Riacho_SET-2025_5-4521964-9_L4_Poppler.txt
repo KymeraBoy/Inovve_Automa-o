@@ -1,0 +1,44 @@
+PM BREJO DO CRUZ ABASTECIMENTO DE
+AGUA POCO SIT RIACHO DO JARDIM
+SIT RIACHO DO JARDIM, SN - POCO DA PREFEITURA APOS O GINASIO -
+58890000
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Setembro / 2025
+5/4521964-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO
+LIGAÇÃO: MONOFASICO
+5258625870   Energia ativa em kWh   Ponta   377   450   1
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH         73,00       0,824890         60,21        2,37          60,21   20      12,04   0,627380
+Adic. B. Vermelha                                             7,56        0,29           7,56   20       1,51
+
+
+
+
+                             TOTAL:                          67,77        2,66          67,77           13,55
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          54,20    0,8795      0,47
+COFINS       54,20    4,0510      2,19
+ICMS         67,77     20,00     13,55
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+SET/25    73,00
+AGO/25   114,00
+JUL/25    87,00
+JUN/25   129,00
+MAI/25    47,00
+ABR/25
+MAR/25
+FEV/25
+JAN/25
+DEZ/24
+NOV/24
+OUT/24
+SET/24
+

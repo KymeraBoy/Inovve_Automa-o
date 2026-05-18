@@ -1,0 +1,46 @@
+PM AGUIAR UNIDADE DE SAUDE DR ANDRE
+SIT RIACHO VERDE, S/N - 58778000
+AREA RURAL
+AGUIAR-PB (AG: 144)
+                                      ENE
+Janeiro/2020
+5/880258-9
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: MONOFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        232,00   0,545400        0,785840        182,31        182,31    25     45,57          182,31       1,82         8,38
+0601 Adic. B. Amarela                                                                 4,48          4,48    25      1,12            4,48       0,04         0,21
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              186,79        186,79           46,69          186,79       1,86         8,59
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         232
+DEZ/19         468
+NOV/19         486
+OUT/19         450
+SET/19         380
+AGO/19         195
+JUL/19         242
+JUN/19         349
+MAI/19         369
+ABR/19         431
+MAR/19         389
+FEV/19         465
+JAN/19         295
+DIC MENSAL       12,35   0,00
+DIC TRIMESTRAL   24,71
+DIC ANUAL        49,42
+FIC MENSAL        7,97   0,00
+FIC TRIMESTRAL   15,94
+FIC ANUAL        31,88
+DMIC              6,79   0,00
+DICRI            16,60
+

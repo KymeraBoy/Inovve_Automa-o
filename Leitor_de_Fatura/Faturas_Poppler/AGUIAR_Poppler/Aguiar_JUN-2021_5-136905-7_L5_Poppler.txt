@@ -1,0 +1,48 @@
+PM AGUIAR SECRETARIA DE EDUCACAO E CULTURA
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR SECRETARIA DE EDUCACAO E CULTURA
+RUA BOA VISTA S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0149 - 420 - 4780                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008861348                            DOM. BANC.:
+MATRÍCULA: 136905-2021-6-8                             DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PROJETADA, S/N
+CENTRO
+AGUIAR (AG: 144)
+Junho/2021
+5/136905-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                        202,00    0,562110    0,787530      159,08        159,08   25      39,77         119,31        1,02          4,73
+0601 Adic. B. Vermelha                                                          15,01         15,01   25       3,75          11,25        0,10          0,45
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         174,09        174,09           43,52         130,56        1,12          5,18
+JUN/21   202,00
+MAI/21   255,00
+ABR/21   264,00
+MAR/21   251,00
+FEV/21   288,00
+JAN/21   153,00
+DEZ/20   317,00
+NOV/20   268,00
+OUT/20   276,00
+SET/20   236,00
+AGO/20   153,00
+JUL/20    63,00
+JUN/20    79,00
+DIC      6,47   1,31   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   1,31
+DICRI   12,22
+

@@ -1,0 +1,45 @@
+PM BREJO DO CRUZ FABRICA DE BOLOS
+
+SIT TUBIBA, SN - 58890000
+
+
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Janeiro / 2026
+5/4580248-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5229904217   Energia ativa em kWh   Ponta   742   898   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh     KWH        156,00       0,902460        140,78        7,23         140,78   20      28,15   0,675650
+Adic. B. Amarela                                             2,34        0,12           2,34   20       0,47
+
+
+
+
+                            TOTAL:                         143,12        7,35         143,12           28,62
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         114,48    1,1446      1,31
+COFINS      114,48    5,2721      6,04
+ICMS        143,12     20,00     28,62
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+JAN/26   156,00
+DEZ/25   154,00
+NOV/25   161,00
+OUT/25   152,00
+SET/25   152,00
+AGO/25   123,00
+JUL/25
+JUN/25
+MAI/25
+ABR/25
+MAR/25
+FEV/25
+JAN/25
+

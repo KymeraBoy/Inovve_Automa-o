@@ -1,0 +1,44 @@
+PM AGUIAR LUZES DE NATAL
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA IRINEU LACERDA SN CENTRO - RUA IRINEU LACERDA SN CENTRO
+
+
+AGUIAR
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICIPAL
+ROTEIRO: 001 - 0149 - -                                  LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR:                                        DOM. BANC.:
+MATRÍCULA: 7098799-2022-1-5                             DOM. ENT.:
+Janeiro/2022
+5/7098799-5
+                                                           TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                               QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                             4.910,00    0,596920    0,826800    4.059,66      4.059,66   25      1.014,91       3.044,74       20,31         93,56
+0601 Adic. B. Vermelha                                                                965,74        965,74   25        241,43         724,30        4,83         22,25
+     LANÇAMENTOS E SERVIÇOS
+0603 DESPESA COM LIGAÇÃO PROVISÓRIA 01/2022                                            19,50
+
+
+
+
+CCI: Código de Classificação do Item                                   TOTAL:       5.044,90      5.025,40           1.256,34       3.769,04       25,14        115,81
+JAN/22
+DEZ/21
+NOV/21
+OUT/21
+SET/21
+AGO/21
+JUL/21
+JUN/21
+MAI/21
+ABR/21
+MAR/21
+FEV/21
+JAN/21
+DIC
+FIC
+DMIC
+DICRI
+

@@ -1,0 +1,44 @@
+EMEF BENTO FERREIRA DE ALENCAR PM
+BREJO DO CRUZ
+SIT CACIMBAS, S/N - ESCOLA - 58890000
+
+
+AREA RURAL
+BREJO DO CRUZ (AG: 237)
+Fevereiro / 2026
+5/1567466-6
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0001300945   Energia ativa em kWh   Ponta   6457   6457   1
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          26,83        1,19          26,83   20       5,36
+
+
+
+
+                                   TOTAL:                         26,83        1,19          26,83            5,36
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          21,45    0,9940      0,21
+COFINS       21,45    4,5784      0,98
+ICMS         26,83     20,00      5,36
+DIC     24,00   0,00   999,00   999,00
+FIC      6,00   0,00   999,00   999,00
+DMIC    18,00   0,00
+DICRI   26,00
+FEV/26   0,00 *
+JAN/26   0,00 *
+DEZ/25   0,00 *
+NOV/25   0,00 *
+OUT/25   0,00 *
+SET/25   0,00 *
+AGO/25   0,00 *
+JUL/25   0,00 *
+JUN/25   0,00 *
+MAI/25   0,00
+ABR/25   0,00 *
+MAR/25   0,00 *
+FEV/25   0,00 *
+

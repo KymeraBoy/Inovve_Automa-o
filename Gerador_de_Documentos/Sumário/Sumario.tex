@@ -1,0 +1,109 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage[top=4cm, bottom=3cm, left=3cm, right=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}}
+\renewcommand{\labelenumii}{\theenumii}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{lmodern}
+  \usepackage{helvet} % Tahoma-like sans-serif for pdfLaTeX
+  \renewcommand{\familydefault}{\sfdefault}
+\else % if luatex or xetex
+  \usepackage{fontspec}
+  \setmainfont{Tahoma}
+  \setsansfont{Tahoma}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{ifthen}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+% ========== SELEÇÃO DE CABEÇALHO ==========
+% Escolha entre "HLA" ou "Ruda" para o tipo de cabeçalho
+\newcommand{\tipoLogo}{Ruda}
+
+% Condicional para exibir o cabeçalho apropriado
+\ifthenelse{\equal{\tipoLogo}{Ruda}}{%
+  % Para RUDA: cabeçalho centralizado com 90% da largura da página
+  \AddToShipoutPictureBG{%
+    \AtPageUpperLeft{%
+      \hspace*{0.05\paperwidth}%
+      \raisebox{-\height}{\includegraphics[width=0.9\paperwidth]{Ruda_Header.png}}%
+    }%
+  }%
+}{%
+  % Para HLA: cabeçalho alinhado à esquerda
+  \AddToShipoutPictureBG{%
+    \AtPageUpperLeft{%
+      \raisebox{-\height}{\includegraphics{HLA_Header.png}}%
+    }%
+  }%
+}
+
+\begin{document}
+
+\textbf{SUMÁRIO}\\
+\strut \\
+\begin{enumerate}
+  \item \textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
+  \begin{enumerate}
+    \item Procuração \dotfill 1
+    \item Validação das assinaturas \dotfill 2
+    \item Kit prefeito \dotfill 7
+    \item Contrato Social da Empresa \dotfill 21
+    \item Documento de Identificação do Representante \dotfill 27
+  \end{enumerate}
+  \item \textbf{Anexo II -- Documentos contratuais \dotfill 1}
+  \begin{enumerate}
+    \item Contrato \dotfill 1
+    \item Publicação do Contrato em Diário Oficial \dotfill 12
+  \end{enumerate}
+
+  % \item \textbf{Anexo III -- Aditivos e demais documentos \dotfill 1}
+  % \begin{enumerate}
+  %   \item 1º Aditivo \dotfill 1
+  %   \item Validação das assinaturas \dotfill 3    
+  %   \item Publicação do 1º Aditivo em Diário Oficial\dotfill 10  
+  %   % \item 2º Aditivo \dotfill 19
+  %   % \item Publicação do 2º Aditivo em Diário Oficial\dotfill 21
+  % \end{enumerate}
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,45 @@
+PM BREJO DO CRUZ PARQUE DO CACIMBAO
+
+RUA ANTONIO GOMES ANDRADE, SN - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Setembro / 2025
+5/4533025-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+W7091071841   Energia ativa em kWh   Ponta   7574   10661   1
+                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh      KWH       3.087,00       0,832820      2.570,93      101,41       2.570,93   20      514,18   0,633410
+Adic. B. Vermelha                                            319,71       12,61         319,71   20       63,94
+
+
+
+
+                             TOTAL:                        2.890,64      114,02       2.890,64           578,12
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       2.312,50    0,8795      20,34
+COFINS    2.312,50    4,0510      93,68
+ICMS      2.890,64     20,00     578,12
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+SET/25   3.087,00
+AGO/25   2.947,00
+JUL/25   1.973,00
+JUN/25   2.654,00
+MAI/25
+ABR/25
+MAR/25
+FEV/25
+JAN/25
+DEZ/24
+NOV/24
+OUT/24
+SET/24
+

@@ -1,0 +1,51 @@
+PM BREJO DO CRUZ ESCOLA PROF TEREZINHA
+GARCIA PEREIRA
+RUA PE AIRES, SN - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Fevereiro / 2026
+5/1150491-7
+Classificação: MTV-MOD.TARIFÁRIA VERDE / A4 PODER PÚBLICO /
+POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+W0003996976   Energia ativa em kWh   Ponta         40271,69    41120,96   1    870,
+W0003996976   Energia ativa em kWh   Fora Ponta   436759,78   440783,95   1   4124,
+                                                                 Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS         Tarifa
+Itens da Fatura                              Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)     Unit (R$)
+Consumo em kWh - Ponta                      KWH        870,50        2,210880      1.924,58       98,79       1.924,58   20      384,92     1,655220
+Energia Atv Injetada GDI oUC 2/2026 oPT     KWH        870,50        1,873480      -1.630,87      -98,79       -456,02   20       -91,20    1,655220
+Consumo em kWh - Fora Ponta                 KWH       4.124,77       0,450510      1.858,29       95,39       1.858,29   20      371,66     0,337290
+Energia Atv Injetada GDI oUC 2/2026 mPT     KWH       4.124,77       0,424710      -1.751,86      -95,39     -1.326,13   20      -265,22    0,337290
+Energia Reativa Exced em KWh - Fponta       UN            1,85       0,342360          0,63        0,02           0,63   20        0,12     0,256320
+Demanda de Potência Medida - Fora Ponta     KW          32,88       32,617990      1.072,54       55,05       1.072,54   20      214,51    24,420000
+Demanda Potência Ativa - Ultrap - F Ponta   KW            2,88      65,235990        188,01        9,65         188,01   20       37,60    48,840000
+
+
+
+
+                                                     TOTAL:                        1.661,32       64,72       3.261,90           652,39
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.008,92    1,1446      11,54
+COFINS    1.008,92    5,2721      53,18
+ICMS      3.261,90     20,00     652,39
+DIC     9,00   0,00   999,00   999,00
+FIC     4,00   0,00   999,00   999,00
+DMIC    7,00   0,00
+DICRI   8,00
+FEV/26     870,50   32,88    4.124,77   31,41           1,85   0,00
+JAN/26   1.253,63   50,96    7.388,24   61,58           0,16   0,00
+DEZ/25   1.060,14   41,78   10.834,44   61,46           0,87   0,00
+NOV/25   1.125,47   33,21   10.626,36   64,29   0,06    0,74   0,00
+OUT/25   1.291,85   42,31   10.116,31   52,85           2,10   0,00
+SET/25   1.249,97   39,16    9.127,06   58,67   0,15    4,21   0,00
+AGO/25   1.569,30   39,36   10.643,52   58,88   0,03    1,76   0,00
+JUL/25   1.086,09   35,10    7.462,76   54,69   0,09    8,36   0,00
+JUN/25     943,48   35,79    9.949,68   58,02   1,28   18,68   0,00
+MAI/25     462,04   28,70    9.784,51   59,78   1,64   10,62   0,00
+ABR/25     622,92   35,22    8.921,88   53,79   0,98    7,38   0,00
+MAR/25   1.109,30   45,02    9.342,91   58,38   0,45   11,38   0,00
+FEV/25     935,16   24,81    2.478,25   22,67   2,27   38,94   0,00
+

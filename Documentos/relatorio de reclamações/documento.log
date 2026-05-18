@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  11 MAY 2026 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  11 MAY 2026 13:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,39 +462,60 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@cols=\count318
 \TX@ftn=\toks31
 )
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.st
+y
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip73
+\LTright=\skip74
+\LTpre=\skip75
+\LTpost=\skip76
+\LTchunksize=\count319
+\LTcapwidth=\dimen198
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
+\LT@cols=\count320
+\LT@rows=\count321
+\c@LT@tables=\count322
+\c@LT@chunks=\count323
+\LT@p@ftn=\toks32
+)
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
-7.
- (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+9.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count319
+\l__color_backend_stack_int=\count324
 ) (documento.aux
 Package babel Info: 'brazilian' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
 )
 \openout1 = `documento.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -534,17 +555,17 @@ LaTeX Font Info:    ... okay on input line 37.
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
-\scratchdimen=\dimen198
-\scratchbox=\box60
-\nofMPsegments=\count321
-\nofMParguments=\count322
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count323
-\MPscratchDim=\dimen199
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count325
+\scratchdimen=\dimen199
+\scratchbox=\box65
+\nofMPsegments=\count326
+\nofMParguments=\count327
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count328
+\MPscratchDim=\dimen256
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
+\everyMPtoPDFconversion=\toks34
 )
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty
@@ -556,18 +577,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 39.
  (documento.out) (documento.out)
 \@outlinefile=\write3
 \openout3 = `documento.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -586,19 +607,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \newpage
+l.44 \newpage
               [1
 
 ]
 Cap\'{\i }tulo 1.
 
-Overfull \hbox (8.42302pt too wide) in paragraph at lines 48--49
+Overfull \hbox (8.42302pt too wide) in paragraph at lines 50--51
 []\OT1/phv/m/n/12 As reclama[][]oes encontram-se em acom-pa-nha-mento pe-rante 
 a Ou-vi-do-ria da ANEEL
  []
 
 
-Overfull \hbox (25.01682pt too wide) in paragraph at lines 48--49
+Overfull \hbox (25.01682pt too wide) in paragraph at lines 50--51
 \OT1/phv/m/n/12 e a Ou-vi-do-ria da con-ces-sion[]aria, tra-tando prin-ci-pal-m
 ente de des-cum-pri-mento de cobran[]as
  []
@@ -608,36 +629,122 @@ ente de des-cum-pri-mento de cobran[]as
 ]
 Cap\'{\i }tulo 2.
 
-Overfull \hbox (25.17384pt too wide) in paragraph at lines 76--77
+Overfull \hbox (25.19995pt too wide) in alignment at lines 59--64
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 64--68
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 68--70
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 70--79
+ [] [] 
+ []
+
+
+Overfull \hbox (25.17384pt too wide) in paragraph at lines 81--82
 []\OT1/phv/m/n/12 A maior parte das de-man-das ainda em tramita[][]ao est[]ao c
 om pen-den-cia de contesta[][]ao
  []
 
 [3
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.80 \chapter
-             {Principais Teses em Discussão}]
+]
 Cap\'{\i }tulo 3.
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 92--97
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 97--101
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 101--103
+ [] [] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in alignment at lines 103--118
+ [] [] 
+ []
+
 [4
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.110 \chapter
-              {Planilha Detalhada de Reclamações}]
+]
 Cap\'{\i }tulo 4.
-[5
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 125--130
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 130--134
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 134--136
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 136--181
+ [] [] [] [] 
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [5
 
 ]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+87.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+Overfull \hbox (9.14719pt too wide) in alignment at lines 184--189
+ [] [] [] 
+ []
+
+
+Overfull \hbox (9.14719pt too wide) in alignment at lines 189--193
+ [] [] [] 
+ []
+
+
+Overfull \hbox (9.14719pt too wide) in alignment at lines 193--195
+ [] [] [] 
+ []
+
+
+Overfull \hbox (9.14719pt too wide) in alignment at lines 195--208
+ [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
 Cap\'{\i }tulo 5.
-[6
+[7
+
+]
+Cap\'{\i }tulo 6.
+[8
 
 ] (documento.aux)
  ***********
@@ -646,25 +753,28 @@ L3 programming layer <2026-01-19>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Package rerunfilecheck Warning: File `documento.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: File `documento.out' has not changed.
-(rerunfilecheck)             Checksum: 786D6F44BC8577650E13CE9EF3D96613;818.
+Package rerunfilecheck Info: Checksums for `documento.out':
+(rerunfilecheck)             Before: 15851FB43C913AF76F54487840D69203;929
+(rerunfilecheck)             After:  41AAF03DEB00782AA85F1968215D04EC;939.
  ) 
 Here is how much of TeX's memory you used:
- 12396 strings out of 467867
- 195561 string characters out of 5415879
- 624173 words of memory out of 5000000
- 41092 multiletter control sequences out of 15000+600000
- 645750 words of font info for 82 fonts, out of 8000000 for 9000
+ 12527 strings out of 467867
+ 197755 string characters out of 5415879
+ 652905 words of memory out of 5000000
+ 41219 multiletter control sequences out of 15000+600000
+ 641715 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,79p,369b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,369b,610s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
 hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
 lvetic/uhvr8a.pfb>
-Output written on documento.pdf (7 pages, 35362 bytes).
+Output written on documento.pdf (9 pages, 43377 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

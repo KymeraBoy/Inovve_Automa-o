@@ -1,0 +1,48 @@
+PM AGUIAR SINAL DE TELEVISAO
+
+RUA SEVERINO AMANCIO, S/N - 58778000
+
+
+CENTRO
+AGUIAR (AG: 144)
+Junho / 2023
+5/136371-2
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: TRIFASICO
+0008861733   Energia ativa em kWh   Ponta   12176   12176   1
+                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                               77,78        3,87          77,78   18      14,00
+LANÇAMENTOS E SERVIÇOS
+ATUALIZAÇÃO MONETÁRIA 04/2023                                           0,23
+MULTA 04/2023                                                           1,56
+JUROS DE MORA 04/2023                                                   0,39
+
+
+
+
+                                        TOTAL:                         79,96        3,87          77,78           14,00
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          63,77    1,0845      0,69
+COFINS       63,77    4,9955      3,18
+ICMS         77,78     18,00     14,00
+DIC     12,00   0,00   0,00   0,00
+FIC      5,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+JUN/23    0,00 *   0,00
+MAI/23    0,00 *   0,00
+ABR/23    0,00 *   0,00
+MAR/23    0,00 *   0,00
+FEV/23    0,00 *   0,00
+JAN/23    0,00 *   0,00
+DEZ/22   99,00 *   0,00
+NOV/22    0,00     0,00
+OUT/22   99,00 *   0,00
+SET/22    0,00     0,00
+AGO/22    0,00 *   0,00
+JUL/22    0,00 *   0,00
+JUN/22    0,00 *   0,00
+

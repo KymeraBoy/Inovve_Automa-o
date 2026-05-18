@@ -1,0 +1,47 @@
+PM AGUIAR CEMITERIO SAO JUSTINO
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR CEMITERIO SAO JUSTINO
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 400 - 8956                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: D5045716752                          DOM. BANC.:
+MATRÍCULA: 1957205-2020-6-9                          DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT ALAGAMAR, 0
+AREA RURAL
+AGUIAR (AG: 144)
+Junho/2020
+5/1957205-6
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Custo de Disponibilidade                                                   23,41         23,41   25      5,85           23,41        0,21          0,98
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          23,41         23,41           5,85           23,41        0,21          0,98
+JUN/20   0,00 *
+MAI/20   0,00 *
+ABR/20   0,00 *
+MAR/20   0,00 *
+FEV/20   0,00 *
+JAN/20   0,00 *
+DEZ/19   0,00 *
+NOV/19
+OUT/19
+SET/19
+AGO/19
+JUL/19
+JUN/19
+DIC
+FIC
+DMIC
+DICRI
+

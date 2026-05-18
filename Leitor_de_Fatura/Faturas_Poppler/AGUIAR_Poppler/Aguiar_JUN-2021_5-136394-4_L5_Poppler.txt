@@ -1,0 +1,48 @@
+GE ONELIO ARANTE LIMA - AGUIAR
+
+DOMICÍLIO DE ENTREGA
+GE ONELIO ARANTE LIMA - AGUIAR
+RUA BOA VISTA S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0149 - 410 - 6240                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000688606                            DOM. BANC.:
+MATRÍCULA: 136394-2021-6-5                             DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT SAO FRANCISCO, S/N
+CENTRO
+AGUIAR (AG: 144)
+Junho/2021
+5/136394-4
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Custo de Disponibilidade                                                   23,62         23,62   25      5,90           17,72        0,15          0,70
+0601 Adic. B. Vermelha                                                           2,20          2,20   25      0,55            1,65        0,01          0,06
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          25,82         25,82           6,45           19,37        0,16          0,76
+JUN/21     0,00 *
+MAI/21     0,00 *
+ABR/21     0,00 *
+MAR/21     0,00 *
+FEV/21    30,00 *
+JAN/21     0,00 *
+DEZ/20    68,00 *
+NOV/20    65,00 *
+OUT/20    44,00
+SET/20   122,00
+AGO/20     0,00
+JUL/20     0,00
+JUN/20    93,00
+DIC      6,47   1,31   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   1,31
+DICRI   12,22
+

@@ -1,0 +1,256 @@
+% ==========================
+% CONFIGURAÇÕES DO DOCUMENTO
+% ==========================
+\documentclass[11pt,a4paper]{article}
+
+% Pacotes básicos
+\usepackage[a4paper,left=2cm,right=2cm,top=4cm,bottom=2.5cm]{geometry} % Margens
+\usepackage[brazil]{babel} % Idioma português do Brasil
+\usepackage{enumitem} % Listas personalizadas
+\usepackage{iftex} % Compatibilidade com diferentes engines
+\usepackage{graphicx} % Inclusão de imagens
+\usepackage{eso-pic} % Adicionar elementos ao fundo (cabeçalho e rodapé)
+\usepackage{titlesec} % Configuração de títulos
+\usepackage{setspace} % Controle de espaçamento
+\usepackage{array} % Tabelas avançadas
+
+% ==========================
+% CONFIGURAÇÕES DE ESTILO
+% ==========================
+
+% Cabeçalho
+\AddToShipoutPictureBG{%
+\AtPageUpperLeft{%
+\raisebox{-\height}{\includegraphics[width=\paperwidth]{HLA_Header.png}}%
+}%
+}
+
+% Rodapé
+\AddToShipoutPictureBG{%
+\AtPageLowerLeft{%
+\includegraphics[width=\paperwidth]{HLA_Ender.png}%
+}%
+}
+
+% Configurações de fonte
+\ifPDFTeX
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\else
+\usepackage{fontspec}
+\setmainfont{Tahoma}
+\fi
+
+% Configurações de espaçamento
+\titleformat{\section}
+  {\normalfont\bfseries\fontsize{11}{13}\selectfont}
+  {}{0em}{}
+
+% Configurações de parágrafo
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+% ==========================
+% DEFINIÇÕES DE VARIÁVEIS
+% ==========================
+
+% Informações específicas da reclamação
+\newcommand{\numReclamacao}{009/2026} % Número da reclamação
+\newcommand{\unidadeConsumidora}{5/2047146-2} % Unidade consumidora
+\newcommand{\nomeEstado}{Paraíba} % Nome do estado
+\newcommand{\siglaEstado}{PB} % Sigla do estado
+\newcommand{\nomeConcessionaria}{Energisa Paraíba} % Nome da concessionária
+\newcommand{\nomeConcessionariaMaiuscula}{\MakeUppercase{\nomeConcessionaria}} % Nome da concessionária em maiúsculo
+\newcommand{\cnpjConcessionaria}{09.095.183/0001-40} % CNPJ da concessionária
+\newcommand{\nomeMunicipio}{Lucena} % Nome do município
+\newcommand{\nomeMunicipioMaiuscula}{\MakeUppercase{\nomeMunicipio}} % Nome do município em maiúsculo
+\newcommand{\cnpjMunicipio}{08.924.813/0001-80} % CNPJ do município
+\newcommand{\sedePrefeitura}{Rua Américo Falcão, 736 - Centro} % Endereço da sede
+\newcommand{\generoPrefeitura}{seu prefeito} % Gênero do prefeito
+\newcommand{\nomePrefeito}{Leomax da Costa Bandeira} % Nome do prefeito
+\newcommand{\numeroContrato}{00085/2025-SDC} % Número do contrato
+\newcommand{\publicacao}{Diário Oficial do Município} % Publicação
+\newcommand{\dataPublicacao}{04 de dezembro de 2025} % Data da publicação
+\newcommand{\clausula}{\textbf{CLÁUSULA SEGUNDA - DO OBJETO}
+
+O presente contrato, cuja lavratura foi devidamente autorizada, tem por objeto: Contratação de pessoa jurídica especializada na prestação de serviços técnicos de assessoria e consultoria operacional e regulatória, destinada à realização de análises, auditorias, apurações e à efetiva recuperação de valores pagos indevidamente e/ou a maior à concessionária de energia elétrica. Os serviços contratados compreendem, ainda, a adoção de todas as medidas administrativas necessárias, em representação do Município, perante a própria concessionária local, a Agência Nacional de Energia Elétrica – ANEEL, as agências reguladoras estaduais e demais órgãos ou entidades públicas e privadas competentes, com a finalidade de assegurar a defesa dos interesses da contratante, inclusive no que se refere à compensação, devolução ou regularização de cobranças, em estrita conformidade com as disposições das legislações aplicáveis, especialmente as normas expedidas pela ANEEL e o Código de Defesa do Consumidor.}
+
+% ==========================
+% COMANDOS PERSONALIZADOS
+% ==========================
+
+% Comando para citações formatadas
+\newcommand{\Citacao}[1]{%
+  \begin{list}{}{% Configurações de margens
+    \setlength{\leftmargin}{4cm}%
+    \setlength{\rightmargin}{0cm}%
+    \setlength{\topsep}{\baselineskip}%
+    \setlength{\partopsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\itemsep}{0pt}%
+  }\item[]
+  {\begingroup\scriptsize\setstretch{1}\selectfont #1\par\endgroup}
+  \end{list}%
+}
+
+% ==========================
+% INÍCIO DO DOCUMENTO
+% ==========================
+\begin{document}
+
+% ==========================
+% TEXTO PRINCIPAL
+% ==========================
+
+% Data e local
+\begin{flushright}
+Fortaleza - CE, \today.
+\end{flushright}
+
+% Título
+\textbf{RECLAMAÇÃO Nº \numReclamacao{} DESTINADA À \nomeConcessionariaMaiuscula{}}
+
+\textbf{CNPJ: \cnpjConcessionaria{}}
+
+\textbf{PREFEITURA MUNICIPAL DE \nomeMunicipioMaiuscula{} - \siglaEstado{}}
+
+\textbf{UNIDADE CONSUMIDORA: \unidadeConsumidora{}}
+
+\vspace{0.5cm}
+
+% Introdução
+Com a finalidade de reclamar à \nomeConcessionaria{} a cobrança indevida por enquadramento tarifário da unidade consumidora em epígrafe, o município de \nomeMunicipio{}-\siglaEstado{}, pessoa jurídica de direito público interno, inscrito no CNPJ sob o Nº \cnpjMunicipio{}, com sede administrativa situada à \sedePrefeitura{}, neste ato representado por \generoPrefeitura{} municipal, \nomePrefeito{}, por meio de sua representante legal devidamente constituída conforme procuração anexa, Sra. Ana Lívia F. Dias, vem requisitar correção do enquadramento tarifário da UC em questão à \nomeConcessionaria{}, considerando que o consumidor e outros interessados podem junto aos canais de atendimento da concessionária solicitar informações, serviços ou protocolar reclamações e denúncias (Art. 399 – Resolução Normativa Nº 1000/2021).
+
+
+% ==========================
+% CONTINUAÇÃO DO TEXTO PRINCIPAL
+% ==========================
+
+\section{DA LEGITIMIDADE E DOS PODERES DE REPRESENTAÇÃO}
+
+\begin{enumerate}
+\item
+  Em caráter inicial, observa-se que o município firmou o Contrato Nº \numeroContrato{} com a empresa HLA Serviços e Soluções LTDA, inscrita no CNPJ Nº 46.691.493/0001-54. A publicidade desse instrumento ocorreu no \publicacao{} em \dataPublicacao{}. O referido contrato tem como finalidade a proteção dos interesses da contratante, com foco em questões de natureza administrativa perante a distribuidora de energia elétrica e os órgãos reguladores competentes. As especificidades dessa atuação encontram-se detalhadas no próprio contrato, conforme segue abaixo: 
+\end{enumerate}
+
+\Citacao{\clausula{}}
+
+\begin{enumerate}[resume]
+\item
+  Diante do exposto, ressalta-se a legitimidade da empresa HLA Serviços e Soluções LTDA, devidamente representada por sua sócia-administradora, para atuar em nome da contratante. A empresa será responsável pela apresentação de pedidos e pela defesa dos interesses da contratante perante a Agência Nacional de Energia Elétrica (ANEEL) e a distribuidora de energia elétrica.
+\item
+  Desta forma, para fazer face ao que dispõe o Parecer Nº 00361/2023/PFANEEL/PGF/AGU, itens 136 e 139, seguem anexos os seguintes documentos:
+
+  \begin{enumerate}
+  \item
+   Instrumento de Procuração que confere poderes à Sra. Ana Lívia F. Dias para representar o município contratante perante a Distribuidora de Energia Elétrica e a ANEEL, acompanhado dos documentos complementares, tais como o kit prefeito, o contrato social da empresa contratada e o documento de identificação do representante legal (Anexo I).
+  \item
+    Contrato de Prestação de Serviços (Contrato de Mandato) celebrado entre o município e a empresa HLA Serviços e Soluções LTDA, bem como a respectiva publicação no \publicacao{} em \dataPublicacao{}.(Anexo II).  
+  \end{enumerate}
+\item
+  Todos os documentos apresentados atestam a validade e a vigência da contratação da empresa peticionante.
+\end{enumerate}
+
+\section{FUNDAMENTAÇÃO LEGAL DA REQUISIÇÃO}
+
+\begin{enumerate}[resume]
+\item
+Verificou-se que a UC \unidadeConsumidora{} está cadastrada com enquadramento tarifário errado, gerando, desta forma, prejuízos ao consumidor, por erro de cadastro por parte da concessionária.
+\item  
+Assim, a UC \unidadeConsumidora{} deve ser cadastrada conforme art. 191, inciso I, da Resolução Normativa 1000/2021 da Aneel, vale dizer, deve ser enquadrada na classe serviço público, subclasse água, esgoto e saneamento.  
+\item 
+A seguir transcreve-se o art. 191 da citada resolução:
+
+\Citacao{Art. 191. Deve ser classificada na classe serviço público a unidade consumidora de responsabilidade do poder público ou daquele que receba essa delegação, destinada exclusivamente ao fornecimento de energia elétrica para motores, máquinas e cargas essenciais à operação de serviços públicos nas seguintes subclasses: 
+
+I - água, esgoto e saneamento; e
+
+II - tração elétrica.}
+
+\item 
+Vale ressaltar que essa classificação já era definida desde a REN 414/2010, que foi revogada pela REN 1000/2021, conforme trecho a seguir:
+
+\Citacao{Art. 53-Q Na classe serviço público enquadram-se as unidades consumidoras que se destinem, exclusivamente, ao fornecimento para motores, máquinas e cargas essenciais à operação de serviços públicos de água, esgoto, saneamento e tração elétrica urbana ou ferroviária, explorados diretamente pelo Poder Público ou mediante concessão ou autorização, considerando-se as seguintes subclasses:
+
+I – tração elétrica; e 
+
+II – água, esgoto e saneamento.}
+
+\item 
+A UC relacionada acima tem direito a benefício tarifário, conforme art. 664 da citada 
+resolução, transcrito a seguir:
+
+\Citacao{Art. 664. A unidade consumidora classificada na subclasse água, esgoto e saneamento, conforme disposições do Decreto Nº 7.891, de 2013, tem direito ao benefício de redução nas tarifas aplicáveis, nos percentuais a seguir:
+
+I - 2021: redução de 6\% (seis por cento);
+
+II - 2022: redução de 3\% (três por cento); e
+
+III - 2023: sem redução.}
+
+\item  
+Vale destacar que inicialmente o desconto aplicado era de 15\%, conforme REN 414/2010:
+
+\Citacao{Art. 53-R. As unidades consumidoras classificadas na subclasse água, esgoto e 
+saneamento, conforme disposições do Decreto Nº 7.891, de 2013, tem direito ao 
+benefício tarifário de redução nas tarifas aplicáveis, nos percentuais da tabela a 
+seguir: (Incluído pela REN ANEEL 800, de 19.12.2017)
+
+\vspace{0.4cm}
+
+\renewcommand{\arraystretch}{1.8} % Controlar altura das linhas
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Grupo & TUSD R\$/kW & TUSD R\$/MWh & TE R\$/MWh & Tarifa para aplicação da redução \\
+\hline 
+A & 15\% & 15\% & 15\% & tarifas azul e verde \\
+\hline 
+B & -- & 15\% & 15\% & B3\\
+\hline
+\end{tabular}
+}
+
+\item 
+Contudo, conforme decreto Nº 9.642 de 27 de dezembro de 2018 houve previsão da redução gradual dos descontos tarifários. Dessa forma, até o final de 2018 o desconto era fixo em 15\%.
+
+\Citacao{§ 4º A partir de 1º de janeiro de 2019, nos respectivos reajustes ou procedimentos ordinários de revisão tarifária, os descontos de que trata o § 2º serão reduzidos à razão de vinte por cento ao ano sobre o valor inicial, até que a alíquota seja zero.” (NR)}
+
+\end{enumerate}
+
+\section{DOS PEDIDOS}
+
+\begin{enumerate}[resume]
+\item 
+Diante do exposto, requer que a Concessionária:
+
+\begin{enumerate}
+\item 
+Efetue vistoria em tal UC e proceda com a correção do enquadramento tarifário da mesma em conformidade com o estabelecido na Resolução Normativa Nº 1.000/2021 da ANEEL.
+\item 
+Efetue a devolução de todos os valores cobrados a maior, referente aos últimos 10 (dez) anos. Conforme o Despacho Nº 2.006 da ANEEL de 08 de julho de 2024, observando o prazo prescricional de 10 anos, conforme previsto no art. 205 do Código Civil.
+\item 
+Devolva os valores cobrados a maior em dobro, atualizados monetariamente pelo IPCA e juros de mora de 1\% ao mês calculados pro \textit{rata die}, conformidade com o estabelecido na Resolução Normativa Nº 1.000/2021 da ANEEL.   
+\item 
+Que apresente as seguintes informações: Data de ligação da UC, se houve modificação de tarifa entre a data da ligação e a data da resposta.   
+\item 
+Que em caso de indeferimento apresente os argumentos e as provas (comprovações) para não enquadramento (fotos, carga instalada etc).   
+\item 
+Proceda a análise e atendimento a este requerimento no prazo máximo de 10 (dez) dias úteis, para informar o resultado da classificação tarifária no caso de necessidade de vistoria, em conformidade com o estabelecido na Resolução Normativa Nº 1.000/2021 da ANEEL.  
+\item 
+Proceda com a devolução do valor integral, por meio de depósito bancário, na conta corrente do Município, conforme estabelece o § 7º, do art. 323 da REN Nº 1.000/2021 da ANEEL, comunicando por escrito o resultado do deferimento desta reclamação, por meio de e-mail.
+
+\end{enumerate}
+\end{enumerate}
+
+Conforme argumentos apresentados, solicita-se atendimento.
+
+\vspace{2cm}
+\begin{center}
+\noindent\rule{6cm}{0.4pt}
+
+{\small Representante Legal}
+\end{center}
+
+\end{document}

@@ -1,0 +1,53 @@
+ILUMINACAO PUBLICA - P.M.AGUIAR
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.AGUIAR
+RUA BOA VISTA SN SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0149 - 099 - 1560                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 137004-2021-12-7                                DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+AGUIAR (AG: 144)
+Dezembro/2021
+5/137004-8
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta       473,00    0,328310    0,454740      215,09        215,09   25         53,77         161,32        1,08          4,96
+0601 Consumo em kWh                              32.480,00    0,328310    0,454740   14.770,42     14.770,42   25      3.692,60      11.077,81       73,90        340,41
+0601 Adic. B. Vermelha                                                                6.481,50      6.481,50   25      1.620,38       4.861,13       32,42        149,37
+     LANÇAMENTOS E SERVIÇOS
+0999 REPASSE DE CIP 12/2021                                                          -16.475,90                0          0,00            0,00        0,00          0,00
+0805 MULTA 11/2021                                                                       414,46                0          0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 11/2021                                                                27,63                0          0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:       5.433,20     21.467,01           5.366,75      16.100,26     107,40         494,74
+DEZ/21   32.480,00
+NOV/21   31.432,00
+OUT/21   33.269,00
+SET/21   31.432,00
+AGO/21   32.480,00
+JUL/21   32.764,00
+JUN/21   31.657,00
+MAI/21   32.712,00
+ABR/21   33.767,00
+MAR/21   35.106,00
+FEV/21   34.823,00
+JAN/21   32.712,00
+DEZ/20   32.712,00
+DIC
+FIC
+DMIC
+DICRI
+

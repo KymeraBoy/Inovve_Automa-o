@@ -1,0 +1,49 @@
+PM AGUIAR ACOUGUE
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR ACOUGUE
+RUA BOA VISTA SN SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0149 - 400 - 6500                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008478690                            DOM. BANC.:
+MATRÍCULA: 136588-2021-12-0                            DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MANOEL CLEMENTINO, S/N
+CENTRO
+AGUIAR (AG: 144)
+Dezembro/2021
+5/136588-1
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        208,00    0,596920    0,826800      171,97        171,97   25      42,99         128,97        0,86          3,96
+0601 Adic. B. Amarela                                                           18,48         18,48   25       4,62          13,86        0,09          0,42
+0601 Adic. B. Vermelha                                                          22,42         22,42   25       5,60          16,81        0,11          0,52
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         212,87        212,87           53,21         159,64        1,06          4,90
+DEZ/21   208,00
+NOV/21   301,00
+OUT/21   208,00
+SET/21   224,00
+AGO/21   430,00
+JUL/21    98,00 *
+JUN/21    97,00 *
+MAI/21   177,00
+ABR/21    22,00
+MAR/21    30,00
+FEV/21     0,00 *
+JAN/21   125,00 *
+DEZ/20     0,00 *
+DIC      6,47   3,10   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   3,10
+DICRI   12,22
+

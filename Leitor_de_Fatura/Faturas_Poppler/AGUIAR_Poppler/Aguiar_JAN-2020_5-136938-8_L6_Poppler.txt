@@ -1,0 +1,46 @@
+PM AGUIAR SECRETARIA DE SAUDE
+RUA FRANCISCO DEMETRIO, S/N - 58778000
+CENTRO
+AGUIAR-PB (AG: 144)
+                                         ENE
+Janeiro/2020
+5/136938-8
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+LIGAÇÃO: MONOFASICO
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        902,00   0,545400        0,785840        708,83        708,83    25     177,21          708,83       7,08        32,60
+0601 Adic. B. Amarela                                                                17,45         17,45    25       4,36           17,45       0,17         0,80
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              726,28        726,28           181,57          726,28       7,25        33,40
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         902
+DEZ/19         979
+NOV/19         868
+OUT/19         798
+SET/19         691
+AGO/19         477
+JUL/19         569
+JUN/19         576
+MAI/19         691
+ABR/19         719
+MAR/19         644
+FEV/19         649
+JAN/19         818
+DIC MENSAL        6,87   0,00
+DIC TRIMESTRAL   13,74
+DIC ANUAL        27,48
+FIC MENSAL        3,61   0,00
+FIC TRIMESTRAL    7,22
+FIC ANUAL        14,45
+DMIC              3,97   0,00
+DICRI            12,22
+

@@ -1,0 +1,45 @@
+PM AGUIAR UNIDADE DE SAUDE DR ANDRE
+
+SIT RIACHO VERDE, S/N - 58778000
+
+
+AREA RURAL
+AGUIAR (AG: 144)
+Dezembro / 2024
+5/880258-9
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+5232753866   Energia ativa em kWh   Ponta   1448   1820   1
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh               372,00       0,782550        291,11       14,06         291,11   20      58,22   0,588270
+Adic. B. Amarela                                            4,51        0,22           4,51   20       0,90
+
+
+
+
+                           TOTAL:                         295,62       14,28         295,62           59,12
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         236,48    1,0765      2,55
+COFINS      236,48    4,9583     11,73
+ICMS        295,62     20,00     59,12
+DIC     24,00   0,00   0,00   0,00
+FIC      7,00   0,00   0,00   0,00
+DMIC    18,00   0,00
+DICRI   26,00
+DEZ/24   372,00     0,00
+NOV/24   344,00     0,00
+OUT/24   296,00     0,00
+SET/24   332,00     0,00
+AGO/24   267,00     0,00
+JUL/24   209,00     0,00
+JUN/24    30,00 *   0,00
+MAI/24    30,00 *   0,00
+ABR/24    30,00 *   0,00
+MAR/24    30,00     0,00
+FEV/24   274,00 *   0,00
+JAN/24   270,00 *   0,00
+DEZ/23   273,00 *   0,00
+

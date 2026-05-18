@@ -1,0 +1,48 @@
+PM DE AGUIAR POCO
+
+DOMICÍLIO DE ENTREGA
+PM DE AGUIAR POCO
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0149 - 420 - 6345                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5043539307                            DOM. BANC.:
+MATRÍCULA: 1929815-2021-6-8                            DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PROJETADA, S/N
+CONJUNTO
+AGUIAR (AG: 144)
+Junho/2021
+5/1929815-7
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                        130,00    0,562110    0,787530      102,38        102,38   25      25,59          76,78        0,66          3,04
+0601 Adic. B. Vermelha                                                           9,67          9,67   25       2,42           7,25        0,06          0,29
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         112,05        112,05           28,01          84,03        0,72          3,33
+JUN/21   130,00
+MAI/21   343,00
+ABR/21   581,00
+MAR/21   627,00
+FEV/21   536,00
+JAN/21   560,00
+DEZ/20   573,00
+NOV/20   609,00
+OUT/20   576,00
+SET/20   570,00
+AGO/20   601,00
+JUL/20   558,00
+JUN/20   381,00
+DIC      6,47   1,31   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   1,31
+DICRI   12,22
+

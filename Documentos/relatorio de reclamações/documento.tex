@@ -13,6 +13,8 @@
 \usepackage{sectsty}
 \usepackage{titlesec}
 \usepackage{indentfirst}\usepackage{tabularx}
+\usepackage{longtable}
+
 \renewcommand{\familydefault}{\sfdefault}
 \allsectionsfont{\sffamily\fontsize{12}{14}\selectfont}
 
@@ -53,14 +55,19 @@ As reclamações encontram-se em acompanhamento perante a Ouvidoria da ANEEL e a
 
 Atualmente, foram identificadas 22 reclamações, a maioria concluída e algumas ainda em análise, como mostra a tabela \ref{tabela_resumo}.
 
-\begin{table}[H]
-\centering
-\caption{Resumo de Reclamações por Situação}
-\renewcommand{\arraystretch}{1.5}
-\begin{tabularx}{16cm}{|>{\centering\arraybackslash}X|>{\centering\arraybackslash}c|}
+\setlength{\extrarowheight}{0.5cm}
+\begin{longtable}{|>{\centering\arraybackslash}m{8cm}|>{\centering\arraybackslash}m{8cm}|}
+\caption{Resumo de Reclamações por Situação} \label{tabela_resumo} \\
 \hline
 \textbf{Situação} & \textbf{Quantidade} \\
 \hline
+\endfirsthead
+\hline
+\textbf{Situação} & \textbf{Quantidade} \\
+\hline
+\endhead
+\hline
+\endfoot
 Concluída & 15 \\
 \hline
 Em análise na ouvidoria da ANEEL & 1 \\
@@ -69,9 +76,7 @@ Pendente contestação & 6 \\
 \hline
 \textbf{Total} & \textbf{22} \\
 \hline
-\end{tabularx}
-\label{tabela_resumo}
-\end{table}
+\end{longtable}
 
 A maior parte das demandas ainda em tramitação estão com pendencia de contestação na ouvidoria da concessionária. 
 
@@ -79,14 +84,23 @@ A maior parte das demandas ainda em tramitação estão com pendencia de contest
 
 \chapter{Principais Teses em Discussão}
 
-\begin{table}[H]
-\centering
-\caption{Resumo de teses em discussão}
-\renewcommand{\arraystretch}{1.5}
-\begin{tabularx}{16cm}{|>{\centering\arraybackslash}X|>{\centering\arraybackslash}c|}
+A tese de maior recorrência é a de cobrança indevida, principallemnte em função de  enquadramento AES, presente em 12 reclamações,e Enquadrammento IP, presente em 6 reclamações.  
+
+Também há volume relevante de reclamações de outros tipos de cobrança indevida, como parcela DIC/2, valor incompatível com QIP e perda nos reatores.
+
+\setlength{\extrarowheight}{0.5cm}
+\begin{longtable}{|>{\centering\arraybackslash}m{8cm}|>{\centering\arraybackslash}m{8cm}|}
+\caption{Resumo de teses em discussão} \label{tabela_teses} \\
 \hline
 \textbf{Tese/assunto} & \textbf{Quantidade} \\
 \hline
+\endfirsthead
+\hline
+\textbf{Tese/assunto} & \textbf{Quantidade} \\
+\hline
+\endhead
+\hline
+\endfoot
 Enquadramento IP & 6 \\
 \hline
 Enquadramento AES & 12 \\
@@ -101,33 +115,116 @@ Perda nos reatores & 1 \\
 \hline
 \textbf{Total} & \textbf{22} \\
 \hline
-\end{tabularx}
-\label{tabela_teses}
-\end{table}
+\end{longtable}
 
 \vspace{3cm}
 
-\chapter{Planilha Detalhada de Reclamações}
+\chapter{Planilhas Detalhadas de Reclamações}
 
+\setlength{\extrarowheight}{0.5cm}
+\begin{longtable}{|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{5cm}|>{\centering\arraybackslash}m{4cm}|}
+\caption{Detalhamento das Reclamações} \\
+\hline
+\textbf{Reclamação} & \textbf{Unidade Consumidora} & \textbf{Objeto da demanda} & \textbf{Status} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Reclamação} & \textbf{Unidade Consumidora} & \textbf{Objeto da demanda} & \textbf{Status} \\
+\hline
+\endhead
+\hline
+\endfoot
+002/2025 & 385967-5 & Enquadramento AES & Pendente de contestação \\
+\hline
+003/2025 & 1389500-8 & Enquadramento AES & Concluído \\
+\hline
+004/2025 & 1389600-6 & Enquadramento AES & Concluído \\
+\hline
+005/2025 & 1389624-6 & Enquadramento AES & Concluído \\
+\hline
+006/2025 & 1389638-6 & Enquadramento AES & Pendente de contestação \\
+\hline
+007/2025 & 1389646-9 & Enquadramento AES & Concluído \\
+\hline
+008/2025 & 1389869-7 & Enquadramento AES & Concluído \\
+\hline
+009/2025 & 1390173-1 & Enquadramento AES & Concluído \\
+\hline
+010/2025 & 1390226-7 & Enquadramento AES & Pendente de contestação \\
+\hline
+011/2025 & 1571531-1 & Enquadramento AES & Concluído \\
+\hline
+012/2025 & 1599798-4 & Enquadramento AES & Pendente de contestação \\
+\hline
+013/2025 & 1882785-7 & Enquadramento AES & Concluído \\
+\hline
+014/2025 & 12630-0 & Enquadramento IP & Concluído \\
+\hline
+015/2025 & 536551-5 & Enquadramento IP & Concluído \\
+\hline
+016/2025 & 1066648-5 & Enquadramento IP & Concluído \\
+\hline
+017/2025 & 1271871-4 & Enquadramento IP & Concluído \\
+\hline
+018/2025 & 1452856-6 & Enquadramento IP & Concluído \\
+\hline
+019/2025 & 1453356-6 & Enquadramento IP & Concluído \\
+\hline
+020/2025 & 207926 & Perdas nos reatores & Em análise na ouvidoria da ANEEL \\
+\hline
+021/2025 & S/I & Não isenção do Imposto de Renda & Concluído \\
+\hline
+022/2025 & 207926 & Ausência parcela DIC/2 & Concluído \\
+\hline
+001/2026 & 207926 & IP Estimada & Pendente de contestação \\
+\hline
+\end{longtable}
+
+\setlength{\extrarowheight}{0.5cm}
+\begin{longtable}{|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{7cm}|>{\centering\arraybackslash}m{5cm}|}
+\caption{Resumo Financeiro das Teses Deferidas} \label{tabela_resumo_financeiro} \\
+\hline
+\textbf{Reclamação} & \textbf{Tese Deferida} & \textbf{Valor Deferido (R\$)} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Reclamação} & \textbf{Tese Deferida} & \textbf{Valor Deferido (R\$)} \\
+\hline
+\endhead
+\hline
+\endfoot
+005/2025 & Enquadramento AES & 686,56 \\
+\hline
+008/2025 & Enquadramento AES & 3.561,71 \\
+\hline
+011/2025 & Enquadramento AES & 6.811,96 \\
+\hline
+020/2025 & Perdas nos reatores & 213.668,79 \\
+\hline
+022/2025 & Ausencia de parcela DIC/2 & 7.797,86 \\
+\hline
+\textbf{Total} &  & \textbf{232.526,88} \\
+\hline
+\end{longtable}
+
+
+
+\vspace{3cm}
+
+\chapter{Análise Gerencial}
+
+As demandas de Pombal estão concentradas em temas de impacto financeiro. 
+
+O primeiro ponto de atenção refere-se aos enquadramentos incorretos, que representam a maior parte das reclamações em andamento. 
+
+O segundo ponto relevante envolve as reclamações que ainda serão contestadas, essas poderão gerar devoluções significativas, principalmente as relacionadas ao enquadramento AES, que tem potencial de gerar devolução de aproximadamente 10 mil.
+
+Há ainda reclamação específica sobre solicitação de devolução complementar referente ao período de 10 anos, tema que deve gerar retorno financeiro de aproximadamente 60 mil. 
 \section*{}
 
-\begin{table}[H]
-\centering
-\begin{tabular}{|p{2cm}|p{3cm}|p{3cm}|p{3cm}|p{2cm}|}
-\hline
-\textbf{ID} & \textbf{Data} & \textbf{Descrição} & \textbf{Assunto} & \textbf{Status} \\
-\hline
- &  &  &  &  \\
-\hline
-\end{tabular}
-\end{table}
-
 \vspace{3cm}
 
-\chapter{Análise Geral}
+\chapter{Conclusão}
 
-\section*{}
-
-\vspace{3cm}
 
 \end{document}

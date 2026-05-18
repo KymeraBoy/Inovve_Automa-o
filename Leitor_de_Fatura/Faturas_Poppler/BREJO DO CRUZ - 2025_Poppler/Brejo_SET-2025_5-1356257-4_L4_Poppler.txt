@@ -1,0 +1,47 @@
+PM BREJO DO CRUZ TELECENTRO
+
+RUA SAO VICENTE DE PAULO, S/N - 58890000
+
+
+CENTRO
+BREJO DO CRUZ (AG: 237)
+Setembro / 2025
+5/1356257-4
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+COMERCIAL / OUTROS SERVIÇOS E OUTRAS ATIVIDADES
+LIGAÇÃO: TRIFASICO
+7031614780   Energia ativa em kWh   Ponta   26010   26549   1
+                                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS        Tarifa
+Itens da Fatura                            Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)    Unit (R$)
+Consumo em kWh                            KWH        539,00       0,832820        448,89       17,71         448,89   20      89,78    0,633410
+Energia Atv Injetada GDI mUC 2/2024 mPT   KWH        139,00       0,730240       -101,50        -4,56        -44,46   20       -8,89   0,633410
+Energia Atv Injetada GDI mUC 3/2024 mPT   KWH        300,00       0,730240       -219,07        -9,86        -95,98   20      -19,20   0,633410
+Adic. B. Vermelha                                                                  10,36        0,41          10,36   20       2,07
+
+
+
+
+                                                   TOTAL:                         138,68        3,70         318,81           63,76
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          74,93    0,8795      0,66
+COFINS       74,93    4,0510      3,04
+ICMS        318,81     20,00     63,76
+DIC     12,00   0,00   999,00   999,00
+FIC      4,00   0,00   999,00   999,00
+DMIC     9,00   0,00
+DICRI   13,00
+SET/25   539,00
+AGO/25   601,00
+JUL/25   596,00
+JUN/25   628,00
+MAI/25   575,00
+ABR/25   628,00
+MAR/25   624,00
+FEV/25   648,00
+JAN/25   775,00
+DEZ/24   854,00
+NOV/24   763,00
+OUT/24   642,00
+SET/24   659,00
+

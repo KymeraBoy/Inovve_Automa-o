@@ -1,0 +1,48 @@
+PM AGUIAR SINAL DE TELEVISAO
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR SINAL DE TELEVISAO
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0149 - 410 - 3120                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008861733                            DOM. BANC.:
+MATRÍCULA: 136371-2021-6-3                             DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SEVERINO AMANCIO, S/N
+CENTRO
+AGUIAR (AG: 144)
+Junho/2021
+5/136371-2
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Custo de Disponibilidade                                                   78,75         78,75   25      19,69          59,06        0,50          2,34
+0601 Adic. B. Vermelha                                                           7,34          7,34   25       1,83           5,51        0,05          0,22
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          86,09         86,09           21,52          64,57        0,55          2,56
+JUN/21   35,00
+MAI/21   49,00
+ABR/21   43,00
+MAR/21   90,00
+FEV/21   79,00
+JAN/21   74,00
+DEZ/20   87,00
+NOV/20   88,00
+OUT/20   88,00
+SET/20   97,00
+AGO/20   80,00
+JUL/20   86,00
+JUN/20   81,00
+DIC      6,47   1,31   12,94   25,89
+FIC      3,48   1,00    6,97   13,95
+DMIC     3,80   1,31
+DICRI   12,22
+

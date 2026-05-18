@@ -1,0 +1,46 @@
+PM AGUIAR ACADEMIA DE SAUDE
+
+RUA PROJETADA, S/N - RUA SATURNINO VIEIRA - 58778000
+
+
+EVANDRO CABRAL
+AGUIAR (AG: 144)
+Novembro / 2024
+5/1633650-5
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL
+LIGAÇÃO: MONOFASICO
+0008549649   Energia ativa em kWh   Ponta   1409   1464   1
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                 55,00       0,777730         42,77        1,86          42,77   20       8,56   0,588270
+Adic. B. Amarela                                             0,67        0,02           0,67   20       0,13
+Adic. B. Vermelha                                            2,91        0,12           2,91   20       0,58
+
+
+
+
+                            TOTAL:                          46,35        2,00          46,35            9,27
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          37,05    0,9725      0,35
+COFINS       37,05    4,4795      1,65
+ICMS         46,35     20,00      9,27
+DIC     12,00   0,00   0,00   0,00
+FIC      5,00   0,00   0,00   0,00
+DMIC     9,00   0,00
+DICRI   13,00
+NOV/24   55,00     0,00
+OUT/24   82,00     0,00
+SET/24    0,00 *   0,00
+AGO/24   14,00     0,00
+JUL/24   40,00     0,00
+JUN/24   20,00     0,00
+MAI/24   17,00     0,00
+ABR/24   20,00     0,00
+MAR/24   24,00     0,00
+FEV/24   11,00     0,00
+JAN/24   16,00     0,00
+DEZ/23   20,00     0,00
+NOV/23   18,00     0,00
+
