@@ -199,6 +199,8 @@ def cropper_logic_energisa(input_path, output_path, template):
     elif recortes == template["LAYOUT_3"]:
         novo_nome += extrair_municipio_robusto(re.sub(r"\s*/\s*", " ", linhas[municipio[0] + 3])) + "_" + linhas[data[0] + 1] + "_" + linhas[unidade[0] + 1] + "_L3"
     elif recortes == template["LAYOUT_4"]:
+        print(linhas)
+        print(unidade[0] + 1)
         novo_nome += extrair_municipio_robusto(re.sub(r"\s*/\s*", " ", linhas[data[0] - 2])) + "_" + linhas[data[0] + 1].replace(" ", "") + "_" + linhas[unidade[0] + 1] + "_L4"
     elif recortes == template["LAYOUT_5"]:
         novo_nome += extrair_municipio_robusto(re.sub(r"\s*/\s*", " ", linhas[l_5[0] + 2])) + "_" + linhas[data[0] + 1] + "_" + linhas[unidade[0] + 1] + "_L5"

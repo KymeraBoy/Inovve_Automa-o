@@ -315,15 +315,17 @@ def format_energisa(texto, filename=None):
     # Essa é a primeira aba da planilha que será gerada, e tem como ojetivo servir de guia de UCs do município além de facilitar a análise de Enquadramento.
 
     
-    info = ["UNIDADE:","FORNECIMENTO:","CLASSIFICAÇÃO:","DESTINO:"]
+    info = ["UNIDADE:","FORNECIMENTO:","CLASSIFICAÇÃO:","DESTINO:","DADOS_DE_MEDIÇÃO:"]
+    info = [termo for termo in info if termo in texto]
     vetor = []
 
     for i in range(0, len(info)):
         for e in range(1, len(Linha_para_Vetor(texto, Index(texto, info[i])[0]))):
             vetor.append(Linha_para_Vetor(texto, Index(texto, info[i])[0])[e])
-
-    if len(vetor) > 6:
-        vetor = vetor[:6] + [" ".join(vetor[6:])]
+            if info[i] == "DESTINO:":
+                vetor = vetor[:6] + [" ".join(vetor[6:])]
+            if info[i] == "DADOS_DE_MEDIÇÃO:":
+                vetor = vetor[:8] 
     if any(linha[0] == vetor[0] for linha in aba_info_geral) == False:
         aba_info_geral.append(vetor)
     

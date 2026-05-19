@@ -120,6 +120,7 @@ def integralaiser_orchestrator():
     txt_dir = PATH_POPPLER / f"{selected_folder}_Poppler"
     if not os.path.exists(dst_dir): os.makedirs(dst_dir)
     if not os.path.exists(txt_dir): os.makedirs(txt_dir)
+    
 
     lista = os.listdir(src_dir)
     pdf_files = [file_name for file_name in lista if file_name.lower().endswith('.pdf')]

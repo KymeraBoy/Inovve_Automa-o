@@ -28,6 +28,6 @@ def desfolhar_pasta(caminho_principal):
                 pass
 
 if __name__ == "__main__":
-    pasta = r"C:\Users\Usuário 1\Documents\Inovve_Automação\Leitor_de_Fatura\Faturas\PDFs_Divididos"
+    pasta = r"C:\Users\Usuário 1\Documents\Inovve_Automação\Leitor_de_Fatura\Faturas\2020"
     desfolhar_pasta(pasta)
     print("Processo concluído!")

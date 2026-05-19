@@ -334,26 +334,26 @@ def compilar_documento(pasta, arquivo_tipo, arquivo_municipio, num_reclamacao, u
     # Verificar se o TEX existe
     if not tex_origem.exists():
         print(f"\n❌ Erro: TEX não encontrado em {tex_origem}")
-        return False, None, None, None
+        return False, None, None
     
     # Atualizar imports
     if not atualizar_inputs_documento(tex_origem, arquivo_municipio, arquivo_tipo):
-        return False, None, None, None
+        return False, None, None
     print("✓ Importações de município e reclamação atualizadas!")
     
     # Atualizar valores
     if not atualizar_newcommand_tex(tex_origem, "numReclamacao", num_reclamacao):
-        return False, None, None, None
+        return False, None, None
     
     if not atualizar_newcommand_tex(tex_origem, "unidadeConsumidora", unidade_consumidora):
-        return False, None, None, None
+        return False, None, None
     
     # Extrair e atualizar Reclamacao do arquivo tipo
     caminho_tipo = base_dir / pasta / "Tipos_de_reclamacao" / arquivo_tipo
     valor_reclamacao = extrair_comando_latex(caminho_tipo, "subrec")
     if valor_reclamacao:
         if not atualizar_newcommand_tex(tex_origem, "Reclamacao", valor_reclamacao):
-            return False, None, None, None
+            return False, None, None
     else:
         print(f"⚠ Aviso: Não foi possível extrair \\subrec de {arquivo_tipo}")
     
@@ -362,11 +362,11 @@ def compilar_documento(pasta, arquivo_tipo, arquivo_municipio, num_reclamacao, u
     # Compilar
     print("\nCompilando Documento.tex...")
     if not compilar_documento_pdf(tex_origem):
-        return False, None, None, None
+        return False, None, None
     
     if not pdf_origem.exists():
         print(f"\n❌ Erro: PDF não encontrado após compilação")
-        return False, None, None, None
+        return False, None, None
     
     print("✓ Documento.pdf compilado!")
     

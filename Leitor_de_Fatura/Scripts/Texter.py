@@ -157,7 +157,7 @@ def texter_orchestrator():
     if funcao_formatadora is format_energisa:
 
         # 5.1 ABA DE INFORMAÇÃO GERAL
-        colunas_base_info_geral = ["UNIDADE", "FORNECIMENTO", "NÍVEL DE TENSÃO", "CÓDIGO", "CLASSIFICAÇÃO", "DESTINO", "ENDEREÇO"]
+        colunas_base_info_geral = ["UNIDADE", "FORNECIMENTO", "NÍVEL DE TENSÃO", "CÓDIGO", "CLASSIFICAÇÃO", "DESTINO", "ENDEREÇO","MEDIDOR"]
         max_colunas_info_geral = max((len(linha) for linha in aba_info_geral), default=0)
 
         cabecalho_info_geral = []
