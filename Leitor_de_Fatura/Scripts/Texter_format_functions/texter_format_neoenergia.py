@@ -1,5 +1,6 @@
 import re
 
+
 from texter_utils import (Index, Linha, Apagar_linhas, Juntar,
                           Linha_para_Vetor, Justificar,
                           aba_info_geral, historico, aba_historico_consumo)

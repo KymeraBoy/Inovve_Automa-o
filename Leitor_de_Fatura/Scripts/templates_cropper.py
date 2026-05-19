@@ -106,14 +106,19 @@ TEMPLATES = {
         ]
     },
     "NEOENERGIA": {
+        "TESTE": [
+            recortes((5.68,7.88,198.99,6)),
+            recortes((35,80,130,10))
+        ],
         "AGRUPADA": [
             recortes((6.00, 42.85, 83.94, 39.92)),      # DADOS DO CLIENTE
             recortes((164.70, 71.90, 30.96, 11.22)),    # MES DE REFERENCIA
             recortes((165.02, 43.03, 30.92, 27.89)),    # CODIGO DA CONTA COMPARTILHADA
         ],
         "INDIVIDUAL_NEW": [
-            recortes((74.83, 26.83, 27.89, 19.06)),     # CODIGO (CONSTANTE)
             recortes((4.94, 24.71, 69.89, 22.94)),      # DADOS E ENDERECO (VARIAVEL)
+            recortes((5, 48, 25, 7)),     # MÊS DE REFERENCIA (CONSTANTE)
+            recortes((74.83, 26.83, 27.89, 19.06)),     # CODIGO (CONSTANTE)
             recortes((4.94, 54.71, 68.83, 7.06)),       # CLASSIFICACAO (CONSTANTE)
             recortes((159.90, 106.60, 44.83, 52.95)),   # HISTORICO DE CONSUMO
             recortes((103.00, 160.85, 16.98, 19.98)),   # CONSUMO
@@ -126,5 +131,5 @@ TEMPLATES = {
             recortes((153.90, 134.49, 35.30, 52.95)),   # HISTORICO DE CONSUMO
             recortes((103.00, 192.49, 24.17, 15.45)),   # CONSUMO
         ]
-    }
+    }   
 }
