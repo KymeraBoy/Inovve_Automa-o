@@ -21,7 +21,7 @@
   \renewcommand{\familydefault}{\sfdefault}
 \else % if luatex or xetex
   \usepackage{fontspec}
-  \setmainfont{Tahoma}
+  \setmainfont{Georgia}
   \setsansfont{Tahoma}
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
@@ -64,8 +64,8 @@
   % Para RUDA: cabeçalho centralizado com 90% da largura da página
   \AddToShipoutPictureBG{%
     \AtPageUpperLeft{%
-      \hspace*{0.05\paperwidth}%
-      \raisebox{-\height}{\includegraphics[width=0.9\paperwidth]{Ruda_Header.png}}%
+      \hspace*{0.5\paperwidth}%
+      \raisebox{-3cm}{\makebox[0pt][c]{\includegraphics[width=0.8\paperwidth]{Ruda_Header.png}}}%
     }%
   }%
 }{%
@@ -85,36 +85,38 @@
   \item \textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
   \begin{enumerate}
     \item Procuração \dotfill 1
-    \item Validação das assinaturas \dotfill 3
-    \item Kit prefeito \dotfill 8
-    \item Contrato Social da Empresa \dotfill 27
-    \item Documento de Identificação do Representante \dotfill 33
+    % \item Validação das assinaturas \dotfill 3
+    \item Kit prefeito \dotfill 2
+    \item Contrato Social da Empresa \dotfill 9
+    \item Documento de Identificação do Representante \dotfill 15
   \end{enumerate}
+
   \item \textbf{Anexo II -- Documentos contratuais \dotfill 1}
   \begin{enumerate}
     \item Contrato \dotfill 1
-    \item Validação das assinaturas do contrato \dotfill 5
-    \item Publicação do Contrato em Diário Oficial \dotfill 14
+    % \item Validação das assinaturas do contrato \dotfill 5
+    \item Publicação do Contrato em Diário Oficial \dotfill 15
   \end{enumerate}
 
   \item \textbf{Anexo III -- 1º Termo Aditivo \dotfill 1}
   \begin{enumerate}
     \item 1º Aditivo \dotfill 1
-    \item Validação das assinaturas do 1º Aditivo \dotfill 2   
-    \item Publicação do 1º Aditivo em Diário Oficial\dotfill 7
+    % \item Validação das assinaturas do 1º Aditivo \dotfill 2   
+    \item Publicação do 1º Aditivo em Diário Oficial\dotfill 5
   \end{enumerate}
-  \item \textbf{Anexo IV -- 2º Termo Aditivo \dotfill 1}
-  \begin{enumerate}
-    \item 2º Aditivo \dotfill 1
-    \item Validação das assinaturas do 2º Aditivo \dotfill 3
-    \item Publicação do 2º Aditivo em Diário Oficial\dotfill 13
-  \end{enumerate}
-  \item \textbf{Anexo V -- 3º Termo Aditivo \dotfill 1}
-  \begin{enumerate}
-    \item 3º Aditivo \dotfill 1
-    \item Validação das assinaturas do 3º Aditivo \dotfill 2
-    \item Publicação do 3º Aditivo em Diário Oficial\dotfill 11
-  \end{enumerate}
+
+  % \item \textbf{Anexo IV -- 2º Termo Aditivo \dotfill 1}
+  % \begin{enumerate}
+  %   \item 2º Aditivo \dotfill 1
+  %   \item Validação das assinaturas do 2º Aditivo \dotfill 3
+  %   \item Publicação do 2º Aditivo em Diário Oficial\dotfill 13
+  % \end{enumerate}
+  % \item \textbf{Anexo V -- 3º Termo Aditivo \dotfill 1}
+  % \begin{enumerate}
+  %   \item 3º Aditivo \dotfill 1
+  %   \item Validação das assinaturas do 3º Aditivo \dotfill 2
+  %   \item Publicação do 3º Aditivo em Diário Oficial\dotfill 11
+  % \end{enumerate}
 \end{enumerate}
 
 \end{document}

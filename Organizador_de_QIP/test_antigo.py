@@ -2,7 +2,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from QIPer import _is_qip_antigo, _extract_mes_ano_municipio_from_qip_antigo, _extract_table_from_qip_antigo
+from Organizador_de_QIP.Testes.QIPer import _is_qip_antigo, _extract_mes_ano_municipio_from_qip_antigo, _extract_table_from_qip_antigo
 
 pdf_path = Path(__file__).resolve().parent / "Testes" / "QIP-AGUIAR-2015_07.pdf"
 
