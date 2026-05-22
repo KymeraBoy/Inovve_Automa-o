@@ -178,15 +178,28 @@ def normalize_uc(raw_uc: str) -> str:
 
 
 def extract_unidade_consumidora(text: str) -> str | None:
+	# Nas faturas novas, a UC costuma aparecer como "5/25806-1" no corpo do texto.
+	# Priorizar esse padrão evita capturar a matrícula longa (ex.: 25806-2025-9-7).
+	priority_global_patterns = [
+		re.compile(r"\b(\d+/\d{4,}-\d)\b"),
+		re.compile(r"\b(\d{10}-\d)\b"),
+	]
+	for pattern in priority_global_patterns:
+		match = pattern.search(text)
+		if match:
+			return normalize_uc(match.group(1))
+
 	patterns_near_matricula = [
 		re.compile(r"\b(\d{10}-\d)\b"),
-		re.compile(r"\b(\d+/\d{6,}-\d)\b"),
+		re.compile(r"\b(\d+/\d{4,}-\d)\b"),
 		re.compile(r"\b(\d{10})\b"),
-		re.compile(r"\b(\d+/\d{8,10})\b"),
+		re.compile(r"\b(\d+/\d{4,10})\b"),
+		re.compile(r"\b(\d{4,6}-\d{4}-\d-\d)\b"),
 	]
 	patterns_global = [
 		re.compile(r"\b(\d{10}-\d)\b"),
-		re.compile(r"\b(\d+/\d{6,}-\d)\b"),
+		re.compile(r"\b(\d+/\d{4,}-\d)\b"),
+		re.compile(r"\b(\d{4,6}-\d{4}-\d-\d)\b"),
 	]
 
 	lines = [line.strip() for line in text.splitlines() if line.strip()]
