@@ -401,10 +401,28 @@ def texter_orchestrator():
     funcao_formatadora = FORMATADORES[formatos[fmt_choice]]
 
     if funcao_formatadora is format_energisa:
-        PATH_ANALISE.mkdir(parents=True, exist_ok=True)
-        dst_dir_name = selected_subfolder.replace("Poppler", "Analaiser")
-        dst_dir = PATH_ANALISE / dst_dir_name
-        gerar_planilhas_energisa_por_uc(src_dir, dst_dir, funcao_formatadora)
+        files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == '.txt'])
+
+        for file_name in files:
+            input_path = src_dir / file_name
+            print(f"Processando: {file_name}...")
+
+            conteudo_bruto = carregar_arquivo(input_path)
+            conteudo_formatado = funcao_formatadora(conteudo_bruto, file_name)
+
+            if isinstance(conteudo_formatado, dict):
+                conteudo_saida = conteudo_formatado.get("texto", "")
+            else:
+                conteudo_saida = str(conteudo_formatado)
+
+            output_name = file_name.replace("Poppler", "Texter")
+            if output_name == file_name:
+                output_name = file_name.replace(".txt", "_Texter.txt")
+
+            output_path = dst_dir / output_name
+            salvar_arquivo(output_path, conteudo_saida)
+            print(f"[OK] Arquivo Texter criado: {output_path}")
+
         return
 
     # ========== 2.1 MODO DE SAÍDA ========== #

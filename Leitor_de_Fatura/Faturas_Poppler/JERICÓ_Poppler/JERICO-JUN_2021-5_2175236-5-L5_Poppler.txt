@@ -1,0 +1,132 @@
+ANA MARIA DA SILVA SOUZA
+
+DOMICÍLIO DE ENTREGA
+ANA MARIA DA SILVA SOUZA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0253 - 720 - 2460                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000092261                            DOM. BANC.:
+MATRÍCULA: 2175236-2021-6-6                            DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA LAURENTINO DE SOUSA MELO, 263
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0002175236-5
+5/2175236-5
+              R$ 0,00
+
+
+              Junho/2021
+CNPJ/CPF/RANI: 21X.XXX.XX4-87
+Insc. Est.:
+23/07/2021
+               1,03 kWh
+             MÉDIA DIÁRIA
+30 kWh
+                               FATURAS EM ATRASO
+                              23/06/2021      24,70
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+17/07/2021.
+Regularize seus débitos.
+21/06/2021   02/07/2021   20/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Custo de Disponibilidade                                                   23,62         23,62   25      5,91           17,72        0,15          0,70
+0601 Adic. B. Vermelha                                                           2,30          2,30   25      0,57            1,71        0,01          0,07
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                               0,24                 0       0,00            0,00        0,00          0,00
+0999 DEBITO A COMPENSAR 06/2021                                                 -2,89                 0       0,00            0,00        0,00          0,00
+0999 PAGTO DUPLICIDADE ( - ) 05/2021                                           -23,93                 0       0,00            0,00        0,00          0,00
+0805 MULTA 04/2021                                                               0,48                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                       0,18                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:           0,00         25,92           6,48           19,43        0,16          0,77
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  2175236-2021-6-6           23/07/2021         66164176       R$ 0,00
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 17/07/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- Imóvel desocupado com acesso ao medidor
+DIC          6,27     0,00   12,54   25,08
+FIC          3,36     0,00    6,72   13,45
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      6,82 25,44
+Compra de energia                            8,98 33,48
+Serviço de transmissão                       1,29   4,81
+Encargos setoriais                           1,42   5,29
+Impostos diretos e encargos                  8,31 30,98
+Outros serviços                              0,00   0,00
+Total                                       26,82 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2021): R$ 10,31
+- Constatamos em nossos arquivos pagamento em duplicidade de
+fatura de energia elétrica. Estamos efetuando a devolução do
+valor pago a maior, conforme valores exibidos no Demonstrativo
+abaixo.
+ - 5/2021 R$ 23.93
+-A PRINCIPAL SOLUÇÃO NA LUTA CONTRA O COVID-19 TEM
+NOME: VACINA. Se você já tomou a primeira dose, não se
+esqueça de retornar para aplicar a segunda dose.
+Se ainda não chegou a sua vez de se vacinar, informe-se
+sobre o calendário da sua cidade e não deixe sua data passar.
+VACINE-SE E APOIE O MOVIMENTO UNIDOS PELA VACINA.
+8   JUN/21      0,00 *
+5   MAI/21      2,00
+    ABR/21      1,00
+    MAR/21
+    FEV/21
+    JAN/21
+    DEZ/20
+    NOV/20
+    OUT/20
+    SET/20
+    AGO/20
+    JUL/20
+    JUN/20
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 20/05/2021   Leitura Atual: 18/06/2021   Dias: 29
+
+
+KWH   Ponta   57.921,00    57.921,00      1              0                                    0,00          30,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

@@ -1,0 +1,137 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 118)
+
+ROTEIRO: 003 - 0118 - 065 - 1120
+MATRÍCULA: 18611-2026-1-5
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO CASA DE APOIO
+
+RUA ESC RUI BARBOSA, 85 - 58700060
+
+
+CENTRO
+PATOS (AG: 118)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Janeiro / 2026   23/02/2026   R$ 143,87
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh     KWH        156,00       0,902460        140,78        7,23         140,78   20      28,15   0,675650
+Adic. B. Amarela                                             3,09        0,16           3,09   20       0,62
+
+
+
+
+                            TOTAL:                         143,87        7,39         143,87           28,77
+00008419215   Energia ativa em kWh   Ponta   80314   80471   1   156
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   18611-2026-1-5       23/02/2026       7201349        R$ 143,87
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 04/02/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00000186114
+05/12/2025   07/01/2026   33   04/02/2026
+5/18611-4
+
+00008419215
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         115,08    1,1446      1,32
+COFINS      115,08    5,2721      6,07
+ICMS        143,87     20,00     28,77
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/26                33
+              DEZ/25                30
+              NOV/25                30
+              OUT/25                32
+Consumo kWh
+
+
+
+
+              SET/25                29
+              AGO/25                33
+              JUL/25                30
+              JUN/25                29
+              MAI/25                32
+              ABR/25                28
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+  143,87                  28,77
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+
+
+EMITIDO EM CONTINGÊNCIA Pendente de Autorização
+.
+- Perda do Ramal: 1 kWh
+- Leitura confirmada
+- Leitura confirmada
+DIC         10,00    0,00   999,00      999,00
+FIC          4,00    0,00   999,00      999,00
+DMIC         7,00    0,00
+DICRI       13,00
+
+
+Conjunto:    JATOBÁ
+
+Referência:                          11/2025
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      36,11    25,10
+Compra de energia                            43,83    30,47
+Serviço de transmissão                        7,99     5,55
+Encargos setoriais                           19,78    13,75
+Impostos diretos e encargos                  36,16    25,13
+Outros serviços                               0,00     0,00
+Total                                       143,87   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2025): R$ 49,33
+JAN/26    156,00
+DEZ/25    207,00
+NOV/25    209,00
+OUT/25    229,00
+SET/25    233,00
+AGO/25    250,00
+JUL/25    212,00
+JUN/25    241,00
+MAI/25    280,00
+ABR/25    235,00
+MAR/25    209,00
+FEV/25    303,00
+JAN/25    434,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 05/12/2025      Leitura Atual: 07/01/2026   Dias: 33
+
+
+
+KWH   Ponta   80.471,00      80.314,00       1,00                                                  156,00            156,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

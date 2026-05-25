@@ -1,0 +1,108 @@
+Domicílio de Entrega:
+EMEF DO ASSENTAMENTO ALTO ALEGRE JERICO
+RUA LOPES FIGUEIREDO 110
+
+
+JERICÓ (AG: 245)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 009 - 0253 - 731 - 0855
+Nº do Medidor: 00008254281
+MATRÍCULA: 1469905-2020-1-6
+DOM. ENT.: 9999253002
+   EMEF DO ASSENTAMENTO ALTO ALEGRE JERICO
+CO SIT ALTO ALEGRE, S/N - 58830000
+  AREA RURAL
+  JERICO-PB (AG: 245)
+                                                       ENER
+                                             Br 230, Km 25 -
+
+
+   LIGAÇÃO: TRIFASICO
+   DOM. BANC.:
+   CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+   Insc. Est.:
+               Emissão: 16/01/2020         Identificador para Débito Automático:   0001469905-2
+
+
+
+Janeiro/2020   03/02/2020            13/02/2020                   5/1469905-2
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        121,00   0,545400        0,785840         95,08         95,08    25     23,77           95,08       0,95         4,37
+0601 Adic. B. Amarela                                                                 2,34          2,34    25      0,58            2,34       0,02         0,11
+
+
+
+
+CCI: Código de Classificação do Item                            Total:               97,42         97,42           24,35           97,42       0,97         4,48
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                             25,93
+                                                        %
+                                                       26,62   2
+COMPRA DE ENERGIA                            33,95     34,85
+SERVIÇO DE TRANSMISSÃO                         3,85     3,95
+ENCARGOS SETORIAIS                             3,89     3,99
+IMPOSTOS DIRETOS E ENCARGOS                  29,80     30,59
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                          97,42    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 42,36
+23/02/2020   R$ 97,42
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   1469905-2020-1-6          23/02/2020         37488991       R$ 97,42
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         121
+DEZ/19          95
+NOV/19         133
+OUT/19         124
+SET/19         168
+AGO/19          97
+JUL/19         111
+JUN/19         146
+MAI/19         118
+ABR/19         133
+MAR/19         127
+FEV/19         145
+JAN/19          68
+Leitura: 16/12/2019 a 15/01/2020 Dias: 30
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P           8.851,00      8.730,00    1                                              121,00            121,00
+VENCIMENTO   VALOR (R$)
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 18/02/2020. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+DIC MENSAL       11,74       0,00
+DIC TRIMESTRAL   23,48
+DIC ANUAL        46,96
+FIC MENSAL        7,74       0,00
+FIC TRIMESTRAL   15,49
+FIC ANUAL        30,98
+DMIC              6,49       0,00
+DICRI            16,60
+
+
+
+Conjunto: Jericó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 350 a 399
+

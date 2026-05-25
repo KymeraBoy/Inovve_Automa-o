@@ -1,0 +1,112 @@
+PM JERICO CAPELA NOSSA SENHORA DA CONCEICAO
+
+DOMICÍLIO DE ENTREGA
+PM JERICO CAPELA NOSSA SENHORA DA CONCEICAO
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: COMERCIAL / COMERCIAL
+ROTEIRO: 010 - 0253 - 705 - 5440                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7024750211                          DOM. BANC.:
+MATRÍCULA: 1415887-2022-1-7                          DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ARTUR DANTAS DE OLIVEIRA, 0
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                   0001415887-7
+5/1415887-7
+              R$ 461,51
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+               4,39 kWh
+             MÉDIA DIÁRIA
+136 kWh
+19/01/2022   09/02/2022   15/02/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        136,00    0,596920    0,826800      112,44        112,44   25      28,11          84,33        0,56          2,59
+0601 Adic. B. Vermelha                                                          26,74         26,74   25       6,68          20,06        0,13          0,61
+     LANÇAMENTOS E SERVIÇOS
+0807 CONTRIB ILUM PUBLICA                                                       18,05                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 07/2016                                              36,82                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 05/2016                                              37,46                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 04/2016                                              38,40                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 03/2016                                              41,73                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 02/2016                                              44,49                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 01/2016                                              51,99                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 12/2015                                              47,94                 0        0,00           0,00        0,00          0,00
+0805 MULTA 08/2016                                                               1,05                 0        0,00           0,00        0,00          0,00
+0805 MULTA 07/2016                                                               1,10                 0        0,00           0,00        0,00          0,00
+0805 MULTA 05/2016                                                               1,07                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2016                                                               1,07                 0        0,00           0,00        0,00          0,00
+0805 MULTA 03/2016                                                               1,16                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         461,51        139,18           34,79         104,39        0,69          3,20
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1415887-2022-1-7           23/02/2022         78087664      R$ 461,51
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        27,69   6,24
+Compra de energia              57,13 12,88
+Serviço de transmissão          6,25   1,41
+Encargos setoriais              9,43   2,13
+Impostos diretos e encargos   342,96 77,34
+Outros serviços                 0,00   0,00
+Total                         443,46 100,00
+JAN/22    136,00
+DEZ/21    143,00
+NOV/21      0,00 *
+OUT/21      0,00 *
+SET/21      0,00 *
+AGO/21      0,00 *
+JUL/21      0,00 *
+JUN/21      0,00 *
+MAI/21      0,00 *
+ABR/21      0,00
+MAR/21      0,00 *
+FEV/21      0,00 *
+JAN/21      0,00 *
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 18/12/2021   Leitura Atual: 18/01/2022   Dias: 31
+
+
+KWH   Ponta   279,00       143,00      1                                                 136,00         136,00
+
+
+
+
+                                                                                    * K : Constante do Medidor
+

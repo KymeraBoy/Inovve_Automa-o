@@ -1,0 +1,104 @@
+ILUMINACAO PUBLICA - P.M.JERICO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.JERICO
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0253 - 099 - 4100                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 389020-2021-6-0                                 DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                         0000389020-9
+5/389020-9
+          R$ 1.385,46
+
+
+          Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/07/2021
+             1.176,47 kWh
+             MÉDIA DIÁRIA
+35.294 kWh
+05/07/2021   07/07/2021   31/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                     35.294,00    0,309160    0,433140   15.287,53     15.287,53   25      3.821,88      11.465,65       98,84        455,31
+0601 Adic. B. Vermelha                                                       3.087,07      3.087,07   25        771,77       2.315,30       19,96         91,94
+     LANÇAMENTOS E SERVIÇOS
+0999 REPASSE DE CIP 06/2021                                                 -16.989,14                0          0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.385,46     18.374,60           4.593,65      13.780,95      118,80        547,25
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   389020-2021-6-0           23/07/2021         66709459      R$ 1.385,46
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- CONTA REFATURADA
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        4.830,22 26,30
+Compra de energia              6.363,35 34,63
+Serviço de transmissão          915,42    4,98
+Encargos setoriais             1.005,91   5,47
+Impostos diretos e encargos    5.259,70 28,62
+Outros serviços                    0,00   0,00
+Total                         18.374,60 100,00
+-A PRINCIPAL SOLUÇÃO NA LUTA CONTRA O COVID-19 TEM
+NOME: VACINA. Se você já tomou a primeira dose, não se
+esqueça de retornar para aplicar a segunda dose.
+Se ainda não chegou a sua vez de se vacinar, informe-se
+sobre o calendário da sua cidade e não deixe sua data passar.
+VACINE-SE E APOIE O MOVIMENTO UNIDOS PELA VACINA.
+JUN/21   35.294,00
+MAI/21   36.470,00
+ABR/21   37.647,00
+MAR/21   38.823,00
+FEV/21   38.823,00
+JAN/21   36.470,00
+DEZ/20   36.470,00
+NOV/20   35.294,00
+OUT/20   36.470,00
+SET/20   35.294,00
+AGO/20   36.470,00
+JUL/20   36.470,00
+JUN/20   35.294,00
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 31/05/2021   Leitura Atual: 30/06/2021   Dias: 30
+
+
+
+
+                                                                      * K : Constante do Medidor
+

@@ -1,0 +1,108 @@
+PM JERICO QUADRA DE ESPORTES
+
+DOMICÍLIO DE ENTREGA
+PM JERICO QUADRA DE ESPORTES
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 013 - 0253 - 743 - 1820                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7007969776                          DOM. BANC.:
+MATRÍCULA: 1330721-2021-1-2                          DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MALHADINHA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                   0001330721-0
+5/1330721-0
+              R$ 81,87
+
+
+              Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2021
+               3,45 kWh
+             MÉDIA DIÁRIA
+100 kWh
+21/01/2021   05/02/2021   19/02/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   77,91         77,91   25      19,47          59,45        0,39          1,82
+0601 Adic. B. Amarela                                                            1,28          1,28   25       0,32           0,97        0,01          0,03
+0601 Adic. B. Vermelha                                                           2,68          2,68   25       0,67           2,04        0,01          0,06
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          81,87         81,87           20,46          62,46        0,41          1,91
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1330721-2021-1-2           23/02/2021         58005369       R$ 81,87
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
+- Medidor com display apagado - Com Energia
+DIC         11,59    0,00   23,19       46,38
+FIC          7,67    0,00   15,34       30,69
+DMIC         6,39    0,00
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                         11/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                     23,62 28,85
+Compra de energia                           26,08 31,86
+Serviço de transmissão                       4,47   5,46
+Encargos setoriais                           4,92   6,01
+Impostos diretos e encargos                 22,78 27,82
+Outros serviços                              0,00   0,00
+Total                                       81,87 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2020): R$ 362,22
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JAN/21       0,00 *
+9   DEZ/20   1.055,00
+    NOV/20   1.053,00
+    OUT/20   1.004,00
+    SET/20   1.370,00
+    AGO/20   1.615,00
+    JUL/20   1.689,00
+    JUN/20   1.512,00
+    MAI/20   1.460,00
+    ABR/20   1.852,00
+    MAR/20   2.042,00
+    FEV/20   1.505,00
+    JAN/20   1.416,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 22/12/2020   Leitura Atual: 20/01/2021   Dias: 29
+
+
+KWH   Ponta   26.934,00    26.834,00      1                                                   0,00         100,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

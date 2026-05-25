@@ -1,0 +1,130 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 009 - 0139 - 520 - 0100
+MATRÍCULA: 135173-2024-12-6
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+GE MUNICIPAL DESTERRO
+
+RUA CON FLORENTINO, S/N - 58695000
+
+
+CENTRO
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Dezembro / 2024   23/01/2025   R$ 245,00
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh     KWH        308,00       0,782550        241,02       11,63         241,02   20      48,20   0,588270
+Adic. B. Amarela                                             3,98        0,19           3,98   20       0,80
+
+
+
+
+                            TOTAL:                         245,00       11,82         245,00           49,00
+00008699554   Energia ativa em kWh   Ponta   76356   76664   1   308
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  135173-2024-12-6      23/01/2025       4495268        R$ 245,00
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/01/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000135173-3
+13/11/2024   16/12/2024   33   15/01/2025
+5/135173-3
+
+00008699554
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         195,99    1,0765      2,10
+COFINS      195,99    4,9583      9,72
+ICMS        245,00     20,00     49,00
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24                33
+              NOV/24                28
+              OUT/24                30
+              SET/24                32
+Consumo kWh
+
+
+
+
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                35
+              ABR/24                30
+              MAR/24                32
+              FEV/24                28
+              JAN/24                30
+              DEZ/23                32
+  245,00                  49,00
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+DIC         12,00       5,08   0,00    0,00
+FIC          4,00       2,00   0,00    0,00
+DMIC         9,00       4,29
+DICRI       13,00
+
+
+Conjunto:    Teixeira
+
+Referência:                       10/2024
+Tensão Contratada:
+Limite Adequado:                350 a 399
+Serviço de distribuição                      63,78    26,04
+Compra de energia                            74,19    30,28
+Serviço de transmissão                       16,45     6,71
+Encargos setoriais                           29,76    12,15
+Impostos diretos e encargos                  60,82    24,82
+Outros serviços                               0,00     0,00
+Total                                       245,00   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2024): R$ 80,81
+DEZ/24    308,00 *
+NOV/24    367,00 *
+OUT/24    371,00 *
+SET/24    414,00 *
+AGO/24    322,00 *
+JUL/24    328,00 *
+JUN/24    430,00 *
+MAI/24    460,00 *
+ABR/24    464,00 *
+MAR/24    289,00
+FEV/24    122,00 *
+JAN/24    120,00 *
+DEZ/23    265,00 *
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 13/11/2024      Leitura Atual: 16/12/2024   Dias: 33
+
+
+
+KWH   Ponta   76.664,00      76.356,00       1,00                                                  308,00            308,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

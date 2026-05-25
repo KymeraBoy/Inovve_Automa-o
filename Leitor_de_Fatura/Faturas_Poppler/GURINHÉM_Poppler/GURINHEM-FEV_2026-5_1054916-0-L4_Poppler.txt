@@ -1,0 +1,136 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE GURINHÉM
+RUA GOVERNADOR FLÁVIO RIBEIRO 219 - CEP:58356000 - CENTRO
+GURINHEM PB (AG: 113)
+
+ROTEIRO: 011 - 0053 - 201 - 1440
+MATRÍCULA: 1054916-2026-2-9
+DOM. BANC.:                                    DOM. ENT.: 9999053001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+PMG QUADRA POLIESPORTIVA
+
+RUA DO CAJA, S/N - 58356000
+
+
+BOA ESPERANCA
+GURINHEM (AG: 113)
+
+
+CNPJ/CPF/RANI:
+Insc. Est.:
+Fevereiro / 2026   23/03/2026   R$ 323,77
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        362,00       0,894390        323,77       14,43         323,77   20      64,75   0,675650
+
+
+
+
+                           TOTAL:                         323,77       14,43         323,77           64,75
+00000627214   Energia ativa em kWh   Ponta   73024   73387   1   362
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1054916-2026-2-9      23/03/2026       7543713        R$ 323,77
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 04/03/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00010549160
+19/01/2026   18/02/2026   30   18/03/2026
+5/1054916-0
+
+00000627214
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         259,01    0,9940      2,57
+COFINS      259,01    4,5784     11,86
+ICMS        323,77     20,00     64,75
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              FEV/26                30
+              JAN/26                32
+              DEZ/25                30
+              NOV/25                32
+Consumo kWh
+
+
+
+
+              OUT/25                31
+              SET/25                29
+              AGO/25                33
+              JUL/25                30
+              JUN/25                31
+              MAI/25                30
+              ABR/25                28
+              MAR/25                29
+              FEV/25                32
+  323,77                  64,75
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+
+
+EMITIDO EM CONTINGÊNCIA Pendente de Autorização
+.
+- Perda do Ramal: 1 kWh
+- CAIXA DO MEDIDOR COM VIDRO EMBAÇADO - FATURAMENTO PELA MÉDIA
+- CAIXA DO MEDIDOR COM VIDRO EMBAÇADO - FATURAMENTO PELA MÉDIA
+DIC         12,00    0,00   999,00   999,00
+FIC          4,00    0,00   999,00   999,00
+DMIC         9,00    0,00
+DICRI       13,00
+
+
+Conjunto:    Itabaiana
+
+Referência:                      12/2025
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      82,01    25,32
+Compra de energia                            99,52    30,74
+Serviço de transmissão                       18,15     5,61
+Encargos setoriais                           44,91    13,87
+Impostos diretos e encargos                  79,18    24,46
+Outros serviços                               0,00     0,00
+Total                                       323,77   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 12/2025): R$ 85,67
+FEV/26    362,00 *
+JAN/26    360,00 *
+DEZ/25    363,00 *
+NOV/25    100,00
+OUT/25    393,00 *
+SET/25    494,00
+AGO/25    386,00 *
+JUL/25    415,00
+JUN/25    364,00
+MAI/25    375,00
+ABR/25    420,00
+MAR/25    347,00 *
+FEV/25    340,00 *
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 19/01/2026      Leitura Atual: 18/02/2026   Dias: 30
+
+
+
+KWH   Ponta   73.387,00      73.024,00       1,00                                                  362,00            362,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

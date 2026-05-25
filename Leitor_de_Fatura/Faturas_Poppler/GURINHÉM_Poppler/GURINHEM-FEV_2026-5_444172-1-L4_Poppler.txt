@@ -1,0 +1,131 @@
+DOMICÍLIO DE ENTREGA
+PM GURINHÉM
+RUA GOVERNADOR FLAVIO RIBEIRO 219 - CEP:58356000 - CENTRO
+GURINHEM PB (AG: 113)
+
+ROTEIRO: 009 - 0053 - 510 - 2100
+MATRÍCULA: 444172-2026-2-0
+DOM. BANC.:                                    DOM. ENT.: 9999053002
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+PMG GRUPO ESC MUNICIPAL
+
+VILA NOVA BOQUEIRAO, S/N - 58356000
+
+
+AREA RURAL
+GURINHEM (AG: 113)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Fevereiro / 2026   23/03/2026   R$ 1.013,35
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH       1.133,00       0,894390      1.013,35       45,18       1.013,35   20      202,67   0,675650
+
+
+
+
+                           TOTAL:                        1.013,35       45,18       1.013,35           202,67
+D7085761532   Energia ativa em kWh   Ponta   23353   24486   1   1133
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  444172-2026-2-0       23/03/2026       7518063        R$ 1.013,35
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 04/03/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00004441721
+15/01/2026   12/02/2026   28   13/03/2026
+5/444172-1
+
+D7085761532
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         810,68    0,9940       8,06
+COFINS      810,68    4,5784      37,12
+ICMS      1.013,35     20,00     202,67
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              FEV/26                28
+              JAN/26                30
+              DEZ/25                32
+              NOV/25                31
+Consumo kWh
+
+
+
+
+              OUT/25                32
+              SET/25                29
+              AGO/25                31
+              JUL/25                32
+              JUN/25                29
+              MAI/25                30
+              ABR/25                28
+              MAR/25                31
+              FEV/25                30
+1.013,35                 202,67
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- Leitura confirmada
+- Leitura confirmada
+DIC         24,00    2,70   999,00   999,00
+FIC          6,00    1,00   999,00   999,00
+DMIC        18,00    2,70
+DICRI       26,00
+
+
+Conjunto:    Itabaiana
+
+Referência:                      12/2025
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      256,67     25,32
+Compra de energia                            311,48     30,74
+Serviço de transmissão                        56,80      5,61
+Encargos setoriais                           140,55     13,87
+Impostos diretos e encargos                  247,85     24,46
+Outros serviços                                 0,00     0,00
+Total                                       1.013,35   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 12/2025): R$ 983,53
+FEV/26   1.133,00
+JAN/26     744,00
+DEZ/25   4.167,00
+NOV/25   5.044,00
+OUT/25   4.114,00
+SET/25   3.630,00
+AGO/25   3.870,00
+JUL/25    564,00
+JUN/25   1.220,00
+MAI/25   4.047,00
+ABR/25   4.778,00
+MAR/25   3.900,00
+FEV/25   1.042,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 15/01/2026      Leitura Atual: 12/02/2026   Dias: 28
+
+
+
+KWH   Ponta   24.486,00      23.353,00       1,00                                                 1.133,00          1.133,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

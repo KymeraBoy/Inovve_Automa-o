@@ -1,0 +1,156 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 088 - 0253 - 099 - 4100
+MATRÍCULA: 389020-2025-8-7
+DOM. BANC.:                                      DOM. ENT.: 9999253001
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA                          LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:                 Lim. Min.: 202         Lim. Max.: 231
+
+
+ILUMINACAO PUBLICA - P.M.JERICO
+
+ROD BR 230, S/N - 58830000
+
+
+CENTRO                                                                      5/389020-9
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84                                           0
+Insc. Est.:
+31/07/2025   31/08/2025          31
+
+
+
+              NOTA FISCAL Nº: 006.294.8
+                  Agosto / 2025
+
+
+
+
+Itens da Fatura
+23/09/2025                    R$ 20.517,73
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+3   3252500017651314 - 28/08/2025 16:25:02
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS       16.414,14   0,9383     154,00
+                                                                                                                                                PIS             16.414,14   0,9383
+Consumo em kWh                             KWH   36.484,00   0,435040   15.872,21   667,90   15.872,21   20         3.174,44      0,329730
+                                                                                                                                                COFINS          16.414,14   4,3217
+Consumo kWh - Ligação Provisória - Ponta   KWH    1.584,08   0,435040     689,14     28,99     689,14    20           137,82      0,329730
+                                                                                                                                                ICMS            20.517,73    20,00   4
+Adic. B. Vermelha                                                        3.956,38   166,47    3.956,38   20           791,28
+
+
+
+
+                                                                                                                                                            CONSUMO FATURADO
+
+                                                                                                                                                           AGO/25
+                                                                                                                                                           JUL/25
+                                                                                                                                                           JUN/25
+                                                                                                                                                           MAI/25
+
+
+
+
+                                                                                                                                             Consumo kWh
+                                                                                                                                                           ABR/25
+                                                                                                                                                           MAR/25
+                                                                                                                                                           FEV/25
+                                                                                                                                                           JAN/25
+                                                                                                                                                           DEZ/24
+                                                                                                                                                           NOV/24
+                                                                                                                                                           OUT/24
+                                                                                                                                                           SET/24
+                                                                                                                                                           AGO/24
+
+
+
+
+                                                 TOTAL:                 20.517,73   863,36   20.517,73              4.103,54
+
+
+
+
+                                                                                             Art. 13, Inciso VII do RICMS/PB - 1997
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  389020-2025-8-7       23/09/2025       6294870       R$ 20.517,73
+
+FATURAMENTO AGRUPADO
+.
+Consumo Estimado: faturamento realizado por carga instalada.
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+DIC         12,00     0,02   999,00   999,0
+FIC          4,00     0,00   999,00   999,0
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                       06/2025
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                      4.368,23    21,2
+Compra de energia                            6.820,59    33,2
+Serviço de transmissão                         967,26     4,7
+Encargos setoriais                           3.394,75    16,5
+Impostos diretos e encargos                  4.966,90    24,2
+Outros serviços                                  0,00     0,0
+Total                                       20.517,73   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 4.223,54
+9,00   AGO/25   36.484,00
+9,00   JUL/25   36.474,00
+       JUN/25   35.255,00
+       MAI/25   36.485,00
+       ABR/25   35.308,00
+       MAR/25   36.472,00
+       FEV/25   32.914,00
+25     JAN/25   36.485,00
+       DEZ/24   36.479,00
+31     NOV/24   35.255,00
+       OUT/24   36.481,00
+       SET/24   35.308,00
+       AGO/24   36.477,00
+
+
+
+                 *FATURAMENTO PELA MÉDIA/MÍNIMO
+      Leitura Anterior: 31/07/2025   Leitura Atual: 31/08/2025   Dias: 31
+
+
+
+,29
+,24
+,71
+,55
+,21
+,00
+,00
+
+
+
+
+                                                                            * KWTG: Dem Tusdg   * K: Const Me
+

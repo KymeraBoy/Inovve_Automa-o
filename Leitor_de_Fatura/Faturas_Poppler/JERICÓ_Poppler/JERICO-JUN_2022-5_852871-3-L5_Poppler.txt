@@ -1,0 +1,104 @@
+PM JERICO SEDE
+
+DOMICÍLIO DE ENTREGA
+PM JERICO SEDE
+RUA LOPES FIGUEIREDO 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0253 - 720 - 2580                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008243413                            DOM. BANC.:
+MATRÍCULA: 852871-2022-6-2                             DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CIRILO DE FREITAS, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0000852871-3
+5/852871-3
+              R$ 3.392,48
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2022
+              91,06 kWh
+             MÉDIA DIÁRIA
+2.823 kWh
+21/06/2022   04/07/2022   20/07/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      2.823,00    0,596920    0,826800    2.334,10      2.334,10   25      583,52       1.750,57       11,67         53,79
+     LANÇAMENTOS E SERVIÇOS
+0806 PARCELAMENTO DE DÉBITO 14/24                                              978,12                 0         0,00           0,00        0,00          0,00
+0805 MULTA 04/2022                                                              75,24                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2022                                                       5,02                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       3.392,48      2.334,10           583,52       1.750,57       11,67         53,79
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   852871-2022-6-2           23/07/2022         87857364      R$ 3.392,48
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Faturas Anteriores Parceladas, conforme contrato firmado.
+DIC         12,00     1,89   0,00       0
+FIC          4,00     1,00   0,00    0,00
+DMIC         9,00     1,89
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                     04/2022
+Tensão Contratada:
+Limite Adequado:              350 a 399
+Serviço de distribuição                      574,63 16,94
+Compra de energia                            785,10 23,14
+Serviço de transmissão                       129,75    3,82
+Encargos setoriais                           195,64    5,77
+Impostos diretos e encargos                  729,24 21,50
+Outros serviços                              978,12 28,83
+Total                                       3.392,48 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2022): R$ 959,79
+0   JUN/22   2.823,00
+0   MAI/22   2.854,00
+    ABR/22   2.813,00
+    MAR/22   3.251,00
+    FEV/22   3.066,00
+    JAN/22   2.857,00
+    DEZ/21   4.085,00
+    NOV/21   3.079,00
+    OUT/21   3.305,00
+    SET/21   3.152,00
+    AGO/21   3.040,00
+    JUL/21   2.763,00
+    JUN/21   2.523,00 *
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                  Leitura Anterior: 20/05/2022   Leitura Atual: 20/06/2022   Dias: 31
+
+
+KWH   Ponta   303.002,00   300.179,00      1              0                                2.823,00       2.823,00
+
+
+
+
+                                                                                        * K : Constante do Medidor
+

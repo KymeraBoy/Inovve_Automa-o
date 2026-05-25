@@ -1,0 +1,128 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 088 - 0139 - 099 - 8100
+MATRÍCULA: 135407-2025-12-5
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA              LIGAÇÃO: MONOFASICO
+ILUMINACAO PUBLICA - P.M.DESTERRO
+
+ROD BR 230, S/N - 58695000
+
+
+CENTRO
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Dezembro / 2025   23/01/2026   R$ 26.928,77
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
+Itens da Fatura                             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
+Consumo em kWh                             KWH      51.344,00       0,495680      25.450,28    1.280,80     25.450,28   20      5.090,05   0,371600
+Consumo kWh - Ligação Provisória - Ponta   KWH        360,00        0,495680        178,44         8,98        178,44   20        35,69    0,371600
+Adic. B. Amarela                                                                   1.300,05      65,42       1.300,05   20       260,01
+
+
+
+
+                                                    TOTAL:                        26.928,77    1.355,20     26.928,77           5.385,75
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  135407-2025-12-5      23/01/2026       7131665       R$ 26.928,77
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/01/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00001354075
+30/11/2025   31/12/2025   31   31/01/2026
+5/135407-5
+
+0
+Tributo   Base de     Alíquota     Valor
+          Cálc.(R$)      (%)        (R$)
+PIS       21.543,00   1,1221      241,73
+COFINS    21.543,00   5,1686     1.113,47
+ICMS      26.928,77    20,00     5.385,75
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/25                31
+              NOV/25                30
+              OUT/25                31
+              SET/25                30
+Consumo kWh
+
+
+
+
+              AGO/25                31
+              JUL/25                31
+              JUN/25                30
+              MAI/25                31
+              ABR/25                30
+              MAR/25                31
+              FEV/25                28
+              JAN/25                31
+              DEZ/24                31
+26.928,77              5.385,75
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+Consumo Estimado: faturamento realizado por carga instalada.
+- -Detectar cedo é dar a chance de vencer. Previna-se contra o câncer de mama. Gov.PB
+DIC         12,00       0,04   999,00   999,00
+FIC          4,00       0,02   999,00   999,00
+DMIC         9,00       0,00
+DICRI       13,00
+
+
+Conjunto:    Teixeira
+
+Referência:                         10/2025
+Tensão Contratada:
+Limite Adequado:                  202 a 231
+Serviço de distribuição                      6.585,26    24,46
+Compra de energia                            8.539,45    31,71
+Serviço de transmissão                       1.459,58     5,42
+Encargos setoriais                           3.603,53    13,38
+Impostos diretos e encargos                  6.740,95    25,03
+Outros serviços                                  0,00     0,00
+Total                                       26.928,77   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2025): R$ 6.703,56
+DEZ/25   51.344,00
+NOV/25   49.654,00
+OUT/25   51.346,00
+SET/25   49.648,00
+AGO/25   51.328,00
+JUL/25   51.346,00
+JUN/25   49.689,00
+MAI/25   51.266,00
+ABR/25   49.671,00
+MAR/25   51.106,00
+FEV/25   46.377,00
+JAN/25   51.299,00
+DEZ/24   50.966,00
+
+
+
+          *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 30/11/2025   Leitura Atual: 31/12/2025   Dias: 31
+
+
+
+
+                                                                      * KWTG: Dem Tusdg   * K: Const Med
+

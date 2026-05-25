@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.30)  20 MAY 2026 10:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.30)  25 MAY 2026 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,7 +628,7 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  14710 strings out of 402983
  275662 string characters out of 5447654
- 765021 words of memory out of 5000000
+ 764021 words of memory out of 5000000
  43280 multiletter control sequences out of 15000+600000
  628241 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

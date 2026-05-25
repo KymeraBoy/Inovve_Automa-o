@@ -1,0 +1,168 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 010 - 0140 - 721 - 2600
+MATRÍCULA: 1747888-2025-12-4
+DOM. BANC.:                                    DOM. ENT.: 9999139001
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                  LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 202         Lim. Max.: 231
+
+
+PM DESTERRO EMEF ABEL MENDONCA
+
+SIT APARECIDA, S/N - GRUPO ESCOLAR ABEL MENDONCA - 58698000
+
+
+SAO SEBASTIAO                                                             5/1747888-4
+CACIMBAS (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30                                         00008718371
+Insc. Est.:
+17/11/2025   17/12/2025          30
+
+
+
+              NOTA FISCAL Nº: 007.070.8
+                  Dezembro / 2025
+
+     Importante: seu número de identificação será atua
+     nem o fornecimento de energia.
+
+
+
+
+Itens da Fatura
+   23/01/2026                          R$ 170,34
+
+zado. A partir de 01/04/2026, o número da sua unidade consumido
+
+
+
+
+                          Preço unit (R$)
+  Unid.          Quant.     com tributos     Valor (R$) COFIN
+                                                        3252500025705032 - 18/12/2025 18:40:46
+
+
+
+
+midora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS         136,27    1,1221      1,52
+                                                                                                                                             PIS                 136,27   1,1221
+Consumo em kWh                              KWH      181,00   0,901240   163,12    8,20     163,12    20            32,62      0,675650
+                                                                                                                                             COFINS              136,27   5,1686
+Adic. B. Amarela                                                           2,58    0,12        2,58   20             0,52
+                                                                                                                                             ICMS                170,34    20,00
+Adic. B. Vermelha                                                          4,64    0,23        4,64   20             0,92
+
+
+
+
+                                                                                                                                                         CONSUMO FATURADO
+
+                                                                                                                                                        DEZ/25
+                                                                                                                                                        NOV/25
+                                                                                                                                                        OUT/25
+                                                                                                                                                        SET/25
+
+
+
+
+                                                                                                                                          Consumo kWh
+                                                                                                                                                        AGO/25
+                                                                                                                                                        JUL/25
+                                                                                                                                                        JUN/25
+                                                                                                                                                        MAI/25
+                                                                                                                                                        ABR/25
+                                                                                                                                                        MAR/25
+                                                                                                                                                        FEV/25
+                                                                                                                                                        JAN/25
+                                                                                                                                                        DEZ/24
+
+
+
+
+                                                   TOTAL:                170,34    8,55     170,34                  34,06
+
+
+
+
+    00008718371     Energia ativa em kWh   Ponta       7558      7739      1      181     Art. 13, Inciso VII do RICMS/PB - 1997
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1747888-2025-12-4     23/01/2026       7070866        R$ 170,34
+
+FATURAMENTO AGRUPADO
+.
+- -Detectar cedo é dar a chance de vencer. Previna-se contra o câncer de mama. Gov.PB
+- Leitura confirmada
+- -Detectar cedo é dar a chance de vencer. Previna-se contra o câncer de mama. Gov.PB
+- Leitura confirmada
+DIC         24,00       0,00   999,00   999,0
+FIC          6,00       0,00   999,00   999,0
+DMIC        18,00       0,00
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                         10/2025
+Tensão Contratada:
+Limite Adequado:                  202 a 231
+Serviço de distribuição                      41,67    24,4
+Compra de energia                            54,03    31,7
+Serviço de transmissão                        9,23     5,4
+Encargos setoriais                           22,80    13,3
+Impostos diretos e encargos                  42,61    25,0
+Outros serviços                               0,00     0,0
+Total                                       170,34   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2025): R$ 42,01
+9,00   DEZ/25    181,00
+9,00   NOV/25    200,00
+       OUT/25    178,00
+       SET/25    184,00
+       AGO/25    180,00
+       JUL/25    118,00
+       JUN/25     11,00
+25     MAI/25     20,00
+       ABR/25      2,00
+31     MAR/25     46,00
+       FEV/25     40,00
+       JAN/25     30,00
+       DEZ/24     45,00
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior: 17/11/2025      Leitura Atual: 17/12/2025   Dias: 30
+
+
+
+,47   KWH   Ponta    7.739,00       7.558,00       1,00                                                  181,00            18
+,72
+,42
+,38
+,01
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg    * K: Const Me
+

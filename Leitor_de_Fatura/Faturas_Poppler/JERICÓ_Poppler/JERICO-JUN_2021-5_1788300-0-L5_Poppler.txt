@@ -1,0 +1,134 @@
+PM JERICO CEO CENTRO DE ESPECIALIDADE
+ODONTOLOGICA
+DOMICÍLIO DE ENTREGA
+PM JERICO CEO CENTRO DE ESPECIALIDADE ODONTOLOGICA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0253 - 700 - 0505                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008787878                            DOM. BANC.:
+MATRÍCULA: 1788300-2021-6-1                            DOM. ENT.: 9999253003
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA HERUNDINA DE OLIVEIRA, S/N - C E O
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0001788300-0
+5/1788300-0
+              R$ 52,25
+
+
+              Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2021
+              26,86 kWh
+             MÉDIA DIÁRIA
+779 kWh
+                               FATURAS EM ATRASO
+                              23/06/2021     807,67
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+17/07/2021.
+Regularize seus débitos.
+16/06/2021   02/07/2021   15/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                        779,00    0,562110    0,787530      613,49        613,49   25      153,37         460,12        3,96         18,27
+0601 Adic. B. Vermelha                                                          57,20         57,20   25       14,30          42,89        0,37          1,70
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                               6,50                 0         0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 01/2021                                               9,71                 0         0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 12/2020                                              32,25                 0         0,00           0,00        0,00          0,00
+0999 PAGTO DUPLICIDADE ( - ) 03/2021                                          -717,80                 0         0,00           0,00        0,00          0,00
+0805 MULTA 04/2021                                                              12,48                 0         0,00           0,00        0,00          0,00
+0805 MULTA 01/2021                                                               7,13                 0         0,00           0,00        0,00          0,00
+0805 MULTA 12/2020                                                              11,63                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                       4,58                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 01/2021                                                       3,45                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 12/2020                                                      11,63                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          52,25        670,69           167,67         503,01        4,33         19,97
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1788300-2021-6-1           23/07/2021         65893674       R$ 52,25
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 17/07/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- Leitura confirmada
+DIC          6,27     0,00   12,54   25,08
+FIC          3,36     0,00    6,72   13,45
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                     176,32 22,90
+Compra de energia                           232,27 30,16
+Serviço de transmissão                       33,41   4,34
+Encargos setoriais                           36,72   4,77
+Impostos diretos e encargos                 291,33 37,83
+Outros serviços                               0,00   0,00
+Total                                       770,05 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2021): R$ 269,00
+- Constatamos em nossos arquivos pagamento em duplicidade de
+fatura de energia elétrica. Estamos efetuando a devolução do
+valor pago a maior, conforme valores exibidos no Demonstrativo
+abaixo.
+ - 3/2021 R$ 717.8
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/21    779,00
+5   MAI/21    837,00
+    ABR/21    782,00
+    MAR/21    900,00
+    FEV/21    818,00
+    JAN/21    428,00
+    DEZ/20    688,00
+    NOV/20    746,00
+    OUT/20    782,00
+    SET/20    669,00
+    AGO/20    495,00
+    JUL/20    322,00
+    JUN/20    321,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 17/05/2021   Leitura Atual: 15/06/2021   Dias: 29
+
+
+KWH   Ponta   38.892,00    38.113,00      1                                                 779,00         779,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

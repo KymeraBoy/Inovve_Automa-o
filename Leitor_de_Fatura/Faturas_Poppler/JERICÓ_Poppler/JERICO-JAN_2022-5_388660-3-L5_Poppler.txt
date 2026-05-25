@@ -1,0 +1,100 @@
+PM JERICO MATERNIDADE MAE TERESA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO MATERNIDADE MAE TERESA
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0253 - 705 - 2620                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008861343                            DOM. BANC.:
+MATRÍCULA: 388660-2022-1-3                             DOM. ENT.: 9999253003
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA RAUL RODRIGUES, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0000388660-3
+5/388660-3
+              R$ 6.581,13
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+              207,42 kWh
+             MÉDIA DIÁRIA
+6.430 kWh
+19/01/2022   09/02/2022   15/02/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      6.430,00    0,596920    0,826800    5.316,42      5.316,42   25      1.329,10       3.987,32       26,59        122,52
+0601 Adic. B. Vermelha                                                       1.264,71      1.264,71   25        316,18         948,54        6,33         29,15
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       6.581,13      6.581,13           1.645,28       4.935,86       32,92        151,67
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388660-2022-1-3           23/02/2022         78084787      R$ 6.581,13
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+DIC          6,27     0,00   12,54       25,08
+FIC          3,36     0,00    6,72       13,45
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                          11/2021
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                     1.308,97 19,90
+Compra de energia                           2.701,09 41,04
+Serviço de transmissão                       295,53    4,49
+Encargos setoriais                           445,67    6,77
+Impostos diretos e encargos                 1.829,87 27,80
+Outros serviços                                0,00    0,00
+Total                                       6.581,13 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2021): R$ 2.066,30
+8   JAN/22   6.430,00
+5   DEZ/21   7.087,00
+    NOV/21   6.056,00
+    OUT/21   6.322,00
+    SET/21   5.584,00
+    AGO/21   5.504,00
+    JUL/21   4.728,00
+    JUN/21   4.954,00
+    MAI/21   5.159,00
+    ABR/21   5.314,00
+    MAR/21   5.669,00
+    FEV/21   5.221,00
+    JAN/21   4.495,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                  Leitura Anterior: 18/12/2021   Leitura Atual: 18/01/2022   Dias: 31
+
+
+KWH   Ponta   152.825,00   146.395,00      1              0                                6.430,00       6.430,00
+
+
+
+
+                                                                                        * K : Constante do Medidor
+

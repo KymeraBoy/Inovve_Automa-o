@@ -1,0 +1,115 @@
+GE JOAO ROSADO DE OLIVEIRA JERICO
+
+DOMICÍLIO DE ENTREGA
+GE JOAO ROSADO DE OLIVEIRA JERICO
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 012 - 0253 - 720 - 1520                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00009077266                          DOM. BANC.:
+MATRÍCULA: 388859-2020-6-4                           DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PE JERONIMO MUNHOS, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                   0000388859-1
+5/388859-1
+          R$ 1.138,85
+
+
+          Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-37
+Insc. Est.: 00XXXXXX
+23/07/2020
+              52,11 kWh
+             MÉDIA DIÁRIA
+1.459 kWh
+ FATURAS EM ATRASO
+23/04/2020    1.055,19
+28/05/2020    1.162,27
+23/06/2020    1.199,88
+19/06/2020   08/07/2020   20/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                      1.459,00    0,545400    0,780560    1.138,85      1.138,85   25      284,71       1.138,85       10,41         47,98
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.138,85      1.138,85           284,71       1.138,85       10,41         47,98
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388859-2020-6-4           23/07/2020         46400450      R$ 1.138,85
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO: Caso a(s) fatura(s) acima continue(m) em atraso, o fornecimento poderá
+ser suspenso a partir de 23/07/2020. Resolução ANEEL n.º 1.000. O pagamento
+após essa data não elimina a possível suspensão do fornecimento, caso o mesmo não
+seja comunicado ou as contas pagas não estejam na unidade consumidora para
+comprovação. Caso essas faturas estejam pagas, desconsiderar essa mensagem.
+ESTE PRAZO NÃO VALE PARA AS FATURAS JÁ REAVISADAS, para estas a suspensão do
+fornecimento poderá ocorrer a qualquer momento até o decurso do prazo de 90(noventa)
+dias, contado da data de vencimento da fatura vencida e não paga.
+- Medidor com display apagado - Com Energia Faturado pela média
+DIC          6,27     0,00   12,54   25,08
+FIC          3,42     0,00    6,85   13,70
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      312,57 27,44
+Compra de energia                            389,68 34,22
+Serviço de transmissão                        46,47    4,08
+Encargos setoriais                            47,03    4,13
+Impostos diretos e encargos                  343,10 30,13
+Outros serviços                                0,00    0,00
+Total                                       1.138,85 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 468,61
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/20   1.459,00 *
+0   MAI/20   1.495,00 *
+    ABR/20   1.471,00 *
+    MAR/20   1.336,00
+    FEV/20     611,00
+    JAN/20     512,00
+    DEZ/19   1.607,00
+    NOV/19   2.141,00
+    OUT/19   1.719,00
+    SET/19   1.878,00
+    AGO/19   1.745,00
+    JUL/19   1.085,00
+    JUN/19   1.910,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 21/05/2020   Leitura Atual: 18/06/2020   Dias: 28
+
+
+KWH   Ponta   20.896,00    19.437,00      1              0                                1.459,00       1.459,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

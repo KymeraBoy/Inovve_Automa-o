@@ -1,0 +1,101 @@
+PM JERICO CAPELA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO CAPELA
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 013 - 0253 - 743 - 4130                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000683829                            DOM. BANC.:
+MATRÍCULA: 388071-2022-1-3                             DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MALHADINHA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0000388071-3
+5/388071-3
+              R$ 108,48
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+               3,53 kWh
+             MÉDIA DIÁRIA
+106 kWh
+24/01/2022   09/02/2022   18/02/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        106,00    0,596920    0,826800       87,64         87,64   25      21,91          65,73        0,44          2,02
+0601 Adic. B. Vermelha                                                          20,84         20,84   25       5,21          15,63        0,10          0,48
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         108,48        108,48           27,12          81,36        0,54          2,50
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388071-2022-1-3           23/02/2022         78449355      R$ 108,48
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura confirmada
+DIC         11,59    0,00   23,19       46,38
+FIC          7,59    0,00   15,19       30,39
+DMIC         6,39    0,00
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                         11/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      21,58 19,89
+Compra de energia                            44,52 41,04
+Serviço de transmissão                        4,87   4,49
+Encargos setoriais                            7,35   6,78
+Impostos diretos e encargos                  30,16 27,80
+Outros serviços                               0,00   0,00
+Total                                       108,48 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2021): R$ 50,83
+8   JAN/22    106,00
+9   DEZ/21    137,00
+    NOV/21    149,00
+    OUT/21    136,00
+    SET/21    140,00
+    AGO/21    151,00
+    JUL/21    155,00
+    JUN/21    150,00
+    MAI/21    109,00
+    ABR/21    142,00
+    MAR/21    125,00
+    FEV/21    145,00
+    JAN/21    145,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 22/12/2021   Leitura Atual: 21/01/2022   Dias: 30
+
+
+KWH   Ponta   40.580,00    40.474,00      1              0                                  106,00         106,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

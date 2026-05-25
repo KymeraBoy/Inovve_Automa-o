@@ -1,0 +1,129 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+
+
+
+DOM. BANC.:                                    DOM. ENT.: 9999253002
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+PM JERICO ESCOLA PROF FRANCEILDO DE
+SOUSA FREITAS
+RUA PROJETADA, SN - 58830000
+
+
+CANAA
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-28
+Insc. Est.:
+Abril / 2026   23/05/2026   R$ 88,19
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          88,19        2,99          88,19   20      17,63
+
+
+
+
+                                   TOTAL:                         88,19        2,99          88,19           17,63
+         CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0004644116-8
+           Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 06/05/2026
+
+
+                                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
+  4644116-2026-4-3                            23/05/2026                          8049873               R$ 88,19
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/05/2026
+19/03/2026   17/04/2026   29   19/05/2026
+2.603.870.053-75
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          70,55    0,7563      0,53
+COFINS       70,55    3,4837      2,46
+ICMS         88,19     20,00     17,63
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              ABR/26                29
+              MAR/26                28
+              FEV/26                30
+              JAN/26                32
+Consumo kWh
+
+
+
+
+              DEZ/25                30
+              NOV/25                27
+              OUT/25
+              SET/25
+              AGO/25
+              JUL/25
+              JUN/25
+              MAI/25
+              ABR/25
+   88,19                  17,63
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
+- Imóvel desocupado com acesso ao medidor
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
+- Imóvel desocupado com acesso ao medidor
+DIC         12,00     0,00   999,00   999,00
+FIC          4,00     0,00   999,00   999,00
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    JERICÓ
+
+Referência:                       02/2026
+Tensão Contratada:
+Limite Adequado:                350 a 399
+Serviço de distribuição                     22,66    25,70
+Compra de energia                           27,49    31,17
+Serviço de transmissão                       5,01     5,68
+Encargos setoriais                          12,41    14,07
+Impostos diretos e encargos                 20,62    23,38
+Outros serviços                              0,00     0,00
+Total                                       88,19   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 02/2026): R$ 23,60
+ABR/26      0,00 *
+MAR/26      0,00 *
+FEV/26      0,00 *
+JAN/26      0,00 *
+DEZ/25      0,00 *
+NOV/25      0,00 *
+OUT/25
+SET/25
+AGO/25
+JUL/25
+JUN/25
+MAI/25
+ABR/25
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 19/03/2026   Leitura Atual: 17/04/2026   Dias: 29
+
+
+
+
+                                                                      * KWTG: Dem Tusdg   * K: Const Med
+

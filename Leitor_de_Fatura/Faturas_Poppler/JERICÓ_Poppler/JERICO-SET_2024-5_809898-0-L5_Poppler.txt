@@ -1,0 +1,181 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 011 - 0253 - 753 - 2810
+MATRÍCULA: 809898-2024-9-9
+DOM. BANC.:                                     DOM. ENT.: 9999253002
+
+
+ Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+ PÚBLICO / POD. PÚB. MUNICIPAL                                 LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 202         Lim. Max.: 231
+
+
+ EMEF AUGUSTINHO SIMAO DE ALMEIDA
+ JERICO
+ SIT PACUTI, S/N - 58830000
+
+
+ AREA RURAL                                                               5/809898-0
+ JERICO (AG: 245)
+
+
+ CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84                                        W5068716106
+ Insc. Est.:
+19/08/2024   18/09/2024          30
+
+
+              NOTA FISCAL Nº: 003.962.4
+                  Setembro / 2024
+
+     Informamos que mediante o despacho de nº 2.668
+
+
+
+
+Itens da Fatura
+ 23/10/2024                          R$ 71,40
+
+de 04 de setembro de 2024, a Aneel - Agência Nacional de Ener
+
+
+
+
+                        Preço unit (R$)
+ Unid.         Quant.     com tributos      Valor (R$) COFIN
+                                                            3252400016018594 - 19/09/2024 15:43:32
+
+
+
+
+nergia Elétrica, alterou a bandeira tarifária de setembro para vermelha patamar I.
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa             Base de Alíquota     Valor
+                                                     Tributo   Cálc.(R$)  (%)        (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS           55,90   0,6671   0,38
+                                                                                                                                        PIS                    55,90   0,6671
+Consumo em kWh                              KWH       87,00   0,768630   66,87   2,00      66,87    20            13,37      0,591920
+                                                                                                                                        COFINS                 55,90   3,0729
+Adic. B. Vermelha                                                         3,01   0,09        3,01   20             0,60
+                                                                                                                                        ICMS                   69,88    20,00
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 07/2024                                                     0,09   0,00        0,00                  0,00
+MULTA 07/2024                                                             1,42   0,00        0,00                  0,00
+ATUALIZAÇÃO MONETÁRIA 07/2024                                             0,01   0,00        0,00                  0,00                                                         Nº
+                                                                                                                                                      CONSUMO FATURADO
+                                                                                                                                                      SET/24
+                                                                                                                                                      AGO/24
+                                                                                                                                                      JUL/24
+                                                                                                                                                      JUN/24
+                                                                                                                                                      MAI/24
+
+
+
+
+                                                                                                                                        Consumo kWh
+                                                                                                                                                      ABR/24
+                                                                                                                                                      MAR/24
+                                                                                                                                                      FEV/24
+                                                                                                                                                      JAN/24
+                                                                                                                                                      DEZ/23
+                                                                                                                                                      NOV/23
+                                                                                                                                                      OUT/23
+                                                                                                                                                      SET/23
+
+
+
+
+                                                   TOTAL:                71,40   2,09      69,88                  13,97
+
+
+
+
+    W5068716106     Energia ativa em kWh   Ponta       3613      3700     1      87     Art. 13, Inciso VII do RICMS/PB - 1997
+                        NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+       MATRÍCULA        VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+      809898-2024-9-9    23/10/2024       3962470         R$ 71,40
+
+FATURAMENTO AGRUPADO
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 18/10/2024. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+-Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+DIC         24,00    0,00      0,00    0,0
+FIC          6,00    0,00      0,00    0,0
+DMIC        18,00    0,00
+DICRI       26,00
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                       07/2024
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                     17,33    24,2
+Compra de energia                           23,94    33,5
+Serviço de transmissão                       4,47     6,2
+Encargos setoriais                           8,08    11,3
+Impostos diretos e encargos                 17,58    24,6
+Outros serviços                              0,00     0,0
+Total                                       71,40   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 07/2024): R$ 18,90
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser suspenso a partir de
+18/10/2024.
+Regularize seus débitos.
+
+   FATURAS EM ATRASO
+  23/09/2024      78,38
+0,00 SET/24     87,00
+0,00 AGO/24     99,00
+     JUL/24     89,00
+     JUN/24     95,00
+     MAI/24    110,00
+     ABR/24    113,00
+     MAR/24     97,00
+24   FEV/24     71,00
+     JAN/24     45,00
+31   DEZ/23     77,00
+     NOV/23    114,00
+     OUT/23     93,00
+     SET/23     50,00
+
+
+
+              *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior: 19/08/2024      Leitura Atual: 18/09/2024   Dias: 30
+
+
+
+,27   KWH   Ponta    3.700,00       3.613,00       1,00                                                   87,00             8
+,53
+,26
+,32
+,62
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg    * K: Const Me
+

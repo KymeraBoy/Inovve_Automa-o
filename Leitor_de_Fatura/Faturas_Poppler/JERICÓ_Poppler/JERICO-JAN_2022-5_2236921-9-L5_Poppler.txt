@@ -1,0 +1,102 @@
+PM JERICO EMEF DO SAQUINHO
+
+DOMICÍLIO DE ENTREGA
+PM JERICO EMEF DO SAQUINHO
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 013 - 0253 - 741 - 4236                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5131209139                            DOM. BANC.:
+MATRÍCULA: 2236921-2022-1-9                            DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT SAQUINHO, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0002236921-9
+5/2236921-9
+              R$ 77,77
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+               2,53 kWh
+             MÉDIA DIÁRIA
+76 kWh
+24/01/2022   09/02/2022   18/02/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         76,00    0,596920    0,826800       62,83         62,83   25      15,71          47,12        0,31          1,45
+0601 Adic. B. Vermelha                                                          14,94         14,94   25       3,73          11,21        0,07          0,34
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          77,77         77,77           19,44          58,33        0,38          1,79
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  2236921-2022-1-9           23/02/2022         78453030       R$ 77,77
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Perda do Ramal: 1 kWh.
+- Leitura confirmada
+DIC         11,74     0,00   23,48       46,96
+FIC          7,67     0,00   15,34       30,69
+DMIC         6,49     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                          11/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                     15,47 19,88
+Compra de energia                           31,93 41,06
+Serviço de transmissão                       3,49   4,49
+Encargos setoriais                           5,27   6,78
+Impostos diretos e encargos                 21,61 27,79
+Outros serviços                              0,00   0,00
+Total                                       77,77 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2021): R$ 16,71
+6   JAN/22     76,00
+9   DEZ/21     62,00
+    NOV/21     49,00
+    OUT/21     41,00
+    SET/21     22,00
+    AGO/21      0,00
+    JUL/21      0,00 *
+    JUN/21
+    MAI/21
+    ABR/21
+    MAR/21
+    FEV/21
+    JAN/21
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 22/12/2021   Leitura Atual: 21/01/2022   Dias: 30
+
+
+KWH   Ponta   255,00       178,00      1              0                                   76,00          76,00
+
+
+
+
+                                                                                    * K : Constante do Medidor
+

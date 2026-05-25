@@ -1,0 +1,125 @@
+ROTEIRO: 001 - 0139 - -
+MATRÍCULA: 7031251-2025-12-7
+DOM. BANC.:                    DOM. ENT.:
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. ESTADUAL                                LIGAÇÃO: TRIFASICO
+PM DESTERRO PONTO 01 PARQUE
+DESTERROPREF
+RUA NOSSA SENHORA DE FATIMA - 58695000
+
+
+CENTRO
+DESTERRO
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Dezembro / 2025   26/01/2026   R$ 2.398,82
+                                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                           Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                           KWH       2.640,00       0,901240      2.379,32      119,73       2.379,32   20      475,86   0,675650
+LANÇAMENTOS E SERVIÇOS
+DESPESA COM LIGAÇÃO PROVISÓRIA 12/2025                                             19,50        0,00           0,00             0,00
+
+
+
+
+                                                  TOTAL:                        2.398,82      119,73       2.379,32           475,86
+Energia ativa em kWh   Ponta   0   0   2640
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                  VENCIMENTO            Nº FATURA   TOTAL A PAGAR
+  7031251-2025-12-7              26/01/2026           7097016       R$ 2.398,82
+
+83650000023-4 98820054000-9 70312512025-2 12700139019-5
+
+
+
+(YiNqB{B{DjVeWmEvJwBvB{A|[bMsSdDjXbEhB{YcE{Sg)
+Data de Apresentação: 23/12/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00070312517
+5/7031251-7
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.903,45    1,1221      21,35
+COFINS    1.903,45    5,1686      98,38
+ICMS      2.379,32     20,00     475,86
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/25
+              NOV/25
+              OUT/25
+              SET/25
+Consumo kWh
+
+
+
+
+              AGO/25
+              JUL/25
+              JUN/25
+              MAI/25
+              ABR/25
+              MAR/25
+              FEV/25
+              JAN/25
+              DEZ/24
+2.379,32                 475,86
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+Serviço: LIGAÇÃO PROVISÓRIA
+Conforme ofício n° 047/2025 datado em 23 de dezembro de 2025. Assinado por Tiago
+Simões dos Santos prefeito. Solicitando ligação provisória conforme anexo. AT. JAVS
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        581,85     24,26
+Compra de energia              754,52     31,45
+Serviço de transmissão         128,96      5,38
+Encargos setoriais             318,40     13,27
+Impostos diretos e encargos    595,59     24,83
+Outros serviços                 19,50      0,81
+Total                         2.398,82   100,00
+DEZ/25
+NOV/25
+OUT/25
+SET/25
+AGO/25
+JUL/25
+JUN/25
+MAI/25
+ABR/25
+MAR/25
+FEV/25
+JAN/25
+DEZ/24
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior:          Leitura Atual:     Dias:
+
+
+
+KWH   Ponta       0,00            0,00               0,00                      2.640,00          2.640,00
+
+
+
+
+                                                                    * KWTG: Dem Tusdg     * K: Const Med
+

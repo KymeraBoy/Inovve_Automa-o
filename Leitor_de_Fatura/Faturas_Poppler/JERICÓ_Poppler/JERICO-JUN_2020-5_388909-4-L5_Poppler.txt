@@ -1,0 +1,103 @@
+PM JERICO SERVICO DE CONVIVENCIA E
+FORTALECIMENTO DE VINCULOS
+DOMICÍLIO DE ENTREGA
+PM JERICO SERVICO DE CONVIVENCIA E FORTALECIMENTO DE VINCULOS
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 012 - 0253 - 720 - 2460                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000092261                            DOM. BANC.:
+MATRÍCULA: 388909-2020-6-7                              DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA LAURENTINO DE SOUSA MELO, 263
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                      0000388909-4
+5/388909-4
+          R$ 23,41
+
+
+          Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/07/2020
+               1,07 kWh
+             MÉDIA DIÁRIA
+30 kWh
+19/06/2020   08/07/2020   20/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Custo de Disponibilidade                                                   23,41         23,41   25      5,85           23,41        0,21          0,98
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          23,41         23,41           5,85           23,41        0,21          0,98
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388909-2020-6-7           23/07/2020         46400453       R$ 23,41
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura confirmada
+DIC          6,27     0,00   12,54   25,08
+FIC          3,42     0,00    6,85   13,70
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      6,42 27,43
+Compra de energia                            8,02 34,26
+Serviço de transmissão                       0,96   4,10
+Encargos setoriais                           0,97   4,14
+Impostos diretos e encargos                  7,04 30,07
+Outros serviços                              0,00   0,00
+Total                                       23,41 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 9,55
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/20      1,00
+0   MAI/20      1,00
+    ABR/20      3,00
+    MAR/20      1,00
+    FEV/20      0,00 *
+    JAN/20      3,00
+    DEZ/19      2,00
+    NOV/19      2,00
+    OUT/19      1,00
+    SET/19      2,00
+    AGO/19      1,00
+    JUL/19      2,00
+    JUN/19      1,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 21/05/2020   Leitura Atual: 18/06/2020   Dias: 28
+
+
+KWH   Ponta   57.893,00    57.892,00      1              0                                    1,00          30,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

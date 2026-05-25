@@ -1,0 +1,103 @@
+PM JERICO TERMINAL RODOVIARIO
+
+DOMICÍLIO DE ENTREGA
+PM JERICO TERMINAL RODOVIARIO
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 010 - 0253 - 705 - 0300                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000413503                          DOM. BANC.:
+MATRÍCULA: 388499-2020-6-9                           DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JOAQUIM IDALINO OLIVEIRA, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                   0000388499-6
+5/388499-6
+              R$ 78,05
+
+
+              Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2020
+               3,57 kWh
+             MÉDIA DIÁRIA
+100 kWh
+17/06/2020   08/07/2020   16/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Custo de Disponibilidade                                                   78,05         78,05   25      19,51          78,05        0,71          3,28
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          78,05         78,05           19,51          78,05        0,71          3,28
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388499-2020-6-9           23/07/2020         46222018       R$ 78,05
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura Informada pelo Cliente Consumo Abaixo da Media Mensal.
+DIC          6,27     0,00   12,54   25,08
+FIC          3,42     0,00    6,85   13,70
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                     21,43 27,45
+Compra de energia                           26,71 34,22
+Serviço de transmissão                       3,19   4,09
+Encargos setoriais                           3,22   4,13
+Impostos diretos e encargos                 23,50   30,11
+Outros serviços                              0,00   0,00
+Total                                       78,05 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 47,14
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/20     57,00
+0   MAI/20    115,00
+    ABR/20    148,00
+    MAR/20    309,00
+    FEV/20    285,00
+    JAN/20    214,00
+    DEZ/19    307,00
+    NOV/19    331,00
+    OUT/19    265,00
+    SET/19    270,00
+    AGO/19    267,00
+    JUL/19    291,00
+    JUN/19    291,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 19/05/2020   Leitura Atual: 16/06/2020   Dias: 28
+
+
+KWH   Ponta   99.493,00    99.436,00      1              0                                   57,00         100,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

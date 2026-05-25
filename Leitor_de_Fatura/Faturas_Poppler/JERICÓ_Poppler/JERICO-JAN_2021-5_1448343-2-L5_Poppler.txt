@@ -1,0 +1,107 @@
+PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 010 - 0253 - 733 - 6110                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008743245                          DOM. BANC.:
+MATRÍCULA: 1448343-2021-1-4                          DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT GANGORRA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                   0001448343-2
+5/1448343-2
+              R$ 692,68
+
+
+              Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2021
+              28,76 kWh
+             MÉDIA DIÁRIA
+834 kWh
+18/01/2021   05/02/2021   12/02/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        834,00    0,562110    0,779120      649,79        649,79   25      162,45         495,83        3,30         15,23
+0601 Adic. B. Amarela                                                            8,02          8,02   25        2,00           6,11        0,04          0,19
+0601 Adic. B. Vermelha                                                          34,87         34,87   25        8,72          26,60        0,18          0,82
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         692,68        692,68           173,17         528,54        3,52         16,24
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1448343-2021-1-4           23/02/2021         57733799      R$ 692,68
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
+DIC         11,74     3,43   23,48       46,96
+FIC          7,74     1,00   15,49       30,98
+DMIC         6,49     3,43
+DICRI       16,60
+
+
+Conjunto:    Jericó
+
+Referência:                          11/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                     199,75 28,84
+Compra de energia                           220,54 31,84
+Serviço de transmissão                       37,83   5,46
+Encargos setoriais                           41,63   6,01
+Impostos diretos e encargos                 192,93 27,85
+Outros serviços                               0,00   0,00
+Total                                       692,68 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2020): R$ 323,35
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+6   JAN/21    834,00
+8   DEZ/20    844,00
+    NOV/20    940,00
+    OUT/20    944,00
+    SET/20    953,00
+    AGO/20    875,00
+    JUL/20    442,00
+    JUN/20   1.100,00 *
+    MAI/20   1.096,00 *
+    ABR/20     831,00
+    MAR/20     818,00
+    FEV/20     569,00
+    JAN/20   1.219,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 17/12/2020   Leitura Atual: 15/01/2021   Dias: 29
+
+
+KWH   Ponta   48.751,00    47.917,00      1                                                 834,00         834,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

@@ -1,0 +1,109 @@
+Domicílio de Entrega:
+PM JERICO CEO CENTRO DE ESPECIALIDADE OD
+RUA LOPES FIGUEIREDO 110
+
+
+JERICÓ (AG: 245)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 009 - 0253 - 700 - 0505
+Nº do Medidor: 00008787878
+MATRÍCULA: 1788300-2020-1-4
+DOM. ENT.: 9999253003
+  PM JERICO CEO CENTRO DE ESPECIALIDADE ODONTOLOGICA
+ODONTOLOGICA
+  RUA HERUNDINA DE OLIVEIRA, S/N - C E O - 58830000
+  CENTRO
+  JERICO-PB (AG: 245)
+                                                        ENER
+                                              Br 230, Km 25 -
+
+
+    LIGAÇÃO: MONOFASICO
+    DOM. BANC.:
+    CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+    Insc. Est.:
+               Emissão: 16/01/2020         Identificador para Débito Automático:   0001788300-0
+
+
+
+Janeiro/2020   03/02/2020            13/02/2020                   5/1788300-0
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        748,00   0,545400        0,785840        587,81        587,81    25     146,95          587,81       5,87        27,03
+0601 Adic. B. Amarela                                                                14,47         14,47    25       3,62           14,47       0,14         0,66
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              602,28        602,28           150,57          602,28       6,01        27,69
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                            160,26
+                                                        %
+                                                       26,60   2
+COMPRA DE ENERGIA                           209,84     34,84
+SERVIÇO DE TRANSMISSÃO                       23,83      3,96
+ENCARGOS SETORIAIS                           24,08      4,00
+IMPOSTOS DIRETOS E ENCARGOS                 184,27     30,60
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                         602,28    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 250,71
+23/02/2020   R$ 602,28
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   1788300-2020-1-4          23/02/2020         37489803      R$ 602,28
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         748
+DEZ/19         852
+NOV/19         787
+OUT/19         833
+SET/19         676
+AGO/19         566
+JUL/19         682
+JUN/19         840
+MAI/19         991
+ABR/19        1192
+MAR/19        1056
+FEV/19        1219
+JAN/19        1076
+Leitura: 16/12/2019 a 15/01/2020 Dias: 30
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P          27.937,00     27.189,00    1                                              748,00            748,00
+VENCIMENTO   VALOR (R$)
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 18/02/2020. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+DIC MENSAL        6,27       0,00
+DIC TRIMESTRAL   12,54
+DIC ANUAL        25,08
+FIC MENSAL        3,42       0,00
+FIC TRIMESTRAL    6,85
+FIC ANUAL        13,70
+DMIC              3,71       0,00
+DICRI            12,22
+
+
+
+Conjunto: Jericó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 202 a 231
+

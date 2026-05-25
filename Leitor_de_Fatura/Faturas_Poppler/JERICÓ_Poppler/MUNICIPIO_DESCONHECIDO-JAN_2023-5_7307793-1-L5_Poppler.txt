@@ -1,0 +1,143 @@
+ROTEIRO: 010 - 0253 - 705 - 7050
+MATRÍCULA: 7307793-2023-1-3
+DOM. BANC.:                                      DOM. ENT.:
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICI                                        LIGAÇÃO: TRIFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.:               Lim. Max.:
+
+
+PM JERICO CRECHE AMELIA ROSADO
+
+RUA JOAQUIM PEREIRA DA SILVA, S/N - - 58830000
+
+
+JD HORIZONTE                                                                5/7307793-1
+JERICO
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84                                           00008786917
+Insc. Est.:
+NOTA FISCAL Nº: 000.631.9
+                  Janeiro / 2023
+
+
+
+
+Itens da Fatura
+23/03/2023                    R$ 2.225,68
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS       1.824,95    0,8504     15,52
+                                                                                                               PIS                 1.824,95   0,8504
+Consumo em kWh Recuperado                           2.803,00   2.149,74    84,03   2.149,74   18   386,95
+                                                                                                               COFINS              1.824,95   3,9168
+Adic. B. Vermelha                                                75,94      2,97     75,94    18    13,67
+                                                                                                               ICMS                2.225,68    18,00
+
+
+
+
+                                                                                                                           CONSUMO FATURADO
+
+                                                                                                                          JAN/23
+                                                                                                                          DEZ/22
+                                                                                                                          NOV/22
+                                                                                                                          OUT/22
+
+
+
+
+                                                                                                            Consumo kWh
+                                                                                                                          SET/22
+                                                                                                                          AGO/22
+                                                                                                                          JUL/22
+                                                                                                                          JUN/22
+                                                                                                                          MAI/22
+                                                                                                                          ABR/22
+                                                                                                                          MAR/22
+                                                                                                                          FEV/22
+                                                                                                                          JAN/22
+
+
+
+
+                                                   TOTAL:      2.225,68    87,00   2.225,68        400,62
+
+
+
+
+    00008786917     Energia ativa em kWh   Ponta                          2803
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   7307793-2023-1-3              23/03/2023      631944         R$ 2.225,68
+
+CONTA PAGA - Data de Pagamento: 23/03/2023
+PARCELA 2 /2 REFERENTE À RECUPERAÇÃO DE CONSUMO; 93 DIAS
+PREZADO CLIENTE, NEGOCIE MELHORES CONDIÇÕES EM NOSSA AGENCIA DE ATENDIMENTO.
+RED original - 7307791
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        433,82     19,4
+Compra de energia              768,57     34,5
+Serviço de transmissão         112,80      5,0
+Encargos setoriais             422,87     19,0
+Impostos diretos e encargos    487,62     21,9
+Outros serviços                   0,00     0,0
+Total                         2.225,68   100,0
+    JAN/23
+    DEZ/22
+    NOV/22
+    OUT/22
+    SET/22
+    AGO/22
+    JUL/22
+    JUN/22
+    MAI/22
+a   ABR/22
+    MAR/22
+    FEV/22
+    JAN/22
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior:   Leitura Atual:   Dias:
+
+
+
+,49   KWH   Ponta                                                           2.803,00           2.80
+,53
+,07
+,00
+,91
+,00
+,00
+
+
+
+
+                                                                 * KWTG: Dem Tusdg     * K: Const Me
+

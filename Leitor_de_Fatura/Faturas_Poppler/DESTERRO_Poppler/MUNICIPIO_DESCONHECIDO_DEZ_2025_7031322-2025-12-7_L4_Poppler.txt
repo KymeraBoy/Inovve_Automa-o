@@ -1,0 +1,115 @@
+ROTEIRO: 001 - 0139 - -
+MATRÍCULA: 7031322-2025-12-7
+DOM. BANC.:                    DOM. ENT.:
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO                                                   LIGAÇÃO: TRIFASICO
+PM DESTERRO PONTO 05
+
+RUA NOSSA SENHORA DE FATIMA
+
+
+CENTRO
+DESTERRO
+
+
+CNPJ/CPF/RANI:
+Insc. Est.:
+Dezembro / 2025   23/12/2025   R$ 0,00
+                                           Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura          Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+LANÇAMENTOS E SERVIÇOS
+CANCELAMENTO DE FATURA                                           -1,00
+CANCELAMENTO DE FATURA                                           1,00
+
+
+
+
+                                 TOTAL:                          0,00        0,00           0,00            0,00
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  7031322-2025-12-7              23/12/2025      7171660         R$ 0,00
+
+CONTA PAGA - Data de Pagamento: 23/12/2025
+Data de Apresentação: 23/12/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00070313227
+01/01/1900
+5/7031322-7
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS           0,00                0,00
+COFINS        0,00                0,00
+ICMS          0,00                0,00
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/25
+              NOV/25
+              OUT/25
+              SET/25
+Consumo kWh
+
+
+
+
+              AGO/25
+              JUL/25
+              JUN/25
+              MAI/25
+              ABR/25
+              MAR/25
+              FEV/25
+              JAN/25
+              DEZ/24
+     0,00                  0,00
+
+
+
+
+Esta NF3e substitui, para todos os fins, a NF3e nº 7109706, de 23/12/2025, a qual
+não poderá ser utilizada para fins de crédito do imposto.
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição       0,00
+Compra de energia             0,00
+Serviço de transmissão        0,00
+Encargos setoriais            0,00
+Impostos diretos e encargos
+Outros serviços               1,00
+Total                                100,00
+DEZ/25
+NOV/25
+OUT/25
+SET/25
+AGO/25
+JUL/25
+JUN/25
+MAI/25
+ABR/25
+MAR/25
+FEV/25
+JAN/25
+DEZ/24
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior:   Leitura Atual:   Dias:
+
+
+
+
+                                             * KWTG: Dem Tusdg   * K: Const Med
+

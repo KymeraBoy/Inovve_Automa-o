@@ -1,0 +1,166 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 013 - 0253 - 720 - 2580
+MATRÍCULA: 852871-2025-9-9
+DOM. BANC.:                                    DOM. ENT.: 9999253001
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                  LIGAÇÃO: TRIFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 350          Lim. Max.: 399
+
+
+PM JERICO SEDE
+
+RUA CIRILO DE FREITAS, S/N - 58830000
+
+
+CENTRO                                                                     5/852871-3
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84                                          00008243413
+Insc. Est.:
+20/08/2025   19/09/2025          30
+
+
+
+              NOTA FISCAL Nº: 006.470.1
+                  Setembro / 2025
+
+     Importante: seu número de identificação será atua
+     nem o fornecimento de energia.
+
+
+
+
+Itens da Fatura
+   23/10/2025                          R$ 2.687,71
+
+zado. A partir de 01/12/2025, o número da sua unidade consumido
+
+
+
+
+                          Preço unit (R$)
+  Unid.          Quant.     com tributos     Valor (R$) COFIN
+                                                        3252500019392783 - 22/09/2025 17:23:13
+
+
+
+
+midora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS       2.150,15    0,8795     18,91
+                                                                                                                                                 PIS                 2.150,15   0,8795
+Consumo em kWh                              KWH     2.785,00   0,861490   2.399,28    94,63   2.399,28    20           479,85      0,655220
+                                                                                                                                                 COFINS              2.150,15   4,0510
+Adic. B. Vermelha                                                          288,43     11,38     288,43    20            57,69
+                                                                                                                                                 ICMS                2.687,71    20,00
+
+
+
+
+                                                                                                                                                             CONSUMO FATURADO
+
+                                                                                                                                                            SET/25
+                                                                                                                                                            AGO/25
+                                                                                                                                                            JUL/25
+                                                                                                                                                            JUN/25
+
+
+
+
+                                                                                                                                              Consumo kWh
+                                                                                                                                                            MAI/25
+                                                                                                                                                            ABR/25
+                                                                                                                                                            MAR/25
+                                                                                                                                                            FEV/25
+                                                                                                                                                            JAN/25
+                                                                                                                                                            DEZ/24
+                                                                                                                                                            NOV/24
+                                                                                                                                                            OUT/24
+                                                                                                                                                            SET/24
+
+
+
+
+                                                   TOTAL:                 2.687,71   106,01   2.687,71                 537,54
+
+
+
+
+    00008243413     Energia ativa em kWh   Ponta     402765     405550        1      2785     Art. 13, Inciso VII do RICMS/PB - 1997
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  852871-2025-9-9       23/10/2025       6470125        R$ 2.687,71
+
+FATURAMENTO AGRUPADO
+.
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+- -Detectar cedo é dar a chance de vencer. Previna-se contra o câncer de mama. Gov.PB
+DIC         12,00     0,00   999,00   999,0
+FIC          4,00     0,00   999,00   999,0
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                       07/2025
+Tensão Contratada:
+Limite Adequado:                350 a 399
+Serviço de distribuição                      574,20     21,3
+Compra de energia                            896,57     33,3
+Serviço de transmissão                       127,15      4,7
+Encargos setoriais                           446,24     16,6
+Impostos diretos e encargos                  643,55     23,9
+Outros serviços                                 0,00     0,0
+Total                                       2.687,71   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 07/2025): R$ 592,68
+9,00   SET/25   2.785,00
+9,00   AGO/25   2.232,00
+       JUL/25   2.721,00 *
+       JUN/25   2.583,00
+       MAI/25   2.799,00
+       ABR/25   2.694,00
+       MAR/25   2.704,00 *
+25     FEV/25   3.137,00
+       JAN/25   2.177,00
+99     DEZ/24   2.607,00
+       NOV/24   2.807,00
+       OUT/24   2.694,00
+       SET/24   2.806,00
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior: 20/08/2025      Leitura Atual: 19/09/2025   Dias: 30
+
+
+
+,37   KWH   Ponta   405.550,00    402.765,00       1,00                                                 2.785,00           2.78
+,36
+,73
+,60
+,94
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg     * K: Const Me
+

@@ -1,0 +1,110 @@
+PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 010 - 0253 - 733 - 6110                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008743245                          DOM. BANC.:
+MATRÍCULA: 1448343-2020-6-5                          DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT GANGORRA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                   0001448343-2
+5/1448343-2
+              R$ 858,62
+
+
+              Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2020
+              39,29 kWh
+             MÉDIA DIÁRIA
+1.100 kWh
+17/06/2020   08/07/2020   16/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                      1.100,00    0,545400    0,780560      858,62        858,62   25      214,65         858,62        7,85         36,17
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         858,62        858,62           214,65         858,62        7,85         36,17
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1448343-2020-6-5           23/07/2020         46224574      R$ 858,62
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Medição sem acesso por risco de acidente Faturado pela média
+DIC         11,74     0,00   23,48   46,96
+FIC          7,74     0,00   15,49   30,98
+DMIC         6,49     0,00
+DICRI       16,60
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                     235,65 27,44
+Compra de energia                           293,80 34,22
+Serviço de transmissão                       35,04   4,08
+Encargos setoriais                           35,46   4,13
+Impostos diretos e encargos                 258,67 30,13
+Outros serviços                               0,00   0,00
+Total                                       858,62 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 264,73
+- Comunicamos que por falta de acesso ao equipamento de medição,
+NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao
+medidor garante o faturamento correto da conta de energia,
+evitando faturamentos pela média e consumos acumulados.
+Notificamos a necessidade de liberar o acesso ao local da
+medição, caso contrário, o fornecimento de energia poderá
+ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+6   JUN/20   1.100,00 *
+8   MAI/20   1.096,00 *
+    ABR/20     831,00
+    MAR/20     818,00
+    FEV/20     569,00
+    JAN/20   1.219,00
+    DEZ/19   1.312,00
+    NOV/19   1.345,00
+    OUT/19   1.165,00
+    SET/19   1.302,00
+    AGO/19   1.249,00
+    JUL/19   1.212,00
+    JUN/19   1.081,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 19/05/2020   Leitura Atual: 16/06/2020   Dias: 28
+
+
+KWH   Ponta   42.919,00    41.819,00      1                                               1.100,00       1.100,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

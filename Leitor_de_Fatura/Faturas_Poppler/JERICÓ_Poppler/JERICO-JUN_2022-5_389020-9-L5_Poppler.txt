@@ -1,0 +1,96 @@
+ILUMINACAO PUBLICA - P.M.JERICO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.JERICO
+RUA LOPES FIGUEIREDO 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0253 - 099 - 4100                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 389020-2022-6-8                                 DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                         0000389020-9
+5/389020-9
+              R$ 18.048,29
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2022
+             1.322,93 kWh
+             MÉDIA DIÁRIA
+39.688 kWh
+01/07/2022   04/07/2022   31/07/2022
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta     1.262,00    0,328310    0,454740      573,90        573,90   25        143,47         430,42        2,87         13,23
+0601 Consumo em kWh                              38.426,00    0,328310    0,454740   17.474,39     17.474,39   25      4.368,60      13.105,80       87,43        402,72
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      18.048,29     18.048,29           4.512,07      13.536,22       90,30        415,95
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   389020-2022-6-8           23/07/2022         88247147     R$ 18.048,29
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+Consumo Estimado: faturamento realizado por carga instalada.
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        4.443,22 24,62
+Compra de energia              6.070,66 33,64
+Serviço de transmissão         1.003,31   5,56
+Encargos setoriais             1.512,78   8,38
+Impostos diretos e encargos    5.018,32 27,80
+Outros serviços                    0,00   0,00
+Total                         18.048,29 100,00
+JUN/22   38.426,00
+MAI/22   39.707,00
+ABR/22   38.426,00
+MAR/22   39.707,00
+FEV/22   35.864,00
+JAN/22   39.707,00
+DEZ/21   39.707,00
+NOV/21   38.426,00
+OUT/21   39.707,00
+SET/21   38.426,00
+AGO/21   39.707,00
+JUL/21   39.707,00
+JUN/21   35.294,00
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 31/05/2022   Leitura Atual: 30/06/2022   Dias: 30
+
+
+
+
+                                                                      * K : Constante do Medidor
+

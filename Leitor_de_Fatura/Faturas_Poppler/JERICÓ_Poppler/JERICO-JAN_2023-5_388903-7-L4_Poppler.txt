@@ -1,0 +1,127 @@
+DOMICÍLIO DE ENTREGA
+PM JERICO IGREJA CATOLICA
+RUA LOPES FIGUEIREDO 110 - CENTRO
+JERICO (AG: 245)
+
+ROTEIRO: 012 - 0253 - 720 - 2260
+MATRÍCULA: 388903-2023-1-5
+DOM. BANC.:                         DOM. ENT.: 9999253001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM JERICO IGREJA CATOLICA
+
+RUA PE JERONIMO MUNHOS, S/N - 58830000
+
+
+CENTRO
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX0-30
+Insc. Est.:
+Janeiro / 2023   23/02/2023   R$ 163,40
+- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              213,00       0,767150        163,40        6,39         163,40   18      29,41   0,599080
+
+
+
+
+                          TOTAL:                         163,40        6,39         163,40           29,41
+00000477500   Energia ativa em kWh   Ponta   34478   34691   1   213
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   388903-2023-1-5               23/02/2023      618137         R$ 163,40
+
+CONTA PAGA - Data de Pagamento: 28/02/2023
+Data de Apresentação: 02/02/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000388903-7
+21/12/2022   20/01/2023   30   20/02/2023
+5/388903-7
+
+00000477500
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         133,99    0,8504      1,14
+COFINS      133,99    3,9170      5,25
+ICMS        163,40     18,00     29,41
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/23                30
+              DEZ/22                30
+              NOV/22                32
+              OUT/22                29
+Consumo kWh
+
+
+
+
+              SET/22                33
+              AGO/22                30
+              JUL/22                30
+              JUN/22                31
+              MAI/22                30
+              ABR/22                29
+              MAR/22                33
+              FEV/22                28
+              JAN/22                30
+  163,40                  29,41
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+DIC         12,00     0,24   0,00        0,00
+FIC          4,00     1,00   0,00        0,00
+DMIC         9,00     0,24
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                         11/2022
+Tensão Contratada:
+Limite Adequado:              202 a 231
+Serviço de distribuição                      31,85    19,49
+Compra de energia                            56,42    34,53
+Serviço de transmissão                        8,28     5,07
+Encargos setoriais                           31,05    19,00
+Impostos diretos e encargos                  35,80    21,91
+Outros serviços                               0,00     0,00
+Total                                       163,40   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2022): R$ 88,08
+JAN/23    213,00                          0,00
+DEZ/22    186,00                          0,00
+NOV/22    247,00                          0,00
+OUT/22    206,00                          0,00
+SET/22    397,00                          0,00
+AGO/22    192,00                          0,00
+JUL/22    201,00                          0,00
+JUN/22    212,00                          0,00
+MAI/22    187,00                          0,00
+ABR/22    266,00                          0,00
+MAR/22    259,00                          0,00
+FEV/22    177,00                          0,00
+JAN/22    231,00                          0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 21/12/2022      Leitura Atual: 20/01/2023   Dias: 30
+
+
+
+KWH   Ponta   34.691,00      34.478,00       1,00           0,00                                   213,00            213,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

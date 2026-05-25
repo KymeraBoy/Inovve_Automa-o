@@ -1,0 +1,103 @@
+GE MARIA MONTEIRO DA SILVA
+
+DOMICÍLIO DE ENTREGA
+GE MARIA MONTEIRO DA SILVA
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0253 - 739 - 1580                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5138839332                            DOM. BANC.:
+MATRÍCULA: 1109885-2022-1-2                            DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MONTE FLOR, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0001109885-2
+5/1109885-2
+              R$ 26,35
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+               1,00 kWh
+             MÉDIA DIÁRIA
+30 kWh
+21/01/2022   09/02/2022   17/02/2022
+                                                           TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                               QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                          24,80         24,80   25      6,20           18,60        0,12          0,57
+0601 Adic. B. Vermelha                                                                  5,90          5,90   25      1,47            4,43        0,03          0,13
+     LANÇAMENTOS E SERVIÇOS
+0904 COMPENSACAO POR INDICADOR -DIC 11/2021                                            -4,35                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                                   TOTAL:          26,35         30,70           7,67           23,03        0,15          0,70
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1109885-2022-1-2           23/02/2022         78357968       R$ 26,35
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Imóvel desocupado com acesso ao medidor
+DIC         11,59   32,29   23,19       46,38
+FIC          7,59    3,00   15,19       30,39
+DMIC         6,39   21,76
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                         11/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      6,11 19,90
+Compra de energia                           12,61 41,07
+Serviço de transmissão                       1,38   4,50
+Encargos setoriais                           2,08   6,78
+Impostos diretos e encargos                  8,52 27,75
+Outros serviços                              0,00   0,00
+Total                                       30,70 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2021): R$ 10,23
+8   JAN/22      0,00 *
+9   DEZ/21      2,00
+    NOV/21      0,00 *
+    OUT/21      0,00 *
+    SET/21     30,00 *
+    AGO/21      0,00 *
+    JUL/21     38,00 *
+    JUN/21     41,00
+    MAI/21    115,00
+    ABR/21      2,00
+    MAR/21      3,00
+    FEV/21      0,00 *
+    JAN/21      0,00 *
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 21/12/2021   Leitura Atual: 20/01/2022   Dias: 30
+
+
+KWH   Ponta    2,00          2,00      1              0                                    0,00          30,00
+
+
+
+
+                                                                                    * K : Constante do Medidor
+

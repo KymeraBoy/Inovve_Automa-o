@@ -1,0 +1,163 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 013 - 0253 - 737 - 3050
+MATRÍCULA: 1073796-2024-10-0
+DOM. BANC.:                                    DOM. ENT.: 9999253002
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                  LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 202         Lim. Max.: 231
+
+
+PM JERICO GRUPO ESCOLAR FRANCISCO P
+LIMA
+SIT VERTENTES, S/N - 58830000
+
+
+AREA RURAL                                                                5/1073796-3
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84                                         00008450454
+Insc. Est.:
+20/09/2024   22/10/2024          32
+
+
+
+              NOTA FISCAL Nº: 004.161.1
+                  Outubro / 2024
+
+
+
+
+Itens da Fatura
+23/11/2024                    R$ 26,20
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+3252400018423026 - 23/10/2024 16:48:40
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa             Base de Alíquota     Valor
+                                                     Tributo   Cálc.(R$)  (%)        (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS           20,49   0,7120   0,14
+                                                                                                                                    PIS                    20,49   0,7120
+Custo de Disponibilidade                                                    22,97   0,73      22,97    20             4,59
+                                                                                                                                    COFINS                 20,49   3,2795
+Adic. B. Vermelha                                                            0,52   0,01        0,52   20             0,10
+                                                                                                                                    ICMS                   25,64    20,00
+Adic. B. Vermelha                                                            2,15   0,07        2,15   20             0,43
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 08/2024                                                        0,06   0,00        0,00                  0,00
+MULTA 08/2024                                                                0,50   0,00        0,00                  0,00                                                  Nº
+                                                                                                                                                  CONSUMO FATURADO
+                                                                                                                                                  OUT/24
+                                                                                                                                                  SET/24
+                                                                                                                                                  AGO/24
+                                                                                                                                                  JUL/24
+                                                                                                                                                  JUN/24
+
+
+
+
+                                                                                                                                    Consumo kWh
+                                                                                                                                                  MAI/24
+                                                                                                                                                  ABR/24
+                                                                                                                                                  MAR/24
+                                                                                                                                                  FEV/24
+                                                                                                                                                  JAN/24
+                                                                                                                                                  DEZ/23
+                                                                                                                                                  NOV/23
+                                                                                                                                                  OUT/23
+
+
+
+
+                                                          TOTAL:            26,20   0,81      25,64                   5,12
+
+
+
+
+    00008450454            Energia ativa em kWh   Ponta       6376   6406    1      30     Art. 13, Inciso VII do RICMS/PB - 1997
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1073796-2024-10-0     23/11/2024       4161189         R$ 26,20
+
+FATURAMENTO AGRUPADO
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+- MEDIDOR COM POSSIVEL DEFEITO
+- Faturamento p/mínimo da fase - Art. 87 da Res. 414 - ANEEL
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+- MEDIDOR COM POSSIVEL DEFEITO
+- Faturamento p/mínimo da fase - Art. 87 da Res. 414 - ANEEL
+DIC         24,00     0,00   0,00    0,0
+FIC          6,00     0,00   0,00    0,0
+DMIC        18,00     0,00
+DICRI       26,00
+
+
+Conjunto:    Jericó
+
+Referência:                     08/2024
+Tensão Contratada:
+Limite Adequado:              202 a 231
+Serviço de distribuição                      5,59    21,3
+Compra de energia                            8,65    33,0
+Serviço de transmissão                       1,44     5,5
+Encargos setoriais                           4,03    15,3
+Impostos diretos e encargos                  6,49    24,7
+Outros serviços                              0,00     0,0
+Total                                       26,20   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 08/2024): R$ 6,79
+0,00   OUT/24     30,00 *
+0,00   SET/24     32,00 *
+       AGO/24     32,00 *
+       JUL/24     31,00 *
+       JUN/24     31,00 *
+       MAI/24     31,00 *
+       ABR/24     31,00 *
+24     MAR/24     31,00 *
+       FEV/24     31,00 *
+31     JAN/24     31,00
+       DEZ/23     32,00 *
+       NOV/23     32,00 *
+       OUT/23     35,00 *
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior: 20/09/2024      Leitura Atual: 22/10/2024   Dias: 32
+
+
+
+,33   KWH   Ponta    6.406,00       6.376,00       1,00                                                   30,00             3
+,02
+,50
+,38
+,77
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg    * K: Const Me
+

@@ -1,0 +1,101 @@
+PM JERICO CENTRO DE INCLUSAO DIGITAL
+
+DOMICÍLIO DE ENTREGA
+PM JERICO CENTRO DE INCLUSAO DIGITAL
+RUA LOPES FIGUEIREDO 110 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 009 - 0253 - 700 - 3620                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7024267811                            DOM. BANC.:
+MATRÍCULA: 388063-2022-1-0                             DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA LOPES DE FIGUEIREDO, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0000388063-0
+5/388063-0
+              R$ 309,09
+
+
+              Janeiro/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2022
+               9,74 kWh
+             MÉDIA DIÁRIA
+302 kWh
+18/01/2022   09/02/2022   14/02/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        302,00    0,596920    0,826800      249,69        249,69   25      62,42         187,26        1,24          5,75
+0601 Adic. B. Vermelha                                                          59,40         59,40   25      14,85          44,55        0,30          1,37
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         309,09        309,09           77,27         231,81        1,54          7,12
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388063-2022-1-0           23/02/2022         78076013      R$ 309,09
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura confirmada
+DIC          6,27     4,85   12,54       25,08
+FIC          3,36     2,00    6,72       13,45
+DMIC         3,71     0,08
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                          11/2021
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      61,48 19,89
+Compra de energia                           126,87 41,05
+Serviço de transmissão                       13,88   4,49
+Encargos setoriais                           20,93   6,77
+Impostos diretos e encargos                  85,93 27,80
+Outros serviços                               0,00   0,00
+Total                                       309,09 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2021): R$ 95,87
+8   JAN/22    302,00
+5   DEZ/21    395,00
+    NOV/21    281,00
+    OUT/21    523,00
+    SET/21    631,00
+    AGO/21    603,00
+    JUL/21    450,00
+    JUN/21    438,00
+    MAI/21     252,00
+    ABR/21     409,00
+    MAR/21   1.203,00
+    FEV/21   1.190,00
+    JAN/21     675,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 17/12/2021   Leitura Atual: 17/01/2022   Dias: 31
+
+
+KWH   Ponta   3.875,00     3.573,00      1              0                                  302,00         302,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

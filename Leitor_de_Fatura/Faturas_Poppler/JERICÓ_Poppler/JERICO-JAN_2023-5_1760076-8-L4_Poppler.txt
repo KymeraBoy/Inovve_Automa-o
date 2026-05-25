@@ -1,0 +1,126 @@
+DOMICÍLIO DE ENTREGA
+PM JERICO UNIDADE BASICA DE SAUDE
+RUA LOPES FIGUEIREDO 110 TRV DA RUA VER FRNCO DE SOUSA - CENTRO
+JERICO (AG: 245)
+
+ROTEIRO: 011 - 0253 - 710 - 2510
+MATRÍCULA: 1760076-2023-1-6
+DOM. BANC.:                                   DOM. ENT.: 9999253003
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+PM JERICO UNIDADE BASICA DE SAUDE
+
+RUA VEREADOR FRANCISCO DE SOUSA PEDROSA, S/N - TRV DA RUA VER
+FRNCO DE SOUSA - 58830000
+ALTO CRUZEIRO
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Janeiro / 2023   23/02/2023   R$ 849,24
+- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh             1.107,00       0,767150        849,24       33,20         849,24   18      152,86   0,599080
+
+
+
+
+                          TOTAL:                          849,24       33,20         849,24           152,86
+00008743120   Energia ativa em kWh   Ponta   98986   100093   1   1107
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   1760076-2023-1-6              23/02/2023      611013         R$ 849,24
+
+CONTA PAGA - Data de Pagamento: 28/02/2023
+Data de Apresentação: 02/02/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001760076-8
+20/12/2022   19/01/2023   30   18/02/2023
+5/1760076-8
+
+00008743120
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         696,38    0,8504       5,92
+COFINS      696,38    3,9170      27,28
+ICMS        849,24     18,00     152,86
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/23                30
+              DEZ/22                32
+              NOV/22                30
+              OUT/22                29
+Consumo kWh
+
+
+
+
+              SET/22                33
+              AGO/22                30
+              JUL/22                32
+              JUN/22                29
+              MAI/22                30
+              ABR/22                29
+              MAR/22                33
+              FEV/22                28
+              JAN/22                30
+  849,24                 152,86
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+DIC         12,00     0,00   0,00        0,00
+FIC          4,00     0,00   0,00        0,00
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                         11/2022
+Tensão Contratada:
+Limite Adequado:              350 a 399
+Serviço de distribuição                     165,53    19,49
+Compra de energia                           293,26    34,53
+Serviço de transmissão                       43,04     5,07
+Encargos setoriais                          161,35    19,00
+Impostos diretos e encargos                 186,06    21,91
+Outros serviços                               0,00     0,00
+Total                                       849,24   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2022): R$ 442,19
+JAN/23   1.107,00                         0,00
+DEZ/22   1.507,00                         0,00
+NOV/22   1.240,00                         0,00
+OUT/22     631,00                         0,00
+SET/22     230,00                         0,00
+AGO/22     703,00                         0,00
+JUL/22     596,00                         0,00
+JUN/22    868,00                          0,00
+MAI/22   1.186,00                         0,00
+ABR/22   1.277,00                         0,00
+MAR/22   1.303,00                         0,00
+FEV/22   1.187,00                         0,00
+JAN/22     946,00                         0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 20/12/2022      Leitura Atual: 19/01/2023   Dias: 30
+
+
+
+KWH   Ponta   100.093,00     98.986,00       1,00                                                 1.107,00          1.107,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

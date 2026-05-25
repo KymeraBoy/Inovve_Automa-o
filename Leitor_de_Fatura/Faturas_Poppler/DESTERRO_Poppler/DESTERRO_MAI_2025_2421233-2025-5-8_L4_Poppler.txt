@@ -1,0 +1,128 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 008 - 0139 - 563 - 6010
+MATRÍCULA: 2421233-2025-5-8
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO DESSANILIZADOR BARRA DO
+VIEIRA
+SIT BARRA DO VIEIRA, SN - 58695000
+
+
+AREA RURAL
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Maio / 2025   23/06/2025   R$ 205,83
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh               266,00       0,763900        203,19        6,07         203,19   20      40,63   0,588270
+Adic. B. Amarela                                            2,64        0,07           2,64   20       0,53
+
+
+
+
+                           TOTAL:                         205,83        6,14         205,83           41,16
+D5103723071   Energia ativa em kWh   Ponta   6171   6437   1   266
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   2421233-2025-5-8              23/06/2025      5483924        R$ 205,83
+
+CONTA PAGA - Data de Pagamento: 06/06/2025
+Data de Apresentação: 04/06/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002421233-4
+11/04/2025   13/05/2025   32   11/06/2025
+5/2421233-4
+
+D5103723071
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         164,64    0,6671      1,09
+COFINS      164,64    3,0729      5,05
+ICMS        205,83     20,00     41,16
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              MAI/25                32
+              ABR/25                28
+              MAR/25                29
+              FEV/25                30
+Consumo kWh
+
+
+
+
+              JAN/25                32
+              DEZ/24                31
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                35
+  205,83                  41,16
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+DIC         24,00       2,25   999,00   999,00
+FIC          6,00       1,00   999,00   999,00
+DMIC        18,00       2,25
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                         03/2025
+Tensão Contratada:
+Limite Adequado:                  202 a 231
+Serviço de distribuição                      53,19    25,85
+Compra de energia                            66,80    32,45
+Serviço de transmissão                       13,71     6,66
+Encargos setoriais                           24,83    12,06
+Impostos diretos e encargos                  47,30    22,98
+Outros serviços                               0,00     0,00
+Total                                       205,83   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 03/2025): R$ 57,06
+MAI/25    266,00
+ABR/25    220,00
+MAR/25    262,00
+FEV/25    252,00
+JAN/25    315,00
+DEZ/24    308,00
+NOV/24    266,00
+OUT/24    289,00
+SET/24    254,00
+AGO/24    232,00
+JUL/24    213,00
+JUN/24    215,00
+MAI/24    237,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 11/04/2025      Leitura Atual: 13/05/2025   Dias: 32
+
+
+
+KWH   Ponta    6.437,00       6.171,00       1,00                                                  266,00            266,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

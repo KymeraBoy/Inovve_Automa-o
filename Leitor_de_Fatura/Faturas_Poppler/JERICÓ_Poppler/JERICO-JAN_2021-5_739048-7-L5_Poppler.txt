@@ -1,0 +1,111 @@
+PM JERICO ABASTECIMENTO DAGUA SIT MALHADINHA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO ABASTECIMENTO DAGUA SIT MALHADINHA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 013 - 0253 - 743 - 1340                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008066259                          DOM. BANC.:
+MATRÍCULA: 739048-2021-1-9                           DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MALHADINHA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                   0000739048-7
+5/739048-7
+          R$ 1.826,66
+
+
+          Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/02/2021
+              73,90 kWh
+             MÉDIA DIÁRIA
+2.143 kWh
+21/01/2021   05/02/2021   19/02/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      2.143,00    0,562110    0,779120    1.669,66      1.669,66   25      417,41       1.274,07        8,50         39,15
+0601 Adic. B. Amarela                                                           27,51         27,51   25        6,88          20,98        0,14          0,64
+0601 Adic. B. Vermelha                                                          57,54         57,54   25       14,38          43,90        0,29          1,35
+     LANÇAMENTOS E SERVIÇOS
+0899 PARCELA COMPENSADA 02/2                                                    71,95                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.826,66      1.754,71           438,67       1.338,95        8,93         41,14
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   739048-2021-1-9           23/02/2021         58003947      R$ 1.826,66
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Perda do Ramal: 5 kWh.
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
+- Leitura confirmada
+DIC         11,59    0,00   23,19       46,38
+FIC          7,67    0,00   15,34       30,69
+DMIC         6,39    0,00
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                         11/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      506,01 27,70
+Compra de energia                            558,67 30,58
+Serviço de transmissão                        95,83    5,25
+Encargos setoriais                           105,46    5,77
+Impostos diretos e encargos                  488,74 26,76
+Outros serviços                               71,95    3,94
+Total                                       1.826,66 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2020): R$ 445,12
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JAN/21   2.143,00
+9   DEZ/20     484,00
+    NOV/20   1.294,00
+    OUT/20   1.041,00 *
+    SET/20   1.334,00
+    AGO/20   1.153,00
+    JUL/20   1.105,00
+    JUN/20    981,00
+    MAI/20     837,00
+    ABR/20   1.035,00
+    MAR/20   1.022,00 *
+    FEV/20     386,00
+    JAN/20     826,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                  Leitura Anterior: 22/12/2020   Leitura Atual: 20/01/2021   Dias: 29
+
+
+KWH   Ponta   200.277,00   198.129,00      1              0                                2.143,00       2.143,00
+
+
+
+
+                                                                                        * K : Constante do Medidor
+

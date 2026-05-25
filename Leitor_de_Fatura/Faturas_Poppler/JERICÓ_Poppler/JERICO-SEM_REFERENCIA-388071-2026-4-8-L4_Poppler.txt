@@ -1,0 +1,134 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+
+
+
+DOM. BANC.:                                    DOM. ENT.: 9999253001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM JERICO CAPELA
+
+SIT MALHADINHA, S/N - 58830000
+
+
+AREA RURAL
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Abril / 2026   23/05/2026   R$ 109,36
+- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
+pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        124,00       0,881950        109,36        3,71         109,36   20      21,87   0,675650
+
+
+
+
+                           TOTAL:                         109,36        3,71         109,36           21,87
+00000683829   Energia ativa em kWh   Ponta   46648   46772   1   124
+        CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0000388071-3
+           Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 06/05/2026
+
+
+                                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
+  388071-2026-4-8                             23/05/2026                          8135546              R$ 109,36
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/05/2026
+30/03/2026   30/04/2026   31   28/05/2026
+133.325.053-11
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          87,48    0,7563      0,66
+COFINS       87,48    3,4837      3,05
+ICMS        109,36     20,00     21,87
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              ABR/26                31
+              MAR/26                35
+              FEV/26                31
+              JAN/26                30
+Consumo kWh
+
+
+
+
+              DEZ/25                29
+              NOV/25                32
+              OUT/25                30
+              SET/25                30
+              AGO/25                32
+              JUL/25                29
+              JUN/25                30
+              MAI/25                32
+              ABR/25                30
+  109,36                  21,87
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+DIC         24,00    0,00   999,00   999,00
+FIC          6,00    0,00   999,00   999,00
+DMIC        18,00    0,00
+DICRI       26,00
+
+
+Conjunto:    CATOLÉ DO ROCHA
+
+Referência:                      02/2026
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      28,09    25,69
+Compra de energia                            34,09    31,17
+Serviço de transmissão                        6,22     5,69
+Encargos setoriais                           15,38    14,06
+Impostos diretos e encargos                  25,58    23,39
+Outros serviços                               0,00     0,00
+Total                                       109,36   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 02/2026): R$ 7,08
+ABR/26    124,00 *
+MAR/26    127,00 *
+FEV/26      0,00 *
+JAN/26    146,00 *
+DEZ/25    144,00 *
+NOV/25    142,00 *
+OUT/25    140,00 *
+SET/25    139,00 *
+AGO/25     58,00
+JUL/25    149,00
+JUN/25    144,00 *
+MAI/25    145,00
+ABR/25    133,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 30/03/2026      Leitura Atual: 30/04/2026   Dias: 31
+
+
+
+KWH   Ponta   46.772,00      46.648,00       1,00                                                  124,00            124,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

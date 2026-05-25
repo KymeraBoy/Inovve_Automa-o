@@ -1,0 +1,128 @@
+PM JERICO GRUPO ESCOLAR FRANCISCO P LIMA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO GRUPO ESCOLAR FRANCISCO P LIMA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 011 - 0253 - 737 - 3050                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008450454                            DOM. BANC.:
+MATRÍCULA: 1073796-2021-6-4                            DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT VERTENTES, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0001073796-3
+5/1073796-3
+              R$ 41,92
+
+
+              Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2021
+               1,48 kWh
+             MÉDIA DIÁRIA
+43 kWh
+                               FATURAS EM ATRASO
+                              23/06/2021      30,70
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+17/07/2021.
+Regularize seus débitos.
+18/06/2021   02/07/2021   19/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                         43,00    0,562110    0,787530       33,86         33,86   25      8,46           25,40        0,21          1,00
+0601 Adic. B. Vermelha                                                           3,23          3,23   25      0,81            2,43        0,02          0,10
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                               0,27                 0       0,00            0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 01/2021                                               0,67                 0       0,00            0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 12/2020                                               1,41                 0       0,00            0,00        0,00          0,00
+0805 MULTA 04/2021                                                               0,53                 0       0,00            0,00        0,00          0,00
+0805 MULTA 01/2021                                                               0,50                 0       0,00            0,00        0,00          0,00
+0805 MULTA 12/2020                                                               0,51                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                       0,19                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 01/2021                                                       0,24                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 12/2020                                                       0,51                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          41,92         37,09           9,27           27,83        0,23          1,10
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1073796-2021-6-4           23/07/2021         66072343       R$ 41,92
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 17/07/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- Leitura confirmada
+DIC         11,74     0,00   23,48   46,96
+FIC          7,67     0,00   15,34   30,69
+DMIC         6,49     0,00
+DICRI       16,60
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      9,76 23,29
+Compra de energia                           12,85 30,65
+Serviço de transmissão                       1,85   4,41
+Encargos setoriais                           2,03   4,84
+Impostos diretos e encargos                 15,43 36,81
+Outros serviços                              0,00   0,00
+Total                                       41,92 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2021): R$ 11,35
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+6   JUN/21     43,00
+9   MAI/21     29,00
+    ABR/21     33,00
+    MAR/21     43,00
+    FEV/21     37,00
+    JAN/21     29,00
+    DEZ/20     27,00
+    NOV/20     39,00
+    OUT/20     36,00
+    SET/20     28,00
+    AGO/20     26,00
+    JUL/20     29,00
+    JUN/20     31,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 19/05/2021   Leitura Atual: 17/06/2021   Dias: 29
+
+
+KWH   Ponta   4.992,00     4.949,00      1              0                                   43,00          43,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

@@ -1,0 +1,130 @@
+GE MARIA MONTEIRO DA SILVA
+
+DOMICÍLIO DE ENTREGA
+GE MARIA MONTEIRO DA SILVA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0253 - 739 - 1580                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00001000571                            DOM. BANC.:
+MATRÍCULA: 1109885-2021-6-3                            DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MONTE FLOR, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0001109885-2
+5/1109885-2
+          R$ 40,13
+
+
+          Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/07/2021
+               1,41 kWh
+             MÉDIA DIÁRIA
+41 kWh
+                               FATURAS EM ATRASO
+                              23/06/2021      99,56
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+17/07/2021.
+Regularize seus débitos.
+21/06/2021   02/07/2021   20/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                         41,00    0,562110    0,787530       32,28         32,28   25      8,07           24,21        0,20          0,96
+0601 Adic. B. Vermelha                                                           3,11          3,11   25      0,77            2,33        0,02          0,09
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 04/2021                                               0,24                 0       0,00            0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 01/2021                                               0,67                 0       0,00            0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 12/2020                                               1,42                 0       0,00            0,00        0,00          0,00
+0805 MULTA 04/2021                                                               0,48                 0       0,00            0,00        0,00          0,00
+0805 MULTA 01/2021                                                               0,49                 0       0,00            0,00        0,00          0,00
+0805 MULTA 12/2020                                                               0,51                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 04/2021                                                       0,18                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 01/2021                                                       0,24                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 12/2020                                                       0,51                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          40,13         35,39           8,84           26,54        0,22          1,05
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1109885-2021-6-3           23/07/2021         66161908       R$ 40,13
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 17/07/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+DIC         11,59    0,00   23,19    46,38
+FIC          7,59    0,00   15,19    30,39
+DMIC         6,39    0,00
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                     04/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      9,31 23,20
+Compra de energia                           12,27 30,58
+Serviço de transmissão                       1,76   4,39
+Encargos setoriais                           1,94   4,83
+Impostos diretos e encargos                 14,85 37,00
+Outros serviços                              0,00   0,00
+Total                                       40,13 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2021): R$ 10,31
+-A PRINCIPAL SOLUÇÃO NA LUTA CONTRA O COVID-19 TEM
+NOME: VACINA. Se você já tomou a primeira dose, não se
+esqueça de retornar para aplicar a segunda dose.
+Se ainda não chegou a sua vez de se vacinar, informe-se
+sobre o calendário da sua cidade e não deixe sua data passar.
+VACINE-SE E APOIE O MOVIMENTO UNIDOS PELA VACINA.
+8   JUN/21     41,00
+9   MAI/21    115,00
+    ABR/21      2,00
+    MAR/21      3,00
+    FEV/21      0,00 *
+    JAN/21      0,00 *
+    DEZ/20      1,00
+    NOV/20      0,00 *
+    OUT/20      0,00 *
+    SET/20      1,00
+    AGO/20      0,00 *
+    JUL/20      0,00 *
+    JUN/20     20,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 20/05/2021   Leitura Atual: 18/06/2021   Dias: 29
+
+
+KWH   Ponta   5.891,00     5.850,00      1              0                                   41,00          41,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

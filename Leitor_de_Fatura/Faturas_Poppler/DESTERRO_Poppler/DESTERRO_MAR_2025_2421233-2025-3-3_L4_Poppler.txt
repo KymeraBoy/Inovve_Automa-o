@@ -1,0 +1,127 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 008 - 0139 - 563 - 6010
+MATRÍCULA: 2421233-2025-3-3
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO DESSANILIZADOR BARRA DO
+VIEIRA
+SIT BARRA DO VIEIRA, SN - 58695000
+
+
+AREA RURAL
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Março / 2025   23/04/2025   R$ 205,13
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        262,00       0,782930        205,13        9,98         205,13   20      41,02   0,588270
+
+
+
+
+                           TOTAL:                         205,13        9,98         205,13           41,02
+D5103723071   Energia ativa em kWh   Ponta   5689   5951   1   262
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  2421233-2025-3-3      23/04/2025       5067105        R$ 205,13
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 03/04/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002421233-4
+13/02/2025   14/03/2025   29   11/04/2025
+5/2421233-4
+
+D5103723071
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         164,09    1,0845      1,78
+COFINS      164,09    4,9955      8,20
+ICMS        205,13     20,00     41,02
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                31
+Consumo kWh
+
+
+
+
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                35
+              ABR/24                32
+              MAR/24                30
+  205,13                  41,02
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+DIC         24,00   16,16   999,00   999,00
+FIC          6,00    3,00   999,00   999,00
+DMIC        18,00   10,67
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                      01/2025
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      53,38    26,03
+Compra de energia                            62,08    30,26
+Serviço de transmissão                       13,76     6,71
+Encargos setoriais                           24,91    12,14
+Impostos diretos e encargos                  51,00    24,86
+Outros serviços                               0,00     0,00
+Total                                       205,13   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 01/2025): R$ 68,61
+MAR/25    262,00
+FEV/25    252,00
+JAN/25    315,00
+DEZ/24    308,00
+NOV/24    266,00
+OUT/24    289,00
+SET/24    254,00
+AGO/24    232,00
+JUL/24    213,00
+JUN/24    215,00
+MAI/24    237,00
+ABR/24    223,00
+MAR/24    230,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 13/02/2025      Leitura Atual: 14/03/2025   Dias: 29
+
+
+
+KWH   Ponta    5.951,00       5.689,00       1,00                                                  262,00            262,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

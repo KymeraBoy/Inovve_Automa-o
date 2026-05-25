@@ -1,0 +1,130 @@
+DOMICÍLIO DE ENTREGA
+PM JERICO CAPELA
+RUA LOPES FIGUEIREDO 110 - CENTRO
+JERICO (AG: 245)
+
+ROTEIRO: 013 - 0253 - 743 - 4130
+MATRÍCULA: 388071-2023-1-1
+DOM. BANC.:                         DOM. ENT.: 9999253001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM JERICO CAPELA
+
+SIT MALHADINHA, S/N - 58830000
+
+
+AREA RURAL
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Janeiro / 2023   23/02/2023   R$ 85,15
+- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
+pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL. -
+HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh               111,00       0,767150         85,15        3,32          85,15   18      15,32   0,599080
+
+
+
+
+                          TOTAL:                           85,15        3,32          85,15           15,32
+00000683829   Energia ativa em kWh   Ponta   41808   41919   1   111
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   388071-2023-1-1               23/02/2023      626906          R$ 85,15
+
+CONTA PAGA - Data de Pagamento: 28/02/2023
+Data de Apresentação: 02/02/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000388071-3
+22/12/2022   23/01/2023   32   22/02/2023
+5/388071-3
+
+00000683829
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          69,82    0,8504      0,59
+COFINS       69,82    3,9170      2,73
+ICMS         85,15     18,00     15,32
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/23                32
+              DEZ/22                30
+              NOV/22                32
+              OUT/22                29
+Consumo kWh
+
+
+
+
+              SET/22                31
+              AGO/22                32
+              JUL/22                30
+              JUN/22                29
+              MAI/22                31
+              ABR/22                30
+              MAR/22                33
+              FEV/22                28
+              JAN/22                30
+   85,15                  15,32
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+DIC         24,00    0,00      0,00        0,00
+FIC          6,00    0,00      0,00        0,00
+DMIC        18,00    0,00
+DICRI       26,00
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                           11/2022
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                     16,60    19,50
+Compra de energia                           29,41    34,54
+Serviço de transmissão                       4,32     5,07
+Encargos setoriais                          16,18    19,00
+Impostos diretos e encargos                 18,64    21,89
+Outros serviços                              0,00     0,00
+Total                                       85,15   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2022): R$ 36,73
+JAN/23    111,00 *                        0,00
+DEZ/22    110,00                          0,00
+NOV/22    103,00                          0,00
+OUT/22     89,00                          0,00
+SET/22    100,00                          0,00
+AGO/22     96,00                          0,00
+JUL/22    138,00                          0,00
+JUN/22    121,00                          0,00
+MAI/22     98,00                          0,00
+ABR/22    148,00                          0,00
+MAR/22    132,00                          0,00
+FEV/22     93,00                          0,00
+JAN/22    106,00                          0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 22/12/2022      Leitura Atual: 23/01/2023   Dias: 32
+
+
+
+KWH   Ponta   41.919,00      41.808,00       1,00           0,00                                    111,00            111,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

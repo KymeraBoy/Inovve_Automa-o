@@ -1,0 +1,134 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 008 - 0139 - 500 - 5020
+MATRÍCULA: 135112-2026-1-2
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. ESTADUAL                              LIGAÇÃO: MONOFASICO
+PM DESTERRO CENTRO SAUDE
+
+RUA FRANCISCO LEITE FERREIRA, 0 - 58695000
+
+
+CENTRO
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Janeiro / 2026   23/02/2026   R$ 464,09
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura              Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              KWH        101,00       0,902460         91,14        4,67          91,14   20      18,22   0,675650
+Adic. B. Amarela                                                      1,35        0,07           1,35   20       0,27
+LANÇAMENTOS E SERVIÇOS
+CONTRIBUIÇÃO ILUM PUBLICA                                           371,60        0,00           0,00   0        0,00
+
+
+
+
+                                     TOTAL:                         464,09        4,74          92,49           18,49
+W5133086115   Energia ativa em kWh   Ponta   14199   14300   1   101
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  135112-2026-1-2       23/02/2026       7265467        R$ 464,09
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 04/02/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00001351121
+15/12/2025   14/01/2026   30   11/02/2026
+5/135112-1
+
+W5133086115
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          73,98    1,1446      0,84
+COFINS       73,98    5,2721      3,90
+ICMS         92,49     20,00     18,49
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/26                30
+              DEZ/25                32
+              NOV/25                31
+              OUT/25                32
+Consumo kWh
+
+
+
+
+              SET/25                29
+              AGO/25                33
+              JUL/25                30
+              JUN/25                29
+              MAI/25                32
+              ABR/25                28
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+   92,49                  18,49
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- Leitura confirmada
+- Leitura confirmada
+DIC         12,00       0,00   999,00      999,00
+FIC          4,00       0,00   999,00      999,00
+DMIC         9,00       0,00
+DICRI       13,00
+
+
+Conjunto:    Teixeira
+
+Referência:                             11/2025
+Tensão Contratada:
+Limite Adequado:                  202 a 231
+Serviço de distribuição                      23,22     5,00
+Compra de energia                            28,18     6,07
+Serviço de transmissão                        5,14     1,11
+Encargos setoriais                           12,72     2,74
+Impostos diretos e encargos                 394,83    85,08
+Outros serviços                               0,00     0,00
+Total                                       464,09   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2025): R$ 23,60
+JAN/26    101,00
+DEZ/25    253,00
+NOV/25    100,00
+OUT/25    314,00 *
+SET/25    184,00
+AGO/25    123,00
+JUL/25     91,00
+JUN/25    387,00 *
+MAI/25    375,00
+ABR/25    368,00
+MAR/25    394,00
+FEV/25    330,00 *
+JAN/25    909,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 15/12/2025      Leitura Atual: 14/01/2026   Dias: 30
+
+
+
+KWH   Ponta   14.300,00      14.199,00       1,00                                                  101,00            101,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

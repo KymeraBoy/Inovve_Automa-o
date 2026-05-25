@@ -1,0 +1,124 @@
+PM DE JERICO QUADRA POLIESPORTIVA
+
+DOMICÍLIO DE ENTREGA
+PM DE JERICO QUADRA POLIESPORTIVA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 011 - 0253 - 715 - 7840                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008584082                          DOM. BANC.:
+MATRÍCULA: 1882255-2021-1-3                          DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BALBINO DE SOUSA, S/N
+BEIRA RIO
+JERICO (AG: 245)
+
+
+
+                                                                   0001882255-1
+5/1882255-1
+              R$ 218,84
+
+
+              Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/02/2021
+               6,29 kWh
+             MÉDIA DIÁRIA
+195 kWh
+ FATURAS EM ATRASO
+23/11/2020     414,86
+23/12/2020     283,50
+23/01/2021     189,76
+19/01/2021   05/02/2021   17/02/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        195,00    0,562110    0,779120      151,92        151,92   25      37,98         115,93        0,77          3,56
+0601 Adic. B. Amarela                                                            2,10          2,10   25       0,52           1,60        0,01          0,05
+0601 Adic. B. Vermelha                                                           7,09          7,09   25       1,77           5,40        0,04          0,16
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 09/2020                                              30,34                 0        0,00           0,00        0,00          0,00
+0805 MULTA 09/2020                                                              13,81                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 09/2020                                                      13,58                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         218,84        161,11           40,27         122,93        0,82          3,77
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1882255-2021-1-3           23/02/2021         57826851      R$ 218,84
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO: Caso a(s) fatura(s) acima continue(m) em atraso, o fornecimento poderá
+ser suspenso a partir de 20/02/2021. Resolução ANEEL n.º 1.000. O pagamento
+após essa data não elimina a possível suspensão do fornecimento, caso o mesmo não
+seja comunicado ou as contas pagas não estejam na unidade consumidora para
+comprovação. Caso essas faturas estejam pagas, desconsiderar essa mensagem.
+ESTE PRAZO NÃO VALE PARA AS FATURAS JÁ REAVISADAS, para estas a suspensão do
+fornecimento poderá ocorrer a qualquer momento até o decurso do prazo de 90(noventa)
+dias, contado da data de vencimento da fatura vencida e não paga.
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
+- Leitura confirmada
+DIC          6,27     0,00   12,54       25,08
+FIC          3,42     0,00    6,85       13,70
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                          11/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      46,47 21,24
+Compra de energia                            51,30 23,44
+Serviço de transmissão                        8,80   4,02
+Encargos setoriais                            9,68   4,42
+Impostos diretos e encargos                 102,59 46,88
+Outros serviços                               0,00   0,00
+Total                                       218,84 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2020): R$ 98,03
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JAN/21    195,00
+0   DEZ/20    223,00
+    NOV/20    285,00
+    OUT/20    519,00
+    SET/20    920,00
+    AGO/20    506,00
+    JUL/20    271,00
+    JUN/20     43,00
+    MAI/20    157,00
+    ABR/20    258,00
+    MAR/20    275,00
+    FEV/20    354,00
+    JAN/20    482,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 18/12/2020   Leitura Atual: 18/01/2021   Dias: 31
+
+
+KWH   Ponta   29.447,00    29.252,00      1                                                 195,00         195,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

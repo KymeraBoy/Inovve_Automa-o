@@ -1,0 +1,103 @@
+ILUMINACAO PUBLICA - P.M.JERICO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.JERICO
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+ROTEIRO: 015 - 0253 - 099 - 4100                        LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                     DOM. BANC.:
+MATRÍCULA: 389020-2021-1-1                            DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                    0000389020-9
+5/389020-9
+          R$ 17.153,26
+
+
+          Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/02/2021
+             1.276,07 kWh
+             MÉDIA DIÁRIA
+37.006 kWh
+25/01/2021   05/02/2021   23/02/2021
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta       536,00    0,309160    0,428510      229,68        229,68   25         57,42         175,26        1,17          5,38
+0601 Consumo em kWh                              36.470,00    0,309160    0,428510   15.628,09     15.628,09   25      3.907,02      11.925,33       79,55        366,46
+0601 Adic. B. Amarela                                                                   522,59        522,59   25        130,65         398,76        2,66         12,25
+0601 Adic. B. Vermelha                                                                  772,90        772,90   25        193,22         589,78        3,93         18,12
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      17.153,26     17.153,26           4.288,31      13.089,13       87,31        402,21
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   389020-2021-1-1           23/02/2021         58183531     R$ 17.153,26
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        4.946,46 28,84
+Compra de energia              5.461,28 31,84
+Serviço de transmissão          936,82    5,46
+Encargos setoriais             1.030,87   6,01
+Impostos diretos e encargos    4.777,83 27,85
+Outros serviços                    0,00   0,00
+Total                         17.153,26 100,00
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+JAN/21   36.470,00
+DEZ/20   36.470,00
+NOV/20   35.294,00
+OUT/20   36.470,00
+SET/20   35.294,00
+AGO/20   36.470,00
+JUL/20   36.470,00
+JUN/20   35.294,00
+MAI/20   36.470,00
+ABR/20   35.294,00
+MAR/20   36.470,00
+FEV/20   34.117,00
+JAN/20   36.470,00
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 24/12/2020   Leitura Atual: 22/01/2021   Dias: 29
+
+
+
+
+                                                                      * K : Constante do Medidor
+

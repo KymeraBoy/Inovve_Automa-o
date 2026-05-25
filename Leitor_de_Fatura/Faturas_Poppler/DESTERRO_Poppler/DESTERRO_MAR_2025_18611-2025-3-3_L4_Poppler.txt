@@ -1,0 +1,130 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 118)
+
+ROTEIRO: 003 - 0118 - 065 - 1120
+MATRÍCULA: 18611-2025-3-3
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO CASA DE APOIO
+
+RUA ESC RUI BARBOSA, 85 - 58700060
+
+
+CENTRO
+PATOS (AG: 118)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Março / 2025   23/04/2025   R$ 163,63
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        209,00       0,782930        163,63        7,96         163,63   20      32,72   0,588270
+
+
+
+
+                           TOTAL:                         163,63        7,96         163,63           32,72
+00008419215   Energia ativa em kWh   Ponta   77999   78209   1   209
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   18611-2025-3-3       23/04/2025       5010461        R$ 163,63
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 03/04/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000018611-4
+06/02/2025   07/03/2025   29   04/04/2025
+5/18611-4
+
+00008419215
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         130,89    1,0845      1,42
+COFINS      130,89    4,9955      6,54
+ICMS        163,63     20,00     32,72
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                31
+Consumo kWh
+
+
+
+
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                32
+              ABR/24                30
+              MAR/24                30
+  163,63                  32,72
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- Perda do Ramal: 1 kWh
+- Leitura confirmada
+- Leitura confirmada
+DIC         10,00    0,00   999,00   999,00
+FIC          4,00    0,00   999,00   999,00
+DMIC         7,00    0,00
+DICRI       13,00
+
+
+Conjunto:    JATOBÁ
+
+Referência:                      01/2025
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      42,58    26,03
+Compra de energia                            49,52    30,26
+Serviço de transmissão                       10,98     6,71
+Encargos setoriais                           19,87    12,14
+Impostos diretos e encargos                  40,68    24,86
+Outros serviços                               0,00     0,00
+Total                                       163,63   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 01/2025): R$ 94,53
+MAR/25    209,00
+FEV/25    303,00
+JAN/25    434,00
+DEZ/24    491,00
+NOV/24    431,00
+OUT/24    341,00
+SET/24    364,00
+AGO/24    273,00
+JUL/24    282,00
+JUN/24    333,00
+MAI/24    312,00
+ABR/24    302,00
+MAR/24    262,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 06/02/2025      Leitura Atual: 07/03/2025   Dias: 29
+
+
+
+KWH   Ponta   78.209,00      77.999,00       1,00                                                  209,00            209,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

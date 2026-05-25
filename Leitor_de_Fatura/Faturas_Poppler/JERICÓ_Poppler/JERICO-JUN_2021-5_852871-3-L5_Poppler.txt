@@ -1,0 +1,123 @@
+PM JERICO SEDE
+
+DOMICÍLIO DE ENTREGA
+PM JERICO SEDE
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0253 - 720 - 2580                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008243413                            DOM. BANC.:
+MATRÍCULA: 852871-2021-6-4                             DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CIRILO DE FREITAS, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                     0000852871-3
+5/852871-3
+          R$ 3.157,95
+
+
+          Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/07/2021
+              87,00 kWh
+             MÉDIA DIÁRIA
+2.523 kWh
+                               FATURAS EM ATRASO
+                              23/06/2021    4.212,31
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+17/07/2021.
+Regularize seus débitos.
+21/06/2021   02/07/2021   20/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                      2.523,00    0,562110    0,787530    1.986,97      1.986,97   25      496,74       1.490,23       12,84         59,18
+0601 Adic. B. Vermelha                                                         192,86        192,86   25       48,21         144,64        1,25          5,74
+     LANÇAMENTOS E SERVIÇOS
+0806 PARCELAMENTO DE DÉBITO 02/24                                              978,12                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       3.157,95      2.179,83           544,95       1.634,87       14,09         64,92
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   852871-2021-6-4           23/07/2021         66161646      R$ 3.157,95
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 17/07/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- Medidor parado/avariado
+DIC          6,27     0,00   12,54   25,08
+FIC          3,36     0,00    6,72   13,45
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2021
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      573,02 18,14
+Compra de energia                            754,91 23,91
+Serviço de transmissão                       108,60    3,44
+Encargos setoriais                           119,34    3,78
+Impostos diretos e encargos                  623,96 19,76
+Outros serviços                              978,12 30,97
+Total                                       3.157,95 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2021): R$ 1.004,79
+-A PRINCIPAL SOLUÇÃO NA LUTA CONTRA O COVID-19 TEM
+NOME: VACINA. Se você já tomou a primeira dose, não se
+esqueça de retornar para aplicar a segunda dose.
+Se ainda não chegou a sua vez de se vacinar, informe-se
+sobre o calendário da sua cidade e não deixe sua data passar.
+VACINE-SE E APOIE O MOVIMENTO UNIDOS PELA VACINA.
+8   JUN/21   2.523,00 *
+5   MAI/21   3.430,00
+    ABR/21   2.921,00
+    MAR/21   3.281,00
+    FEV/21   3.108,00
+    JAN/21   2.578,00
+    DEZ/20   2.825,00
+    NOV/20   2.255,00
+    OUT/20   2.543,00
+    SET/20   2.134,00
+    AGO/20   1.990,00
+    JUL/20   1.889,00
+    JUN/20   1.317,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                  Leitura Anterior: 20/05/2021   Leitura Atual: 18/06/2021   Dias: 29
+
+
+KWH   Ponta   265.580,00   263.057,00      1              0                                2.523,00       2.523,00
+
+
+
+
+                                                                                        * K : Constante do Medidor
+

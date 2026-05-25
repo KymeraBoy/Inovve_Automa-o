@@ -1,0 +1,102 @@
+PM JERICO CAPELA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO CAPELA
+RUA LOPES FIGUEIREDO 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 013 - 0253 - 743 - 4130                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000683829                            DOM. BANC.:
+MATRÍCULA: 388071-2022-6-2                             DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MALHADINHA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0000388071-3
+5/388071-3
+              R$ 103,12
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2022
+               4,17 kWh
+             MÉDIA DIÁRIA
+121 kWh
+22/06/2022   04/07/2022   21/07/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        121,00    0,596920    0,826800      100,04        100,04   25      25,01          75,03        0,50          2,30
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 04/2022                                                               2,89                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2022                                                       0,19                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         103,12        100,04           25,01          75,03        0,50          2,30
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   388071-2022-6-2           23/07/2022         87862514      R$ 103,12
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+DIC         24,00    5,13      0,00       0
+FIC          6,00    1,00      0,00    0,00
+DMIC        18,00    5,13
+DICRI       26,00
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                       04/2022
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                      24,63 23,88
+Compra de energia                            33,65 32,63
+Serviço de transmissão                        5,56   5,39
+Encargos setoriais                            8,39   8,14
+Impostos diretos e encargos                  30,89 29,96
+Outros serviços                               0,00   0,00
+Total                                       103,12 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2022): R$ 50,49
+0   JUN/22    121,00
+0   MAI/22     98,00
+    ABR/22    148,00
+    MAR/22    132,00
+    FEV/22     93,00
+    JAN/22    106,00
+    DEZ/21    137,00
+    NOV/21    149,00
+    OUT/21    136,00
+    SET/21    140,00
+    AGO/21    151,00
+    JUL/21    155,00
+    JUN/21    150,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 23/05/2022   Leitura Atual: 21/06/2022   Dias: 29
+
+
+KWH   Ponta   41.172,00    41.051,00      1              0                                  121,00         121,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

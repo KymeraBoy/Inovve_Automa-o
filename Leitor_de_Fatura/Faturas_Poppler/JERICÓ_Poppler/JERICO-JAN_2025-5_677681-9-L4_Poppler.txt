@@ -1,0 +1,133 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 012 - 0253 - 710 - 1180
+MATRÍCULA: 677681-2025-1-2
+DOM. BANC.:                                    DOM. ENT.: 9999253002
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+EMEF JUVENAL BERNARDINO DE FREITAS
+JERICO
+RUA PREF LAURO ROSADO DE OLIVEIRA, S/N - 58830000
+
+
+JERICOZINHO
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Janeiro / 2025   23/02/2025   R$ 409,55
+                                                    Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                  Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                  KWH        475,00       0,782930        371,89       18,09         371,89   20      74,37   0,588270
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 11/2024                                                     0,61        0,00           0,00            0,00
+MULTA 11/2024                                                            36,72        0,00           0,00            0,00
+ATUALIZAÇÃO MONETÁRIA 11/2024                                             0,33        0,00           0,00            0,00
+
+
+
+
+                                         TOTAL:                         409,55       18,09         371,89           74,37
+00008950655   Energia ativa em kWh   Ponta   76320   76795   1   475
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  677681-2025-1-2       23/02/2025       4713216        R$ 409,55
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 05/02/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000677681-9
+19/12/2024   20/01/2025   32   19/02/2025
+5/677681-9
+
+00008950655
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         297,50    1,0845      3,23
+COFINS      297,50    4,9955     14,86
+ICMS        371,89     20,00     74,37
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/25                32
+              DEZ/24                30
+              NOV/24                29
+              OUT/24                32
+Consumo kWh
+
+
+
+
+              SET/24                30
+              AGO/24                32
+              JUL/24                30
+              JUN/24                30
+              MAI/24                32
+              ABR/24                30
+              MAR/24                28
+              FEV/24                32
+              JAN/24                30
+  371,89                  74,37
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- Leitura confirmada
+- Leitura confirmada
+DIC         12,00     0,00   0,00        0,00
+FIC          4,00     0,00   0,00        0,00
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                         11/2024
+Tensão Contratada:
+Limite Adequado:              202 a 231
+Serviço de distribuição                      96,77    23,63
+Compra de energia                           112,55    27,48
+Serviço de transmissão                       24,95     6,09
+Encargos setoriais                           45,16    11,03
+Impostos diretos e encargos                 130,12    31,77
+Outros serviços                               0,00     0,00
+Total                                       409,55   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2024): R$ 481,81
+JAN/25     475,00
+DEZ/24   1.291,00
+NOV/24   2.212,00
+OUT/24   2.529,00
+SET/24   2.361,00
+AGO/24   2.160,00
+JUL/24   1.636,00
+JUN/24   1.902,00
+MAI/24   2.038,00
+ABR/24   2.432,00
+MAR/24   2.511,00
+FEV/24     766,00
+JAN/24     549,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 19/12/2024      Leitura Atual: 20/01/2025   Dias: 32
+
+
+
+KWH   Ponta   76.795,00      76.320,00       1,00                                                  475,00            475,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

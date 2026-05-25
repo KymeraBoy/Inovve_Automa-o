@@ -1,0 +1,108 @@
+PM JERICO SEDE
+
+DOMICÍLIO DE ENTREGA
+PM JERICO SEDE
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 012 - 0253 - 720 - 2580                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008243413                          DOM. BANC.:
+MATRÍCULA: 852871-2020-6-6                           DOM. ENT.: 9999253001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CIRILO DE FREITAS, S/N
+CENTRO
+JERICO (AG: 245)
+
+
+
+                                                                   0000852871-3
+5/852871-3
+          R$ 1.179,50
+
+
+          Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.: 000XXXXXX
+23/07/2020
+              47,04 kWh
+             MÉDIA DIÁRIA
+1.317 kWh
+19/06/2020   08/07/2020   20/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                      1.317,00    0,545400    0,780560    1.028,01      1.028,01   25      257,00       1.028,01        9,40         43,31
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 03/2020                                               9,02                 0         0,00           0,00        0,00          0,00
+0805 MULTA 03/2020                                                              37,15                 0         0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2020                                                      28,49                 0         0,00           0,00        0,00          0,00
+0806 RECEBIMENTO A MENOR 03/2020                                                76,83                 0         0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       1.179,50      1.028,01           257,00       1.028,01        9,40         43,31
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   852871-2020-6-6           23/07/2020         46401350      R$ 1.179,50
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura confirmada
+DIC          6,27     0,00   12,54   25,08
+FIC          3,42     0,00    6,85   13,70
+DMIC         3,71     0,00
+DICRI       12,22
+
+
+Conjunto:    Jericó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               350 a 399
+Serviço de distribuição                      282,15 23,92
+Compra de energia                            351,75 29,82
+Serviço de transmissão                        41,95    3,56
+Encargos setoriais                            42,45    3,60
+Impostos diretos e encargos                  384,37 32,59
+Outros serviços                               76,83    6,51
+Total                                       1.179,50 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 425,60
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/20   1.317,00
+0   MAI/20   1.677,00
+    ABR/20   1.336,00
+    MAR/20   2.470,00
+    FEV/20   2.556,00
+    JAN/20   2.046,00
+    DEZ/19   2.667,00
+    NOV/19   2.848,00
+    OUT/19   2.591,00
+    SET/19   2.523,00
+    AGO/19   2.160,00
+    JUL/19   2.399,00
+    JUN/19   2.496,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                  Leitura Anterior: 21/05/2020   Leitura Atual: 18/06/2020   Dias: 28
+
+
+KWH   Ponta   234.103,00   232.786,00      1              0                                1.317,00       1.317,00
+
+
+
+
+                                                                                        * K : Constante do Medidor
+

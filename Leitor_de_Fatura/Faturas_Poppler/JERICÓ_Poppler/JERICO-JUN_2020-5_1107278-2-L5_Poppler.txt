@@ -1,0 +1,126 @@
+PM JERICO POSTO DE SAUDE DA MALHADINHA
+
+DOMICÍLIO DE ENTREGA
+PM JERICO POSTO DE SAUDE DA MALHADINHA
+RUA LOPES FIGUEIREDO 110
+JERICÓ (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 013 - 0253 - 743 - 4160                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008308150                          DOM. BANC.:
+MATRÍCULA: 1107278-2020-6-5                          DOM. ENT.: 9999253003
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT MALHADINHA, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                   0001107278-2
+5/1107278-2
+              R$ 259,37
+
+
+              Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2020
+              10,39 kWh
+             MÉDIA DIÁRIA
+291 kWh
+                               FATURAS EM ATRASO
+                              23/06/2020     241,36
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+23/07/2020.
+Regularize seus débitos.
+22/06/2020   08/07/2020   21/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                        291,00    0,545400    0,780560      227,14        227,14   25      56,78         227,14        2,07          9,57
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 04/2020                                               0,07                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 03/2020                                               0,76                 0        0,00           0,00        0,00          0,00
+0805 ATUALIZAÇÃO MONETÁRIA 02/2020                                               4,32                 0        0,00           0,00        0,00          0,00
+0805 MULTA 04/2020                                                               5,55                 0        0,00           0,00        0,00          0,00
+0805 MULTA 03/2020                                                               6,39                 0        0,00           0,00        0,00          0,00
+0805 MULTA 02/2020                                                               7,35                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2020                                                       1,02                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 03/2020                                                       1,38                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 02/2020                                                       5,39                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         259,37        227,14           56,78         227,14        2,07          9,57
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1107278-2020-6-5           23/07/2020         46487847      R$ 259,37
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 23/07/2020. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+DIC         11,59   28,12   23,19    46,38
+FIC          7,67    4,00   15,34    30,69
+DMIC         6,39   16,12
+DICRI       16,60
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                     04/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      62,34 24,03
+Compra de energia                            77,73 29,97
+Serviço de transmissão                        9,27   3,57
+Encargos setoriais                            9,38   3,62
+Impostos diretos e encargos                 100,65 38,81
+Outros serviços                               0,00   0,00
+Total                                       259,37 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 111,81
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+8   JUN/20    291,00
+9   MAI/20    305,00
+    ABR/20    351,00
+    MAR/20    408,00
+    FEV/20    466,00
+    JAN/20    443,00
+    DEZ/19    418,00
+    NOV/19    434,00
+    OUT/19    395,00
+    SET/19    323,00
+    AGO/19    246,00
+    JUL/19    262,00
+    JUN/19    246,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 22/05/2020   Leitura Atual: 19/06/2020   Dias: 28
+
+
+KWH   Ponta   23.355,00    23.064,00      1              0                                  291,00         291,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

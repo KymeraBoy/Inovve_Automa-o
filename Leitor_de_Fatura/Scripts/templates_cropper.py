@@ -158,6 +158,7 @@ TEMPLATES = {
             recortes((4.94, 54.71, 68.83, 7.06)),     # CLASSIFICACAO (CONSTANTE)
             recortes((159.90, 106.60, 44.83, 52.95)), # HISTORICO DE CONSUMO
             recortes((103.00, 160.85, 16.98, 19.98)), # CONSUMO
+            recortes((5,82,154,78)),                  # ITENS DA FATURA
         ],
         "INDIVIDUAL_OLD": [
             recortes((162.02, 33.89, 27.89, 27.89)),  # CODIGO (CONSTANTE)
@@ -166,6 +167,8 @@ TEMPLATES = {
             recortes((79.77, 62.83, 109.78, 9.88)),   # CLASSIFICACAO (CONSTANTE)
             recortes((153.90, 134.49, 35.30, 52.95)), # HISTORICO DE CONSUMO
             recortes((103.00, 192.49, 24.17, 15.45)), # CONSUMO
+            recortes((4,90,92,82)), # ITENS DA FATURA
+            recortes((4,254,115,11)), # DADOS DE COBRANÇA
         ],
     },
 }

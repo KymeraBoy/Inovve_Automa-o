@@ -1,0 +1,106 @@
+Domicílio de Entrega:
+PM JERICO SEDE
+RUA LOPES FIGUEIREDO 110
+
+
+JERICÓ (AG: 245)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 012 - 0253 - 720 - 2580
+Nº do Medidor: 00008243413
+MATRÍCULA: 852871-2020-1-7
+DOM. ENT.: 9999253001
+PM JERICO SEDE
+RUA CIRILO DE FREITAS, S/N - 58830000
+CENTRO
+JERICO-PB (AG: 245)
+                                                  ENER
+                                        Br 230, Km 25 -
+
+
+  LIGAÇÃO: TRIFASICO
+  DOM. BANC.:
+  CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+  Insc. Est.: 000XXXXXX
+               Emissão: 21/01/2020         Identificador para Débito Automático:   0000852871-3
+
+
+
+Janeiro/2020   03/02/2020            18/02/2020                    5/852871-3
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                      2.046,00   0,545400        0,785840      1.607,85      1.607,85    25     401,96        1.607,85      16,05        73,94
+0601 Adic. B. Amarela                                                                39,59         39,59    25       9,90           39,59       0,39         1,82
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 11/2019                                                   12,52                   0       0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                   46,79                   0       0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                           17,16                   0       0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:             1723,91      1.647,43           411,85         1.647,43     16,44        75,75
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                             438,37
+                                                        %
+                                                       25,42   2
+COMPRA DE ENERGIA                            573,98    33,30
+SERVIÇO DE TRANSMISSÃO                        65,17     3,78
+ENCARGOS SETORIAIS                            65,86     3,82
+IMPOSTOS DIRETOS E ENCARGOS                  580,53    33,68
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                        1.723,91   100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 907,28
+23/02/2020   R$ 1.723,91
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   852871-2020-1-7           23/02/2020         37752814      R$ 1.723,91
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20        2046
+DEZ/19        2667
+NOV/19        2848
+OUT/19        2591
+SET/19        2523
+AGO/19        2160
+JUL/19        2399
+JUN/19        2496
+MAI/19        2369
+ABR/19        2466
+MAR/19        2378
+FEV/19        2506
+JAN/19        2031
+Leitura: 19/12/2019 a 20/01/2020 Dias: 32
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P         224.747,00    222.701,00    1            0                                2.046,00       2.046,00
+VENCIMENTO   VALOR (R$)
+DIC MENSAL        6,27       0,00
+DIC TRIMESTRAL   12,54
+DIC ANUAL        25,08
+FIC MENSAL        3,42       0,00
+FIC TRIMESTRAL    6,85
+FIC ANUAL        13,70
+DMIC              3,71       0,00
+DICRI            12,22
+
+
+
+Conjunto: Jericó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 350 a 399
+

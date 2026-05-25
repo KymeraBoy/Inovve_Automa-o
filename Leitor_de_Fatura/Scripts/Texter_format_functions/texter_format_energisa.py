@@ -1,469 +1,567 @@
 import re
+import unicodedata
 
 
-from texter_utils import (Index, Index_duplo, Linha, Apagar_linhas, Juntar,
-                          Linha_para_Vetor, Justificar, formatar_e_alinhar_tabela,
-                          normalizar_tipo_fornecimento,
-                          marcadores, fornecimento)
+# ============================================================== #
+# TABELA DE MESES (extenso → abreviação)
+# ============================================================== #
+
+_MESES_PT = {
+    "janeiro": "JAN", "fevereiro": "FEV", "marco": "MAR", "março": "MAR",
+    "abril": "ABR", "maio": "MAI", "junho": "JUN", "julho": "JUL",
+    "agosto": "AGO", "setembro": "SET", "outubro": "OUT",
+    "novembro": "NOV", "dezembro": "DEZ",
+}
+
+# Prefixos de endereço que não fazem parte do nome do município
+_PREFIXOS_ENDERECO = {
+    "POV", "POVOADO", "AREA", "RURAL", "ROD", "RUA", "AV", "AVENIDA",
+    "LOC", "ASSENT", "ASSENTAMENTO", "SITIO", "FAZENDA", "ROTEIRO",
+    "DOMICILIO", "BARRACAO", "ESCOLA", "PREFEITURA", "PM",
+}
 
 
-def index_sigla_isolada(texto, sigla):
-    padrao = re.compile(rf"^\s*{re.escape(sigla)}\s*$")
-    return [i for i, linha in enumerate(texto.splitlines()) if padrao.match(linha)]
+def _sem_acento(texto):
+    """Remove acentos e retorna em maiúsculas."""
+    texto = unicodedata.normalize("NFKD", texto)
+    return "".join(c for c in texto if not unicodedata.combining(c)).upper()
 
 
-def _extrair_matriz_info_geral(texto):
-    info = ["UNIDADE:", "FORNECIMENTO:", "CLASSIFICAÇÃO:", "DESTINO:", "DADOS_DE_MEDIÇÃO:"]
-    info = [termo for termo in info if termo in texto]
-    vetor = []
+# ============================================================== #
+# EXTRAÇÃO DE MUNICÍPIO
+# ============================================================== #
 
-    for i in range(0, len(info)):
-        for e in range(1, len(Linha_para_Vetor(texto, Index(texto, info[i])[0]))):
-            vetor.append(Linha_para_Vetor(texto, Index(texto, info[i])[0])[e])
-            if info[i] == "DESTINO:":
-                vetor = vetor[:6] + [" ".join(vetor[6:])]
-            if info[i] == "DADOS_DE_MEDIÇÃO:":
-                vetor = vetor[:8]
+def _extrair_municipio(texto, filename=None):
+    """
+    Busca linhas com padrão '(AG: XX)' presente em todos os layouts Energisa
+    e extrai o nome do município que precede esse marcador.
+    Fallback: primeiro segmento do filename.
+    """
+    pat_ag = re.compile(
+        r"(.+?)\s*(?:(?:/|-)\s*[A-Z]{2}\s*)?\(AG:\s*\d+\)",
+        re.IGNORECASE,
+    )
+    for linha in texto.splitlines():
+        m = pat_ag.search(linha)
+        if not m:
+            continue
+        candidato = m.group(1).strip()
+        # Remove qualquer prefixo de endereço longo antes do nome da cidade
+        partes = candidato.split()
+        while partes and _sem_acento(partes[0]) in _PREFIXOS_ENDERECO:
+            partes = partes[1:]
+        # Trunca se sobrar muitas palavras (e.g. endereço completo colado)
+        if len(partes) > 3:
+            partes = partes[-3:]
+        # Remove sufixo de UF isolado (ex: "SE", "PB")
+        if len(partes) > 1 and re.fullmatch(r"[A-Z]{2}", partes[-1]):
+            partes = partes[:-1]
+        cidade = " ".join(partes).strip(" -/")
+        if cidade:
+            return cidade.title()
 
-    return vetor
+    # Fallback: primeiro segmento do filename
+    if filename:
+        nome_base = re.sub(r'(?:_Poppler)?\.txt$', '', filename, flags=re.IGNORECASE)
+        primeiro = nome_base.split("_")[0]
+        if primeiro:
+            return primeiro.title()
+
+    return "Municipio_Desconhecido"
 
 
-def _extrair_linha_historico(texto):
-    index = Index(texto, "HISTÓRICO_DE_CONSUMO:")
-    if not index:
-        return []
-
-    info = ["UNIDADE:", "FORNECIMENTO:", "CLASSIFICAÇÃO:", "DESTINO:", "DADOS_DE_MEDIÇÃO:"]
-    info = [termo for termo in info if termo in texto]
-    if not info:
-        return []
-
-    vetor = ["SEM_UC"]
-
-    for i in range(index[0] + 1, index[0] + 13):
-        linha = Linha_para_Vetor(texto, i)
-        if len(linha) == 1:
-            linha.append("UNK")
-        vetor.append((linha[0], linha[1]))
-
-    return vetor
-
+# ============================================================== #
+# EXTRAÇÃO DE UC
+# ============================================================== #
 
 def _extrair_uc_documento(texto, filename=None):
+    """
+    Prioridade:
+    1. Padrão curto X/XXXXXX-X diretamente no texto Poppler (todos os layouts)
+    2. UC codificada no filename novo: MUNICIPIO_MES_ANO_UC_LX_Poppler
+       onde UC aparece como 'X_XXXXXX-X' (barra substituída por _)
+    3. Matrícula longa XXXXXX-YYYY-MM-D como último recurso
+    """
+    # 1. Texto: padrão X/XXXXXX-X
+    pat_uc = re.search(r"\b\d+/\d+-\d+\b", texto)
+    if pat_uc:
+        return pat_uc.group(0)
+
+    # 2. Filename novo: _X_XXXXXX-X_L[1-7]
     if filename:
-        padrao_nome = re.search(r"_(\d+)-(\d+)-(\d+)_L\d+_Poppler", filename, flags=re.IGNORECASE)
-        if padrao_nome:
-            return f"{padrao_nome.group(1)}/{padrao_nome.group(2)}-{padrao_nome.group(3)}"
+        m = re.search(r"_(\d+)_(\d+)-(\d+)_L[1-7]", filename, flags=re.IGNORECASE)
+        if m:
+            return f"{m.group(1)}/{m.group(2)}-{m.group(3)}"
 
-    padrao_texto = re.search(r"\b(\d+)/(\d+)-(\d+)\b", texto)
-    if padrao_texto:
-        return f"{padrao_texto.group(1)}/{padrao_texto.group(2)}-{padrao_texto.group(3)}"
-
-    padrao_nome_simples = re.search(r"_(\d+)/(\d+)-(\d+)_", filename or "")
-    if padrao_nome_simples:
-        return f"{padrao_nome_simples.group(1)}/{padrao_nome_simples.group(2)}-{padrao_nome_simples.group(3)}"
+    # 3. Matrícula longa (fallback)
+    pat_mat = re.search(r"\b\d{5,}-\d{4}-\d{1,2}-\d\b", texto)
+    if pat_mat:
+        return pat_mat.group(0)
 
     return "SEM_UC"
 
 
-def _extrair_referencia_documento(texto, filename=None):
+# ============================================================== #
+# EXTRAÇÃO DE REFERÊNCIA (MÊS/ANO)
+# ============================================================== #
+
+def _extrair_referencia(texto, filename=None):
+    """
+    Prioridade:
+    1. Abreviação padrão no texto: 'JAN/2020', 'SET/2021', etc.
+    2. Mês por extenso no texto: 'Janeiro/2020', 'Setembro / 2023'
+    3. Filename novo: MUNICIPIO_MES_ANO_UC_LX  →  MES_ANO
+    4. Dedução pela matrícula longa: XXXXXX-YYYY-MM-D
+    """
+    _MESES_ABBR = r"JAN|FEV|MAR|ABR|MAI|JUN|JUL|AGO|SET|OUT|NOV|DEZ"
+
+    # 1. Abreviação no texto
+    m = re.search(rf"\b({_MESES_ABBR})\s*/\s*(\d{{4}})\b", texto, re.IGNORECASE)
+    if m:
+        return f"{m.group(1).upper()}/{m.group(2)}"
+
+    # 2. Extenso no texto
+    _EXTENSO = (
+        r"janeiro|fevereiro|mar[çc]o|abril|maio|junho|julho"
+        r"|agosto|setembro|outubro|novembro|dezembro"
+    )
+    m = re.search(rf"\b({_EXTENSO})\s*/\s*(\d{{4}})\b", texto, re.IGNORECASE)
+    if m:
+        chave = _sem_acento(m.group(1)).lower()
+        chave = chave.replace("c", "ç") if "marco" not in chave else chave  # preserva "março"
+        chave = _sem_acento(chave).lower()  # normaliza novamente após substituição
+        abbr = _MESES_PT.get(chave) or _MESES_PT.get(chave.replace("ç", "c"))
+        if abbr:
+            return f"{abbr}/{m.group(2)}"
+
+    # 3. Filename novo: _MES_ANO_
     if filename:
-        padrao_nome = re.search(r"_([A-Z]{3})[-_/](\d{4})_", filename, flags=re.IGNORECASE)
-        if padrao_nome:
-            mes = padrao_nome.group(1).upper()
-            ano = padrao_nome.group(2)
-            return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
+        m = re.search(r"_([A-Z]{3})_(\d{4})_", filename, flags=re.IGNORECASE)
+        if m:
+            return f"{m.group(1).upper()}/{m.group(2)}"
 
-        padrao_nome_2 = re.search(r"_([A-Z]{3})[-_/](\d{2,4})_", filename, flags=re.IGNORECASE)
-        if padrao_nome_2:
-            mes = padrao_nome_2.group(1).upper()
-            ano = padrao_nome_2.group(2)
-            return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
-
-    padrao_texto = re.search(r"\b([A-Z]{3})\s*/\s*(\d{2,4})\b", texto, flags=re.IGNORECASE)
-    if padrao_texto:
-        mes = padrao_texto.group(1).upper()
-        ano = padrao_texto.group(2)
-        return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
+    # 4. Matrícula longa: XXXXXX-YYYY-MM-D
+    _NUM_MES = {
+        1: "JAN", 2: "FEV", 3: "MAR", 4: "ABR", 5: "MAI", 6: "JUN",
+        7: "JUL", 8: "AGO", 9: "SET", 10: "OUT", 11: "NOV", 12: "DEZ",
+    }
+    m = re.search(r"\b\d{5,}-((?:19|20)\d{2})-(\d{1,2})-\d\b", texto)
+    if m:
+        abbr = _NUM_MES.get(int(m.group(2)))
+        if abbr:
+            return f"{abbr}/{m.group(1)}"
 
     return "SEM_REFERENCIA"
 
 
+# ============================================================== #
+# HELPERS AUXILIARES (mantidos para uso futuro)
+# ============================================================== #
+
 def _extrair_cliente_e_endereco(texto):
     linhas = texto.splitlines()
-    marcadores = (
-        "Grupo/Subgp.",
-        "Grupo/Subgp.:",
-        "GRUPO/SUBGRP.",
-        "Classificação:",
-        "CLASSIFICAÇÃO:",
-        "LIGAÇÃO:",
+    _marcadores = (
+        "Grupo/Subgp.", "Grupo/Subgp.:", "GRUPO/SUBGRP.",
+        "Classificação:", "CLASSIFICAÇÃO:", "LIGAÇÃO:",
     )
-
+    _ignoradas_prefixo = (
+        "DOMICILIO DE ENTREGA",
+        "ENDERECO DA UNIDADE CONSUMIDORA",
+    )
     limite = len(linhas)
     for indice, linha in enumerate(linhas):
-        if any(marcador in linha for marcador in marcadores):
+        if any(mk in linha for mk in _marcadores):
             limite = indice
             break
-
-    bloco = [linha.strip() for linha in linhas[:limite] if linha.strip()]
-    bloco = [linha for linha in bloco if linha not in {"\f"}]
+    bloco = []
+    for linha in linhas[:limite]:
+        linha_limpa = linha.strip()
+        if not linha_limpa or linha_limpa == "\f":
+            continue
+        linha_norm = _sem_acento(linha_limpa).rstrip(":")
+        if any(linha_norm.startswith(prefixo) for prefixo in _ignoradas_prefixo):
+            continue
+        bloco.append(linha_limpa)
 
     cliente = bloco[0] if len(bloco) >= 1 else ""
     endereco = bloco[1] if len(bloco) >= 2 else ""
-
     return cliente, endereco
 
 
 def _extrair_numero_medidor(texto):
-    padroes = (
-        r"\b(?:N[ºo\.]?\s*do\s*Medidor|N[ºo\.]?\s*MEDIDOR|MEDIDOR|Medidor|MATR[ÍI]CULA)\s*:\s*(.+)$",
+    padrao = (
+        r"\b(?:N[ºo\.]?\s*do\s*Medidor|N[ºo\.]?\s*MEDIDOR|MEDIDOR|Medidor"
+        r"|MATR[ÍI]CULA)\s*:\s*(.+)$"
     )
+    for linha in texto.splitlines():
+        match = re.search(padrao, linha, flags=re.IGNORECASE)
+        if not match:
+            continue
+        valor_bruto = match.group(1).strip()
+        if not valor_bruto:
+            continue
+        valor = re.split(
+            r"\s+(?:Emiss[ãa]o|DOM\.?|REFER[ÊE]NCIA|Roteiro|Classe|Grupo|CNPJ|CPF|Insc\.?|Matr[íi]cula)\b",
+            valor_bruto, maxsplit=1, flags=re.IGNORECASE,
+        )[0].strip()
+        valor = valor.split()[0].strip() if valor else ""
+        if valor and re.search(r"\d", valor):
+            return valor
+    return ""
+
+
+def _extrair_classificacao(texto):
+    padroes = [
+        r"Cls/Sbc:\s*(.+)$",
+        r"CLASSE/SUBCLS\.:\s*(.+)$",
+        r"Classifica[çc][ãa]o:\s*(.+)$",
+    ]
 
     for linha in texto.splitlines():
         for padrao in padroes:
-            match = re.search(padrao, linha, flags=re.IGNORECASE)
-            if not match:
+            m = re.search(padrao, linha, flags=re.IGNORECASE)
+            if not m:
                 continue
-
-            valor_bruto = match.group(1).strip()
-            if not valor_bruto:
-                continue
-
-            valor = re.split(r"\s+(?:Emiss[ãa]o|DOM\.?|REFER[ÊE]NCIA|Roteiro|Classe|Grupo|CNPJ|CPF|Insc\.?|Matr[íi]cula)\b", valor_bruto, maxsplit=1, flags=re.IGNORECASE)[0].strip()
-            valor = valor.split()[0].strip() if valor else ""
-
-            if valor and re.search(r"\d", valor):
+            valor = m.group(1).strip()
+            if valor:
                 return valor
 
     return ""
+
+
+def _extrair_fornecimento(texto):
+    padroes = [
+        r"LIGA[ÇC][ÃA]O:\s*([A-ZÇÃÕÁÉÍÓÚ\- ]+)",
+        r"Tipo de Fornecimento:\s*([A-ZÇÃÕÁÉÍÓÚ\- ]+)",
+    ]
+
+    for linha in texto.splitlines():
+        for padrao in padroes:
+            m = re.search(padrao, linha, flags=re.IGNORECASE)
+            if not m:
+                continue
+            valor = m.group(1).strip()
+            if not valor:
+                continue
+            valor = re.split(r"\s{2,}|DOM\.|CNPJ|CPF|INSC", valor, maxsplit=1, flags=re.IGNORECASE)[0].strip()
+            if valor:
+                return valor
+
+    texto_sem_acento = _sem_acento(texto)
+    if "TRIFAS" in texto_sem_acento:
+        return "TRIFASICO"
+    if "BIFAS" in texto_sem_acento:
+        return "BIFASICO"
+    if "MONOFAS" in texto_sem_acento:
+        return "MONOFASICO"
+
+    return ""
+
+
+def _extrair_datas_leitura(texto):
+    """
+    Retorna (leitura_anterior, leitura_atual) no formato DD/MM/AAAA.
+    Estratégia:
+    1. Prioriza janelas com a palavra LEITURA e pelo menos 2 datas.
+    2. Depois procura linhas com 3 datas (comum em Anterior/Atual/Próxima).
+    3. Fallback: primeira linha com ao menos 2 datas.
+    """
+    linhas = texto.splitlines()
+    padrao_data = re.compile(r"\b\d{2}/\d{2}/\d{4}\b")
+
+    def datas_em_janela(janela):
+        datas = padrao_data.findall(janela)
+        if len(datas) < 2:
+            return None
+        return datas[0], datas[1]
+
+    # 1) Janela com "LEITURA"
+    for i, linha in enumerate(linhas):
+        linha_norm = _sem_acento(linha)
+        if "LEITURA" not in linha_norm:
+            continue
+
+        janelas = [linha]
+        if i + 1 < len(linhas):
+            janelas.append(f"{linha} {linhas[i + 1]}")
+        if i + 2 < len(linhas):
+            janelas.append(f"{linha} {linhas[i + 1]} {linhas[i + 2]}")
+
+        for janela in janelas:
+            resultado = datas_em_janela(janela)
+            if resultado:
+                return resultado
+
+    # 2) Linha com 3 ou mais datas (normalmente ciclo de leitura)
+    for linha in linhas:
+        datas = padrao_data.findall(linha)
+        if len(datas) >= 3:
+            return datas[0], datas[1]
+
+    # 3) Fallback: primeira linha com pelo menos 2 datas
+    for linha in linhas:
+        resultado = datas_em_janela(linha)
+        if resultado:
+            return resultado
+
+    return "SEM_LEITURA_ANTERIOR", "SEM_LEITURA_ATUAL"
+
+
+def _extrair_dias_medicao(texto):
+    """Extrai quantidade de dias de medição do ciclo (entre leituras)."""
+    linhas = texto.splitlines()
+
+    # Padrão comum: DATA_ANT DATA_ATUAL DIAS DATA_PROXIMA
+    padrao_ciclo = re.compile(
+        r"\b\d{2}/\d{2}/\d{4}(?:\s+\d{2}:\d{2}:\d{2})?\s+"
+        r"\d{2}/\d{2}/\d{4}(?:\s+\d{2}:\d{2}:\d{2})?\s*(\d{1,3})\s+"
+        r"\d{2}/\d{2}/\d{4}\b"
+    )
+
+    for linha in linhas:
+        # Alguns layouts colam o número de dias após HH:MM:SS (ex: 00:00:0032)
+        linha_ajustada = re.sub(r"(\d{2}:\d{2}:\d{2})(\d{1,3})\b", r"\1 \2", linha)
+        m = padrao_ciclo.search(linha_ajustada)
+        if m:
+            return m.group(1)
+
+    # Fallback: linhas com palavra "DIAS" e um número próximo
+    for linha in linhas:
+        if "DIAS" not in _sem_acento(linha):
+            continue
+        m = re.search(r"\b(\d{1,3})\b", linha)
+        if m:
+            return m.group(1)
+
+    return "SEM_DIAS_MEDICAO"
+
+
+def _extrair_valor_fatura(texto):
+    """Extrai valor monetário total da fatura (R$)."""
+    linhas = texto.splitlines()
+    padrao_moeda = re.compile(r"R\$\s*\d{1,3}(?:\.\d{3})*,\d{2}", re.IGNORECASE)
+
+    # Prioriza linhas com indicação de total a pagar/fatura
+    for linha in linhas:
+        linha_norm = _sem_acento(linha)
+        if not any(chave in linha_norm for chave in ("TOTAL A PAGAR", "N FATURA", "FATURA", "TOTAL:")):
+            continue
+        m = padrao_moeda.search(linha)
+        if m:
+            return m.group(0).replace(" ", "")
+
+    # Fallback: primeiro valor monetário encontrado
+    for linha in linhas:
+        m = padrao_moeda.search(linha)
+        if m:
+            return m.group(0).replace(" ", "")
+
+    return "SEM_VALOR_FATURA"
+
+
+def _numero_br_para_float(valor):
+    try:
+        return float(str(valor).replace(".", "").replace(",", "."))
+    except Exception:
+        return None
+
+
+def _formatar_kwh(valor_float):
+    if valor_float is None:
+        return ""
+    if abs(valor_float - round(valor_float)) < 1e-6:
+        return f"{int(round(valor_float))} kWh"
+    return f"{valor_float:.2f}".replace(".", ",") + " kWh"
+
+
+def _extrair_medido_faturado_tabela(texto):
+    """
+    Extrai (medido, faturado) de linhas da tabela de consumo:
+    Ex.: 'KWH ... 21,00 50,00' -> ('21 kWh', '50 kWh')
+    """
+    for linha in texto.splitlines():
+        linha_norm = _sem_acento(linha)
+        if not re.match(r"^\s*KWH\b", linha_norm):
+            continue
+
+        numeros = re.findall(r"\d{1,3}(?:\.\d{3})*(?:,\d+)?|\d+(?:,\d+)?", linha)
+        if len(numeros) < 2:
+            continue
+
+        # Em geral os dois últimos campos da linha são Medido e Faturado.
+        medido = _numero_br_para_float(numeros[-2])
+        faturado = _numero_br_para_float(numeros[-1])
+        if medido is None or faturado is None:
+            continue
+        return _formatar_kwh(medido), _formatar_kwh(faturado)
+
+    return "", ""
+
+
+def _extrair_diferenca_leituras(texto):
+    """
+    Valor medido = leitura atual - leitura anterior (quando leituras numéricas existem).
+    """
+    linhas = texto.splitlines()
+
+    # 1) Formato com linhas separadas: "Anterior ... 540 kWh" e "Atual ... 592 kWh"
+    leitura_anterior = None
+    leitura_atual = None
+
+    for linha in linhas:
+        m = re.search(r"\bAnterior\b\s+\d{2}/\d{2}/\d{2,4}\s+([\d\.,]+)\s*k\s*wh\b", linha, flags=re.IGNORECASE)
+        if m:
+            leitura_anterior = _numero_br_para_float(m.group(1))
+
+        m = re.search(r"\bAtual\b\s+\d{2}/\d{2}/\d{2,4}\s+([\d\.,]+)\s*k\s*wh\b", linha, flags=re.IGNORECASE)
+        if m:
+            leitura_atual = _numero_br_para_float(m.group(1))
+
+    if leitura_atual is not None and leitura_anterior is not None:
+        diff = leitura_atual - leitura_anterior
+        if diff >= 0:
+            return _formatar_kwh(diff)
+
+    # 2) Formato tabular: linha iniciando em KWH com colunas Atual e Anterior
+    for linha in linhas:
+        linha_norm = _sem_acento(linha)
+        if not re.match(r"^\s*KWH\b", linha_norm):
+            continue
+
+        numeros = re.findall(r"\d{1,3}(?:\.\d{3})*(?:,\d+)?|\d+(?:,\d+)?", linha)
+        if len(numeros) < 2:
+            continue
+
+        atual = _numero_br_para_float(numeros[0])
+        anterior = _numero_br_para_float(numeros[1])
+        if atual is None or anterior is None:
+            continue
+
+        # Evita capturar linhas que não são de leitura (códigos pequenos, etc.)
+        if atual > 100000 or anterior > 100000:
+            continue
+        if atual <= 1 and anterior <= 1:
+            continue
+
+        diff = atual - anterior
+        if diff >= 0:
+            return _formatar_kwh(diff)
+
+    return "SEM_VALOR_MEDIDO"
+
+
+def _extrair_valor_medido(texto):
+    """Extrai valor medido, priorizando diferença entre leituras."""
+    valor_por_diferenca = _extrair_diferenca_leituras(texto)
+    if valor_por_diferenca != "SEM_VALOR_MEDIDO":
+        return valor_por_diferenca
+
+    return "SEM_VALOR_MEDIDO"
+
+
+def _extrair_valor_faturado(texto, referencia, valor_medido):
+    """
+    Extrai valor faturado (kWh), priorizando:
+    1) Coluna Faturado da tabela KWH.
+    2) Linha do histórico com mês/ano da referência.
+    3) Fallback no valor medido.
+    """
+    _, faturado_tabela = _extrair_medido_faturado_tabela(texto)
+    if faturado_tabela:
+        return faturado_tabela
+
+    # Busca no histórico o valor do mesmo mês/ano da referência
+    ref_match = re.match(r"^([A-Z]{3})/(\d{2,4})$", (referencia or "").upper())
+    if ref_match:
+        mes_ref = ref_match.group(1)
+        ano_ref = ref_match.group(2)
+        ano2 = ano_ref[-2:]
+        padrao_linha_ref = re.compile(
+            rf"\b{mes_ref}\s*/\s*(?:{ano_ref}|{ano2})\b\s+([0-9]{{1,5}}(?:,[0-9]{{1,2}})?)",
+            re.IGNORECASE,
+        )
+
+        for linha in texto.splitlines():
+            linha_norm = _sem_acento(linha)
+            # Evita linha de cabeçalho, moeda e datas completas.
+            if "REFERENCIA" in linha_norm or "MEDIA" in linha_norm or "R$" in linha_norm:
+                continue
+            if re.search(r"\b\d{2}/\d{2}/\d{2,4}\b", linha):
+                continue
+
+            m = padrao_linha_ref.search(linha)
+            if not m:
+                continue
+            v = _numero_br_para_float(m.group(1))
+            if v is not None:
+                return _formatar_kwh(v)
+
+    if valor_medido != "SEM_VALOR_MEDIDO":
+        return valor_medido
+
+    return "SEM_VALOR_FATURADO"
+
 
 # ============================================================== #
 # EXECUÇÃO - ENERGISA
 # ============================================================== #
 
 def format_energisa(texto, filename=None):
-    # IDENTIFICADOR DE LAYOUT
-    layout = None
-    texto_original = texto
-    if filename:
-        match = re.search(r'_L([1-7])', filename)
-        if match:
-            layout = f"L{match.group(1)}"
+    """
+    Lê o texto bruto extraído pelo Poppler e retorna um dict com as
+    informações básicas da fatura: município, UC e mês/ano de referência.
 
-    # FORMATAÇÃO INICIAL (retirar caracteres invisiveis e linhas vazias)
-    texto = texto.replace('\ufeff', '')         
-    texto = Apagar_linhas(texto,None,(0,len(texto.splitlines())),True)
-    
-    m_destino           = f"{marcadores[0]}:"
-    m_mes_ano           = f"{marcadores[1]}:"
-    m_unidade           = f"{marcadores[2]}:"
-    m_classificacao     = f"{marcadores[3]}:"
-    m_fornecimento      = f"{marcadores[4]}:"
-    m_historico         = f"{marcadores[5]}:"
-    m_dados_faturamento = f"{marcadores[6]}:"
-    m_tabela_tributos   = f"{marcadores[7]}:"
-    m_indicadores       = f"{marcadores[8]}:"
-    m_dados_medicao     = f"{marcadores[9]}:"    
+    O campo 'texto' contém o conteúdo formatado que será gravado no
+    arquivo .txt Texter.
+    """
+    municipio = _extrair_municipio(texto, filename)
+    uc = _extrair_uc_documento(texto, filename)
+    referencia = _extrair_referencia(texto, filename)
+    classificacao = _extrair_classificacao(texto)
+    tipo_fornecimento = _extrair_fornecimento(texto)
+    cliente, endereco_entrega = _extrair_cliente_e_endereco(texto)
+    numero_medidor = _extrair_numero_medidor(texto)
+    leitura_anterior, leitura_atual = _extrair_datas_leitura(texto)
+    dias_medicao = _extrair_dias_medicao(texto)
+    valor_medido = _extrair_valor_medido(texto)
+    valor_faturado = _extrair_valor_faturado(texto, referencia, valor_medido)
+    valor_fatura = _extrair_valor_fatura(texto)
 
-    # Padroniza tipos de fornecimento antes do direcionamento por layout.
-    texto = normalizar_tipo_fornecimento(texto)
-
-    # DIRECIONAMENTO POR LAYOUT
-    if layout == "L1":
-        # CLASSIFICAÇÃO
-        texto = re.sub("Grp/Sbg: ", f"{m_classificacao}\t", texto) 
-        texto = re.sub("Cls/Sbc: ", "", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # FORNECIMENTO        
-        texto = re.sub(" MONOFASICO",   f"\n{m_fornecimento}\t"+fornecimento[0],texto)
-        texto = re.sub(" BIFASICO",     f"\n{m_fornecimento}\t"+fornecimento[1],texto)
-        texto = re.sub(" TRIFASICO",    f"\n{m_fornecimento}\t"+fornecimento[2],texto)
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        clas = Index(texto,m_classificacao)
-        texto = Linha(texto, clas[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, clas[0]-1,None,[(0,m_unidade)],None)
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_mes_ano)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])
-
-        # HISTÓRICO DE CONSUMO
-        forn = Index(texto,m_fornecimento)
-        texto = Linha(texto,forn[0],None,[(2,f"\n\n{m_historico}")])
-        texto = texto.replace("*","")
-
-        # MEDIDOR
-        lei = Index(texto,"Leitura")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_medicao}\n")])
-
-        # DESCRIÇÃO DO FATURAMENTO
-        lei = Index(texto,"Tarifa c/")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_faturamento}\n")])
-        texto = re.sub(r' {2,}', "\t", texto)
-        v1l1 = Linha_para_Vetor(texto,Index(texto,m_historico)[0]+1)
-        linhas = texto.splitlines()
-        v2l1 = linhas[Index(texto,m_historico)[0]+2].split()
-        texto = Apagar_linhas(texto,[Index(texto,m_historico)[0]+1,Index(texto,m_historico)[0]+2])
-        for i in range(0,len(v1l1)):
-            texto = Linha(texto,Index(texto,m_historico)[0]+1+i,None,[(0,v2l1[i]+"\t"+v1l1[i]+"\n")])
-            
-    elif layout == "L2":
-        texto = texto.replace(' v ','  ')
-        # CLASSIFICAÇÃO
-        texto = re.sub("Grp/Sbg:", f"{m_classificacao}\t", texto) 
-        texto = re.sub("Cls/Sbc:", "", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # FORNECIMENTO
-        texto = re.sub(" MONOFASICO",   f"\n{m_fornecimento}\t"+fornecimento[0],texto)
-        texto = re.sub(" BIFASICO",     f"\n{m_fornecimento}\t"+fornecimento[1],texto)
-        texto = re.sub(" TRIFASICO",    f"\n{m_fornecimento}\t"+fornecimento[2],texto)
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        clas = Index(texto,m_classificacao)
-        texto = Linha(texto, clas[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, clas[0]-1,None,[(0,m_unidade)],None)
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_mes_ano)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])
-
-        # HISTÓRICO DE CONSUMO
-        forn = Index(texto,m_fornecimento)
-        texto = Linha(texto,forn[0],None,[(2,f"\n\n{m_historico}")])
-        texto = texto.replace("*","")
-
-        # MEDIDOR
-        lei = Index(texto,"LEITURAS")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_medicao}\n")])
-        texto = Apagar_linhas(texto,[lei[0]+2])
-
-        # DESCRIÇÃO DO FATURAMENTO
-        lei = Index(texto,"BASE CALC.")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_faturamento}\n")])
-
-        # INDICADORES DE QUALIDADE
-        qual = Index(texto,"TRIMEST.")
-        texto = Linha(texto,qual[0]-1,None,[(1,f"\n\n{m_indicadores}")])
-
-    elif layout == "L3":
-        # CLASSIFICAÇÃO
-        texto = re.sub("Grp/Sbg:", f"{m_classificacao}\t", texto) 
-        texto = re.sub("Cls/Sbc:", "", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # FORNECIMENTO
-        texto = re.sub(" MONOFASICO",   f"\n{m_fornecimento}\t"+fornecimento[0],texto)
-        texto = re.sub(" BIFASICO",     f"\n{m_fornecimento}\t"+fornecimento[1],texto)
-        texto = re.sub(" TRIFASICO",    f"\n{m_fornecimento}\t"+fornecimento[2],texto)
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        clas = Index(texto,m_classificacao)
-        texto = Linha(texto, clas[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, clas[0]-1,None,[(0,m_unidade)],None)
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_mes_ano)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])   
-          
-        # HISTÓRICO DE CONSUMO
-        forn = Index(texto,m_fornecimento)
-        texto = Linha(texto,forn[0],None,[(2,f"\n\n{m_historico}")])
-        texto = texto.replace("*","")
-
-        # MEDIDOR
-        lei = Index(texto,"LEITURAS")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_medicao}\n")])
-        texto = Apagar_linhas(texto,[lei[0]+2])
-
-        # DESCRIÇÃO DO FATURAMENTO
-        lei = Index(texto,"BASE CALC.")      
-        texto = Linha(texto,lei[0],None,[(0,f"\n{m_dados_faturamento}\n")])
-
-        # INDICADORES DE QUALIDADE
-        qual = Index(texto,"TRIMEST.")
-        texto = Linha(texto,qual[0]-1,None,[(1,f"\n\n{m_indicadores}")])
-
-    elif layout == "L4":
-        # FORMATAÇÃO CABEÇALHO (5 primeiras linhas)
-        texto = Juntar(texto,(0,Index(texto,"LIGAÇÃO:")[0]-5)) 
-        texto = Juntar(texto,(3,4)) 
-        texto = Linha(texto,0,None,[(0,m_destino)],None)
-        texto = Linha(texto,1,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto,2,None,[(0,m_unidade)],None)
-        texto = re.sub("Classificação: ",f"{m_classificacao}\t",texto)
-        texto = re.sub("LIGAÇÃO: ",f"{m_fornecimento}\t",texto)           
-
-        # INSERINDO MARCADORES
-        texto = Linha(texto,Index(texto,"DICRI")[0],None,[(1,f"\n\n{m_historico}")],None,)
-        if Index(texto,"DIC  ") == []:
-            texto = Linha(texto,index_sigla_isolada(texto,"DIC")[0]-1,None,[(1,f"\n\n{m_indicadores}\nLimites\tMensal\tApurado\tTrimestral\tAnual")],None,)
-        else:
-            texto = Linha(texto,Index(texto,"DIC ")[0]-1,None,[(1,f"\n\n{m_indicadores}\nLimites\tMensal\tApurado\tTrimestral\tAnual")],None,)
-        texto = Linha(texto,Index(texto,"Tributo")[0]-1,None,[(1,f"\n\n{m_tabela_tributos}\nTributo\tBase(R$)\tAlíquota(%)\tValor(R$)")],None,)
-        texto = Linha(texto,5,None,None,None,1)
-        if Index(texto,"Itens da Fatura")[0] == 7:
-            texto = Linha(texto,6,None,[(0,f"{m_dados_medicao}\tIP ESTIMADA\n")])
-        else:
-            texto = Linha(texto,6,None,[(0,m_dados_medicao)])
-        texto = Linha(texto,Index(texto,m_dados_medicao[:-1])[0],None,[(2,f"\n\n{m_dados_faturamento}")],None,)
-
-        # FORMATAÇÃO COMPLEXA       
-        texto = formatar_e_alinhar_tabela(texto,Index(texto,m_indicadores[:-1])[0]+2,Index(texto,m_indicadores[:-1])[0]+5)
-        texto = formatar_e_alinhar_tabela(texto,Index(texto,m_tabela_tributos[:-1])[0]+4,Index(texto,m_indicadores[:-1])[0]-2)  
-
-        # APAGAR LINHAS INUTEIS
-        texto = Apagar_linhas(texto,[Index(texto,m_tabela_tributos)[0]+2,Index(texto,m_tabela_tributos)[0]+3])
-
-    elif layout == "L5":
-        # CLASSIFICAÇÃO
-        texto = re.sub("GRUPO/SUBGRP.:", f"{m_classificacao}\t", texto) 
-        texto = re.sub("CLASSE/SUBCLS.: ", "", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # FORNECIMENTO
-        ligacao = Index(texto,"LIGAÇÃO:")
-        
-        if fornecimento[0] in texto:
-            texto = Linha(texto,ligacao[0],None,[(1,f"\n{m_fornecimento}\tMONOFASICO")],None)
-        if fornecimento[1] in texto:
-            texto = Linha(texto,ligacao[0],None,[(1,f"\n{m_fornecimento}\tBIFASICO")],None)
-        if fornecimento[2] in texto:
-            texto = Linha(texto,ligacao[0],None,[(1,f"\n{m_fornecimento}\tTRIFASICO")],None)
-        texto = Apagar_linhas(texto,[ligacao[0]])
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        tarf = Index(texto,"TARIFA SEM TARIFA COM")
-        texto = Linha(texto, tarf[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, tarf[0]-1,None,[(0,m_unidade)],None)
-
-        # ENDEREÇO DA UNIDADE CONSUMIDORA (APAGAR)
-        end = Index(texto,"ENDEREÇO DA UNIDADE CONSUMIDORA")
-        mes = Index(texto,m_mes_ano)
-        texto = Apagar_linhas(texto,None,(end[0],end[0]+3))
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_classificacao)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])
-
-        # MEDIDOR
-        texto = re.sub("Nº DO MEDIDOR: ",f"{m_dados_medicao}\t",texto)
-        med = Index(texto,m_dados_medicao)
-        if med == []:
-            texto = Linha(texto,Index(texto,m_unidade)[0],None,[(2,f"\n{m_dados_medicao}\tIP ESTIMADA")])            
-        else:
-            texto = Juntar(texto,(med[0],med[0]+1))
-
-        # DESCRIÇÃO DO FATURAMENTO
-        desc = Index(texto,"TARIFA SEM TARIFA COM")
-        texto = Linha(texto,desc[0],None,[(0,f"\n{m_dados_faturamento}\n")])
-
-        # HISTÓRICO DE CONSUMO
-        tot = Index(texto,"TOTAL:")
-        texto = Linha(texto,tot[0],None,[(1,f"\n\n{m_historico}")])
-        texto = texto.replace("*","")
-
-        # INDICADORES DE QUALIDADE
-        qual = Index(texto,"DIC")
-        texto = Linha(texto,qual[0]-1,None,[(1,f"\n\n{m_indicadores}\nLimites\tMensal\tApurado\tTrimestral\tAnual")])
-
-    elif layout == "L6":
-        # FORNECIMENTO
-        texto = re.sub("LIGAÇÃO: ",f"{m_fornecimento}\t",texto)
-
-        # CLASSIFICAÇÃO
-        texto = re.sub("Grupo/Subgp.: ", f"{m_classificacao}\t", texto) 
-        texto = re.sub("Classe/Subcls.: ", "", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        clas = Index(texto,m_classificacao)
-        texto = Linha(texto, clas[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, clas[0]-1,None,[(0,m_unidade)],None)
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_mes_ano)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])
-
-        # DESCRIÇÃO DO FATURAMENTO
-        forn = Index(texto,m_fornecimento)
-        texto = Linha(texto,forn[0],None,[(2,f"\n\n{m_dados_faturamento}")])
-
-        # HISTÓRICO DE CONSUMO
-        hist = Index(texto,"HISTÓRICO DE CONSUMO (kWh)")
-        texto = Linha(texto,hist[0],None,[(0,f"\n{m_historico}\n")])
-        texto = Apagar_linhas(texto,[hist[0]+2,hist[0]+3])
-        texto = texto.replace("*","")
-
-        # INDICADORES DE QUALIDADE
-        qual = Index(texto,"DIC MENSAL")
-        texto = Linha(texto,qual[0]-1,None,[(1,f"\n\n{m_indicadores}")])
-
-    elif layout == "L7":
-        texto = texto.replace(' v ','  ')
-        # CLASSIFICAÇÃO E FORNECIMENTO
-        texto = re.sub("Classificação: ", f"{m_classificacao}\t", texto) 
-        texto = re.sub("Tipo de Fornecimento: ", f"{m_fornecimento}\t", texto) 
-        texto =Juntar(texto,[Index(texto,m_classificacao)[0],Index(texto,m_classificacao)[0]+1])
-
-        # MÊS_ANO E UNIDADE CONSUMIDORA
-        clas = Index(texto,m_classificacao)
-        texto = Linha(texto, clas[0]-2,None,[(0,m_mes_ano)],None)
-        texto = Linha(texto, clas[0]-1,None,[(0,m_unidade)],None)
-
-        # DESTINO
-        texto = Juntar(texto,(0,Index(texto,m_mes_ano)[0]-1))
-        texto = Linha(texto,0,None,[(0,m_destino)])
-
-        # DESCRIÇÃO DO FATURAMENTO
-        forn = Index(texto,"Base Calc.")
-        texto = Linha(texto,forn[0],None,[(0,f"\n{m_dados_faturamento}\n")])
-
-        # TRIBUTOS
-        pis = Index(texto, "PIS/PASEP")
-        texto = Linha(texto,pis[0]-1,None,[(1,f"\n\n{m_dados_faturamento}")])
-
-        # MEDIDOR
-        lei = Index(texto,"Faturamento pela média/mínimo")      
-        texto = Linha(texto,lei[0],None,[(1,f"\n\n{m_dados_medicao}")])
-        
-        # HISTORICO DE FATURAMENTO
-        hist = Index(texto,m_dados_medicao)
-        texto = Linha(texto,hist[0]+1,None,[(1,f"\n\n{m_historico}")])
-
-    texto = re.sub(r' {2,}', "\t", texto)
-    texto = re.sub(r'\*', "", texto)
-    texto = texto.replace("MTC-CONVENCIONAL","")
-    texto = texto.replace(' v ','  ')
-    texto = texto.replace('TENSÃO / ','TENSÃO\t')
-
-    # MATRIZES POR FATURA
-    matriz_info_geral = _extrair_matriz_info_geral(texto)
-    uc = _extrair_uc_documento(texto_original, filename)
-    referencia = _extrair_referencia_documento(texto_original, filename)
-    matriz_historico_consumo = _extrair_linha_historico(texto)
-    if matriz_historico_consumo:
-        matriz_historico_consumo[0] = uc
-
-    cliente, endereco_entrega = _extrair_cliente_e_endereco(texto_original)
-    numero_medidor = _extrair_numero_medidor(texto_original)
-
-    classificacao = matriz_info_geral[4] if len(matriz_info_geral) > 4 else ""
-    tipo_fornecimento = matriz_info_geral[1] if len(matriz_info_geral) > 1 else ""
+    texto_saida = (
+        f"MUNICÍPIO: {municipio}\n"
+        f"UC: {uc}\n"
+        f"REFERÊNCIA: {referencia}\n"
+        f"CLASSIFICAÇÃO: {classificacao or 'SEM_CLASSIFICACAO'}\n"
+        f"FORNECIMENTO: {tipo_fornecimento or 'SEM_FORNECIMENTO'}\n"
+        f"CLIENTE: {cliente or 'SEM_CLIENTE'}\n"
+        f"ENDEREÇO DE ENTREGA: {endereco_entrega or 'SEM_ENDERECO'}\n"
+        f"NÚMERO DO MEDIDOR: {numero_medidor or 'SEM_MEDIDOR'}\n"
+        f"DATA DE LEITURA ANTERIOR: {leitura_anterior}\n"
+        f"DATA DE LEITURA ATUAL: {leitura_atual}\n"
+        f"DIAS DE MEDIÇÃO: {dias_medicao}\n"
+        f"VALOR FATURADO: {valor_faturado}\n"
+        f"VALOR MEDIDO: {valor_medido}\n"
+        f"VALOR DA FATURA: {valor_fatura}\n"
+    )
 
     return {
-        "arquivo": filename,
-        "uc": uc,
-        "referencia": referencia,
-        "classificacao": classificacao,
+        "arquivo":          filename,
+        "municipio":        municipio,
+        "uc":               uc,
+        "referencia":       referencia,
+        "texto":            texto_saida,
+        # campos mantidos para compatibilidade com o pipeline
+        "info_geral":       [],
+        "historico_consumo": [],
+        "classificacao":    classificacao,
         "tipo_fornecimento": tipo_fornecimento,
-        "cliente": cliente,
+        "cliente":          cliente,
         "endereco_entrega": endereco_entrega,
-        "numero_medidor": numero_medidor,
-        "info_geral": matriz_info_geral,
-        "historico_consumo": matriz_historico_consumo,
-        "texto": texto,
+        "numero_medidor":   numero_medidor,
+        "leitura_anterior": leitura_anterior,
+        "leitura_atual":    leitura_atual,
+        "dias_medicao":     dias_medicao,
+        "valor_faturado":   valor_faturado,
+        "valor_medido":     valor_medido,
+        "valor_fatura":     valor_fatura,
     }

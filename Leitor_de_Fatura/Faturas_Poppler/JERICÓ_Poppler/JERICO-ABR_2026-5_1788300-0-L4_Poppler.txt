@@ -1,0 +1,131 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE JERICÓ
+RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
+JERICO PB (AG: 245)
+
+ROTEIRO: 009 - 0253 - 700 - 0505
+MATRÍCULA: 1788300-2026-4-5
+DOM. BANC.:                                    DOM. ENT.: 9999253003
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM JERICO CEO CENTRO DE ESPECIALIDADE
+ODONTOLOGICA
+RUA HERUNDINA DE OLIVEIRA, S/N - C E O - 58830000
+
+
+CENTRO
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Abril / 2026   23/05/2026   R$ 678,22
+Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh    KWH        769,00       0,881950        678,22       23,00         678,22   20      135,64   0,675650
+
+
+
+
+                           TOTAL:                         678,22       23,00         678,22           135,64
+00008787878   Energia ativa em kWh   Ponta   85877   86646   1   769
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1788300-2026-4-5      23/05/2026       8001078        R$ 678,22
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/05/2026
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    00017883000
+13/03/2026   14/04/2026   32   14/05/2026
+5/1788300-0
+
+00008787878
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         542,57    0,7563       4,10
+COFINS      542,57    3,4837      18,90
+ICMS        678,22     20,00     135,64
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              ABR/26                32
+              MAR/26                29
+              FEV/26                28
+              JAN/26                30
+Consumo kWh
+
+
+
+
+              DEZ/25                32
+              NOV/25                31
+              OUT/25                32
+              SET/25                29
+              AGO/25                31
+              JUL/25                32
+              JUN/25                29
+              MAI/25                30
+              ABR/25                28
+  678,22                 135,64
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+.
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
+DIC         12,00     0,00   999,00   999,00
+FIC          4,00     0,00   999,00   999,00
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    JERICÓ
+
+Referência:                       02/2026
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                     174,22    25,70
+Compra de energia                           211,42    31,17
+Serviço de transmissão                       38,55     5,68
+Encargos setoriais                           95,39    14,06
+Impostos diretos e encargos                 158,64    23,39
+Outros serviços                               0,00     0,00
+Total                                       678,22   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 02/2026): R$ 107,15
+ABR/26    769,00
+MAR/26    754,00
+FEV/26     454,00
+JAN/26      89,00
+DEZ/25     977,00
+NOV/25   1.116,00
+OUT/25     978,00
+SET/25    786,00
+AGO/25    797,00
+JUL/25    718,00
+JUN/25    815,00
+MAI/25    836,00
+ABR/25    938,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 13/03/2026      Leitura Atual: 14/04/2026   Dias: 32
+
+
+
+KWH   Ponta   86.646,00      85.877,00       1,00                                                  769,00            769,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

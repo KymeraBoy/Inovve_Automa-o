@@ -1,0 +1,133 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 013 - 0142 - 781 - 0900
+MATRÍCULA: 261742-2024-12-4
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
+PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO                         LIGAÇÃO: TRIFASICO
+PM DESTERRO ABASTECIMENTO DAGUA
+TATAIRA
+SIT TATAIRA, SN - 58695000
+
+
+AREA RURAL
+TATAIRA (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Dezembro / 2024   23/01/2025   R$ 402,57
+                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                           78,25        3,77          78,25   20      15,65
+Adic. B. Amarela                                                    0,77        0,04           0,77   20       0,15
+LANÇAMENTOS E SERVIÇOS
+CONTRIBUIÇÃO ILUM PUBLICA                                         323,55        0,00           0,00   0        0,00
+
+
+
+
+                                    TOTAL:                        402,57        3,81          79,02           15,80
+00008976916   Energia ativa em kWh   Ponta   16444   16444   1   0
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  261742-2024-12-4      23/01/2025       4537388        R$ 402,57
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/01/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000261742-1
+21/11/2024   20/12/2024   29   21/01/2025
+5/261742-1
+
+00008976916
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          63,20    1,0765      0,68
+COFINS       63,20    4,9583      3,13
+ICMS         79,02     20,00     15,80
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24                29
+              NOV/24                30
+              OUT/24                32
+              SET/24                29
+Consumo kWh
+
+
+
+
+              AGO/24                31
+              JUL/24                32
+              JUN/24                30
+              MAI/24                33
+              ABR/24                30
+              MAR/24                28
+              FEV/24                32
+              JAN/24                30
+              DEZ/23                29
+   79,02                  15,80
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+ICMS Sobre Desconto Tarifa Decreto 7.891/2013
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+DIC         24,00       5,08   0,00    0,00
+FIC          6,00       2,00   0,00    0,00
+DMIC        18,00       4,29
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                       10/2024
+Tensão Contratada:
+Limite Adequado:                350 a 399
+Serviço de distribuição                      20,57     5,12
+Compra de energia                            23,93     5,94
+Serviço de transmissão                        5,31     1,32
+Encargos setoriais                            9,60     2,38
+Impostos diretos e encargos                 343,16    85,24
+Outros serviços                               0,00     0,00
+Total                                       402,57   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2024): R$ 21,78
+DEZ/24      0,00 *
+NOV/24      0,00 *
+OUT/24      0,00 *
+SET/24      0,00 *
+AGO/24      0,00 *
+JUL/24    100,00 *
+JUN/24      0,00 *
+MAI/24      0,00 *
+ABR/24    100,00 *
+MAR/24      0,00
+FEV/24    100,00 *
+JAN/24      0,00 *
+DEZ/23    100,00 *
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 21/11/2024      Leitura Atual: 20/12/2024   Dias: 29
+
+
+
+KWH   Ponta   16.444,00      16.444,00       1,00                                                     0,00            100,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

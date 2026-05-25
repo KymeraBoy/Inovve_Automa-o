@@ -1,0 +1,102 @@
+Domicílio de Entrega:
+PM JERICO QUADRA POLIESPORTIVA
+RUA LOPES FIGUEIREDO 110
+
+
+JERICÓ (AG: 245)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 009 - 0253 - 700 - 0100
+Nº do Medidor: 00008371002
+MATRÍCULA: 1112957-2020-1-8
+DOM. ENT.: 9999253001
+PM JERICO QUADRA POLIESPORTIVA
+RUA HERUNDINA DE OLIVEIRA, S/N - 58830000
+CENTRO
+JERICO-PB (AG: 245)
+                                                      ENER
+                                            Br 230, Km 25 -
+
+
+ LIGAÇÃO: TRIFASICO
+ DOM. BANC.:
+ CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+ Insc. Est.:
+               Emissão: 16/01/2020         Identificador para Débito Automático:   0001112957-4
+
+
+
+Janeiro/2020   03/02/2020            13/02/2020                   5/1112957-4
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        557,00   0,545400        0,785840        437,71        437,71    25     109,43          437,71       4,37        20,13
+0601 Adic. B. Amarela                                                                10,77         10,77    25       2,69           10,77       0,10         0,49
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              448,48        448,47           112,12          448,47       4,47        20,61
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                            119,34
+                                                        %
+                                                       26,61   2
+COMPRA DE ENERGIA                           156,26     34,84
+SERVIÇO DE TRANSMISSÃO                       17,74      3,96
+ENCARGOS SETORIAIS                           17,93      4,00
+IMPOSTOS DIRETOS E ENCARGOS                 137,21     30,59
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                         448,48    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 223,31
+23/02/2020   R$ 448,48
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   1112957-2020-1-8          23/02/2020         37487955      R$ 448,48
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         557
+DEZ/19         840
+NOV/19         701
+OUT/19         703
+SET/19         588
+AGO/19         506
+JUL/19         685
+JUN/19         542
+MAI/19         528
+ABR/19         547
+MAR/19         376
+FEV/19         581
+JAN/19         524
+Leitura: 16/12/2019 a 15/01/2020 Dias: 30
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P          63.861,00     63.304,00    1            0                                 557,00            557,00
+VENCIMENTO   VALOR (R$)
+DIC MENSAL        6,27       0,00
+DIC TRIMESTRAL   12,54
+DIC ANUAL        25,08
+FIC MENSAL        3,42       0,00
+FIC TRIMESTRAL    6,85
+FIC ANUAL        13,70
+DMIC              3,71       0,00
+DICRI            12,22
+
+
+
+Conjunto: Jericó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 202 a 231
+

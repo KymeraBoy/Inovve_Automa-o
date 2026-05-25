@@ -1,0 +1,128 @@
+DOMICÍLIO DE ENTREGA
+GE JOAO ROSADO DE OLIVEIRA JERICO
+RUA LOPES FIGUEIREDO 110 - CENTRO
+JERICO (AG: 245)
+
+ROTEIRO: 012 - 0253 - 720 - 1520
+MATRÍCULA: 388859-2023-1-9
+DOM. BANC.:                         DOM. ENT.: 9999253002
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+GE JOAO ROSADO DE OLIVEIRA JERICO
+
+RUA PE JERONIMO MUNHOS, S/N - 58830000
+
+
+CENTRO
+JERICO (AG: 245)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-37
+Insc. Est.:
+Janeiro / 2023   23/02/2023   R$ 425,77
+- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              555,00       0,767150        425,77       16,64         425,77   18      76,63   0,599080
+
+
+
+
+                          TOTAL:                         425,77       16,64         425,77           76,63
+E7021306306   Energia ativa em kWh   Ponta   27729   28284   1   555
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   388859-2023-1-9               23/02/2023      618135         R$ 425,77
+
+CONTA PAGA - Data de Pagamento: 28/02/2023
+Data de Apresentação: 02/02/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000388859-1
+21/12/2022   20/01/2023   30   20/02/2023
+5/388859-1
+
+E7021306306
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         349,12    0,8504      2,97
+COFINS      349,12    3,9170     13,67
+ICMS        425,77     18,00     76,63
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/23                30
+              DEZ/22                30
+              NOV/22                32
+              OUT/22                29
+Consumo kWh
+
+
+
+
+              SET/22                33
+              AGO/22                30
+              JUL/22                30
+              JUN/22                31
+              MAI/22                30
+              ABR/22                29
+              MAR/22                33
+              FEV/22                28
+              JAN/22                30
+  425,77                  76,63
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+- Leitura confirmada
+DIC         12,00     0,24   0,00        0,00
+FIC          4,00     1,00   0,00        0,00
+DMIC         9,00     0,24
+DICRI       13,00
+
+
+Conjunto:    Jericó
+
+Referência:                         11/2022
+Tensão Contratada:
+Limite Adequado:              350 a 399
+Serviço de distribuição                      82,99    19,49
+Compra de energia                           147,03    34,53
+Serviço de transmissão                       21,58     5,07
+Encargos setoriais                           80,90    19,00
+Impostos diretos e encargos                  93,27    21,91
+Outros serviços                               0,00     0,00
+Total                                       425,77   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 11/2022): R$ 784,54
+JAN/23     555,00                         0,00
+DEZ/22   1.399,00                         0,00
+NOV/22   2.200,00                         0,00
+OUT/22   1.812,00                         0,00
+SET/22   1.952,00                         0,00
+AGO/22   1.670,00                         0,00
+JUL/22     638,00                         0,00
+JUN/22   1.588,00                         0,00
+MAI/22   1.630,00                         0,00
+ABR/22   1.798,00                         0,00
+MAR/22   1.982,00                         0,00
+FEV/22     827,00                         0,00
+JAN/22     524,00                         0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 21/12/2022      Leitura Atual: 20/01/2023   Dias: 30
+
+
+
+KWH   Ponta   28.284,00      27.729,00       1,00           0,00                                   555,00            555,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

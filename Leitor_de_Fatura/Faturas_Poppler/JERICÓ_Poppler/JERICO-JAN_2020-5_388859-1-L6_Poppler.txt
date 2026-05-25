@@ -1,0 +1,113 @@
+Domicílio de Entrega:
+GE JOAO ROSADO DE OLIVEIRA JERICO
+RUA LOPES FIGUEIREDO 110
+
+
+JERICÓ (AG: 245)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 012 - 0253 - 720 - 1520
+Nº do Medidor: 00009077266
+MATRÍCULA: 388859-2020-1-5
+DOM. ENT.: 9999253002
+GE JOAO ROSADO DE OLIVEIRA JERICO
+RUA PE JERONIMO MUNHOS, S/N - 58830-000
+CENTRO
+JERICO-PB (AG: 245)
+                                                    ENER
+                                          Br 230, Km 25 -
+
+
+ LIGAÇÃO: TRIFASICO
+ DOM. BANC.:
+ CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-37
+ Insc. Est.: 00XXXXXX
+               Emissão: 21/01/2020         Identificador para Débito Automático:   0000388859-1
+
+
+
+Janeiro/2020   03/02/2020            18/02/2020                    5/388859-1
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        512,00   0,545400        0,785840        402,35        402,35    25     100,59          402,35       4,01        18,50
+0601 Adic. B. Amarela                                                                 9,90          9,90    25       2,47            9,90       0,10         0,45
+     LANÇAMENTOS E SERVIÇOS
+0805 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    9,41                   0       0,00            0,00       0,00         0,00
+0805 MULTA 11/2019                                                                   35,18                   0       0,00            0,00       0,00         0,00
+0804 JUROS DE MORA 11/2019                                                           12,90                   0       0,00            0,00       0,00         0,00
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              469,74        412,25           103,06          412,25       4,10        18,95
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                            109,70
+                                                        %
+                                                       23,35   2
+COMPRA DE ENERGIA                           143,64     30,58
+SERVIÇO DE TRANSMISSÃO                       16,31      3,47
+ENCARGOS SETORIAIS                           16,48      3,51
+IMPOSTOS DIRETOS E ENCARGOS                 183,61     39,09
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                         469,74    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 682,05
+23/02/2020   R$ 469,74
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   388859-2020-1-5           23/02/2020         37751745      R$ 469,74
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         512
+DEZ/19        1607
+NOV/19        2141
+OUT/19        1719
+SET/19        1878
+AGO/19        1745
+JUL/19        1085
+JUN/19        1910
+MAI/19        1924
+ABR/19        1186
+MAR/19        1217
+FEV/19         490
+JAN/19         446
+Leitura: 19/12/2019 a 20/01/2020 Dias: 32
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P          14.524,00     14.012,00    1            0                                 512,00            512,00
+VENCIMENTO   VALOR (R$)
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 18/02/2020. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- Leitura confirmada
+DIC MENSAL        6,27       0,00
+DIC TRIMESTRAL   12,54
+DIC ANUAL        25,08
+FIC MENSAL        3,42       0,00
+FIC TRIMESTRAL    6,85
+FIC ANUAL        13,70
+DMIC              3,71       0,00
+DICRI            12,22
+
+
+
+Conjunto: Jericó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 350 a 399
+

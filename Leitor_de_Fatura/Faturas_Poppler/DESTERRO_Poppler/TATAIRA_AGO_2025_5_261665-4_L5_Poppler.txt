@@ -1,0 +1,170 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 014 - 0142 - 781 - 4500
+MATRÍCULA: 261665-2025-8-2
+DOM. BANC.:                                    DOM. ENT.: 9999139001
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                  LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 202         Lim. Max.: 231
+
+
+PM DESTERRO MERCADO PUBLICO MUNICIPAL
+
+RUA NS DE FATIMA, S/N - 58695000
+
+
+AREA RURAL                                                                5/261665-4
+TATAIRA (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30                                         D5148875905
+Insc. Est.:
+21/07/2025   22/08/2025          32
+
+
+
+              NOTA FISCAL Nº: 006.260.4
+                  Agosto / 2025
+
+     - Comunicamos que por falta de acesso ao equipa
+     pela média e consumos acumulados. Notificamos
+
+
+
+
+Itens da Fatura
+    23/09/2025                           R$ 442,50
+
+mento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA
+ a necessidade de liberar o acesso ao local da medição, caso contr
+
+
+
+
+                           Preço unit (R$)
+   Unid.          Quant.     com tributos       Valor (R$) COFIN
+                                                        3252500017347682 - 25/08/2025 16:44:41
+
+
+
+
+DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
+ontrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS         353,98    0,9383      3,32
+                                                                                                                                             PIS                 353,98   0,9383
+Consumo em kWh                              KWH      511,00   0,776160   396,61   16,69     396,61    20            79,33      0,588270
+                                                                                                                                             COFINS              353,98   4,3217
+Adic. B. Vermelha                                                         36,47    1,53      36,47    20             7,29
+                                                                                                                                             ICMS                442,50    20,00
+Adic. B. Vermelha                                                          9,42    0,39        9,42   20             1,88
+
+
+
+
+                                                                                                                                                         CONSUMO FATURADO
+
+                                                                                                                                                        AGO/25
+                                                                                                                                                        JUL/25
+                                                                                                                                                        JUN/25
+                                                                                                                                                        MAI/25
+
+
+
+
+                                                                                                                                          Consumo kWh
+                                                                                                                                                        ABR/25
+                                                                                                                                                        MAR/25
+                                                                                                                                                        FEV/25
+                                                                                                                                                        JAN/25
+                                                                                                                                                        DEZ/24
+                                                                                                                                                        NOV/24
+                                                                                                                                                        OUT/24
+                                                                                                                                                        SET/24
+                                                                                                                                                        AGO/24
+
+
+
+
+                                                   TOTAL:                442,50   18,61     442,50                  88,50
+
+
+
+
+    D5148875905     Energia ativa em kWh   Ponta      11629     12140      1      511     Art. 13, Inciso VII do RICMS/PB - 1997
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  261665-2025-8-2       23/09/2025       6260424        R$ 442,50
+
+FATURAMENTO AGRUPADO
+.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+DIC         24,00       0,00   999,00   999,0
+FIC          6,00       0,00   999,00   999,0
+DMIC        18,00       0,00
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                         06/2025
+Tensão Contratada:
+Limite Adequado:                  202 a 231
+Serviço de distribuição                      94,21    21,2
+Compra de energia                           147,10    33,2
+Serviço de transmissão                       20,86     4,7
+Encargos setoriais                           73,22    16,5
+Impostos diretos e encargos                 107,11    24,2
+Outros serviços                               0,00     0,0
+Total                                       442,50   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 108,91
+9,00   AGO/25    511,00 *
+9,00   JUL/25    508,00 *
+       JUN/25    500,00 *
+       MAI/25    506,00
+       ABR/25    307,00
+       MAR/25    539,00 *
+       FEV/25    519,00 *
+25     JAN/25    729,00
+       DEZ/24    584,00
+31     NOV/24    524,00
+       OUT/24    534,00
+       SET/24    490,00
+       AGO/24    396,00
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+                    Leitura Anterior: 21/07/2025      Leitura Atual: 22/08/2025   Dias: 32
+
+
+
+,29   KWH   Ponta   12.140,00      11.629,00       1,00                                                   511,00            51
+,24
+,71
+,55
+,21
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg     * K: Const Me
+

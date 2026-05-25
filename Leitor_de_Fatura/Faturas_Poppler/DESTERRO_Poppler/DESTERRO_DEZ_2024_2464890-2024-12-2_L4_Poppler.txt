@@ -1,0 +1,132 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 008 - 0139 - 561 - 2641
+MATRÍCULA: 2464890-2024-12-2
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERROS ESCOLA JOSE MAMEDES
+FERREIRAS
+SIT PITOMBAS, SN - 58695000
+
+
+AREA RURAL
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Dezembro / 2024   23/01/2025   R$ 79,70
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh     KWH        100,00       0,782550         78,25        3,77          78,25   20      15,65   0,588270
+Adic. B. Amarela                                             1,45        0,07           1,45   20       0,29
+
+
+
+
+                            TOTAL:                          79,70        3,84          79,70           15,94
+W5145371508   Energia ativa em kWh   Ponta   1839   1939   1   100
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  2464890-2024-12-2     23/01/2025       4485128         R$ 79,70
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 06/01/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002464890-9
+12/11/2024   13/12/2024   31   14/01/2025
+5/2464890-9
+
+W5145371508
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          63,75    1,0765      0,68
+COFINS       63,75    4,9583      3,16
+ICMS         79,70     20,00     15,94
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24                31
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+Consumo kWh
+
+
+
+
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                35
+              ABR/24                32
+              MAR/24                30
+              FEV/24                28
+              JAN/24                30
+              DEZ/23                32
+   79,70                  15,94
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- Leitura confirmada
+- Leitura confirmada
+DIC         24,00       9,95   0,00    0,00
+FIC          6,00       3,00   0,00    0,00
+DMIC        18,00       4,88
+DICRI       26,00
+
+
+Conjunto:    Teixeira
+
+Referência:                       10/2024
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                     20,75    26,03
+Compra de energia                           24,14    30,29
+Serviço de transmissão                       5,35     6,71
+Encargos setoriais                           9,68    12,15
+Impostos diretos e encargos                 19,78    24,82
+Outros serviços                              0,00     0,00
+Total                                       79,70   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2024): R$ 19,38
+DEZ/24    100,00 *
+NOV/24     70,00 *
+OUT/24     89,00 *
+SET/24     77,00 *
+AGO/24     87,00 *
+JUL/24     70,00 *
+JUN/24     68,00 *
+MAI/24     85,00 *
+ABR/24     62,00 *
+MAR/24     55,00
+FEV/24     68,00 *
+JAN/24     80,00 *
+DEZ/23     98,00 *
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 12/11/2024      Leitura Atual: 13/12/2024   Dias: 31
+
+
+
+KWH   Ponta    1.939,00       1.839,00       1,00                                                  100,00            100,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

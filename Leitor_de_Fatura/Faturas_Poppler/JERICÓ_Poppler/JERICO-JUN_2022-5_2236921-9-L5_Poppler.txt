@@ -1,0 +1,102 @@
+PM JERICO EMEF DO SAQUINHO
+
+DOMICÍLIO DE ENTREGA
+PM JERICO EMEF DO SAQUINHO
+RUA LOPES FIGUEIREDO 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 013 - 0253 - 741 - 4236                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5131209139                            DOM. BANC.:
+MATRÍCULA: 2236921-2022-6-8                            DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT SAQUINHO, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0002236921-9
+5/2236921-9
+              R$ 60,12
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2022
+               2,45 kWh
+             MÉDIA DIÁRIA
+71 kWh
+22/06/2022   04/07/2022   21/07/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         71,00    0,596920    0,826800       58,70         58,70   25      14,67          44,03        0,29          1,35
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 04/2022                                                               1,33                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2022                                                       0,09                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          60,12         58,70           14,67          44,03        0,29          1,35
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  2236921-2022-6-8           23/07/2022         87866990       R$ 60,12
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Perda do Ramal: 1 kWh.
+- Leitura confirmada
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição       14,46 24,06
+Compra de energia             19,75 32,85
+Serviço de transmissão         3,26   5,42
+Encargos setoriais             4,92   8,18
+Impostos diretos e encargos   17,73 29,49
+Outros serviços                0,00   0,00
+Total                         60,12 100,00
+JUN/22     71,00
+MAI/22     50,00
+ABR/22     68,00
+MAR/22     61,00
+FEV/22     62,00
+JAN/22     76,00
+DEZ/21     62,00
+NOV/21     49,00
+OUT/21     41,00
+SET/21     22,00
+AGO/21      0,00
+JUL/21      0,00 *
+JUN/21
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior: 23/05/2022   Leitura Atual: 21/06/2022   Dias: 29
+
+
+KWH   Ponta   572,00       500,00      1              0                                   71,00          71,00
+
+
+
+
+                                                                                    * K : Constante do Medidor
+

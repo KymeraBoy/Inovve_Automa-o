@@ -1,0 +1,103 @@
+EMEF AUGUSTINHO SIMAO DE ALMEIDA JERICO
+
+DOMICÍLIO DE ENTREGA
+EMEF AUGUSTINHO SIMAO DE ALMEIDA JERICO
+RUA LOPES FIGUEIREDO 110
+JERICO (AG: 245)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 011 - 0253 - 753 - 2810                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: W5068716106                            DOM. BANC.:
+MATRÍCULA: 809898-2022-6-9                             DOM. ENT.: 9999253002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT PACUTI, S/N
+AREA RURAL
+JERICO (AG: 245)
+
+
+
+                                                                     0000809898-0
+5/809898-0
+              R$ 73,12
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+23/07/2022
+               2,97 kWh
+             MÉDIA DIÁRIA
+86 kWh
+21/06/2022   04/07/2022   19/07/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         86,00    0,596920    0,826800       71,10         71,10   25      17,77          53,32        0,35          1,63
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 04/2022                                                               1,89                 0        0,00           0,00        0,00          0,00
+0804 JUROS DE MORA 04/2022                                                       0,13                 0        0,00           0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          73,12         71,10           17,77          53,32        0,35          1,63
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   809898-2022-6-9           23/07/2022         87766221       R$ 73,12
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Leitura confirmada
+DIC         24,00    3,77      0,00       0
+FIC          6,00    1,00      0,00    0,00
+DMIC        18,00    3,77
+DICRI       26,00
+
+
+Conjunto:    Catolé do Rocha
+
+Referência:                       04/2022
+Tensão Contratada:
+Limite Adequado:                202 a 231
+Serviço de distribuição                     17,52 23,97
+Compra de energia                           23,92 32,71
+Serviço de transmissão                       3,95   5,40
+Encargos setoriais                           5,96   8,15
+Impostos diretos e encargos                 21,77 29,77
+Outros serviços                              0,00   0,00
+Total                                       73,12 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2022): R$ 32,41
+0   JUN/22     86,00
+0   MAI/22    100,00
+    ABR/22     95,00
+    MAR/22    107,00
+    FEV/22     50,00
+    JAN/22     47,00
+    DEZ/21     57,00
+    NOV/21     53,00
+    OUT/21     45,00
+    SET/21     48,00
+    AGO/21     43,00
+    JUL/21     45,00
+    JUN/21     45,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 19/05/2022   Leitura Atual: 17/06/2022   Dias: 29
+
+
+KWH   Ponta   1.665,00     1.579,00      1              0                                   86,00          86,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

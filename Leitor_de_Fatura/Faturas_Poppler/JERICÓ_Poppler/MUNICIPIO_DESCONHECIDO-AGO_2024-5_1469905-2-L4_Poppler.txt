@@ -1,0 +1,125 @@
+ROTEIRO: 009 - 0253 - 731 - 0855
+MATRÍCULA: 7014992-2024-8-8
+DOM. BANC.:                        DOM. ENT.:
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICI                                  LIGAÇÃO: TRIFASICO
+EMEF DO ASSENTAMENTO ALTO ALEGRE
+JERICO
+SIT ALTO ALEGRE, S/N - - 58830000
+
+
+AREA RURAL
+JERICO
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
+Insc. Est.:
+Agosto / 2024   23/10/2024   R$ 632,75
+                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+                                                                                                                                    T
+Itens da Fatura             Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+                                                                                                                                    P
+Consumo em kWh Recuperado             807,67                       631,02       18,88         631,02   20      126,20
+                                                                                                                                    C
+Adic. B. Amarela P                                                   1,73        0,05           1,73   20        0,35
+                                                                                                                                    I
+
+
+
+
+                                    TOTAL:                         632,75       18,93         632,75           126,55
+00008254281   Energia ativa em kWh   Ponta   807,672
+                                    NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+          MATRÍCULA                 VENCIMENTO            Nº FATURA   TOTAL A PAGAR
+       7014992-2024-8-8               23/10/2024          3841513       R$ 632,75
+
+83690000006-5 32750054000-7 70149922024-5 08800253019-9
+
+
+
+(YiHeB{B{B{PaEhRuJwBvB{A|QtGmGdDjBvWmB{MsUuSg)
+Data de Apresentação: 29/08/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0007014992-2
+5/1469905-2
+
+
+00008254281
+          Base de Alíquota      Valor
+Tributo   Cálc.(R$)  (%)         (R$)
+PIS          506,18   0,6671     3,38
+COFINS       506,18   3,0729    15,55
+ICMS         632,75    20,00   126,55
+                                 Nº DIAS
+              CONSUMO FATURADO     FAT
+              AGO/24
+              JUL/24
+              JUN/24
+              MAI/24
+              ABR/24
+Consumo kWh
+
+
+
+
+              MAR/24
+              FEV/24
+              JAN/24
+              DEZ/23
+              NOV/23
+              OUT/23
+              SET/23
+              AGO/23
+632,75   126,55
+PARCELA 2 /2 REFERENTE À RECUPERAÇÃO DE CONSUMO; 92 DIAS
+PREZADO CLIENTE, NEGOCIE MELHORES CONDIÇÕES EM NOSSA AGENCIA DE ATENDIMENTO.
+RED original - 7014990
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição       168,75    26,67
+Compra de energia             196,27    31,02
+Serviço de transmissão         43,51     6,88
+Encargos setoriais             78,74    12,44
+Impostos diretos e encargos   145,48    22,99
+Outros serviços                 0,00     0,00
+Total                         632,75   100,00
+AGO/24
+JUL/24
+JUN/24
+MAI/24
+ABR/24
+MAR/24
+FEV/24
+JAN/24
+DEZ/23
+NOV/23
+OUT/23
+SET/23
+AGO/23
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+              Leitura Anterior:   Leitura Atual:   Dias:
+
+
+
+KWH   Ponta                                                            807,67            807,67
+
+
+
+
+                                                           * KWTG: Dem Tusdg    * K: Const Med
+
