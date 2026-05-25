@@ -1,0 +1,104 @@
+JOSEFA BATISTA IRMA
+RUA GOV LUIZ GARCIA S/N - CENTRO
+PINHAO / SE (AG: 30)
+
+CPF/CNPJ/RANI:
+
+
+Grp/Sbg:MTC-CONVENCIONAL BAIXA TENSÃO / B1
+Cls/Sbc:RESIDENCIAL/RESIDENCIAL MONOFÁSICA
+Roteiro: 16-0140-150-6840   Medidor:D5129706868
+R$ 331,91
+
+
+
+AGO/2022
+02/09/2022
+
+             1,68kWH
+             MÉDIA DIÁRIA
+
+52 kWh
+                                         FAT U RAS E M AT RAS O
+                                         02/08/2022       323,00
+
+Sujeito a corte!
+Reaviso de vencimento:
+Seu fornecimento poderá ser suspenso a
+partir de 10/09/2022.
+Regularize seus débitos.
+3/1419464-1
+Descrição                              Valor(R$)       %
+
+Serv Dist.                                14,30      4,31
+Compra de Energia                         12,63      3,81
+Serviço de Transmissão                     1,87      0,56
+Encargos Setoriais                         4,79      1,44
+Impostos Diretos e Encargos               18,98      5,72
+Outros Serviços                          279,34     84,16
+ Total                                   331,91    100,00
+Valor do EUSD(Ref 06/2022): R$ 23,24
+AGO/21
+SET/21
+OUT/21
+NOV/21
+DEZ/21
+ JAN/22
+FEV/22    42
+MAR/22    56
+ABR/22    44
+ MAI/22   54
+JUN/22    50
+ JUL/22   52
+  Média   50
+         LEITURAS
+Anterior 26/07/22      540 kWh
+Atual    26/08/22      592 kWh
+
+Consumo                 52 kWh
+Período                31 dias
+Constante do medidor
+                                                                 BASE                  BASE CALC.
+                                   TARIFA C/    Valor Total      CALC. Aliq.   ICMS    PIS/COFINS       PIS ($)   COFINS ($)
+ CCI Descrição             QUANT. IMPOSTOS             (R$)   ICMS(R$) ICMS     (R$)          (R$)    0,6671%       3,0729%
+601 Consumo em kWh             52   0,818180         42,54        42,54 18        7,65        34,88       0,23          1,07
+     LANÇAMENTOS E SERVIÇOS
+899 ATUALIZAÇÃO MONETÁRIA 06/2022                     0,31               0
+899 PARCELAMENTO DEB. 06/6                          279,34               0
+805 MULTA 06/2022                                     6,63               0
+804 JUROS DE MORA 06/2022                             3,09               0
+
+
+
+
+CCI: Código de Classificação do Item   Total:       331,91       42,54           7,65         34,88       0,23          1,07
+META                                                        MENSAL    APURADO TRIMEST.   ANUAL
+Horas que o cliente ficou sem energisa - DIC                  10,00       0,00  999,00   999,00
+Vezes em que o cliente ficou sem energia - FIC                 4,00       0,00  999,00   999,00
+Duração da maior interrupção de energia no período - DMIC      7,00       0,00
+Duração da interrupção individual em dia crítico - DICRI      13,00
+                                                                                       SEGUNDA VIA DE CONTA
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 10/09/2022. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
+-Atenção: A responsabilidade pela iluminação pública é da prefeitura do município.
+Problemas com Iluminação Pública, contate a Prefeitura local de seu município.
+-Redução tarifária média -4,47%, vigência 13/07/22, conf. REH Nº 3.063/2022 ANEEL.
+BANCO DO BRASIL PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL
+CONTA PAGA - Data de Pagamento: 03/10/2022
+PAGADOR:JOSEFA BATISTA IRMA CNPJ/CPF: 591.602.335-91
+RUA GOV LUIZ GARCIA S/N - CENTRO - PINHAO / SE
+Nosso-Número         Nr Documento         Data de Vencimento Valor do Documento   Valor Pago
+32689190041639874 1419464-2022-08-6            02/09/2022    331,91
+BENEFICIÁRIO:ENERGISA SERGIPE-DISTRIB.ENERGIA SA                  13.017.462/0001-63
+RUA MIN APOLONIO SALES, 00081 - - INACIO BARBOSA - ARACAJU / SE - CEP 49040-150
+
+Agência / Código do Beneficiário:3064-3/178003-4
+

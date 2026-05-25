@@ -1,0 +1,102 @@
+Domicílio de Entrega:
+PM AGUIAR CENTRO ADMINISTRATIVO
+RUA BOA VISTA SN
+
+
+AGUIAR (AG: 144)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 009 - 0149 - 400 - 7580
+Nº do Medidor: 00009061265
+MATRÍCULA: 136660-2020-1-2
+DOM. ENT.: 9999149001
+PM AGUIAR CENTRO ADMINISTRATIVO
+RUA IRINEU LACERDA, S/N - 58778000
+CENTRO
+AGUIAR-PB (AG: 144)
+                                               ENER
+                                     Br 230, Km 25 -
+
+
+ LIGAÇÃO: TRIFASICO
+ DOM. BANC.:
+ CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+ Insc. Est.:
+               Emissão: 16/01/2020         Identificador para Débito Automático:   0000136660-8
+
+
+
+Janeiro/2020   03/02/2020            13/02/2020                    5/136660-8
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        946,00   0,545400        0,785840        743,41        743,41    25     185,85          743,41       7,42        34,19
+0601 Adic. B. Amarela                                                                18,30         18,30    25       4,57           18,30       0,18         0,84
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              761,71        761,70           190,42          761,70       7,60        35,03
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                            202,69
+                                                        %
+                                                       26,60   2
+COMPRA DE ENERGIA                           265,39     34,84
+SERVIÇO DE TRANSMISSÃO                       30,13      3,96
+ENCARGOS SETORIAIS                           30,45      4,00
+IMPOSTOS DIRETOS E ENCARGOS                 233,05     30,60
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                         761,71    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 427,20
+23/02/2020   R$ 761,71
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   136660-2020-1-2           23/02/2020         37485448      R$ 761,71
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         946
+DEZ/19        1278
+NOV/19        1341
+OUT/19        1219
+SET/19        1064
+AGO/19         790
+JUL/19         826
+JUN/19         975
+MAI/19        1039
+ABR/19         925
+MAR/19         100
+FEV/19         100
+JAN/19         100
+Leitura: 16/12/2019 a 15/01/2020 Dias: 30
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P          10.403,00      9.457,00    1            0                                 946,00            946,00
+VENCIMENTO   VALOR (R$)
+DIC MENSAL        6,87       0,00
+DIC TRIMESTRAL   13,74
+DIC ANUAL        27,48
+FIC MENSAL        3,61       0,00
+FIC TRIMESTRAL    7,22
+FIC ANUAL        14,45
+DMIC              3,97       0,00
+DICRI            12,22
+
+
+
+Conjunto: Piancó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 350 a 399
+

@@ -1,14 +1,142 @@
 import re
 
+
 from texter_utils import (Index, Index_duplo, Linha, Apagar_linhas, Juntar,
                           Linha_para_Vetor, Justificar, formatar_e_alinhar_tabela,
                           normalizar_tipo_fornecimento,
-                          marcadores, fornecimento, aba_info_geral, aba_historico_consumo)
+                          marcadores, fornecimento)
 
 
 def index_sigla_isolada(texto, sigla):
     padrao = re.compile(rf"^\s*{re.escape(sigla)}\s*$")
     return [i for i, linha in enumerate(texto.splitlines()) if padrao.match(linha)]
+
+
+def _extrair_matriz_info_geral(texto):
+    info = ["UNIDADE:", "FORNECIMENTO:", "CLASSIFICAÇÃO:", "DESTINO:", "DADOS_DE_MEDIÇÃO:"]
+    info = [termo for termo in info if termo in texto]
+    vetor = []
+
+    for i in range(0, len(info)):
+        for e in range(1, len(Linha_para_Vetor(texto, Index(texto, info[i])[0]))):
+            vetor.append(Linha_para_Vetor(texto, Index(texto, info[i])[0])[e])
+            if info[i] == "DESTINO:":
+                vetor = vetor[:6] + [" ".join(vetor[6:])]
+            if info[i] == "DADOS_DE_MEDIÇÃO:":
+                vetor = vetor[:8]
+
+    return vetor
+
+
+def _extrair_linha_historico(texto):
+    index = Index(texto, "HISTÓRICO_DE_CONSUMO:")
+    if not index:
+        return []
+
+    info = ["UNIDADE:", "FORNECIMENTO:", "CLASSIFICAÇÃO:", "DESTINO:", "DADOS_DE_MEDIÇÃO:"]
+    info = [termo for termo in info if termo in texto]
+    if not info:
+        return []
+
+    vetor = ["SEM_UC"]
+
+    for i in range(index[0] + 1, index[0] + 13):
+        linha = Linha_para_Vetor(texto, i)
+        if len(linha) == 1:
+            linha.append("UNK")
+        vetor.append((linha[0], linha[1]))
+
+    return vetor
+
+
+def _extrair_uc_documento(texto, filename=None):
+    if filename:
+        padrao_nome = re.search(r"_(\d+)-(\d+)-(\d+)_L\d+_Poppler", filename, flags=re.IGNORECASE)
+        if padrao_nome:
+            return f"{padrao_nome.group(1)}/{padrao_nome.group(2)}-{padrao_nome.group(3)}"
+
+    padrao_texto = re.search(r"\b(\d+)/(\d+)-(\d+)\b", texto)
+    if padrao_texto:
+        return f"{padrao_texto.group(1)}/{padrao_texto.group(2)}-{padrao_texto.group(3)}"
+
+    padrao_nome_simples = re.search(r"_(\d+)/(\d+)-(\d+)_", filename or "")
+    if padrao_nome_simples:
+        return f"{padrao_nome_simples.group(1)}/{padrao_nome_simples.group(2)}-{padrao_nome_simples.group(3)}"
+
+    return "SEM_UC"
+
+
+def _extrair_referencia_documento(texto, filename=None):
+    if filename:
+        padrao_nome = re.search(r"_([A-Z]{3})[-_/](\d{4})_", filename, flags=re.IGNORECASE)
+        if padrao_nome:
+            mes = padrao_nome.group(1).upper()
+            ano = padrao_nome.group(2)
+            return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
+
+        padrao_nome_2 = re.search(r"_([A-Z]{3})[-_/](\d{2,4})_", filename, flags=re.IGNORECASE)
+        if padrao_nome_2:
+            mes = padrao_nome_2.group(1).upper()
+            ano = padrao_nome_2.group(2)
+            return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
+
+    padrao_texto = re.search(r"\b([A-Z]{3})\s*/\s*(\d{2,4})\b", texto, flags=re.IGNORECASE)
+    if padrao_texto:
+        mes = padrao_texto.group(1).upper()
+        ano = padrao_texto.group(2)
+        return f"{mes}/{ano[-2:]}" if len(ano) == 4 else f"{mes}/{ano}"
+
+    return "SEM_REFERENCIA"
+
+
+def _extrair_cliente_e_endereco(texto):
+    linhas = texto.splitlines()
+    marcadores = (
+        "Grupo/Subgp.",
+        "Grupo/Subgp.:",
+        "GRUPO/SUBGRP.",
+        "Classificação:",
+        "CLASSIFICAÇÃO:",
+        "LIGAÇÃO:",
+    )
+
+    limite = len(linhas)
+    for indice, linha in enumerate(linhas):
+        if any(marcador in linha for marcador in marcadores):
+            limite = indice
+            break
+
+    bloco = [linha.strip() for linha in linhas[:limite] if linha.strip()]
+    bloco = [linha for linha in bloco if linha not in {"\f"}]
+
+    cliente = bloco[0] if len(bloco) >= 1 else ""
+    endereco = bloco[1] if len(bloco) >= 2 else ""
+
+    return cliente, endereco
+
+
+def _extrair_numero_medidor(texto):
+    padroes = (
+        r"\b(?:N[ºo\.]?\s*do\s*Medidor|N[ºo\.]?\s*MEDIDOR|MEDIDOR|Medidor|MATR[ÍI]CULA)\s*:\s*(.+)$",
+    )
+
+    for linha in texto.splitlines():
+        for padrao in padroes:
+            match = re.search(padrao, linha, flags=re.IGNORECASE)
+            if not match:
+                continue
+
+            valor_bruto = match.group(1).strip()
+            if not valor_bruto:
+                continue
+
+            valor = re.split(r"\s+(?:Emiss[ãa]o|DOM\.?|REFER[ÊE]NCIA|Roteiro|Classe|Grupo|CNPJ|CPF|Insc\.?|Matr[íi]cula)\b", valor_bruto, maxsplit=1, flags=re.IGNORECASE)[0].strip()
+            valor = valor.split()[0].strip() if valor else ""
+
+            if valor and re.search(r"\d", valor):
+                return valor
+
+    return ""
 
 # ============================================================== #
 # EXECUÇÃO - ENERGISA
@@ -17,6 +145,7 @@ def index_sigla_isolada(texto, sigla):
 def format_energisa(texto, filename=None):
     # IDENTIFICADOR DE LAYOUT
     layout = None
+    texto_original = texto
     if filename:
         match = re.search(r'_L([1-7])', filename)
         if match:
@@ -311,32 +440,30 @@ def format_energisa(texto, filename=None):
     texto = texto.replace(' v ','  ')
     texto = texto.replace('TENSÃO / ','TENSÃO\t')
 
-    # FORMAÇÃO DA MATRIZ DE IDENTIFICAÇÃO
-    # Essa é a primeira aba da planilha que será gerada, e tem como ojetivo servir de guia de UCs do município além de facilitar a análise de Enquadramento.
+    # MATRIZES POR FATURA
+    matriz_info_geral = _extrair_matriz_info_geral(texto)
+    uc = _extrair_uc_documento(texto_original, filename)
+    referencia = _extrair_referencia_documento(texto_original, filename)
+    matriz_historico_consumo = _extrair_linha_historico(texto)
+    if matriz_historico_consumo:
+        matriz_historico_consumo[0] = uc
 
-    
-    info = ["UNIDADE:","FORNECIMENTO:","CLASSIFICAÇÃO:","DESTINO:","DADOS_DE_MEDIÇÃO:"]
-    info = [termo for termo in info if termo in texto]
-    vetor = []
+    cliente, endereco_entrega = _extrair_cliente_e_endereco(texto_original)
+    numero_medidor = _extrair_numero_medidor(texto_original)
 
-    for i in range(0, len(info)):
-        for e in range(1, len(Linha_para_Vetor(texto, Index(texto, info[i])[0]))):
-            vetor.append(Linha_para_Vetor(texto, Index(texto, info[i])[0])[e])
-            if info[i] == "DESTINO:":
-                vetor = vetor[:6] + [" ".join(vetor[6:])]
-            if info[i] == "DADOS_DE_MEDIÇÃO:":
-                vetor = vetor[:8] 
-    if any(linha[0] == vetor[0] for linha in aba_info_geral) == False:
-        aba_info_geral.append(vetor)
-    
-    aba_historico_consumo
-    vetor = []
-    index = Index(texto,"HISTÓRICO_DE_CONSUMO:")
-    vetor.append(Linha_para_Vetor(texto,Index(texto,info[0])[0])[1])
-    for i in range(index[0]+1,index[0]+13):
-        linha = Linha_para_Vetor(texto,i)
-        if len(linha) == 1:
-            linha.append("UNK")
-        vetor.append((linha[0],linha[1]))
-    aba_historico_consumo.append(vetor)
-    return texto
+    classificacao = matriz_info_geral[4] if len(matriz_info_geral) > 4 else ""
+    tipo_fornecimento = matriz_info_geral[1] if len(matriz_info_geral) > 1 else ""
+
+    return {
+        "arquivo": filename,
+        "uc": uc,
+        "referencia": referencia,
+        "classificacao": classificacao,
+        "tipo_fornecimento": tipo_fornecimento,
+        "cliente": cliente,
+        "endereco_entrega": endereco_entrega,
+        "numero_medidor": numero_medidor,
+        "info_geral": matriz_info_geral,
+        "historico_consumo": matriz_historico_consumo,
+        "texto": texto,
+    }

@@ -1,0 +1,113 @@
+ESCOLA MUNICIPAL ISMAEL TRINDADE
+
+DOMICÍLIO DE ENTREGA
+ESCOLA MUNICIPAL ISMAEL TRINDADE
+RUA SIMAO DIAS S/N
+PINHAO (AG: 30)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0140 - 600 - 0901                         LIGAÇÃO: BIFASICO
+Nº DO MEDIDOR: W6005620344                            DOM. BANC.:
+MATRÍCULA: 566106-2021-9-6                             DOM. ENT.: 140
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ASSENT VARZEA BARRIS, S/N - RUA 1 ESCOLA
+AREA RURAL
+PINHAO (AG: 30)
+
+
+
+                                                                        0000566106-1
+3/566106-1
+              R$ 49,62
+
+
+              Setembro/2021
+CNPJ/CPF/RANI: 1X.XXX.XXX/XXX1-67
+Insc. Est.:
+21/10/2021
+               1,80 kWh
+             MÉDIA DIÁRIA
+54 kWh
+27/09/2021   04/10/2021   25/10/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         54,00    0,580440    0,735340       39,70         39,70   18      7,14           32,56        0,21          1,00
+0601 Adic. B. Vermelha                                                           9,05          9,05   18      1,63            7,42        0,05          0,22
+     LANÇAMENTOS E SERVIÇOS
+0805 MULTA 08/2021                                                               0,86                 0       0,00            0,00        0,00          0,00
+0804 JUROS DE MORA 08/2021                                                       0,01                 0       0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          49,62         48,75           8,77           39,98        0,26          1,22
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   566106-2021-9-6           21/10/2021         39035167       R$ 49,62
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- -Atenção: A responsabilidade pela iluminação pública é da prefeitura do município.
+- -Violência contra mulher é crime, denuncie! Ligue 180 ou procure o Ministério
+- -Público. Precisa de apoio emocional? Ligue 188 e fale com o CVV - Centro de
+- -Valorização da Vida.
+DIC         11,01    0,00   22,03    44,07
+FIC          7,59    0,00   15,19    30,39
+DMIC         5,98    0,00
+DICRI       16,60
+
+
+Conjunto:    FREI PAULO
+
+Referência:                     07/2021
+Tensão Contratada:
+Limite Adequado:               117 a 133
+Serviço de distribuição                     12,43 25,05
+Compra de energia                           20,76 41,84
+Serviço de transmissão                       2,01   4,05
+Encargos setoriais                           3,30   6,65
+Impostos diretos e encargos                 11,12 22,41
+Outros serviços                              0,00   0,00
+Total                                       49,62 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 07/2021): R$ 20,77
+- Acionada a bandeira tarifária denominada escassez hídrica em
+R$14,20 a cada 100 quilowatts-hora (kWh) consumidos, exceto para
+os clientes de baixa renda inscritos na tarifa social, os quais
+devem permanecer na sistemática de bandeira vermelha patamar 2,
+sem alteração de valores. Conforme resolução CREG nº 3,
+de 31/08/21.
+7   SET/21     54,00
+9   AGO/21     47,00
+    JUL/21     60,00
+    JUN/21     53,00
+    MAI/21     45,00
+    ABR/21     65,00
+    MAR/21     61,00
+    FEV/21     81,00
+    JAN/21     81,00
+    DEZ/20     60,00
+    NOV/20     60,00
+    OUT/20     81,00
+    SET/20     72,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 25/08/2021   Leitura Atual: 24/09/2021   Dias: 30
+
+
+KWH   Ponta   7.514,00     7.460,00      1              0                                   54,00          54,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

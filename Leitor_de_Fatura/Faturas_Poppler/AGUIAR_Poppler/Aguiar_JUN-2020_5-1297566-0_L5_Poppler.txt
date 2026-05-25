@@ -1,0 +1,102 @@
+EMEF JOSE CICERO DE LACERDA AGUIAR
+
+DOMICÍLIO DE ENTREGA
+EMEF JOSE CICERO DE LACERDA AGUIAR
+RUA BOA VISTA S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 010 - 0149 - 473 - 3200                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00001151944                          DOM. BANC.:
+MATRÍCULA: 1297566-2020-6-3                          DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT SERRA DE SAO PEDRO, S/N
+AREA RURAL
+AGUIAR (AG: 144)
+
+
+
+                                                                   0001297566-0
+5/1297566-0
+              R$ 71,81
+
+
+              Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+23/07/2020
+               3,29 kWh
+             MÉDIA DIÁRIA
+92 kWh
+17/06/2020   08/07/2020   16/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Consumo em kWh                         92,00    0,545400    0,780560       71,81         71,81   25      17,95          71,81        0,65          3,02
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          71,81         71,81           17,95          71,81        0,65          3,02
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1297566-2020-6-3           23/07/2020         46224097       R$ 71,81
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+DIC         11,94     0,00   23,89   47,79
+FIC          7,89     0,00   15,79   31,58
+DMIC         6,59     0,00
+DICRI       16,60
+
+
+Conjunto:    Piancó
+
+Referência:                      04/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                     19,71 27,44
+Compra de energia                           24,58 34,23
+Serviço de transmissão                       2,93   4,08
+Encargos setoriais                           2,97   4,14
+Impostos diretos e encargos                 21,62   30,11
+Outros serviços                              0,00   0,00
+Total                                       71,81 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 04/2020): R$ 33,13
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+9   JUN/20     92,00
+8   MAI/20    105,00
+    ABR/20    104,00
+    MAR/20    109,00
+    FEV/20    118,00
+    JAN/20     87,00
+    DEZ/19    108,00
+    NOV/19    132,00
+    OUT/19    133,00
+    SET/19    126,00
+    AGO/19    110,00
+    JUL/19    100,00
+    JUN/19    121,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                Leitura Anterior: 19/05/2020   Leitura Atual: 16/06/2020   Dias: 28
+
+
+KWH   Ponta   7.401,00     7.309,00      1                                                  92,00          92,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

@@ -2,23 +2,22 @@
 # LAUNCHER DO INTEGRALAISER
 # ============================================================== #
 
+# Importa as bibliotecas
 import sys
 from pathlib import Path
 
-
+# garante que ele funcione na pasta onde ele estiver
 if getattr(sys, "frozen", False):
     DIRETORIO_BASE = Path(sys.executable).resolve().parent
 else:
     DIRETORIO_BASE = Path(__file__).resolve().parent
-
 SCRIPTS_DIR = DIRETORIO_BASE / "Scripts"
-
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
+# Importa o Cropper e o Texter
 from Scripts import Cropper
 from Scripts import Texter
-
 
 # ============================================================== #
 # FUNÇÕES
@@ -26,6 +25,7 @@ from Scripts import Texter
 
 def integralaiser_main():
     while True:
+        # Cabeçalho e opções
         print("\n" + "=" * 40)
         print("      SISTEMA INTEGRALAISER v1.3")
         print("=" * 40)
@@ -33,9 +33,9 @@ def integralaiser_main():
         print("2. [TEXTER]      - Formatar Dados Extraídos")
         print("0. Sair")
         print("-" * 40)
-
         opcao = input("Escolha a etapa para execução: ")
 
+        # executa o Cropper
         if opcao == "1":
             print("\n>>> INICIANDO CROPPER (RECORTE)...")
             try:
@@ -44,6 +44,7 @@ def integralaiser_main():
             except Exception as e:
                 print(f"\n[ERRO NO CROPPER]: {e}")
 
+        # Executa o Texter
         elif opcao == "2":
             print("\n>>> INICIANDO TEXTER (FORMATAÇÃO)...")
             try:
@@ -52,6 +53,7 @@ def integralaiser_main():
             except Exception as e:
                 print(f"\n[ERRO NO TEXTER]: {e}")
 
+        # Sai do programa
         elif opcao == "0":
             print("Encerrando Integralaiser. Até logo!")
             break

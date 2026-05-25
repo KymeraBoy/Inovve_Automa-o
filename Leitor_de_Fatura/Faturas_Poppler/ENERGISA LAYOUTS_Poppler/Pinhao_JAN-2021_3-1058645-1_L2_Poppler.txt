@@ -1,0 +1,97 @@
+PREFEITURA MUNICIPAL DE PINHAO
+POV BEIJA FLOR DE BAIXO S/N - AREA RURAL
+PINHAO / SE (AG: 30)
+
+CPF/CNPJ/RANI:
+
+
+Grp/Sbg:MTC-CONVENCIONAL BAIXA TENSÃO / B1
+Cls/Sbc:RESIDENCIAL/RESIDENCIAL BIFÁSICA
+Roteiro: 15-0140-420-0987    Medidor:W6008184201   3/
+3/1058645-1
+R$ 29,11
+
+
+
+JAN/2021
+29/01/2021
+
+             0kWH
+             MÉDIA DIÁRIA
+
+0 kWh
+Descrição                              Valor(R$)       %
+
+Serv Dist.                                10,53     36,17
+Compra de Energia                         14,17     48,68
+Serviço de Transmissão                     1,35      4,64
+Encargos Setoriais                         1,98      6,80
+Impostos Diretos e Encargos                1,08      3,71
+Outros Serviços                            0,00      0,00
+ Total                                    29,11    100,00
+Valor do EUSD(Ref 11/2020): R$ 15,31
+ JAN/20   143
+FEV/20    185
+MAR/20    77    *
+ABR/20    5     *
+ MAI/20   2
+JUN/20    2     *
+ JUL/20   3     *
+AGO/20    66    *
+SET/20    19    *
+OUT/20    0
+NOV/20    0
+DEZ/20    0
+  Média   42
+         LEITURAS
+Anterior 24/12/20      5507 kWh
+Atual    22/01/21      5507 kWh
+
+Consumo                   0 kWh
+Período                 29 dias
+Constante do medidor
+                                                                       BASE                    BASE CALC.
+                                         TARIFA C/    Valor Total      CALC. Aliq.   ICMS                      PIS ($)   COFINS ($)
+                                                                                               PIS/COFINS
+CCI Descrição                    QUANT. IMPOSTOS             (R$)   ICMS(R$) ICMS     (R$)                   0,6671%       3,0729%
+                                                                                                      (R$)
+601   Custo de Disponibilidade                             27,81           0   0        0,00         27,81       0,19          0,85
+601   Adic. B. Amarela                                      0,53           0   0        0,00          0,53          0          0,02
+601   Adic. B. Vermelha                                     0,77           0   0        0,00          0,77          0          0,02
+
+
+
+
+CCI: Código de Classificação do Item         Total:        29,11           0            0,00         29,11       0,19          0,89
+META                                                        MENSAL    APURADO TRIMEST.   ANUAL
+Horas que o cliente ficou sem energisa - DIC                  11,01       1,70   22,03    44,07
+Vezes em que o cliente ficou sem energia - FIC                 7,59       2,00   15,19    30,39
+Duração da maior interrupção de energia no período - DMIC      5,98       1,63
+Duração da interrupção individual em dia crítico - DICRI      16,60
+                                                                                     SEGUNDA VIA DE CONTA
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e
+Whatsapp (79)98101-0715.
+
+-Atenção: A responsabilidade pela iluminação pública é da prefeitura do município.
+Problemas com Iluminação Pública, contate a Prefeitura local de seu município.
+- LEITURA INFORMADA PELO CLIENTE
+                                   ENERGISA SERGIPE-DISTRIB.ENERGIA SA
+                                   Rua Min Apolonio Sales, 81 - Inacio Barbosa
+                                          Aracaju / SE - CEP 49040-150
+                                 CNPJ 13.017.462/0001-63 Insc.Est. 270.767.436
+                    Nota Fiscal/Conta de Energia Elétrica Nº 031.587.564 - Emissão: 21/01/2021
+            >>>PAGAR
+BANCO DO BRASIL CONTA  VÁLIDA SOMENTENO
+                     PREFERENCIALMENTE PARA CONFERÊNCIA
+                                         BANCO DO BRASIL <<<
+CONTA PAGA - Data de Pagamento: 28/01/2021
+PAGADOR:PREFEITURA MUNICIPAL DE PINHAO CNPJ/CPF: 13.100.680/0001-67
+POV BEIJA FLOR DE BAIXO S/N - AREA RURAL - PINHAO / SE
+Nosso-Número         Nr Documento         Data de Vencimento Valor do Documento          Valor Pago
+32689190025263494 1058645-2021-01-3            29/01/2021      29,11
+BENEFICIÁRIO:ENERGISA SERGIPE-DISTRIB.ENERGIA SA                  13.017.462/0001-63
+RUA MIN APOLONIO SALES, 00081 - - INACIO BARBOSA - ARACAJU / SE - CEP 49040-150
+
+Agência / Código do Beneficiário:3064-3/178003-4
+

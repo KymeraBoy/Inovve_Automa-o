@@ -1,0 +1,121 @@
+EMEF JOANA LACERDA LEITE AGUIAR
+
+DOMICÍLIO DE ENTREGA
+EMEF JOANA LACERDA LEITE AGUIAR
+RUA BOA VISTA S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 400 - 0180                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008478220                          DOM. BANC.:
+MATRÍCULA: 888885-2020-12-2                          DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ANTONIO ALVES DE ALMEIDA, S/N
+CENTRO
+AGUIAR (AG: 144)
+
+
+
+                                                                   0000888885-1
+5/888885-1
+          R$ 250,91
+
+
+          Dezembro/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.: 000XXXXXX
+23/01/2021
+               9,90 kWh
+             MÉDIA DIÁRIA
+297 kWh
+                               FATURAS EM ATRASO
+                              23/12/2020     243,68
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+27/01/2021.
+Regularize seus débitos.
+17/12/2020   12/01/2021   14/01/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
+0601 Consumo em kWh                        297,00    0,562110    0,797710      236,92        236,92   25      59,23         181,21        1,92          8,83
+0601 Adic. B. Vermelha                                                          13,99         13,99   25       3,49          10,70        0,11          0,52
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         250,91        250,91           62,72         191,91        2,03          9,35
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  888885-2020-12-2           23/01/2021         55637579      R$ 250,91
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
+atraso, o fornecimento poderá ser suspenso a partir de 27/01/2021. Conforme
+Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
+da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
+contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
+- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
+- na base de cálculo das contribuições no faturamento esse mês será de (- 94,0457%).
+- Leitura confirmada
+DIC          6,47     0,60   12,94   25,89
+FIC          3,55     2,00    7,10   14,20
+DMIC         3,80     0,40
+DICRI       12,22
+
+
+Conjunto:    Piancó
+
+Referência:                      10/2020
+Tensão Contratada:
+Limite Adequado:               202 a 231
+Serviço de distribuição                      65,12 25,96
+Compra de energia                            85,79 34,19
+Serviço de transmissão                       12,34   4,92
+Encargos setoriais                           13,56   5,40
+Impostos diretos e encargos                  74,10 29,53
+Outros serviços                               0,00   0,00
+Total                                       250,91 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2020): R$ 10,31
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+9   DEZ/20    297,00
+0   NOV/20    308,00
+    OUT/20      0,00 *
+    SET/20     30,00 *
+    AGO/20      0,00
+    JUL/20    161,00 *
+    JUN/20    166,00 *
+    MAI/20    170,00 *
+    ABR/20     85,00
+    MAR/20    209,00
+    FEV/20     50,00
+    JAN/20     21,00
+    DEZ/19    230,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+                 Leitura Anterior: 16/11/2020   Leitura Atual: 16/12/2020   Dias: 30
+
+
+KWH   Ponta   32.306,00    32.009,00      1              0                                  297,00         297,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

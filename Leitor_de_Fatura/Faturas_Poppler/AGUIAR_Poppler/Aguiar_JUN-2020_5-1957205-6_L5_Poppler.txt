@@ -1,0 +1,98 @@
+PM AGUIAR CEMITERIO SAO JUSTINO
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR CEMITERIO SAO JUSTINO
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 400 - 8956                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: D5045716752                          DOM. BANC.:
+MATRÍCULA: 1957205-2020-6-9                          DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT ALAGAMAR, 0
+AREA RURAL
+AGUIAR (AG: 144)
+
+
+
+                                                                   0001957205-6
+5/1957205-6
+              R$ 23,41
+
+
+              Junho/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+23/07/2020
+               1,07 kWh
+             MÉDIA DIÁRIA
+30 kWh
+16/06/2020   08/07/2020   15/07/2020
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
+0601 Custo de Disponibilidade                                                   23,41         23,41   25      5,85           23,41        0,21          0,98
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          23,41         23,41           5,85           23,41        0,21          0,98
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1957205-2020-6-9           23/07/2020         46137441       R$ 23,41
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Imóvel desocupado com acesso ao medidor
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+Serviço de distribuição        6,42 27,43
+Compra de energia              8,02 34,26
+Serviço de transmissão         0,96   4,10
+Encargos setoriais             0,97   4,14
+Impostos diretos e encargos    7,04 30,07
+Outros serviços                0,00   0,00
+Total                         23,41 100,00
+- Para preservar sua saúde, a Energisa está pronta para te
+atender pelos canais virtuais: site, App Energisa ON e Whatsapp
+(83) 99135-5540.
+JUN/20      0,00 *
+MAI/20      0,00 *
+ABR/20      0,00 *
+MAR/20      0,00 *
+FEV/20      0,00 *
+JAN/20      0,00 *
+DEZ/19      0,00 *
+NOV/19
+OUT/19
+SET/19
+AGO/19
+JUL/19
+JUN/19
+
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+Leitura Anterior: 18/05/2020   Leitura Atual: 15/06/2020   Dias: 28
+
+
+
+
+                                                                      * K : Constante do Medidor
+

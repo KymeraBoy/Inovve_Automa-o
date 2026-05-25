@@ -1,0 +1,103 @@
+Domicílio de Entrega:
+PM AGUIAR UNIDADE DE SAUDE DR ANDRE
+RUA BOA VISTA SN
+
+
+AGUIAR (AG: 144)
+Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
+Roteiro: 010 - 0149 - 457 - 1400
+Nº do Medidor: 00008541179
+MATRÍCULA: 880258-2020-1-3
+DOM. ENT.: 9999149003
+PM AGUIAR UNIDADE DE SAUDE DR ANDRE
+SIT RIACHO VERDE, S/N - 58778000
+AREA RURAL
+AGUIAR-PB (AG: 144)
+                                                ENER
+                                      Br 230, Km 25 -
+
+
+ LIGAÇÃO: MONOFASICO
+ DOM. BANC.:
+ CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+ Insc. Est.: 000XXXXXX
+               Emissão: 17/01/2020         Identificador para Débito Automático:   0000880258-9
+
+
+
+Janeiro/2020   03/02/2020            14/02/2020                    5/880258-9
+                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
+CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
+0601 Consumo em kWh                        232,00   0,545400        0,785840        182,31        182,31    25     45,57          182,31       1,82         8,38
+0601 Adic. B. Amarela                                                                 4,48          4,48    25      1,12            4,48       0,04         0,21
+
+
+
+
+CCI: Código de Classificação do Item                            Total:              186,79        186,79           46,69          186,79       1,86         8,59
+         DISCRIMINAÇÃO
+SERVIÇO DISTRIBUIÇÃO
+                                       VALOR (R$)
+                                             49,71
+                                                        %
+                                                       26,61   2
+COMPRA DE ENERGIA                            65,08     34,84
+SERVIÇO DE TRANSMISSÃO                         7,39     3,96
+ENCARGOS SETORIAIS                             7,47     4,00
+IMPOSTOS DIRETOS E ENCARGOS                  57,14     30,59
+OUTROS SERVIÇOS                                0,00     0,00
+              TOTAL                         186,79    100,00
+- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 154,82
+23/02/2020   R$ 186,79
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
+   880258-2020-1-3           23/02/2020         37656428      R$ 186,79
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+- Aproveite o 13º e regularize suas contas em atraso: podemos
+negociar para você começar o ano novo numa boa!
+                             HISTÓRICO DE CONSUMO (kWh)
+
+ MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
+
+
+JAN/20         232
+DEZ/19         468
+NOV/19         486
+OUT/19         450
+SET/19         380
+AGO/19         195
+JUL/19         242
+JUN/19         349
+MAI/19         369
+ABR/19         431
+MAR/19         389
+FEV/19         465
+JAN/19         295
+Leitura: 17/12/2019 a 16/01/2020 Dias: 30
+
+                                    Dados da leitura                                       Dados do consumo
+  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
+KWH    P          20.605,00     20.373,00    1            0                                 232,00            232,00
+VENCIMENTO   VALOR (R$)
+- Leitura confirmada
+DIC MENSAL       12,35       0,00
+DIC TRIMESTRAL   24,71
+DIC ANUAL        49,42
+FIC MENSAL        7,97       0,00
+FIC TRIMESTRAL   15,94
+FIC ANUAL        31,88
+DMIC              6,79       0,00
+DICRI            16,60
+
+
+
+Conjunto: Piancó
+Referência: 11/2019
+Tensão Contratada:
+Limite Adequado: 202 a 231
+
