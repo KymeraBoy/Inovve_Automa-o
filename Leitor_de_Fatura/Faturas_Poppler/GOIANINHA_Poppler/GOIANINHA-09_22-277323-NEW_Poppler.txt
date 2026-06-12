@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI MIRANDA 294 B
+ ESCOLA MUNICIPAL
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+277323
+CÓDIGO DO CLIENTE
+7003937440
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+       1195
+ 33
+AGO22
+        978
+ 30
+JUL22
+        679
+ 29
+JUN22
+        874
+ 32
+MAI22
+       1531
+ 30
+ABR22
+       1307
+ 32
+MAR22
+       1362
+ 31
+FEV22
+        620
+ 28
+JAN22
+        372
+ 32
+DEZ21
+       1042
+ 29
+NOV21
+        845
+ 29
+OUT21
+        738
+ 30
+SET21
+        511
+ 32
+
+CONSUMO
+kWh
+1.195,00 
+  329,00 
+
+Consumo-TUSD
+kWh
+        1.195,00 
+ 0,48824225 
+           583,44 
+            24,88 
+           583,44 
+18,00
+           105,02 
+ 0,37954000
+Consumo-TE
+kWh
+        1.195,00 
+ 0,36317793 
+           433,99 
+            18,49 
+           433,99 
+18,00
+            78,11 
+ 0,28232000
+Ilum. Púb. Municipal
+            94,91 
+Multa-NF 084824846
+            16,56 
+Multa-NF 083226121
+            11,63 
+Juros-NF 083226121
+             1,54 
+Juros-NF 084824846
+             0,54 
+IPCA-NF-083226121
+             1,31 
+TOTAL
+         1.143,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

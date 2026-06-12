@@ -1,0 +1,88 @@
+CONTA CONTRATO
+7016227816
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2831334
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JATOBA 53791
+NOVO HORIZONTE/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        969
+JUN 22
+        876
+MAI 22
+       1020
+ABR 22
+        896
+MAR 22
+        947
+FEV 22
+        818
+JAN 22
+        907
+DEZ 21
+        912
+NOV 21
+        828
+OUT 21
+        915
+SET 21
+        934
+AGO 21
+       1040
+JUL 21
+        985
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  969,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       969,0000000 
+ 0,49475600 
+           479,41 
+Consumo Ativo(kWh)-TE                        
+       969,0000000 
+ 0,36759713 
+           356,20 
+Contrib. Ilum. Pública Municipal             
+            78,08 
+Multa por atraso-NF 081654384 - 28/06/22     
+            14,95 
+Juros por atraso-NF 081654384 - 28/06/22     
+             0,24 
+Atualizacao IPCA-NF 078485683 - 28.04.22     
+             8,03 
+TOTAL DA FATURA
+           936,91 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7016227816
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           936,91 
+VENCIMENTO
+22/08/2022

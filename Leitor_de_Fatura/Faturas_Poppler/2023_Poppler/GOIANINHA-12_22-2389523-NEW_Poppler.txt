@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA DOUTOR ANTONIO DE SOUZA 400
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+12/2022
+
+CÓDIGO DA INSTALAÇÃO
+2389523
+CÓDIGO DO CLIENTE
+7007153842
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ22
+        161
+ 29
+NOV22
+        166
+ 30
+OUT22
+        181
+ 32
+SET22
+        166
+ 30
+AGO22
+        174
+ 30
+JUL22
+        204
+ 32
+JUN22
+        173
+ 29
+MAI22
+        168
+ 30
+ABR22
+        186
+ 32
+MAR22
+        162
+ 29
+FEV22
+        168
+ 30
+JAN22
+        170
+ 32
+DEZ21
+        162
+ 29
+
+CONSUMO
+kWh
+  161,00 
+
+Consumo-TUSD
+kWh
+          161,00 
+ 0,49062291 
+            78,99 
+             3,68 
+            78,99 
+18,00
+            14,22 
+ 0,37954000
+Consumo-TE
+kWh
+          161,00 
+ 0,36494878 
+            58,75 
+             2,71 
+            58,75 
+18,00
+            10,57 
+ 0,28232000
+Ilum. Púb. Municipal
+            15,98 
+Multa-NF 087966285
+             3,07 
+Juros-NF 087966285
+             1,68 
+TOTAL
+           158,47 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

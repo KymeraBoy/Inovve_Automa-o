@@ -1,0 +1,181 @@
+PM ARARUNA ESCOLA MUNICIPAL DE MUQUEM
+DOMICÍLIO DE ENTREGA:
+PM ARARUNA ESCOLA MUNICIPAL DE MUQUEM
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+
+
+GRUPO/SUBGRP: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 153 - 8182                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008442380                           DOM. BANC.:
+MATRÍCULA: 1547012-2021-10-6                          DOM. ENT.: 9999062001
+ENDEREÇO DA UNIDADE CONSUMIDORA
+LOC DIST DE MUQUEM, S/N - 58233000
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+
+
+                                                                                         1
+
+                                                                              0001547012-3
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+              R$ 36,29
+
+
+           Outubro/2021
+
+CNPJ/CPF/RANI: 08.927.105/0001-00
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+23/11/2021
+               1,13 kWh
+             MÉDIA DIÁRIA
+34 kWh
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+                               FATURAS EM ATRASO
+                              23/10/2021      31,99
+Sujeito a corte!
+Reaviso de vencimento:
+Seu fornecimento poderá ser
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+    suspenso a partir de
+A   18/11/2021.
+    Regularize seus débitos.   0,00
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                              b7cf.f7bd.3a96.46ad.f5d2.08b3.ecd3.f7d7                  22/10/2021             03/11/2021                19/11/2021
+
+
+
+                                                TARIFA SEM   TARIFA COM      VALOR     BASE CALC    % ALÍQ.   ICMS        BASE CALC.      PIS (R$)   COFI
+CCI DESCRIÇÃO                     QUANTIDADE      TRIBUTOS     TRIBUTOS   TOTAL (R$)    ICMS (R$)   ICMS       (R$)   PIS/COFINS (R$)   (0,6671%)      (3
+0601 Consumo em kWh                    34,000     0,596920     0,826800       28,11        28,11      25      7,02             21,08        0,14
+0601 Adic. B. Vermelha                                                         6,68         6,68      25      1,67              5,01        0,03
+     LANÇAMENTOS E SERVIÇOS
+0807 CONTRIB ILUM PUBLICA                                                      1,50         0,00       0      0,00              0,00        0,00
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+CCI: Código de Classificação do Item                                                       TOTAL:              36,29            34,79                          8,69           26,09        0,17
+
+    BANCO DO BRASIL S A                                               001 -9       00190.00009 03268.926007 39572.251179 6 88130000003629                              Ganhe mais facilidade pagando
+     LOCAL DE PAGAMENTO                                                                                                                   VENCIMENTO
+                                                                                                                                                                                  com o PIX!
+     PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A                                                                                                    23/11/2021        Use seu app de pagamento
+     BENEFICIÁRIO                                                                                                                CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                                                                                        favorito, escolha "pagar com
+     ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                                   09.095.183/0001-40                                   PIX" e leia o código abaixo:
+     ENDEREÇO                                                                                                                             NOSSO NÚMERO
+     BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680                                                               32689260039572251
+     DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+     22/10/2021                 1547012-2021-10-6                                 DS                  N        22/10/2021                                     36,29
+                                                                                                                                          (-) DESCONTOS/
+                                          CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                           ABATIMENTOS
+     INSTRUÇÕES                                                                                                                           (-) OUTRAS
+     OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                          (+) MORA/
+     NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+     TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                          ACRÉSCIMOS
+     NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                          (=) VALOR
+                                                                                                                                          COBRADO
+
+     PAGADOR                                                                                                                                               CPF/CNPJ
+     PM ARARUNA ESCOLA MUNICIPAL DE MUQUEM                                                                                                 08.927.105/0001-00
+     LOC DIST DE MUQUEM, S/N - 58233000 ARARUNA (AG: 62)
+     SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                       AUTENTICAÇÃO MECÂNICA           Quer facilidade?
+                                                                                                                                                                       Abra sua Conta Voltz - Energisa
+                                                                                                                                                                       e tenha vantagens exclusivas!
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+ efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+ - -Reajuste tarifário médio 7,08%,a partir de 28/08/21,conf. REH nº 2.929/2021/ANEEL
+
+
+
+
+DIC         11,59      2,52      23,19     46,38   OUT/21             34
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DMIC        6,39      2,52
+DICRI      16,60
+
+
+Conjunto: Araruna
+
+Referência: 08/2021
+Tensão Contratada:
+Limite Adequado: 202 a 231
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+ erviço distribuição ENERGISAPB             6,92    19,0
+Compra de energia                          14,29    39,3
+ erviço de transmissão                      1,56     4,3
+ ncargos setoriais                          2,36     6,5
+mpostos diretos e encargos                 11,16    30,7
+Outros serviços                             0,00     0,0
+ OTAL                                      36,29   100,0
+ncargo de Uso do Sistema de Distribuição
+Ref 08/2021): R$ 10,31
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+sem alteração de valores. Conforme resolução CREG nº 3,
+de 31/08/21.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+AGO/21   21
+JUL/21   19
+JUN/21   14
+MAI/21   16
+ABR/21   40
+MAR/21   46
+FEV/21   13
+JAN/21   11
+DEZ/20   10
+NOV/20   11
+OUT/20   16
+
+
+
+
+              *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+
+
+                   Leitura Anterior: 21/09/2021   Leitura Atual: 21/10/2021   Dias: 30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+07   KWH   Ponta   6012   5978   1           34
+38
+30
+50
+75
+00
+00
+
+
+
+
+                                     * K : Constante do Med

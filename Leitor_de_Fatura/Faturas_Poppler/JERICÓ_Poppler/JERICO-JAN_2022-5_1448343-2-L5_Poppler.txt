@@ -1,100 +1,0 @@
-PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
-
-DOMICÍLIO DE ENTREGA
-PM JERICO ABASTECIMENTO DAGUA SIT GANGORRA
-RUA LOPES FIGUEIREDO 110 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0253 - 733 - 6110                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7024758114                            DOM. BANC.:
-MATRÍCULA: 1448343-2022-1-2                            DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT GANGORRA, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                     0001448343-2
-5/1448343-2
-              R$ 920,12
-
-
-              Janeiro/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/02/2022
-              29,00 kWh
-             MÉDIA DIÁRIA
-899 kWh
-19/01/2022   09/02/2022   15/02/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        899,00    0,596920    0,826800      743,30        743,30   25      185,83         557,48        3,72         17,13
-0601 Adic. B. Vermelha                                                         176,82        176,82   25       44,20         132,61        0,88          4,07
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         920,12        920,12           230,03         690,09        4,60         21,20
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1448343-2022-1-2           23/02/2022         78087747      R$ 920,12
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-DIC         11,74     0,00   23,48       46,96
-FIC          7,67     0,00   15,34       30,69
-DMIC         6,49     0,00
-DICRI       16,60
-
-
-Conjunto:    Jericó
-
-Referência:                          11/2021
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                     183,01 19,90
-Compra de energia                           377,65 41,04
-Serviço de transmissão                       41,32   4,49
-Encargos setoriais                           62,31   6,77
-Impostos diretos e encargos                 255,83 27,80
-Outros serviços                               0,00   0,00
-Total                                       920,12 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2021): R$ 342,56
-6   JAN/22     899,00
-9   DEZ/21   1.092,00
-    NOV/21   1.004,00
-    OUT/21     984,00
-    SET/21   1.055,00
-    AGO/21   1.211,00
-    JUL/21     359,00
-    JUN/21   1.205,00
-    MAI/21     821,00
-    ABR/21     901,00
-    MAR/21     894,00 *
-    FEV/21   1.055,00
-    JAN/21     834,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 18/12/2021   Leitura Atual: 18/01/2022   Dias: 31
-
-
-KWH   Ponta   6.604,00     5.705,00      1                                                 899,00         899,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

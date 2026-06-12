@@ -1,106 +1,0 @@
-Domicílio de Entrega:
-PM JERICO REPETIDORA DE TV
-RUA LOPES FIGUEIREDO 110
-
-
-JERICÓ (AG: 245)
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-Roteiro: 011 - 0253 - 710 - 6260
-Nº do Medidor: 00008258961
-MATRÍCULA: 1084565-2020-1-3
-DOM. ENT.: 9999253001
-PM JERICO REPETIDORA DE TV
-RUA FRANCISCO HENRIQUE DA SILVA, S/N - 58830000
-CENTRO
-JERICO-PB (AG: 245)
-                                                            ENER
-                                                  Br 230, Km 25 -
-
-
- LIGAÇÃO: MONOFASICO
- DOM. BANC.:
- CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
- Insc. Est.:
-               Emissão: 20/01/2020         Identificador para Débito Automático:   0001084565-9
-
-
-
-Janeiro/2020   03/02/2020            17/02/2020                   5/1084565-9
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.    ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS         (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                      1.093,00   0,545400        0,785840        858,93        858,93    25     214,73          858,93       8,57        39,50
-0601 Adic. B. Amarela                                                                21,15         21,15    25       5,29           21,15       0,21         0,97
-     LANÇAMENTOS E SERVIÇOS
-0805 ATUALIZAÇÃO MONETÁRIA 11/2019                                                    5,21                   0       0,00            0,00       0,00         0,00
-0805 MULTA 11/2019                                                                   19,50                   0       0,00            0,00       0,00         0,00
-0804 JUROS DE MORA 11/2019                                                            7,15                   0       0,00            0,00       0,00         0,00
-
-
-
-
-CCI: Código de Classificação do Item                            Total:              911,94        880,08           220,02          880,08       8,78        40,47
-         DISCRIMINAÇÃO
-SERVIÇO DISTRIBUIÇÃO
-                                       VALOR (R$)
-                                            234,18
-                                                        %
-                                                       25,68   2
-COMPRA DE ENERGIA                           306,63     33,62
-SERVIÇO DE TRANSMISSÃO                       34,82      3,82
-ENCARGOS SETORIAIS                           35,18      3,86
-IMPOSTOS DIRETOS E ENCARGOS                 301,13     33,02
-OUTROS SERVIÇOS                                0,00     0,00
-              TOTAL                         911,94    100,00
-- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 379,41
-23/02/2020   R$ 911,94
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
-   1084565-2020-1-3          23/02/2020         37661913      R$ 911,94
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Aproveite o 13º e regularize suas contas em atraso: podemos
-negociar para você começar o ano novo numa boa!
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20        1093
-DEZ/19         955
-NOV/19        1191
-OUT/19        1028
-SET/19        1115
-AGO/19        1165
-JUL/19        1078
-JUN/19        1174
-MAI/19        1145
-ABR/19         992
-MAR/19         867
-FEV/19         693
-JAN/19        1008
-Leitura: 18/12/2019 a 17/01/2020 Dias: 30
-
-                                    Dados da leitura                                       Dados do consumo
-  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
-KWH    P           1.831,00       738,00     1            0                                1.093,00       1.093,00
-VENCIMENTO   VALOR (R$)
-DIC MENSAL        6,27       2,30
-DIC TRIMESTRAL   12,54
-DIC ANUAL        25,08
-FIC MENSAL        3,42       1,00
-FIC TRIMESTRAL    6,85
-FIC ANUAL        13,70
-DMIC              3,71       2,30
-DICRI            12,22
-
-
-
-Conjunto: Jericó
-Referência: 11/2019
-Tensão Contratada:
-Limite Adequado: 202 a 231
-

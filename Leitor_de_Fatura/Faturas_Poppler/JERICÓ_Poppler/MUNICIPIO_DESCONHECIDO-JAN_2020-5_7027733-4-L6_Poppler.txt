@@ -1,100 +1,0 @@
-PM JERICO ENFEITES NATALINOS 2019
-RUA HERUNDINA DE OLIVEIRA, CENTRO
-
-
-JERICO-PB
-
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICIPAL
-Roteiro: 001 - 0253 - -
-Nº do Medidor:
-MATRÍCULA: 7027733-2020-1-4
-DOM. ENT.:
-                                              ENER
-                                    Br 230, Km 25 -
-
-
-LIGAÇÃO: TRIFASICO
-DOM. BANC.:
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-               Emissão: 07/01/2020   Identificador para Débito Automático:   0007027733-4
-
-
-
-Janeiro/2020   07/01/2020                                   5/7027733-4
-                                                         Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.     ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                             Quantidade     Tributos        Tributos           (R$)    ICMS(R$) ICMS          (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo em kWh                           6.781,00   0,545400        0,785840      5.328,86      5.328,86    25     1.332,21       5.328,86      53,20       245,08
-0601 Adic. B. Amarela                                                                    131,21        131,21    25        32,80         131,21       1,31         6,03
-     LANÇAMENTOS E SERVIÇOS
-0603 DESPESA COM LIGAÇÃO PROVISÓRIA 01/2020                                               19,50
-
-
-
-
-CCI: Código de Classificação do Item                                 Total:             5479,57      5.460,07           1.365,01        5.460,07     54,51       251,11
-         DISCRIMINAÇÃO
-SERVIÇO DISTRIBUIÇÃO
-                              VALOR (R$)
-                                  1.452,87
-                                               %
-                                              26,51   2
-COMPRA DE ENERGIA                 1.902,30    34,72
-SERVIÇO DE TRANSMISSÃO              216,00     3,94
-ENCARGOS SETORIAIS                  218,27     3,98
-IMPOSTOS DIRETOS E ENCARGOS       1.670,63    30,49
-OUTROS SERVIÇOS                      19,50     0,36
-              TOTAL               5.479,57   100,00
-23/01/2020   R$ 5.479,57
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
-   7027733-2020-1-4          23/01/2020         36800608      R$ 5.479,57
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20
-DEZ/19
-NOV/19
-OUT/19
-SET/19
-AGO/19
-JUL/19
-JUN/19
-MAI/19
-ABR/19
-MAR/19
-FEV/19
-JAN/19
-Leitura:       a           Dias:
-
-                               Dados da leitura                                       Dados do consumo
-  UN. Posto        Atual   Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
-KWH        P                  0,00                   0                                6.781,00       6.781,00
-VENCIMENTO   VALOR (R$)
-Serviço: LIGAÇÃO PROVISÓRIA
-LIGACAO PROVISORIA conforme solicitado pelo oficio 041.2019 recebido 18.12.19
-assinado por JARBAS ROSADO DE OLIVEIRA. FINANCEIRO. Dig VHAX 9682 - DESC.
-DIC MENSAL
-DIC TRIMESTRAL
-DIC ANUAL
-FIC MENSAL
-FIC TRIMESTRAL
-FIC ANUAL
-DMIC
-DICRI
-
-
-
-Conjunto:
-Referência:
-Tensão Contratada:
-Limite Adequado:   a
-

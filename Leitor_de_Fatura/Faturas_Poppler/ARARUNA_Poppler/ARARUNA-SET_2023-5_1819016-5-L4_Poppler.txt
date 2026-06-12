@@ -1,0 +1,215 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 014 - 0062 - 161 - 1300
+MATRÍCULA: 1819016-2023-9-6
+DOM. BANC.:                                   DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA POCO
+
+SIT LAGOA DE FORA, S/N - 58233000 - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Setembro / 2023   23/10/2023   R$ 22,86
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+-"Problemas com alcoolismo? Nós podemos ajudar – Ligue: (83) 3222-4557 / 9 8658-4556” - Alcoólicos Anônimos na Paraíba
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+                                                                                                                                 T
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                                                                                                 P
+Custo de Disponibilidade                                          22,86        0,70          22,86   18       4,11
+                                                                                                                                 C
+                                                                                                                                 I
+
+
+
+
+                                   TOTAL:                         22,86        0,70          22,86            4,11
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+00008830324   Energia ativa em kWh   Ponta   3465   3465   1   0
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+BANCO DO BRASIL S A                                              001 -9       00190.00009 03268.926007 78445.753177 1 95120000002286                                     Pague por
+LOCAL DE PAGAMENTO                                                                                                                   VENCIMENTO
+PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A
+BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA
+ENDEREÇO
+BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680
+                                                                                                                                                  23/10/2023
+                                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                               09.095.183/0001-40            3064-3/2447-3
+                                                                                                                                     NOSSO NÚMERO
+                                                                                                                                      32689260078445753
+                                                                                                                                                                         PIX
+                                                                                                                                                                  É fácil, rápido e seguro.
+DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+02/10/2023                 1819016-2023-09-6                                 DS                  N        02/10/2023                                     22,86
+                                                                                                                                     (-) DESCONTOS/
+                                     CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                      ABATIMENTOS
+INSTRUÇÕES                                                                                                                           (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                     (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                     ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                     (=) VALOR
+                                                                                                                                     COBRADO
+
+PAGADOR                                                                                                                                               CPF/CNPJ
+PM ARARUNA POCO                                                                                                                       08.927.105/0001-00
+SIT LAGOA DE FORA, S/N - 58233000         ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                  AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                                  Abra sua conta VOLTZ - Energisa
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Data de Apresentação: 03/10/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001819016-5
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+22/08/2023   22/09/2023   31   24/10/2023
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+5/1819016-5
+
+
+00008830324
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+          Base de Alíquota     Valor
+Tributo   Cálc.(R$)  (%)        (R$)
+PIS           18,75   0,6671   0,12
+COFINS        18,75   3,0729   0,58
+ICMS          22,86    18,00   4,11
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                                 Nº DIAS
+              CONSUMO FATURADO     FAT
+              SET/23                   31
+              AGO/23                   29
+              JUL/23                   28
+              JUN/23                   31
+Consumo kWh
+
+
+
+
+              MAI/23                   31
+              ABR/23                   32
+              MAR/23                   29
+              FEV/23                   30
+              JAN/23                   32
+              DEZ/22                   30
+              NOV/22                   30
+              OUT/22                   31
+              SET/22                   31
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+   22,86                   4,11
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+- -Reaj. tarifário médio -1,46% (EPB) a partir de 28/08/23, conforme REH nº 3.250/23
+- Unidade consumidora desocupada sem acesso ao medidor.
+- -Reaj. tarifário médio -1,46% (EPB) a partir de 28/08/23, conforme REH nº 3.250/23
+- Unidade consumidora desocupada sem acesso ao medidor.
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+DIC         24,00      0,00   0,00    0,00
+FIC          6,00      0,00   0,00    0,00
+DMIC        18,00      0,00
+DICRI       26,00
+
+
+Conjunto:    Araruna
+
+Referência:                      07/2023
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+Serviço de distribuição                      5,81    25,41
+Compra de energia                            7,43    32,50
+Serviço de transmissão                       1,99     8,71
+Encargos setoriais                           2,82    12,34
+Impostos diretos e encargos                  4,81    21,04
+Outros serviços                              0,00     0,00
+Total                                       22,86   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 07/2023): R$ 6,81
+
+===== FIM_PAGINA_17 | INICIO_PAGINA_18 =====
+
+SET/23      0,00 *
+AGO/23      0,00 *
+JUL/23      0,00 *
+JUN/23      3,00
+MAI/23      0,00 *
+ABR/23      0,00 *
+MAR/23      0,00 *
+FEV/23      0,00 *
+JAN/23      1,00
+DEZ/22      0,00
+NOV/22      0,00 *
+OUT/22      0,00 *
+SET/22      3,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_18 | INICIO_PAGINA_19 =====
+
+              Leitura Anterior: 22/08/2023      Leitura Atual: 22/09/2023   Dias: 31
+
+
+
+KWH   Ponta    3.465,00       3.465,00       1,00                                                       0,00        30,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

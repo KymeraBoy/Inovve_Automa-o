@@ -1,132 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-
-
-
-DOM. BANC.:                                    DOM. ENT.: 9999253003
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-PM JERICO UBS VIRGINIA JUSTINA DE
-OLIVEIRA
-SIT GANGORRA, 0 - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Abril / 2026   23/05/2026   R$ 257,53
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        292,00       0,881950        257,53        8,74         257,53   20      51,50   0,675650
-
-
-
-
-                           TOTAL:                         257,53        8,74         257,53           51,50
-W5143783701   Energia ativa em kWh   Ponta   12194   12486   1   292
-         CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0002383225-6
-           Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 06/05/2026
-
-
-                                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
-  2383225-2026-4-1                            23/05/2026                          8049813              R$ 257,53
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/05/2026
-19/03/2026   17/04/2026   29   19/05/2026
-567.949.053-86
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         206,01    0,7563      1,56
-COFINS      206,01    3,4837      7,18
-ICMS        257,53     20,00     51,50
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              ABR/26                29
-              MAR/26                28
-              FEV/26                30
-              JAN/26                32
-Consumo kWh
-
-
-
-
-              DEZ/25                30
-              NOV/25                30
-              OUT/25                32
-              SET/25                30
-              AGO/25                33
-              JUL/25                30
-              JUN/25                29
-              MAI/25                32
-              ABR/25                28
-  257,53                  51,50
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
-- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligue 180.
-DIC         24,00   20,50   999,00   999,00
-FIC          6,00    2,00   999,00   999,00
-DMIC        18,00   15,67
-DICRI       26,00
-
-
-Conjunto:    JERICÓ
-
-Referência:                      02/2026
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      66,15    25,70
-Compra de energia                            80,28    31,17
-Serviço de transmissão                       14,64     5,68
-Encargos setoriais                           36,22    14,06
-Impostos diretos e encargos                  60,24    23,39
-Outros serviços                               0,00     0,00
-Total                                       257,53   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 02/2026): R$ 82,61
-ABR/26    292,00
-MAR/26    293,00
-FEV/26    350,00
-JAN/26    274,00
-DEZ/25    376,00
-NOV/25    424,00
-OUT/25    412,00
-SET/25    307,00
-AGO/25    328,00
-JUL/25    291,00
-JUN/25    343,00
-MAI/25    387,00
-ABR/25    318,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 19/03/2026      Leitura Atual: 17/04/2026   Dias: 29
-
-
-
-KWH   Ponta   12.486,00      12.194,00       1,00                                                  292,00            292,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

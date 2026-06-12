@@ -1,0 +1,125 @@
+ NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ILUMINACAO NA PRACA AQUINOEL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 9991
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+REF:MÊS/ANO
+01/2024
+
+CÓDIGO DA INSTALAÇÃO
+12540
+CÓDIGO DO CLIENTE
+217081335
+
+ CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        657
+ 29
+DEZ23
+        710
+ 31
+NOV23
+        739
+ 30
+OUT23
+        789
+ 31
+SET23
+        865
+ 33
+AGO23
+        799
+ 31
+JUL23
+        726
+ 29
+JUN23
+        814
+ 31
+MAI23
+        775
+ 30
+ABR23
+        759
+ 30
+MAR23
+        706
+ 32
+FEV23
+        638
+ 29
+JAN23
+        661
+ 29
+
+CONSUMO
+kWh
+         657,00  
+
+Consumo-TUSD
+kWh
+          657,00 
+ 0,30875305 
+           202,85 
+            10,57 
+             0,00 
+20,50
+             0,00 
+ 0,29268000
+Consumo-TE
+kWh
+          657,00 
+ 0,15977050 
+           104,96 
+             5,46 
+             0,00 
+20,50
+             0,00 
+ 0,15146000
+Ilum. Púb. Municipal
+           189,69 
+JurosCOSIP
+             3,53 
+MultaCOSIP
+            33,79 
+IPCACOSIP
+             1,32 
+Multa-NF 741592501
+             6,93 
+Juros-NF 741592501
+             2,42 
+IPCA-NF-741592501
+             1,31 
+IPCA-NF-734474371
+             1,10 
+TRIBF-IRRF(1.2%)
+             3,68-
+TRIBF-IRRF(4.8%)
+             0,52-
+TOTAL
+           543,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

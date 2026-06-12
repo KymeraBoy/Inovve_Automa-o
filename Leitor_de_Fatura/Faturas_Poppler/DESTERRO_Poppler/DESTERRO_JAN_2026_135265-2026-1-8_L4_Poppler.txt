@@ -1,130 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 009 - 0139 - 569 - 3720
-MATRÍCULA: 135265-2026-1-8
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-GE JOAO GUEDES MACHADO DESTERRO
-
-SIT POCO DO JOAO, S/N - 58695000
-
-
-AREA RURAL
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Janeiro / 2026   23/02/2026   R$ 32,93
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH         36,00       0,902460         32,48        1,67          32,48   20       6,49   0,675650
-Adic. B. Amarela                                             0,45        0,02           0,45   20       0,09
-
-
-
-
-                            TOTAL:                          32,93        1,69          32,93            6,58
-00000530009   Energia ativa em kWh   Ponta   36822   36858   1   36
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  135265-2026-1-8       23/02/2026       7276995         R$ 32,93
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 04/02/2026
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00001352657
-16/12/2025   15/01/2026   30   12/02/2026
-5/135265-7
-
-00000530009
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          26,33    1,1446      0,30
-COFINS       26,33    5,2721      1,39
-ICMS         32,93     20,00      6,58
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/26                30
-              DEZ/25                32
-              NOV/25                31
-              OUT/25                32
-Consumo kWh
-
-
-
-
-              SET/25                29
-              AGO/25                31
-              JUL/25                32
-              JUN/25                29
-              MAI/25                30
-              ABR/25                28
-              MAR/25                31
-              FEV/25                30
-              JAN/25                30
-   32,93                   6,58
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-DIC         24,00       0,00   999,00      999,00
-FIC          6,00       0,00   999,00      999,00
-DMIC        18,00       0,00
-DICRI       26,00
-
-
-Conjunto:    Teixeira
-
-Referência:                             11/2025
-Tensão Contratada:
-Limite Adequado:                  202 a 231
-Serviço de distribuição                      8,27    25,11
-Compra de energia                           10,03    30,46
-Serviço de transmissão                       1,83     5,56
-Encargos setoriais                           4,53    13,76
-Impostos diretos e encargos                  8,27    25,11
-Outros serviços                              0,00     0,00
-Total                                       32,93   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2025): R$ 11,56
-JAN/26     36,00
-DEZ/25     42,00
-NOV/25     49,00
-OUT/25     36,00
-SET/25     36,00
-AGO/25     55,00
-JUL/25     34,00 *
-JUN/25     34,00 *
-MAI/25     32,00
-ABR/25     18,00
-MAR/25     37,00 *
-FEV/25      0,00 *
-JAN/25     41,00 *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 16/12/2025      Leitura Atual: 15/01/2026   Dias: 30
-
-
-
-KWH   Ponta   36.858,00      36.822,00       1,00                                                   36,00             36,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

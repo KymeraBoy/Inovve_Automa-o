@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA PRINCIPAL 126
+ CRECHE MUNICIPAL IRENE LISBOA
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+275779
+CÓDIGO DO CLIENTE
+7008513346
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+        847
+ 32
+OUT23
+        715
+ 28
+SET23
+        801
+ 32
+AGO23
+        772
+ 31
+JUL23
+        475
+ 31
+JUN23
+        906
+ 31
+MAI23
+        676
+ 29
+ABR23
+        653
+ 31
+MAR23
+        259
+ 29
+FEV23
+        256
+ 31
+JAN23
+        452
+ 31
+DEZ22
+        686
+ 29
+NOV22
+        695
+ 30
+
+CONSUMO
+kWh
+         847,00  
+         419,00  
+
+Consumo-TUSD
+kWh
+          847,00 
+ 0,52197353 
+           442,11 
+            18,29 
+           442,11 
+20,00
+            88,42 
+ 0,39599000
+Consumo-TE
+kWh
+          847,00 
+ 0,38650743 
+           327,37 
+            13,53 
+           327,37 
+20,00
+            65,47 
+ 0,29322000
+Ilum. Púb. Municipal
+            70,05 
+Multa-NF 105570579
+            14,57 
+Juros-NF 105570579
+             2,66 
+IPCA-NF-105570579
+             0,67 
+TRIBF-IRRF(1.2%)
+             9,22-
+TRIBF-IRRF(4.8%)
+             0,83-
+TOTAL
+           847,38 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

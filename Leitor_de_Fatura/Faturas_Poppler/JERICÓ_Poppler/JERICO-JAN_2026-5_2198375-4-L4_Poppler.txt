@@ -1,130 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 012 - 0253 - 715 - 2601
-MATRÍCULA: 2198375-2026-1-5
-DOM. BANC.:                                    DOM. ENT.: 9999253001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA              LIGAÇÃO: MONOFASICO
-PM JERICO PRACA ALEXANDRE MATIAS
-
-RUA PROJETADA, 0 - PRACA ALEXANDRE MATIAS - 58830000
-
-
-CENTRO
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Janeiro / 2026   23/02/2026   R$ 235,18
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH        465,00       0,496340        230,80       11,84         230,80   20      46,15   0,371600
-Adic. B. Amarela                                             4,38        0,22           4,38   20       0,88
-
-
-
-
-                            TOTAL:                         235,18       12,06         235,18           47,03
-N5112084516   Energia ativa em kWh   Ponta   26877   27342   1   465
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  2198375-2026-1-5      23/02/2026       7314738        R$ 235,18
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 04/02/2026
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00021983754
-19/12/2025   20/01/2026   32   19/02/2026
-5/2198375-4
-
-N5112084516
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         188,12    1,1446      2,15
-COFINS      188,12    5,2721      9,91
-ICMS        235,18     20,00     47,03
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/26                32
-              DEZ/25                30
-              NOV/25                30
-              OUT/25                32
-Consumo kWh
-
-
-
-
-              SET/25                30
-              AGO/25                33
-              JUL/25                30
-              JUN/25                29
-              MAI/25                32
-              ABR/25                28
-              MAR/25                29
-              FEV/25                30
-              JAN/25                32
-  235,18                  47,03
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-DIC         12,00     1,97   999,00      999,00
-FIC          4,00     1,00   999,00      999,00
-DMIC         9,00     0,00
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                           11/2025
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      59,04    25,09
-Compra de energia                            71,65    30,47
-Serviço de transmissão                       13,07     5,56
-Encargos setoriais                           32,33    13,75
-Impostos diretos e encargos                  59,09    25,13
-Outros serviços                               0,00     0,00
-Total                                       235,18   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2025): R$ 58,54
-JAN/26    465,00
-DEZ/25    428,00
-NOV/25    451,00
-OUT/25    389,00
-SET/25    375,00
-AGO/25    710,00
-JUL/25    365,00
-JUN/25    279,00
-MAI/25    324,00
-ABR/25    374,00
-MAR/25    406,00
-FEV/25    465,00
-JAN/25    281,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 19/12/2025      Leitura Atual: 20/01/2026   Dias: 32
-
-
-
-KWH   Ponta   27.342,00      26.877,00       1,00                                                  465,00            465,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

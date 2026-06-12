@@ -389,7 +389,44 @@ def _montar_nome_individual(input_path, texto_pagina, layout_individual, textos_
     return "-".join(partes) + ".pdf"
 
 
-def cropper_logic_neoenergiaPE(input_path, output_path, template):
+def _extrair_texto_de_pdf(caminho_pdf):
+    with fitz.open(caminho_pdf) as documento:
+        partes = [pagina.get_text("text") for pagina in documento]
+    partes_validas = [parte.strip("\r\n") for parte in partes if parte and parte.strip()]
+    if not partes_validas:
+        return ""
+    if len(partes_validas) == 1:
+        return partes_validas[0].strip() + "\n"
+
+    blocos = []
+    for indice, parte in enumerate(partes_validas, start=1):
+        blocos.append(parte)
+        if indice < len(partes_validas):
+            blocos.append(f"\n===== FIM_PAGINA_{indice} | INICIO_PAGINA_{indice + 1} =====\n")
+    return "\n".join(blocos).strip() + "\n"
+
+
+def _normalizar_nome_por_tag(nome_base, tag):
+    nome_limpo = re.sub(r"(?:_(?:Cropped|Poppler))+\Z", "", nome_base, flags=re.IGNORECASE)
+    return f"{nome_limpo}_{tag}"
+
+
+def _salvar_txt_poppler_individual(caminho_pdf_individual, pasta_poppler=None):
+    base_pdf = os.path.splitext(os.path.basename(caminho_pdf_individual))[0]
+    nome_txt = _normalizar_nome_por_tag(base_pdf, "Poppler") + ".txt"
+    pasta_destino = pasta_poppler or os.path.dirname(caminho_pdf_individual)
+    os.makedirs(pasta_destino, exist_ok=True)
+    caminho_txt = os.path.join(pasta_destino, nome_txt)
+    caminho_txt = _resolver_caminho_duplicado(caminho_txt)
+    texto_fatura = _extrair_texto_de_pdf(caminho_pdf_individual)
+
+    with open(caminho_txt, "w", encoding="utf-8") as arquivo_txt:
+        arquivo_txt.write(texto_fatura or "")
+
+    return caminho_txt
+
+
+def cropper_logic_neoenergiaPE(input_path, output_path, template, output_poppler_dir=None):
     doc = fitz.open(input_path)
     new_doc = fitz.open()
     recortes = None
@@ -448,6 +485,9 @@ def cropper_logic_neoenergiaPE(input_path, output_path, template):
                     new_page.show_pdf_page(new_page.rect, doc, i, clip=recorte)
             doc_ind.save(caminho_pdf_cropped)
             doc_ind.close()
+
+            # Gera o TXT da fatura individual a partir da versão recortada.
+            _salvar_txt_poppler_individual(caminho_pdf_cropped, output_poppler_dir)
         else:
             print(f"[Neoenergia] Página {i + 1} ignorada: tipo não reconhecido (score={score_pagina}).")
 

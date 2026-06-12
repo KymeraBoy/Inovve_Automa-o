@@ -1,0 +1,115 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA JATOBA 53791
+ NOVO HORIZONTE/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2022
+
+CÓDIGO DA INSTALAÇÃO
+2831334
+CÓDIGO DO CLIENTE
+7016227816
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV22
+        944
+ 31
+OUT22
+        913
+ 29
+SET22
+        899
+ 31
+AGO22
+        972
+ 32
+JUL22
+        969
+ 31
+JUN22
+        876
+ 28
+MAI22
+       1020
+ 33
+ABR22
+        896
+ 29
+MAR22
+        947
+ 32
+FEV22
+        818
+ 28
+JAN22
+        907
+ 31
+DEZ21
+        912
+ 32
+NOV21
+        828
+ 28
+
+CONSUMO
+kWh
+  122,00 
+  822,00 
+
+Consumo-TUSD
+kWh
+          944,00 
+ 0,48989591 
+           462,46 
+            20,93 
+           462,46 
+18,00
+            83,24 
+ 0,37954000
+Consumo-TE
+kWh
+          944,00 
+ 0,36440800 
+           344,00 
+            15,56 
+           344,00 
+18,00
+            61,92 
+ 0,28232000
+Ilum. Púb. Municipal
+            74,97 
+Multa-NF 086372939
+            15,30 
+Juros-NF 086372939
+             3,56 
+IPCA-NF-084824859
+             3,77 
+IPCA-NF-086372939
+             2,13 
+TOTAL
+           906,19 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

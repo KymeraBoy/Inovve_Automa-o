@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242726014
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+276537
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI ATERRO 255
+ESCOLA M ALBERTO TORRES
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        843
+JUN 22
+        902
+MAI 22
+       1256
+ABR 22
+       1083
+MAR 22
+       1259
+FEV 22
+        465
+JAN 22
+        277
+DEZ 21
+       1167
+NOV 21
+       1077
+OUT 21
+       1000
+SET 21
+        687
+AGO 21
+        625
+JUL 21
+        514
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  843,00 
+  357,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       843,0000000 
+ 0,49205726 
+           414,80 
+Consumo Ativo(kWh)-TE                        
+       843,0000000 
+ 0,36574530 
+           308,32 
+Multa por atraso-NF 081654329 - 28/06/22     
+            15,39 
+Juros por atraso-NF 081654329 - 28/06/22     
+             0,24 
+TOTAL DA FATURA
+           738,75 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242726014
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           738,75 
+VENCIMENTO
+22/08/2022

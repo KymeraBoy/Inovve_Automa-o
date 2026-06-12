@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO MALHADINHA 32
+ ESCOLA M JOSE LUCIO RIBEIRO
+ MALHADINHA/AREA RURAL
+ 59180-000 ESPIRITO SANTO RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+241381
+CÓDIGO DO CLIENTE
+242754018
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+        496
+ 32
+OUT23
+        437
+ 30
+SET23
+        403
+ 29
+AGO23
+        557
+ 33
+JUL23
+        429
+ 30
+JUN23
+        474
+ 31
+MAI23
+        528
+ 30
+ABR23
+        489
+ 30
+MAR23
+        367
+ 31
+FEV23
+        267
+ 30
+JAN23
+        288
+ 30
+DEZ22
+        450
+ 31
+NOV22
+        557
+ 30
+
+CONSUMO
+kWh
+         496,00  
+         327,00  
+
+Consumo-TUSD
+kWh
+          496,00 
+ 0,52197353 
+           258,89 
+            10,70 
+           258,89 
+20,00
+            51,77 
+ 0,39599000
+Consumo-TE
+kWh
+          496,00 
+ 0,38650743 
+           191,70 
+             7,92 
+           191,70 
+20,00
+            38,34 
+ 0,29322000
+TRIBF-IRRF(1.2%)
+             5,40-
+TOTAL
+           445,19 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

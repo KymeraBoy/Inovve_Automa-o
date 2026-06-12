@@ -1,134 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 013 - 0142 - 781 - 4260
-MATRÍCULA: 261674-2024-12-9
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-EMEF NEVINHA DANTAS DESTERRO
-
-RUA N SRA DE FATIMA, S/N - TATAIRA - 58695000
-
-
-CENTRO
-TATAIRA (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Dezembro / 2024   23/01/2025   R$ 377,77
-- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
-pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH        478,00       0,782550        374,06       18,06         374,06   20      74,81   0,588270
-Adic. B. Amarela                                             3,71        0,18           3,71   20       0,74
-
-
-
-
-                            TOTAL:                         377,77       18,24         377,77           75,55
-00000180672   Energia ativa em kWh   Ponta   64961   65439   1   478
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  261674-2024-12-9      23/01/2025       4537385        R$ 377,77
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/01/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000261674-6
-21/11/2024   20/12/2024   29   21/01/2025
-5/261674-6
-
-00000180672
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         302,19    1,0765      3,25
-COFINS      302,19    4,9583     14,99
-ICMS        377,77     20,00     75,55
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              DEZ/24                29
-              NOV/24                30
-              OUT/24                32
-              SET/24                29
-Consumo kWh
-
-
-
-
-              AGO/24                31
-              JUL/24                32
-              JUN/24                30
-              MAI/24                33
-              ABR/24                30
-              MAR/24                28
-              FEV/24                32
-              JAN/24                30
-              DEZ/23                29
-  377,77                  75,55
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
-- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
-- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-DIC         24,00       5,08   0,00    0,00
-FIC          6,00       2,00   0,00    0,00
-DMIC        18,00       4,29
-DICRI       26,00
-
-
-Conjunto:    Teixeira
-
-Referência:                       10/2024
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      98,34    26,03
-Compra de energia                           114,39    30,28
-Serviço de transmissão                       25,36     6,71
-Encargos setoriais                           45,89    12,15
-Impostos diretos e encargos                  93,79    24,83
-Outros serviços                               0,00     0,00
-Total                                       377,77   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 10/2024): R$ 102,15
-DEZ/24    478,00 *
-NOV/24    847,00 *
-OUT/24    469,00 *
-SET/24    525,00 *
-AGO/24    474,00 *
-JUL/24    440,00 *
-JUN/24    460,00 *
-MAI/24    540,00 *
-ABR/24    542,00 *
-MAR/24    286,00
-FEV/24    411,00 *
-JAN/24    353,00 *
-DEZ/23    400,58 *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 21/11/2024      Leitura Atual: 20/12/2024   Dias: 29
-
-
-
-KWH   Ponta   65.439,00      64.961,00       1,00                                                  478,00            478,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

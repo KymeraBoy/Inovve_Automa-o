@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA ABDON GRILO 18
+ ESCOLA MUN NAZARE DUARTE
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2023
+
+CÓDIGO DA INSTALAÇÃO
+274651
+CÓDIGO DO CLIENTE
+242705017
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET23
+       4233
+ 31
+AGO23
+       4161
+ 30
+JUL23
+       2490
+ 32
+JUN23
+       4499
+ 29
+MAI23
+       4770
+ 32
+ABR23
+       4223
+ 30
+MAR23
+       3207
+ 31
+FEV23
+        881
+ 28
+JAN23
+       1396
+ 32
+DEZ22
+       3787
+ 29
+NOV22
+       3351
+ 30
+OUT22
+       3190
+ 31
+SET22
+       2508
+ 31
+
+CONSUMO
+kWh
+       4.233,00 
+         290,00  
+
+Consumo-TUSD
+kWh
+        4.233,00 
+ 0,52296619 
+         2.213,71 
+            94,76 
+         2.213,71 
+20,00
+           442,75 
+ 0,39599000
+Consumo-TE
+kWh
+        4.233,00 
+ 0,38724247 
+         1.639,19 
+            70,14 
+         1.639,19 
+20,00
+           327,83 
+ 0,29322000
+Ilum. Púb. Municipal
+           350,09 
+TOTAL
+         4.202,99 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

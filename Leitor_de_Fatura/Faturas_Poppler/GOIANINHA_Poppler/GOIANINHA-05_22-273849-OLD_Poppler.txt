@@ -1,0 +1,85 @@
+CONTA CONTRATO
+0242746015
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273849
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA AMAURI B SILVA 9 SN
+ESCOLA MUN ZUZA GRANDE - BARROCAS
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        225
+ABR 22
+        252
+MAR 22
+        183
+FEV 22
+         58
+JAN 22
+         97
+DEZ 21
+         97
+NOV 21
+        184
+OUT 21
+         30
+SET 21
+         30
+AGO 21
+         30
+JUL 21
+        124
+JUN 21
+         30
+MAI 21
+        116
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  225,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       225,0000000 
+ 0,48620390 
+           109,39 
+Consumo Ativo(kWh)-TE                        
+       225,0000000 
+ 0,36121462 
+            81,27 
+Multa por atraso-NF 078485639 - 28/04/22     
+             4,17 
+Juros por atraso-NF 078485639 - 28/04/22     
+             0,41 
+TOTAL DA FATURA
+           195,24 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242746015
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           195,24 
+VENCIMENTO
+20/06/2022

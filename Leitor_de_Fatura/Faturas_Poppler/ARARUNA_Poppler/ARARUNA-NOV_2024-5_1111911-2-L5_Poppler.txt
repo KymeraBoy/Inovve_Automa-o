@@ -1,0 +1,221 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 017 - 0062 - 181 - 5300
+MATRÍCULA: 1111911-2024-11-7
+DOM. BANC.:                                    DOM. ENT.: 9999062001
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                  LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS        DISP:               Lim. Min.: 202         Lim. Max.: 231
+
+
+PM ARARUNA CRECHE DE LAGOA DA MATA
+
+SIT LAGOA DA MATA, S/N - 58233000
+
+
+AREA RURAL                                                                5/1111911-2
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00                                         00001034497
+Insc. Est.:
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+28/10/2024   27/11/2024          30
+
+
+
+              NOTA FISCAL Nº: 004.383.4
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+                  Novembro / 2024
+
+
+
+
+Itens da Fatura
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+23/12/2024                    R$ 174,30
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+3252400021048631 - 28/11/2024 14:45:32
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS         139,41    0,9725      1,36
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+                                                                                                                                             PIS                 139,41   0,9725
+Consumo em kWh                              KWH      215,00   0,777730   167,21    7,29     167,21    20            33,44      0,588270
+                                                                                                                                             COFINS              139,41   4,4795
+Adic. B. Amarela                                                           4,80    0,21        4,80   20             0,96
+                                                                                                                                             ICMS                174,30    20,00
+Adic. B. Vermelha                                                          2,29    0,10        2,29   20             0,46
+
+
+
+
+                                                                                                                                                         CONSUMO FATURADO
+
+                                                                                                                                                        NOV/24
+                                                                                                                                                        OUT/24
+                                                                                                                                                        SET/24
+                                                                                                                                                        AGO/24
+
+
+
+
+                                                                                                                                          Consumo kWh
+                                                                                                                                                        JUL/24
+                                                                                                                                                        JUN/24
+                                                                                                                                                        MAI/24
+                                                                                                                                                        ABR/24
+                                                                                                                                                        MAR/24
+                                                                                                                                                        FEV/24
+                                                                                                                                                        JAN/24
+                                                                                                                                                        DEZ/23
+                                                                                                                                                        NOV/23
+
+
+
+
+                                                   TOTAL:                174,30    7,60     174,30                  34,86
+
+
+
+
+    00001034497     Energia ativa em kWh   Ponta      24401     24616      1      215     Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ITAÚ                                                         341 -7 34191.09230 08540.082933 85951.190009 6 99390000017430                                            Pague por
+
+                                                                                                                                                                      PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/12/2024
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/23085400-8
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/11/2024               1111911-2024-11-7                               DS                  N        28/11/2024                                    174,30
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA CRECHE DE LAGOA DA MATA                                                                                                08.927.105/0001-00
+SIT LAGOA DA MATA, S/N ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Abra sua conta VOLTZ - Energisa
+                                                                                                                                                                      contavoltz.com/pix
+                                                                                                                                                                Receba sua conta só com o PIX
+                                                                                                                         Ficha de Compensação
+                                                                                                                                                                Cadastre-se em nossos canais
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+DIC         24,00      0,00   0,00    0,0
+FIC          6,00      0,00   0,00    0,0
+DMIC        18,00      0,00
+DICRI       26,00
+
+
+Conjunto:    Araruna
+
+Referência:                      09/2024
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+Serviço de distribuição                      44,23    25,3
+Compra de energia                            55,56    31,8
+Serviço de transmissão                       11,40     6,5
+Encargos setoriais                           20,65    11,8
+Impostos diretos e encargos                  42,46    24,3
+Outros serviços                               0,00     0,0
+Total                                       174,30   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 09/2024): R$ 37,46
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+0,00   NOV/24    215,00 *
+0,00   OUT/24    200,00 *
+       SET/24    172,00 *
+       AGO/24    206,00 *
+       JUL/24    208,00 *
+       JUN/24    196,00 *
+       MAI/24    278,00 *
+24     ABR/24    299,00 *
+       MAR/24    309,00 *
+31     FEV/24    206,00
+       JAN/24    135,00 *
+       DEZ/23    233,00 *
+       NOV/23    289,00 *
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                    Leitura Anterior: 28/10/2024      Leitura Atual: 27/11/2024   Dias: 30
+
+
+
+,37   KWH   Ponta   24.616,00      24.401,00       1,00                                                  215,00            21
+,88
+,54
+,85
+,36
+,00
+,00
+
+
+
+
+                                                                                             * KWTG: Dem Tusdg    * K: Const Me

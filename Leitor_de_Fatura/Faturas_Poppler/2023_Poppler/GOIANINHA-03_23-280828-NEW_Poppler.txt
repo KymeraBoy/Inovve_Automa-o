@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ CJ NOVO HORIZONTE I 220
+ GINASIO POLIESPORTIVO
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+280828
+CÓDIGO DO CLIENTE
+790916018
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+        200
+ 29
+FEV23
+        247
+ 30
+JAN23
+        221
+ 32
+DEZ22
+        173
+ 29
+NOV22
+        216
+ 30
+OUT22
+        165
+ 29
+SET22
+        275
+ 33
+AGO22
+        437
+ 30
+JUL22
+        171
+ 32
+JUN22
+        201
+ 29
+MAI22
+        141
+ 30
+ABR22
+        161
+ 32
+MAR22
+        156
+ 31
+
+CONSUMO
+kWh
+  200,00 
+  169,00 
+
+Consumo-TUSD
+kWh
+          200,00 
+ 0,48819075 
+            97,63 
+             4,15 
+            97,63 
+18,00
+            17,57 
+ 0,37954000
+Consumo-TE
+kWh
+          200,00 
+ 0,36313962 
+            72,62 
+             3,08 
+            72,62 
+18,00
+            13,07 
+ 0,28232000
+Multa-NF 092723865
+             3,74 
+Juros-NF 092723865
+             0,87 
+IPCA-NF-092723865
+             0,42 
+TOTAL
+           175,28 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

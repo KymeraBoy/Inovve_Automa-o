@@ -1,102 +1,0 @@
-Domicílio de Entrega:
-EMEF LIDIA CABRAL AGUIAR
-RUA BOA VISTA S/N
-
-
-AGUIAR (AG: 144)
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-Classe/Subcls.: PODER PÚBLICO/POD. PÚB. MUNICI
-Roteiro: 009 - 0149 - 410 - 3740
-Nº do Medidor: 00008461421
-MATRÍCULA: 136854-2020-1-1
-DOM. ENT.: 9999149002
-EMEF LIDIA CABRAL AGUIAR
-RUA SEVERINO AMANCIO, S/N - 58778-000
-CENTRO
-AGUIAR-PB (AG: 144)
-                                                  ENER
-                                        Br 230, Km 25 -
-
-
- LIGAÇÃO: TRIFASICO
- DOM. BANC.:
- CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-45
- Insc. Est.: 000XXXXXX
-               Emissão: 16/01/2020         Identificador para Débito Automático:   0000136854-7
-
-
-
-Janeiro/2020   03/02/2020            13/02/2020                    5/136854-7
-                                                    Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.   ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                          Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS        (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Custo de Disponibilidade                                                        78,58         78,58    25     19,64           78,58       0,78         3,61
-0601 Adic. B. Amarela                                                                 1,93          1,93    25      0,48            1,93       0,02         0,09
-
-
-
-
-CCI: Código de Classificação do Item                            Total:               80,51         80,51           20,12           80,51       0,80         3,70
-         DISCRIMINAÇÃO
-SERVIÇO DISTRIBUIÇÃO
-                                       VALOR (R$)
-                                             21,42
-                                                        %
-                                                       26,61   2
-COMPRA DE ENERGIA                            28,06     34,85
-SERVIÇO DE TRANSMISSÃO                         3,19     3,96
-ENCARGOS SETORIAIS                             3,22     4,00
-IMPOSTOS DIRETOS E ENCARGOS                  24,62     30,58
-OUTROS SERVIÇOS                                0,00     0,00
-              TOTAL                          80,51    100,00
-- Valor Encargo Uso Sist. Distr. (Ref 11/2019): R$ 31,85
-23/02/2020   R$ 80,51
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
-   136854-2020-1-1           23/02/2020         37485451       R$ 80,51
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Aproveite o 13º e regularize suas contas em atraso: podemos
-negociar para você começar o ano novo numa boa!
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20          0
-DEZ/19          0
-NOV/19          0
-OUT/19          0
-SET/19         100
-AGO/19          0
-JUL/19         100
-JUN/19         100
-MAI/19          0
-ABR/19          0
-MAR/19         100
-FEV/19          0
-JAN/19          0
-Leitura: 16/12/2019 a 15/01/2020 Dias: 30
-
-                                    Dados da leitura                                       Dados do consumo
-  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
-KWH    P          66.222,00     66.222,00    1            0                                   0,00            100,00
-VENCIMENTO   VALOR (R$)
-DIC MENSAL        6,87       0,00
-DIC TRIMESTRAL   13,74
-DIC ANUAL        27,48
-FIC MENSAL        3,61       0,00
-FIC TRIMESTRAL    7,22
-FIC ANUAL        14,45
-DMIC              3,97       0,00
-DICRI            12,22
-
-
-
-Conjunto: Piancó
-Referência: 11/2019
-Tensão Contratada:
-Limite Adequado: 350 a 399
-

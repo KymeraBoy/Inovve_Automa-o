@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA LUIZ BELARMINO DA COSTA 825
+ QUADRA DE ESPORTES CORTEZ PEREIRA
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+271229
+CÓDIGO DO CLIENTE
+242710010
+
+ CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       2045
+ 29
+FEV26
+       1959
+ 29
+JAN26
+       2324
+ 32
+DEZ25
+       2256
+ 31
+NOV25
+       1939
+ 29
+OUT25
+       2442
+ 32
+SET25
+       2265
+ 30
+AGO25
+       2259
+ 32
+JUL25
+       1969
+ 30
+JUN25
+       2171
+ 30
+MAI25
+       2431
+ 31
+ABR25
+       2622
+ 30
+MAR25
+       2498
+ 29
+
+CONSUMO
+kWh
+       2.045,00 
+       1.613,00 
+
+Consumo-TUSD
+kWh
+        2.045,00 
+ 0,31666577 
+           647,58 
+            31,49 
+           647,58 
+20,00
+           129,51 
+ 0,23793000
+Consumo-TE
+kWh
+        2.045,00 
+ 0,22811967 
+           466,50 
+            22,69 
+           466,50 
+20,00
+            93,30 
+ 0,17140000
+IPCA-NF-151050989
+             3,23 
+TRIBF-IRRF(1.2%)
+            13,37-
+TRIBF-IRRF(4.8%)
+             0,16-
+TOTAL
+         1.103,78 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

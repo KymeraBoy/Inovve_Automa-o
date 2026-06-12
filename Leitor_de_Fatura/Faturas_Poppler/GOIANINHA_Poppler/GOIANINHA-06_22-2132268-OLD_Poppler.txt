@@ -1,0 +1,92 @@
+CONTA CONTRATO
+7001898480
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2132268
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA FRANCISCA FREIRE DE ANDRADE 100
+PO O TUBULAR
+UNA/UNA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        100
+MAI 22
+        122
+ABR 22
+        100
+MAR 22
+        436
+FEV 22
+        157
+JAN 22
+        511
+DEZ 21
+        463
+NOV 21
+        225
+OUT 21
+        306
+SET 21
+        181
+AGO 21
+        100
+JUL 21
+        169
+JUN 21
+        100
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+    3,00 
+    2,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       100,0000000 
+ 0,47505523 
+            47,50 
+Consumo Ativo(kWh)-TE                        
+       100,0000000 
+ 0,35293195 
+            35,29 
+Cobrança de ICMS sobre Subvenção CDE         
+             0,45 
+Multa por atraso-NF 078485668 - 28/04/22     
+             1,67 
+Juros por atraso-NF 078485668 - 28/04/22     
+             0,69 
+Atualizacao IPCA-NF 078485668 - 28.04.22     
+             0,68 
+Atualizacao IPCA-NF 076900326 - 29.03.22     
+             3,18 
+TOTAL DA FATURA
+            89,46 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7001898480
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+            89,46 
+VENCIMENTO
+20/07/2022

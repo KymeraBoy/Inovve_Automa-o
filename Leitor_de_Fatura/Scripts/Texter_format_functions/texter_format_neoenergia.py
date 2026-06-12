@@ -1,143 +1,226 @@
+import os
 import re
 
+from texter_utils import aba_info_geral
 
-from texter_utils import (Index, Linha, Apagar_linhas, Juntar,
-                          Linha_para_Vetor, Justificar,
-                          aba_info_geral, historico, aba_historico_consumo)
+
+def _normalizar_linha_bloco(valor):
+    return re.sub(r"\s+", " ", (valor or "").strip())
+
+
+def _coletar_bloco_apos_rotulo(texto, rotulos, rotulos_parada, parar_em_documento=False):
+    linhas = texto.splitlines()
+    rotulos_normalizados = {_normalizar_linha_bloco(rotulo).upper() for rotulo in rotulos}
+    rotulos_parada_normalizados = {_normalizar_linha_bloco(rotulo).upper() for rotulo in rotulos_parada}
+
+    for indice, linha in enumerate(linhas):
+        linha_normalizada = _normalizar_linha_bloco(linha).upper()
+        if linha_normalizada not in rotulos_normalizados:
+            continue
+
+        bloco = []
+        for proxima_linha in linhas[indice + 1:]:
+            valor = _normalizar_linha_bloco(proxima_linha)
+            if not valor:
+                if bloco:
+                    break
+                continue
+
+            valor_upper = valor.upper()
+            if valor_upper in rotulos_parada_normalizados:
+                break
+            if parar_em_documento and (valor_upper.startswith("CNPJ") or valor_upper.startswith("CPF")):
+                break
+
+            bloco.append(valor)
+
+        if bloco:
+            return bloco
+
+    return []
 
 # ============================================================== #
 # EXECUÇÃO - NEOENERGIA
 # ============================================================== #
 
+def _extrair_do_nome_arquivo(filename):
+    if not filename:
+        return "", "", ""
+
+    base = os.path.basename(filename)
+    stem = os.path.splitext(base)[0]
+    partes = stem.split("-")
+
+    municipio = partes[0] if len(partes) > 0 else ""
+    referencia = partes[1] if len(partes) > 1 else ""
+    unidade = partes[2] if len(partes) > 2 else ""
+
+    municipio = municipio.replace("_", " ").strip()
+    referencia = referencia.replace("_", "/").strip()
+    unidade = re.sub(r"\D", "", unidade)
+
+    return municipio, unidade, referencia
+
+
+def _normalizar_referencia(valor):
+    if not valor:
+        return ""
+
+    match = re.search(r"\b(\d{2})\s*/\s*(\d{2,4})\b", valor)
+    if not match:
+        return ""
+
+    mes = match.group(1)
+    ano = match.group(2)
+    if len(ano) == 2:
+        ano = f"20{ano}"
+    return f"{mes}/{ano}"
+
+
+def _extrair_referencia(texto):
+    candidatos = [
+        r"REF\s*:?\s*M[ÊE]S\s*/\s*ANO\s*\n\s*(\d{2}\s*/\s*\d{2,4})",
+        r"M[ÊE]S\s*/\s*ANO\s*\n\s*(\d{2}\s*/\s*\d{2,4})",
+    ]
+    for padrao in candidatos:
+        match = re.search(padrao, texto, flags=re.IGNORECASE)
+        if match:
+            referencia = _normalizar_referencia(match.group(1))
+            if referencia:
+                return referencia
+    return ""
+
+
+def _extrair_unidade(texto):
+    candidatos = [
+        r"C[ÓO]DIGO\s+DA\s+INSTALA[ÇC][ÃA]O\s*\n\s*(\d+)",
+        r"N[ºO.]\s*DA\s+INSTALA[ÇC][ÃA]O\s*\n\s*(\d+)",
+        r"CONTA\s+CONTRATO\s*\n\s*(\d+)",
+    ]
+    for padrao in candidatos:
+        match = re.search(padrao, texto, flags=re.IGNORECASE)
+        if match:
+            return match.group(1).strip()
+    return ""
+
+
+def _extrair_municipio(texto):
+    match = re.search(
+        r"(?:MUNICIPIO DE|PREFEITURA MUNICIPAL DE|PREF MUNICIPAL DE)\s+([A-ZÀ-ÚÇ ]{3,})",
+        texto.upper(),
+    )
+    if match:
+        municipio = re.sub(r"\s+", " ", match.group(1)).strip()
+        return municipio
+    return ""
+
+
+def _extrair_classificacao(texto):
+    candidatos = [
+        # Layout novo: "CLASSIFICACAO: <valor>"
+        r"CLASSIFICA[ÇC][ÃA]O\s*:\s*([^\n\r]+)",
+        # Layout antigo: "CLASSIFICACAO" em uma linha e valor na seguinte
+        r"CLASSIFICA[ÇC][ÃA]O\s*[\n\r]+\s*([^\n\r]+)",
+    ]
+
+    for padrao in candidatos:
+        match = re.search(padrao, texto, flags=re.IGNORECASE)
+        if match:
+            classificacao = re.sub(r"\s+", " ", match.group(1)).strip(" ,.-")
+            if classificacao:
+                return classificacao
+
+    return ""
+
+
+def _extrair_fornecimento(texto):
+    candidatos = [
+        r"CLASSIFICA[ÇC][ÃA]O\s*:\s*[^\n\r]+\s*[\n\r]+\s*([^\n\r,]+(?:[\- ][^\n\r,]+)?)",
+        r"CLASSIFICA[ÇC][ÃA]O\s*[\n\r]+\s*[^\n\r]+\s*[\n\r]+\s*([^\n\r]+)",
+    ]
+
+    for padrao in candidatos:
+        match = re.search(padrao, texto, flags=re.IGNORECASE)
+        if match:
+            fornecimento = re.sub(r"\s+", " ", match.group(1)).strip(" ,.-")
+            if fornecimento:
+                return fornecimento
+
+    return ""
+
+
+def _extrair_cliente(texto):
+    linhas_cliente = _coletar_bloco_apos_rotulo(
+        texto,
+        rotulos=["NOME DO CLIENTE:", "DADOS DO CLIENTE"],
+        rotulos_parada=[
+            "ENDEREÇO:",
+            "ENDERECO:",
+            "ENDEREÇO DA UNIDADE CONSUMIDORA",
+            "ENDERECO DA UNIDADE CONSUMIDORA",
+            "CLASSIFICAÇÃO",
+            "CLASSIFICACAO",
+            "REF:MÊS/ANO",
+            "REF:MES/ANO",
+            "MÊS/ANO",
+            "MES/ANO",
+            "CÓDIGO DA INSTALAÇÃO",
+            "CODIGO DA INSTALACAO",
+            "Nº DA INSTALAÇÃO",
+            "N° DA INSTALAÇÃO",
+            "N DA INSTALAÇÃO",
+            "CONTA CONTRATO",
+        ],
+        parar_em_documento=True,
+    )
+    return " ".join(linhas_cliente)
+
+
+def _extrair_endereco_entrega(texto):
+    linhas_endereco = _coletar_bloco_apos_rotulo(
+        texto,
+        rotulos=["ENDEREÇO:", "ENDERECO:", "ENDEREÇO DA UNIDADE CONSUMIDORA", "ENDERECO DA UNIDADE CONSUMIDORA"],
+        rotulos_parada=[
+            "CLASSIFICAÇÃO",
+            "CLASSIFICACAO",
+            "REF:MÊS/ANO",
+            "REF:MES/ANO",
+            "MÊS/ANO",
+            "MES/ANO",
+            "CÓDIGO DA INSTALAÇÃO",
+            "CODIGO DA INSTALACAO",
+            "Nº DA INSTALAÇÃO",
+            "N° DA INSTALAÇÃO",
+            "N DA INSTALAÇÃO",
+            "CONTA CONTRATO",
+            "HISTÓRICO DO CONSUMO",
+            "HISTORICO DO CONSUMO",
+        ],
+    )
+    return " | ".join(linhas_endereco)
+
+
 def format_neoenergia(texto, filename=None):
-    # FORMATAÇÃO INCIAL
-    texto = re.sub(r' {2,}', "\t", texto)                                   # Por ser de linha única temos que deixar por último   
-    linhas = texto.splitlines()
-    texto = Apagar_linhas(texto,None,(0,len(linhas)),True)
-    texto = Justificar(texto)
+    municipio_nome, unidade_nome, referencia_nome = _extrair_do_nome_arquivo(filename)
 
-    # ISSO DEVE PERMITIR QUE EU POSSA ACHAR ESSA PARTE SEM ME CONFUNDIR COM O HISTÓRICO     
-    cons = Index(texto,"CONSUMO")   
-    for i in reversed(range(0,len(cons))):              # vai de tras pra frente em cada linha que tiver "CONSUMO"
-            vetor = Linha_para_Vetor(texto,cons[i])     # pega o vetor dessa linha
-            if vetor[0] == "CONSUMO":  # confere se ele tem apenas a palavra 
-                texto = Linha(texto, cons[i], None,[(0,"APENAS O CONSUMO REGISTRADO")],None) # poe o novo titulo
-                texto = Linha(texto, cons[i], [1],None,None) # apaga o antigo
-                texto = Apagar_linhas(texto, [cons[i]+1]) # apga o KWH que fica logo embaixo
+    municipio = _extrair_municipio(texto) or municipio_nome or "UNK"
+    unidade = _extrair_unidade(texto) or unidade_nome or "UNK"
+    referencia = _extrair_referencia(texto) or _normalizar_referencia(referencia_nome) or "UNK"
+    classificacao = _extrair_classificacao(texto) or "UNK"
+    fornecimento = _extrair_fornecimento(texto) or "SEM_FORNECIMENTO"
+    cliente = _extrair_cliente(texto) or "SEM_CLIENTE"
+    endereco_entrega = _extrair_endereco_entrega(texto) or "SEM_ENDERECO"
 
-    # IDENTIFICAÇÃO DE LAYOUT
-    if "CÓDIGO DA INSTALAÇÃO" in texto:
-        # print("Layout Novo")
-        # DELIMITAÇÃO DAS FATURAS INDIVIDUAIS
-        fim = len(texto.splitlines())
-        texto = Linha(texto,fim-1,None,[(len(Linha_para_Vetor(texto,fim-1)),"\nFIM")],None)
+    registro = [unidade, municipio, referencia, classificacao]
+    if not any(linha[:4] == registro for linha in aba_info_geral):
+        aba_info_geral.append(registro)
 
-        cod = Index(texto,"CÓDIGO DA INSTALAÇÃO")
-        for i in reversed(range(1,len(cod))):
-            texto = Linha(texto,cod[i]-1,None,[(len(Linha_para_Vetor(texto,cod[i]-1)),"\nFIM\n")],None)
-        # APAGANDO LINHAS DESNECESSÁRIAS
-        lixo = Index(texto,"CÓDIGO DO CLIENTE")
-        end = Index(texto,"ENDEREÇO:")
-        for i in reversed(range(0,len(cod))):
-            texto = Apagar_linhas(texto,None,(lixo[i],end[i]-1))
-        end = Index(texto,"ENDEREÇO:")        
-        clas = Index(texto,"CLASSIFICAÇÃO")
-        for i in reversed(range(0,len(cod))):
-            texto = Apagar_linhas(texto,None,(clas[i]+1,clas[i]+2))
-            texto = Linha(texto,clas[i],None,[(1,"\nHISTÓRICO DO CONSUMO")],None)
-            texto = Juntar(texto,(end[i]+1,clas[i]-1),None)   
-
-        hist = Index(texto,"HISTÓRICO DO CONSUMO")
-        reg = Index(texto,"REGISTRADO")
-        fim = Index(texto,"FIM")
-        for i in reversed(range(0,len(cod))):
-            for a in range(hist[i]+1,reg[i]):                
-                vetor = Linha_para_Vetor(texto,a)
-                if len(vetor) == 1:
-                    texto = Linha(texto,a,None,[(1,"UNK")],None)
-                if len(vetor) == 2:
-                    texto = Linha(texto,a,None,[(2,"UNK")],None)
-    else:
-        # print("Layout Antigo")
-        # DELIMITAÇÃO DAS FATURAS INDIVIDUAIS
-        fim = len(texto.splitlines())
-        texto = Linha(texto,fim-1,None,[(len(Linha_para_Vetor(texto,fim-1)),"\nFIM")],None)
-        cod = Index(texto,"Nº DA INSTALAÇÃO")
-        for i in reversed(range(0,len(cod))):
-            texto = Apagar_linhas(texto,None,(cod[i]-4,cod[i]-1))
-        cod = Index(texto,"Nº DA INSTALAÇÃO")
-        for i in reversed(range(1,len(cod))):
-            texto = Linha(texto,cod[i]-1,None,[(len(Linha_para_Vetor(texto,cod[i]-1)),"\nFIM\n")],None)
-
-        # APAGANDO LINHAS DESNECESSÁRIAS
-        lixo = Index(texto,"Nº DA INSTALAÇÃO")
-        end = Index(texto,"ENDEREÇO DA UNIDADE CONSUMIDORA")
-        for i in reversed(range(0,len(cod))):
-            texto = Apagar_linhas(texto,None,(lixo[i]+2,end[i]-1))
-        end = Index(texto,"ENDEREÇO DA UNIDADE CONSUMIDORA")
-        clas = Index(texto,"CLASSIFICAÇÃO")
-        for i in reversed(range(0,len(cod))):
-            texto = Juntar(texto,(end[i]+1,clas[i]-1),None)    
-        clas = Index(texto,"CLASSIFICAÇÃO")
-        hist = Index(texto,"HISTÓRICO DO CONSUMO")
-        for i in reversed(range(0,len(cod))):
-            texto = Juntar(texto,(clas[i]+1,hist[i]-1))
-        hist = Index(texto,"HISTÓRICO DO CONSUMO")
-        for i in reversed(range(0,len(cod))):
-            texto = Apagar_linhas(texto,[hist[i]+1])        
-
-        hist = Index(texto,"HISTÓRICO DO CONSUMO")
-        reg = Index(texto,"APENAS O CONSUMO REGISTRADO")
-        fim = Index(texto,"FIM")
-        for i in reversed(range(0,len(cod))):
-            for a in range(hist[i]+1,reg[i]):                
-                vetor = Linha_para_Vetor(texto,a)
-                if len(vetor) == 1:
-                    texto = Linha(texto,a,None,[(1,"UNK")],None)
-                texto = Linha(texto,a,[0],None,None)
-                texto = Linha(texto,a,None,[(0,re.sub(" ","",vetor[0]))],None)                
-                vetor = []            
-    
-    # FORMATAÇÃO FINAL
-    texto = re.sub(r"Nº DA INSTALAÇÃO|CÓDIGO DA INSTALAÇÃO", "\nUNIDADE CONSUMIDORA", texto)
-    texto = re.sub(r"ENDEREÇO DA UNIDADE CONSUMIDORA|ENDEREÇO:", "ENDEREÇO", texto)
-    texto = re.sub("CLASSIFICAÇÃO: ", "CLASSIFICAÇÃO\n", texto)
-
-    # ANALISE   
-   
-    cod  = Index(texto,"UNIDADE CONSUMIDORA")
-    hist = Index(texto,"HISTÓRICO DO CONSUMO")
-    reg = Index(texto,"APENAS O CONSUMO REGISTRADO")
-    fim = Index(texto,"FIM")
-    linhas = texto.splitlines()
-    vetor = []
-    
-    for i in range(0, len(cod)):
-        # MATRIZ
-        vetor.extend(Linha_para_Vetor(texto, cod[i]+1))
-        vetor.extend(Linha_para_Vetor(texto, 15))
-        vetor.extend(Linha_para_Vetor(texto, cod[i]+5))
-        vetor.extend(Linha_para_Vetor(texto, cod[i]+3))
-        chave = vetor[0]
-        if not any(sub[0] == chave for sub in aba_info_geral):
-            aba_info_geral.append(vetor)
-        # HISTORICO
-        grab = []
-        grab.extend(Linha_para_Vetor(texto, cod[i]+1))
-        for a in range(hist[i]+1,reg[i]):
-            grab.append((Linha_para_Vetor(texto,a)[0],Linha_para_Vetor(texto,a)[1]))        
-        historico.append(grab)
-
-        # CONSUMO
-        grub = []
-        grub.extend(Linha_para_Vetor(texto, cod[i]+1))
-        grub.append((Linha_para_Vetor(texto,9)[0],Linha_para_Vetor(texto,reg[i]+1)[0]))        
-        historico.append(grub)
-
-        grab = []
-        grub = []
-        vetor = []       
-
-    vetor = []
-    
-    return texto
+    return (
+        f"MUNICIPIO\t{municipio}\n"
+        f"UNIDADE CONSUMIDORA\t{unidade}\n"
+        f"MES/ANO REFERENCIA\t{referencia}\n"
+        f"CLASSIFICACAO\t{classificacao}\n"
+        f"FORNECIMENTO\t{fornecimento}\n"
+        f"CLIENTE\t{cliente}\n"
+        f"ENDERECO DE ENTREGA\t{endereco_entrega}\n"
+    )

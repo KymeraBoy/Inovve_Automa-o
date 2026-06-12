@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA BRASILICIO CAMILO 128
+ GRUPO ESCOLAR E FREIRE
+ ANEQUIM/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2023
+
+CÓDIGO DA INSTALAÇÃO
+272494
+CÓDIGO DO CLIENTE
+242704010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT23
+        358
+ 29
+SET23
+        415
+ 32
+AGO23
+        466
+ 31
+JUL23
+        313
+ 31
+JUN23
+        491
+ 30
+MAI23
+        431
+ 30
+ABR23
+        401
+ 29
+MAR23
+        266
+ 31
+FEV23
+        237
+ 31
+JAN23
+        335
+ 29
+DEZ22
+        425
+ 31
+NOV22
+        464
+ 30
+OUT22
+        418
+ 30
+
+CONSUMO
+kWh
+         358,00  
+         160,00  
+
+Consumo-TUSD
+kWh
+          358,00 
+ 0,52318729 
+           187,30 
+             8,08 
+           187,30 
+20,00
+            37,46 
+ 0,39599000
+Consumo-TE
+kWh
+          358,00 
+ 0,38740619 
+           138,69 
+             5,97 
+           138,69 
+20,00
+            27,73 
+ 0,29322000
+Comp.DMIC 08/23
+            39,79-
+TRIBF-IRRF(1.2%)
+             3,90-
+TOTAL
+           282,30 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

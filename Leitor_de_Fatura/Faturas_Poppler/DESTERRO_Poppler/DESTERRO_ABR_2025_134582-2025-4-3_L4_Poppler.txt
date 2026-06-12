@@ -1,130 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 009 - 0139 - 510 - 3400
-MATRÍCULA: 134582-2025-4-3
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM DESTERRO SECRETARIA DE ACAO SOCIAL
-
-RUA CON FLORENTINO, 39 - 58695000
-
-
-CENTRO
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Abril / 2025   23/05/2025   R$ 332,21
-Declaração de Quitação Anual de Débitos: Conforme previsto na Lei 12.007 de 29 de julho de 2009, informamos a quitação dos débitos referentes aos faturamentos regulares de energia elétrica desta unidade consumidora
-vencidos no ano de 2024 e nos anos anteriores. Esta declaração substitui, para a comprovação do cumprimento das obrigações do consumidor, as quitacões dos faturamentos mensais dos débitos do ano a que se refere e
-dos anos anteriores.
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        429,00       0,774380        332,21       13,40         332,21   20      66,44   0,588270
-
-
-
-
-                           TOTAL:                         332,21       13,40         332,21           66,44
-00009066735   Energia ativa em kWh   Ponta   30724   31153   1   429
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  134582-2025-4-3       23/05/2025       5285122        R$ 332,21
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/05/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000134582-6
-17/03/2025   14/04/2025   28   14/05/2025
-5/134582-6
-
-00009066735
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         265,76    0,8996      2,39
-COFINS      265,76    4,1435     11,01
-ICMS        332,21     20,00     66,44
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              ABR/25                28
-              MAR/25                31
-              FEV/25                30
-              JAN/25                30
-Consumo kWh
-
-
-
-
-              DEZ/24                33
-              NOV/24                28
-              OUT/24                30
-              SET/24                32
-              AGO/24                30
-              JUL/24                32
-              JUN/24                30
-              MAI/24                36
-              ABR/24                32
-  332,21                  66,44
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-DIC         12,00       0,00   999,00   999,00
-FIC          4,00       0,00   999,00   999,00
-DMIC         9,00       0,00
-DICRI       13,00
-
-
-Conjunto:    Teixeira
-
-Referência:                         02/2025
-Tensão Contratada:
-Limite Adequado:                  350 a 399
-Serviço de distribuição                      87,40    26,31
-Compra de energia                           101,65    30,60
-Serviço de transmissão                       22,54     6,78
-Encargos setoriais                           40,78    12,28
-Impostos diretos e encargos                  79,84    24,03
-Outros serviços                               0,00     0,00
-Total                                       332,21   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 02/2025): R$ 54,67
-ABR/25    429,00
-MAR/25    336,00
-FEV/25    251,00
-JAN/25    159,00
-DEZ/24    396,00
-NOV/24    409,00
-OUT/24    498,00
-SET/24    302,00 *
-AGO/24    274,00
-JUL/24    387,00
-JUN/24    570,00
-MAI/24    305,00 *
-ABR/24    554,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 17/03/2025      Leitura Atual: 14/04/2025   Dias: 28
-
-
-
-KWH   Ponta   31.153,00      30.724,00       1,00                                                  429,00            429,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

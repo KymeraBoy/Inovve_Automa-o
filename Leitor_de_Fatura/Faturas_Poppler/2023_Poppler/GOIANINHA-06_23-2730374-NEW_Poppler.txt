@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI CATU 55 --A
+ POSTO DE APOIO DE UBS
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+2730374
+CÓDIGO DO CLIENTE
+7013888757
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+        248
+ 31
+MAI23
+        350
+ 30
+ABR23
+        317
+ 30
+MAR23
+        263
+ 31
+FEV23
+        160
+ 30
+JAN23
+        145
+ 30
+DEZ22
+        342
+ 31
+NOV22
+        353
+ 30
+OUT22
+        317
+ 29
+SET22
+        240
+ 33
+AGO22
+        289
+ 30
+JUL22
+        192
+ 29
+JUN22
+        295
+ 32
+
+CONSUMO
+kWh
+  248,00 
+   74,00 
+
+Consumo-TUSD
+kWh
+          248,00 
+ 0,51793188 
+           128,44 
+             4,55 
+           128,44 
+20,00
+            25,69 
+ 0,39599000
+Consumo-TE
+kWh
+          248,00 
+ 0,38351470 
+            95,11 
+             3,36 
+            95,11 
+20,00
+            19,02 
+ 0,29322000
+Ilum. Púb. Municipal
+            25,63 
+IPCA-NF-097536153
+             0,19 
+TOTAL
+           249,37 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

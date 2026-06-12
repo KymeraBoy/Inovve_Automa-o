@@ -1,103 +1,0 @@
-PM JERICO IGREJA CATOLICA
-
-DOMICÍLIO DE ENTREGA
-PM JERICO IGREJA CATOLICA
-RUA LOPES FIGUEIREDO 110
-JERICÓ (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 012 - 0253 - 720 - 2260                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00000477500                          DOM. BANC.:
-MATRÍCULA: 388903-2020-6-0                           DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA PE JERONIMO MUNHOS, S/N
-CENTRO
-JERICO (AG: 245)
-
-
-
-                                                                   0000388903-7
-5/388903-7
-          R$ 142,84
-
-
-          Junho/2020
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX0-30
-Insc. Est.: 00XXXXXX
-23/07/2020
-               6,54 kWh
-             MÉDIA DIÁRIA
-183 kWh
-19/06/2020   08/07/2020   20/07/2020
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
-0601 Consumo em kWh                        183,00    0,545400    0,780560      142,84        142,84   25      35,71         142,84        1,30          6,01
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         142,84        142,84           35,71         142,84        1,30          6,01
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   388903-2020-6-0           23/07/2020         46400452      R$ 142,84
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Leitura confirmada
-DIC          6,27     0,00   12,54   25,08
-FIC          3,42     0,00    6,85   13,70
-DMIC         3,71     0,00
-DICRI       12,22
-
-
-Conjunto:    Jericó
-
-Referência:                      04/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      39,21 27,45
-Compra de energia                            48,88 34,22
-Serviço de transmissão                        5,83   4,08
-Encargos setoriais                            5,90   4,13
-Impostos diretos e encargos                  43,02 30,12
-Outros serviços                               0,00   0,00
-Total                                       142,84 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2020): R$ 51,92
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-8   JUN/20    183,00
-0   MAI/20    224,00
-    ABR/20    163,00
-    MAR/20     97,00
-    FEV/20    208,00
-    JAN/20    346,00
-    DEZ/19    257,00
-    NOV/19    287,00
-    OUT/19    272,00
-    SET/19    443,00
-    AGO/19    277,00
-    JUL/19    255,00
-    JUN/19    200,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 21/05/2020   Leitura Atual: 18/06/2020   Dias: 28
-
-
-KWH   Ponta   27.547,00    27.364,00      1              0                                  183,00         183,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

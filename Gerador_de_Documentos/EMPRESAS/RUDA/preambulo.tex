@@ -1,0 +1,49 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[a4paper,left=2cm,right=2cm,top=0.3cm,bottom=0.6cm,includehead,includefoot,headheight=2.5cm,headsep=0.3cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{iftex}
+\ifPDFTeX
+\usepackage{mathptmx}
+\else
+\usepackage{fontspec}
+\setmainfont{Georgia}
+\fi
+\usepackage{enumitem}
+\usepackage{graphicx}
+\graphicspath{{../}}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{titlesec} 
+\usepackage{setspace}
+
+\setstretch{1.5}
+
+\titleformat{\section}
+  {\normalfont\bfseries\fontsize{12}{14}\selectfont}
+  {\thesection.}{0.5em}{}
+
+\setlength{\parindent}{0pt}
+\setlist[enumerate]{leftmargin=*,labelsep=0.5em}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\includegraphics[height=2.5cm]{Header_Ruda.png}}
+\fancyfoot[C]{\footnotesize\begin{tabular}{c}Fone: (88) 98115.4459 - (88)2148-1570 / E-mail:rpbsociedade.advocacia@gmail.com\\Avenida Francisco Maciel, N° 1659, Centro, CEP:63430-000 ICÓ/CE
+\end{tabular}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\providecommand{\ExibirUnidadeConsumidora}{1}
+\providecommand{\EmailEmpresa}{rudapereirabrasil.adv@outlook.com.br}
+\newcommand{\Citacao}[1]{%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{4cm}%
+    \setlength{\rightmargin}{0cm}%
+    \setlength{\topsep}{\baselineskip}%
+    \setlength{\partopsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\itemsep}{0pt}%
+  }\item[]
+  {\begingroup\scriptsize\setstretch{1}\selectfont #1\par\endgroup}
+  \end{list}%
+}

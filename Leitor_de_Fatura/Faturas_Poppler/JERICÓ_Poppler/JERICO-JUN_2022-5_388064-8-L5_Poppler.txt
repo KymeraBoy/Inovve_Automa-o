@@ -1,102 +1,0 @@
-PM JERICO CENTRO DE REFERENCIA DE ASSISTENCIA
-SOCIAL CASA DA FAMILIA
-DOMICÍLIO DE ENTREGA
-PM JERICO CENTRO DE REFERENCIA DE ASSISTENCIA SOCIAL CASA DA F
-RUA LOPES FIGUEIREDO 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0253 - 700 - 3680                          LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: W7024258065                             DOM. BANC.:
-MATRÍCULA: 388064-2022-6-7                               DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA MANOEL DE SOUSA PEDROSA, 110
-CENTRO
-JERICO (AG: 245)
-
-
-
-                                                                       0000388064-8
-5/388064-8
-              R$ 407,23
-
-
-              Junho/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2022
-              16,96 kWh
-             MÉDIA DIÁRIA
-475 kWh
-15/06/2022   04/07/2022   15/07/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        475,00    0,596920    0,826800      392,73        392,73   25      98,18         294,55        1,96          9,05
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 04/2022                                                              13,59                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2022                                                       0,91                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         407,23        392,73           98,18         294,55        1,96          9,05
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   388064-2022-6-7           23/07/2022         87496310      R$ 407,23
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-DIC         12,00     5,71   0,00       0
-FIC          4,00     4,00   0,00    0,00
-DMIC         9,00     1,89
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                     04/2022
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                      96,69 23,75
-Compra de energia                           132,10 32,44
-Serviço de transmissão                       21,83   5,36
-Encargos setoriais                           32,92   8,08
-Impostos diretos e encargos                 123,69 30,37
-Outros serviços                               0,00   0,00
-Total                                       407,23 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2022): R$ 226,55
-0   JUN/22    475,00
-0   MAI/22    583,00
-    ABR/22    664,00
-    MAR/22    752,00
-    FEV/22    788,00
-    JAN/22    417,00
-    DEZ/21    815,00
-    NOV/21    569,00
-    OUT/21    706,00
-    SET/21    475,00
-    AGO/21    515,00
-    JUL/21    455,00
-    JUN/21    300,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 17/05/2022   Leitura Atual: 14/06/2022   Dias: 28
-
-
-KWH   Ponta   7.650,00     7.175,00      1              0                                  475,00         475,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

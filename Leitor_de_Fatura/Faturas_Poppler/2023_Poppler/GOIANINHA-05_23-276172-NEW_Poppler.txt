@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI ANIQUIM 999 A
+ QUADRA DE ESPORTES
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+276172
+CÓDIGO DO CLIENTE
+855065568
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+        217
+ 30
+ABR23
+        201
+ 29
+MAR23
+        223
+ 31
+FEV23
+        244
+ 31
+JAN23
+        226
+ 29
+DEZ22
+        253
+ 31
+NOV22
+        311
+ 30
+OUT22
+        313
+ 30
+SET22
+        359
+ 32
+AGO22
+        423
+ 30
+JUL22
+        419
+ 32
+JUN22
+        376
+ 29
+MAI22
+        406
+ 30
+
+CONSUMO
+kWh
+  217,00 
+    0,00 
+
+Consumo-TUSD
+kWh
+          217,00 
+ 0,51162846 
+           111,02 
+             4,91 
+           111,02 
+20,00
+            22,20 
+ 0,38666833
+Consumo-TE
+kWh
+          217,00 
+ 0,37980751 
+            82,41 
+             3,64 
+            82,41 
+20,00
+            16,48 
+ 0,28704333
+Ilum. Púb. Municipal
+            21,92 
+TOTAL
+           215,35 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

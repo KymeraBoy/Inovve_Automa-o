@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO MIRANDA 83
+ CRECHE MUNICIPAL ELIZABETH BERNARO
+ MIRANDA/AREA RURAL
+ 59180-000 ESPIRITO SANTO RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+241512
+CÓDIGO DO CLIENTE
+242736010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+        358
+ 31
+MAI23
+        319
+ 30
+ABR23
+        358
+ 30
+MAR23
+        425
+ 31
+FEV23
+        576
+ 30
+JAN23
+        573
+ 30
+DEZ22
+        704
+ 31
+NOV22
+        690
+ 30
+OUT22
+        680
+ 29
+SET22
+        741
+ 33
+AGO22
+        630
+ 30
+JUL22
+        535
+ 29
+JUN22
+        605
+ 32
+
+CONSUMO
+kWh
+  358,00 
+    5,00 
+
+Consumo-TUSD
+kWh
+          358,00 
+ 0,51793188 
+           185,41 
+             6,57 
+           185,41 
+20,00
+            37,09 
+ 0,39599000
+Consumo-TE
+kWh
+          358,00 
+ 0,38351470 
+           137,29 
+             4,85 
+           137,29 
+20,00
+            27,45 
+ 0,29322000
+IPCA-NF-097536105
+             0,05 
+TOTAL
+           322,75 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

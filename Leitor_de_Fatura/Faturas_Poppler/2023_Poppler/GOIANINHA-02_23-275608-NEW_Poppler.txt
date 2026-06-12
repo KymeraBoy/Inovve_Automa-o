@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA PRINCIPAL 116
+ PO O
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+02/2023
+
+CÓDIGO DA INSTALAÇÃO
+275608
+CÓDIGO DO CLIENTE
+242755014
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV23
+       1185
+ 31
+JAN23
+       1197
+ 31
+DEZ22
+       1084
+ 29
+NOV22
+       1066
+ 30
+OUT22
+       1058
+ 32
+SET22
+       1017
+ 30
+AGO22
+        996
+ 30
+JUL22
+       1064
+ 32
+JUN22
+       1006
+ 29
+MAI22
+       1126
+ 30
+ABR22
+       1284
+ 32
+MAR22
+       1099
+ 29
+FEV22
+       1078
+ 30
+
+CONSUMO
+kWh
+1.185,00 
+  893,00 
+
+Consumo-TUSD
+kWh
+        1.185,00 
+ 0,47349509 
+           561,09 
+            23,84 
+           561,09 
+18,00
+           101,00 
+ 0,36815380
+Consumo-TE
+kWh
+        1.185,00 
+ 0,35220829 
+           417,36 
+            17,71 
+           417,36 
+18,00
+            75,12 
+ 0,27385040
+Cob. ICMS Subven-CDE
+             5,44 
+Multa-NF 092723859
+            19,69 
+Multa-NF 091148576
+            17,98 
+Juros-NF 092723859
+             0,32 
+Juros-NF 091148576
+             2,09 
+IPCA-NF-091148576
+             1,01 
+TOTAL
+         1.024,98 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

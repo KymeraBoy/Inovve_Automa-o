@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA FRANCISCA FREIRE DE ANDRADE 100
+ PO O TUBULAR
+ UNA/UNA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2022
+
+CÓDIGO DA INSTALAÇÃO
+2132268
+CÓDIGO DO CLIENTE
+7001898480
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT22
+        515
+ 30
+SET22
+        100
+ 32
+AGO22
+        100
+ 30
+JUL22
+        100
+ 32
+JUN22
+        100
+ 29
+MAI22
+        122
+ 30
+ABR22
+        100
+ 32
+MAR22
+        436
+ 29
+FEV22
+        157
+ 30
+JAN22
+        511
+ 32
+DEZ21
+        463
+ 29
+NOV21
+        225
+ 30
+OUT21
+        306
+ 32
+
+CONSUMO
+kWh
+  515,00 
+  520,00 
+
+Consumo-TUSD
+kWh
+          515,00 
+ 0,47239904 
+           243,28 
+             9,89 
+           243,28 
+18,00
+            43,79 
+ 0,36815380
+Consumo-TE
+kWh
+          515,00 
+ 0,35139299 
+           180,96 
+             7,35 
+           180,96 
+18,00
+            32,57 
+ 0,27385040
+Cob. ICMS Subven-CDE
+             2,36 
+Multa-NF 084824843
+             1,64 
+Juros-NF 084824843
+             0,62 
+TOTAL
+           428,86 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

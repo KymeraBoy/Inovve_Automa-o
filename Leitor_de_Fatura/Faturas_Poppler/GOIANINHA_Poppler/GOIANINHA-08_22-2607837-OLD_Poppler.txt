@@ -1,0 +1,92 @@
+CONTA CONTRATO
+7010783660
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2607837
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA EDITE BARBOSA DA SILVA 678
+ESTACAO ELEVATORIA DE ESGOTO
+PITOMBEIRA/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        100
+JUL 22
+        100
+JUN 22
+        100
+MAI 22
+        247
+ABR 22
+        100
+MAR 22
+        100
+FEV 22
+        100
+JAN 22
+        100
+DEZ 21
+        100
+NOV 21
+        100
+OUT 21
+        100
+SET 21
+        475
+AGO 21
+        244
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+    0,00 
+    1,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       100,0000000 
+ 0,47111022 
+            47,11 
+Consumo Ativo(kWh)-TE                        
+       100,0000000 
+ 0,35043431 
+            35,04 
+Cobrança de ICMS sobre Subvenção CDE         
+             0,45 
+Multa por atraso-NF 081654382 - 28/06/22     
+             1,65 
+Juros por atraso-NF 081654382 - 28/06/22     
+             0,57 
+Atualizacao IPCA-NF 081654382 - 28.06.22     
+             0,57 
+Atualizacao IPCA-NF 080049084 - 27.05.22     
+             2,41 
+TOTAL DA FATURA
+            87,80 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7010783660
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+            87,80 
+VENCIMENTO
+20/09/2022

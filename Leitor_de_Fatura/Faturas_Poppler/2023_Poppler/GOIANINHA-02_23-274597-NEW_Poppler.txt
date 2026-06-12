@@ -1,0 +1,116 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA TABELIAO ANTONIO TEOFILO DE CARVALHO 20
+ CENTRO CLINICO - CASULO
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+02/2023
+
+CÓDIGO DA INSTALAÇÃO
+274597
+CÓDIGO DO CLIENTE
+242740017
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV23
+       2165
+ 28
+JAN23
+       1865
+ 32
+DEZ22
+       3061
+ 29
+NOV22
+       2646
+ 30
+OUT22
+       2462
+ 31
+SET22
+       2457
+ 31
+AGO22
+       2513
+ 32
+JUL22
+       2477
+ 31
+JUN22
+       2590
+ 28
+MAI22
+       2833
+ 33
+ABR22
+       2990
+ 29
+MAR22
+       2876
+ 30
+FEV22
+       2886
+ 30
+
+CONSUMO
+kWh
+2.165,00 
+  229,00 
+
+Consumo-TUSD
+kWh
+        2.165,00 
+ 0,48813927 
+         1.056,82 
+            44,88 
+         1.056,82 
+18,00
+           190,23 
+ 0,37954000
+Consumo-TE
+kWh
+        2.165,00 
+ 0,36310133 
+           786,11 
+            33,39 
+           786,11 
+18,00
+           141,49 
+ 0,28232000
+Multa-NF 091148571
+            52,37 
+Multa-NF 092723854
+            31,63 
+Juros-NF 091148571
+             8,72 
+Juros-NF 092723854
+             0,52 
+IPCA-NF-091148571
+             4,22 
+TOTAL
+         1.940,39 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,129 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RO RN 003 99
+ CENTRO ADMINISTRATIVO
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+2053104
+CÓDIGO DO CLIENTE
+7000657560
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+       7075
+ 32
+OUT23
+       6473
+ 28
+SET23
+       6764
+ 31
+AGO23
+       7170
+ 33
+JUL23
+       6056
+ 30
+JUN23
+       7446
+ 29
+MAI23
+       7246
+ 32
+ABR23
+       7640
+ 29
+MAR23
+       8221
+ 30
+FEV23
+       8263
+ 32
+JAN23
+       7378
+ 29
+DEZ22
+       7750
+ 30
+NOV22
+       7868
+ 31
+
+CONSUMO
+kWh
+       6.902,00 
+         207,00  
+
+Consumo-TUSD
+kWh
+        7.074,55 
+ 0,52197353 
+         3.692,72 
+           152,74 
+         3.692,72 
+20,00
+           738,54 
+ 0,39599000
+BANDEIRA VERDE
+Consumo-TE
+kWh
+        7.074,55 
+ 0,38650743 
+         2.734,36 
+           113,08 
+         2.734,36 
+20,00
+           546,87 
+ 0,29322000
+Cons.Reat.Excedente
+kVARh
+          212,18 
+ 0,38650743 
+            82,00 
+             3,38 
+            82,00 
+20,00
+            16,40 
+ 0,29322000
+Ilum. Púb. Municipal
+           585,10 
+Multa-NF 105570567
+           124,08 
+Juros-NF 105570567
+            24,80 
+IPCA-NF-105570567
+             5,70 
+TRIBF-IRRF(1.2%)
+            78,10-
+TRIBF-IRRF(4.8%)
+             7,37-
+TOTAL
+         7.163,29 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

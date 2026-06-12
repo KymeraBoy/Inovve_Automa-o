@@ -1,0 +1,97 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA ALTO SAO JOSE 77421 -PR
+ POCO DE ALTO SAO JOSE 2
+ SAO LUIZ/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+7017068
+CÓDIGO DO CLIENTE
+7020752348
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+         30
+ 29
+FEV23
+         30
+ 30
+JAN23
+         30
+ 32
+DEZ22
+         30
+ 29
+NOV22
+         30
+ 30
+OUT22
+         30
+ 29
+SET22
+         30
+ 33
+AGO22
+         30
+ 34
+JUL22
+JUN22
+MAI22
+ABR22
+MAR22
+
+CONSUMO
+kWh
+    3,00 
+
+Consumo-TUSD
+kWh
+           30,00 
+ 0,47354503 
+            14,20 
+             0,60 
+            14,20 
+18,00
+             2,55 
+ 0,36815380
+Consumo-TE
+kWh
+           30,00 
+ 0,35224544 
+            10,56 
+             0,44 
+            10,56 
+18,00
+             1,90 
+ 0,27385040
+Cob. ICMS Subven-CDE
+             0,13 
+TOTAL
+            24,89 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

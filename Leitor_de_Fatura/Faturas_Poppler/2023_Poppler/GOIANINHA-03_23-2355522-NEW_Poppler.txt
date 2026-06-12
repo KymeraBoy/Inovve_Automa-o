@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA ALAIDE BARBALHO GRILO 888888
+ MATADOURO NOVO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+2355522
+CÓDIGO DO CLIENTE
+7006147350
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+        400
+ 31
+FEV23
+        396
+ 31
+JAN23
+        366
+ 29
+DEZ22
+        390
+ 31
+NOV22
+        402
+ 30
+OUT22
+        410
+ 30
+SET22
+        446
+ 32
+AGO22
+        874
+ 30
+JUL22
+         30
+ 32
+JUN22
+        436
+ 29
+MAI22
+        419
+ 30
+ABR22
+        443
+ 32
+MAR22
+        384
+ 29
+
+CONSUMO
+kWh
+  400,00 
+
+Consumo-TUSD
+kWh
+          400,00 
+ 0,48819075 
+           195,27 
+             8,31 
+           195,27 
+18,00
+            35,15 
+ 0,37954000
+Consumo-TE
+kWh
+          400,00 
+ 0,36313962 
+           145,25 
+             6,17 
+           145,25 
+18,00
+            26,14 
+ 0,28232000
+Ilum. Púb. Municipal
+            39,70 
+IPCA-NF-092723891
+             0,05 
+TOTAL
+           380,27 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,116 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA INALDO BARBALHO 281818
+ UNIDADE BASICA DE SAUDE
+ SAPUCAIA/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2023
+
+CÓDIGO DA INSTALAÇÃO
+2531339
+CÓDIGO DO CLIENTE
+7009337029
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT23
+        969
+ 29
+SET23
+        720
+ 32
+AGO23
+        877
+ 31
+JUL23
+        847
+ 31
+JUN23
+       1396
+ 30
+MAI23
+       1447
+ 30
+ABR23
+       1324
+ 29
+MAR23
+       1296
+ 31
+FEV23
+       1248
+ 31
+JAN23
+        973
+ 29
+DEZ22
+       1094
+ 31
+NOV22
+       1079
+ 30
+OUT22
+        997
+ 30
+
+CONSUMO
+kWh
+         969,00  
+         214,00  
+
+Consumo-TUSD
+kWh
+          969,00 
+ 0,52318729 
+           506,96 
+            21,86 
+           506,96 
+20,00
+           101,40 
+ 0,39599000
+Consumo-TE
+kWh
+          969,00 
+ 0,38740619 
+           375,39 
+            16,18 
+           375,39 
+20,00
+            75,07 
+ 0,29322000
+Ilum. Púb. Municipal
+            80,14 
+Multa-NF 105570581
+            13,10 
+Juros-NF 105570581
+             0,64 
+TRIBF-IRRF(1.2%)
+            10,58-
+TRIBF-IRRF(4.8%)
+             0,64-
+TOTAL
+           965,01 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

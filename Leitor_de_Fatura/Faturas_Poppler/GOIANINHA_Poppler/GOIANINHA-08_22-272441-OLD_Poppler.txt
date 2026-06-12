@@ -1,0 +1,90 @@
+CONTA CONTRATO
+0854337149
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272441
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BRASILICIO CAMILO 1
+GINASIO POLIESPORTIVO DR OSMUNDO FARIA
+ANEQUIM/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+       2573
+JUL 22
+       2541
+JUN 22
+       2827
+MAI 22
+       2840
+ABR 22
+       2459
+MAR 22
+       2455
+FEV 22
+       2245
+JAN 22
+       2232
+DEZ 21
+       2286
+NOV 21
+       2234
+OUT 21
+       2386
+SET 21
+       2728
+AGO 21
+       2552
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+2.573,00 
+  507,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     2.573,0000000 
+ 0,48568064 
+         1.249,65 
+Consumo Ativo(kWh)-TE                        
+     2.573,0000000 
+ 0,36127248 
+           929,55 
+Multa por atraso-NF 081654351 - 28/06/22     
+            48,26 
+Juros por atraso-NF 081654351 - 28/06/22     
+            16,89 
+Atualizacao IPCA-NF 081654351 - 28.06.22     
+            16,72 
+Atualizacao IPCA-NF 080049053 - 27.05.22     
+            28,59 
+TOTAL DA FATURA
+         2.289,66 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0854337149
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+         2.289,66 
+VENCIMENTO
+20/09/2022

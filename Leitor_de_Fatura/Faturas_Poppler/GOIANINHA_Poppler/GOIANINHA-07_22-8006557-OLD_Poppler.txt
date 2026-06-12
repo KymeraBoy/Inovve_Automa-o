@@ -1,0 +1,84 @@
+CONTA CONTRATO
+7017963303
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+8006557
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VINICIO BARBALHO 270
+UBS COAHB COVID
+COHAB/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        531
+JUN 22
+        738
+MAI 22
+        793
+ABR 22
+        866
+MAR 22
+        892
+FEV 22
+       1021
+JAN 22
+        901
+DEZ 21
+        962
+NOV 21
+        680
+OUT 21
+        591
+SET 21
+        502
+AGO 21
+        502
+JUL 21
+        100
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  531,00 
+   25,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       531,0000000 
+ 0,49450125 
+           262,58 
+Consumo Ativo(kWh)-TE                        
+       531,0000000 
+ 0,36742233 
+           195,10 
+Contrib. Ilum. Pública Municipal             
+            42,76 
+TOTAL DA FATURA
+           500,44 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7017963303
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           500,44 
+VENCIMENTO
+22/08/2022

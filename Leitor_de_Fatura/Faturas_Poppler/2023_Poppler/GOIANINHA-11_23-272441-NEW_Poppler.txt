@@ -1,0 +1,116 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA BRASILICIO CAMILO 1
+ GINASIO POLIESPORTIVO DR OSMUNDO FARIA
+ ANEQUIM/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+272441
+CÓDIGO DO CLIENTE
+854337149
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+       2978
+ 32
+OUT23
+       2368
+ 30
+SET23
+       2335
+ 29
+AGO23
+       2896
+ 33
+JUL23
+       2772
+ 30
+JUN23
+       3183
+ 31
+MAI23
+       2932
+ 30
+ABR23
+       2681
+ 30
+MAR23
+       2697
+ 31
+FEV23
+       2488
+ 30
+JAN23
+       2363
+ 30
+DEZ22
+       2562
+ 31
+NOV22
+       2595
+ 30
+
+CONSUMO
+kWh
+       2.978,00 
+         359,00  
+
+Consumo-TUSD
+kWh
+        2.978,00 
+ 0,52197353 
+         1.554,43 
+            64,29 
+         1.554,43 
+20,00
+           310,88 
+ 0,39599000
+Consumo-TE
+kWh
+        2.978,00 
+ 0,38650743 
+         1.151,01 
+            47,60 
+         1.151,01 
+20,00
+           230,20 
+ 0,29322000
+Multa-NF 105570553
+            42,50 
+Juros-NF 105570553
+             8,49 
+IPCA-NF-105570553
+             1,94 
+TRIBF-IRRF(1.2%)
+            32,46-
+TRIBF-IRRF(4.8%)
+             2,51-
+TOTAL
+         2.723,40 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

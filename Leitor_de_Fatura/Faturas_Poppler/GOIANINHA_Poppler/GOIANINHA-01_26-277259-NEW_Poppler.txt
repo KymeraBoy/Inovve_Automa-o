@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI MIRANDA 910
+ POSTO DE SAUDE
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+277259
+CÓDIGO DO CLIENTE
+854759671
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        844
+ 32
+DEZ25
+        826
+ 31
+NOV25
+        719
+ 29
+OUT25
+        748
+ 32
+SET25
+        611
+ 30
+AGO25
+        629
+ 32
+JUL25
+        568
+ 30
+JUN25
+        680
+ 30
+MAI25
+        863
+ 31
+ABR25
+        797
+ 30
+MAR25
+        659
+ 29
+FEV25
+        789
+ 29
+JAN25
+        754
+ 32
+
+CONSUMO
+kWh
+         844,00  
+         244,00  
+
+Consumo-TUSD
+kWh
+          844,00 
+ 0,57618540 
+           486,30 
+            23,94 
+           486,30 
+20,00
+            97,26 
+ 0,43260000
+Consumo-TE
+kWh
+          844,00 
+ 0,41507725 
+           350,32 
+            17,23 
+           350,32 
+20,00
+            70,06 
+ 0,31164000
+Acrés. Band. AMARELA
+             3,30 
+             0,15 
+             3,30 
+20,00
+             0,66 
+TRIBF-IRRF(1.2%)
+            10,08-
+TOTAL
+           829,84 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

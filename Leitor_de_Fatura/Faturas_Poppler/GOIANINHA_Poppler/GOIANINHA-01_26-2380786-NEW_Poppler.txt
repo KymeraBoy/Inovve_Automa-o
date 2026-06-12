@@ -1,0 +1,121 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA AMAURI BELO DA SILVA 699999
+ QUADRA DE ESPORTES
+ BARROCAS/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2380786
+CÓDIGO DO CLIENTE
+7006544490
+
+ CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        261
+ 32
+DEZ25
+        314
+ 31
+NOV25
+        342
+ 29
+OUT25
+        412
+ 32
+SET25
+        383
+ 30
+AGO25
+        410
+ 32
+JUL25
+        387
+ 30
+JUN25
+        381
+ 30
+MAI25
+        393
+ 31
+ABR25
+        384
+ 30
+MAR25
+        361
+ 29
+FEV25
+        348
+ 29
+JAN25
+        389
+ 32
+
+CONSUMO
+kWh
+         261,00  
+
+Consumo-TUSD
+kWh
+          261,00 
+ 0,31690197 
+            82,71 
+             4,08 
+            82,71 
+20,00
+            16,55 
+ 0,23793000
+Consumo-TE
+kWh
+          261,00 
+ 0,22828982 
+            59,58 
+             2,92 
+            59,58 
+20,00
+            11,91 
+ 0,17140000
+Acrés. Band. AMARELA
+             1,01 
+             0,04 
+             1,01 
+20,00
+             0,20 
+Multa-NF 149199769
+             4,12 
+Juros-NF 149199769
+             0,95 
+IPCA-NF-149199769
+             0,30 
+TRIBF-IRRF(1.2%)
+             1,72-
+TRIBF-IRRF(4.8%)
+             0,25-
+TOTAL
+           146,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

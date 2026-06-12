@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA EDITE BARBOSA DA SILVA 678
+ ESTACAO ELEVATORIA DE ESGOTO
+ PITOMBEIRA/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2023
+
+CÓDIGO DA INSTALAÇÃO
+2607837
+CÓDIGO DO CLIENTE
+7010783660
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET23
+        913
+ 31
+AGO23
+        252
+ 31
+JUL23
+        706
+ 32
+JUN23
+        871
+ 29
+MAI23
+        780
+ 30
+ABR23
+        643
+ 32
+MAR23
+        100
+ 29
+FEV23
+        100
+ 30
+JAN23
+        100
+ 32
+DEZ22
+        100
+ 29
+NOV22
+        100
+ 30
+OUT22
+        100
+ 29
+SET22
+        100
+ 33
+
+CONSUMO
+kWh
+         913,00  
+         946,00  
+
+Consumo-TUSD
+kWh
+          913,00 
+ 0,52296619 
+           477,46 
+            20,44 
+           477,46 
+20,00
+            95,49 
+ 0,39599000
+Consumo-TE
+kWh
+          913,00 
+ 0,38724247 
+           353,55 
+            15,12 
+           353,55 
+20,00
+            70,71 
+ 0,29322000
+Multa-NF 102317493
+            12,90 
+Juros-NF 102317493
+             3,43 
+IPCA-NF-102317493
+             0,40 
+TOTAL
+           847,74 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

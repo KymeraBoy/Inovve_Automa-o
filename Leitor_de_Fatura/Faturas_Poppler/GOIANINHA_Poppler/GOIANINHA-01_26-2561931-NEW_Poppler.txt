@@ -1,0 +1,124 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI ATERRO 50
+   QD- 1
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2561931
+CÓDIGO DO CLIENTE
+7021179935
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       1028
+ 33
+DEZ25
+        794
+ 24
+NOV25
+        918
+  6
+OUT25
+        790
+ 30
+SET25
+        780
+ 30
+AGO25
+        796
+ 32
+JUL25
+        725
+ 31
+JUN25
+        741
+ 31
+MAI25
+        728
+ 29
+ABR25
+        850
+ 30
+MAR25
+        772
+ 29
+FEV25
+        837
+ 31
+JAN25
+        947
+ 31
+
+CONSUMO
+kWh
+       1.028,00 
+         668,00  
+
+Consumo-TUSD
+kWh
+        1.028,00 
+ 0,57618540 
+           592,31 
+            29,15 
+           592,31 
+20,00
+           118,47 
+ 0,43260000
+Consumo-TE
+kWh
+        1.028,00 
+ 0,41507725 
+           426,69 
+            20,98 
+           426,69 
+20,00
+            85,33 
+ 0,31164000
+Acrés. Band. AMARELA
+             5,47 
+             0,26 
+             5,47 
+20,00
+             1,09 
+Aferição de Medidor
+            27,97 
+Multa-NF 149199791
+            17,52 
+Juros-NF 149199791
+             4,08 
+IPCA-NF-149199791
+             1,29 
+TRIBF-IRRF(1.2%)
+            12,30-
+TRIBF-IRRF(4.8%)
+             2,44-
+TOTAL
+         1.060,59 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

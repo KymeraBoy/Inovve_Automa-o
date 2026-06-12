@@ -1,0 +1,84 @@
+CONTA CONTRATO
+0855483653
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+275900
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI LAGOA DO POCO 200 A
+POSTO DE SAUDE DA LAGOA DO POCO
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        486
+JUL 22
+        481
+JUN 22
+        622
+MAI 22
+        641
+ABR 22
+        751
+MAR 22
+        651
+FEV 22
+        687
+JAN 22
+        531
+DEZ 21
+        659
+NOV 21
+        618
+OUT 21
+        560
+SET 21
+        506
+AGO 21
+        711
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  486,00 
+  230,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       486,0000000 
+ 0,48777928 
+           237,06 
+Consumo Ativo(kWh)-TE                        
+       486,0000000 
+ 0,36271252 
+           176,27 
+Contrib. Ilum. Pública Municipal             
+            48,45 
+TOTAL DA FATURA
+           461,78 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0855483653
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           461,78 
+VENCIMENTO
+20/09/2022

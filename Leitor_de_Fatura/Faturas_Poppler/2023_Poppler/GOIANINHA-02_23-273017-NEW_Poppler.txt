@@ -1,0 +1,126 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VEREADOR CLOVIS LISBOA 72
+ HOSPITAL MUNICIPAL DE GOIANINHA
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+02/2023
+
+CÓDIGO DA INSTALAÇÃO
+273017
+CÓDIGO DO CLIENTE
+833010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV23
+      14940
+ 30
+JAN23
+      15794
+ 32
+DEZ22
+      15184
+ 29
+NOV22
+      15078
+ 30
+OUT22
+      14313
+ 31
+SET22
+      12150
+ 31
+AGO22
+      11788
+ 32
+JUL22
+       9296
+ 30
+JUN22
+      10752
+ 29
+MAI22
+      12652
+ 31
+ABR22
+      14077
+ 31
+MAR22
+      14733
+ 32
+FEV22
+      13110
+ 29
+
+CONSUMO
+kWh
+14575,20 
+1.629,00 
+
+Consumo-TUSD
+kWh
+       14.939,58 
+ 0,48813927 
+         7.292,59 
+           309,75 
+         7.292,59 
+18,00
+         1.312,67 
+ 0,37954000
+Consumo-TE
+kWh
+       14.939,58 
+ 0,36310133 
+         5.424,58 
+           230,41 
+         5.424,58 
+18,00
+           976,42 
+ 0,28232000
+Cons.Reat.Excedente
+kVARh
+            0,00 
+ 0,36310133 
+             0,00 
+             0,00 
+             0,00 
+18,00
+             0,00 
+ 0,28232000
+Multa-NF 091148551
+           259,82 
+Multa-NF 092723834
+           267,94 
+Juros-NF 091148551
+            43,30 
+Juros-NF 092723834
+             4,46 
+IPCA-NF-091148551
+            20,91 
+TOTAL
+        13.313,60 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

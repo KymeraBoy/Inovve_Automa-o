@@ -1,0 +1,123 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI CATU 200 A
+ ASSOCIACAO DOS MORADORES DO VALE DO CATU
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+277519
+CÓDIGO DO CLIENTE
+7026430440
+
+ CLASSIFICAÇÃO: B3 COMERCIAL -OUTROS SERVIÇOS E OUTRAS
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       2212
+ 32
+DEZ25
+       2323
+ 31
+NOV25
+       1907
+ 29
+OUT25
+       1748
+ 32
+SET25
+       1206
+ 30
+AGO25
+       1250
+ 32
+JUL25
+       1061
+ 30
+JUN25
+       1059
+ 30
+MAI25
+       1277
+ 31
+ABR25
+       1112
+ 30
+MAR25
+       1237
+ 29
+FEV25
+       1158
+ 29
+JAN25
+       1303
+ 32
+
+CONSUMO
+kWh
+       2.212,00 
+
+Consumo-TUSD
+kWh
+        2.212,00 
+ 0,57618540 
+         1.274,52 
+            62,73 
+         1.274,52 
+20,00
+           254,90 
+ 0,43260000
+Consumo-TE
+kWh
+        2.212,00 
+ 0,41507725 
+           918,15 
+            45,16 
+           918,15 
+20,00
+           183,63 
+ 0,31164000
+Acrés. Band. AMARELA
+             8,67 
+             0,41 
+             8,67 
+20,00
+             1,73 
+Ilum. Púb. Municipal
+           198,33 
+Multa-NF 149199799
+            39,93 
+Juros-NF 149199799
+             9,31 
+IPCA-NF-149199799
+             2,96 
+TRIBF-IRRF(1.2%)
+            26,41-
+TRIBF-IRRF(4.8%)
+             2,51-
+TOTAL
+         2.422,95 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0856278174
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277549
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI CATU 100 SN
+ESCOLA MUNICIPAL ALFREDO LIMA
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        395
+JUL 22
+        313
+JUN 22
+        397
+MAI 22
+        481
+ABR 22
+        410
+MAR 22
+        513
+FEV 22
+        307
+JAN 22
+        271
+DEZ 21
+        464
+NOV 21
+        411
+OUT 21
+        408
+SET 21
+        353
+AGO 21
+        279
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  395,00 
+  105,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       395,0000000 
+ 0,48568064 
+           191,84 
+Consumo Ativo(kWh)-TE                        
+       395,0000000 
+ 0,36127248 
+           142,70 
+Contrib. Ilum. Pública Municipal             
+            39,21 
+Atualizacao IPCA-NF 081654361 - 28.06.22     
+             0,11 
+TOTAL DA FATURA
+           373,86 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856278174
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           373,86 
+VENCIMENTO
+20/09/2022

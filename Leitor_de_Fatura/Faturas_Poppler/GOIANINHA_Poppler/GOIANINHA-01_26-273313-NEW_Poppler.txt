@@ -1,0 +1,121 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA NEWTON DE ARAUJO LIMA 2270
+ ESCOLA MUN OTAVIO LIMA - ITAPERUBU
+ ITAPERUBU/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+273313
+CÓDIGO DO CLIENTE
+242743016
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        544
+ 32
+DEZ25
+        802
+ 31
+NOV25
+        994
+ 29
+OUT25
+        892
+ 32
+SET25
+        834
+ 30
+AGO25
+        752
+ 32
+JUL25
+        735
+ 30
+JUN25
+        790
+ 30
+MAI25
+        992
+ 31
+ABR25
+       1355
+ 30
+MAR25
+        929
+ 29
+FEV25
+        938
+ 29
+JAN25
+        539
+ 32
+
+CONSUMO
+kWh
+         544,00  
+
+Consumo-TUSD
+kWh
+          544,00 
+ 0,57618540 
+           313,44 
+            15,44 
+           313,44 
+20,00
+            62,69 
+ 0,43260000
+Consumo-TE
+kWh
+          544,00 
+ 0,41507725 
+           225,80 
+            11,10 
+           225,80 
+20,00
+            45,16 
+ 0,31164000
+Acrés. Band. AMARELA
+             2,13 
+             0,09 
+             2,13 
+20,00
+             0,42 
+Multa-NF 149199734
+            20,81 
+Juros-NF 149199734
+             7,97 
+IPCA-NF-149199734
+             2,53 
+TRIBF-IRRF(1.2%)
+             6,50-
+TRIBF-IRRF(4.8%)
+             1,50-
+TOTAL
+           564,68 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

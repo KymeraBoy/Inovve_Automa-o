@@ -1,0 +1,84 @@
+CONTA CONTRATO
+7003209398
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2202090
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MANOEL CLAUDIO BEZERRA 1
+POSTO DE SAUDE ORLANDO MOURA DA SILVA
+UNA/UNA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        463
+JUL 22
+        488
+JUN 22
+        552
+MAI 22
+        591
+ABR 22
+        655
+MAR 22
+        635
+FEV 22
+        662
+JAN 22
+        592
+DEZ 21
+        665
+NOV 21
+        726
+OUT 21
+        679
+SET 21
+        584
+AGO 21
+        493
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  463,00 
+  171,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       463,0000000 
+ 0,48751695 
+           225,72 
+Consumo Ativo(kWh)-TE                        
+       463,0000000 
+ 0,36253251 
+           167,85 
+Contrib. Ilum. Pública Municipal             
+            46,13 
+TOTAL DA FATURA
+           439,70 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7003209398
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           439,70 
+VENCIMENTO
+20/09/2022

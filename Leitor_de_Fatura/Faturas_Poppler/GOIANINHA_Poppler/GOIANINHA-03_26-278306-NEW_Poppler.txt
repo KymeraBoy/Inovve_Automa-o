@@ -1,0 +1,113 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ PO ANA SE 63
+ ESCOLA MUNICIPAL DONA TOINHA
+ ANA SE/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+278306
+CÓDIGO DO CLIENTE
+573223012
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+        333
+ 29
+FEV26
+        247
+ 29
+JAN26
+        233
+ 32
+DEZ25
+        304
+ 31
+NOV25
+        372
+ 29
+OUT25
+        357
+ 32
+SET25
+        324
+ 30
+AGO25
+        311
+ 32
+JUL25
+        261
+ 30
+JUN25
+        299
+ 30
+MAI25
+        344
+ 31
+ABR25
+        358
+ 30
+MAR25
+        307
+ 29
+
+CONSUMO
+kWh
+         333,00  
+
+Consumo-TUSD
+kWh
+          333,00 
+ 0,57575596 
+           191,72 
+             9,32 
+           191,72 
+20,00
+            38,34 
+ 0,43260000
+Consumo-TE
+kWh
+          333,00 
+ 0,41476788 
+           138,11 
+             6,71 
+           138,11 
+20,00
+            27,62 
+ 0,31164000
+Multa-NF 154449975
+             4,87 
+Juros-NF 154449975
+             0,31 
+TRIBF-IRRF(1.2%)
+             3,96-
+TRIBF-IRRF(4.8%)
+             0,26-
+TOTAL
+           330,79 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

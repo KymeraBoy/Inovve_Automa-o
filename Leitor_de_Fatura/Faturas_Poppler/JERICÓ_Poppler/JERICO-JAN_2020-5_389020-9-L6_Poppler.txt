@@ -1,102 +1,0 @@
-Domicílio de Entrega:
-ILUMINACAO PUBLICA - P.M.JERICO
-RUA LOPES FIGUEIREDO 110
-
-
-JERICÓ (AG: 245)
-Grupo/Subgp.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-Classe/Subcls.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
-Roteiro: 015 - 0253 - 099 - 4100
-Nº do Medidor: 0
-MATRÍCULA: 389020-2020-1-3
-DOM. ENT.: 9999253001
-    ILUMINACAO PUBLICA - P.M.JERICO
-    ROD BR 230 - 58830000
-    CENTRO
-    JERICO-PB (AG: 245)
-                                                   ENER
-A                                        Br 230, Km 25 -
-
-
-     LIGAÇÃO: MONOFASICO
-     DOM. BANC.:
-     CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-     Insc. Est.: 000XXXXXX
-               Emissão: 24/01/2020         Identificador para Débito Automático:   0000389020-9
-
-
-
-Janeiro/2020   03/02/2020            21/02/2020                    5/389020-9
-                                                             Tarifa s/       Tarifa c/   Valor Total   Base Calc. % Aliq.     ICMS     Base Calc.     PIS (R$)   COFINS(R$)
-CCI Descrição                                   Quantidade   Tributos        Tributos           (R$)    ICMS(R$) ICMS          (R$) PIS/COFINS (R$) (0,9985%)     (4,5991%)
-0601 Consumo kWh - Ligação Provisória - Ponta       158,00   0,299970        0,432200         68,29         68,29    25        17,07          68,29       0,68         3,14
-0601 Consumo em kWh                              36.470,00   0,299970        0,432200     15.763,00     15.763,00    25     3.940,75      15.763,00     157,39       724,95
-0601 Adic. B. Amarela                                                                        708,77        708,77    25       177,19         708,77       7,08        32,60
-
-
-
-
-CCI: Código de Classificação do Item                                     Total:           16540,06      16.540,06           4.135,01       16.540,06    165,15       760,69
-         DISCRIMINAÇÃO
-SERVIÇO DISTRIBUIÇÃO
-                              VALOR (R$)
-                                  4.401,14
-                                               %
-                                              26,60   2
-COMPRA DE ENERGIA                 5.762,56    34,84
-SERVIÇO DE TRANSMISSÃO              654,31     3,96
-ENCARGOS SETORIAIS                  661,20     4,00
-IMPOSTOS DIRETOS E ENCARGOS       5.060,85    30,60
-OUTROS SERVIÇOS                       0,00     0,00
-              TOTAL              16.540,06   100,00
-23/02/2020   R$ 16.540,06
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA              VENCIMENTO          Nº FATURA   TOTAL A PAGAR
-   389020-2020-1-3           23/02/2020         38014624     R$ 16.540,06
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Aproveite o 13º e regularize suas contas em atraso: podemos
-negociar para você começar o ano novo numa boa!
-                             HISTÓRICO DE CONSUMO (kWh)
-
- MÊS/ANO   CONVENCIONAL   PONTA                  INTERMEDIÁRIO   FORA DE PONTA
-
-
-JAN/20       36470
-DEZ/19       36470
-NOV/19       35294
-OUT/19       36470
-SET/19       35294
-AGO/19       37688
-JUL/19       37688
-JUN/19       36472
-MAI/19       37688
-ABR/19       36472
-MAR/19       37688
-FEV/19       39534
-JAN/19       37923
-Leitura: 24/12/2019 a 23/01/2020 Dias: 30
-
-                                    Dados da leitura                                       Dados do consumo
-  UN. Posto          Atual      Anterior    K     Perdas(%)   Fat. Pot.   Aj. Fator Pot.   Medido        Faturado
-VENCIMENTO   VALOR (R$)
-- Perda do Ramal: 1 kWh.
-DIC MENSAL
-DIC TRIMESTRAL
-DIC ANUAL
-FIC MENSAL
-FIC TRIMESTRAL
-FIC ANUAL
-DMIC
-DICRI
-
-
-
-Conjunto:
-Referência:
-Tensão Contratada:
-Limite Adequado:   a
-

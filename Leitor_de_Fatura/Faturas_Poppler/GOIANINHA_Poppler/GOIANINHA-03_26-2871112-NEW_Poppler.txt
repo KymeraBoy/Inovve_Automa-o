@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RO RN 003 53
+ RODOVIARIA MUNICIPAL
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+2871112
+CÓDIGO DO CLIENTE
+7023691587
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       1570
+ 30
+FEV26
+       1343
+ 27
+JAN26
+       1718
+ 33
+DEZ25
+       1410
+ 30
+NOV25
+        931
+ 30
+OUT25
+        975
+ 31
+SET25
+        865
+ 31
+AGO25
+       1023
+ 33
+JUL25
+        784
+ 29
+JUN25
+        767
+ 30
+MAI25
+        728
+ 31
+ABR25
+        537
+ 29
+MAR25
+        143
+ 30
+
+CONSUMO
+kWh
+       1.570,00 
+         303,00  
+
+Consumo-TUSD
+kWh
+        1.570,00 
+ 0,57575596 
+           903,93 
+            43,97 
+           903,93 
+20,00
+           180,79 
+ 0,43260000
+Consumo-TE
+kWh
+        1.570,00 
+ 0,41476788 
+           651,18 
+            31,66 
+           651,18 
+20,00
+           130,23 
+ 0,31164000
+Ilum. Púb. Municipal
+           140,21 
+TRIBF-IRRF(1.2%)
+            18,66-
+TOTAL
+         1.676,66 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

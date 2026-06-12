@@ -1,0 +1,84 @@
+CONTA CONTRATO
+0854759671
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277259
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MIRANDA 910
+POSTO DE SAUDE
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        500
+MAI 22
+        522
+ABR 22
+        539
+MAR 22
+        625
+FEV 22
+        504
+JAN 22
+        430
+DEZ 21
+        580
+NOV 21
+        475
+OUT 21
+        523
+SET 21
+        566
+AGO 21
+        500
+JUL 21
+        568
+JUN 21
+        692
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  500,00 
+  107,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       500,0000000 
+ 0,48974766 
+           244,87 
+Consumo Ativo(kWh)-TE                        
+       500,0000000 
+ 0,36384738 
+           181,92 
+Atualizacao IPCA-NF 078485652 - 28.04.22     
+             0,91 
+TOTAL DA FATURA
+           427,70 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0854759671
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           427,70 
+VENCIMENTO
+20/07/2022

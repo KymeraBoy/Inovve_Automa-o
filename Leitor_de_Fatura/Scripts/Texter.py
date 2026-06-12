@@ -1,364 +1,61 @@
 # ============================================================== #
-#     BIBLIOTECAS 
+#     BIBLIOTECAS
 # ============================================================== #
 
-# Bibliotecas para manipulação de arquivos, planilhas e dados
-import re
 import sys
-import pandas as pd
+import re
+import unicodedata
 from pathlib import Path
+from openpyxl import Workbook
+from openpyxl.formatting.rule import FormulaRule
+from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
+from openpyxl.utils import get_column_letter
 
-# Bibliotecas para formatação de planilhas
-from openpyxl.styles    import Font, Alignment, PatternFill, Border, Side
-from openpyxl.utils     import get_column_letter
-from collections        import defaultdict
-
-# Bibliotecas de funções específicas do Texter
 from texter_utils import salvar_arquivo, carregar_arquivo, aba_info_geral, aba_historico_consumo, historico
-from Texter_format_functions.texter_format_enel       import format_enel
-from Texter_format_functions.texter_format_energisa   import format_energisa
+from Texter_format_functions.texter_format_enel import format_enel
+from Texter_format_functions.texter_format_energisa import format_energisa
 from Texter_format_functions.texter_format_neoenergia import format_neoenergia
 
 # ============================================================== #
-# CONFIGURAÇÕES
+# CONFIGURACOES
 # ============================================================== #
 
 if getattr(sys, "frozen", False):
     diretorio = Path(sys.executable).resolve().parent
 else:
-    diretorio = Path(__file__).resolve().parent.parent  # caminho base do projeto (pasta Scripts)
+    diretorio = Path(__file__).resolve().parent.parent
 
-PATH_INPUT          = diretorio / "Faturas_Poppler"
-PATH_OUTPUT         = diretorio / "Faturas_Texter"
-PATH_ANALISE        = diretorio / "Faturas_Analaiser"
-CABECALHO_PADRAO    = "RELATORIO DE FATURA - SISTEMA INTEGRALAISER\n" + ("=" * 50) + "\n"
-
-meses = {
-            "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
-            "MAI": 5, "JUN": 6, "JUL": 7, "AGO": 8,
-            "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12
-        }
+PATH_INPUT = diretorio / "Faturas_Poppler"
+PATH_OUTPUT = diretorio / "Faturas_Texter"
+PATH_ANALISE = diretorio / "Faturas_Analaiser"
 
 # ============================================================== #
-# FUNÇÕES
-# ============================================================== #
-
-def parse_data(data_str):
-    try:
-        mes, ano = data_str.split("/")
-        mes = mes.strip().upper()
-        ano = re.sub(r"\D", "", ano)
-
-        if len(ano) == 0 or mes not in meses:
-            return (9999, 99)
-
-        return (2000 + int(ano), meses[mes])
-    except Exception:
-        return (9999, 99)
-
-
-def normalizar_valor_consumo(valor):
-    if valor is None:
-        return "UNK"
-
-    texto = str(valor).strip()
-    if not texto:
-        return "UNK"
-
-    if re.match(r"^\d{2}/\d{2}/\d{4}$", texto):
-        return "UNK"
-
-    return texto
-
-def transformar(matriz_consumo):
-    datas = set()
-    for linha in matriz_consumo:
-        for item in linha[1:]:
-            if isinstance(item, tuple) and len(item) >= 1:
-                d = item[0]
-                if isinstance(d, str) and re.match(r"^[A-Z]{3}/\d{2,4}$", d.strip().upper()):
-                    datas.add(d)
-
-    datas_ordenadas = sorted(datas, key=parse_data)
-
-    resultado = []
-    resultado.append(["DATA"] + datas_ordenadas)
-
-    for linha in matriz_consumo:
-        id_ = linha[0]
-        mapa = {}
-        for item in linha[1:]:
-            if isinstance(item, tuple) and len(item) >= 2:
-                d, v = item[0], item[1]
-                if isinstance(d, str) and re.match(r"^[A-Z]{3}/\d{2,4}$", d.strip().upper()):
-                    mapa[d] = normalizar_valor_consumo(v)
-
-        nova_linha = [id_]
-        for d in datas_ordenadas:
-            nova_linha.append(mapa.get(d, "UNK"))
-
-        resultado.append(nova_linha)
-
-    return resultado
-
-
-def sanitizar_nome_arquivo(texto):
-    return re.sub(r"[^0-9A-Za-z._-]+", "_", str(texto)).strip("._-") or "arquivo"
-
-
-def montar_matriz_info_geral(registros_info):
-    cabecalho = [
-        "UNIDADE CONSUMIDORA",
-        "CLASSIFICAÇÃO",
-        "TIPO DE FORNECIMENTO",
-        "CLIENTE",
-        "ENDEREÇO DE ENTREGA",
-        "NÚMERO DO MEDIDOR",
-    ]
-
-    if not registros_info:
-        return [cabecalho, ["SEM DADOS", "", "", "", "", ""]]
-
-    return [cabecalho] + registros_info
-
-
-def montar_matriz_consumo_geral(registros_por_uc):
-    meses_coletados = set()
-    valores_por_uc = {}
-
-    for uc, registros in registros_por_uc.items():
-        mapa_consumo = {}
-
-        for registro in registros:
-            historico_consumo = registro.get("historico_consumo") or []
-            for item in historico_consumo[1:]:
-                if not (isinstance(item, tuple) and len(item) >= 2):
-                    continue
-
-                mes = item[0]
-                valor = item[1]
-
-                if isinstance(mes, str) and re.match(r"^[A-Z]{3}/\d{2,4}$", mes.strip().upper()):
-                    meses_coletados.add(mes)
-                    mapa_consumo[mes] = normalizar_valor_consumo(valor)
-
-        valores_por_uc[uc] = mapa_consumo
-
-    meses_ordenados = sorted(meses_coletados, key=parse_data)
-    cabecalho = ["UNIDADE CONSUMIDORA"] + meses_ordenados
-
-    if not meses_ordenados:
-        return [cabecalho]
-
-    matriz = [cabecalho]
-    for uc in sorted(valores_por_uc.keys()):
-        mapa_consumo = valores_por_uc[uc]
-        linha = [uc]
-        for mes in meses_ordenados:
-            linha.append(mapa_consumo.get(mes, "UNK"))
-        matriz.append(linha)
-
-    return matriz
-
-
-def montar_matriz_medidor_geral(registros_por_uc):
-    referencias_coletadas = set()
-    valores_por_uc = {}
-
-    for uc, registros in registros_por_uc.items():
-        mapa_medidor = {}
-
-        for registro in registros:
-            referencia = registro.get("referencia") or "SEM_REFERENCIA"
-            numero_medidor = registro.get("numero_medidor") or "UNK"
-
-            if referencia != "SEM_REFERENCIA":
-                referencias_coletadas.add(referencia)
-                mapa_medidor[referencia] = numero_medidor
-
-        valores_por_uc[uc] = mapa_medidor
-
-    referencias_ordenadas = sorted(referencias_coletadas, key=parse_data)
-    cabecalho = ["UNIDADE CONSUMIDORA"] + referencias_ordenadas
-
-    if not referencias_ordenadas:
-        return [cabecalho]
-
-    matriz = [cabecalho]
-    for uc in sorted(valores_por_uc.keys()):
-        mapa_medidor = valores_por_uc[uc]
-        linha = [uc]
-        for referencia in referencias_ordenadas:
-            linha.append(mapa_medidor.get(referencia, "UNK"))
-        matriz.append(linha)
-
-    return matriz
-
-
-def formatar_aba_planilha(ws, fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro):
-    for col in ws.columns:
-        col_letter = get_column_letter(col[0].column)
-        largura_max = 0
-        for cell in col:
-            if cell.value is not None:
-                largura_max = max(largura_max, len(str(cell.value)))
-        ws.column_dimensions[col_letter].width = max(largura_max + 2, 8)
-
-    for row_idx, row in enumerate(ws.iter_rows(), start=1):
-        eh_cabecalho = row_idx == 1
-        for cell in row:
-            cell.font = fonte_cabecalho if eh_cabecalho else fonte_padrao
-            cell.alignment = alinhamento
-            cell.border = borda
-            if eh_cabecalho:
-                cell.fill = fill_claro
-            else:
-                cell.fill = fill_escuro if row_idx % 2 == 0 else fill_claro
-
-
-def gerar_planilhas_energisa_por_uc(src_dir, dst_dir, funcao_formatadora):
-    registros_por_uc = defaultdict(list)
-    erros = []
-
-    files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
-    for file_name in files:
-        input_path = src_dir / file_name
-        print(f"Processando: {file_name}...")
-
-        try:
-            conteudo_bruto = carregar_arquivo(input_path)
-            registro = funcao_formatadora(conteudo_bruto, file_name)
-        except Exception as exc:
-            erros.append((file_name, str(exc)))
-            continue
-
-        if not isinstance(registro, dict):
-            erros.append((file_name, "formatador nao retornou registro estruturado"))
-            continue
-
-        uc = registro.get("uc") or "SEM_UC"
-        registros_por_uc[uc].append(registro)
-
-    dst_dir.mkdir(parents=True, exist_ok=True)
-
-    fonte_padrao = Font(name="Verdana", size=8)
-    fonte_cabecalho = Font(name="Verdana", size=8, bold=True)
-    alinhamento = Alignment(horizontal="center", vertical="center")
-    borda_fina = Side(style="thin")
-    borda = Border(left=borda_fina, right=borda_fina, top=borda_fina, bottom=borda_fina)
-    fill_claro = PatternFill(fill_type="solid", fgColor="FFFFFF")
-    fill_escuro = PatternFill(fill_type="solid", fgColor="DCE6F1")
-
-    resumo_ucs = []
-
-    for uc, registros in sorted(registros_por_uc.items(), key=lambda item: item[0]):
-        nome_uc = sanitizar_nome_arquivo(uc)
-        pasta_uc = dst_dir / nome_uc
-        pasta_uc.mkdir(parents=True, exist_ok=True)
-
-        info_rows = []
-        historico_rows = []
-        primeiro_registro = registros[0]
-
-        for registro in registros:
-            info_rows.append([
-                registro.get("uc") or uc,
-                registro.get("classificacao") or "",
-                registro.get("tipo_fornecimento") or "",
-                registro.get("cliente") or "",
-                registro.get("endereco_entrega") or "",
-                registro.get("numero_medidor") or "",
-            ])
-
-            historico_consumo = registro.get("historico_consumo") or []
-            if historico_consumo:
-                historico_rows.append(historico_consumo)
-
-        matriz_info = montar_matriz_info_geral(info_rows)
-        matriz_historico = transformar(historico_rows) if historico_rows else [["SEM DADOS"]]
-        matriz_medidor = montar_matriz_medidor_geral({uc: registros})
-
-        arquivo_saida = pasta_uc / f"{nome_uc}.xlsx"
-
-        df_info = pd.DataFrame(matriz_info)
-        df_hist = pd.DataFrame(matriz_historico)
-        df_medidor = pd.DataFrame(matriz_medidor)
-
-        with pd.ExcelWriter(arquivo_saida, engine="openpyxl") as writer:
-            df_info.to_excel(writer, sheet_name="AGRUPADA", index=False, header=False)
-            df_hist.to_excel(writer, sheet_name="HISTORICO DE CONSUMO", index=False, header=False)
-            df_medidor.to_excel(writer, sheet_name="MEDIDOR", index=False, header=False)
-
-        from openpyxl import load_workbook
-
-        wb = load_workbook(arquivo_saida)
-        formatar_aba_planilha(wb["AGRUPADA"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-        formatar_aba_planilha(wb["HISTORICO DE CONSUMO"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-        formatar_aba_planilha(wb["MEDIDOR"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-        wb.save(arquivo_saida)
-
-        resumo_ucs.append([
-            primeiro_registro.get("uc") or uc,
-            primeiro_registro.get("classificacao") or "",
-            primeiro_registro.get("tipo_fornecimento") or "",
-            primeiro_registro.get("cliente") or "",
-            primeiro_registro.get("endereco_entrega") or "",
-            primeiro_registro.get("numero_medidor") or "",
-        ])
-        print(f"[OK] Planilha da UC gerada: {arquivo_saida}")
-
-    resumo_matriz = (
-        [[
-            "UNIDADE CONSUMIDORA",
-            "CLASSIFICAÇÃO",
-            "TIPO DE FORNECIMENTO",
-            "CLIENTE",
-            "ENDEREÇO DE ENTREGA",
-            "NÚMERO DO MEDIDOR",
-        ]] + resumo_ucs
-        if resumo_ucs
-        else [["SEM DADOS"]]
-    )
-    arquivo_resumo = dst_dir / "Agrupada.xlsx"
-    df_resumo = pd.DataFrame(resumo_matriz)
-    matriz_consumo = montar_matriz_consumo_geral(registros_por_uc)
-    matriz_medidor = montar_matriz_medidor_geral(registros_por_uc)
-    df_consumo = pd.DataFrame(matriz_consumo)
-    df_medidor = pd.DataFrame(matriz_medidor)
-
-    with pd.ExcelWriter(arquivo_resumo, engine="openpyxl") as writer:
-        df_resumo.to_excel(writer, sheet_name="AGRUPADA", index=False, header=False)
-        df_consumo.to_excel(writer, sheet_name="CONSUMO", index=False, header=False)
-        df_medidor.to_excel(writer, sheet_name="MEDIDOR", index=False, header=False)
-
-    from openpyxl import load_workbook
-
-    wb = load_workbook(arquivo_resumo)
-    formatar_aba_planilha(wb["AGRUPADA"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-    formatar_aba_planilha(wb["CONSUMO"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-    formatar_aba_planilha(wb["MEDIDOR"], fonte_padrao, fonte_cabecalho, alinhamento, borda, fill_claro, fill_escuro)
-    wb.save(arquivo_resumo)
-
-    print(f"[OK] Resumo geral gerado: {arquivo_resumo}")
-
-    if erros:
-        log_erros = dst_dir / "erros_processamento.txt"
-        with open(log_erros, "w", encoding="utf-8") as f:
-            for nome_arquivo, erro in erros:
-                f.write(f"{nome_arquivo}\t{erro}\n")
-        print(f"[AVISO] {len(erros)} arquivo(s) falharam. Log: {log_erros}")
-
-    return resumo_ucs
-
-# ============================================================== #
-# MAPEAMENTO DAS FUNÇÕES DE FORMATAÇÃO
+# MAPEAMENTO DAS FUNCOES DE FORMATACAO
 # ============================================================== #
 
 FORMATADORES = {
     # "ENEL": format_enel,
     "ENERGISA": format_energisa,
-    "NEOENERGIA":format_neoenergia,        
+    "NEOENERGIA": format_neoenergia,
 }
+
+THIN_SIDE = Side(style="thin", color="D9E2F3")
+BORDER_LIGHT = Border(left=THIN_SIDE, right=THIN_SIDE, top=THIN_SIDE, bottom=THIN_SIDE)
+FONT_HEADER = Font(name="Calibri", bold=True, color="FFFFFF")
+FONT_BODY = Font(name="Calibri", color="1F1F1F")
+FONT_BODY_BOLD = Font(name="Calibri", bold=True, color="1F1F1F")
+ALIGN_LEFT = Alignment(horizontal="left", vertical="center")
+ALIGN_CENTER = Alignment(horizontal="center", vertical="center")
+FILL_HEADER = PatternFill("solid", fgColor="1F4E78")
+FILL_SUBHEADER = PatternFill("solid", fgColor="5B9BD5")
+FILL_ZEBRA = PatternFill("solid", fgColor="F7FBFF")
+FILL_WHITE = PatternFill("solid", fgColor="FFFFFF")
+FILL_CHANGE = PatternFill("solid", fgColor="FFF2CC")
+
+
+# ============================================================== #
+# FUNCOES
+# ============================================================== #
 
 def limpar_estado_processamento():
     # Evita acumular dados de execucoes anteriores na mesma sessao.
@@ -366,269 +63,533 @@ def limpar_estado_processamento():
     aba_historico_consumo.clear()
     historico.clear()
 
-# ORQUESTRADOR
-def texter_orchestrator():
-    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)  # garante que a pasta de saída exista
-    limpar_estado_processamento()
 
-    # ========== 1. SELEÇÃO DE PASTA ========== #
-    """ Lista as subpastas dentro de PATH_INPUT e permite que o usuário escolha uma delas. A pasta escolhida é então usada como diretório de origem para os arquivos a serem processados. O nome da pasta de destino é gerado automaticamente substituindo "Poppler" por "Texter". """
+def limpar_arquivos_texter(dst_dir):
+    arquivos_removidos = 0
+    for item in dst_dir.iterdir():
+        if item.is_file():
+            item.unlink()
+            arquivos_removidos += 1
+    if arquivos_removidos:
+        print(f"[OK] {arquivos_removidos} arquivo(s) antigos removidos de: {dst_dir}")
 
-    subfolders = [f.name for f in PATH_INPUT.iterdir() if f.is_dir()]
-    print("\n--- SELEÇÃO DE PASTA (ORIGEM: POPPLER) ---")
-    for i, folder in enumerate(subfolders):
-        print(f"{i} - {folder}")
-    
-    f_choice = int(input("Índice da pasta: "))
-    selected_subfolder = subfolders[f_choice]
-    
-    src_dir = PATH_INPUT / selected_subfolder
-    # Regra: Trocar "Poppler" por "Texter" no nome da pasta
-    dst_dir_name = selected_subfolder.replace("Poppler", "Texter")
-    dst_dir = PATH_OUTPUT / dst_dir_name
-    
+
+def _montar_nome_saida_texter(nome_entrada):
+    nome_saida = nome_entrada.replace("Poppler", "Texter")
+    if nome_saida == nome_entrada:
+        return nome_entrada.replace(".txt", "_Texter.txt")
+    return nome_saida
+
+
+def _converter_para_texto_saida(conteudo_formatado):
+    if isinstance(conteudo_formatado, dict):
+        return conteudo_formatado.get("texto", "")
+    return str(conteudo_formatado)
+
+
+def _extrair_indicador_tribf_irrf(conteudo_poppler):
+    texto = (conteudo_poppler or "").upper()
+    return "PRESENTE" if ("TRIBF-IRRF" in texto or "TIBF-IRRF" in texto) else "AUSENTE"
+
+
+def _normalizar_poppler_para_parser(conteudo_poppler):
+    if not conteudo_poppler:
+        return ""
+
+    padrao_divisoria = re.compile(
+        r"^\s*=+\s*FIM_PAGINA_\d+\s*\|\s*INICIO_PAGINA_\d+\s*=+\s*$",
+        flags=re.IGNORECASE,
+    )
+
+    linhas_filtradas = []
+    for linha in conteudo_poppler.splitlines():
+        if padrao_divisoria.match(linha):
+            continue
+        linhas_filtradas.append(linha)
+
+    return "\n".join(linhas_filtradas)
+
+
+def _extrair_campos_texter(conteudo_texter):
+    campos = {}
+    for linha in (conteudo_texter or "").splitlines():
+        linha = linha.strip()
+        if not linha:
+            continue
+
+        if "\t" in linha:
+            chave, valor = linha.split("\t", 1)
+        elif ":" in linha:
+            chave, valor = linha.split(":", 1)
+        else:
+            continue
+
+        campos[_normalizar_chave_campo(chave)] = valor.strip()
+    return campos
+
+
+def _normalizar_chave_campo(chave):
+    chave_normalizada = unicodedata.normalize("NFKD", str(chave or ""))
+    chave_normalizada = "".join(
+        caractere for caractere in chave_normalizada if not unicodedata.combining(caractere)
+    )
+    return chave_normalizada.strip().upper()
+
+
+def _obter_campo(campos, *aliases, default="UNK"):
+    for alias in aliases:
+        valor = campos.get(_normalizar_chave_campo(alias))
+        if valor:
+            return valor
+    return default
+
+
+def _chave_ordenacao_referencia(referencia):
+    ref = (referencia or "").strip().upper()
+    meses = {
+        "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4, "MAI": 5, "JUN": 6,
+        "JUL": 7, "AGO": 8, "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12,
+    }
+
+    partes = ref.split("/")
+    if len(partes) != 2:
+        return (9999, 99, ref)
+
+    mes_raw = partes[0].strip()
+    ano_raw = partes[1].strip()
+
+    if mes_raw.isdigit():
+        mes = int(mes_raw)
+    else:
+        mes = meses.get(mes_raw[:3], 99)
+
+    if ano_raw.isdigit():
+        ano = int(ano_raw)
+        if ano < 100:
+            ano += 2000
+    else:
+        ano = 9999
+
+    return (ano, mes, ref)
+
+
+def _referencia_valida(referencia):
+    ano, mes, _ = _chave_ordenacao_referencia(referencia)
+    return ano != 9999 and mes != 99
+
+
+def _chave_referencia_mais_recente(referencia):
+    ano, mes, ref = _chave_ordenacao_referencia(referencia)
+    if ano == 9999 or mes == 99:
+        return (0, -1, -1, ref)
+    return (1, ano, mes, ref)
+
+
+def _valor_preenchido(valor):
+    return str(valor or "").strip().upper() not in {"", "UNK", "SEM DADO", "SEM_ENDERECO", "SEM_CLIENTE", "SEM_FORNECIMENTO"}
+
+
+def _mesclar_registro_geral(registro_atual, novo_registro):
+    if registro_atual is None:
+        return dict(novo_registro)
+
+    registro_mesclado = dict(registro_atual)
+    for chave, valor in novo_registro.items():
+        if chave == "referencia":
+            continue
+        if not _valor_preenchido(registro_mesclado.get(chave)) and _valor_preenchido(valor):
+            registro_mesclado[chave] = valor
+
+    referencia_atual = registro_mesclado.get("referencia", "")
+    referencia_nova = novo_registro.get("referencia", "")
+    if not _referencia_valida(referencia_atual) and _referencia_valida(referencia_nova):
+        registro_mesclado["referencia"] = referencia_nova
+
+    return registro_mesclado
+
+
+def _normalizar_texto(valor):
+    return str(valor or "").strip() or "SEM DADO"
+
+
+def _valor_placeholder(valor):
+    texto = _normalizar_texto(valor)
+    return texto if texto else "SEM DADO"
+
+
+def _extrair_registro_texter(arquivo):
+    campos = _extrair_campos_texter(carregar_arquivo(arquivo))
+    return {
+        "arquivo": arquivo.name,
+        "uc": _valor_placeholder(_obter_campo(campos, "UNIDADE CONSUMIDORA", "UC", default="SEM DADO")),
+        "referencia": _valor_placeholder(_obter_campo(campos, "MES/ANO REFERENCIA", "REFERÊNCIA", "REFERENCIA", default="SEM DADO")),
+        "cliente": _valor_placeholder(_obter_campo(campos, "CLIENTE", default="SEM DADO")),
+        "endereco_unidade_consumidora": _valor_placeholder(
+            _obter_campo(
+                campos,
+                "ENDEREÇO DA UNIDADE CONSUMIDORA",
+                "ENDERECO DA UNIDADE CONSUMIDORA",
+                "ENDERECO DE ENTREGA",
+                "ENDEREÇO DE ENTREGA",
+                default="SEM DADO",
+            )
+        ),
+        "classificacao": _valor_placeholder(_obter_campo(campos, "CLASSIFICACAO", "CLASSIFICAÇÃO", default="SEM DADO")),
+        "subclasse": _valor_placeholder(_obter_campo(campos, "SUBCLASSE", default="SEM DADO")),
+        "grupo_tarifario": _valor_placeholder(_obter_campo(campos, "GRUPO TARIFÁRIO", "GRUPO TARIFARIO", default="SEM DADO")),
+        "modalidade_tarifaria": _valor_placeholder(_obter_campo(campos, "MODALIDADE TARIFÁRIA", "MODALIDADE TARIFARIA", default="SEM DADO")),
+        "tensao_fornecimento": _valor_placeholder(_obter_campo(campos, "TENSÃO DE FORNECIMENTO", "TENSAO DE FORNECIMENTO", default="SEM DADO")),
+        "distribuidora": _valor_placeholder(_obter_campo(campos, "DISTRIBUIDORA", default="SEM DADO")),
+        "municipio": _valor_placeholder(_obter_campo(campos, "MUNICIPIO", "MUNICÍPIO", default="SEM DADO")),
+        "situacao_unidade": _valor_placeholder(_obter_campo(campos, "SITUAÇÃO DA UNIDADE", "SITUACAO DA UNIDADE", default="SEM DADO")),
+        "consumo_medio": _valor_placeholder(_obter_campo(campos, "CONSUMO MÉDIO", "CONSUMO MEDIO", default="SEM DADO")),
+        "demanda_contratada": _valor_placeholder(_obter_campo(campos, "DEMANDA CONTRATADA", default="SEM DADO")),
+        "valor_faturado": _valor_placeholder(_obter_campo(campos, "VALOR FATURADO", default="SEM DADO")),
+        "valor_medido": _valor_placeholder(_obter_campo(campos, "VALOR MEDIDO", default="SEM DADO")),
+        "valor_fatura": _valor_placeholder(_obter_campo(campos, "VALOR DA FATURA", default="SEM DADO")),
+        "indicador_tribf_irrf": _valor_placeholder(_obter_campo(campos, "INDICADOR TRIBF-IRRF", default="AUSENTE")),
+    }
+
+
+def _coletar_registros_texter(dst_dir):
+    registros = []
+
+    for arquivo in sorted(dst_dir.iterdir()):
+        if arquivo.is_file() and arquivo.suffix.lower() == ".txt":
+            registros.append(_extrair_registro_texter(arquivo))
+
+    return registros
+
+
+def listar_txts_disponiveis(src_dir):
+    return sorted(
+        [arquivo.name for arquivo in src_dir.iterdir() if arquivo.is_file() and arquivo.suffix.lower() == ".txt"]
+    )
+
+
+def processar_texter(src_dir, nome_formatador, selected_files=None, limpar_saida=True, progress_callback=None, log_callback=None):
+    if nome_formatador not in FORMATADORES:
+        raise ValueError(f"Formatador inválido: {nome_formatador}")
+
+    funcao_formatadora = FORMATADORES[nome_formatador]
+
+    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
+    PATH_ANALISE.mkdir(parents=True, exist_ok=True)
+
+    dst_dir = PATH_OUTPUT / f"{src_dir.name.replace('Poppler', 'Texter')}"
     dst_dir.mkdir(parents=True, exist_ok=True)
 
-    # ========== 2. SELEÇÃO DE FORMATO ========== #
-    """ Apresenta ao usuário uma lista de formatos disponíveis (baseados nas chaves do dicionário FORMATADORES) e permite que ele escolha um. A função de formatação correspondente à escolha do usuário é então armazenada para uso posterior no processamento dos arquivos. """
+    if limpar_saida:
+        limpar_arquivos_texter(dst_dir)
 
-    print("\n--- QUAL FORMATAÇÃO APLICAR? ---")
+    limpar_estado_processamento()
+
+    arquivos = selected_files or listar_txts_disponiveis(src_dir)
+    if not arquivos:
+        raise ValueError("Nenhum TXT disponível para processamento.")
+
+    resultados = []
+    for idx, file_name in enumerate(arquivos, start=1):
+        input_path = src_dir / file_name
+
+        if log_callback:
+            log_callback(f"Processando: {file_name}...")
+
+        conteudo_bruto = carregar_arquivo(input_path)
+        conteudo_para_parser = _normalizar_poppler_para_parser(conteudo_bruto)
+        conteudo_formatado = funcao_formatadora(conteudo_para_parser, file_name)
+        conteudo_saida = _converter_para_texto_saida(conteudo_formatado)
+        indicador_tribf_irrf = _extrair_indicador_tribf_irrf(conteudo_bruto)
+
+        if conteudo_saida and not conteudo_saida.endswith("\n"):
+            conteudo_saida += "\n"
+        conteudo_saida += f"INDICADOR TRIBF-IRRF\t{indicador_tribf_irrf}\n"
+
+        output_name = _montar_nome_saida_texter(file_name)
+        output_path = dst_dir / output_name
+        salvar_arquivo(output_path, conteudo_saida)
+
+        resultados.append(
+            {
+                "arquivo": file_name,
+                "saida": output_path,
+                "sucesso": True,
+            }
+        )
+
+        if progress_callback:
+            progress_callback(idx, len(arquivos), file_name)
+
+        if log_callback:
+            log_callback(f"[OK] Arquivo Texter criado: {output_path}")
+
+    caminho_planilha = _gerar_planilha_texter(dst_dir)
+
+    return {
+        "origem": src_dir,
+        "destino": dst_dir,
+        "planilha": caminho_planilha,
+        "resultados": resultados,
+        "processados": len(resultados),
+    }
+
+
+def _coletar_uc_ordenadas(registros):
+    return sorted({registro.get("uc", "SEM DADO") for registro in registros if registro.get("uc")})
+
+
+def _coletar_referencias_ordenadas(registros):
+    referencias = {registro.get("referencia", "SEM DADO") for registro in registros if registro.get("referencia")}
+    return sorted(referencias, key=_chave_ordenacao_referencia)
+
+
+def _mesclar_registros_por_uc(registros):
+    mapa = {}
+    for registro in registros:
+        uc = registro.get("uc", "SEM DADO")
+        atual = mapa.get(uc)
+        if atual is None:
+            mapa[uc] = dict(registro)
+        else:
+            mapa[uc] = _mesclar_registro_geral(atual, registro)
+    return mapa
+
+
+def _montar_mapa_historico(registros, campo_valor):
+    mapa = {}
+    for registro in registros:
+        chave = (registro.get("uc", "SEM DADO"), registro.get("referencia", "SEM DADO"))
+        valor = _valor_placeholder(registro.get(campo_valor, "SEM DADO"))
+        if chave not in mapa or mapa[chave] == "SEM DADO":
+            mapa[chave] = valor
+    return mapa
+
+
+def _ajustar_larguras(ws, geral=False):
+    for coluna in range(1, ws.max_column + 1):
+        maior_tamanho = 0
+        for row in range(1, ws.max_row + 1):
+            valor = ws.cell(row=row, column=coluna).value
+            if valor is None:
+                continue
+            texto = str(valor)
+            tamanho = max(len(parte) for parte in texto.splitlines()) if texto else 0
+            if tamanho > maior_tamanho:
+                maior_tamanho = tamanho
+
+        largura_base = 22 if coluna == 1 else 10
+        largura = max(largura_base, min(maior_tamanho + 2, 60))
+        ws.column_dimensions[get_column_letter(coluna)].width = largura
+
+
+def _aplicar_moldura(ws):
+    for row in ws.iter_rows():
+        for cell in row:
+            cell.border = BORDER_LIGHT
+
+
+def _formatar_area_tabela(ws, zebra=True):
+    ws.sheet_view.showGridLines = False
+    ws.freeze_panes = "B2"
+    ws.sheet_view.zoomScale = 90
+
+    for cell in ws[1]:
+        cell.fill = FILL_HEADER
+        cell.font = FONT_HEADER
+        cell.alignment = ALIGN_CENTER
+
+    if ws.max_row >= 2:
+        for row in range(2, ws.max_row + 1):
+            preenchimento = FILL_ZEBRA if zebra and row % 2 == 0 else FILL_WHITE
+            for col in range(1, ws.max_column + 1):
+                cell = ws.cell(row=row, column=col)
+                cell.fill = preenchimento
+                cell.font = FONT_BODY_BOLD if col == 1 else FONT_BODY
+                cell.alignment = ALIGN_LEFT
+
+    _aplicar_moldura(ws)
+
+
+def _preencher_aba_geral(ws, registros):
+    cabecalhos = [
+        "UNIDADE CONSUMIDORA",
+        "CLIENTE",
+        "CLASSE DE CONSUMO",
+        "ENDEREÇO DA UNIDADE CONSUMIDORA",
+        "SUBCLASSE",
+        "GRUPO TARIFÁRIO",
+        "MODALIDADE TARIFÁRIA",
+        "TENSÃO DE FORNECIMENTO",
+        "DISTRIBUIDORA",
+        "MUNICÍPIO",
+        "SITUAÇÃO DA UNIDADE",
+        "CONSUMO MÉDIO",
+        "DEMANDA CONTRATADA",
+    ]
+
+    campos_por_coluna = [
+        "uc",
+        "cliente",
+        "classificacao",
+        "endereco_unidade_consumidora",
+        "subclasse",
+        "grupo_tarifario",
+        "modalidade_tarifaria",
+        "tensao_fornecimento",
+        "distribuidora",
+        "municipio",
+        "situacao_unidade",
+        "consumo_medio",
+        "demanda_contratada",
+    ]
+
+    for col, cabecalho in enumerate(cabecalhos, start=1):
+        ws.cell(row=1, column=col, value=cabecalho)
+
+    mapa = _mesclar_registros_por_uc(registros)
+    for row, uc in enumerate(_coletar_uc_ordenadas(registros), start=2):
+        registro = mapa.get(uc, {})
+        for col, campo in enumerate(campos_por_coluna, start=1):
+            ws.cell(row=row, column=col, value=_valor_placeholder(registro.get(campo, "SEM DADO")))
+
+    ws.auto_filter.ref = f"A1:{get_column_letter(ws.max_column)}{ws.max_row}"
+    _ajustar_larguras(ws, geral=True)
+    _formatar_area_tabela(ws, zebra=True)
+    ws.freeze_panes = "B2"
+
+
+def _preencher_aba_historico(ws, registros, campo_valor, titulo_coluna):
+    ucs = _coletar_uc_ordenadas(registros)
+    referencias = _coletar_referencias_ordenadas(registros)
+    mapa = _montar_mapa_historico(registros, campo_valor)
+
+    ws.cell(row=1, column=1, value=titulo_coluna)
+    for col, referencia in enumerate(referencias, start=2):
+        ws.cell(row=1, column=col, value=referencia)
+
+    for row, uc in enumerate(ucs, start=2):
+        ws.cell(row=row, column=1, value=uc)
+        for col, referencia in enumerate(referencias, start=2):
+            ws.cell(row=row, column=col, value=_valor_placeholder(mapa.get((uc, referencia), "SEM DADO")))
+
+    ws.auto_filter.ref = f"A1:{get_column_letter(ws.max_column)}{ws.max_row}"
+    _ajustar_larguras(ws, geral=False)
+    _formatar_area_tabela(ws, zebra=True)
+
+    if ws.max_row > 1 and ws.max_column > 2:
+        ultima_coluna = get_column_letter(ws.max_column)
+        ws.conditional_formatting.add(
+            f"B2:{ultima_coluna}{ws.max_row}",
+            FormulaRule(
+                formula=["AND(B2<>A2,B2<>\"\",A2<>\"\")"],
+                fill=FILL_CHANGE,
+            ),
+        )
+
+
+def _gerar_planilha_texter(dst_dir):
+    registros = _coletar_registros_texter(dst_dir)
+
+    PATH_ANALISE.mkdir(parents=True, exist_ok=True)
+    nome_planilha = f"{dst_dir.name.replace('Texter', 'Analaiser')}.xlsx"
+    caminho_planilha = PATH_ANALISE / nome_planilha
+
+    wb = Workbook()
+    ws_geral = wb.active
+    ws_geral.title = "GERAL"
+    _preencher_aba_geral(ws_geral, registros)
+
+    abas_historico = [
+        ("HIST_CLASSIFICACAO", "classificacao", "UNIDADE CONSUMIDORA"),
+        ("HIST_SUBCLASSE", "subclasse", "UNIDADE CONSUMIDORA"),
+        ("HIST_GRUPO_TARIFARIO", "grupo_tarifario", "UNIDADE CONSUMIDORA"),
+        ("HIST_MODALIDADE", "modalidade_tarifaria", "UNIDADE CONSUMIDORA"),
+        ("HIST_TENSAO", "tensao_fornecimento", "UNIDADE CONSUMIDORA"),
+        ("HIST_DEMANDA", "demanda_contratada", "UNIDADE CONSUMIDORA"),
+        ("HIST_CONSUMO_MEDIO", "consumo_medio", "UNIDADE CONSUMIDORA"),
+        ("HIST_VALOR_FATURADO", "valor_faturado", "UNIDADE CONSUMIDORA"),
+        ("HIST_VALOR_MEDIDO", "valor_medido", "UNIDADE CONSUMIDORA"),
+        ("HIST_VALOR_FATURA", "valor_fatura", "UNIDADE CONSUMIDORA"),
+    ]
+
+    for nome_aba, campo_valor, titulo_coluna in abas_historico:
+        ws = wb.create_sheet(title=nome_aba)
+        _preencher_aba_historico(ws, registros, campo_valor, titulo_coluna)
+
+    wb.save(caminho_planilha)
+    return caminho_planilha
+
+
+# ============================================================== #
+# ORQUESTRADOR
+# ============================================================== #
+
+def texter_orchestrator():
+    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
+    limpar_estado_processamento()
+
+    # 1. Selecao de pasta de origem
+    subfolders = [f.name for f in PATH_INPUT.iterdir() if f.is_dir()]
+    print("\n--- SELECAO DE PASTA (ORIGEM: POPPLER) ---")
+    for i, folder in enumerate(subfolders):
+        print(f"{i} - {folder}")
+
+    f_choice = int(input("Indice da pasta: "))
+    selected_subfolder = subfolders[f_choice]
+
+    src_dir = PATH_INPUT / selected_subfolder
+    dst_dir_name = selected_subfolder.replace("Poppler", "Texter")
+    dst_dir = PATH_OUTPUT / dst_dir_name
+    dst_dir.mkdir(parents=True, exist_ok=True)
+    limpar_arquivos_texter(dst_dir)
+
+    # 2. Selecao de formato
+    print("\n--- QUAL FORMATACAO APLICAR? ---")
     formatos = list(FORMATADORES.keys())
     for i, nome in enumerate(formatos):
         print(f"{i} - {nome}")
-    fmt_choice = int(input("Índice do formato: "))
-    print(fmt_choice)
+    fmt_choice = int(input("Indice do formato: "))
     funcao_formatadora = FORMATADORES[formatos[fmt_choice]]
 
-    if funcao_formatadora is format_energisa:
-        files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == '.txt'])
-
-        for file_name in files:
-            input_path = src_dir / file_name
-            print(f"Processando: {file_name}...")
-
-            conteudo_bruto = carregar_arquivo(input_path)
-            conteudo_formatado = funcao_formatadora(conteudo_bruto, file_name)
-
-            if isinstance(conteudo_formatado, dict):
-                conteudo_saida = conteudo_formatado.get("texto", "")
-            else:
-                conteudo_saida = str(conteudo_formatado)
-
-            output_name = file_name.replace("Poppler", "Texter")
-            if output_name == file_name:
-                output_name = file_name.replace(".txt", "_Texter.txt")
-
-            output_path = dst_dir / output_name
-            salvar_arquivo(output_path, conteudo_saida)
-            print(f"[OK] Arquivo Texter criado: {output_path}")
-
-        return
-
-    # ========== 2.1 MODO DE SAÍDA ========== #
-    """ Permite escolher se os arquivos Texter (txt) serão gerados ou se apenas a planilha será criada diretamente dos textos Poppler. """
-
-    print("\n--- SAÍDA DE ARQUIVOS ---")
-    print("1 - Gerar arquivos Texter (.txt) e planilha")
-    print("2 - Gerar somente planilha (direto dos textos Poppler)")
-    output_mode = input("Escolha a opção: ").strip()
-    gerar_arquivos_texter = output_mode != "2"
-
-    # ========== 3. ESCOPO DE EXECUÇÃO ========== #
-    """ Permite ao usuário escolher entre processar todos os documentos da subpasta ou apenas um documento específico. """
-
-    print("\n--- MODO DE EXECUÇÃO ---")
+    # 3. Escopo de execucao
+    print("\n--- MODO DE EXECUCAO ---")
     print("1 - Todos os documentos da subpasta")
-    print("2 - Apenas um documento específico")
-    mode = input("Escolha a opção: ")
+    print("2 - Apenas um documento especifico")
+    mode = input("Escolha a opcao: ").strip()
 
-    files = [f.name for f in src_dir.iterdir() if f.suffix.lower() == '.txt']
+    files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
 
     if mode == "2":
-        for i, f in enumerate(files):
-            print(f"{i} - {f}")
-        file_choice = int(input("Índice do arquivo: "))
+        for i, file_name in enumerate(files):
+            print(f"{i} - {file_name}")
+        file_choice = int(input("Indice do arquivo: "))
         files = [files[file_choice]]
 
-    # ========== 4. PROCESSAMENTO ========== #
-    """ Processa os arquivos selecionados aplicando a função de formatação escolhida e salvando os resultados na pasta de destino. """
-
+    # 4. Processamento de arquivos Texter
     for file_name in files:
         input_path = src_dir / file_name
         print(f"Processando: {file_name}...")
-        
+
         conteudo_bruto = carregar_arquivo(input_path)
-        conteudo_formatado = funcao_formatadora(conteudo_bruto, file_name)
+        conteudo_para_parser = _normalizar_poppler_para_parser(conteudo_bruto)
+        conteudo_formatado = funcao_formatadora(conteudo_para_parser, file_name)
+        conteudo_saida = _converter_para_texto_saida(conteudo_formatado)
+        indicador_tribf_irrf = _extrair_indicador_tribf_irrf(conteudo_bruto)
 
-        if gerar_arquivos_texter:
-            # Regra: Trocar nome do arquivo
-            output_name = file_name.replace("Poppler", "Texter")
-            output_path = dst_dir / output_name
-            salvar_arquivo(output_path, conteudo_formatado)
+        if conteudo_saida and not conteudo_saida.endswith("\n"):
+            conteudo_saida += "\n"
+        conteudo_saida += f"INDICADOR TRIBF-IRRF\t{indicador_tribf_irrf}\n"
 
-    # ========== 5. ANÁLISES ========== #
-    """ Realiza análises nos dados processados, incluindo a criação de matrizes de identificação e consumo. """
+        output_name = _montar_nome_saida_texter(file_name)
+        output_path = dst_dir / output_name
+        salvar_arquivo(output_path, conteudo_saida)
+        print(f"[OK] Arquivo Texter criado: {output_path}")
 
-    # Análise específica para o formato ENERGISA
-    if funcao_formatadora is format_energisa:
+    caminho_planilha = _gerar_planilha_texter(dst_dir)
+    print(f"[OK] Planilha gerada: {caminho_planilha}")
 
-        # 5.1 ABA DE INFORMAÇÃO GERAL
-        colunas_base_info_geral = ["UNIDADE", "FORNECIMENTO", "NÍVEL DE TENSÃO", "CÓDIGO", "CLASSIFICAÇÃO", "DESTINO", "ENDEREÇO","MEDIDOR"]
-        max_colunas_info_geral = max((len(linha) for linha in aba_info_geral), default=0)
+    print("\nFluxo Texter finalizado.")
 
-        cabecalho_info_geral = []
-        for i in range(max_colunas_info_geral):
-            if i < len(colunas_base_info_geral):
-                cabecalho_info_geral.append(colunas_base_info_geral[i])
-            elif i == max_colunas_info_geral - 1:
-                cabecalho_info_geral.append("COMPLEMENTO")
-            else:
-                cabecalho_info_geral.append(f"CAMPO_{i+1}")
-
-        info_geral = [cabecalho_info_geral] + aba_info_geral if max_colunas_info_geral > 0 else []
-
-        # 5.2 ABA DE HISTÓRICO DE CONSUMO
-        grupos_historico_consumo = defaultdict(list)
-        for linha in aba_historico_consumo:
-            chave = linha[0]
-            grupos_historico_consumo[chave].extend(linha[1:])
-
-        historico_consumo_agrupado = []
-        for chave, valores in grupos_historico_consumo.items():
-            historico_consumo_agrupado.append([chave] + valores)
-
-        historico_consumo_tratado = transformar(historico_consumo_agrupado)
-
-        # 5.3 FORMAÇÃO DA PLANILHA (cada matriz em uma aba)
-        df_info_geral = pd.DataFrame(info_geral)
-        df_historico_consumo = pd.DataFrame(historico_consumo_tratado)
-
-        nome_planilha = dst_dir.name.replace("Texter", "Analaiser") + ".xlsx"
-        arquivo = dst_dir / nome_planilha
-
-        with pd.ExcelWriter(arquivo, engine="openpyxl") as writer:
-            df_info_geral.to_excel(writer, sheet_name="INFORMAÇÃO GERAL", index=False, header=False)
-            df_historico_consumo.to_excel(writer, sheet_name="HISTÓRICO DE CONSUMO", index=False, header=False)
-
-        # 5.4 FORMATAÇÃO VISUAL DA PLANILHA
-        from openpyxl import load_workbook
-        wb = load_workbook(arquivo)
-
-        # Estilos base
-        fonte_padrao   = Font(name="Verdana", size=8)
-        fonte_cabecalho= Font(name="Verdana", size=8, bold=True)
-        alinhamento    = Alignment(horizontal="center", vertical="center")
-        borda_fina     = Side(style="thin")
-        borda          = Border(left=borda_fina, right=borda_fina, top=borda_fina, bottom=borda_fina)
-        fill_claro     = PatternFill(fill_type="solid", fgColor="FFFFFF")
-        fill_escuro    = PatternFill(fill_type="solid", fgColor="DCE6F1")  # azul claro alternado
-
-        def formatar_aba(ws, cabecalho=True, alternado=False):
-            # Ajuste de largura por coluna
-            for col in ws.columns:
-                col_letter = get_column_letter(col[0].column)
-                largura_max = 0
-                for cell in col:
-                    if cell.value is not None:
-                        largura_max = max(largura_max, len(str(cell.value)))
-                ws.column_dimensions[col_letter].width = max(largura_max + 2, 8)
-
-            # Formatação célula a célula
-            for row_idx, row in enumerate(ws.iter_rows(), start=1):
-                eh_cabecalho = (row_idx == 1 and cabecalho)
-                for cell in row:
-                    cell.font      = fonte_cabecalho if eh_cabecalho else fonte_padrao
-                    cell.alignment = alinhamento
-                    cell.border    = borda
-                    if alternado and not eh_cabecalho:
-                        cell.fill = fill_escuro if row_idx % 2 == 0 else fill_claro
-                    elif eh_cabecalho:
-                        cell.fill = fill_claro
-
-        formatar_aba(wb["INFORMAÇÃO GERAL"], cabecalho=True, alternado=True)
-        formatar_aba(wb["HISTÓRICO DE CONSUMO"], cabecalho=True, alternado=True)
-
-        wb.save(arquivo)
-
-    # Análise específica para o formato NEOENERGIA
-    if funcao_formatadora is format_neoenergia:
-        # ANALISADOR NEOENERGIA (CELPE)
-        agrupados = defaultdict(list)
-        for v in historico:
-            chave = v[0]
-            agrupados[chave].extend(v[1:])  # junta os valores
-            resultado = [[k] + valores for k, valores in agrupados.items()]    
-        historico[:] = [[v[0]] + list(set(v[1:])) for v in resultado]
-        meses = [tupla[0] for subvetor in historico for tupla in subvetor if isinstance(tupla, tuple)]
-        meses = list(set(meses))
-        ordem_meses = {
-            "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
-            "MAI": 5, "JUN": 6, "JUL": 7, "AGO": 8,
-            "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12
-        }
-        meses = sorted(
-            meses,
-            key=lambda x: (int(x[3:]), ordem_meses[x[:3]])
-        )
-        meses_index = {mes: i for i, mes in enumerate(meses)}
-        resultado = []
-        resultado.append(meses)
-        resultado[0].insert(0,"UCs")
-        for subvetor in historico:
-            chave = subvetor[0]
-            # inicializa com zeros (um para cada mês)
-            valores = ["UNK"] * len(meses)
-            # percorre as tuplas do subvetor
-            for item in subvetor[1:]:
-                if isinstance(item, tuple):
-                    mes, valor = item
-                    if mes in meses_index:
-                        idx = meses_index[mes]
-                        valores[idx] = valor
-            resultado.append([chave] + valores)
-            historico[:] = resultado
-
-        # CONSUMO
-        for v in aba_historico_consumo:
-            chave = v[0]
-            agrupados[chave].extend(v[1:])  # junta os valores
-            resultado = [[k] + valores for k, valores in agrupados.items()]    
-        aba_historico_consumo[:] = [[v[0]] + list(set(v[1:])) for v in resultado]
-        meses = [tupla[0] for subvetor in aba_historico_consumo for tupla in subvetor if isinstance(tupla, tuple)]
-        meses = list(set(meses))
-        ordem_meses = {
-            "JAN": 1, "FEV": 2, "MAR": 3, "ABR": 4,
-            "MAI": 5, "JUN": 6, "JUL": 7, "AGO": 8,
-            "SET": 9, "OUT": 10, "NOV": 11, "DEZ": 12
-        }
-        meses = sorted(
-            meses,
-            key=lambda x: (int(x[3:]), ordem_meses[x[:3]])
-        )
-        meses_index = {mes: i for i, mes in enumerate(meses)}
-        resultado = []
-        resultado.append(meses)
-        resultado[0].insert(0,"UCs")
-        for subvetor in aba_historico_consumo:
-            chave = subvetor[0]
-            # inicializa com zeros (um para cada mês)
-            valores = ["UNK"] * len(meses)
-            # percorre as tuplas do subvetor
-            for item in subvetor[1:]:
-                if isinstance(item, tuple):
-                    mes, valor = item
-                    if mes in meses_index:
-                        idx = meses_index[mes]
-                        valores[idx] = valor
-            resultado.append([chave] + valores)
-            aba_historico_consumo[:] = resultado
-
-        df = pd.DataFrame(aba_info_geral)    
-        df.to_excel(dst_dir / "enquadramentos.xlsx", index=False, header=False)
-        df = pd.DataFrame(historico)
-        df.to_excel(dst_dir / "historico.xlsx", index=False, header=False)
-        df = pd.DataFrame(aba_historico_consumo)
-        df.to_excel(dst_dir / "consumo.xlsx", index=False, header=False)
 
 if __name__ == "__main__":
     texter_orchestrator()

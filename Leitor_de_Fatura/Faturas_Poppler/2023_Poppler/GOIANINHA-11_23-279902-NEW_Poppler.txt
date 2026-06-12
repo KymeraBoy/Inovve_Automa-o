@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO SUMARE 100 SN
+ ESCOLA MUNICIPAL JOAO LUCIO
+ SUMARE/SUMARE
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+279902
+CÓDIGO DO CLIENTE
+856247007
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+        849
+ 30
+OUT23
+        890
+ 30
+SET23
+        917
+ 31
+AGO23
+        819
+ 31
+JUL23
+        704
+ 32
+JUN23
+        755
+ 29
+MAI23
+        953
+ 30
+ABR23
+        875
+ 32
+MAR23
+        781
+ 29
+FEV23
+        620
+ 30
+JAN23
+        605
+ 32
+DEZ22
+        990
+ 29
+NOV22
+       1152
+ 30
+
+CONSUMO
+kWh
+         849,00  
+         251,00  
+
+Consumo-TUSD
+kWh
+          849,00 
+ 0,52197353 
+           443,15 
+            18,33 
+           443,15 
+20,00
+            88,63 
+ 0,39599000
+Consumo-TE
+kWh
+          849,00 
+ 0,38650743 
+           328,14 
+            13,56 
+           328,14 
+20,00
+            65,62 
+ 0,29322000
+Ilum. Púb. Municipal
+            70,21 
+TRIBF-IRRF(1.2%)
+             9,24-
+TOTAL
+           832,26 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

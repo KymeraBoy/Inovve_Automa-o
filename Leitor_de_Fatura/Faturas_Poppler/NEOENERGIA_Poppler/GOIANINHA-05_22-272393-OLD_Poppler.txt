@@ -1,0 +1,86 @@
+CONTA CONTRATO
+7018947670
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272393
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MARIA DA GLORIA CHAVES 226
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        557
+ABR 22
+        479
+MAR 22
+        455
+FEV 22
+        168
+JAN 22
+        157
+DEZ 21
+        636
+NOV 21
+        492
+OUT 21
+        531
+SET 21
+AGO 21
+JUL 21
+JUN 21
+MAI 21
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  557,00 
+  360,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       557,0000000 
+ 0,46687342 
+           260,04 
+Consumo Ativo(kWh)-TE                        
+       557,0000000 
+ 0,35027788 
+           195,10 
+Acréscimo Bandeira AMARELA                   
+             1,73 
+Contrib. Ilum. Pública Municipal             
+            43,49 
+Multa por atraso-NF 076900346 - 29/03/22     
+             7,98 
+Juros por atraso-NF 076900346 - 29/03/22     
+             2,66 
+Atualizacao IPCA-NF 076900346 - 29.03.22     
+             2,69 
+TOTAL DA FATURA
+           513,69 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7018947670
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           513,69 
+VENCIMENTO
+20/06/2022

@@ -1,0 +1,106 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA DO MATADOURO 165
+ SECRETARIA DE OBRAS
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2023
+
+CÓDIGO DA INSTALAÇÃO
+274679
+CÓDIGO DO CLIENTE
+242707010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET23
+       1169
+ 32
+AGO23
+       1242
+ 31
+JUL23
+       1146
+ 31
+JUN23
+       1488
+ 30
+MAI23
+       1225
+ 30
+ABR23
+       1410
+ 29
+MAR23
+       1288
+ 31
+FEV23
+       1308
+ 31
+JAN23
+       1292
+ 29
+DEZ22
+       1326
+ 31
+NOV22
+       1229
+ 30
+OUT22
+       1169
+ 30
+SET22
+       1328
+ 32
+
+CONSUMO
+kWh
+       1.169,00 
+         400,00  
+
+Consumo-TUSD
+kWh
+        1.169,00 
+ 0,52296619 
+           611,34 
+            26,17 
+           611,34 
+20,00
+           122,27 
+ 0,39599000
+Consumo-TE
+kWh
+        1.169,00 
+ 0,38724247 
+           452,68 
+            19,36 
+           452,68 
+20,00
+            90,53 
+ 0,29322000
+TOTAL
+         1.064,02 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

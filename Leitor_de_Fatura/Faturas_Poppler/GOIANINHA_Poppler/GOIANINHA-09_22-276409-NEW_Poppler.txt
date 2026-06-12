@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI SUMARE 16
+ POCO TUBULAR
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+276409
+CÓDIGO DO CLIENTE
+242727010
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+       2427
+ 33
+AGO22
+       2104
+ 30
+JUL22
+       2191
+ 32
+JUN22
+       2211
+ 29
+MAI22
+       2194
+ 30
+ABR22
+       2253
+ 32
+MAR22
+       2212
+ 31
+FEV22
+       1971
+ 28
+JAN22
+       2356
+ 32
+DEZ21
+       2139
+ 29
+NOV21
+       2200
+ 29
+OUT21
+       2355
+ 32
+SET21
+       2152
+ 30
+
+CONSUMO
+kWh
+2.427,00 
+2.864,00 
+
+Consumo-TUSD
+kWh
+        2.427,00 
+ 0,47359498 
+         1.149,41 
+            49,01 
+         1.149,41 
+18,00
+           206,90 
+ 0,36815380
+Consumo-TE
+kWh
+        2.427,00 
+ 0,35228259 
+           854,98 
+            36,45 
+           854,98 
+18,00
+           153,89 
+ 0,27385040
+Cob. ICMS Subven-CDE
+            11,16 
+Multa-NF 083226080
+            36,45 
+Juros-NF 083226080
+            12,76 
+IPCA-NF-083226080
+             9,31 
+TOTAL
+         2.074,07 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

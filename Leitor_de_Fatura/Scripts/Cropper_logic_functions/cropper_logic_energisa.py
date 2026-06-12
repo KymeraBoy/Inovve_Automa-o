@@ -43,6 +43,24 @@ marcadores_de_referencia = [
 FATOR_SIMPLIFICACAO = 32
 REDUCAO_IMAGEM = (100, 100)
 
+UCS_FORCAR_LAYOUT_4 = {
+    "5/315667-6",
+    "5/4078395-3",
+    "5/4150041-4",
+    "5/4184196-6",
+    "5/4456997-8",
+    "5/4457126-3",
+    "5/578204-0",
+}
+
+TERMOS_PIX_QR = (
+    "pix",
+    "qr code",
+    "qrcode",
+    "pague por pix",
+    "pix copia e cola",
+)
+
 # ============================================================= #
 # FUNÇÕES
 # ============================================================= #
@@ -244,6 +262,27 @@ def extrair_unidade_para_nome_layout4(texto):
 
     return extrair_unidade_para_nome(texto)
 
+def extrair_uc_energisa(texto_norm):
+    uc_match = re.search(r"\b5/\d{5,7}-\d\b", texto_norm)
+    return uc_match.group(0) if uc_match else ""
+
+def parece_layout4_sem_pix_qr(texto_norm, uc_extraida):
+    if not uc_extraida.startswith("5/"):
+        return False
+
+    tem_sinal_pix = any(termo in texto_norm for termo in TERMOS_PIX_QR)
+    if tem_sinal_pix:
+        return False
+
+    if "matricula:" not in texto_norm or "dom. banc." not in texto_norm:
+        return False
+
+    # Evita conflito com layouts antigos que têm cabeçalho semelhante.
+    if "classe/subcls" in texto_norm or "whatsapp" in texto_norm:
+        return False
+
+    return True
+
 def identificar_layout_fatura(doc, template, texto_completo):
     pages = [doc.load_page(i) for i in range(len(doc))]
     texto_norm = normalizar_texto_para_regra(texto_completo)
@@ -252,12 +291,18 @@ def identificar_layout_fatura(doc, template, texto_completo):
     if len(pages) == 2:
         scores = {"LAYOUT_4": 0, "LAYOUT_5": 0, "LAYOUT_6": 0, "LAYOUT_7": 0}
         texto_verso = textos_paginas_norm[1]
+        uc_fatura = extrair_uc_energisa(texto_norm)
+
+        if uc_fatura in UCS_FORCAR_LAYOUT_4:
+            return "LAYOUT_4", template["LAYOUT_4"]
 
         # LAYOUT 4: forte presença de DANF3E / Documento Auxiliar
         if "danf3e" in texto_norm or "documento auxiliar" in texto_norm:
             scores["LAYOUT_4"] += 7
         if "auxiliar" in texto_norm:
             scores["LAYOUT_4"] += 3
+        if "nota fiscal" in texto_norm and "matricula:" in texto_norm and "dom. banc." in texto_norm:
+            scores["LAYOUT_4"] += 4
 
         # LAYOUT 5: sinais característicos de bandeira/lançamentos
         if "endereco da unidade consumidora" in texto_norm:
@@ -268,6 +313,11 @@ def identificar_layout_fatura(doc, template, texto_completo):
             scores["LAYOUT_5"] += 5
         if "faturamento pela media/minimo" in texto_norm:
             scores["LAYOUT_5"] += 4
+
+        # Migração observada: alguns L4 mantêm semântica de cobrança sem QR/PIX textual.
+        if parece_layout4_sem_pix_qr(texto_norm, uc_fatura):
+            scores["LAYOUT_4"] += 12
+            scores["LAYOUT_5"] -= 4
 
         # LAYOUT 6: cabeçalho mais antigo com domicílio/medidor/roteiro
         if "classe/subcls" in texto_norm:

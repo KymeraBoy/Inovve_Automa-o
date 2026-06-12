@@ -1,103 +1,0 @@
-PM JERICO QUADRA POLIESPORTIVA
-
-DOMICÍLIO DE ENTREGA
-PM JERICO QUADRA POLIESPORTIVA
-RUA LOPES FIGUEIREDO 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0253 - 700 - 0100                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008371002                            DOM. BANC.:
-MATRÍCULA: 1112957-2022-6-3                            DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA HERUNDINA DE OLIVEIRA, S/N
-CENTRO
-JERICO (AG: 245)
-
-
-
-                                                                     0001112957-4
-5/1112957-4
-              R$ 332,58
-
-
-              Junho/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2022
-              13,93 kWh
-             MÉDIA DIÁRIA
-390 kWh
-15/06/2022   04/07/2022   15/07/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        390,00    0,596920    0,826800      322,45        322,45   25      80,61         241,83        1,61          7,43
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 04/2022                                                               9,50                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2022                                                       0,63                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         332,58        322,45           80,61         241,83        1,61          7,43
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1112957-2022-6-3           23/07/2022         87497920      R$ 332,58
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Leitura confirmada
-DIC         12,00     1,89   0,00       0
-FIC          4,00     1,00   0,00    0,00
-DMIC         9,00     1,89
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                     04/2022
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                      79,38 23,87
-Compra de energia                           108,46 32,61
-Serviço de transmissão                       17,93   5,39
-Encargos setoriais                           27,03   8,13
-Impostos diretos e encargos                  99,78 30,00
-Outros serviços                               0,00   0,00
-Total                                       332,58 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2022): R$ 158,31
-0   JUN/22    390,00
-0   MAI/22    388,00
-    ABR/22    464,00
-    MAR/22    132,00
-    FEV/22     87,00
-    JAN/22     58,00
-    DEZ/21     92,00
-    NOV/21    329,00
-    OUT/21    355,00 *
-    SET/21    373,00
-    AGO/21    339,00
-    JUL/21    152,00
-    JUN/21    437,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 17/05/2022   Leitura Atual: 14/06/2022   Dias: 28
-
-
-KWH   Ponta   72.456,00    72.066,00      1              0                                  390,00         390,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

@@ -1,103 +1,0 @@
-PM AGUIAR CENTRO ADMINISTRATIVO
-
-DOMICÍLIO DE ENTREGA
-PM AGUIAR CENTRO ADMINISTRATIVO
-RUA BOA VISTA SN
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0149 - 400 - 7580                       LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00009061265                          DOM. BANC.:
-MATRÍCULA: 136660-2020-6-1                           DOM. ENT.: 9999149001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA IRINEU LACERDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-
-
-
-                                                                   0000136660-8
-5/136660-8
-              R$ 573,71
-
-
-              Junho/2020
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-23/07/2020
-              26,25 kWh
-             MÉDIA DIÁRIA
-735 kWh
-16/06/2020   08/07/2020   15/07/2020
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
-0601 Consumo em kWh                        735,00    0,545400    0,780560      573,71        573,71   25      143,42         573,71        5,24         24,17
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         573,71        573,71           143,42         573,71        5,24         24,17
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   136660-2020-6-1           23/07/2020         46132668      R$ 573,71
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Leitura confirmada
-DIC          6,47     0,00   12,94   25,89
-FIC          3,55     0,00    7,10   14,20
-DMIC         3,80     0,00
-DICRI       12,22
-
-
-Conjunto:    Piancó
-
-Referência:                      04/2020
-Tensão Contratada:
-Limite Adequado:               350 a 399
-Serviço de distribuição                     157,47 27,45
-Compra de energia                           196,31 34,22
-Serviço de transmissão                       23,41   4,08
-Encargos setoriais                           23,69   4,13
-Impostos diretos e encargos                 172,83 30,12
-Outros serviços                               0,00   0,00
-Total                                       573,71 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2020): R$ 235,74
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-9   JUN/20    735,00
-0   MAI/20    605,00
-    ABR/20     740,00
-    MAR/20   1.255,00
-    FEV/20   1.314,00
-    JAN/20     946,00
-    DEZ/19   1.278,00
-    NOV/19   1.341,00
-    OUT/19   1.219,00
-    SET/19   1.064,00
-    AGO/19     790,00
-    JUL/19     826,00
-    JUN/19     975,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 18/05/2020   Leitura Atual: 15/06/2020   Dias: 28
-
-
-KWH   Ponta   15.052,00    14.317,00      1              0                                  735,00         735,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

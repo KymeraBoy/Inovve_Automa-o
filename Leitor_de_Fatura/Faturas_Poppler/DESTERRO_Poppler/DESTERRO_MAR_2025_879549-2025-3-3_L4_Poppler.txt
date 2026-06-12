@@ -1,131 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 008 - 0139 - 563 - 3590
-MATRÍCULA: 879549-2025-3-3
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM DESTERRO ABASTECIMENTO DAGUA SIT
-BARRA DO VIEIRA
-SIT BARRA DO VIEIRA, 0 - 58695000
-
-
-AREA RURAL
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Março / 2025   23/04/2025   R$ 78,29
-- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
-pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
-                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                          78,29        3,81          78,29   20      15,65
-
-
-
-
-                                   TOTAL:                         78,29        3,81          78,29           15,65
-00009061116   Energia ativa em kWh   Ponta   2520,333333 2620,333333   1   100
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  879549-2025-3-3       23/04/2025       5067077         R$ 78,29
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 03/04/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000879549-4
-13/02/2025   14/03/2025   29   11/04/2025
-5/879549-4
-
-00009061116
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          62,62    1,0845      0,68
-COFINS       62,62    4,9955      3,13
-ICMS         78,29     20,00     15,65
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAR/25                29
-              FEV/25                30
-              JAN/25                32
-              DEZ/24                31
-Consumo kWh
-
-
-
-
-              NOV/24                28
-              OUT/24                32
-              SET/24                30
-              AGO/24                30
-              JUL/24                32
-              JUN/24                30
-              MAI/24                35
-              ABR/24                32
-              MAR/24                30
-   78,29                  15,65
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-DIC         24,00       3,34   999,00   999,00
-FIC          6,00       1,00   999,00   999,00
-DMIC        18,00       3,34
-DICRI       26,00
-
-
-Conjunto:    Teixeira
-
-Referência:                         01/2025
-Tensão Contratada:
-Limite Adequado:                  350 a 399
-Serviço de distribuição                     20,37    26,01
-Compra de energia                           23,70    30,27
-Serviço de transmissão                       5,25     6,71
-Encargos setoriais                           9,51    12,15
-Impostos diretos e encargos                 19,46    24,86
-Outros serviços                              0,00     0,00
-Total                                       78,29   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 01/2025): R$ 21,78
-MAR/25    100,00 *
-FEV/25      0,00 *
-JAN/25    100,00 *
-DEZ/24      0,00 *
-NOV/24      0,00 *
-OUT/24    100,00 *
-SET/24      0,00 *
-AGO/24      0,00 *
-JUL/24      0,00 *
-JUN/24      0,00
-MAI/24      0,00 *
-ABR/24      0,00 *
-MAR/24    100,00 *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 13/02/2025      Leitura Atual: 14/03/2025   Dias: 29
-
-
-
-KWH   Ponta    2.620,33       2.520,33       1,00                                                  100,00            100,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

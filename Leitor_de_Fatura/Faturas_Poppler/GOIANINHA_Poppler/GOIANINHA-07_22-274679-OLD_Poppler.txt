@@ -1,0 +1,92 @@
+CONTA CONTRATO
+0242707010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+274679
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DO MATADOURO 165
+SECRETARIA DE OBRAS
+COHAB/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        978
+JUN 22
+       1202
+MAI 22
+       1199
+ABR 22
+       1387
+MAR 22
+       1179
+FEV 22
+        956
+JAN 22
+       1561
+DEZ 21
+       1395
+NOV 21
+       1384
+OUT 21
+       1641
+SET 21
+       1379
+AGO 21
+       1429
+JUL 21
+       1645
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  978,00 
+  553,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       978,0000000 
+ 0,49526551 
+           484,36 
+Consumo Ativo(kWh)-TE                        
+       978,0000000 
+ 0,36794674 
+           359,85 
+Multa por atraso-NF 080049025 - 27/05/22     
+            19,34 
+Multa por atraso-NF 081654323 - 28/06/22     
+            20,51 
+Juros por atraso-NF 080049025 - 27/05/22     
+             5,15 
+Juros por atraso-NF 081654323 - 28/06/22     
+             0,33 
+Atualizacao IPCA-NF 080049025 - 27.05.22     
+             5,05 
+TOTAL DA FATURA
+           894,59 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242707010
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           894,59 
+VENCIMENTO
+22/08/2022

@@ -1,0 +1,88 @@
+CONTA CONTRATO
+7018978983
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+8010540
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO ANA SE 999999
+ANA SE/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+         30
+JUL 22
+         30
+JUN 22
+         30
+MAI 22
+         30
+ABR 22
+         30
+MAR 22
+         30
+FEV 22
+         30
+JAN 22
+         30
+DEZ 21
+         30
+NOV 21
+         30
+OUT 21
+         30
+SET 21
+AGO 21
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+    3,00 
+
+Consumo Ativo(kWh)-TUSD                      
+        30,0000000 
+ 0,48568064 
+            14,57 
+Consumo Ativo(kWh)-TE                        
+        30,0000000 
+ 0,36127248 
+            10,83 
+Contrib. Ilum. Pública Municipal             
+             2,97 
+Multa por atraso-NF 081654391 - 28/06/22     
+             0,50 
+Juros por atraso-NF 081654391 - 28/06/22     
+             0,17 
+Atualizacao IPCA-NF 081654391 - 28.06.22     
+             0,18 
+Atualizacao IPCA-NF 080049093 - 27.05.22     
+             0,30 
+TOTAL DA FATURA
+            29,52 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7018978983
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+            29,52 
+VENCIMENTO
+20/09/2022

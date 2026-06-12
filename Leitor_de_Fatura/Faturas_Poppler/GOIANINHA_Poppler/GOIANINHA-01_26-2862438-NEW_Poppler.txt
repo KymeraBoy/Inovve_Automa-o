@@ -1,0 +1,123 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RO RN 003 693 --L
+ PO O GUARABIRA
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2862438
+CÓDIGO DO CLIENTE
+7020980995
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+         37
+ 32
+DEZ25
+         59
+ 31
+NOV25
+         39
+ 32
+OUT25
+         30
+ 28
+SET25
+         37
+ 31
+AGO25
+         30
+ 33
+JUL25
+         43
+ 29
+JUN25
+         60
+ 32
+MAI25
+         30
+ 30
+ABR25
+         34
+ 28
+MAR25
+         33
+ 30
+FEV25
+         41
+ 32
+JAN25
+         30
+ 29
+
+CONSUMO
+kWh
+          37,00  
+
+Consumo-TUSD
+kWh
+           37,00 
+ 0,57618540 
+            21,31 
+             1,05 
+            21,31 
+20,00
+             4,26 
+ 0,43260000
+Consumo-TE
+kWh
+           37,00 
+ 0,41507725 
+            15,35 
+             0,75 
+            15,35 
+20,00
+             3,07 
+ 0,31164000
+Acrés. Band. AMARELA
+             0,77 
+             0,03 
+             0,77 
+20,00
+             0,15 
+Ilum. Púb. Municipal
+             4,21 
+Multa-NF 149199789
+             0,80 
+Juros-NF 149199789
+             0,18 
+IPCA-NF-149199789
+             0,04 
+TRIBF-IRRF(1.2%)
+             0,45-
+TRIBF-IRRF(4.8%)
+             0,04-
+TOTAL
+            42,17 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

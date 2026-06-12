@@ -77,21 +77,25 @@ def _extrair_municipio(texto, filename=None):
 def _extrair_uc_documento(texto, filename=None):
     """
     Prioridade:
-    1. Padrão curto X/XXXXXX-X diretamente no texto Poppler (todos os layouts)
-    2. UC codificada no filename novo: MUNICIPIO_MES_ANO_UC_LX_Poppler
-       onde UC aparece como 'X_XXXXXX-X' (barra substituída por _)
+    1. UC codificada no filename (padrão atual e legado)
+    2. Padrão curto X/XXXXXX-X diretamente no texto Poppler (todos os layouts)
     3. Matrícula longa XXXXXX-YYYY-MM-D como último recurso
     """
-    # 1. Texto: padrão X/XXXXXX-X
-    pat_uc = re.search(r"\b\d+/\d+-\d+\b", texto)
+    # 1. Filename: padrão atual ...-X_XXXXXX-X-LY_... e legado ..._X_XXXXXX-X_LY...
+    if filename:
+        padroes_nome = [
+            r"-(\d{1,2})_(\d{5,8})-(\d)-L\d(?:_|\.|$)",
+            r"_(\d{1,2})_(\d{5,8})-(\d)_L\d(?:_|\.|$)",
+        ]
+        for padrao in padroes_nome:
+            m = re.search(padrao, filename, flags=re.IGNORECASE)
+            if m:
+                return f"{m.group(1)}/{m.group(2)}-{m.group(3)}"
+
+    # 2. Texto: padrão de UC com bloco central longo (evita capturar CNPJ xx/0001-xx)
+    pat_uc = re.search(r"\b\d{1,2}/\d{5,8}-\d\b", texto)
     if pat_uc:
         return pat_uc.group(0)
-
-    # 2. Filename novo: _X_XXXXXX-X_L[1-7]
-    if filename:
-        m = re.search(r"_(\d+)_(\d+)-(\d+)_L[1-7]", filename, flags=re.IGNORECASE)
-        if m:
-            return f"{m.group(1)}/{m.group(2)}-{m.group(3)}"
 
     # 3. Matrícula longa (fallback)
     pat_mat = re.search(r"\b\d{5,}-\d{4}-\d{1,2}-\d\b", texto)
@@ -160,13 +164,68 @@ def _extrair_referencia(texto, filename=None):
 
 def _extrair_cliente_e_endereco(texto):
     linhas = texto.splitlines()
+    _ruidos_inicio_bloco = (
+        "DOMICILIO DE ENTREGA",
+        "ENDERECO DA UNIDADE CONSUMIDORA",
+        "ROTEIRO:",
+        "MATRICULA:",
+        "DOM. BANC.",
+        "DOM. ENT.",
+    )
+    _ruidos_pos_ligacao = (
+        "CNPJ",
+        "CPF",
+        "INSC",
+        "CLASSIFICACAO",
+        "CLASSE",
+        "GRUPO",
+        "LIGACAO",
+        "TIPO DE FORNECIMENTO",
+        "ROTEIRO:",
+        "MATRICULA:",
+        "REFERENCIA",
+        "DATA DE APRESENTACAO",
+        "UTILIZE O CODIGO",
+        "PAGADOR",
+        "SACADOR",
+    )
+
+    def _limpar_linha(valor):
+        return valor.replace("\f", "").strip()
+
+    def _normalizar(valor):
+        return _sem_acento(valor).upper().rstrip(":")
+
+    # Regra principal: em muitas faturas Energisa o cliente correto aparece
+    # logo após a linha com indicação de ligação/tipo de fornecimento.
+    idx_ligacao = None
+    for i, linha in enumerate(linhas):
+        base = _normalizar(_limpar_linha(linha))
+        if re.search(r"\b(LIGACAO|TIPO DE FORNECIMENTO)\s*:", base):
+            idx_ligacao = i
+            break
+
+    if idx_ligacao is not None:
+        bloco_pos_ligacao = []
+        for linha in linhas[idx_ligacao + 1:]:
+            limpa = _limpar_linha(linha)
+            if not limpa:
+                continue
+            base = _normalizar(limpa)
+            if any(base.startswith(prefixo) for prefixo in _ruidos_pos_ligacao):
+                break
+            bloco_pos_ligacao.append(limpa)
+            if len(bloco_pos_ligacao) >= 2:
+                break
+
+        if bloco_pos_ligacao:
+            cliente = bloco_pos_ligacao[0]
+            endereco = bloco_pos_ligacao[1] if len(bloco_pos_ligacao) >= 2 else ""
+            return cliente, endereco
+
     _marcadores = (
         "Grupo/Subgp.", "Grupo/Subgp.:", "GRUPO/SUBGRP.",
         "Classificação:", "CLASSIFICAÇÃO:", "LIGAÇÃO:",
-    )
-    _ignoradas_prefixo = (
-        "DOMICILIO DE ENTREGA",
-        "ENDERECO DA UNIDADE CONSUMIDORA",
     )
     limite = len(linhas)
     for indice, linha in enumerate(linhas):
@@ -175,11 +234,11 @@ def _extrair_cliente_e_endereco(texto):
             break
     bloco = []
     for linha in linhas[:limite]:
-        linha_limpa = linha.strip()
-        if not linha_limpa or linha_limpa == "\f":
+        linha_limpa = _limpar_linha(linha)
+        if not linha_limpa:
             continue
-        linha_norm = _sem_acento(linha_limpa).rstrip(":")
-        if any(linha_norm.startswith(prefixo) for prefixo in _ignoradas_prefixo):
+        linha_norm = _normalizar(linha_limpa)
+        if any(linha_norm.startswith(prefixo) for prefixo in _ruidos_inicio_bloco):
             continue
         bloco.append(linha_limpa)
 

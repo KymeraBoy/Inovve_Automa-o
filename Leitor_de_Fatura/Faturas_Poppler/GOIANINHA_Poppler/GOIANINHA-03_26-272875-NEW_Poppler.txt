@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA JOAO TIBURCIO 560
+ GRUPO ESCOLAR ALUIZIO ALVES
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+272875
+CÓDIGO DO CLIENTE
+242701011
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       1349
+ 29
+FEV26
+        685
+ 29
+JAN26
+        519
+ 32
+DEZ25
+        960
+ 31
+NOV25
+       1153
+ 29
+OUT25
+       1197
+ 32
+SET25
+       1129
+ 30
+AGO25
+       1212
+ 32
+JUL25
+        993
+ 30
+JUN25
+        928
+ 30
+MAI25
+       1159
+ 31
+ABR25
+       1198
+ 30
+MAR25
+       1219
+ 29
+
+CONSUMO
+kWh
+       1.349,00 
+         106,00  
+
+Consumo-TUSD
+kWh
+        1.349,00 
+ 0,57575596 
+           776,69 
+            37,77 
+           776,69 
+20,00
+           155,34 
+ 0,43260000
+Consumo-TE
+kWh
+        1.349,00 
+ 0,41476788 
+           559,52 
+            27,21 
+           559,52 
+20,00
+           111,90 
+ 0,31164000
+Multa-NF 154449950
+            13,51 
+Juros-NF 154449950
+             0,89 
+TRIBF-IRRF(1.2%)
+            16,03-
+TRIBF-IRRF(4.8%)
+             0,69-
+TOTAL
+         1.333,89 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

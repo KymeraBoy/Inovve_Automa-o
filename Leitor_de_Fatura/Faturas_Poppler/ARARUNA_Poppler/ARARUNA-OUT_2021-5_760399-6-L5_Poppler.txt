@@ -1,0 +1,183 @@
+PM ARARUNA EM DE FAZENDA NOVA ARARUNA
+DOMICÍLIO DE ENTREGA:
+PM ARARUNA EM DE FAZENDA NOVA ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+
+
+GRUPO/SUBGRP: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 013 - 0062 - 159 - 6620                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7033298011                           DOM. BANC.:
+MATRÍCULA: 760399-2021-10-9                           DOM. ENT.: 9999062001
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT FAZ NOVA, S/N - 58233000
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+
+
+                                                                                         1
+
+                                                                              0000760399-6
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+            R$ 5.188,44
+
+
+           Outubro/2021
+
+CNPJ/CPF/RANI: 08.927.105/0001-00
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+23/11/2021
+              26,40 kWh
+             MÉDIA DIÁRIA
+792 kWh
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+                               FATURAS EM ATRASO
+                              23/10/2021    4.624,32
+Sujeito a corte!
+Reaviso de vencimento:
+Seu fornecimento poderá ser
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+    suspenso a partir de
+A   18/11/2021.
+    Regularize seus débitos.   0,00
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+    Insc. Est.: 000000000000                    c764.40a2.2832.5ca6.2753.7c21.1403.e7a0                   25/10/2021              03/11/2021                22/11/2021
+
+
+
+                                                                   TARIFA SEM   TARIFA COM      VALOR     BASE CALC    % ALÍQ.    ICMS        BASE CALC.      PIS (R$)   COFI
+CCI DESCRIÇÃO                                        QUANTIDADE      TRIBUTOS     TRIBUTOS   TOTAL (R$)    ICMS (R$)   ICMS        (R$)   PIS/COFINS (R$)   (0,6671%)      (3
+0601 Consumo em kWh                                      792,000    0,596920     0,826800       654,83       654,83      25      163,71           491,13        3,27
+0601 Adic. B. Vermelha                                                                          155,77       155,77      25       38,94           116,83        0,78
+     LANÇAMENTOS E SERVIÇOS
+0807 CONTRIB ILUM PUBLICA                                                                        35,11         0,00       0        0,00             0,00        0,00
+0899 ORCAMENTO - ODI ODI: 0022000741 - Parcela:8 10/2021                                      4.342,73         0,00       0        0,00             0,00        0,00
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+CCI: Código de Classificação do Item                                                       TOTAL:              5.188,44          810,60                       202,65           607,96        4,05
+
+    BANCO DO BRASIL S A                                               001 -9       00190.00009 03268.926007 39664.141171 1 88130000518844                                Ganhe mais facilidade pagando
+     LOCAL DE PAGAMENTO                                                                                                                     VENCIMENTO
+                                                                                                                                                                                    com o PIX!
+     PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A                                                                                                      23/11/2021        Use seu app de pagamento
+     BENEFICIÁRIO                                                                                                                  CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                                                                                          favorito, escolha "pagar com
+     ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                                     09.095.183/0001-40                                   PIX" e leia o código abaixo:
+     ENDEREÇO                                                                                                                               NOSSO NÚMERO
+     BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680                                                                 32689260039664141
+     DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE     DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+     25/10/2021                 760399-2021-10-9                                  DS                  N          25/10/2021                                  5.188,44
+                                                                                                                                            (-) DESCONTOS/
+                                          CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                   VALOR
+                                                                                                                                             ABATIMENTOS
+     INSTRUÇÕES                                                                                                                             (-) OUTRAS
+     OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                          DEDUÇÕES
+                                                                                                                                            (+) MORA/
+     NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                              MULTA
+     TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                           (+) OUTROS
+                                                                                                                                            ACRÉSCIMOS
+     NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                            (=) VALOR
+                                                                                                                                            COBRADO
+
+     PAGADOR                                                                                                                                                 CPF/CNPJ
+     PM ARARUNA EM DE FAZENDA NOVA ARARUNA                                                                                                   08.927.105/0001-00
+     SIT FAZ NOVA, S/N - 58233000 ARARUNA (AG: 62)
+     SACADOR/ AVALISTA                                                                                                                                   CÓD. DE BAIXA
+                                                                                                                                         AUTENTICAÇÃO MECÂNICA           Quer facilidade?
+                                                                                                                                                                         Abra sua Conta Voltz - Energisa
+                                                                                                                                                                         e tenha vantagens exclusivas!
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+ efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+ - -Reajuste tarifário médio 7,08%,a partir de 28/08/21,conf. REH nº 2.929/2021/ANEEL
+ - Leitura confirmada
+
+
+
+
+DIC         11,59      0,00      23,19     46,38   OUT/21            792
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DMIC        6,39      0,00
+DICRI      16,60
+
+
+Conjunto: Araruna
+
+Referência: 08/2021
+Tensão Contratada:
+Limite Adequado: 202 a 231
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+ erviço distribuição ENERGISAPB              161,23     3,1
+Compra de energia                            332,70     6,4
+ erviço de transmissão                        36,40     0,7
+ ncargos setoriais                            54,89     1,0
+mpostos diretos e encargos                   260,49     5,0
+Outros serviços                            4.342,73    83,7
+ OTAL                                      5.188,44   100,0
+ncargo de Uso do Sistema de Distribuição
+Ref 08/2021): R$ 87,71
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+sem alteração de valores. Conforme resolução CREG nº 3,
+de 31/08/21.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+AGO/21   255
+JUL/21   282
+JUN/21   159 *
+MAI/21   207
+ABR/21   241
+MAR/21   226
+FEV/21   118
+JAN/21   124
+DEZ/20   138
+NOV/20   126
+OUT/20   134
+
+
+
+
+                 *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+
+
+                      Leitura Anterior: 22/09/2021   Leitura Atual: 22/10/2021   Dias: 30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+11   KWH   Ponta   1538   746   1   0          792
+41
+70
+06
+02
+70
+00
+
+
+
+
+                                        * K : Constante do Med

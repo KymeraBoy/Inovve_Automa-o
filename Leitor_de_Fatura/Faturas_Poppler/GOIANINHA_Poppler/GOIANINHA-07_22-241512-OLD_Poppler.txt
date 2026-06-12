@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242736010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+241512
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO MIRANDA 83
+CRECHE MUNICIPAL ELIZABETH BERNARO
+MIRANDA/AREA RURAL
+59180-000 ESPIRITO SANTO RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        535
+JUN 22
+        605
+MAI 22
+        689
+ABR 22
+        622
+MAR 22
+        617
+FEV 22
+        497
+JAN 22
+        426
+DEZ 21
+        431
+NOV 21
+        408
+OUT 21
+        446
+SET 21
+        465
+AGO 21
+        459
+JUL 21
+        456
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  535,00 
+  341,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       535,0000000 
+ 0,49145305 
+           262,92 
+Consumo Ativo(kWh)-TE                        
+       535,0000000 
+ 0,36533070 
+           195,45 
+Multa por atraso-NF 081654335 - 28/06/22     
+            10,32 
+Juros por atraso-NF 081654335 - 28/06/22     
+             0,16 
+TOTAL DA FATURA
+           468,85 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242736010
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           468,85 
+VENCIMENTO
+22/08/2022

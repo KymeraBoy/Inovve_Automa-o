@@ -1,0 +1,143 @@
+PM ARARUNA CENTRO TREINAMENTO PROFESSORES
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CENTRO TREINAMENTO PROFESSORES
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 015 - 0062 - 070 - 2960                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008604948                            DOM. BANC.:
+MATRÍCULA: 315470-2022-8-0                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PADRE TARGINO SOBRINHO, 22
+ARARUNA
+ARARUNA (AG: 62)
+
+
+
+                                                                     0000315470-5
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+5/315470-5
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+       R$ 686,66
+
+
+      Agosto/2022
+CNPJ/CPF/RANI:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+        23/09/2022
+                                 30,27 kWh
+                                MÉDIA DIÁRIA
+      908 kWh
+
+
+f0c2.ec81.0a38.1078.92cb.2918.3c4e.83a3
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+25/08/2022   02/09/2022   26/09/2022
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        908,00    0,596920    0,756230      686,66        686,66   18      123,59         563,06        3,76         17,30
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         686,66        686,66           123,59         563,06        3,76         17,30
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+                                    NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA       Nº FATURA
+                                                                                91431701
+
+
+          MATRÍCULA                                VENCIMENTO               TOTAL A PAGAR
+        315470-2022-8-0                              23/09/2022               R$ 686,66
+
+83640000006-0 86660054000-3 03154702022-7 08000062019-7
+
+
+
+(YiFrB{B{B{NeHqFuJwBvB{LiWsBhDjDjEvQ{B{DwEvSg)
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+- Leitura confirmada
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DIC         12,00      0,00   0,00       0
+FIC          4,00      0,00   0,00    0,00
+DMIC         9,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                      06/2022
+Tensão Contratada:
+Limite Adequado:               350 a 399
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+Serviço de distribuição                     135,28 19,70
+Compra de energia                           239,68 34,91
+Serviço de transmissão                       35,18   5,12
+Encargos setoriais                          131,87 19,20
+Impostos diretos e encargos                 144,65 21,07
+Outros serviços                               0,00   0,00
+Total                                       686,66 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2022): R$ 34,12
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+0   AGO/22     908,00
+0   JUL/22   1.825,00
+    JUN/22      0,00 *
+    MAI/22    864,00
+    ABR/22    627,00
+    MAR/22    603,00
+    FEV/22    334,00
+    JAN/22    233,00
+    DEZ/21    263,00
+    NOV/21    243,00
+    OUT/21    208,00
+    SET/21    180,00
+    AGO/21    135,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                 Leitura Anterior: 25/07/2022   Leitura Atual: 24/08/2022   Dias: 30
+
+
+KWH   Ponta   15.084,00    14.176,00      1              0                                  908,00         908,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

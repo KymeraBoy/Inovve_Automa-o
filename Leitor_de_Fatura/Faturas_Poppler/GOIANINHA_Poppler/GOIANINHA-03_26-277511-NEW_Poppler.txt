@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI CATU 117
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+277511
+CÓDIGO DO CLIENTE
+7026426035
+
+ CLASSIFICAÇÃO: B3 COMERCIAL -OUTROS SERVIÇOS E OUTRAS
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       1199
+ 29
+FEV26
+       1250
+ 29
+JAN26
+       1549
+ 32
+DEZ25
+       2033
+ 31
+NOV25
+       1896
+ 29
+OUT25
+       2091
+ 32
+SET25
+       1925
+ 30
+AGO25
+       1450
+ 32
+JUL25
+       1877
+ 30
+JUN25
+       1851
+ 30
+MAI25
+       1663
+ 31
+ABR25
+       1399
+ 30
+MAR25
+       1275
+ 29
+
+CONSUMO
+kWh
+       1.199,00 
+
+Consumo-TUSD
+kWh
+        1.199,00 
+ 0,57575596 
+           690,33 
+            33,58 
+           690,33 
+20,00
+           138,06 
+ 0,43260000
+Consumo-TE
+kWh
+        1.199,00 
+ 0,41476788 
+           497,30 
+            24,18 
+           497,30 
+20,00
+            99,46 
+ 0,31164000
+Ilum. Púb. Municipal
+           107,07 
+TRIBF-IRRF(1.2%)
+            14,25-
+TOTAL
+         1.280,45 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

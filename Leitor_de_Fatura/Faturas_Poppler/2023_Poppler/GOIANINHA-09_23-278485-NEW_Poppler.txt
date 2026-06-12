@@ -1,0 +1,106 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA MANOEL CLAUDIO BEZERRA 110
+ GRUPO ESCOLAR JOAO MANDU
+ UNA/UNA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2023
+
+CÓDIGO DA INSTALAÇÃO
+278485
+CÓDIGO DO CLIENTE
+242703014
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET23
+        888
+ 32
+AGO23
+        949
+ 31
+JUL23
+        628
+ 31
+JUN23
+       1032
+ 30
+MAI23
+        889
+ 30
+ABR23
+        821
+ 29
+MAR23
+        515
+ 31
+FEV23
+        392
+ 31
+JAN23
+        737
+ 29
+DEZ22
+        831
+ 31
+NOV22
+        991
+ 30
+OUT22
+        955
+ 30
+SET22
+        945
+ 32
+
+CONSUMO
+kWh
+         888,00  
+         401,00  
+
+Consumo-TUSD
+kWh
+          888,00 
+ 0,52296619 
+           464,39 
+            19,87 
+           464,39 
+20,00
+            92,88 
+ 0,39599000
+Consumo-TE
+kWh
+          888,00 
+ 0,38724247 
+           343,87 
+            14,71 
+           343,87 
+20,00
+            68,77 
+ 0,29322000
+TOTAL
+           808,26 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

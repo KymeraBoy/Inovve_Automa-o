@@ -1,133 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 012 - 0253 - 733 - 4890
-MATRÍCULA: 1495505-2023-6-5
-DOM. BANC.:                         DOM. ENT.: 9999253002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-GE LUIZ ALVES DA SILVA JERICO
-
-SIT UMBURANA, S/N - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Junho / 2023   23/07/2023   R$ 143,07
--"Problemas com alcoolismo? Nós podemos ajudar – Ligue: (83) 3222-4557 / 9 8658-4556” - Alcoólicos Anônimos na Paraíba
-                                                   Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                            181,00       0,777870        140,79        7,02         140,79   18      25,34   0,599080
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 04/2023                                            0,15
-MULTA 04/2023                                                            1,91
-JUROS DE MORA 04/2023                                                    0,22
-
-
-
-
-                                        TOTAL:                         143,07        7,02         140,79           25,34
-00008317499   Energia ativa em kWh   Ponta   10301   10482   1   181
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   1495505-2023-6-5              23/07/2023      1344600        R$ 143,07
-
-CONTA PAGA - Data de Pagamento: 28/07/2023
-Data de Apresentação: 04/07/2023
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0001495505-8
-24/05/2023   22/06/2023   29   20/07/2023
-5/1495505-8
-
-00008317499
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         115,44    1,0845      1,25
-COFINS      115,44    4,9955      5,77
-ICMS        140,79     18,00     25,34
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JUN/23                29
-              MAI/23                32
-              ABR/23                31
-              MAR/23                33
-Consumo kWh
-
-
-
-
-              FEV/23                30
-              JAN/23                30
-              DEZ/22                32
-              NOV/22                30
-              OUT/22                29
-              SET/22                33
-              AGO/22                30
-              JUL/22                33
-              JUN/22                28
-  140,79                  25,34
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-- Leitura confirmada
-- Leitura confirmada
-DIC         24,00     0,00   0,00    0,00
-FIC          6,00     0,00   0,00    0,00
-DMIC        18,00     0,00
-DICRI       26,00
-
-
-Conjunto:    Jericó
-
-Referência:                     04/2023
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                      27,06    18,91
-Compra de energia                            47,95    33,52
-Serviço de transmissão                        7,04     4,92
-Encargos setoriais                           26,38    18,44
-Impostos diretos e encargos                  34,64    24,21
-Outros serviços                               0,00     0,00
-Total                                       143,07   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2023): R$ 27,95
-JUN/23    181,00                          0,00
-MAI/23    163,00                          0,00
-ABR/23    123,00                          0,00
-MAR/23    138,00                          0,00
-FEV/23     36,00                          0,00
-JAN/23     44,00                          0,00
-DEZ/22    143,00                          0,00
-NOV/22    199,00                          0,00
-OUT/22    183,00                          0,00
-SET/22     61,00                          0,00
-AGO/22    106,00                          0,00
-JUL/22    101,00                          0,00
-JUN/22     90,00                          0,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 24/05/2023      Leitura Atual: 22/06/2023   Dias: 29
-
-
-
-KWH   Ponta   10.482,00      10.301,00       1,00                                                  181,00            181,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

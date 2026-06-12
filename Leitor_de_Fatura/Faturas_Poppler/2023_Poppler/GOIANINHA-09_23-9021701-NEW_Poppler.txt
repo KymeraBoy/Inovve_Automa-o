@@ -1,0 +1,99 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ AV MONSENHOR ARMANDO DE PAIVA 238
+ SESITEC
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2023
+
+CÓDIGO DA INSTALAÇÃO
+9021701
+CÓDIGO DO CLIENTE
+7022175240
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET23
+        338
+ 32
+AGO23
+        170
+ 31
+JUL23
+         45
+ 31
+JUN23
+         61
+ 31
+MAI23
+        111
+ 29
+ABR23
+        103
+ 33
+MAR23
+FEV23
+JAN23
+DEZ22
+NOV22
+OUT22
+SET22
+
+CONSUMO
+kWh
+         338,00  
+
+Consumo-TUSD
+kWh
+          338,00 
+ 0,52296619 
+           176,76 
+             7,57 
+           176,76 
+20,00
+            35,35 
+ 0,39599000
+Consumo-TE
+kWh
+          338,00 
+ 0,38724247 
+           130,88 
+             5,59 
+           130,88 
+20,00
+            26,17 
+ 0,29322000
+Ilum. Púb. Municipal
+            34,94 
+Multa-NF 102317510
+             0,82 
+Juros-NF 102317510
+             0,19 
+IPCA-NF-102317510
+             0,02 
+TOTAL
+           343,61 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,83 @@
+CONTA CONTRATO
+7001541743
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2110544
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA NAZARE DUARTE 200
+UNIDADE BASICA DE SAUDE
+NOVO HORIZONTE/NOVO HORIZONTE
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        411
+JUN 22
+        437
+MAI 22
+        534
+ABR 22
+        539
+MAR 22
+        548
+FEV 22
+        577
+JAN 22
+        434
+DEZ 21
+        599
+NOV 21
+        438
+OUT 21
+        523
+SET 21
+        334
+AGO 21
+        295
+JUL 21
+        431
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  411,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       411,0000000 
+ 0,49205726 
+           202,23 
+Consumo Ativo(kWh)-TE                        
+       411,0000000 
+ 0,36574530 
+           150,32 
+Contrib. Ilum. Pública Municipal             
+            41,18 
+TOTAL DA FATURA
+           393,73 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7001541743
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           393,73 
+VENCIMENTO
+22/08/2022

@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VEREADOR RAIMUNDO LISBOA 222222
+ GINASIO POLIESPORTIVO PACHECAO
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2023
+
+CÓDIGO DA INSTALAÇÃO
+2511772
+CÓDIGO DO CLIENTE
+7008948431
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT23
+        639
+ 30
+SET23
+        568
+ 29
+AGO23
+        740
+ 33
+JUL23
+        690
+ 30
+JUN23
+        655
+ 31
+MAI23
+        642
+ 30
+ABR23
+        416
+ 30
+MAR23
+        459
+ 31
+FEV23
+        452
+ 30
+JAN23
+        522
+ 30
+DEZ22
+        493
+ 31
+NOV22
+        649
+ 30
+OUT22
+        399
+ 29
+
+CONSUMO
+kWh
+         639,00  
+          60,00  
+
+Consumo-TUSD
+kWh
+          639,00 
+ 0,52318729 
+           334,31 
+            14,41 
+           334,31 
+20,00
+            66,86 
+ 0,39599000
+Consumo-TE
+kWh
+          639,00 
+ 0,38740619 
+           247,55 
+            10,67 
+           247,55 
+20,00
+            49,51 
+ 0,29322000
+Ilum. Púb. Municipal
+            52,84 
+Multa-NF 103943102
+            13,38 
+Juros-NF 103943102
+             3,11 
+IPCA-NF-103943102
+             0,80 
+TRIBF-IRRF(1.2%)
+             6,98-
+TRIBF-IRRF(4.8%)
+             0,80-
+TOTAL
+           644,21 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

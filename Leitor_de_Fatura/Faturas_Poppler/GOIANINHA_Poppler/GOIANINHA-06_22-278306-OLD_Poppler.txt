@@ -1,0 +1,83 @@
+CONTA CONTRATO
+0573223012
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+278306
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO ANA SE 63
+ESCOLA MUNICIPAL DONA TOINHA
+ANA SE/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        255
+MAI 22
+        265
+ABR 22
+        226
+MAR 22
+        217
+FEV 22
+        148
+JAN 22
+        125
+DEZ 21
+        137
+NOV 21
+        118
+OUT 21
+        119
+SET 21
+        129
+AGO 21
+        104
+JUL 21
+        100
+JUN 21
+        103
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  255,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       255,0000000 
+ 0,48974766 
+           124,88 
+Consumo Ativo(kWh)-TE                        
+       255,0000000 
+ 0,36384738 
+            92,78 
+Atualizacao IPCA-NF 078485643 - 28.04.22     
+             0,38 
+TOTAL DA FATURA
+           218,04 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0573223012
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           218,04 
+VENCIMENTO
+20/07/2022

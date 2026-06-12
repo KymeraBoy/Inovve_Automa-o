@@ -1,0 +1,164 @@
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+DOMICÍLIO DE ENTREGA:
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+
+
+GRUPO/SUBGRP: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 157 - 0190                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000614000                           DOM. BANC.:
+MATRÍCULA: 662729-2021-10-6                           DOM. ENT.: 9999062001
+ENDEREÇO DA UNIDADE CONSUMIDORA
+LOC POV DE MACAPA, S/N
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+
+
+                                                                                         1
+
+                                                                              0000662729-3
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+            R$ 107,83
+
+
+          Outubro/2021
+
+CNPJ/CPF/RANI:
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+23/11/2021
+               3,37 kWh
+             MÉDIA DIÁRIA
+101 kWh
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+                               FATURAS EM ATRASO
+                              23/10/2021     103,36
+Sujeito a corte!
+Reaviso de vencimento:
+Seu fornecimento poderá ser
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+    suspenso a partir de
+A   18/11/2021.
+    Regularize seus débitos.   0,00
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+    Insc. Est.: 000000000000   3545.c1f7.c3b3.6bba.7d59.d18e.d722.9be8                  22/10/2021             03/11/2021                19/11/2021
+
+
+
+                                                 TARIFA SEM   TARIFA COM      VALOR     BASE CALC    % ALÍQ.   ICMS        BASE CALC.      PIS (R$)   COFI
+CCI DESCRIÇÃO                      QUANTIDADE      TRIBUTOS     TRIBUTOS   TOTAL (R$)    ICMS (R$)   ICMS       (R$)   PIS/COFINS (R$)   (0,6671%)      (3
+0601 Consumo em kWh                    101,000     0,596920    0,826800        83,50        83,50      25      20,88            62,62        0,41
+0601 Adic. B. Vermelha                                                         19,86        19,86      25       4,96            14,90        0,10
+     LANÇAMENTOS E SERVIÇOS
+0807 CONTRIB ILUM PUBLICA                                                       4,47         0,00       0       0,00             0,00        0,00
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+CCI: Código de Classificação do Item                      TOTAL:           107,83   103,36   25,84        77,52    0,51
+
+
+                                             NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA                     Nº FATURA
+                                                                                                       72979876
+
+
+                       MATRÍCULA                            VENCIMENTO                           TOTAL A PAGAR
+                    662729-2021-10-6                          23/11/2021                             R$ 107,83
+
+         83620000001-3 07830054000-8 06627292021-7 10600062019-0
+
+
+
+        (YiHbB{B{B{QvIoUuJwBvB{DwHbClGjDjWdDwB{DwEvSg)
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+ efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+ - -Reajuste tarifário médio 7,08%,a partir de 28/08/21,conf. REH nº 2.929/2021/ANEEL
+ - Leitura confirmada
+
+
+
+
+DIC         11,59      0,00      23,19     46,38   OUT/21            101
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DMIC        6,39      0,00
+DICRI      16,60
+
+
+Conjunto: Araruna
+
+Referência: 08/2021
+Tensão Contratada:
+Limite Adequado: 202 a 231
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+ erviço distribuição ENERGISAPB             20,56    19,0
+Compra de energia                           42,43    39,3
+ erviço de transmissão                       4,64     4,3
+ ncargos setoriais                           7,00     6,4
+mpostos diretos e encargos                  33,20    30,7
+Outros serviços                              0,00     0,0
+ OTAL                                      107,83   100,0
+ncargo de Uso do Sistema de Distribuição
+Ref 08/2021): R$ 30,61
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+sem alteração de valores. Conforme resolução CREG nº 3,
+de 31/08/21.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+AGO/21   89
+JUL/21   90
+JUN/21   86
+MAI/21   88
+ABR/21   97
+MAR/21   77
+FEV/21   21
+JAN/21   56 *
+DEZ/20   38
+NOV/20   29
+OUT/20    0 *
+
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+
+
+                     Leitura Anterior: 21/09/2021   Leitura Atual: 21/10/2021   Dias: 30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+07   KWH   Ponta   34372   34271   1   0          101
+35
+30
+49
+79
+00
+00
+
+
+
+
+                                           * K : Constante do Med

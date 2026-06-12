@@ -1,128 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 015 - 0253 - 743 - 1340
-MATRÍCULA: 739048-2025-2-8
-DOM. BANC.:                                    DOM. ENT.: 9999253001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM JERICO ABASTECIMENTO DAGUA SIT
-MALHADINHA
-SIT MALHADINHA, S/N - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Fevereiro / 2025   23/03/2025   R$ 2.615,80
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       3.341,00       0,782930      2.615,80      127,23       2.615,80   20      523,16   0,588270
-
-
-
-
-                           TOTAL:                        2.615,80      127,23       2.615,80           523,16
-D7044137212   Energia ativa em kWh   Ponta   53172   56523   1   3341
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  739048-2025-2-8       23/03/2025       4945062        R$ 2.615,80
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 07/03/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000739048-7
-24/01/2025   24/02/2025   31   25/03/2025
-5/739048-7
-
-D7044137212
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       2.092,64    1,0845      22,69
-COFINS    2.092,64    4,9955     104,54
-ICMS      2.615,80     20,00     523,16
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              FEV/25                31
-              JAN/25                31
-              DEZ/24                29
-              NOV/24                32
-Consumo kWh
-
-
-
-
-              OUT/24                30
-              SET/24                29
-              AGO/24                32
-              JUL/24                30
-              JUN/24                32
-              MAI/24                31
-              ABR/24                32
-              MAR/24                28
-              FEV/24                30
-2.615,80                 523,16
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Perda do Ramal: 10 kWh
-DIC         24,00    0,00      0,00    0,00
-FIC          6,00    0,00      0,00    0,00
-DMIC        18,00    0,00
-DICRI       26,00
-
-
-Conjunto:    Catolé do Rocha
-
-Referência:                       12/2024
-Tensão Contratada:
-Limite Adequado:                350 a 399
-Serviço de distribuição                      680,62     26,03
-Compra de energia                            791,67     30,26
-Serviço de transmissão                       175,51      6,71
-Encargos setoriais                           317,61     12,14
-Impostos diretos e encargos                  650,39     24,86
-Outros serviços                                 0,00     0,00
-Total                                       2.615,80   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 12/2024): R$ 800,70
-FEV/25   3.341,00
-JAN/25   3.930,00
-DEZ/24   3.676,00
-NOV/24   4.267,00
-OUT/24   4.109,00
-SET/24   4.021,00
-AGO/24   4.477,00
-JUL/24   4.210,00
-JUN/24   4.525,00
-MAI/24   4.321,00
-ABR/24   4.258,00
-MAR/24   3.041,00
-FEV/24   3.156,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 24/01/2025      Leitura Atual: 24/02/2025   Dias: 31
-
-
-
-KWH   Ponta   56.523,00      53.172,00       1,00                                                 3.341,00          3.341,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

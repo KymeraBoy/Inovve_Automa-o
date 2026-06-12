@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA JOSE GENIVAL AUGUSTO DA SILVA 100
+ QUADRA DE ESPORTES
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+2134459
+CÓDIGO DO CLIENTE
+7001936535
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+       1253
+ 31
+MAI23
+       1173
+ 29
+ABR23
+       1319
+ 31
+MAR23
+       1184
+ 29
+FEV23
+       1207
+ 31
+JAN23
+       1296
+ 31
+DEZ22
+       1146
+ 29
+NOV22
+       1069
+ 30
+OUT22
+       1141
+ 32
+SET22
+        987
+ 30
+AGO22
+        911
+ 30
+JUL22
+       1030
+ 32
+JUN22
+        899
+ 29
+
+CONSUMO
+kWh
+1.253,00 
+1.060,00 
+
+Consumo-TUSD
+kWh
+        1.253,00 
+ 0,51793188 
+           648,96 
+            23,00 
+           648,96 
+20,00
+           129,80 
+ 0,39599000
+Consumo-TE
+kWh
+        1.253,00 
+ 0,38351470 
+           480,54 
+            17,02 
+           480,54 
+20,00
+            96,10 
+ 0,29322000
+Ilum. Púb. Municipal
+           103,62 
+Multa-NF 097536139
+            22,75 
+Juros-NF 097536139
+             4,16 
+IPCA-NF-097536139
+             2,47 
+TOTAL
+         1.262,50 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

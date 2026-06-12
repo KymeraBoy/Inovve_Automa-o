@@ -1,0 +1,111 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA NEWTON DE ARAUJO LIMA 2270
+ ESCOLA MUN OTAVIO LIMA - ITAPERUBU
+ ITAPERUBU/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2022
+
+CÓDIGO DA INSTALAÇÃO
+273313
+CÓDIGO DO CLIENTE
+242743016
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV22
+        579
+ 30
+OUT22
+        140
+ 29
+SET22
+        101
+ 33
+AGO22
+         89
+ 30
+JUL22
+         87
+ 29
+JUN22
+         97
+ 32
+MAI22
+         89
+ 30
+ABR22
+         88
+ 32
+MAR22
+        121
+ 31
+FEV22
+        145
+ 28
+JAN22
+        102
+ 32
+DEZ21
+        145
+ 29
+NOV21
+        144
+ 29
+
+CONSUMO
+kWh
+  579,00 
+
+Consumo-TUSD
+kWh
+          579,00 
+ 0,48989591 
+           283,64 
+            12,84 
+           283,64 
+18,00
+            51,06 
+ 0,37954000
+Consumo-TE
+kWh
+          579,00 
+ 0,36440800 
+           210,99 
+             9,54 
+           210,99 
+18,00
+            37,97 
+ 0,28232000
+Multa-NF 086372893
+             1,71 
+Juros-NF 086372893
+             0,42 
+IPCA-NF-086372893
+             0,26 
+TOTAL
+           497,02 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

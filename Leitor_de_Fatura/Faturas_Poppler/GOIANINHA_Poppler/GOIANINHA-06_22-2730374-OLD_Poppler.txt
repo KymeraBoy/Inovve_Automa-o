@@ -1,0 +1,86 @@
+CONTA CONTRATO
+7013888757
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2730374
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI CATU 55 --A
+POSTO DE APOIO DE UBS
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        295
+MAI 22
+        351
+ABR 22
+        314
+MAR 22
+        426
+FEV 22
+        180
+JAN 22
+        100
+DEZ 21
+        283
+NOV 21
+        100
+OUT 21
+        100
+SET 21
+        100
+AGO 21
+       1577
+JUL 21
+       6769
+JUN 21
+      10914
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  295,00 
+  127,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       295,0000000 
+ 0,48974766 
+           144,47 
+Consumo Ativo(kWh)-TE                        
+       295,0000000 
+ 0,36384738 
+           107,33 
+Contrib. Ilum. Pública Municipal             
+            29,74 
+Atualizacao IPCA-NF 078485682 - 28.04.22     
+             0,52 
+TOTAL DA FATURA
+           282,06 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7013888757
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           282,06 
+VENCIMENTO
+20/07/2022

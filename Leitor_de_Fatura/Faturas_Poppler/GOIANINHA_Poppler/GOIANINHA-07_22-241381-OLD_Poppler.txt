@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242754018
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+241381
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO MALHADINHA 32
+ESCOLA M JOSE LUCIO RIBEIRO
+MALHADINHA/AREA RURAL
+59180-000 ESPIRITO SANTO RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        387
+JUN 22
+        545
+MAI 22
+        626
+ABR 22
+        467
+MAR 22
+        503
+FEV 22
+        207
+JAN 22
+        122
+DEZ 21
+        512
+NOV 21
+        467
+OUT 21
+        377
+SET 21
+        146
+AGO 21
+        127
+JUL 21
+        126
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  387,00 
+  281,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       387,0000000 
+ 0,49145305 
+           190,19 
+Consumo Ativo(kWh)-TE                        
+       387,0000000 
+ 0,36533070 
+           141,38 
+Multa por atraso-NF 081654340 - 28/06/22     
+             9,29 
+Juros por atraso-NF 081654340 - 28/06/22     
+             0,14 
+TOTAL DA FATURA
+           341,00 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242754018
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           341,00 
+VENCIMENTO
+22/08/2022

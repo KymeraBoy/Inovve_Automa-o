@@ -1,0 +1,139 @@
+PM ARARUNA EM JOAO ALVES
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA EM JOAO ALVES
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0062 - 110 - 1360                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00008064993                            DOM. BANC.:
+MATRÍCULA: 825339-2022-8-0                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CEL PEDRO TARGINO, S/N
+ARARUNA
+ARARUNA (AG: 62)
+
+
+
+                                                                     0000825339-5
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+5/825339-5
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+       R$ 428,02
+
+
+      Agosto/2022
+CNPJ/CPF/RANI:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+        23/09/2022
+                                  18,87 kWh
+                                 MÉDIA DIÁRIA
+       566 kWh
+
+
+91bf.7476.1521.7e2a.feb5.f13e.8432.b3bb
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+26/08/2022   02/09/2022   27/09/2022
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        566,00    0,596920    0,756230      428,02        428,02   18      77,04         350,98        2,34         10,78
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         428,02        428,02           77,04         350,98        2,34         10,78
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+                                    NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA       Nº FATURA
+                                                                                91438428
+
+
+          MATRÍCULA                                VENCIMENTO               TOTAL A PAGAR
+        825339-2022-8-0                              23/09/2022               R$ 428,02
+
+83630000004-6 28020054000-1 08253392022-7 08000062019-7
+
+
+
+(YiPaB{B{B{DdQ{EvJwBvB{JmMs\aGjDjEvQ{B{DwEvSg)
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+DIC         12,00      0,00   0,00       0
+FIC          4,00      0,00   0,00    0,00
+DMIC         9,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                      06/2022
+Tensão Contratada:
+Limite Adequado:               350 a 399
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Serviço de distribuição                      84,33 19,72
+Compra de energia                           149,40 34,90
+Serviço de transmissão                       21,93   5,12
+Encargos setoriais                           82,20 19,20
+Impostos diretos e encargos                  90,16 21,06
+Outros serviços                               0,00   0,00
+Total                                       428,02 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2022): R$ 106,79
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+0   AGO/22    566,00
+0   JUL/22    403,00
+    JUN/22     313,00
+    MAI/22     709,00
+    ABR/22   1.029,00
+    MAR/22   1.342,00
+    FEV/22     323,00
+    JAN/22     53,00
+    DEZ/21     829,00
+    NOV/21   1.060,00
+    OUT/21     737,00
+    SET/21     271,00
+    AGO/21     156,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                 Leitura Anterior: 26/07/2022   Leitura Atual: 25/08/2022   Dias: 30
+
+
+KWH   Ponta   72.489,00    71.923,00      1              0                                  566,00         566,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

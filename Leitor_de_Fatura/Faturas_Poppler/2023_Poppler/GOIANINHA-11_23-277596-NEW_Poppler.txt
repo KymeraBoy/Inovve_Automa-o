@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI JUNDIA DE BAIXO 14 SN
+ ESCOLA MUNICIPAL DAVI SIMONETT
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+277596
+CÓDIGO DO CLIENTE
+611246013
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+        486
+ 32
+OUT23
+        478
+ 30
+SET23
+        410
+ 29
+AGO23
+        452
+ 33
+JUL23
+        383
+ 30
+JUN23
+        411
+ 31
+MAI23
+        423
+ 30
+ABR23
+        404
+ 30
+MAR23
+        342
+ 31
+FEV23
+        316
+ 30
+JAN23
+        288
+ 30
+DEZ22
+        377
+ 31
+NOV22
+        347
+ 30
+
+CONSUMO
+kWh
+         486,00  
+         206,00  
+
+Consumo-TUSD
+kWh
+          486,00 
+ 0,52197353 
+           253,67 
+            10,49 
+           253,67 
+20,00
+            50,74 
+ 0,39599000
+Consumo-TE
+kWh
+          486,00 
+ 0,38650743 
+           187,84 
+             7,76 
+           187,84 
+20,00
+            37,56 
+ 0,29322000
+TRIBF-IRRF(1.2%)
+             5,29-
+TOTAL
+           436,22 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI ATERRO 100
+ ATERRO/SUMARE
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2022
+
+CÓDIGO DA INSTALAÇÃO
+279800
+CÓDIGO DO CLIENTE
+7017439566
+
+ CLASSIFICAÇÃO: B3 COMERCIAL -OUTROS SERVIÇOS E OUTRAS
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT22
+        504
+ 29
+SET22
+        552
+ 33
+AGO22
+        501
+ 30
+JUL22
+        533
+ 32
+JUN22
+        569
+ 29
+MAI22
+        849
+ 30
+ABR22
+        970
+ 32
+MAR22
+       1011
+ 31
+FEV22
+        871
+ 28
+JAN22
+        601
+ 32
+DEZ21
+        444
+ 29
+NOV21
+        441
+ 29
+OUT21
+        340
+ 32
+
+CONSUMO
+kWh
+  504,00 
+
+Consumo-TUSD
+kWh
+          504,00 
+ 0,48700932 
+           245,45 
+             9,98 
+           245,45 
+18,00
+            44,18 
+ 0,37954000
+Consumo-TE
+kWh
+          504,00 
+ 0,36226081 
+           182,57 
+             7,42 
+           182,57 
+18,00
+            32,86 
+ 0,28232000
+Ilum. Púb. Municipal
+            40,02 
+Multa-NF 084824860
+             8,48 
+Juros-NF 084824860
+             3,24 
+TOTAL
+           479,76 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

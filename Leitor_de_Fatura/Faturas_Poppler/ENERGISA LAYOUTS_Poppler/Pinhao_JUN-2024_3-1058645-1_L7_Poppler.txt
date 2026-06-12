@@ -1,76 +1,0 @@
-PREFEITURA MUNICIPAL DE PINHAO
-
-
-POV BEIJA FLOR DE BAIXO S/N - AREA RURAL
-PINHAO / SE (AG: 30)
-
-Roteiro: 15-0140-420-0987
-
-CPF/CNPJ/RANI:
-JUN/2024   02/07/2024   R$ 35,39
-3/1058645-1
-
-W6008184201
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B1
-RESIDENCIAL/RESIDENCIAL
-Tipo de Fornecimento: BIFASICO
-- Encargo de Uso do Sistema de Distribuição (Ref 04/2024): R$ 19,79
-
- -Atenção: A responsabilidade pela iluminação pública é da prefeitura do município. Problemas com Iluminação Pública, contate a Prefeitura local de seu município. -No
-São João, importunação não é tradição! Respeita as Minina! Denuncie: Ligue 190! -Reajuste tarifário médio 1,16%, a partir de 22/04/24, conf. REH nº 3.318/24 ANEEL
-- LEITURA INFORMADA PELO CLIENTE
-24/05/2024 00:00:00 25/06/2024 00:00:0032   25/07/2024
-                                                                              Base Calc.            ICMS      Tarifa
-                                              Preço unit    Valor      PIS/    ICMS (R$)     Aliq
-                                              c/ tributos            Cofins                ICMS      (R$)      unit.
-                                                            Total
-ITENS DA FATURA                 Unid. Quant          (R$)    (R$)      (R$)                  (%)               (R$)
-Custo de Disponibilidade                                     34,58     1,29         0,00        0      0,00
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 05/2024                                0,03                              0
-MULTA 05/2024                                                0,69                              0
-JUROS DE MORA 05/2024                                        0,09                              0
-
-
-
-
-                                                 TOTAL:     35,39      1,29           0              0,00
-PIS/PASEP   34,58   0,6671    0,23
-COFINS      34,58   3,0729    1,06
-ICMS         0,00      0,00   0,00
-   * Faturamento pela média/mínimo
-
-
-
-
-W6008184201              kWh         Total   6282   6282   1   0
-JUN/23        50    * 30
- JUL/23       50    * 32
-AGO/23        50    * 30
-SET/23         0    * 32
-OUT/23        50    * 30
-NOV/23         0    * 30
-DEZ/23    v   330     32
- JAN/24       145     29
-FEV/24         0      30
-MAR/24         0      28
-ABR/24         0      32
- MAI/24       50    * 31
-JUN/24         0    * 32
-  Média       56
- em 1, alínea a, inciso IV do Art. 40 do RICMS/SE - 2002
-EMITIDO EM CONTINGÊNCIA
-FATURAS EM ATRASO
-           CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 00010586451
-                 Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 25/06/2024
-PAGAR PREFERENCIALMENTE NO BANCO CITIBANK
-CONTA PAGA - Data de Pagamento: 03/07/2024
-PAGADOR:PREFEITURA MUNICIPAL DE PINHAO CNPJ/CPF: 13.100.680/0001-67
-POV BEIJA FLOR DE BAIXO S/N - AREA RURAL - PINHAO / SE
-Nosso-Número          Nr Documento           Data de Vencimento Valor do Documento               Valor Pago
-000094562628          1058645-2024-06-6           02/07/2024         35,39
-BENEFICIÁRIO:ENERGISA SERGIPE-DISTRIB.ENERGIA SA                  13.017.462/0001-63
-RUA MIN APOLONIO SALES, 00081 - - INACIO BARBOSA - ARACAJU / SE - CEP 49040-150
-
-Agência / Código do Beneficiário:1/86274066-0
-

@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA NILO CRISOSTOMO DE OLIVEIRA 303
+ ESCOLA MUNICIPAL
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+12/2022
+
+CÓDIGO DA INSTALAÇÃO
+276269
+CÓDIGO DO CLIENTE
+856278115
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ22
+       1277
+ 29
+NOV22
+       1396
+ 30
+OUT22
+       1352
+ 32
+SET22
+       1239
+ 30
+AGO22
+       1105
+ 30
+JUL22
+        949
+ 32
+JUN22
+       1304
+ 29
+MAI22
+       1238
+ 30
+ABR22
+       1502
+ 32
+MAR22
+        800
+ 29
+FEV22
+        441
+ 30
+JAN22
+        947
+ 32
+DEZ21
+       1205
+ 29
+
+CONSUMO
+kWh
+1.277,00 
+  446,00 
+
+Consumo-TUSD
+kWh
+        1.277,00 
+ 0,49062291 
+           626,52 
+            29,08 
+           626,52 
+18,00
+           112,77 
+ 0,37954000
+Consumo-TE
+kWh
+        1.277,00 
+ 0,36494878 
+           466,03 
+            21,61 
+           466,03 
+18,00
+            83,88 
+ 0,28232000
+Ilum. Púb. Municipal
+           101,42 
+TOTAL
+         1.193,97 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

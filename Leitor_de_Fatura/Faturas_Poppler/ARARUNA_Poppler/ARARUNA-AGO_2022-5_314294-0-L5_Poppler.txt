@@ -1,0 +1,167 @@
+PM ARARUNA EEEF JOSE TARGINO MARANHAO ARARUN
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA EEEF JOSE TARGINO MARANHAO ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 014 - 0062 - 060 - 6160                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000096753                            DOM. BANC.:
+MATRÍCULA: 314294-2022-8-5                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA FELICIANO SOARES, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+
+
+
+                                                                     0000314294-0
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+5/314294-0
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+       R$ 87,72
+
+
+       Agosto/2022
+CNPJ/CPF/RANI: 08.927.105/0001-00
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+        23/09/2022
+                                  3,63 kWh
+                                MÉDIA DIÁRIA
+      116 kWh
+
+
+ebab.3ad8.dde5.1ae1.2eaf.e6bd.4cee.cca7
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+24/08/2022   02/09/2022   22/09/2022
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        116,00    0,596920    0,756230       87,72         87,72   18      15,78          71,93        0,48          2,21
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          87,72         87,72           15,78          71,93        0,48          2,21
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+BANCO DO BRASIL S A                                              001 -9       00190.00009 03268.926007 55832.209179 4 91170000008772                               Promoção 1 Ano Por Nossa Conta
+LOCAL DE PAGAMENTO
+                                                                                                                                                                    Pague com QR Code do PIX e
+                                                                                                                                     VENCIMENTO
+PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A                                                                                                    23/09/2022      concorra a 1 Ano de Energia Grátis.
+BENEFICIÁRIO                                                                                                                CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                                                                                  Use seu app de pagamento favorito,
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                                   09.095.183/0001-40                                    escolha "Pagar com PIX", leia
+ENDEREÇO                                                                                                                             NOSSO NÚMERO
+                                                                                                                                                                   o QR Code abaixo e cadastre-se:
+BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680                                                               32689260055832209                www.anodeconta.com.br
+DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+24/08/2022                 314294-2022-08-5                                  DS                  N        24/08/2022                                     87,72
+                                                                                                                                     (-) DESCONTOS/
+                                     CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                      ABATIMENTOS
+INSTRUÇÕES                                                                                                                           (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                     (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                     ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                     (=) VALOR
+                                                                                                                                     COBRADO
+
+PAGADOR                                                                                                                                               CPF/CNPJ
+PM ARARUNA EEEF JOSE TARGINO MARANHAO ARARUNA                                                                                         08.927.105/0001-00
+RUA FELICIANO SOARES, S/N - 58233000 ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                  AUTENTICAÇÃO MECÂNICA           Quer facilidade?
+
+
+
+
+(B{SgDgWdA|B{B{JmApEvB{B{LiGsSmGsB{XqYiGdDmQh)
+                                                                                                                                                                  Abra sua Conta Voltz - Energisa e
+                                                                                                                                                                  tenha vantagens exclusivas!
+                                                                                                                             Ficha de Compensação                 Entenda melhor em
+                                                                                                                                                                  contavoltz.com/pix
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+DIC         12,00      0,00   0,00       0
+FIC          4,00      0,00   0,00    0,00
+DMIC         9,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                      06/2022
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Serviço de distribuição                     17,29 19,70
+Compra de energia                           30,62 34,91
+Serviço de transmissão                       4,49   5,12
+Encargos setoriais                          16,85 19,21
+Impostos diretos e encargos                 18,47 21,06
+Outros serviços                              0,00   0,00
+Total                                       87,72 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2022): R$ 45,72
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+0   AGO/22    116,00
+0   JUL/22     97,00
+    JUN/22    134,00
+    MAI/22    142,00
+    ABR/22    148,00
+    MAR/22    144,00
+    FEV/22     98,00
+    JAN/22     89,00 *
+    DEZ/21    129,00
+    NOV/21    134,00
+    OUT/21    131,00
+    SET/21     86,00
+    AGO/21     50,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                 Leitura Anterior: 22/07/2022   Leitura Atual: 23/08/2022   Dias: 32
+
+
+KWH   Ponta   82.676,00    82.560,00      1              0                                  116,00         116,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

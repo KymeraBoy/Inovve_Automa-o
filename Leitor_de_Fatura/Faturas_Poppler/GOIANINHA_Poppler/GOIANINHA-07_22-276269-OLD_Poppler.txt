@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0856278115
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+276269
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA NILO CRISOSTOMO DE OLIVEIRA 303
+ESCOLA MUNICIPAL
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        949
+JUN 22
+       1304
+MAI 22
+       1238
+ABR 22
+       1502
+MAR 22
+        800
+FEV 22
+        441
+JAN 22
+        947
+DEZ 21
+       1205
+NOV 21
+       1030
+OUT 21
+        669
+SET 21
+        506
+AGO 21
+        442
+JUL 21
+        449
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  949,00 
+  488,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       949,0000000 
+ 0,49526551 
+           470,00 
+Consumo Ativo(kWh)-TE                        
+       949,0000000 
+ 0,36794674 
+           349,18 
+Contrib. Ilum. Pública Municipal             
+            76,55 
+Multa por atraso-NF 081654360 - 28/06/22     
+            22,25 
+Juros por atraso-NF 081654360 - 28/06/22     
+             0,36 
+TOTAL DA FATURA
+           918,34 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856278115
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           918,34 
+VENCIMENTO
+22/08/2022

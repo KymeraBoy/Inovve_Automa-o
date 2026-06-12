@@ -156,8 +156,9 @@ TEMPLATES = {
             recortes((5, 48, 25, 7)),                 # MES DE REFERENCIA (CONSTANTE)
             recortes((74.83, 26.83, 27.89, 19.06)),   # CODIGO (CONSTANTE)
             recortes((4.94, 54.71, 68.83, 7.06)),     # CLASSIFICACAO (CONSTANTE)
+            recortes((130,56,5,75)),                  # FORNECIMENTO (CONSTANTE)
+            recortes((5,161,115,20)),                 # MEDIDOR
             recortes((159.90, 106.60, 44.83, 52.95)), # HISTORICO DE CONSUMO
-            recortes((103.00, 160.85, 16.98, 19.98)), # CONSUMO
             recortes((5,82,154,78)),                  # ITENS DA FATURA
         ],
         "INDIVIDUAL_OLD": [

@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA SEBASTIAO CAMILO 100
+ ESTACAO ELEVATORIA DE ESGOTO
+ NOVO PARAISO/SAPUCAIA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+2556689
+CÓDIGO DO CLIENTE
+7009805421
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+        817
+ 30
+MAI23
+        590
+ 30
+ABR23
+        100
+ 29
+MAR23
+        578
+ 31
+FEV23
+        451
+ 31
+JAN23
+        100
+ 29
+DEZ22
+        100
+ 31
+NOV22
+       1276
+ 30
+OUT22
+        957
+ 30
+SET22
+        996
+ 32
+AGO22
+        180
+ 30
+JUL22
+        472
+ 32
+JUN22
+        100
+ 29
+
+CONSUMO
+kWh
+  817,00 
+  767,00 
+
+Consumo-TUSD
+kWh
+          817,00 
+ 0,51793188 
+           423,15 
+            14,99 
+           423,15 
+20,00
+            84,63 
+ 0,39599000
+Consumo-TE
+kWh
+          817,00 
+ 0,38351470 
+           313,33 
+            11,10 
+           313,33 
+20,00
+            62,66 
+ 0,29322000
+Multa-NF 097536151
+             1,67 
+Juros-NF 097536151
+             0,63 
+IPCA-NF-097536151
+             0,38 
+TOTAL
+           739,16 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

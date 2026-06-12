@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ CJ NOVO MATADOURO 18
+ MATADOURO PUBLICO MUNICIPAL
+ MATADOURO NOVO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+275281
+CÓDIGO DO CLIENTE
+856649857
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+       1550
+ 31
+OUT23
+       1120
+ 29
+SET23
+        980
+ 32
+AGO23
+        823
+ 31
+JUL23
+        886
+ 31
+JUN23
+       1039
+ 30
+MAI23
+       1034
+ 30
+ABR23
+        784
+ 29
+MAR23
+        830
+ 31
+FEV23
+        895
+ 31
+JAN23
+        962
+ 29
+DEZ22
+        867
+ 31
+NOV22
+        928
+ 30
+
+CONSUMO
+kWh
+       1.550,00 
+         916,00  
+
+Consumo-TUSD
+kWh
+        1.550,00 
+ 0,52197353 
+           809,05 
+            33,47 
+           809,05 
+20,00
+           161,81 
+ 0,39599000
+Consumo-TE
+kWh
+        1.550,00 
+ 0,38650743 
+           599,08 
+            24,76 
+           599,08 
+20,00
+           119,81 
+ 0,29322000
+Ilum. Púb. Municipal
+           128,19 
+Multa-NF 105570564
+            17,84 
+Juros-NF 105570564
+             5,34 
+IPCA-NF-105570564
+             1,25 
+TRIBF-IRRF(1.2%)
+            16,88-
+TRIBF-IRRF(4.8%)
+             1,14-
+TOTAL
+         1.542,73 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

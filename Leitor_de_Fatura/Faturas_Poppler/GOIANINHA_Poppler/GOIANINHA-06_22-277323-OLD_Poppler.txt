@@ -1,0 +1,124 @@
+CONTA CONTRATO
+7003937440
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277323
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MIRANDA 294 B
+ESCOLA MUNICIPAL
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        874
+MAI 22
+       1531
+ABR 22
+       1307
+MAR 22
+       1362
+FEV 22
+        620
+JAN 22
+        372
+DEZ 21
+       1042
+NOV 21
+        845
+OUT 21
+        738
+SET 21
+        511
+AGO 21
+        538
+JUL 21
+        427
+JUN 21
+        406
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  208,00 
+   69,00 
+  666,00 
+  146,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       874,0000000 
+ 0,48974766 
+           428,03 
+Consumo Ativo(kWh)-TE                        
+       874,0000000 
+ 0,36384738 
+           318,00 
+Contrib. Ilum. Pública Municipal             
+            70,50 
+Religação de Unidade Consumidora             
+            40,24 
+Multa por atraso-NF 076900329 - 29/03/22     
+            23,91 
+Multa por atraso-NF 067461362 - 28/09/21     
+             9,36 
+Multa por atraso-NF 072194790 - 29/12/21     
+            19,04 
+Multa por atraso-NF 070596318 - 26/11/21     
+            15,31 
+Multa por atraso-NF 075359060 - 24/02/22     
+            10,74 
+Multa por atraso-NF 069045533 - 28/10/21     
+            13,25 
+Multa por atraso-NF 065893844 - 27/08/21     
+             9,36 
+Multa por atraso-NF 078485671 - 28/04/22     
+            21,70 
+Multa por atraso-NF 073757792 - 27/01/22     
+             6,78 
+Juros por atraso-NF 075359060 - 24/02/22     
+            15,03 
+Juros por atraso-NF 078485671 - 28/04/22     
+             8,68 
+Juros por atraso-NF 072194790 - 29/12/21     
+            45,72 
+Juros por atraso-NF 070596318 - 26/11/21     
+            44,67 
+Juros por atraso-NF 065893844 - 27/08/21     
+            41,53 
+Juros por atraso-NF 067461362 - 28/09/21     
+            36,81 
+Juros por atraso-NF 076900329 - 29/03/22     
+            21,52 
+Juros por atraso-NF 069045533 - 28/10/21     
+            38,65 
+Juros por atraso-NF 073757792 - 27/01/22     
+            12,67 
+Atualizacao IPCA-NF 069045533 - 28.10.21     
+            37,81 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7003937440
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+         1.511,03 
+VENCIMENTO
+20/07/2022

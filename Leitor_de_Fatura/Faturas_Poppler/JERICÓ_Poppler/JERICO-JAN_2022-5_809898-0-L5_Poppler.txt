@@ -1,100 +1,0 @@
-EMEF AUGUSTINHO SIMAO DE ALMEIDA JERICO
-
-DOMICÍLIO DE ENTREGA
-EMEF AUGUSTINHO SIMAO DE ALMEIDA JERICO
-RUA LOPES FIGUEIREDO 110 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 011 - 0253 - 753 - 2810                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5068716106                            DOM. BANC.:
-MATRÍCULA: 809898-2022-1-0                             DOM. ENT.: 9999253002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT PACUTI, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                     0000809898-0
-5/809898-0
-              R$ 48,10
-
-
-              Janeiro/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/02/2022
-               1,57 kWh
-             MÉDIA DIÁRIA
-47 kWh
-20/01/2022   09/02/2022   16/02/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         47,00    0,596920    0,826800       38,86         38,86   25       9,71          29,14        0,19          0,89
-0601 Adic. B. Vermelha                                                           9,24          9,24   25       2,31           6,93        0,05          0,21
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          48,10         48,10           12,02          36,07        0,24          1,10
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   809898-2022-1-0           23/02/2022         78263596       R$ 48,10
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-DIC         11,59    0,00   23,19       46,38
-FIC          7,59    0,00   15,19       30,39
-DMIC         6,39    0,00
-DICRI       16,60
-
-
-Conjunto:    Catolé do Rocha
-
-Referência:                         11/2021
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      9,57 19,89
-Compra de energia                           19,75 41,06
-Serviço de transmissão                       2,16   4,49
-Encargos setoriais                           3,26   6,78
-Impostos diretos e encargos                 13,36 27,78
-Outros serviços                              0,00   0,00
-Total                                       48,10 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2021): R$ 18,08
-8   JAN/22     47,00
-9   DEZ/21     57,00
-    NOV/21     53,00
-    OUT/21     45,00
-    SET/21     48,00
-    AGO/21     43,00
-    JUL/21     45,00
-    JUN/21     45,00
-    MAI/21     43,00
-    ABR/21     46,00
-    MAR/21     45,00
-    FEV/21     49,00
-    JAN/21     51,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 20/12/2021   Leitura Atual: 19/01/2022   Dias: 30
-
-
-KWH   Ponta   1.227,00     1.180,00      1              0                                   47,00          47,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

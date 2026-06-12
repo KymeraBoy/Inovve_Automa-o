@@ -1,103 +1,0 @@
-GE IZABEL ANA DE ANDRADE JERICO
-
-DOMICÍLIO DE ENTREGA
-GE IZABEL ANA DE ANDRADE JERICO
-RUA LOPES FIGUEIREDO 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 013 - 0253 - 741 - 1040                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5047493379                            DOM. BANC.:
-MATRÍCULA: 1268893-2022-6-2                            DOM. ENT.: 9999253002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT CANTOFAS, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                     0001268893-3
-5/1268893-3
-              R$ 83,25
-
-
-              Junho/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2022
-               3,38 kWh
-             MÉDIA DIÁRIA
-98 kWh
-22/06/2022   04/07/2022   21/07/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                         98,00    0,596920    0,826800       81,02         81,02   25      20,25          60,76        0,40          1,86
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 04/2022                                                               2,09                 0        0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2022                                                       0,14                 0        0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          83,25         81,02           20,25          60,76        0,40          1,86
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1268893-2022-6-2           23/07/2022         87864174       R$ 83,25
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Leitura confirmada
-DIC         24,00     8,37   0,00       0
-FIC          6,00     2,00   0,00    0,00
-DMIC        18,00     6,48
-DICRI       26,00
-
-
-Conjunto:    Jericó
-
-Referência:                     04/2022
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                     19,95 23,96
-Compra de energia                           27,26 32,74
-Serviço de transmissão                       4,51   5,42
-Encargos setoriais                           6,79   8,16
-Impostos diretos e encargos                 24,74 29,72
-Outros serviços                              0,00   0,00
-Total                                       83,25 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2022): R$ 36,50
-0   JUN/22     98,00
-0   MAI/22    116,00
-    ABR/22    107,00
-    MAR/22    110,00
-    FEV/22     49,00
-    JAN/22     50,00
-    DEZ/21     82,00
-    NOV/21    104,00
-    OUT/21     81,00
-    SET/21     34,00
-    AGO/21     38,00
-    JUL/21     33,00
-    JUN/21     78,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 23/05/2022   Leitura Atual: 21/06/2022   Dias: 29
-
-
-KWH   Ponta   2.856,00     2.758,00      1                                                  98,00          98,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

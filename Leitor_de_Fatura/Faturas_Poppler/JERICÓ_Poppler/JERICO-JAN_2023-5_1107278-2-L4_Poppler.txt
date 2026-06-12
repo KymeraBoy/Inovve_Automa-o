@@ -1,127 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PM JERICO POSTO DE SAUDE DA MALHADINHA
-RUA LOPES FIGUEIREDO 110 - CENTRO
-JERICO (AG: 245)
-
-ROTEIRO: 013 - 0253 - 743 - 4160
-MATRÍCULA: 1107278-2023-1-0
-DOM. BANC.:                              DOM. ENT.: 9999253003
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-PM JERICO POSTO DE SAUDE DA MALHADINHA
-
-SIT MALHADINHA, S/N - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Janeiro / 2023   23/02/2023   R$ 309,16
-- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh              403,00       0,767150        309,16       12,08         309,16   18      55,64   0,599080
-
-
-
-
-                          TOTAL:                         309,16       12,08         309,16           55,64
-00008308150   Energia ativa em kWh   Ponta   35160   35563   1   403
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   1107278-2023-1-0              23/02/2023      626908         R$ 309,16
-
-CONTA PAGA - Data de Pagamento: 28/02/2023
-Data de Apresentação: 02/02/2023
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0001107278-2
-22/12/2022   23/01/2023   32   22/02/2023
-5/1107278-2
-
-00008308150
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         253,51    0,8504      2,15
-COFINS      253,51    3,9170      9,93
-ICMS        309,16     18,00     55,64
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/23                32
-              DEZ/22                30
-              NOV/22                32
-              OUT/22                29
-Consumo kWh
-
-
-
-
-              SET/22                31
-              AGO/22                32
-              JUL/22                30
-              JUN/22                29
-              MAI/22                31
-              ABR/22                30
-              MAR/22                33
-              FEV/22                28
-              JAN/22                30
-  309,16                  55,64
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-DIC         24,00    0,00      0,00        0,00
-FIC          6,00    0,00      0,00        0,00
-DMIC        18,00    0,00
-DICRI       26,00
-
-
-Conjunto:    Catolé do Rocha
-
-Referência:                           11/2022
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      60,27    19,50
-Compra de energia                           106,76    34,53
-Serviço de transmissão                       15,67     5,07
-Encargos setoriais                           58,74    19,00
-Impostos diretos e encargos                  67,72    21,90
-Outros serviços                               0,00     0,00
-Total                                       309,16   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2022): R$ 176,16
-JAN/23    403,00                          0,00
-DEZ/22    491,00                          0,00
-NOV/22    494,00                          0,00
-OUT/22    583,00                          0,00
-SET/22    445,00                          0,00
-AGO/22    396,00                          0,00
-JUL/22    255,00                          0,00
-JUN/22    354,00                          0,00
-MAI/22    395,00                          0,00
-ABR/22    407,00                          0,00
-MAR/22    477,00                          0,00
-FEV/22    333,00                          0,00
-JAN/22    352,00                          0,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 22/12/2022      Leitura Atual: 23/01/2023   Dias: 32
-
-
-
-KWH   Ponta   35.563,00      35.160,00       1,00           0,00                                   403,00            403,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

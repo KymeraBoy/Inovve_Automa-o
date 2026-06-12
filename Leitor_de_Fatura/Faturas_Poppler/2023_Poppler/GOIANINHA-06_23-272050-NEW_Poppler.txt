@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ AV DOUTOR JOAO PRIMENIO 195  AP-24A
+ CENTRO COMERCIAL ANTONIO PEREIRA DE SOUZ
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+272050
+CÓDIGO DO CLIENTE
+854909525
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+        472
+ 31
+MAI23
+        397
+ 29
+ABR23
+        393
+ 31
+MAR23
+        380
+ 29
+FEV23
+        369
+ 31
+JAN23
+        392
+ 31
+DEZ22
+        432
+ 29
+NOV22
+        442
+ 30
+OUT22
+        524
+ 32
+SET22
+        437
+ 30
+AGO22
+        461
+ 30
+JUL22
+        474
+ 32
+JUN22
+        445
+ 29
+
+CONSUMO
+kWh
+  472,00 
+    6,00 
+
+Consumo-TUSD
+kWh
+          472,00 
+ 0,51793188 
+           244,46 
+             8,65 
+           244,46 
+20,00
+            48,89 
+ 0,39599000
+Consumo-TE
+kWh
+          472,00 
+ 0,38351470 
+           181,01 
+             6,41 
+           181,01 
+20,00
+            36,20 
+ 0,29322000
+Ilum. Púb. Municipal
+            48,79 
+Multa-NF 097536123
+             6,77 
+Juros-NF 097536123
+             1,24 
+IPCA-NF-097536123
+             0,73 
+TOTAL
+           483,00 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

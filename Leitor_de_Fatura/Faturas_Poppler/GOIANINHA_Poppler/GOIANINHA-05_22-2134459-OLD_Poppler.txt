@@ -1,0 +1,92 @@
+CONTA CONTRATO
+7001936535
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2134459
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JOSE GENIVAL AUGUSTO DA SILVA 100
+QUADRA DE ESPORTES
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        903
+ABR 22
+       1358
+MAR 22
+       1325
+FEV 22
+       1232
+JAN 22
+       1392
+DEZ 21
+       1222
+NOV 21
+       1323
+OUT 21
+       1440
+SET 21
+       1266
+AGO 21
+       1179
+JUL 21
+        912
+JUN 21
+        883
+MAI 21
+        814
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  903,00 
+  541,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       903,0000000 
+ 0,43456393 
+           392,41 
+Consumo Ativo(kWh)-TE                        
+       903,0000000 
+ 0,33199792 
+           299,79 
+Acréscimo Bandeira AMARELA                   
+            36,97 
+Contrib. Ilum. Pública Municipal             
+            69,41 
+Multa por atraso-NF 076900327 - 29/03/22     
+            23,27 
+Juros por atraso-NF 076900327 - 29/03/22     
+             8,52 
+Atualizacao IPCA-NF 076900327 - 29.03.22     
+             8,63 
+TOTAL DA FATURA
+           839,00 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7001936535
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           839,00 
+VENCIMENTO
+20/06/2022

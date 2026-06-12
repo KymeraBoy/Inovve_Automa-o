@@ -1,130 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 010 - 0140 - 721 - 1880
-MATRÍCULA: 371422-2025-5-1
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-EMEF JOAO APOLINARIO DESTERRO
-
-SIT OLARIA, S/N - SAO SEBASTIAO - 58698000
-
-
-SAO SEBASTIAO
-CACIMBAS (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Maio / 2025   23/06/2025   R$ 30,25
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                39,00       0,763900         29,79        0,89          29,79   20       5,96   0,588270
-Adic. B. Amarela                                            0,46        0,01           0,46   20       0,09
-
-
-
-
-                           TOTAL:                          30,25        0,90          30,25            6,05
-00000681085   Energia ativa em kWh   Ponta   16776   16815   1   39
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   371422-2025-5-1               23/06/2025      5519482         R$ 30,25
-
-CONTA PAGA - Data de Pagamento: 06/06/2025
-Data de Apresentação: 04/06/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000371422-7
-15/04/2025   15/05/2025   30   13/06/2025
-5/371422-7
-
-00000681085
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          24,19    0,6671      0,16
-COFINS       24,19    3,0729      0,74
-ICMS         30,25     20,00      6,05
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAI/25                30
-              ABR/25                28
-              MAR/25                29
-              FEV/25                32
-Consumo kWh
-
-
-
-
-              JAN/25                30
-              DEZ/24                33
-              NOV/24                28
-              OUT/24                30
-              SET/24                32
-              AGO/24                30
-              JUL/24                30
-              JUN/24                32
-              MAI/24                34
-   30,25                   6,05
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Leitura confirmada
-- Leitura confirmada
-DIC         24,00       0,00   999,00   999,00
-FIC          6,00       0,00   999,00   999,00
-DMIC        18,00       0,00
-DICRI       26,00
-
-
-Conjunto:    Teixeira
-
-Referência:                         03/2025
-Tensão Contratada:
-Limite Adequado:                  202 a 231
-Serviço de distribuição                      7,81    25,81
-Compra de energia                            9,82    32,46
-Serviço de transmissão                       2,02     6,68
-Encargos setoriais                           3,65    12,07
-Impostos diretos e encargos                  6,95    22,98
-Outros serviços                              0,00     0,00
-Total                                       30,25   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 03/2025): R$ 10,23
-MAI/25     39,00
-ABR/25     30,00
-MAR/25     47,00
-FEV/25     54,00 *
-JAN/25     14,00
-DEZ/24     56,00 *
-NOV/24     62,00
-OUT/24     67,00
-SET/24     52,00
-AGO/24     58,00
-JUL/24     56,00 *
-JUN/24     54,00
-MAI/24     76,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 15/04/2025      Leitura Atual: 15/05/2025   Dias: 30
-
-
-
-KWH   Ponta   16.815,00      16.776,00       1,00                                                   39,00             39,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

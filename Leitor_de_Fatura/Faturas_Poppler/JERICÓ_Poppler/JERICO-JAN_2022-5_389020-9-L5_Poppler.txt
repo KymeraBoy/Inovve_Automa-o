@@ -1,107 +1,0 @@
-ILUMINACAO PUBLICA - P.M.JERICO
-
-DOMICÍLIO DE ENTREGA
-ILUMINACAO PUBLICA - P.M.JERICO
-RUA LOPES FIGUEIREDO 110 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
-ROTEIRO: 088 - 0253 - 099 - 4100                             LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 0                                          DOM. BANC.:
-MATRÍCULA: 389020-2022-1-9                                 DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-ROD BR 230, S/N
-CENTRO
-JERICO (AG: 245)
-
-
-
-                                                                         0000389020-9
-5/389020-9
-              R$ 26.298,78
-
-
-              Janeiro/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/02/2022
-             1.302,26 kWh
-             MÉDIA DIÁRIA
-40.370 kWh
-31/01/2022   09/02/2022   28/02/2022
-                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo kWh - Ligação Provisória - Ponta       663,00    0,328310    0,454740      301,50        301,50   25         75,37         226,12        1,51          6,95
-0601 Consumo em kWh                              39.707,00    0,328310    0,454740   18.056,93     18.056,93   25      4.514,23      13.542,70       90,34        416,15
-0601 Adic. B. Vermelha                                                                7.940,35      7.940,35   25      1.985,09       5.955,26       39,72        183,00
-
-
-
-
-CCI: Código de Classificação do Item                                     TOTAL:      26.298,78     26.298,78           6.574,69      19.724,08     131,57         606,10
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   389020-2022-1-9           23/02/2022         78753118     R$ 26.298,78
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-Consumo Estimado: faturamento realizado por carga instalada.
-DIC
-FIC
-DMIC
-DICRI
-
-
-Conjunto:
-
-Referência:
-Tensão Contratada:
-Limite Adequado:     a
-Serviço de distribuição        5.230,75 19,90
-Compra de energia             10.793,78 41,04
-Serviço de transmissão         1.180,96   4,49
-Encargos setoriais             1.780,93   6,77
-Impostos diretos e encargos    7.312,36 27,80
-Outros serviços                    0,00   0,00
-Total                         26.298,78 100,00
--Conforme determinação da Aneel, clientes inscritos na Tarifa
-Social terão a bandeira tarifária verde neste mês.
-A bandeira não tem custo extra.
-Para os demais clientes, a bandeira vigente é a de Escassez
-Hídrica, que indica condições críticas para geração hidrelétrica
-no país.
-A cobrança consta no campo “descritivo” da sua conta no item
-0601, que soma a bandeira vermelha,
-totalizando R$ 14,20 a cada 100 kWh consumidos.
-O valor é estabelecido pela Aneel.
-JAN/22   39.707,00
-DEZ/21   39.707,00
-NOV/21   38.426,00
-OUT/21   39.707,00
-SET/21   38.426,00
-AGO/21   39.707,00
-JUL/21   39.707,00
-JUN/21   35.294,00
-MAI/21   36.470,00
-ABR/21   37.647,00
-MAR/21   38.823,00
-FEV/21   38.823,00
-JAN/21   36.470,00
-
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-Leitura Anterior: 31/12/2021   Leitura Atual: 31/01/2022   Dias: 31
-
-
-
-
-                                                                      * K : Constante do Medidor
-

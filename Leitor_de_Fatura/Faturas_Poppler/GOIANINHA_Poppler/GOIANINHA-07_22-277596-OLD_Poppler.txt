@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0611246013
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277596
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI JUNDIA DE BAIXO 14 SN
+ESCOLA MUNICIPAL DAVI SIMONETT
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        222
+JUN 22
+        232
+MAI 22
+        287
+ABR 22
+        264
+MAR 22
+        294
+FEV 22
+        212
+JAN 22
+        162
+DEZ 21
+        248
+NOV 21
+        236
+OUT 21
+        244
+SET 21
+        197
+AGO 21
+        168
+JUL 21
+        161
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  222,00 
+  145,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       222,0000000 
+ 0,49145305 
+           109,10 
+Consumo Ativo(kWh)-TE                        
+       222,0000000 
+ 0,36533070 
+            81,10 
+Multa por atraso-NF 081654345 - 28/06/22     
+             3,95 
+Juros por atraso-NF 081654345 - 28/06/22     
+             0,05 
+Compensação DMIC 05/22                       
+            62,84-
+TOTAL DA FATURA
+           131,36 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0611246013
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           131,36 
+VENCIMENTO
+22/08/2022

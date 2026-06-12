@@ -1,103 +1,0 @@
-PM JERICO CRECHE AMELIA ROSADO
-
-DOMICÍLIO DE ENTREGA
-PM JERICO CRECHE AMELIA ROSADO
-RUA LOPES FIGUEIREDO 110 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 010 - 0253 - 705 - 7050                         LIGAÇÃO: TRIFASICO
-Nº DO MEDIDOR: 00008786917                            DOM. BANC.:
-MATRÍCULA: 1789318-2022-1-1                            DOM. ENT.: 9999253002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA JOAQUIM PEREIRA DA SILVA, S/N
-JD HORIZONTE
-JERICO (AG: 245)
-
-
-
-                                                                     0001789318-1
-5/1789318-1
-              R$ 465,34
-
-
-              Janeiro/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/02/2022
-              14,84 kWh
-             MÉDIA DIÁRIA
-460 kWh
-19/01/2022   09/02/2022   15/02/2022
-                                                       TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                           QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                           460,00    0,596920    0,826800      380,33        380,33   25      95,08          285,25        1,90          8,77
-0601 Adic. B. Vermelha                                                             90,47         90,47   25      22,62           67,86        0,45          2,08
-     LANÇAMENTOS E SERVIÇOS
-0904 COMPENSACAO POR INDICADOR-DMIC 11/2021                                        -5,46                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                               TOTAL:         465,34        470,80           117,70         353,11        2,35         10,85
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1789318-2022-1-1           23/02/2022         78088993      R$ 465,34
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Leitura confirmada
-DIC          6,27     4,54   12,54       25,08
-FIC          3,36     1,00    6,72       13,45
-DMIC         3,71     4,54
-DICRI       12,22
-
-
-Conjunto:    Jericó
-
-Referência:                          11/2021
-Tensão Contratada:
-Limite Adequado:               350 a 399
-Serviço de distribuição                      93,65 19,90
-Compra de energia                           193,23 41,04
-Serviço de transmissão                       21,14   4,49
-Encargos setoriais                           31,88   6,77
-Impostos diretos e encargos                 130,90 27,80
-Outros serviços                               0,00   0,00
-Total                                       470,80 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2021): R$ 320,72
-8   JAN/22    460,00
-5   DEZ/21    986,00
-    NOV/21    940,00
-    OUT/21    763,00
-    SET/21    407,00
-    AGO/21    576,00
-    JUL/21    585,00
-    JUN/21    993,00
-    MAI/21    970,00
-    ABR/21    920,00
-    MAR/21    827,00
-    FEV/21    523,00
-    JAN/21    340,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 18/12/2021   Leitura Atual: 18/01/2022   Dias: 31
-
-
-KWH   Ponta   58.233,00    57.773,00      1                                                 460,00         460,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

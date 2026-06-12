@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA LUIZ BELARMINO DA COSTA 825
+ QUADRA DE ESPORTES CORTEZ PEREIRA
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2022
+
+CÓDIGO DA INSTALAÇÃO
+271229
+CÓDIGO DO CLIENTE
+242710010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT22
+       1236
+ 29
+SET22
+       1246
+ 33
+AGO22
+       1150
+ 30
+JUL22
+       1081
+ 29
+JUN22
+       1128
+ 32
+MAI22
+       1086
+ 30
+ABR22
+       1282
+ 32
+MAR22
+       1121
+ 31
+FEV22
+        985
+ 28
+JAN22
+        950
+ 32
+DEZ21
+        918
+ 29
+NOV21
+        938
+ 29
+OUT21
+        930
+ 30
+
+CONSUMO
+kWh
+1.236,00 
+  777,00 
+
+Consumo-TUSD
+kWh
+        1.236,00 
+ 0,48700932 
+           601,94 
+            24,49 
+           601,94 
+18,00
+           108,35 
+ 0,37954000
+Consumo-TE
+kWh
+        1.236,00 
+ 0,36226081 
+           447,75 
+            18,20 
+           447,75 
+18,00
+            80,59 
+ 0,28232000
+Multa-NF 084824801
+            19,47 
+Juros-NF 084824801
+             5,51 
+TOTAL
+         1.074,67 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

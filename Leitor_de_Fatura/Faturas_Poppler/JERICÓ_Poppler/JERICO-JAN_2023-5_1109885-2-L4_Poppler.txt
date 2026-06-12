@@ -1,128 +1,0 @@
-DOMICÍLIO DE ENTREGA
-GE MARIA MONTEIRO DA SILVA
-RUA LOPES FIGUEIREDO 110 - CENTRO
-JERICO (AG: 245)
-
-ROTEIRO: 012 - 0253 - 739 - 1580
-MATRÍCULA: 1109885-2023-1-0
-DOM. BANC.:                         DOM. ENT.: 9999253002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-GE MARIA MONTEIRO DA SILVA
-
-SIT MONTE FLOR, S/N - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Janeiro / 2023   23/02/2023   R$ 39,89
-- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
-                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh               52,00       0,767150         39,89        1,56          39,89   18       7,18   0,599080
-
-
-
-
-                          TOTAL:                          39,89        1,56          39,89            7,18
-W5138839332   Energia ativa em kWh   Ponta   938   990   1   52
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   1109885-2023-1-0              23/02/2023      618142          R$ 39,89
-
-CONTA PAGA - Data de Pagamento: 28/02/2023
-Data de Apresentação: 02/02/2023
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0001109885-2
-21/12/2022   20/01/2023   30   20/02/2023
-5/1109885-2
-
-W5138839332
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          32,71    0,8504      0,28
-COFINS       32,71    3,9170      1,28
-ICMS         39,89     18,00      7,18
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/23                30
-              DEZ/22                30
-              NOV/22                32
-              OUT/22                29
-Consumo kWh
-
-
-
-
-              SET/22                33
-              AGO/22                30
-              JUL/22                30
-              JUN/22                31
-              MAI/22                30
-              ABR/22                29
-              MAR/22                33
-              FEV/22                28
-              JAN/22                30
-   39,89                   7,18
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-- Leitura confirmada
-DIC         24,00    0,00      0,00        0,00
-FIC          6,00    0,00      0,00        0,00
-DMIC        18,00    0,00
-DICRI       26,00
-
-
-Conjunto:    Catolé do Rocha
-
-Referência:                           11/2022
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      7,78    19,51
-Compra de energia                           13,77    34,52
-Serviço de transmissão                       2,02     5,06
-Encargos setoriais                           7,58    19,00
-Impostos diretos e encargos                  8,74    21,91
-Outros serviços                              0,00     0,00
-Total                                       39,89   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2022): R$ 44,93
-JAN/23     52,00                          0,00
-DEZ/22     81,00                          0,00
-NOV/22    126,00                          0,00
-OUT/22    120,00                          0,00
-SET/22    136,00                          0,00
-AGO/22     87,00                          0,00
-JUL/22     75,00                          0,00
-JUN/22     87,00                          0,00
-MAI/22     67,00                          0,00
-ABR/22     53,00                          0,00
-MAR/22     91,00                          0,00
-FEV/22     13,00                          0,00
-JAN/22      0,00 *                        0,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 21/12/2022      Leitura Atual: 20/01/2023   Dias: 30
-
-
-
-KWH   Ponta     990,00         938,00        1,00           0,00                                    52,00             52,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

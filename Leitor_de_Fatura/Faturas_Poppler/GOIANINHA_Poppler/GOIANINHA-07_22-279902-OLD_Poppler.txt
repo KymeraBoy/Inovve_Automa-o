@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0856247007
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+279902
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO SUMARE 100 SN
+ESCOLA MUNICIPAL JOAO LUCIO
+SUMARE/SUMARE
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        809
+JUN 22
+        872
+MAI 22
+       1247
+ABR 22
+       1131
+MAR 22
+       1149
+FEV 22
+        499
+JAN 22
+        470
+DEZ 21
+        995
+NOV 21
+        893
+OUT 21
+        834
+SET 21
+        503
+AGO 21
+        518
+JUL 21
+        545
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  809,00 
+  310,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       809,0000000 
+ 0,49205726 
+           398,07 
+Consumo Ativo(kWh)-TE                        
+       809,0000000 
+ 0,36574530 
+           295,88 
+Contrib. Ilum. Pública Municipal             
+            64,85 
+Multa por atraso-NF 081654359 - 28/06/22     
+            14,88 
+Juros por atraso-NF 081654359 - 28/06/22     
+             0,24 
+TOTAL DA FATURA
+           773,92 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856247007
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           773,92 
+VENCIMENTO
+22/08/2022

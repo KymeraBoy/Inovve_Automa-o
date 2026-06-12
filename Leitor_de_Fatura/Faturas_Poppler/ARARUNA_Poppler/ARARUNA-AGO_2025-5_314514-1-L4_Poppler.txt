@@ -1,0 +1,206 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 010 - 0062 - 010 - 2890
+MATRÍCULA: 314514-2025-8-9
+DOM. BANC.:                                   DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA DMA BIBLIOTECA
+
+AV PRES EPITACIO PESSOA, 11 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Agosto / 2025   23/09/2025   R$ 311,04
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH        363,00       0,776160        281,74       11,85         281,74   20      56,34   0,588270
+Adic. B. Vermelha                                            11,01        0,46          11,01   20       2,20
+Adic. B. Vermelha                                            18,29        0,77          18,29   20       3,66
+
+
+
+
+                             TOTAL:                         311,04       13,08         311,04           62,20
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+W7033298941   Energia ativa em kWh   Ponta   13232   13595   1   363
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+ITAÚ                                                         341 -7 34191.09370 72688.632933 85951.190009 5 12130000031104                                            Pague por
+
+                                                                                                                                                                     PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/09/2025
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/37726886-3
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/08/2025               314514-2025-08-9                                DS                  N        28/08/2025                                    311,04
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA DMA BIBLIOTECA                                                                                                         08.927.105/0001-00
+AV PRES EPITACIO PESSOA, 11      ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Receba sua conta só com o PIX
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+Data de Apresentação: 03/09/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000314514-1
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+15/07/2025   15/08/2025   31   15/09/2025
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+5/314514-1
+
+W7033298941
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         248,81    0,9383      2,33
+COFINS      248,81    4,3217     10,75
+ICMS        311,04     20,00     62,20
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/25                31
+              JUL/25                32
+              JUN/25                29
+              MAI/25                30
+Consumo kWh
+
+
+
+
+              ABR/25                28
+              MAR/25                29
+              FEV/25                32
+              JAN/25                30
+              DEZ/24                33
+              NOV/24                28
+              OUT/24                30
+              SET/24                32
+              AGO/24                30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+  311,04                  62,20
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+DIC         10,00      1,17   999,00   999,00
+FIC          4,00      1,00   999,00   999,00
+DMIC         7,00      1,17
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                        06/2025
+Tensão Contratada:
+Limite Adequado:                 350 a 399
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+Serviço de distribuição                      66,23    21,30
+Compra de energia                           103,40    33,24
+Serviço de transmissão                       14,66     4,71
+Encargos setoriais                           51,47    16,55
+Impostos diretos e encargos                  75,28    24,20
+Outros serviços                               0,00     0,00
+Total                                       311,04   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 76,45
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+AGO/25    363,00
+JUL/25    310,00
+JUN/25    351,00
+MAI/25    563,00
+ABR/25    660,00
+MAR/25    532,00
+FEV/25    525,00
+JAN/25    580,00
+DEZ/24    654,00
+NOV/24    467,00
+OUT/24    234,00
+SET/24    224,00
+AGO/24    199,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_17 | INICIO_PAGINA_18 =====
+
+              Leitura Anterior: 15/07/2025      Leitura Atual: 15/08/2025   Dias: 31
+
+
+
+KWH   Ponta   13.595,00      13.232,00       1,00                                                  363,00            363,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med

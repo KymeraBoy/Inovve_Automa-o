@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0856718093
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+278213
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI CACHIMBO SECO 1
+ESCOLA MUNICIPAL
+BARROCAS/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        762
+MAI 22
+        812
+ABR 22
+        780
+MAR 22
+        871
+FEV 22
+        537
+JAN 22
+        519
+DEZ 21
+        728
+NOV 21
+        720
+OUT 21
+        719
+SET 21
+        526
+AGO 21
+        424
+JUL 21
+        329
+JUN 21
+        264
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  762,00 
+  304,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       762,0000000 
+ 0,48974766 
+           373,18 
+Consumo Ativo(kWh)-TE                        
+       762,0000000 
+ 0,36384738 
+           277,25 
+Contrib. Ilum. Pública Municipal             
+            61,46 
+Atualizacao IPCA-NF 078485663 - 28.04.22     
+             1,31 
+TOTAL DA FATURA
+           713,20 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856718093
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           713,20 
+VENCIMENTO
+20/07/2022

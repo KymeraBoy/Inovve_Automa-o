@@ -1,0 +1,182 @@
+PM ARARUNA CRECHE
+DOMICÍLIO DE ENTREGA:
+PM ARARUNA CRECHE
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+
+
+GRUPO/SUBGRP: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 153 - 4740                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000061154                           DOM. BANC.:
+MATRÍCULA: 578104-2021-10-5                           DOM. ENT.: 9999062001
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT CARNAUBA, S/N - 58233000
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+
+
+                                                                                         1
+
+                                                                              0000578104-2
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+             R$ 172,98
+
+
+           Outubro/2021
+
+CNPJ/CPF/RANI: 08.927.105/0001-00
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+23/11/2021
+               5,40 kWh
+             MÉDIA DIÁRIA
+162 kWh
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+                               FATURAS EM ATRASO
+                              23/10/2021      98,13
+Sujeito a corte!
+Reaviso de vencimento:
+Seu fornecimento poderá ser
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+    suspenso a partir de
+A   18/11/2021.
+    Regularize seus débitos.   0,00
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+    Insc. Est.: 000000000000   b7e9.23ff.cfdd.08d2.ce96.1ddc.379b.d087                  22/10/2021             03/11/2021                19/11/2021
+
+
+
+                                                 TARIFA SEM   TARIFA COM      VALOR     BASE CALC    % ALÍQ.   ICMS        BASE CALC.      PIS (R$)   COFI
+CCI DESCRIÇÃO                      QUANTIDADE      TRIBUTOS     TRIBUTOS   TOTAL (R$)    ICMS (R$)   ICMS       (R$)   PIS/COFINS (R$)   (0,6671%)      (3
+0601 Consumo em kWh                    162,000     0,596920     0,826800      133,94       133,94      25      33,49           100,46        0,67
+0601 Adic. B. Vermelha                                                         31,86        31,86      25       7,96            23,89        0,15
+     LANÇAMENTOS E SERVIÇOS
+0807 CONTRIB ILUM PUBLICA                                                       7,18         0,00       0       0,00             0,00        0,00
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+CCI: Código de Classificação do Item                                                       TOTAL:              172,98          165,80                        41,45           124,35        0,82
+
+    BANCO DO BRASIL S A                                               001 -9       00190.00009 03268.926007 39572.103172 4 88130000017298                              Ganhe mais facilidade pagando
+     LOCAL DE PAGAMENTO                                                                                                                   VENCIMENTO
+                                                                                                                                                                                  com o PIX!
+     PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A                                                                                                    23/11/2021        Use seu app de pagamento
+     BENEFICIÁRIO                                                                                                                CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                                                                                        favorito, escolha "pagar com
+     ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                                   09.095.183/0001-40                                   PIX" e leia o código abaixo:
+     ENDEREÇO                                                                                                                             NOSSO NÚMERO
+     BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680                                                               32689260039572103
+     DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+     22/10/2021                 578104-2021-10-5                                  DS                  N        22/10/2021                                   172,98
+                                                                                                                                          (-) DESCONTOS/
+                                          CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                           ABATIMENTOS
+     INSTRUÇÕES                                                                                                                           (-) OUTRAS
+     OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                          (+) MORA/
+     NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+     TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                          ACRÉSCIMOS
+     NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                          (=) VALOR
+                                                                                                                                          COBRADO
+
+     PAGADOR                                                                                                                                               CPF/CNPJ
+     PM ARARUNA CRECHE                                                                                                                     08.927.105/0001-00
+     SIT CARNAUBA, S/N - 58233000        ARARUNA (AG: 62)
+     SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                       AUTENTICAÇÃO MECÂNICA           Quer facilidade?
+                                                                                                                                                                       Abra sua Conta Voltz - Energisa
+                                                                                                                                                                       e tenha vantagens exclusivas!
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
+ efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
+ - -Reajuste tarifário médio 7,08%,a partir de 28/08/21,conf. REH nº 2.929/2021/ANEEL
+ - Leitura confirmada
+
+
+
+
+DIC         11,59      0,00      23,19     46,38   OUT/21            162
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DMIC        6,39      0,00
+DICRI      16,60
+
+
+Conjunto: Araruna
+
+Referência: 08/2021
+Tensão Contratada:
+Limite Adequado: 202 a 231
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+ erviço distribuição ENERGISAPB             32,97    19,0
+Compra de energia                           68,06    39,3
+ erviço de transmissão                       7,45     4,3
+ ncargos setoriais                          11,23     6,4
+mpostos diretos e encargos                  53,27    30,8
+Outros serviços                              0,00     0,0
+ OTAL                                      172,98   100,0
+ncargo de Uso do Sistema de Distribuição
+Ref 08/2021): R$ 10,31
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+sem alteração de valores. Conforme resolução CREG nº 3,
+de 31/08/21.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+AGO/21   0 *
+JUL/21   0 *
+JUN/21   0 *
+MAI/21   0 *
+ABR/21   0 *
+MAR/21   0 *
+FEV/21   0 *
+JAN/21   0 *
+DEZ/20   0 *
+NOV/20   0 *
+OUT/20   0 *
+
+
+
+
+               *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+
+
+                    Leitura Anterior: 21/09/2021   Leitura Atual: 21/10/2021   Dias: 30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+05   KWH   Ponta   29549   29387   1   0          162
+35
+31
+49
+80
+00
+00
+
+
+
+
+                                           * K : Constante do Med

@@ -1,115 +1,0 @@
-GE LUIZ ALVES DA SILVA JERICO
-
-DOMICÍLIO DE ENTREGA
-GE LUIZ ALVES DA SILVA JERICO
-RUA LOPES FIGUEIREDO 110
-JERICÓ (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 010 - 0253 - 733 - 4890                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008317499                          DOM. BANC.:
-MATRÍCULA: 1495505-2020-6-1                          DOM. ENT.: 9999253002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT UMBURANA, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                   0001495505-8
-5/1495505-8
-              R$ 32,00
-
-
-              Junho/2020
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2020
-               1,46 kWh
-             MÉDIA DIÁRIA
-41 kWh
- FATURAS EM ATRASO
-23/04/2020      70,68
-28/05/2020      54,51
-23/06/2020      46,16
-17/06/2020   08/07/2020   16/07/2020
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
-0601 Consumo em kWh                         41,00    0,545400    0,780560       32,00         32,00   25      8,00           32,00        0,29          1,34
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          32,00         32,00           8,00           32,00        0,29          1,34
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1495505-2020-6-1           23/07/2020         46224731       R$ 32,00
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- REAVISO: Caso a(s) fatura(s) acima continue(m) em atraso, o fornecimento poderá
-ser suspenso a partir de 23/07/2020. Resolução ANEEL n.º 1.000. O pagamento
-após essa data não elimina a possível suspensão do fornecimento, caso o mesmo não
-seja comunicado ou as contas pagas não estejam na unidade consumidora para
-comprovação. Caso essas faturas estejam pagas, desconsiderar essa mensagem.
-ESTE PRAZO NÃO VALE PARA AS FATURAS JÁ REAVISADAS, para estas a suspensão do
-fornecimento poderá ocorrer a qualquer momento até o decurso do prazo de 90(noventa)
-dias, contado da data de vencimento da fatura vencida e não paga.
-- Leitura confirmada
-DIC         11,74     0,00   23,48   46,96
-FIC          7,74     0,00   15,49   30,98
-DMIC         6,49     0,00
-DICRI       16,60
-
-
-Conjunto:    Jericó
-
-Referência:                      04/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      8,79 27,47
-Compra de energia                           10,95 34,22
-Serviço de transmissão                       1,31   4,09
-Encargos setoriais                           1,32   4,13
-Impostos diretos e encargos                  9,63 30,09
-Outros serviços                              0,00   0,00
-Total                                       32,00 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2020): R$ 21,98
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-6   JUN/20     41,00
-8   MAI/20     57,00
-    ABR/20     69,00
-    MAR/20     89,00
-    FEV/20     42,00
-    JAN/20     57,00
-    DEZ/19    118,00
-    NOV/19    113,00
-    OUT/19    101,00
-    SET/19    117,00
-    AGO/19    124,00
-    JUL/19    132,00
-    JUN/19    121,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 19/05/2020   Leitura Atual: 16/06/2020   Dias: 28
-
-
-KWH   Ponta   7.882,00     7.841,00      1                                                  41,00          41,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

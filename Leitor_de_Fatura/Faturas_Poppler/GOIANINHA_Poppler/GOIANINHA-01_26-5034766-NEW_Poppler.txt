@@ -1,0 +1,120 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI MALHADINHA 7169 -PR
+ LIG NOVA POCO MALHADINHA PG PRX N07169
+ MALHADINHA/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+5034766
+CÓDIGO DO CLIENTE
+7026585664
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+         30
+ 32
+DEZ25
+         30
+ 31
+NOV25
+         64
+ 29
+OUT25
+         30
+ 32
+SET25
+         30
+ 30
+AGO25
+         30
+ 32
+JUL25
+         30
+ 30
+JUN25
+         30
+ 30
+MAI25
+         30
+ 31
+ABR25
+         30
+ 30
+MAR25
+         30
+ 29
+FEV25
+         30
+ 29
+JAN25
+         30
+ 43
+
+CONSUMO
+kWh
+           3,00   
+
+Consumo-TUSD
+kWh
+           30,00 
+ 0,57618540 
+            17,28 
+             0,86 
+            17,28 
+20,00
+             3,45 
+ 0,43260000
+Consumo-TE
+kWh
+           30,00 
+ 0,41507725 
+            12,45 
+             0,60 
+            12,45 
+20,00
+             2,49 
+ 0,31164000
+Acrés. Band. AMARELA
+             0,10 
+             0,10 
+20,00
+             0,02 
+Multa-NF 149199802
+             1,33 
+Juros-NF 149199802
+             0,31 
+IPCA-NF-149199802
+             0,10 
+TRIBF-IRRF(1.2%)
+             0,36-
+TRIBF-IRRF(4.8%)
+             0,09-
+TOTAL
+            31,12 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

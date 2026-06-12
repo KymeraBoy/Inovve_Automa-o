@@ -1,0 +1,106 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI CACHIMBO SECO 999999
+ BARROCAS/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+2855065
+CÓDIGO DO CLIENTE
+7018963404
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+         30
+ 31
+FEV23
+         30
+ 30
+JAN23
+         30
+ 30
+DEZ22
+         30
+ 31
+NOV22
+         30
+ 30
+OUT22
+         30
+ 29
+SET22
+         30
+ 33
+AGO22
+         30
+ 30
+JUL22
+         30
+ 29
+JUN22
+         30
+ 32
+MAI22
+         30
+ 30
+ABR22
+         30
+ 32
+MAR22
+         30
+ 31
+
+CONSUMO
+kWh
+    8,00 
+
+Consumo-TUSD
+kWh
+           30,00 
+ 0,48819075 
+            14,64 
+             0,63 
+            14,64 
+18,00
+             2,63 
+ 0,37954000
+Consumo-TE
+kWh
+           30,00 
+ 0,36313962 
+            10,89 
+             0,45 
+            10,89 
+18,00
+             1,96 
+ 0,28232000
+Ilum. Púb. Municipal
+             2,97 
+TOTAL
+            28,50 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

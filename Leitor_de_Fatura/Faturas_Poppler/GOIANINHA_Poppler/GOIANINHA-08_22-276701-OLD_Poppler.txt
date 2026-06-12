@@ -1,0 +1,92 @@
+CONTA CONTRATO
+0243649013
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+276701
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI UMARI 90
+POCO TUBULAR DE UMARI DE BAIXO
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+       1081
+JUL 22
+       1160
+JUN 22
+       1061
+MAI 22
+       1110
+ABR 22
+       1167
+MAR 22
+       1171
+FEV 22
+       1039
+JAN 22
+       1177
+DEZ 21
+       2267
+NOV 21
+       2390
+OUT 21
+       2573
+SET 21
+       2277
+AGO 21
+       2079
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.081,00 
+  939,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.081,0000000 
+ 0,47111022 
+           509,27 
+Consumo Ativo(kWh)-TE                        
+     1.081,0000000 
+ 0,35043431 
+           378,81 
+Cobrança de ICMS sobre Subvenção CDE         
+             4,94 
+Multa por atraso-NF 081654342 - 28/06/22     
+            17,56 
+Juros por atraso-NF 081654342 - 28/06/22     
+             6,14 
+Atualizacao IPCA-NF 080049044 - 27.05.22     
+            10,84 
+Atualizacao IPCA-NF 081654342 - 28.06.22     
+             6,09 
+TOTAL DA FATURA
+           933,65 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0243649013
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           933,65 
+VENCIMENTO
+20/09/2022

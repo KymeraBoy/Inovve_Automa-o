@@ -1,0 +1,124 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA VEREADOR RAIMUNDO LISBOA 10
+ CENTRO DE VELORIO MUNICIPAL
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+274095
+CÓDIGO DO CLIENTE
+856085023
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        667
+ 32
+DEZ25
+        616
+ 31
+NOV25
+        601
+ 29
+OUT25
+        608
+ 32
+SET25
+        557
+ 30
+AGO25
+        577
+ 32
+JUL25
+        506
+ 30
+JUN25
+        564
+ 30
+MAI25
+        646
+ 31
+ABR25
+        647
+ 30
+MAR25
+        652
+ 29
+FEV25
+        616
+ 29
+JAN25
+        495
+ 32
+
+CONSUMO
+kWh
+         667,00  
+         125,00  
+
+Consumo-TUSD
+kWh
+          667,00 
+ 0,57618540 
+           384,31 
+            18,92 
+           384,31 
+20,00
+            76,86 
+ 0,43260000
+Consumo-TE
+kWh
+          667,00 
+ 0,41507725 
+           276,85 
+            13,61 
+           276,85 
+20,00
+            55,37 
+ 0,31164000
+Acrés. Band. AMARELA
+             2,61 
+             0,12 
+             2,61 
+20,00
+             0,52 
+Ilum. Púb. Municipal
+            59,80 
+Multa-NF 149199753
+            12,58 
+Juros-NF 149199753
+             2,93 
+IPCA-NF-149199753
+             0,92 
+TRIBF-IRRF(1.2%)
+             7,96-
+TRIBF-IRRF(4.8%)
+             0,78-
+TOTAL
+           731,26 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

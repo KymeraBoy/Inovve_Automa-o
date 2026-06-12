@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VINICIO BARBALHO 270
+ UBS COAHB COVID
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2022
+
+CÓDIGO DA INSTALAÇÃO
+8006557
+CÓDIGO DO CLIENTE
+7017963303
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV22
+        893
+ 30
+OUT22
+        848
+ 31
+SET22
+        541
+ 31
+AGO22
+        637
+ 32
+JUL22
+        531
+ 31
+JUN22
+        738
+ 28
+MAI22
+        793
+ 33
+ABR22
+        866
+ 29
+MAR22
+        892
+ 30
+FEV22
+       1021
+ 30
+JAN22
+        901
+ 31
+DEZ21
+        962
+ 29
+NOV21
+        680
+ 29
+
+CONSUMO
+kWh
+  893,00 
+   15,00 
+
+Consumo-TUSD
+kWh
+          893,00 
+ 0,48989591 
+           437,47 
+            19,80 
+           437,47 
+18,00
+            78,74 
+ 0,37954000
+Consumo-TE
+kWh
+          893,00 
+ 0,36440800 
+           325,41 
+            14,72 
+           325,41 
+18,00
+            58,57 
+ 0,28232000
+Ilum. Púb. Municipal
+            70,92 
+Multa-NF 086372941
+             9,20 
+Juros-NF 086372941
+             2,14 
+IPCA-NF-086372941
+             1,29 
+TOTAL
+           846,43 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

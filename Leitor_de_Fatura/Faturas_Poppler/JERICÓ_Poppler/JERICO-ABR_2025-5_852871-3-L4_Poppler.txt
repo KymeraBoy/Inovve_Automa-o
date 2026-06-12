@@ -1,136 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 013 - 0253 - 720 - 2580
-MATRÍCULA: 852871-2025-4-0
-DOM. BANC.:                                    DOM. ENT.: 9999253001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM JERICO SEDE
-
-RUA CIRILO DE FREITAS, S/N - 58830000
-
-
-CENTRO
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Abril / 2025   23/05/2025   R$ 2.101,09
-Declaração de Quitação Anual de Débitos: Conforme previsto na Lei 12.007 de 29 de julho de 2009, informamos a quitação dos débitos referentes aos faturamentos regulares de energia elétrica desta unidade consumidora
-vencidos no ano de 2024 e nos anos anteriores. Esta declaração substitui, para a comprovação do cumprimento das obrigações do consumidor, as quitacões dos faturamentos mensais dos débitos do ano a que se refere e
-dos anos anteriores. -Consumo parcelado, sem acréscimo, por faturamento a menor ou ausência de faturamento no(s) mês(es) anterior(es) (Art.323 Res.1000 Aneel). Caso seja de seu interesse efetuar o pagamento em
-número menor de parcelas ligue para 0800 083 0196 (ligação gratuita).
-                                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                          Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                          KWH       2.694,00       0,774380      2.086,20       84,16       2.086,20   20      417,23   0,588270
-Acerto Faturamento - REN1000   80 kWh                                             61,95        2,49          61,95   20       12,39
-LANÇAMENTOS E SERVIÇOS
-VALOR PARCELADO 00/2                                                              -47,06       0,00           0,00             0,00
-
-
-
-
-                                                 TOTAL:                        2.101,09       86,65       2.148,15           429,62
-00008243413   Energia ativa em kWh   Ponta   389656   392430   1   2694
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  852871-2025-4-0       23/05/2025       5329532        R$ 2.101,09
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/05/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000852871-3
-21/03/2025   22/04/2025   32   22/05/2025
-5/852871-3
-
-00008243413
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.718,50    0,8996      15,45
-COFINS    1.718,50    4,1435      71,20
-ICMS      2.148,15     20,00     429,62
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              ABR/25                32
-              MAR/25                29
-              FEV/25                30
-              JAN/25                32
-Consumo kWh
-
-
-
-
-              DEZ/24                29
-              NOV/24                30
-              OUT/24                32
-              SET/24                29
-              AGO/24                31
-              JUL/24                32
-              JUN/24                30
-              MAI/24                32
-              ABR/24                30
-2.148,15                 429,62
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
-- ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
-DIC         12,00     0,00   999,00   999,00
-FIC          4,00     0,00   999,00   999,00
-DMIC         9,00     0,00
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                       02/2025
-Tensão Contratada:
-Limite Adequado:                350 a 399
-Serviço de distribuição                      565,12     26,31
-Compra de energia                            657,32     30,60
-Serviço de transmissão                       145,73      6,78
-Encargos setoriais                           263,71     12,28
-Impostos diretos e encargos                  516,27     24,03
-Outros serviços                                 0,00     0,00
-Total                                       2.148,15   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 02/2025): R$ 683,30
-ABR/25   2.694,00
-MAR/25   2.704,00 *
-FEV/25   3.137,00
-JAN/25   2.177,00
-DEZ/24   2.607,00
-NOV/24   2.807,00
-OUT/24   2.694,00
-SET/24   2.806,00
-AGO/24   2.717,00
-JUL/24   2.928,00
-JUN/24   1.837,00
-MAI/24   3.021,00
-ABR/24   2.883,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 21/03/2025      Leitura Atual: 22/04/2025   Dias: 32
-
-
-
-KWH   Ponta   392.430,00    389.656,00       1,00                                                 2.694,00          2.694,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

@@ -1,0 +1,129 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RO BR 101 8888
+ ESTADIO DE FUTEBOL
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+07/2023
+
+CÓDIGO DA INSTALAÇÃO
+277977
+CÓDIGO DO CLIENTE
+854956949
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL23
+       2050
+ 30
+JUN23
+       2124
+ 31
+MAI23
+       2500
+ 31
+ABR23
+       1550
+ 29
+MAR23
+       1565
+ 33
+FEV23
+       5157
+ 28
+JAN23
+       5319
+ 30
+DEZ22
+       5553
+ 31
+NOV22
+       7583
+ 30
+OUT22
+       5526
+ 29
+SET22
+       6708
+ 33
+AGO22
+       4541
+ 30
+JUL22
+       2718
+ 32
+
+CONSUMO
+kWh
+1.999,80 
+  162,00 
+
+Consumo-TUSD
+kWh
+        2.049,80 
+ 0,52507425 
+         1.076,29 
+            49,35 
+         1.076,29 
+20,00
+           215,26 
+ 0,39599000
+BANDEIRA VERDE
+Consumo-TE
+kWh
+        2.049,80 
+ 0,38880343 
+           796,96 
+            36,52 
+           796,96 
+20,00
+           159,39 
+ 0,29322000
+Cons.Reat.Excedente
+kVARh
+          166,05 
+ 0,38880343 
+            64,56 
+             2,95 
+            64,56 
+20,00
+            12,91 
+ 0,29322000
+Ilum. Púb. Municipal
+           169,52 
+Multa-NF 099140206
+            47,13 
+Multa-NF 100750053
+            39,60 
+Juros-NF 099140206
+            18,06 
+Juros-NF 100750053
+             0,65 
+IPCA-NF-099140206
+             4,05 
+TOTAL
+         2.216,82 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

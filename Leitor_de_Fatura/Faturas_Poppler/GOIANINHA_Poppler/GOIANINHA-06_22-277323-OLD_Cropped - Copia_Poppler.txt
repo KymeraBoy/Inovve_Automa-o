@@ -1,0 +1,88 @@
+CONTA CONTRATO
+7003937440
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277323
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MIRANDA 294 B
+ESCOLA MUNICIPAL
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        874
+MAI 22
+       1531
+ABR 22
+       1307
+MAR 22
+       1362
+FEV 22
+        620
+JAN 22
+        372
+DEZ 21
+       1042
+NOV 21
+        845
+OUT 21
+        738
+SET 21
+        511
+AGO 21
+        538
+JUL 21
+        427
+JUN 21
+        406
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+
+Atualizacao IPCA-NF 072194790 - 29.12.21     
+            44,72 
+Atualizacao IPCA-NF 073757792 - 27.01.22     
+            12,40 
+Atualizacao IPCA-NF 075359060 - 24.02.22     
+            14,72 
+Atualizacao IPCA-NF 070596318 - 26.11.21     
+            43,70 
+Atualizacao IPCA-NF 065893844 - 27.08.21     
+            40,62 
+Atualizacao IPCA-NF 076900329 - 29.03.22     
+            21,05 
+Atualizacao IPCA-NF 067461362 - 28.09.21     
+            36,01 
+Atualizacao IPCA-NF 078485671 - 28.04.22     
+             8,50 
+TOTAL DA FATURA
+         1.511,03 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7003937440
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+         1.511,03 
+VENCIMENTO
+20/07/2022

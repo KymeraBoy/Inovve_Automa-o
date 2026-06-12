@@ -1,0 +1,124 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI CATU 100 SN
+ ESCOLA MUNICIPAL ALFREDO LIMA
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+277549
+CÓDIGO DO CLIENTE
+856278174
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        305
+ 32
+DEZ25
+        529
+ 31
+NOV25
+        629
+ 29
+OUT25
+        728
+ 32
+SET25
+        679
+ 30
+AGO25
+        666
+ 32
+JUL25
+        578
+ 30
+JUN25
+        552
+ 30
+MAI25
+        689
+ 31
+ABR25
+        765
+ 30
+MAR25
+        648
+ 29
+FEV25
+        537
+ 29
+JAN25
+        360
+ 32
+
+CONSUMO
+kWh
+         305,00  
+         145,00  
+
+Consumo-TUSD
+kWh
+          305,00 
+ 0,57618540 
+           175,73 
+             8,66 
+           175,73 
+20,00
+            35,16 
+ 0,43260000
+Consumo-TE
+kWh
+          305,00 
+ 0,41507725 
+           126,59 
+             6,22 
+           126,59 
+20,00
+            25,31 
+ 0,31164000
+Acrés. Band. AMARELA
+             1,18 
+             0,05 
+             1,18 
+20,00
+             0,23 
+Ilum. Púb. Municipal
+            34,18 
+Multa-NF 149199756
+            13,16 
+Juros-NF 149199756
+             4,82 
+IPCA-NF-149199756
+             1,53 
+TRIBF-IRRF(1.2%)
+             3,64-
+TRIBF-IRRF(4.8%)
+             0,94-
+TOTAL
+           352,61 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

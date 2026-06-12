@@ -1,0 +1,90 @@
+CONTA CONTRATO
+0855065568
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+276172
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI ANIQUIM 999 A
+QUADRA DE ESPORTES
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        376
+MAI 22
+        406
+ABR 22
+        462
+MAR 22
+        415
+FEV 22
+        447
+JAN 22
+        494
+DEZ 21
+        519
+NOV 21
+        552
+OUT 21
+        628
+SET 21
+        581
+AGO 21
+        581
+JUL 21
+        581
+JUN 21
+        777
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  376,00 
+    0,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       376,0000000 
+ 0,48974766 
+           184,14 
+Consumo Ativo(kWh)-TE                        
+       376,0000000 
+ 0,36384738 
+           136,80 
+Contrib. Ilum. Pública Municipal             
+            37,91 
+Multa por atraso-NF 078485655 - 28/04/22     
+             8,18 
+Juros por atraso-NF 078485655 - 28/04/22     
+             3,40 
+Atualizacao IPCA-NF 078485655 - 28.04.22     
+             3,33 
+TOTAL DA FATURA
+           373,76 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0855065568
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           373,76 
+VENCIMENTO
+20/07/2022

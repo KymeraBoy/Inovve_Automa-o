@@ -1,128 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 088 - 0253 - 099 - 4100
-MATRÍCULA: 389020-2025-12-9
-DOM. BANC.:                                    DOM. ENT.: 9999253001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA              LIGAÇÃO: MONOFASICO
-ILUMINACAO PUBLICA - P.M.JERICO
-
-ROD BR 230, S/N - 58830000
-
-
-CENTRO
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Dezembro / 2025   23/01/2026   R$ 19.361,17
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                                                Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
-Itens da Fatura                             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
-Consumo em kWh                             KWH      36.453,00       0,495680      18.069,09     909,33      18.069,09   20      3.613,81   0,371600
-Consumo kWh - Ligação Provisória - Ponta   KWH        721,00        0,495680        357,38       17,99         357,38   20        71,48    0,371600
-Adic. B. Amarela                                                                    934,70       47,04         934,70   20       186,94
-
-
-
-
-                                                    TOTAL:                        19.361,17     974,36      19.361,17           3.872,23
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  389020-2025-12-9      23/01/2026       7131759       R$ 19.361,17
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/01/2026
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00003890209
-30/11/2025   31/12/2025   31   31/01/2026
-5/389020-9
-
-0
-Tributo   Base de     Alíquota     Valor
-          Cálc.(R$)      (%)        (R$)
-PIS       15.488,91   1,1221      173,80
-COFINS    15.488,91   5,1686      800,56
-ICMS      19.361,17    20,00     3.872,23
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              DEZ/25                31
-              NOV/25                30
-              OUT/25                31
-              SET/25                30
-Consumo kWh
-
-
-
-
-              AGO/25                31
-              JUL/25                31
-              JUN/25                30
-              MAI/25                31
-              ABR/25                30
-              MAR/25                31
-              FEV/25                28
-              JAN/25                31
-              DEZ/24                31
-19.361,17              3.872,23
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-Consumo Estimado: faturamento realizado por carga instalada.
-- -Detectar cedo é dar a chance de vencer. Previna-se contra o câncer de mama. Gov.PB
-DIC         12,00     0,63   999,00   999,00
-FIC          4,00     0,08   999,00   999,00
-DMIC         9,00     0,00
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                       10/2025
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      4.734,66    24,46
-Compra de energia                            6.139,67    31,71
-Serviço de transmissão                       1.049,40     5,42
-Encargos setoriais                           2.590,85    13,38
-Impostos diretos e encargos                  4.846,59    25,03
-Outros serviços                                  0,00     0,00
-Total                                       19.361,17   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 10/2025): R$ 4.897,70
-DEZ/25   36.453,00
-NOV/25   35.287,00
-OUT/25   36.484,00
-SET/25   35.308,00
-AGO/25   36.484,00
-JUL/25   36.474,00
-JUN/25   35.255,00
-MAI/25   36.485,00
-ABR/25   35.308,00
-MAR/25   36.472,00
-FEV/25   32.914,00
-JAN/25   36.485,00
-DEZ/24   36.479,00
-
-
-
-          *FATURAMENTO PELA MÉDIA/MÍNIMO
-Leitura Anterior: 30/11/2025   Leitura Atual: 31/12/2025   Dias: 31
-
-
-
-
-                                                                      * KWTG: Dem Tusdg   * K: Const Med
-

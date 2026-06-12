@@ -1,0 +1,92 @@
+CONTA CONTRATO
+7008948431
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2511772
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VEREADOR RAIMUNDO LISBOA 222222
+GINASIO POLIESPORTIVO PACHECAO
+ESTACAO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        303
+JUL 22
+        348
+JUN 22
+        298
+MAI 22
+        246
+ABR 22
+        227
+MAR 22
+        100
+FEV 22
+        331
+JAN 22
+        100
+DEZ 21
+        457
+NOV 21
+        384
+OUT 21
+        286
+SET 21
+        334
+AGO 21
+        331
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  303,00 
+   52,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       303,0000000 
+ 0,48568064 
+           147,16 
+Consumo Ativo(kWh)-TE                        
+       303,0000000 
+ 0,36127248 
+           109,46 
+Contrib. Ilum. Pública Municipal             
+            30,08 
+Multa por atraso-NF 081654378 - 28/06/22     
+             5,07 
+Juros por atraso-NF 081654378 - 28/06/22     
+             1,77 
+Atualizacao IPCA-NF 081654378 - 28.06.22     
+             1,76 
+Atualizacao IPCA-NF 080049080 - 27.05.22     
+             2,48 
+TOTAL DA FATURA
+           297,78 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7008948431
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           297,78 
+VENCIMENTO
+20/09/2022

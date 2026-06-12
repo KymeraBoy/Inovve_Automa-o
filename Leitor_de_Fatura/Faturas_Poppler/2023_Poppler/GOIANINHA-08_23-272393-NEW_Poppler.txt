@@ -1,0 +1,107 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA MARIA DA GLORIA CHAVES 226
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+08/2023
+
+CÓDIGO DA INSTALAÇÃO
+272393
+CÓDIGO DO CLIENTE
+7018947670
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO23
+        521
+ 30
+JUL23
+        448
+ 32
+JUN23
+        554
+ 29
+MAI23
+        564
+ 32
+ABR23
+        555
+ 30
+MAR23
+        591
+ 31
+FEV23
+        259
+ 28
+JAN23
+        277
+ 32
+DEZ22
+        529
+ 29
+NOV22
+        526
+ 30
+OUT22
+        521
+ 31
+SET22
+        482
+ 31
+AGO22
+        487
+ 32
+
+CONSUMO
+kWh
+         521,00  
+         317,00  
+
+Consumo-TUSD
+kWh
+          521,00 
+ 0,51989024 
+           270,86 
+            10,37 
+           270,86 
+20,00
+            54,17 
+ 0,39599000
+Consumo-TE
+kWh
+          521,00 
+ 0,38496481 
+           200,56 
+             7,68 
+           200,56 
+20,00
+            40,11 
+ 0,29322000
+Ilum. Púb. Municipal
+            43,08 
+TOTAL
+           514,50 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

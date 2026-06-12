@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA HORTENCIA 400 -PR
+ LIGACAO NOVA UBS PG PRX 036311
+ NOVO HORIZONTE/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+2881614
+CÓDIGO DO CLIENTE
+7027291672
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       2109
+ 31
+FEV26
+       2036
+ 29
+JAN26
+       1832
+ 31
+DEZ25
+       1817
+ 33
+NOV25
+       1490
+ 28
+OUT25
+       1541
+ 30
+SET25
+       1308
+ 32
+AGO25
+       1282
+ 30
+JUL25
+       1243
+ 32
+JUN25
+       1688
+ 30
+MAI25
+        376
+ 33
+ABR25
+        100
+ 22
+MAR25
+
+CONSUMO
+kWh
+       2.109,00 
+           0,00   
+
+Consumo-TUSD
+kWh
+        2.109,00 
+ 0,57575596 
+         1.214,26 
+            59,07 
+         1.214,26 
+20,00
+           242,86 
+ 0,43260000
+Consumo-TE
+kWh
+        2.109,00 
+ 0,41476788 
+           874,74 
+            42,53 
+           874,74 
+20,00
+           174,94 
+ 0,31164000
+Ilum. Púb. Municipal
+           188,35 
+TRIBF-IRRF(1.2%)
+            25,07-
+TOTAL
+         2.252,28 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

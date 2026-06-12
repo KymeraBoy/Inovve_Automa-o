@@ -1,0 +1,111 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA CORONEL MANOEL DUARTE 149
+ BANHEIRO PUBLICO
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+07/2023
+
+CÓDIGO DA INSTALAÇÃO
+272272
+CÓDIGO DO CLIENTE
+242715012
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL23
+         42
+ 31
+JUN23
+         39
+ 31
+MAI23
+         48
+ 29
+ABR23
+         34
+ 31
+MAR23
+         30
+ 29
+FEV23
+         32
+ 31
+JAN23
+         30
+ 31
+DEZ22
+         30
+ 29
+NOV22
+         30
+ 30
+OUT22
+         30
+ 32
+SET22
+         30
+ 30
+AGO22
+         30
+ 30
+JUL22
+         31
+ 32
+
+CONSUMO
+kWh
+   42,00 
+
+Consumo-TUSD
+kWh
+           42,00 
+ 0,52507425 
+            22,05 
+             1,01 
+            22,05 
+20,00
+             4,41 
+ 0,39599000
+Consumo-TE
+kWh
+           42,00 
+ 0,38880343 
+            16,32 
+             0,74 
+            16,32 
+20,00
+             3,26 
+ 0,29322000
+Multa-NF 099140179
+             0,85 
+Juros-NF 099140179
+             0,19 
+IPCA-NF-099140179
+             0,04 
+TOTAL
+            39,45 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

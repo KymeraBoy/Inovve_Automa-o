@@ -1,0 +1,90 @@
+CONTA CONTRATO
+7017439566
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+279800
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI ATERRO 100
+ATERRO/SUMARE
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 COMERCIAL - OUTROS SERVIÇOS E OUTRAS ATIVIDADES
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        501
+JUL 22
+        533
+JUN 22
+        569
+MAI 22
+        849
+ABR 22
+        970
+MAR 22
+       1011
+FEV 22
+        871
+JAN 22
+        601
+DEZ 21
+        444
+NOV 21
+        441
+OUT 21
+        340
+SET 21
+        337
+AGO 21
+        332
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  501,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       501,0000000 
+ 0,48568064 
+           243,32 
+Consumo Ativo(kWh)-TE                        
+       501,0000000 
+ 0,36127248 
+           180,99 
+Contrib. Ilum. Pública Municipal             
+            39,78 
+Multa por atraso-NF 081654385 - 28/06/22     
+            10,91 
+Juros por atraso-NF 081654385 - 28/06/22     
+             3,81 
+Atualizacao IPCA-NF 081654385 - 28.06.22     
+             3,78 
+Atualizacao IPCA-NF 080049087 - 27.05.22     
+             9,60 
+TOTAL DA FATURA
+           492,19 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7017439566
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           492,19 
+VENCIMENTO
+20/09/2022

@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0242725018
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273705
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DO FOGO 190
+POCO TUBULAR
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       3236
+ABR 22
+       3232
+MAR 22
+       3101
+FEV 22
+       2684
+JAN 22
+       3585
+DEZ 21
+       3140
+NOV 21
+       3323
+OUT 21
+       3550
+SET 21
+       3275
+AGO 21
+       3065
+JUL 21
+       3258
+JUN 21
+       3477
+MAI 21
+       2704
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+3.236,00 
+2.053,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     3.236,0000000 
+ 0,47161778 
+         1.526,15 
+Consumo Ativo(kWh)-TE                        
+     3.236,0000000 
+ 0,35037818 
+         1.133,82 
+Cobrança de ICMS sobre Subvenção CDE         
+            14,80 
+Multa por atraso-NF 076900286 - 29/03/22     
+            51,56 
+Juros por atraso-NF 076900286 - 29/03/22     
+            22,33 
+TOTAL DA FATURA
+         2.748,66 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242725018
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         2.748,66 
+VENCIMENTO
+20/06/2022

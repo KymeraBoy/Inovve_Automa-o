@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO MALHADINHA 48
+ PO O TUBULAR DE MALHADINHA
+ MALHADINHA/AREA RURAL
+ 59180-000 ESPIRITO SANTO RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+241397
+CÓDIGO DO CLIENTE
+590875015
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+       1322
+ 30
+ABR23
+       1255
+ 30
+MAR23
+       1252
+ 31
+FEV23
+       1248
+ 30
+JAN23
+        970
+ 30
+DEZ22
+       1010
+ 31
+NOV22
+        986
+ 30
+OUT22
+        841
+ 29
+SET22
+       1123
+ 33
+AGO22
+        856
+ 30
+JUL22
+        809
+ 29
+JUN22
+        842
+ 32
+MAI22
+        838
+ 30
+
+CONSUMO
+kWh
+1.322,00 
+1.635,00 
+
+Consumo-TUSD
+kWh
+        1.322,00 
+ 0,52396263 
+           692,67 
+            30,64 
+           692,67 
+20,00
+           138,53 
+ 0,39599000
+Consumo-TE
+kWh
+        1.322,00 
+ 0,38798031 
+           512,90 
+            22,68 
+           512,90 
+20,00
+           102,58 
+ 0,29322000
+Dev. Pag.Duplicidade
+         1.039,75-
+TOTAL
+           165,82 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

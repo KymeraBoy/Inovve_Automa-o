@@ -1,0 +1,106 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI MALHADINHA 999999
+ MALHADINHA/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+12/2022
+
+CÓDIGO DA INSTALAÇÃO
+9010310
+CÓDIGO DO CLIENTE
+7018964877
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ22
+        522
+ 31
+NOV22
+        513
+ 30
+OUT22
+        459
+ 29
+SET22
+        396
+ 33
+AGO22
+        486
+ 30
+JUL22
+        526
+ 29
+JUN22
+        849
+ 32
+MAI22
+        739
+ 30
+ABR22
+        752
+ 32
+MAR22
+        353
+ 31
+FEV22
+         40
+ 28
+JAN22
+         30
+ 32
+DEZ21
+         30
+ 29
+
+CONSUMO
+kWh
+  522,00 
+
+Consumo-TUSD
+kWh
+          522,00 
+ 0,49062291 
+           256,10 
+            11,88 
+           256,10 
+18,00
+            46,09 
+ 0,37954000
+Consumo-TE
+kWh
+          522,00 
+ 0,36494878 
+           190,50 
+             8,83 
+           190,50 
+18,00
+            34,29 
+ 0,28232000
+Ilum. Púb. Municipal
+            41,45 
+TOTAL
+           488,05 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

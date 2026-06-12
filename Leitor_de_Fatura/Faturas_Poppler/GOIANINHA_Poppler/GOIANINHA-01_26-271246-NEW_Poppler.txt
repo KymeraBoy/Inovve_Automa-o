@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA LUIZ BELARMINO DA COSTA 450
+ ESCOLA MUNICIPAL DR HELIO M DE GALVAO
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+271246
+CÓDIGO DO CLIENTE
+242708016
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       1425
+ 33
+DEZ25
+       6150
+ 31
+NOV25
+       5736
+ 29
+OUT25
+       5562
+ 31
+SET25
+       5692
+ 31
+AGO25
+       6438
+ 33
+JUL25
+       3181
+ 29
+JUN25
+       6921
+ 30
+MAI25
+       5755
+ 32
+ABR25
+       7104
+ 28
+MAR25
+       5882
+ 30
+FEV25
+       1797
+ 32
+JAN25
+       1761
+ 29
+
+CONSUMO
+kWh
+       1.425,00 
+           4,00   
+
+Consumo-TUSD
+kWh
+        1.425,00 
+ 0,57618540 
+           821,06 
+            40,41 
+           821,06 
+20,00
+           164,22 
+ 0,43260000
+Consumo-TE
+kWh
+        1.425,00 
+ 0,41507725 
+           591,48 
+            29,09 
+           591,48 
+20,00
+           118,29 
+ 0,31164000
+Acrés. Band. AMARELA
+            28,18 
+             1,37 
+            28,18 
+20,00
+             5,63 
+Multa-NF 149199720
+           120,12 
+Juros-NF 149199720
+            46,04 
+IPCA-NF-149199720
+            14,70 
+TRIBF-IRRF(1.2%)
+            17,29-
+TRIBF-IRRF(4.8%)
+             8,68-
+TOTAL
+         1.595,61 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

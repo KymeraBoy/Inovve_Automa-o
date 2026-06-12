@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242705017
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+274651
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ABDON GRILO 18
+ESCOLA MUN NAZARE DUARTE
+COHAB/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+       2503
+JUL 22
+       1426
+JUN 22
+       2754
+MAI 22
+       2580
+ABR 22
+       2701
+MAR 22
+       2028
+FEV 22
+        780
+JAN 22
+        498
+DEZ 21
+       2570
+NOV 21
+       1507
+OUT 21
+        763
+SET 21
+        518
+AGO 21
+        437
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+2.503,00 
+  676,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     2.503,0000000 
+ 0,48568064 
+         1.215,65 
+Consumo Ativo(kWh)-TE                        
+     2.503,0000000 
+ 0,36127248 
+           904,26 
+Contrib. Ilum. Pública Municipal             
+           198,79 
+Atualizacao IPCA-NF 081654321 - 28.06.22     
+             0,78 
+TOTAL DA FATURA
+         2.319,48 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242705017
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+         2.319,48 
+VENCIMENTO
+20/09/2022

@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI SUMARE 16
+ POCO TUBULAR
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+276409
+CÓDIGO DO CLIENTE
+242727010
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       2646
+ 33
+DEZ25
+       2370
+ 30
+NOV25
+       2481
+ 31
+OUT25
+       2351
+ 30
+SET25
+       2266
+ 30
+AGO25
+       2401
+ 32
+JUL25
+       2372
+ 31
+JUN25
+       2264
+ 31
+MAI25
+       2221
+ 29
+ABR25
+       2300
+ 30
+MAR25
+       2292
+ 29
+FEV25
+       2413
+ 31
+JAN25
+       2624
+ 31
+
+CONSUMO
+kWh
+       2.646,00 
+       2.903,00 
+
+Consumo-TUSD
+kWh
+        2.646,00 
+ 0,57618540 
+         1.524,58 
+            75,02 
+         1.524,58 
+20,00
+           304,92 
+ 0,43260000
+Consumo-TE
+kWh
+        2.646,00 
+ 0,41507725 
+         1.098,29 
+            54,03 
+         1.098,29 
+20,00
+           219,65 
+ 0,31164000
+Acrés. Band. AMARELA
+            14,07 
+             0,68 
+            14,07 
+20,00
+             2,81 
+Multa-NF 149199726
+            51,95 
+Juros-NF 149199726
+            12,11 
+IPCA-NF-149199726
+             3,87 
+TRIBF-IRRF(1.2%)
+            31,64-
+TRIBF-IRRF(4.8%)
+             3,26-
+TOTAL
+         2.669,97 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

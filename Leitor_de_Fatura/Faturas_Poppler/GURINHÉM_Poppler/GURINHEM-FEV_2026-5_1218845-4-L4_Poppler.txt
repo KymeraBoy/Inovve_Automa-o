@@ -1,137 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PM GURINHÉM
-RUA GOVERNADOR FLAVIO RIBEIRO 219 - CEP:58356000 - CENTRO
-GURINHEM PB (AG: 113)
-
-ROTEIRO: 011 - 0053 - 201 - 1030
-MATRÍCULA: 1218845-2026-2-3
-DOM. BANC.:                                    DOM. ENT.: 9999053002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-GRUPO ESCOLAR FELICIANO FRANCA GALVAO
-
-SIT LAGOA DAS PIPUCAS, S/N - 58356000
-
-
-AREA RURAL
-GURINHEM (AG: 113)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Fevereiro / 2026   23/03/2026   R$ 240,59
-- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
-pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh    KWH        269,00       0,894390        240,59       10,72         240,59   20      48,11   0,675650
-
-
-
-
-                           TOTAL:                         240,59       10,72         240,59           48,11
-00000452665   Energia ativa em kWh   Ponta   24109   24378   1   269
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  1218845-2026-2-3      23/03/2026       7543719        R$ 240,59
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 04/03/2026
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00012188454
-19/01/2026   18/02/2026   30   18/03/2026
-5/1218845-4
-
-00000452665
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         192,46    0,9940      1,91
-COFINS      192,46    4,5784      8,81
-ICMS        240,59     20,00     48,11
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              FEV/26                30
-              JAN/26                32
-              DEZ/25                30
-              NOV/25                32
-Consumo kWh
-
-
-
-
-              OUT/25                31
-              SET/25                29
-              AGO/25                33
-              JUL/25                30
-              JUN/25                31
-              MAI/25                30
-              ABR/25                28
-              MAR/25                29
-              FEV/25                32
-  240,59                  48,11
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-
-
-
-EMITIDO EM CONTINGÊNCIA Pendente de Autorização
-.
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-DIC         24,00    2,05   999,00   999,00
-FIC          6,00    1,00   999,00   999,00
-DMIC        18,00    2,05
-DICRI       26,00
-
-
-Conjunto:    AREIA
-
-Referência:                      12/2025
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      60,94    25,33
-Compra de energia                            73,96    30,74
-Serviço de transmissão                       13,49     5,61
-Encargos setoriais                           33,37    13,87
-Impostos diretos e encargos                  58,83    24,45
-Outros serviços                               0,00     0,00
-Total                                       240,59   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 12/2025): R$ 60,18
-FEV/26    269,00 *
-JAN/26    241,00
-DEZ/25    255,00 *
-NOV/25    342,00
-OUT/25    246,00 *
-SET/25    271,00
-AGO/25    293,00
-JUL/25    276,00
-JUN/25    232,00 *
-MAI/25    281,00
-ABR/25    284,00
-MAR/25    298,00
-FEV/25    217,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 19/01/2026      Leitura Atual: 18/02/2026   Dias: 30
-
-
-
-KWH   Ponta   24.378,00      24.109,00       1,00                                                  269,00            269,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

@@ -1,0 +1,88 @@
+CONTA CONTRATO
+7018964877
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+9010310
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MALHADINHA 999999
+MALHADINHA/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        486
+JUL 22
+        526
+JUN 22
+        849
+MAI 22
+        739
+ABR 22
+        752
+MAR 22
+        353
+FEV 22
+         40
+JAN 22
+         30
+DEZ 21
+         30
+NOV 21
+         30
+OUT 21
+         30
+SET 21
+AGO 21
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  486,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       486,0000000 
+ 0,48568064 
+           236,04 
+Consumo Ativo(kWh)-TE                        
+       486,0000000 
+ 0,36127248 
+           175,57 
+Contrib. Ilum. Pública Municipal             
+            48,24 
+Multa por atraso-NF 081654390 - 28/06/22     
+            14,48 
+Juros por atraso-NF 081654390 - 28/06/22     
+             5,07 
+Atualizacao IPCA-NF 081654390 - 28.06.22     
+             5,02 
+Atualizacao IPCA-NF 080049092 - 27.05.22     
+             7,44 
+TOTAL DA FATURA
+           491,86 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7018964877
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           491,86 
+VENCIMENTO
+20/09/2022

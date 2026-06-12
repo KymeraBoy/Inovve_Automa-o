@@ -1,0 +1,113 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ AV RUDSON RAIMUNDO HONORIO LISBOA 999999
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+2343276
+CÓDIGO DO CLIENTE
+7005970819
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+        325
+ 30
+AGO22
+        334
+ 30
+JUL22
+        340
+ 32
+JUN22
+        323
+ 29
+MAI22
+        313
+ 30
+ABR22
+        330
+ 32
+MAR22
+        308
+ 29
+FEV22
+        320
+ 30
+JAN22
+        341
+ 32
+DEZ21
+        269
+ 29
+NOV21
+        246
+ 30
+OUT21
+        287
+ 32
+SET21
+        285
+ 30
+
+CONSUMO
+kWh
+  325,00 
+   10,00 
+
+Consumo-TUSD
+kWh
+          325,00 
+ 0,48824225 
+           158,67 
+             6,76 
+           158,67 
+18,00
+            28,56 
+ 0,37954000
+Consumo-TE
+kWh
+          325,00 
+ 0,36317793 
+           118,03 
+             5,03 
+           118,03 
+18,00
+            21,24 
+ 0,28232000
+Ilum. Púb. Municipal
+            32,26 
+Multa-NF 083226122
+             5,86 
+Juros-NF 083226122
+             2,04 
+IPCA-NF-083226122
+             1,50 
+TOTAL
+           318,36 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

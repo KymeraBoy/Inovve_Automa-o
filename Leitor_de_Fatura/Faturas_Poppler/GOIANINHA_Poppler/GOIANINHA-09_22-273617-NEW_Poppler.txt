@@ -1,0 +1,116 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA BATISTA DE SOUZA 757
+ ESCOLA MUNICIPAL JOAO GADEL
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+273617
+CÓDIGO DO CLIENTE
+242730011
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+       1685
+ 33
+AGO22
+        843
+ 30
+JUL22
+        669
+ 32
+JUN22
+        775
+ 29
+MAI22
+       1284
+ 30
+ABR22
+       1147
+ 32
+MAR22
+        958
+ 31
+FEV22
+        302
+ 28
+JAN22
+        235
+ 32
+DEZ21
+        715
+ 29
+NOV21
+        661
+ 29
+OUT21
+        578
+ 32
+SET21
+        374
+ 30
+
+CONSUMO
+kWh
+1.685,00 
+  383,00 
+
+Consumo-TUSD
+kWh
+        1.685,00 
+ 0,48824225 
+           822,68 
+            35,09 
+           822,68 
+18,00
+           148,08 
+ 0,37954000
+Consumo-TE
+kWh
+        1.685,00 
+ 0,36317793 
+           611,95 
+            26,08 
+           611,95 
+18,00
+           110,15 
+ 0,28232000
+Multa-NF 084824807
+            14,27 
+Multa-NF 083226082
+            11,47 
+Juros-NF 083226082
+             1,52 
+Juros-NF 084824807
+             0,47 
+IPCA-NF-083226082
+             1,29 
+TOTAL
+         1.463,65 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

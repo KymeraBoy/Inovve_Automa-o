@@ -1,0 +1,85 @@
+CONTA CONTRATO
+0242743016
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273313
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA NEWTON DE ARAUJO LIMA 2270
+ESCOLA MUN OTAVIO LIMA - ITAPERUBU
+ITAPERUBU/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+         87
+JUN 22
+         97
+MAI 22
+         89
+ABR 22
+         88
+MAR 22
+        121
+FEV 22
+        145
+JAN 22
+        102
+DEZ 21
+        145
+NOV 21
+        144
+OUT 21
+        145
+SET 21
+        131
+AGO 21
+        142
+JUL 21
+        129
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+   87,00 
+
+Consumo Ativo(kWh)-TUSD                      
+        87,0000000 
+ 0,49145305 
+            42,75 
+Consumo Ativo(kWh)-TE                        
+        87,0000000 
+ 0,36533070 
+            31,78 
+Multa por atraso-NF 081654338 - 28/06/22     
+             1,65 
+Juros por atraso-NF 081654338 - 28/06/22     
+             0,02 
+TOTAL DA FATURA
+            76,20 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242743016
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+            76,20 
+VENCIMENTO
+22/08/2022

@@ -1,104 +1,0 @@
-EMEF JOANA LACERDA LEITE AGUIAR
-
-DOMICÍLIO DE ENTREGA
-EMEF JOANA LACERDA LEITE AGUIAR
-RUA BOA VISTA S/N
-AGUIAR (AG: 144)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0149 - 400 - 0180                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008478220                          DOM. BANC.:
-MATRÍCULA: 888885-2020-6-4                           DOM. ENT.: 9999149002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA ANTONIO ALVES DE ALMEIDA, S/N
-CENTRO
-AGUIAR (AG: 144)
-
-
-
-                                                                   0000888885-1
-5/888885-1
-          R$ 129,57
-
-
-          Junho/2020
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.: 000XXXXXX
-23/07/2020
-               5,93 kWh
-             MÉDIA DIÁRIA
-166 kWh
-16/06/2020   08/07/2020   15/07/2020
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
-0601 Consumo em kWh                        166,00    0,545400    0,780560      129,57        129,57   25      32,39         129,57        1,18          5,45
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         129,57        129,57           32,39         129,57        1,18          5,45
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   888885-2020-6-4           23/07/2020         46134607      R$ 129,57
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Média devido calamidade, emergência ou força maior, Art 111 REN 414/2010 ANEEL
-- FATURADO PELA MÉDIA - CALAMIDADE
-DIC          6,47     0,00   12,94   25,89
-FIC          3,55     0,00    7,10   14,20
-DMIC         3,80     0,00
-DICRI       12,22
-
-
-Conjunto:    Piancó
-
-Referência:                      04/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      35,57 27,46
-Compra de energia                            44,34 34,22
-Serviço de transmissão                        5,29   4,08
-Encargos setoriais                            5,35   4,13
-Impostos diretos e encargos                  39,02   30,11
-Outros serviços                               0,00   0,00
-Total                                       129,57 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2020): R$ 27,07
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-9   JUN/20    166,00 *
-0   MAI/20    170,00 *
-    ABR/20     85,00
-    MAR/20    209,00
-    FEV/20     50,00
-    JAN/20     21,00
-    DEZ/19    230,00
-    NOV/19    234,00
-    OUT/19    197,00
-    SET/19    214,00
-    AGO/19    188,00
-    JUL/19    159,00
-    JUN/19    221,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 18/05/2020   Leitura Atual: 15/06/2020   Dias: 28
-
-
-KWH   Ponta   31.510,00    31.344,00      1              0                                  166,00         166,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

@@ -1,0 +1,126 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA JATOBA 53791
+ NOVO HORIZONTE/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2831334
+CÓDIGO DO CLIENTE
+7016227816
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        903
+ 31
+DEZ25
+        967
+ 33
+NOV25
+        843
+ 28
+OUT25
+        931
+ 30
+SET25
+       1042
+ 32
+AGO25
+        976
+ 30
+JUL25
+       1040
+ 32
+JUN25
+        965
+ 30
+MAI25
+       1021
+ 33
+ABR25
+        857
+ 28
+MAR25
+        882
+ 29
+FEV25
+        865
+ 29
+JAN25
+        924
+ 32
+
+CONSUMO
+kWh
+         903,00  
+
+Consumo-TUSD
+kWh
+          903,00 
+ 0,57618540 
+           520,29 
+            25,60 
+           520,29 
+20,00
+           104,06 
+ 0,43260000
+Consumo-TE
+kWh
+          903,00 
+ 0,41507725 
+           374,81 
+            18,43 
+           374,81 
+20,00
+            74,96 
+ 0,31164000
+Acrés. Band. AMARELA
+            11,69 
+             0,57 
+            11,69 
+20,00
+             2,33 
+Ilum. Púb. Municipal
+            81,69 
+Relig. U.Consumidora
+            11,16 
+Multa-NF 149199778
+            17,65 
+Multa-NF 145911773
+            22,68 
+Juros-NF 149199778
+             7,35 
+Juros-NF 145911773
+            33,27 
+TRIBF-IRRF(1.2%)
+            10,88-
+TRIBF-IRRF(4.8%)
+             4,42-
+TOTAL
+         1.065,29 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

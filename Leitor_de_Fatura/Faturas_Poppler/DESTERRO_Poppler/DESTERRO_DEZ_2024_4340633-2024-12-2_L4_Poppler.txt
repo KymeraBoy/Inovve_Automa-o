@@ -1,142 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 010 - 0139 - 540 - 5555
-MATRÍCULA: 4340633-2024-12-2
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM DESTERRO UBS II JANETE FONSECA
-
-RUA JOSE ADONIAS, SN - 58695000
-
-
-SAO CRISTOVAO
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 1X.XXX.XXX/XXX1-13
-Insc. Est.:
-Dezembro / 2024   23/01/2025   R$ 2.934,20
-                                                     Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                  Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                  KWH       3.535,00       0,782550      2.766,36      133,55       2.766,36   20      553,27   0,588270
-Adic. B. Amarela                                                          42,97        2,07          42,97   20        8,59
-LANÇAMENTOS E SERVIÇOS
-JUROS DE MORA 08/2024                                                      4,11        0,00           0,00             0,00
-JUROS DE MORA 09/2024                                                      4,71        0,00           0,00             0,00
-JUROS DE MORA 10/2024                                                      9,00        0,00           0,00             0,00
-MULTA 08/2024                                                             22,44        0,00           0,00             0,00
-MULTA 09/2024                                                             25,71        0,00           0,00             0,00
-MULTA 10/2024                                                             49,07        0,00           0,00             0,00
-ATUALIZAÇÃO MONETÁRIA 08/2024                                              2,27        0,00           0,00             0,00
-ATUALIZAÇÃO MONETÁRIA 09/2024                                              2,60        0,00           0,00             0,00
-ATUALIZAÇÃO MONETÁRIA 10/2024                                              4,96        0,00           0,00             0,00
-
-
-
-
-                                         TOTAL:                        2.934,20      135,62       2.809,33           561,86
-00008605029   Energia ativa em kWh   Ponta   50523   54058   1   3535
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  4340633-2024-12-2     23/01/2025       4505442        R$ 2.934,20
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 06/01/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0004340633-9
-14/11/2024   17/12/2024   33   16/01/2025
-5/4340633-9
-
-00008605029
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       2.247,45    1,0765      24,19
-COFINS    2.247,45    4,9583     111,43
-ICMS      2.809,33     20,00     561,86
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              DEZ/24                33
-              NOV/24                28
-              OUT/24                30
-              SET/24                32
-Consumo kWh
-
-
-
-
-              AGO/24                30
-              JUL/24                15
-              JUN/24
-              MAI/24
-              ABR/24
-              MAR/24
-              FEV/24
-              JAN/24
-              DEZ/23
-2.809,33                 561,86
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
-- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
-- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
-- Leitura confirmada
-- Leitura confirmada
-DIC         12,00       5,08   0,00    0,00
-FIC          4,00       2,00   0,00    0,00
-DMIC         9,00       4,29
-DICRI       13,00
-
-
-Conjunto:    Teixeira
-
-Referência:                       10/2024
-Tensão Contratada:
-Limite Adequado:                350 a 399
-Serviço de distribuição                      731,34     24,92
-Compra de energia                            850,65     28,99
-Serviço de transmissão                       188,59      6,43
-Encargos setoriais                           341,27     11,63
-Impostos diretos e encargos                  822,35     28,03
-Outros serviços                                 0,00     0,00
-Total                                       2.934,20   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 10/2024): R$ 629,28
-DEZ/24   3.535,00 *
-NOV/24   2.560,00 *
-OUT/24   2.889,00 *
-SET/24   1.605,00 *
-AGO/24   1.414,00 *
-JUL/24     412,00 *
-JUN/24            *
-MAI/24            *
-ABR/24            *
-MAR/24
-FEV/24            *
-JAN/24            *
-DEZ/23            *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 14/11/2024      Leitura Atual: 17/12/2024   Dias: 33
-
-
-
-KWH   Ponta   54.058,00      50.523,00       1,00                                                 3.535,00          3.535,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

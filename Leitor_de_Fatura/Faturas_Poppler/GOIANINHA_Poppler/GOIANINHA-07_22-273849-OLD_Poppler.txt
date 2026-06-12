@@ -1,0 +1,81 @@
+CONTA CONTRATO
+0242746015
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273849
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA AMAURI B SILVA 9 SN
+SCFV (BARROCAS)
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        193
+JUN 22
+        229
+MAI 22
+        225
+ABR 22
+        252
+MAR 22
+        183
+FEV 22
+         58
+JAN 22
+         97
+DEZ 21
+         97
+NOV 21
+        184
+OUT 21
+         30
+SET 21
+         30
+AGO 21
+         30
+JUL 21
+        124
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  193,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       193,0000000 
+ 0,49145305 
+            94,85 
+Consumo Ativo(kWh)-TE                        
+       193,0000000 
+ 0,36533070 
+            70,50 
+TOTAL DA FATURA
+           165,35 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242746015
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           165,35 
+VENCIMENTO
+22/08/2022

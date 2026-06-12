@@ -1,0 +1,87 @@
+CONTA CONTRATO
+0242715012
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272272
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA CORONEL MANOEL DUARTE 149
+BANHEIRO PUBLICO
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+         31
+JUN 22
+         34
+MAI 22
+         42
+ABR 22
+         30
+MAR 22
+         30
+FEV 22
+         30
+JAN 22
+         30
+DEZ 21
+         30
+NOV 21
+         30
+OUT 21
+         30
+SET 21
+         30
+AGO 21
+         30
+JUL 21
+         30
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+   31,00 
+
+Consumo Ativo(kWh)-TUSD                      
+        31,0000000 
+ 0,49526551 
+            15,35 
+Consumo Ativo(kWh)-TE                        
+        31,0000000 
+ 0,36794674 
+            11,40 
+Multa por atraso-NF 080049029 - 27/05/22     
+             0,67 
+Multa por atraso-NF 081654327 - 28/06/22     
+             0,57 
+Juros por atraso-NF 080049029 - 27/05/22     
+             0,39 
+TOTAL DA FATURA
+            28,38 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242715012
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+            28,38 
+VENCIMENTO
+22/08/2022

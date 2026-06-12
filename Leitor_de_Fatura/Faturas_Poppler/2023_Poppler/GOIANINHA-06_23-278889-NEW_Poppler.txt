@@ -1,0 +1,107 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI PITOMBEIRA 68
+ ESCOLA MUN LUIZ GONZAGA BARBALHO NETO
+ ANEQUIM/UNA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+06/2023
+
+CÓDIGO DA INSTALAÇÃO
+278889
+CÓDIGO DO CLIENTE
+242732014
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN23
+         30
+ 31
+MAI23
+       1773
+ 30
+ABR23
+        281
+ 30
+MAR23
+        258
+ 31
+FEV23
+        526
+ 30
+JAN23
+        609
+ 30
+DEZ22
+        854
+ 31
+NOV22
+        904
+ 30
+OUT22
+        895
+ 29
+SET22
+        837
+ 33
+AGO22
+        739
+ 30
+JUL22
+        550
+ 29
+JUN22
+        735
+ 32
+
+CONSUMO
+kWh
+    0,00 
+
+Consumo-TUSD
+kWh
+           30,00 
+ 0,51793188 
+            15,53 
+             0,55 
+            15,53 
+20,00
+             3,10 
+ 0,39599000
+Consumo-TE
+kWh
+           30,00 
+ 0,38351470 
+            11,50 
+             0,40 
+            11,50 
+20,00
+             2,30 
+ 0,29322000
+IPCA-NF-097536103
+             0,04 
+TOTAL
+            27,07 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

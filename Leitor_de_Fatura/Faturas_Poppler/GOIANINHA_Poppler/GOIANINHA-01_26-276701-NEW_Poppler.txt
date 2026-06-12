@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI UMARI 90
+ POCO TUBULAR DE UMARI DE BAIXO
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+276701
+CÓDIGO DO CLIENTE
+243649013
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       1376
+ 33
+DEZ25
+       1239
+ 30
+NOV25
+       1258
+ 31
+OUT25
+       1207
+ 30
+SET25
+       1196
+ 30
+AGO25
+       1261
+ 32
+JUL25
+       1225
+ 31
+JUN25
+       1221
+ 31
+MAI25
+       1167
+ 29
+ABR25
+       1214
+ 30
+MAR25
+       1208
+ 29
+FEV25
+       1248
+ 31
+JAN25
+       1301
+ 31
+
+CONSUMO
+kWh
+       1.376,00 
+       1.256,00 
+
+Consumo-TUSD
+kWh
+        1.376,00 
+ 0,57618540 
+           792,83 
+            39,02 
+           792,83 
+20,00
+           158,57 
+ 0,43260000
+Consumo-TE
+kWh
+        1.376,00 
+ 0,41507725 
+           571,14 
+            28,09 
+           571,14 
+20,00
+           114,22 
+ 0,31164000
+Acrés. Band. AMARELA
+             7,32 
+             0,35 
+             7,32 
+20,00
+             1,46 
+Multa-NF 149199738
+            26,33 
+Juros-NF 149199738
+             6,14 
+IPCA-NF-149199738
+             1,97 
+TRIBF-IRRF(1.2%)
+            16,45-
+TRIBF-IRRF(4.8%)
+             1,64-
+TOTAL
+         1.387,64 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

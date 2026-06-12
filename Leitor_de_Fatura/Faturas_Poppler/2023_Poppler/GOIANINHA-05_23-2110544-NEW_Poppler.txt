@@ -1,0 +1,111 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA NAZARE DUARTE 200
+ UNIDADE BASICA DE SAUDE
+ NOVO HORIZONTE/NOVO HORIZONTE
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+2110544
+CÓDIGO DO CLIENTE
+7001541743
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+       1212
+ 30
+ABR23
+       1225
+ 32
+MAR23
+       1177
+ 29
+FEV23
+       1216
+ 30
+JAN23
+       1056
+ 32
+DEZ22
+       1143
+ 29
+NOV22
+       1062
+ 30
+OUT22
+        565
+ 29
+SET22
+        581
+ 33
+AGO22
+        466
+ 30
+JUL22
+        411
+ 32
+JUN22
+        437
+ 29
+MAI22
+        534
+ 30
+
+CONSUMO
+kWh
+1.212,00 
+
+Consumo-TUSD
+kWh
+        1.212,00 
+ 0,52396263 
+           635,04 
+            28,10 
+           635,04 
+20,00
+           127,01 
+ 0,39599000
+Consumo-TE
+kWh
+        1.212,00 
+ 0,38798031 
+           470,23 
+            20,79 
+           470,23 
+20,00
+            94,04 
+ 0,29322000
+Ilum. Púb. Municipal
+           100,23 
+Multa-NF 097536137
+            21,24 
+Juros-NF 097536137
+             1,41 
+TOTAL
+         1.228,15 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

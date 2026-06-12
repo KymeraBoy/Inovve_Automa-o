@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA ESPIRITO SANTO 666666
+ LAR DO IDOSO
+ BOSQUE DAS PALMEIRAS/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+08/2023
+
+CÓDIGO DA INSTALAÇÃO
+2451149
+CÓDIGO DO CLIENTE
+7007773220
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO23
+        691
+ 31
+JUL23
+        658
+ 32
+JUN23
+        670
+ 29
+MAI23
+        864
+ 30
+ABR23
+        766
+ 32
+MAR23
+        458
+ 29
+FEV23
+        407
+ 30
+JAN23
+        461
+ 32
+DEZ22
+        638
+ 29
+NOV22
+        683
+ 30
+OUT22
+        639
+ 29
+SET22
+        686
+ 33
+AGO22
+        624
+ 30
+
+CONSUMO
+kWh
+         691,00  
+         278,00  
+
+Consumo-TUSD
+kWh
+          691,00 
+ 0,51989024 
+           359,24 
+            13,77 
+           359,24 
+20,00
+            71,85 
+ 0,39599000
+Consumo-TE
+kWh
+          691,00 
+ 0,38496481 
+           266,01 
+            10,18 
+           266,01 
+20,00
+            53,20 
+ 0,29322000
+Ilum. Púb. Municipal
+            57,14 
+TOTAL
+           682,39 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

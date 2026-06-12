@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA DO FOGO 190
+ POCO TUBULAR
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2022
+
+CÓDIGO DA INSTALAÇÃO
+273705
+CÓDIGO DO CLIENTE
+242725018
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT22
+       3047
+ 29
+SET22
+       3563
+ 33
+AGO22
+       3192
+ 30
+JUL22
+       3392
+ 32
+JUN22
+       2975
+ 29
+MAI22
+       3236
+ 30
+ABR22
+       3232
+ 32
+MAR22
+       3101
+ 31
+FEV22
+       2684
+ 28
+JAN22
+       3585
+ 32
+DEZ21
+       3140
+ 29
+NOV21
+       3323
+ 29
+OUT21
+       3550
+ 32
+
+CONSUMO
+kWh
+3.047,00 
+1.913,00 
+
+Consumo-TUSD
+kWh
+        3.047,00 
+ 0,47239904 
+         1.439,39 
+            58,54 
+         1.439,39 
+18,00
+           259,09 
+ 0,36815380
+Consumo-TE
+kWh
+        3.047,00 
+ 0,35139299 
+         1.070,69 
+            43,54 
+         1.070,69 
+18,00
+           192,72 
+ 0,27385040
+Cob. ICMS Subven-CDE
+            13,96 
+Multa-NF 084824803
+            52,44 
+Juros-NF 084824803
+            20,09 
+TOTAL
+         2.596,57 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

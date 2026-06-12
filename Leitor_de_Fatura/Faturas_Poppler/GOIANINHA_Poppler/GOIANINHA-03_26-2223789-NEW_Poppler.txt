@@ -1,0 +1,115 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ AV MONSENHOR ARMANDO DE PAIVA 100
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+2223789
+CÓDIGO DO CLIENTE
+7009774160
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+       1796
+ 30
+FEV26
+       1686
+ 28
+JAN26
+       1686
+ 32
+DEZ25
+       1854
+ 31
+NOV25
+       1530
+ 32
+OUT25
+       1574
+ 28
+SET25
+       1728
+ 31
+AGO25
+       1751
+ 33
+JUL25
+       1284
+ 29
+JUN25
+       2115
+ 32
+MAI25
+       2301
+ 30
+ABR25
+       2101
+ 28
+MAR25
+       1943
+ 30
+
+CONSUMO
+kWh
+       1.796,00 
+         375,00  
+
+Consumo-TUSD
+kWh
+        1.796,00 
+ 0,57575596 
+         1.034,05 
+            50,30 
+         1.034,05 
+20,00
+           206,81 
+ 0,43260000
+Consumo-TE
+kWh
+        1.796,00 
+ 0,41476788 
+           744,92 
+            36,22 
+           744,92 
+20,00
+           148,98 
+ 0,31164000
+Ilum. Púb. Municipal
+           160,39 
+Multa-NF 153134222
+            33,27 
+Juros-NF 153134222
+             2,20 
+TRIBF-IRRF(1.2%)
+            21,35-
+TRIBF-IRRF(4.8%)
+             1,70-
+TOTAL
+         1.951,78 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

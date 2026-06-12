@@ -1,126 +1,0 @@
-ROTEIRO: 001 - 0253 - -
-MATRÍCULA: 7028696-2025-12-8
-DOM. BANC.:                    DOM. ENT.:
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO/POD. PÚB. MUNICIPAL                               LIGAÇÃO: TRIFASICO
-PM JERICO ENFEITES NATALINOS
-
-PRACA REI DAMIAO - 58830000
-
-
-CENTRO
-JERICO
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Dezembro / 2025   26/01/2026   R$ 1.341,64
-                                                              Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura                           Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh                           KWH       1.467,00       0,901240      1.322,14       66,52       1.322,14   20      264,43   0,675650
-LANÇAMENTOS E SERVIÇOS
-DESPESA COM LIGAÇÃO PROVISÓRIA 12/2025                                             19,50        0,00           0,00             0,00
-
-
-
-
-                                                  TOTAL:                        1.341,64       66,52       1.322,14           264,43
-Energia ativa em kWh   Ponta   0   0   1467
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                  VENCIMENTO            Nº FATURA   TOTAL A PAGAR
-  7028696-2025-12-8              26/01/2026           7061597       R$ 1.341,64
-
-83640000013-6 41640054000-9 70286962025-3 12800253019-3
-
-
-
-(YiFrB{B{JjUrSsBvJwBvB{A|MgHeHbDjXbMgB{MsUuSg)
-Data de Apresentação: 18/12/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00070286968
-5/7028696-8
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.057,70    1,1221      11,86
-COFINS    1.057,70    5,1686      54,66
-ICMS      1.322,14     20,00     264,43
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              DEZ/25
-              NOV/25
-              OUT/25
-              SET/25
-Consumo kWh
-
-
-
-
-              AGO/25
-              JUL/25
-              JUN/25
-              MAI/25
-              ABR/25
-              MAR/25
-              FEV/25
-              JAN/25
-              DEZ/24
-1.322,14                 264,43
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-Serviço: LIGAÇÃO PROVISÓRIA
-Conforme oficio n° 154/2025 datado em 12 de dezembro de 2025. Assinado por Kadson
-Valberto Lopes Monteiro prefeito. Solicitando ligação provisória conforme anexo. Com
-ligação em 13/12/2025 e desligamento em 06/01/2026. AT. JAVS
-DIC
-FIC
-DMIC
-DICRI
-
-
-Conjunto:
-
-Referência:
-Tensão Contratada:
-Limite Adequado:     a
-Serviço de distribuição        323,33     24,10
-Compra de energia              419,27     31,25
-Serviço de transmissão          71,66      5,34
-Encargos setoriais             176,93     13,19
-Impostos diretos e encargos    330,95     24,67
-Outros serviços                 19,50      1,45
-Total                         1.341,64   100,00
-DEZ/25
-NOV/25
-OUT/25
-SET/25
-AGO/25
-JUL/25
-JUN/25
-MAI/25
-ABR/25
-MAR/25
-FEV/25
-JAN/25
-DEZ/24
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior:          Leitura Atual:     Dias:
-
-
-
-KWH   Ponta       0,00            0,00               0,00                      1.467,00          1.467,00
-
-
-
-
-                                                                    * KWTG: Dem Tusdg     * K: Const Med
-

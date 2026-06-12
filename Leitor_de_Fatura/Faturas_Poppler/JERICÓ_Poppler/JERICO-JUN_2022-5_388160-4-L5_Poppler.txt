@@ -1,102 +1,0 @@
-PM JERICO CRECHE AMELIA ROSADO CHAVIER DE SA
-
-DOMICÍLIO DE ENTREGA
-PM JERICO CRECHE AMELIA ROSADO CHAVIER DE SA
-RUA LOPES FIGUEIREDO 110
-JERICO (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
-ROTEIRO: 009 - 0253 - 700 - 4580                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5038715466                            DOM. BANC.:
-MATRÍCULA: 388160-2022-6-3                             DOM. ENT.: 9999253002
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA MANOEL DE SOUSA PEDROSA, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                     0000388160-4
-5/388160-4
-              R$ 591,25
-
-
-              Junho/2022
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2022
-              24,75 kWh
-             MÉDIA DIÁRIA
-693 kWh
-15/06/2022   04/07/2022   15/07/2022
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        693,00    0,596920    0,826800      572,98        572,98   25      143,24         429,73        2,86         13,20
-     LANÇAMENTOS E SERVIÇOS
-0805 MULTA 04/2022                                                              17,13                 0         0,00           0,00        0,00          0,00
-0804 JUROS DE MORA 04/2022                                                       1,14                 0         0,00           0,00        0,00          0,00
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         591,25        572,98           143,24         429,73        2,86         13,20
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   388160-2022-6-3           23/07/2022         87496312      R$ 591,25
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-DIC         12,00     1,89   0,00       0
-FIC          4,00     1,00   0,00    0,00
-DMIC         9,00     1,89
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                     04/2022
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                     141,07 23,86
-Compra de energia                           192,73 32,60
-Serviço de transmissão                       31,85   5,39
-Encargos setoriais                           48,03   8,12
-Impostos diretos e encargos                 177,57 30,03
-Outros serviços                               0,00   0,00
-Total                                       591,25 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2022): R$ 285,58
-0   JUN/22    693,00
-0   MAI/22    822,00
-    ABR/22    837,00
-    MAR/22    806,00
-    FEV/22    556,00
-    JAN/22    401,00
-    DEZ/21    923,00
-    NOV/21    952,00
-    OUT/21    938,00
-    SET/21    864,00
-    AGO/21    889,00
-    JUL/21    766,00
-    JUN/21    620,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 17/05/2022   Leitura Atual: 14/06/2022   Dias: 28
-
-
-KWH   Ponta   14.068,00    13.375,00      1              0                                  693,00         693,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

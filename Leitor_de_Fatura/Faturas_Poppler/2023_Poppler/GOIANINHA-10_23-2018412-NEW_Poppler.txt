@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VEREADOR RAIMUNDO LISBOA 100
+ CEMITERIO PUBLICO
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2023
+
+CÓDIGO DA INSTALAÇÃO
+2018412
+CÓDIGO DO CLIENTE
+7000245334
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT23
+       1304
+ 30
+SET23
+       1295
+ 29
+AGO23
+       1479
+ 33
+JUL23
+       1274
+ 30
+JUN23
+       1319
+ 31
+MAI23
+       1223
+ 30
+ABR23
+       1225
+ 30
+MAR23
+       1271
+ 31
+FEV23
+       1125
+ 30
+JAN23
+       1114
+ 30
+DEZ22
+       1104
+ 31
+NOV22
+       1139
+ 30
+OUT22
+        670
+ 29
+
+CONSUMO
+kWh
+       1.304,00 
+           1,00   
+
+Consumo-TUSD
+kWh
+        1.304,00 
+ 0,52318729 
+           682,23 
+            29,42 
+           682,23 
+20,00
+           136,45 
+ 0,39599000
+Consumo-TE
+kWh
+        1.304,00 
+ 0,38740619 
+           505,17 
+            21,77 
+           505,17 
+20,00
+           101,03 
+ 0,29322000
+Ilum. Púb. Municipal
+           107,84 
+Multa-NF 103943088
+            26,75 
+Juros-NF 103943088
+             6,23 
+IPCA-NF-103943088
+             1,60 
+TRIBF-IRRF(1.2%)
+            14,24-
+TRIBF-IRRF(4.8%)
+             1,63-
+TOTAL
+         1.313,95 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

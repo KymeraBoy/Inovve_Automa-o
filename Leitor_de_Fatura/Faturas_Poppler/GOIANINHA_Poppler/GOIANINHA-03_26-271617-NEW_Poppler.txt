@@ -1,0 +1,107 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA DAVID SIMONETTI 9
+ SECRETARIA DE AGRICULTURA
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+271617
+CÓDIGO DO CLIENTE
+242699017
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+        514
+ 30
+FEV26
+        617
+ 28
+JAN26
+        473
+ 32
+DEZ25
+        652
+ 31
+NOV25
+        594
+ 32
+OUT25
+        527
+ 28
+SET25
+        539
+ 31
+AGO25
+        512
+ 33
+JUL25
+        461
+ 29
+JUN25
+        588
+ 32
+MAI25
+        430
+ 30
+ABR25
+        484
+ 28
+MAR25
+        482
+ 30
+
+CONSUMO
+kWh
+         514,00  
+
+Consumo-TUSD
+kWh
+          514,00 
+ 0,57575596 
+           295,93 
+            14,39 
+           295,93 
+20,00
+            59,19 
+ 0,43260000
+Consumo-TE
+kWh
+          514,00 
+ 0,41476788 
+           213,19 
+            10,36 
+           213,19 
+20,00
+            42,63 
+ 0,31164000
+TRIBF-IRRF(1.2%)
+             6,11-
+TOTAL
+           503,01 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

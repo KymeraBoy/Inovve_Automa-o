@@ -1,0 +1,216 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 012 - 0062 - 151 - 3592
+MATRÍCULA: 1819615-2025-8-2
+DOM. BANC.:                                   DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA POCO
+
+SIT ALTO GRANDE, S/N - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Agosto / 2025   23/09/2025   R$ 492,93
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+-Consumo parcelado, sem acréscimo, por faturamento a menor ou ausência de faturamento no(s) mês(es) anterior(es) (Art.323 Res.1000 Aneel). Caso seja de seu interesse efetuar o pagamento em número menor de
+parcelas ligue para 0800 083 0196 (ligação gratuita).
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                           Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                           KWH        460,00       0,776160        357,03       15,02         357,03   20       71,40   0,588270
+Acerto Faturamento - REN1000   332 kWh                                           257,68       10,84         257,68   20       51,54
+Adic. B. Vermelha                                                                 62,04        2,61          62,04   20       12,41
+Adic. B. Vermelha                                                                 11,48        0,49          11,48   20        2,29
+LANÇAMENTOS E SERVIÇOS
+VALOR PARCELADO 00/4                                                            -195,30        0,00           0,00             0,00
+
+
+
+
+                                                  TOTAL:                         492,93       28,96         688,23           137,64
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+00008840979   Energia ativa em kWh   Ponta   20293   21093   1   460
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ITAÚ                                                         341 -7 34191.09370 83958.222933 85951.190009 5 12130000049293                                            Pague por
+
+                                                                                                                                                                     PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/09/2025
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/37839582-2
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/08/2025               1819615-2025-08-2                               DS                  N        28/08/2025                                    492,93
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA POCO                                                                                                                   08.927.105/0001-00
+SIT ALTO GRANDE, S/N     ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Receba sua conta só com o PIX
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Data de Apresentação: 03/09/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001819615-4
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+17/07/2025   19/08/2025   33   18/09/2025
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+5/1819615-4
+
+00008840979
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         550,56    0,9383       5,17
+COFINS      550,56    4,3217      23,79
+ICMS        688,23     20,00     137,64
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/25                33
+              JUL/25                30
+              JUN/25                29
+              MAI/25                32
+Consumo kWh
+
+
+
+
+              ABR/25                28
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                30
+              NOV/24                29
+              OUT/24                32
+              SET/24                30
+              AGO/24                32
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+  688,23                 137,64
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- Leitura confirmada ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+- Leitura confirmada ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+DIC         20,00      0,00   999,00   999,00
+FIC          6,00      0,00   999,00   999,00
+DMIC        15,00      0,00
+DICRI       26,00
+
+
+Conjunto:    Araruna
+
+Referência:                        06/2025
+Tensão Contratada:
+Limite Adequado:                 350 a 399
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+Serviço de distribuição                     146,52    21,29
+Compra de energia                           228,79    33,24
+Serviço de transmissão                       32,45     4,71
+Encargos setoriais                          113,87    16,55
+Impostos diretos e encargos                 166,60    24,21
+Outros serviços                               0,00     0,00
+Total                                       688,23   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 65,12
+
+===== FIM_PAGINA_17 | INICIO_PAGINA_18 =====
+
+AGO/25    460,00
+JUL/25    315,00 *
+JUN/25    299,00 *
+MAI/25    231,00
+ABR/25    295,00
+MAR/25    233,00
+FEV/25    185,00
+JAN/25    487,00
+DEZ/24    352,00
+NOV/24    391,00
+OUT/24    405,00
+SET/24    188,00
+AGO/24    260,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_18 | INICIO_PAGINA_19 =====
+
+              Leitura Anterior: 17/07/2025      Leitura Atual: 19/08/2025   Dias: 33
+
+
+
+KWH   Ponta   21.093,00      20.293,00       1,00                                                  460,00            460,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med

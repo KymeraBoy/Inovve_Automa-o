@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA NEWTON DE ARAUJO LIMA 815
+ ITAPERUBU/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2022
+
+CÓDIGO DA INSTALAÇÃO
+273264
+CÓDIGO DO CLIENTE
+7000768671
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV22
+         84
+ 30
+OUT22
+         79
+ 29
+SET22
+         92
+ 33
+AGO22
+        164
+ 30
+JUL22
+        131
+ 32
+JUN22
+        104
+ 29
+MAI22
+        150
+ 30
+ABR22
+        103
+ 32
+MAR22
+         69
+ 31
+FEV22
+         65
+ 28
+JAN22
+        125
+ 32
+DEZ21
+         83
+ 29
+NOV21
+         98
+ 29
+
+CONSUMO
+kWh
+   84,00 
+
+Consumo-TUSD
+kWh
+           84,00 
+ 0,48989591 
+            41,15 
+             1,87 
+            41,15 
+18,00
+             7,41 
+ 0,37954000
+Consumo-TE
+kWh
+           84,00 
+ 0,36440800 
+            30,61 
+             1,37 
+            30,61 
+18,00
+             5,50 
+ 0,28232000
+Ilum. Púb. Municipal
+             8,33 
+Multa-NF 086372921
+             1,55 
+Juros-NF 086372921
+             0,35 
+IPCA-NF-084824841
+             0,63 
+IPCA-NF-086372921
+             0,22 
+TOTAL
+            82,84 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

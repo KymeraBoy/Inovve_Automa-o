@@ -3,6 +3,7 @@
 # ============================================================== #
 
 import os
+import re
 import subprocess
 import sys
 
@@ -53,10 +54,41 @@ def run_pdftotext(input_pdf, output_txt):
     try:
         # O argumento '-layout' preserva a estrutura visual do texto
         subprocess.run([PATH_POPPLER_EXE, "-layout", "-enc", "UTF-8", input_pdf, output_txt], check=True)
+        inserir_divisorias_paginas_txt(output_txt)
         return True
     except Exception as e:
         print(f"Erro ao converter {input_pdf}: {e}")
         return False
+
+
+def inserir_divisorias_paginas_txt(caminho_txt):
+    """Insere divisorias legiveis entre paginas em arquivos de texto do Poppler."""
+    if not os.path.exists(caminho_txt):
+        return
+
+    with open(caminho_txt, "r", encoding="utf-8", errors="replace") as arquivo:
+        conteudo = arquivo.read()
+
+    # O pdftotext separa paginas por \f; mantemos o texto original e inserimos marcadores entre paginas.
+    paginas = [pagina.strip("\r\n") for pagina in conteudo.replace("\r\n", "\n").split("\f") if pagina.strip()]
+    if len(paginas) <= 1:
+        return
+
+    separadas = []
+    for indice, pagina in enumerate(paginas, start=1):
+        separadas.append(pagina)
+        if indice < len(paginas):
+            separadas.append(f"\n===== FIM_PAGINA_{indice} | INICIO_PAGINA_{indice + 1} =====\n")
+
+    with open(caminho_txt, "w", encoding="utf-8") as arquivo:
+        arquivo.write("\n".join(separadas).strip() + "\n")
+
+
+def normalizar_nome_por_tag(nome_arquivo, tag, nova_extensao=None):
+    nome_base, ext = os.path.splitext(nome_arquivo)
+    nome_limpo = re.sub(r"(?:_(?:Cropped|Poppler))+\Z", "", nome_base, flags=re.IGNORECASE)
+    extensao = nova_extensao if nova_extensao is not None else ext
+    return f"{nome_limpo}_{tag}{extensao}"
 
 def format_progress_bar(current, total, width=30):
     """Cria uma barra textual de progresso com preenchimento proporcional."""
@@ -88,6 +120,93 @@ def renomear_pdfs_em_ordem(src_dir):
         arquivos_renomeados.append(final_path.name)
 
     return arquivos_renomeados
+
+
+def listar_pdfs_disponiveis(src_dir):
+    return sorted(
+        [file_path.name for file_path in src_dir.iterdir() if file_path.is_file() and file_path.suffix.lower() == ".pdf"]
+    )
+
+
+def processar_cropper(
+    src_dir,
+    selected_template_name,
+    selected_template,
+    selected_files=None,
+    progress_callback=None,
+    log_callback=None,
+    gerar_txt=True,
+    limpar_saida=False,
+):
+    dst_dir = PATH_CROPPED / f"{src_dir.name}_Cropped"
+    txt_dir = PATH_POPPLER / f"{src_dir.name}_Poppler"
+    os.makedirs(dst_dir, exist_ok=True)
+    os.makedirs(txt_dir, exist_ok=True)
+
+    if limpar_saida:
+        for pasta in (dst_dir, txt_dir):
+            for item in Path(pasta).iterdir():
+                if item.is_file():
+                    item.unlink()
+
+    arquivos = selected_files or listar_pdfs_disponiveis(src_dir)
+    if not arquivos:
+        raise ValueError("Nenhum PDF disponível para processamento.")
+
+    poppler_disponivel = os.path.exists(PATH_POPPLER_EXE)
+    if not poppler_disponivel and log_callback:
+        log_callback(f"Aviso: pdftotext não encontrado em {PATH_POPPLER_EXE}. A conversão para txt será ignorada.")
+
+    resultados = []
+    for idx, file_name in enumerate(arquivos, start=1):
+        input_file = src_dir / file_name
+        output_file = os.path.join(dst_dir, f"{os.path.splitext(file_name)[0]}_Cropped.pdf")
+
+        if log_callback:
+            log_callback(f"Processando {file_name} com template {selected_template_name}...")
+
+        cropped_pdf_path = output_file
+        if selected_template_name == "ENEL":
+            cropped_pdf_path = cropper_logic_enel(str(input_file), output_file, selected_template)
+        elif selected_template_name == "ENERGISA":
+            cropped_pdf_path = cropper_logic_energisa(str(input_file), output_file, selected_template)
+        elif selected_template_name == "NEOENERGIA":
+            cropped_pdf_path = cropper_logic_neoenergiaPE(
+                str(input_file),
+                output_file,
+                selected_template,
+                output_poppler_dir=txt_dir,
+            )
+
+        txt_path = ""
+        if gerar_txt and poppler_disponivel and cropped_pdf_path and os.path.exists(cropped_pdf_path):
+            txt_name = normalizar_nome_por_tag(os.path.basename(cropped_pdf_path), "Poppler", ".txt")
+            txt_path = os.path.join(txt_dir, txt_name)
+            if log_callback:
+                log_callback(f"Convertendo para txt: {os.path.basename(cropped_pdf_path)} -> {txt_name}")
+            run_pdftotext(cropped_pdf_path, txt_path)
+
+        resultados.append(
+            {
+                "arquivo": file_name,
+                "cropped_pdf": cropped_pdf_path,
+                "txt": txt_path,
+                "sucesso": bool(cropped_pdf_path and os.path.exists(cropped_pdf_path)),
+            }
+        )
+
+        if progress_callback:
+            progress_callback(idx, len(arquivos), file_name)
+
+    return {
+        "origem": src_dir,
+        "cropped_dir": dst_dir,
+        "poppler_dir": txt_dir,
+        "resultados": resultados,
+        "processados": len(resultados),
+        "sucesso": sum(1 for item in resultados if item["sucesso"]),
+        "falhas": sum(1 for item in resultados if not item["sucesso"]),
+    }
 
 # ============================================================== #
 # EXECUÇÃO
@@ -146,10 +265,15 @@ def integralaiser_orchestrator():
         if selected_template_name == "ENERGISA":
             cropped_pdf_path = cropper_logic_energisa(input_file, output_file, selected_template)
         if selected_template_name == "NEOENERGIA":
-            cropped_pdf_path = cropper_logic_neoenergiaPE(input_file, output_file, selected_template)
+            cropped_pdf_path = cropper_logic_neoenergiaPE(
+                input_file,
+                output_file,
+                selected_template,
+                output_poppler_dir=txt_dir,
+            )
 
         if poppler_disponivel and cropped_pdf_path and os.path.exists(cropped_pdf_path):
-            txt_name = os.path.basename(cropped_pdf_path).replace("Cropped", "Poppler").replace(".pdf", ".txt")
+            txt_name = normalizar_nome_por_tag(os.path.basename(cropped_pdf_path), "Poppler", ".txt")
             output_txt = os.path.join(txt_dir, txt_name)
             print(f"Convertendo para txt: {os.path.basename(cropped_pdf_path)} -> {txt_name}")
             run_pdftotext(cropped_pdf_path, output_txt)

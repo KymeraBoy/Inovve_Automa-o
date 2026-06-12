@@ -1,0 +1,107 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA ABDON GRILO 16
+ CRECHE ISAURA GON ALVES
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+274650
+CÓDIGO DO CLIENTE
+242706013
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+        341
+ 31
+FEV23
+        177
+ 28
+JAN23
+        289
+ 32
+DEZ22
+        455
+ 29
+NOV22
+        436
+ 30
+OUT22
+        464
+ 31
+SET22
+        424
+ 31
+AGO22
+        461
+ 32
+JUL22
+        302
+ 31
+JUN22
+        442
+ 28
+MAI22
+        508
+ 33
+ABR22
+        501
+ 29
+MAR22
+        424
+ 30
+
+CONSUMO
+kWh
+  341,00 
+
+Consumo-TUSD
+kWh
+          341,00 
+ 0,48819075 
+           166,47 
+             7,09 
+           166,47 
+18,00
+            29,97 
+ 0,37954000
+Consumo-TE
+kWh
+          341,00 
+ 0,36313962 
+           123,83 
+             5,26 
+           123,83 
+18,00
+            22,28 
+ 0,28232000
+IPCA-NF-092723840
+             0,04 
+TOTAL
+           290,34 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,215 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 017 - 0062 - 179 - 2238
+MATRÍCULA: 0002201589-2025-08-3
+DOM. BANC.:                                    DOM. ENT.: 9999062001
+SEGUNDA VIA
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                                 LIGAÇÃO: TRIFASICO
+
+
+TENSÃO NOMINAL EM VOLTS      DISP:   220          Lim. Min.: 202          Lim. Max.: 231
+
+
+PM ARARUNA VILA OLIMPICA
+
+SIT BALANCO, S/N - ROD PB 111 - 58233000
+
+
+CENTRO                                                                    5/2201589-5
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF: 0X.XXX.XXX/XXX1-00                                              W0005314554
+Insc. Est.:
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+28/07/2025   27/08/2025          30
+
+
+
+              NOTA FISCAL Nº: 006.302.7
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+                  Agosto / 2025
+
+
+
+
+Itens da Fatura
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+23/09/2025                    R$ 1.286,82
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+3252500017673842 - 29/08/2025 10:57:15
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+     PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS       1.029,43    0,9383      9,65
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+                                                                                                                                                   PIS                 1.029,43   0,9383
+Consumo em kWh                                KWH     1.469,00   0,776160   1.140,18    47,98   1.140,18    20           228,03      0,588270
+                                                                                                                                                   COFINS              1.029,43   4,3217
+Energia Reativa Exced em KWh                  UN          2,00   0,302720       0,60     0,02        0,60   20             0,12      0,229440
+                                                                                                                                                   ICMS                1.286,82    20,00
+Adic. B. Vermelha                                                            137,39      5,78     137,39    20            27,48
+Adic. B. Vermelha                                                               8,65     0,36        8,65   20             1,73
+
+
+                                                                                                                                                               CONSUMO FATURADO
+
+                                                                                                                                                              AGO/25
+                                                                                                                                                              JUL/25
+                                                                                                                                                              JUN/25
+                                                                                                                                                              MAI/25
+
+
+
+
+                                                                                                                                                Consumo kWh
+                                                                                                                                                              ABR/25
+                                                                                                                                                              MAR/25
+                                                                                                                                                              FEV/25
+                                                                                                                                                              JAN/25
+                                                                                                                                                              DEZ/24
+                                                                                                                                                              NOV/24
+                                                                                                                                                              OUT/24
+                                                                                                                                                              SET/24
+                                                                                                                                                              AGO/24
+
+
+
+
+                                                     TOTAL:                 1.286,82    54,14   1.286,82                 257,36
+
+
+
+
+    W0005314554       Energia ativa em kWh   Ponta      98189      99623        1      1469     Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ITAÚ                                                         341 -7 34191.09388 31792.782935 85951.190009 1 12130000128682                                            Pague por
+
+                                                                                                                                                                     PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/09/2025
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/38317927-8
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+29/08/2025               2201589-2025-08-3                               DS                  N        29/08/2025                                  1.286,82
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA VILA OLIMPICA                                                                                                          08.927.105/0001-00
+SIT BALANCO, S/N - ROD PB 111     ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Receba sua conta só com o PIX
+                                                                                                                                                               Cadastre-se em nossos canais
+                                                                                                                         Ficha de Compensação
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+.
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+DIC         10,00      0,00   999,00   999,0
+FIC          4,00      0,00   999,00   999,0
+DMIC         7,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                        06/2025
+Tensão Contratada:                     220
+Limite Adequado:                 202 a 231
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+Serviço de distribuição                      273,97     21,2
+Compra de energia                            427,78     33,2
+Serviço de transmissão                        60,66      4,7
+Encargos setoriais                           212,91     16,5
+Impostos diretos e encargos                  311,50     24,2
+Outros serviços                                 0,00     0,0
+Total                                       1.286,82   100,0
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 355,48
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+9,00   AGO/25   1.469,00                          2,00
+9,00   JUL/25   2.103,00                          4,00
+       JUN/25   1.632,00                          2,00
+       MAI/25   1.261,00                          6,00
+       ABR/25   1.357,00                          3,00
+       MAR/25   1.209,00                          2,00
+       FEV/25   1.233,00                          4,00
+25     JAN/25   1.378,00                          4,00
+ 0     DEZ/24   1.348,00                          6,00
+31     NOV/24   1.351,00                         13,00
+       OUT/24   1.308,00                         16,00
+       SET/24   1.166,00                         14,00
+       AGO/24   1.361,00                         13,00
+
+
+
+                *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                    Leitura Anterior: 28/07/2025      Leitura Atual: 27/08/2025          Dias: 30
+
+
+
+,29   KWH   Ponta   99.623,00      98.189,00       1,00           2,50            0,00               0,00      1.469,00           1.46
+,24   ERE   Ponta      966,00         964,00       1,00           2,50            0,00               0,00          2,00
+,71
+,55
+,21
+,00
+,00
+
+
+
+
+                                                                                                    * KWTG: Dem Tusdg     * K: Const Me

@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA MANOEL CLAUDIO BEZERRA 110
+ GRUPO ESCOLAR JOAO MANDU
+ UNA/UNA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+278485
+CÓDIGO DO CLIENTE
+242703014
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        697
+ 33
+DEZ25
+       1516
+ 31
+NOV25
+       1278
+ 29
+OUT25
+       1152
+ 31
+SET25
+       1108
+ 31
+AGO25
+       1144
+ 33
+JUL25
+        755
+ 29
+JUN25
+       1286
+ 30
+MAI25
+       1251
+ 32
+ABR25
+       1264
+ 28
+MAR25
+        876
+ 30
+FEV25
+        615
+ 32
+JAN25
+        796
+ 29
+
+CONSUMO
+kWh
+         697,00  
+         587,00  
+
+Consumo-TUSD
+kWh
+          697,00 
+ 0,57618540 
+           401,60 
+            19,77 
+           401,60 
+20,00
+            80,32 
+ 0,43260000
+Consumo-TE
+kWh
+          697,00 
+ 0,41507725 
+           289,30 
+            14,22 
+           289,30 
+20,00
+            57,86 
+ 0,31164000
+Acrés. Band. AMARELA
+            13,78 
+             0,67 
+            13,78 
+20,00
+             2,75 
+Multa-NF 149199715
+            26,75 
+Juros-NF 149199715
+            10,25 
+IPCA-NF-149199715
+             3,27 
+TRIBF-IRRF(1.2%)
+             8,46-
+TRIBF-IRRF(4.8%)
+             1,93-
+TOTAL
+           734,56 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

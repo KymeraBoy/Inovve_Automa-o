@@ -1,0 +1,86 @@
+CONTA CONTRATO
+7008513346
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+275779
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PRINCIPAL 126
+CRECHE MUNICIPAL IRENE LISBOA
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        604
+JUL 22
+        530
+JUN 22
+        698
+MAI 22
+        669
+ABR 22
+        751
+MAR 22
+        346
+FEV 22
+        165
+JAN 22
+        219
+DEZ 21
+        223
+NOV 21
+        215
+OUT 21
+        194
+SET 21
+        205
+AGO 21
+        199
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  604,00 
+  299,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       604,0000000 
+ 0,48777928 
+           294,61 
+Consumo Ativo(kWh)-TE                        
+       604,0000000 
+ 0,36271252 
+           219,07 
+Contrib. Ilum. Pública Municipal             
+            48,17 
+Atualizacao IPCA-NF 081654377 - 28.06.22     
+             0,19 
+TOTAL DA FATURA
+           562,04 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7008513346
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           562,04 
+VENCIMENTO
+20/09/2022

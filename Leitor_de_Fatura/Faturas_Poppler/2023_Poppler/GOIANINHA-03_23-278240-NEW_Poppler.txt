@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA JOSE HONORIO DE CARVALHO 100
+ POSTO DE SAUDE
+ ITAPERUBU/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2023
+
+CÓDIGO DA INSTALAÇÃO
+278240
+CÓDIGO DO CLIENTE
+855301520
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR23
+        665
+ 29
+FEV23
+        584
+ 30
+JAN23
+        426
+ 32
+DEZ22
+        567
+ 29
+NOV22
+        614
+ 30
+OUT22
+        631
+ 29
+SET22
+        653
+ 33
+AGO22
+        546
+ 30
+JUL22
+        522
+ 32
+JUN22
+        478
+ 29
+MAI22
+        651
+ 30
+ABR22
+        633
+ 32
+MAR22
+        621
+ 31
+
+CONSUMO
+kWh
+  665,00 
+  250,00 
+
+Consumo-TUSD
+kWh
+          665,00 
+ 0,48819075 
+           324,64 
+            13,81 
+           324,64 
+18,00
+            58,44 
+ 0,37954000
+Consumo-TE
+kWh
+          665,00 
+ 0,36313962 
+           241,48 
+            10,27 
+           241,48 
+18,00
+            43,46 
+ 0,28232000
+Ilum. Púb. Municipal
+            52,81 
+IPCA-NF-092723874
+             0,05 
+TOTAL
+           618,98 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,92 @@
+CONTA CONTRATO
+0242755014
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+275608
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PRINCIPAL 116
+PO O
+LAGOA DO POCO/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        996
+JUL 22
+       1064
+JUN 22
+       1006
+MAI 22
+       1126
+ABR 22
+       1284
+MAR 22
+       1099
+FEV 22
+       1078
+JAN 22
+       1242
+DEZ 21
+       1106
+NOV 21
+       1149
+OUT 21
+       1120
+SET 21
+       1006
+AGO 21
+       1015
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  996,00 
+  751,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       996,0000000 
+ 0,47314590 
+           471,25 
+Consumo Ativo(kWh)-TE                        
+       996,0000000 
+ 0,35183114 
+           350,42 
+Cobrança de ICMS sobre Subvenção CDE         
+             4,57 
+Multa por atraso-NF 081654341 - 28/06/22     
+            16,65 
+Juros por atraso-NF 081654341 - 28/06/22     
+             5,82 
+Atualizacao IPCA-NF 080049043 - 27.05.22     
+            10,31 
+Atualizacao IPCA-NF 081654341 - 28.06.22     
+             5,77 
+TOTAL DA FATURA
+           864,79 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242755014
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           864,79 
+VENCIMENTO
+20/09/2022

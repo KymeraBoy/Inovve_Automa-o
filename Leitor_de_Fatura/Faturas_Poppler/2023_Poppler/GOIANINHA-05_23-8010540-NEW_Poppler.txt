@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO ANA SE 999999
+ ANA SE/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+8010540
+CÓDIGO DO CLIENTE
+7018978983
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+        239
+ 30
+ABR23
+        253
+ 30
+MAR23
+        259
+ 31
+FEV23
+        239
+ 30
+JAN23
+        223
+ 30
+DEZ22
+        180
+ 31
+NOV22
+        145
+ 30
+OUT22
+        130
+ 29
+SET22
+         53
+ 33
+AGO22
+         30
+ 30
+JUL22
+         30
+ 29
+JUN22
+         30
+ 32
+MAI22
+         30
+ 30
+
+CONSUMO
+kWh
+  239,00 
+
+Consumo-TUSD
+kWh
+          239,00 
+ 0,52396263 
+           125,22 
+             5,54 
+           125,22 
+20,00
+            25,04 
+ 0,39599000
+Consumo-TE
+kWh
+          239,00 
+ 0,38798031 
+            92,72 
+             4,09 
+            92,72 
+20,00
+            18,54 
+ 0,29322000
+Ilum. Púb. Municipal
+            24,70 
+Multa-NF 095935785
+             4,40 
+Juros-NF 095935785
+             0,87 
+IPCA-NF-095935785
+             0,41 
+TOTAL
+           248,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

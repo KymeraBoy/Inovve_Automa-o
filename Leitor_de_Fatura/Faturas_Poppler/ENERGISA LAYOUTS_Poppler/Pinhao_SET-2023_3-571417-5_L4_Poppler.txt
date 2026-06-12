@@ -1,149 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE PINHÃO
-RUA SIMAO DIAS S/N - CENTRO
-PINHAO SE (AG: 30)
-
-ROTEIRO: 014 - 0140 - 310 - 0081
-MATRÍCULA: 571417-2023-9-6
-DOM. BANC.:                        DOM. ENT.: 140
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 SERVIÇO
-PÚBLICO / ÁGUA, ESGOTO E SANEAMENTO                         LIGAÇÃO: BIFASICO
-POCO ARTESIANO MUNICIPAL
-
-POV PARACATU, S/N - SERVICO PUBLICO - 49517000
-
-
-AREA RURAL
-PINHAO (AG: 30)
-
-
-CNPJ/CPF/RANI: 1X.XXX.XXX/XXX1-67
-Insc. Est.:
-Setembro / 2023   21/10/2023   R$ 34,97
-                                                  Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                 Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Custo de Disponibilidade                                               34,15        1,28           0,00   0        0,00
-LANÇAMENTOS E SERVIÇOS
-ATUALIZAÇÃO MONETÁRIA 07/2023                                           0,01
-MULTA 07/2023                                                           0,70
-JUROS DE MORA 07/2023                                                   0,11
-
-
-
-
-                                        TOTAL:                         34,97        1,28           0,00            0,00
-A2003716329   Energia ativa em kWh   Ponta   7800   7800   1   0
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   571417-2023-9-6               21/10/2023      721978          R$ 34,97
-
-CONTA PAGA - Data de Pagamento: 31/10/2023
-Data de Apresentação: 03/10/2023
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000571417-5
-23/08/2023   22/09/2023   30   24/10/2023
-3/571417-5
-
-A2003716329
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          34,15    0,6671      0,23
-COFINS       34,15    3,0729      1,05
-ICMS          0,00       0,00     0,00
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              SET/23                30
-              AGO/23                30
-              JUL/23                32
-              JUN/23                30
-Consumo kWh
-
-
-
-
-              MAI/23                29
-              ABR/23                32
-              MAR/23                29
-              FEV/23                30
-              JAN/23                32
-              DEZ/22                29
-              NOV/22                30
-              OUT/22                31
-              SET/22                30
-     0,00                  0,00
-
-
-
-
-Alínea g, inciso IV do Art. 40 do RICMS/SE - 2002
-- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
-atraso, o fornecimento poderá ser suspenso a partir de 18/10/2023. Conforme
-Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
-da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
-contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
-efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
-- -Atenção: A responsabilidade pela iluminação pública é da prefeitura do município.
-- -No São João, importunação não é tradição! Respeita as Minina! Denuncie: Ligue 190!
--Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
-- -Atenção: A responsabilidade pela iluminação pública é da prefeitura do município.
-- -No São João, importunação não é tradição! Respeita as Minina! Denuncie: Ligue 190!
-DIC         20,00    0,91   999,00   999,00
-FIC          6,00    1,00   999,00   999,00
-DMIC        15,00    0,91
-DICRI       26,00
-
-
-Conjunto:    FREI PAULO
-
-Referência:                      07/2023
-Tensão Contratada:
-Limite Adequado:                117 a 133
-Serviço de distribuição                     12,00    34,31
-Compra de energia                           13,25    37,89
-Serviço de transmissão                       2,33     6,66
-Encargos setoriais                           5,29    15,13
-Impostos diretos e encargos                  2,10     6,01
-Outros serviços                              0,00     0,00
-Total                                       34,97   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 07/2023): R$ 13,36
-Sujeito a corte!
- Reaviso de vencimento:
-Seu fornecimento poderá ser suspenso a partir de
-18/10/2023.
-Regularize seus débitos.
-
-   FATURAS EM ATRASO
-  21/09/2023      22,00
-SET/23      0,00 *
-AGO/23     50,00 *
-JUL/23     50,00
-JUN/23     50,00 *
-MAI/23     50,00 *
-ABR/23     50,00 *
-MAR/23     50,00 *
-FEV/23     50,00 *
-JAN/23     50,00 *
-DEZ/22      0,00
-NOV/22     50,00 *
-OUT/22      0,00
-SET/22     50,00 *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 23/08/2023      Leitura Atual: 22/09/2023   Dias: 30
-
-
-
-KWH   Ponta    7.800,00       7.800,00       1,00                                                     0,00             50,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

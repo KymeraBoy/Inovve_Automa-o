@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242730011
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273617
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BATISTA DE SOUZA 757
+ESCOLA MUNICIPAL JOAO GADEL
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        669
+JUN 22
+        775
+MAI 22
+       1284
+ABR 22
+       1147
+MAR 22
+        958
+FEV 22
+        302
+JAN 22
+        235
+DEZ 21
+        715
+NOV 21
+        661
+OUT 21
+        578
+SET 21
+        374
+AGO 21
+        271
+JUL 21
+        238
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  669,00 
+  406,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       669,0000000 
+ 0,49205726 
+           329,18 
+Consumo Ativo(kWh)-TE                        
+       669,0000000 
+ 0,36574530 
+           244,68 
+Multa por atraso-NF 081654332 - 28/06/22     
+            13,23 
+Juros por atraso-NF 081654332 - 28/06/22     
+             0,21 
+TOTAL DA FATURA
+           587,30 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242730011
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           587,30 
+VENCIMENTO
+22/08/2022

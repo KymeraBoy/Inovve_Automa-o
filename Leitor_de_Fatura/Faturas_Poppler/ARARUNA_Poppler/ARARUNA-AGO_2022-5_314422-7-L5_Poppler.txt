@@ -1,0 +1,167 @@
+PM ARARUNA CRECHE MARIA TECLA DA SILVA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CRECHE MARIA TECLA DA SILVA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 010 - 0062 - 010 - 2560                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000325874                            DOM. BANC.:
+MATRÍCULA: 314422-2022-8-2                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+TRAV CASTRO PINTO, S/N - 58233000
+CENTRO
+ARARUNA (AG: 62)
+
+
+
+                                                                     0000314422-7
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+5/314422-7
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+       R$ 67,30
+
+
+       Agosto/2022
+CNPJ/CPF/RANI: 08.927.105/0001-00
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+        23/09/2022
+                                  2,97 kWh
+                                MÉDIA DIÁRIA
+      89 kWh
+
+
+ab4b.610c.0ef1.dc0e.ead9.dceb.b348.2d59
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+18/08/2022   02/09/2022   16/09/2022
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                         89,00    0,596920    0,756230       67,30         67,30   18      12,11          55,18        0,36          1,69
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          67,30         67,30           12,11          55,18        0,36          1,69
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+BANCO DO BRASIL S A                                              001 -9       00190.00009 03268.926007 55458.679176 1 91170000006730                               Promoção 1 Ano Por Nossa Conta
+LOCAL DE PAGAMENTO
+                                                                                                                                                                    Pague com QR Code do PIX e
+                                                                                                                                     VENCIMENTO
+PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A                                                                                                    23/09/2022      concorra a 1 Ano de Energia Grátis.
+BENEFICIÁRIO                                                                                                                CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                                                                                  Use seu app de pagamento favorito,
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                                   09.095.183/0001-40                                    escolha "Pagar com PIX", leia
+ENDEREÇO                                                                                                                             NOSSO NÚMERO
+                                                                                                                                                                   o QR Code abaixo e cadastre-se:
+BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680                                                               32689260055458679                www.anodeconta.com.br
+DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+18/08/2022                 314422-2022-08-2                                  DS                  N        18/08/2022                                     67,30
+                                                                                                                                     (-) DESCONTOS/
+                                     CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                      ABATIMENTOS
+INSTRUÇÕES                                                                                                                           (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                     (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                     ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                     (=) VALOR
+                                                                                                                                     COBRADO
+
+PAGADOR                                                                                                                                               CPF/CNPJ
+PM ARARUNA CRECHE MARIA TECLA DA SILVA                                                                                                08.927.105/0001-00
+TRAV CASTRO PINTO, S/N - 58233000 ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                  AUTENTICAÇÃO MECÂNICA           Quer facilidade?
+
+
+
+
+(B{SgSgWdA|B{B{DwKkB{B{B{LiGsSmGsB{XqJsSwCoQh)
+                                                                                                                                                                  Abra sua Conta Voltz - Energisa e
+                                                                                                                                                                  tenha vantagens exclusivas!
+                                                                                                                             Ficha de Compensação                 Entenda melhor em
+                                                                                                                                                                  contavoltz.com/pix
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+DIC         12,00      0,00   0,00       0
+FIC          4,00      0,00   0,00    0,00
+DMIC         9,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                      06/2022
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Serviço de distribuição                     13,26 19,70
+Compra de energia                           23,50 34,92
+Serviço de transmissão                       3,45   5,13
+Encargos setoriais                          12,93 19,21
+Impostos diretos e encargos                 14,16 21,04
+Outros serviços                              0,00   0,00
+Total                                       67,30 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2022): R$ 33,09
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+0   AGO/22     89,00
+0   JUL/22     89,00
+    JUN/22     97,00
+    MAI/22    111,00
+    ABR/22    108,00
+    MAR/22     26,00
+    FEV/22     76,00 *
+    JAN/22     84,00
+    DEZ/21     68,00 *
+    NOV/21     97,00
+    OUT/21     97,00
+    SET/21     23,00
+    AGO/21      3,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                 Leitura Anterior: 18/07/2022   Leitura Atual: 17/08/2022   Dias: 30
+
+
+KWH   Ponta   71.734,00    71.645,00      1              0                                   89,00          89,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

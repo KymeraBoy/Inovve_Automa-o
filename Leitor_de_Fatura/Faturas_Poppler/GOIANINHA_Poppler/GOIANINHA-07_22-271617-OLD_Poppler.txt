@@ -1,0 +1,87 @@
+CONTA CONTRATO
+0242699017
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+271617
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DAVID SIMONETTI 9
+SECRETARIA DE AGRICULTURA
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+         30
+JUN 22
+         30
+MAI 22
+         30
+ABR 22
+       6721
+MAR 22
+         30
+FEV 22
+         30
+JAN 22
+         30
+DEZ 21
+        364
+NOV 21
+        543
+OUT 21
+        503
+SET 21
+        468
+AGO 21
+        517
+JUL 21
+        510
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+    0,00 
+
+Consumo Ativo(kWh)-TUSD                      
+        30,0000000 
+ 0,49526551 
+            14,85 
+Consumo Ativo(kWh)-TE                        
+        30,0000000 
+ 0,36794674 
+            11,03 
+Multa por atraso-NF 080049019 - 27/05/22     
+             0,48 
+Multa por atraso-NF 081654317 - 28/06/22     
+             0,50 
+Juros por atraso-NF 080049019 - 27/05/22     
+             0,28 
+TOTAL DA FATURA
+            27,14 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242699017
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+            27,14 
+VENCIMENTO
+22/08/2022

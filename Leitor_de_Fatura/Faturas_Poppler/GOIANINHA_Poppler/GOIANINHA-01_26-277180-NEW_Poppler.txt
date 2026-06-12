@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI MIRANDA 999
+ POCO TUBULAR DE MIRANDA
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+277180
+CÓDIGO DO CLIENTE
+850953481
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        100
+ 32
+DEZ25
+        100
+ 31
+NOV25
+        100
+ 29
+OUT25
+        100
+ 32
+SET25
+       1219
+ 30
+AGO25
+       1219
+ 32
+JUL25
+       1219
+ 30
+JUN25
+       1219
+ 30
+MAI25
+       1219
+ 31
+ABR25
+       1219
+ 30
+MAR25
+       1219
+ 29
+FEV25
+       1146
+ 29
+JAN25
+       1233
+ 32
+
+CONSUMO
+kWh
+         100,00  
+           0,00   
+
+Consumo-TUSD
+kWh
+          100,00 
+ 0,57618540 
+            57,61 
+             2,84 
+            57,61 
+20,00
+            11,52 
+ 0,43260000
+Consumo-TE
+kWh
+          100,00 
+ 0,41507725 
+            41,50 
+             2,03 
+            41,50 
+20,00
+             8,30 
+ 0,31164000
+Acrés. Band. AMARELA
+             0,38 
+             0,01 
+             0,38 
+20,00
+             0,07 
+Multa-NF 149199744
+             2,08 
+Juros-NF 149199744
+             0,48 
+IPCA-NF-149199744
+             0,15 
+TRIBF-IRRF(1.2%)
+             1,19-
+TRIBF-IRRF(4.8%)
+             0,12-
+TOTAL
+           100,89 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,86 @@
+CONTA CONTRATO
+7009337029
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2531339
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA INALDO BARBALHO 281818
+UNIDADE BASICA DE SAUDE
+SAPUCAIA/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+       1003
+MAI 22
+       1048
+ABR 22
+       1053
+MAR 22
+       1082
+FEV 22
+       1141
+JAN 22
+       1052
+DEZ 21
+       1181
+NOV 21
+       1030
+OUT 21
+       1128
+SET 21
+        856
+AGO 21
+       1336
+JUL 21
+       1705
+JUN 21
+       1661
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.003,00 
+   51,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.003,0000000 
+ 0,48974766 
+           491,21 
+Consumo Ativo(kWh)-TE                        
+     1.003,0000000 
+ 0,36384738 
+           364,93 
+Contrib. Ilum. Pública Municipal             
+            80,90 
+Atualizacao IPCA-NF 078485678 - 28.04.22     
+             1,88 
+TOTAL DA FATURA
+           938,92 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7009337029
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           938,92 
+VENCIMENTO
+20/07/2022

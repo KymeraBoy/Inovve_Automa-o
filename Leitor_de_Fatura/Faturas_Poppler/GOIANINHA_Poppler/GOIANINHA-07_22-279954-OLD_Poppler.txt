@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242733010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+279954
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA PRINCIPAL GUARIBA 120
+ESCOLA MUN ADALIA DIAS
+GUARIBA/GUARIBA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        322
+JUN 22
+        478
+MAI 22
+        458
+ABR 22
+        699
+MAR 22
+        738
+FEV 22
+        402
+JAN 22
+        283
+DEZ 21
+        590
+NOV 21
+        519
+OUT 21
+        550
+SET 21
+        314
+AGO 21
+        243
+JUL 21
+        188
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  322,00 
+   95,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       322,0000000 
+ 0,49145305 
+           158,24 
+Consumo Ativo(kWh)-TE                        
+       322,0000000 
+ 0,36533070 
+           117,63 
+Multa por atraso-NF 081654334 - 28/06/22     
+             8,15 
+Juros por atraso-NF 081654334 - 28/06/22     
+             0,12 
+TOTAL DA FATURA
+           284,14 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242733010
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           284,14 
+VENCIMENTO
+22/08/2022

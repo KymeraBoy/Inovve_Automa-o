@@ -1,0 +1,92 @@
+CONTA CONTRATO
+0856085023
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+274095
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VEREADOR RAIMUNDO LISBOA 10
+CENTRO DE VELORIO MUNICIPAL
+ESTACAO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        132
+JUN 22
+        136
+MAI 22
+        134
+ABR 22
+        143
+MAR 22
+        145
+FEV 22
+        137
+JAN 22
+        152
+DEZ 21
+        148
+NOV 21
+        182
+OUT 21
+        138
+SET 21
+        141
+AGO 21
+        118
+JUL 21
+        100
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  132,00 
+   44,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       132,0000000 
+ 0,49145305 
+            64,87 
+Consumo Ativo(kWh)-TE                        
+       132,0000000 
+ 0,36533070 
+            48,22 
+Contrib. Ilum. Pública Municipal             
+            13,20 
+Multa por atraso-NF 080049060 - 27/05/22     
+             2,26 
+Multa por atraso-NF 081654358 - 28/06/22     
+             2,32 
+Juros por atraso-NF 080049060 - 27/05/22     
+             1,36 
+Juros por atraso-NF 081654358 - 28/06/22     
+             0,03 
+TOTAL DA FATURA
+           132,26 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856085023
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           132,26 
+VENCIMENTO
+22/08/2022

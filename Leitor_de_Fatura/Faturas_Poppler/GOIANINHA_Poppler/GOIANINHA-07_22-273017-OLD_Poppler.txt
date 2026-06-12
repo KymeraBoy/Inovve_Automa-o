@@ -1,0 +1,98 @@
+CONTA CONTRATO
+0000833010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273017
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VEREADOR CLOVIS LISBOA 72
+HOSPITAL MUNICIPAL DE GOIANINHA
+ESTACAO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+       9296
+JUN 22
+      10752
+MAI 22
+      12652
+ABR 22
+      14077
+MAR 22
+      14733
+FEV 22
+      13110
+JAN 22
+      14440
+DEZ 21
+      14564
+NOV 21
+      14802
+OUT 21
+      14871
+SET 21
+      11663
+AGO 21
+      11247
+JUL 21
+      12076
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+9.069,00 
+1.375,20 
+
+Consumo Ativo(kWh)-TUSD                      
+     9.295,7300000 
+ 0,49263310 
+         4.579,38 
+Consumo Ativo(kWh)-TE                        
+     9.295,7300000 
+ 0,36614043 
+         3.403,54 
+Consumo Reativo Excedente(kVARh)             
+         0,0000000 
+ 0,36614043 
+             0,00 
+Contrib. Ilum. Pública Municipal             
+           746,00 
+Multa por atraso-NF 080049018 - 27/05/22     
+           214,42 
+Multa por atraso-NF 081654316 - 28/06/22     
+           183,55 
+Juros por atraso-NF 080049018 - 27/05/22     
+            57,17 
+Juros por atraso-NF 081654316 - 28/06/22     
+             3,05 
+Atualizacao IPCA-NF 080049018 - 27.05.22     
+            55,93 
+TOTAL DA FATURA
+         9.243,04 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0000833010
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+         9.243,04 
+VENCIMENTO
+22/08/2022

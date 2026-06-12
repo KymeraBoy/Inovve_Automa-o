@@ -1,0 +1,143 @@
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+
+DOMICÍLIO DE ENTREGA
+PM ARARUNA CRECHE MUNICIPAL DE MACAPA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA (AG: 62)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 012 - 0062 - 157 - 0190                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00000614000                            DOM. BANC.:
+MATRÍCULA: 662729-2022-8-8                             DOM. ENT.: 9999062001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+LOC POV DE MACAPA, S/N
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+
+                                                                     0000662729-3
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+5/662729-3
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+       R$ 109,65
+
+
+      Agosto/2022
+CNPJ/CPF/RANI:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+        23/09/2022
+                                    4,83 kWh
+                                  MÉDIA DIÁRIA
+       145 kWh
+
+
+16d5.fccf.e6f8.d64d.e39f.f303.b500.85b7
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+22/08/2022   02/09/2022   20/09/2022
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        145,00    0,596920    0,756230      109,65        109,65   18      19,73          89,91        0,60          2,76
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         109,65        109,65           19,73          89,91        0,60          2,76
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+                                    NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA       Nº FATURA
+                                                                                91068204
+
+
+          MATRÍCULA                                VENCIMENTO               TOTAL A PAGAR
+        662729-2022-8-8                              23/09/2022               R$ 109,65
+
+83610000001-4 09650054000-8 06627292022-5 08800062019-0
+
+
+
+(YiNbB{B{B{QvGwRuJwBvB{DwHbClGjDjEvWmB{DwEvSg)
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+- Leitura confirmada
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+DIC         24,00      0,00   0,00       0
+FIC          6,00      0,00   0,00    0,00
+DMIC        18,00      0,00
+DICRI       26,00
+
+
+Conjunto:    Araruna
+
+Referência:                      06/2022
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+Serviço de distribuição                      21,60 19,69
+Compra de energia                            38,28 34,91
+Serviço de transmissão                        5,62   5,13
+Encargos setoriais                           21,06 19,21
+Impostos diretos e encargos                  23,09 21,06
+Outros serviços                               0,00   0,00
+Total                                       109,65 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2022): R$ 59,02
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+-Censo 2022 - Receba os recenseadores - Responda para o Brasil
+saber o que precisa. censo2022.ibge.gov.br.
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+0   AGO/22    145,00
+0   JUL/22    143,00
+    JUN/22    173,00
+    MAI/22    173,00
+    ABR/22    162,00
+    MAR/22    112,00
+    FEV/22     18,00
+    JAN/22      6,00
+    DEZ/21     36,00
+    NOV/21      0,00
+    OUT/21    101,00
+    SET/21    100,00
+    AGO/21     89,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                 Leitura Anterior: 20/07/2022   Leitura Atual: 19/08/2022   Dias: 30
+
+
+KWH   Ponta   35.340,00    35.195,00      1              0                                  145,00         145,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

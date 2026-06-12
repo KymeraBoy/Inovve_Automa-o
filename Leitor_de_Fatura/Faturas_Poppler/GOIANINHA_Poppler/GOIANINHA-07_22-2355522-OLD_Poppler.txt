@@ -1,0 +1,90 @@
+CONTA CONTRATO
+7006147350
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2355522
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ALAIDE BARBALHO GRILO 888888
+MATADOURO NOVO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+         30
+JUN 22
+        436
+MAI 22
+        419
+ABR 22
+        443
+MAR 22
+        384
+FEV 22
+        402
+JAN 22
+        429
+DEZ 21
+        389
+NOV 21
+        414
+OUT 21
+        466
+SET 21
+        475
+AGO 21
+        470
+JUL 21
+        494
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+    0,00 
+
+Consumo Ativo(kWh)-TUSD                      
+        30,0000000 
+ 0,49526551 
+            14,85 
+Consumo Ativo(kWh)-TE                        
+        30,0000000 
+ 0,36794674 
+            11,03 
+Contrib. Ilum. Pública Municipal             
+             3,02 
+Multa por atraso-NF 080049075 - 27/05/22     
+             6,25 
+Multa por atraso-NF 081654373 - 28/06/22     
+             7,44 
+Juros por atraso-NF 080049075 - 27/05/22     
+             3,75 
+Juros por atraso-NF 081654373 - 28/06/22     
+             0,12 
+TOTAL DA FATURA
+            46,46 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7006147350
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+            46,46 
+VENCIMENTO
+22/08/2022

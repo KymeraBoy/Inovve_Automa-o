@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RO BR 101 999999
+ POCO TUBULAR VALE VERDE
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+4027825
+CÓDIGO DO CLIENTE
+7024221509
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+        589
+ 29
+FEV26
+        585
+ 29
+JAN26
+        674
+ 33
+DEZ25
+        598
+ 30
+NOV25
+        615
+ 31
+OUT25
+        596
+ 30
+SET25
+        596
+ 30
+AGO25
+        599
+ 32
+JUL25
+        564
+ 31
+JUN25
+        580
+ 31
+MAI25
+        975
+ 28
+ABR25
+       1580
+ 31
+MAR25
+       1579
+ 29
+
+CONSUMO
+kWh
+         589,00  
+         366,00  
+
+Consumo-TUSD
+kWh
+          589,00 
+ 0,57575596 
+           339,12 
+            16,49 
+           339,12 
+20,00
+            67,83 
+ 0,43260000
+Consumo-TE
+kWh
+          589,00 
+ 0,41476788 
+           244,29 
+            11,88 
+           244,29 
+20,00
+            48,85 
+ 0,31164000
+TRIBF-IRRF(1.2%)
+             7,00-
+TOTAL
+           576,41 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

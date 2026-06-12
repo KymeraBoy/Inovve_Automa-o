@@ -1,0 +1,85 @@
+CONTA CONTRATO
+0242706013
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+274650
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ABDON GRILO 16
+CRECHE ISAURA GON ALVES
+COHAB/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        302
+JUN 22
+        442
+MAI 22
+        508
+ABR 22
+        501
+MAR 22
+        424
+FEV 22
+        187
+JAN 22
+        147
+DEZ 21
+        300
+NOV 21
+        237
+OUT 21
+        268
+SET 21
+        256
+AGO 21
+        233
+JUL 21
+        174
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  302,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       302,0000000 
+ 0,49450125 
+           149,33 
+Consumo Ativo(kWh)-TE                        
+       302,0000000 
+ 0,36742233 
+           110,96 
+Multa por atraso-NF 081654322 - 28/06/22     
+             7,53 
+Juros por atraso-NF 081654322 - 28/06/22     
+             0,12 
+TOTAL DA FATURA
+           267,94 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242706013
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           267,94 
+VENCIMENTO
+22/08/2022

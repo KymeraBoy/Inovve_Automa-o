@@ -1,0 +1,97 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA MARIA DE LOURDES 363 -PR
+ CAMPO DE FUTEBOL LAGOA DO PO O
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+7017833
+CÓDIGO DO CLIENTE
+7020981495
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+        480
+ 29
+ABR23
+        591
+ 31
+MAR23
+         30
+ 29
+FEV23
+         30
+ 31
+JAN23
+         30
+ 31
+DEZ22
+         30
+ 29
+NOV22
+         30
+ 30
+OUT22
+         30
+ 44
+SET22
+AGO22
+JUL22
+JUN22
+MAI22
+
+CONSUMO
+kWh
+  480,00 
+
+Consumo-TUSD
+kWh
+          480,00 
+ 0,51045259 
+           245,01 
+            10,84 
+           245,01 
+20,00
+            49,00 
+ 0,38577965
+Consumo-TE
+kWh
+          480,00 
+ 0,37902836 
+           181,93 
+             8,04 
+           181,93 
+20,00
+            36,38 
+ 0,28645448
+Ilum. Púb. Municipal
+            48,39 
+TOTAL
+           475,33 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

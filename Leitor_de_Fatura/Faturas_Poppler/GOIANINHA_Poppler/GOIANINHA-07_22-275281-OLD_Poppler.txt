@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0856649857
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+275281
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+CJ NOVO MATADOURO 18
+MATADOURO PUBLICO MUNICIPAL
+MATADOURO NOVO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+       1489
+JUN 22
+       1047
+MAI 22
+        997
+ABR 22
+       1044
+MAR 22
+       1034
+FEV 22
+       1001
+JAN 22
+       1259
+DEZ 21
+       1087
+NOV 21
+       1058
+OUT 21
+       1184
+SET 21
+        978
+AGO 21
+       1012
+JUL 21
+       1011
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.489,00 
+  376,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.489,0000000 
+ 0,49526551 
+           737,45 
+Consumo Ativo(kWh)-TE                        
+     1.489,0000000 
+ 0,36794674 
+           547,87 
+Contrib. Ilum. Pública Municipal             
+           120,11 
+Multa por atraso-NF 080049064 - 27/05/22     
+            14,60 
+Juros por atraso-NF 080049064 - 27/05/22     
+             8,76 
+TOTAL DA FATURA
+         1.428,79 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0856649857
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+         1.428,79 
+VENCIMENTO
+22/08/2022

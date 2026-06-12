@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI ANIQUIM 999 A
+ QUADRA DE ESPORTES
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+276172
+CÓDIGO DO CLIENTE
+855065568
+
+ CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+        217
+ 30
+FEV26
+        192
+ 27
+JAN26
+        245
+ 33
+DEZ25
+        230
+ 31
+NOV25
+        224
+ 29
+OUT25
+        238
+ 31
+SET25
+        242
+ 31
+AGO25
+        241
+ 33
+JUL25
+        214
+ 29
+JUN25
+        231
+ 30
+MAI25
+        242
+ 32
+ABR25
+        203
+ 28
+MAR25
+        220
+ 30
+
+CONSUMO
+kWh
+         217,00  
+           0,00   
+
+Consumo-TUSD
+kWh
+          217,00 
+ 0,31666577 
+            68,71 
+             3,34 
+            68,71 
+20,00
+            13,74 
+ 0,23793000
+Consumo-TE
+kWh
+          217,00 
+ 0,22811967 
+            49,50 
+             2,40 
+            49,50 
+20,00
+             9,90 
+ 0,17140000
+IPCA-NF-151051018
+             0,33 
+TRIBF-IRRF(1.2%)
+             1,41-
+TRIBF-IRRF(4.8%)
+             0,02-
+TOTAL
+           117,11 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

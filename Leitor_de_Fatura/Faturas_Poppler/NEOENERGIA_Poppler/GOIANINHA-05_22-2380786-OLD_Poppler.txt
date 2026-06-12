@@ -1,0 +1,89 @@
+CONTA CONTRATO
+7006544490
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2380786
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA AMAURI BELO DA SILVA 699999
+QUADRA DE ESPORTES
+BARROCAS/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        473
+ABR 22
+        485
+MAR 22
+        464
+FEV 22
+        444
+JAN 22
+        477
+DEZ 21
+        427
+NOV 21
+        438
+OUT 21
+        445
+SET 21
+        486
+AGO 21
+        355
+JUL 21
+        541
+JUN 21
+        947
+MAI 21
+        572
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  473,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       473,0000000 
+ 0,48620390 
+           229,97 
+Consumo Ativo(kWh)-TE                        
+       473,0000000 
+ 0,36121462 
+           170,85 
+Contrib. Ilum. Pública Municipal             
+            47,69 
+Multa por atraso-NF 076900332 - 29/03/22     
+             8,14 
+Juros por atraso-NF 076900332 - 29/03/22     
+             2,98 
+Atualizacao IPCA-NF 076900332 - 29.03.22     
+             3,02 
+TOTAL DA FATURA
+           462,65 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7006544490
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           462,65 
+VENCIMENTO
+20/06/2022

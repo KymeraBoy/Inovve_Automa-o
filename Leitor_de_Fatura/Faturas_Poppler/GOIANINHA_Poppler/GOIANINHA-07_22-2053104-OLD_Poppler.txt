@@ -1,0 +1,97 @@
+CONTA CONTRATO
+7000657560
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2053104
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RO RN 003 99
+CENTRO ADMINISTRATIVO
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+       7397
+JUN 22
+       7926
+MAI 22
+       7679
+ABR 22
+       9583
+MAR 22
+       8314
+FEV 22
+       6970
+JAN 22
+       8509
+DEZ 21
+       8577
+NOV 21
+       7932
+OUT 21
+       8096
+SET 21
+       7085
+AGO 21
+       5358
+JUL 21
+       2223
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+7.217,00 
+  141,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     7.397,4300000 
+ 0,49526551 
+         3.663,69 
+BANDEIRA VERDE                               
+Consumo Ativo(kWh)-TE                        
+     7.397,4300000 
+ 0,36794674 
+         2.721,86 
+Consumo Reativo Excedente(kVARh)             
+       144,5300000 
+ 0,36794674 
+            53,17 
+Contrib. Ilum. Pública Municipal             
+           596,73 
+Multa por atraso-NF 080049067 - 27/05/22     
+           125,93 
+Multa por atraso-NF 081654365 - 28/06/22     
+           135,90 
+Juros por atraso-NF 080049067 - 27/05/22     
+            75,55 
+Juros por atraso-NF 081654365 - 28/06/22     
+             2,26 
+TOTAL DA FATURA
+         7.375,09 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7000657560
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+         7.375,09 
+VENCIMENTO
+22/08/2022

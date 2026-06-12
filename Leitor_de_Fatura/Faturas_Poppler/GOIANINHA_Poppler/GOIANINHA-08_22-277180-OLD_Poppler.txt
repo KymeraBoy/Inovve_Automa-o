@@ -1,0 +1,92 @@
+CONTA CONTRATO
+0850953481
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277180
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MIRANDA 999
+POCO TUBULAR DE MIRANDA
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+       1187
+JUL 22
+        819
+JUN 22
+       1089
+MAI 22
+       1053
+ABR 22
+       1345
+MAR 22
+        770
+FEV 22
+       1074
+JAN 22
+       1146
+DEZ 21
+       1026
+NOV 21
+       1241
+OUT 21
+       1150
+SET 21
+        972
+AGO 21
+       1526
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.187,00 
+  681,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.187,0000000 
+ 0,47111022 
+           559,20 
+Consumo Ativo(kWh)-TE                        
+     1.187,0000000 
+ 0,35043431 
+           415,96 
+Cobrança de ICMS sobre Subvenção CDE         
+             5,42 
+Multa por atraso-NF 081654348 - 28/06/22     
+            18,02 
+Juros por atraso-NF 081654348 - 28/06/22     
+             6,31 
+Atualizacao IPCA-NF 080049050 - 27.05.22     
+            10,28 
+Atualizacao IPCA-NF 081654348 - 28.06.22     
+             6,25 
+TOTAL DA FATURA
+         1.021,44 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0850953481
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+         1.021,44 
+VENCIMENTO
+20/09/2022

@@ -1,0 +1,115 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA AMAURI BELO DA SILVA 699999
+ QUADRA DE ESPORTES
+ BARROCAS/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2022
+
+CÓDIGO DA INSTALAÇÃO
+2380786
+CÓDIGO DO CLIENTE
+7006544490
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV22
+        561
+ 30
+OUT22
+        531
+ 29
+SET22
+        630
+ 33
+AGO22
+        546
+ 30
+JUL22
+        509
+ 29
+JUN22
+        494
+ 32
+MAI22
+        473
+ 30
+ABR22
+        485
+ 32
+MAR22
+        464
+ 31
+FEV22
+        444
+ 28
+JAN22
+        477
+ 32
+DEZ21
+        427
+ 29
+NOV21
+        438
+ 29
+
+CONSUMO
+kWh
+  561,00 
+
+Consumo-TUSD
+kWh
+          561,00 
+ 0,48989591 
+           274,83 
+            12,45 
+           274,83 
+18,00
+            49,47 
+ 0,37954000
+Consumo-TE
+kWh
+          561,00 
+ 0,36440800 
+           204,43 
+             9,24 
+           204,43 
+18,00
+            36,79 
+ 0,28232000
+Ilum. Púb. Municipal
+            44,55 
+Multa-NF 086372929
+            10,72 
+Juros-NF 086372929
+             3,92 
+IPCA-NF-086372929
+             2,35 
+IPCA-NF-084824849
+             1,57 
+TOTAL
+           542,37 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

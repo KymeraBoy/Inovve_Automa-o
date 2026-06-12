@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242704010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272494
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BRASILICIO CAMILO 128
+GRUPO ESCOLAR E FREIRE
+ANEQUIM/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        369
+JUN 22
+        549
+MAI 22
+        525
+ABR 22
+        578
+MAR 22
+        291
+FEV 22
+        161
+JAN 22
+        193
+DEZ 21
+        259
+NOV 21
+        284
+OUT 21
+        212
+SET 21
+        186
+AGO 21
+        201
+JUL 21
+        197
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  369,00 
+  270,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       369,0000000 
+ 0,49526551 
+           182,75 
+Consumo Ativo(kWh)-TE                        
+       369,0000000 
+ 0,36794674 
+           135,77 
+Multa por atraso-NF 081654320 - 28/06/22     
+             9,36 
+Juros por atraso-NF 081654320 - 28/06/22     
+             0,14 
+TOTAL DA FATURA
+           328,02 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242704010
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           328,02 
+VENCIMENTO
+22/08/2022

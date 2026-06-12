@@ -1,0 +1,83 @@
+CONTA CONTRATO
+7003937440
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277323
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI MIRANDA 294 B
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       1531
+ABR 22
+       1307
+MAR 22
+       1362
+FEV 22
+        620
+JAN 22
+        372
+DEZ 21
+       1042
+NOV 21
+        845
+OUT 21
+        738
+SET 21
+        511
+AGO 21
+        538
+JUL 21
+        427
+JUN 21
+        406
+MAI 21
+        414
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.531,00 
+  282,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.531,0000000 
+ 0,48620390 
+           744,37 
+Consumo Ativo(kWh)-TE                        
+     1.531,0000000 
+ 0,36121462 
+           553,01 
+Contrib. Ilum. Pública Municipal             
+           123,50 
+TOTAL DA FATURA
+         1.420,88 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7003937440
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         1.420,88 
+VENCIMENTO
+20/06/2022

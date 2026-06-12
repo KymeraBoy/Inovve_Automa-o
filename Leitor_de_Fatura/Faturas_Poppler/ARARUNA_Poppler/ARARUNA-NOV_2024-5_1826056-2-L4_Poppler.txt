@@ -1,0 +1,213 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 015 - 0062 - 173 - 4465
+MATRÍCULA: 1826056-2024-11-7
+DOM. BANC.:                                   DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA POCO
+
+SIT VARELA DE BAIXO, S/N - 58233000
+
+
+AREA RURAL
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Novembro / 2024   23/12/2024   R$ 112,33
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH        137,00       0,777730        106,55        4,65         106,55   20      21,31   0,588270
+Adic. B. Amarela                                              2,66         0,11          2,66   20       0,53
+Adic. B. Vermelha                                             3,12        0,13           3,12   20       0,62
+
+
+
+
+                             TOTAL:                         112,33        4,89         112,33           22,46
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+00008840061   Energia ativa em kWh   Ponta   11101   11238   1   137
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+ITAÚ                                                         341 -7 34191.09222 98361.232931 85951.190009 5 99390000011233                                            Pague por
+
+                                                                                                                                                                      PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/12/2024
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/22983612-3
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/11/2024               1826056-2024-11-7                               DS                  N        28/11/2024                                    112,33
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA POCO                                                                                                                   08.927.105/0001-00
+SIT VARELA DE BAIXO, S/N     ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Abra sua conta VOLTZ - Energisa
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+Data de Apresentação: 04/12/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001826056-2
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+24/10/2024   25/11/2024   32   24/12/2024
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+5/1826056-2
+
+00008840061
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          89,84    0,9725      0,87
+COFINS       89,84    4,4795      4,02
+ICMS        112,33     20,00     22,46
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              NOV/24                32
+              OUT/24                30
+              SET/24                29
+              AGO/24                32
+Consumo kWh
+
+
+
+
+              JUL/24                30
+              JUN/24                32
+              MAI/24                31
+              ABR/24                32
+              MAR/24                28
+              FEV/24                30
+              JAN/24                29
+              DEZ/23                32
+              NOV/23                30
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+  112,33                  22,46
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+- Leitura confirmada
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- -Reaj. tarifário médio -1,35% (EPB) a partir de 28/08/24, conforme REH nº 3.378/24
+- Leitura confirmada
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+DIC         24,00      0,00   0,00    0,00
+FIC          6,00      0,00   0,00    0,00
+DMIC        18,00      0,00
+DICRI       26,00
+
+
+Conjunto:    Araruna
+
+Referência:                      09/2024
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+Serviço de distribuição                      28,51    25,38
+Compra de energia                            35,81    31,88
+Serviço de transmissão                        7,35     6,54
+Encargos setoriais                           13,31    11,85
+Impostos diretos e encargos                  27,35    24,35
+Outros serviços                               0,00     0,00
+Total                                       112,33   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 09/2024): R$ 6,52
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+NOV/24    137,00 *
+OUT/24      0,00 *
+SET/24      0,00 *
+AGO/24      0,00 *
+JUL/24    103,00 *
+JUN/24     98,00 *
+MAI/24     60,00 *
+ABR/24     90,00 *
+MAR/24     84,00 *
+FEV/24     84,00
+JAN/24     82,00 *
+DEZ/23    100,00 *
+NOV/23    112,00 *
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_17 | INICIO_PAGINA_18 =====
+
+              Leitura Anterior: 24/10/2024      Leitura Atual: 25/11/2024   Dias: 32
+
+
+
+KWH   Ponta   11.238,00      11.101,00       1,00                                                  137,00            137,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med

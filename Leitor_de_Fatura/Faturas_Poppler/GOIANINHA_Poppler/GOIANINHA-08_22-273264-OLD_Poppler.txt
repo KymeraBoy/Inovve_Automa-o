@@ -1,0 +1,86 @@
+CONTA CONTRATO
+7000768671
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+273264
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA NEWTON DE ARAUJO LIMA 815
+ITAPERUBU/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        164
+JUL 22
+        131
+JUN 22
+        104
+MAI 22
+        150
+ABR 22
+        103
+MAR 22
+         69
+FEV 22
+         65
+JAN 22
+        125
+DEZ 21
+         83
+NOV 21
+         98
+OUT 21
+        103
+SET 21
+         93
+AGO 21
+         97
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  164,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       164,0000000 
+ 0,48568064 
+            79,65 
+Consumo Ativo(kWh)-TE                        
+       164,0000000 
+ 0,36127248 
+            59,24 
+Contrib. Ilum. Pública Municipal             
+            16,28 
+Atualizacao IPCA-NF 081654366 - 28.06.22     
+             0,03 
+Atualizacao IPCA-NF 080049068 - 27.05.22     
+             1,51 
+TOTAL DA FATURA
+           156,71 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7000768671
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           156,71 
+VENCIMENTO
+20/09/2022

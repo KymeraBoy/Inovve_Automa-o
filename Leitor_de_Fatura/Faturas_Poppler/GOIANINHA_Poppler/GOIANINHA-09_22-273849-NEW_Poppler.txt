@@ -1,0 +1,109 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA AMAURI B SILVA 9 SN
+ SCFV (BARROCAS)
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+273849
+CÓDIGO DO CLIENTE
+242746015
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+        225
+ 33
+AGO22
+        208
+ 30
+JUL22
+        193
+ 29
+JUN22
+        229
+ 32
+MAI22
+        225
+ 30
+ABR22
+        252
+ 32
+MAR22
+        183
+ 31
+FEV22
+         58
+ 28
+JAN22
+         97
+ 32
+DEZ21
+         97
+ 29
+NOV21
+        184
+ 29
+OUT21
+         30
+ 30
+SET21
+         30
+ 32
+
+CONSUMO
+kWh
+  225,00 
+
+Consumo-TUSD
+kWh
+          225,00 
+ 0,48824225 
+           109,85 
+             4,68 
+           109,85 
+18,00
+            19,78 
+ 0,37954000
+Consumo-TE
+kWh
+          225,00 
+ 0,36317793 
+            81,71 
+             3,48 
+            81,71 
+18,00
+            14,70 
+ 0,28232000
+Multa-NF 083226089
+             3,30 
+Juros-NF 083226089
+             1,37 
+TOTAL
+           196,23 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

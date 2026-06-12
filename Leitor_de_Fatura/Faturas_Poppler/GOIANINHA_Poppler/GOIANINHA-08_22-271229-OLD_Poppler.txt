@@ -1,0 +1,90 @@
+CONTA CONTRATO
+0242710010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+271229
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA LUIZ BELARMINO DA COSTA 825
+QUADRA DE ESPORTES CORTEZ PEREIRA
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+       1150
+JUL 22
+       1081
+JUN 22
+       1128
+MAI 22
+       1086
+ABR 22
+       1282
+MAR 22
+       1121
+FEV 22
+        985
+JAN 22
+        950
+DEZ 21
+        918
+NOV 21
+        938
+OUT 21
+        930
+SET 21
+        862
+AGO 21
+        758
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.150,00 
+  665,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.150,0000000 
+ 0,48568064 
+           558,53 
+Consumo Ativo(kWh)-TE                        
+     1.150,0000000 
+ 0,36127248 
+           415,46 
+Multa por atraso-NF 081654326 - 28/06/22     
+            19,24 
+Juros por atraso-NF 081654326 - 28/06/22     
+             6,73 
+Atualizacao IPCA-NF 081654326 - 28.06.22     
+             6,67 
+Atualizacao IPCA-NF 080049028 - 27.05.22     
+            10,93 
+TOTAL DA FATURA
+         1.017,56 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242710010
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+         1.017,56 
+VENCIMENTO
+20/09/2022

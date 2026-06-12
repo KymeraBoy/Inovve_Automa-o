@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI LAGOA DO POCO 200 A
+ POSTO DE SAUDE DA LAGOA DO POCO
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+07/2023
+
+CÓDIGO DA INSTALAÇÃO
+275900
+CÓDIGO DO CLIENTE
+855483653
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL23
+        585
+ 31
+JUN23
+        858
+ 31
+MAI23
+        770
+ 29
+ABR23
+        817
+ 31
+MAR23
+        681
+ 29
+FEV23
+        722
+ 31
+JAN23
+        617
+ 31
+DEZ22
+        577
+ 29
+NOV22
+        672
+ 30
+OUT22
+        581
+ 32
+SET22
+        491
+ 30
+AGO22
+        486
+ 30
+JUL22
+        481
+ 32
+
+CONSUMO
+kWh
+  585,00 
+  207,00 
+
+Consumo-TUSD
+kWh
+          585,00 
+ 0,52507425 
+           307,16 
+            14,08 
+           307,16 
+20,00
+            61,43 
+ 0,39599000
+Consumo-TE
+kWh
+          585,00 
+ 0,38880343 
+           227,45 
+            10,42 
+           227,45 
+20,00
+            45,49 
+ 0,29322000
+Ilum. Púb. Municipal
+            48,38 
+Multa-NF 099140209
+            13,69 
+Juros-NF 099140209
+             3,87 
+IPCA-NF-099140209
+             0,89 
+TOTAL
+           601,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

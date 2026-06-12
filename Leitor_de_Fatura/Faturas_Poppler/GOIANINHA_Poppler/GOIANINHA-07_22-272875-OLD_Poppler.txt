@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0242701011
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272875
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JOAO TIBURCIO 560
+GRUPO ESCOLAR ALUIZIO ALVES
+ESTACAO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        609
+JUN 22
+        833
+MAI 22
+       1168
+ABR 22
+       1035
+MAR 22
+       1049
+FEV 22
+        486
+JAN 22
+        196
+DEZ 21
+        618
+NOV 21
+        519
+OUT 21
+        444
+SET 21
+        268
+AGO 21
+        252
+JUL 21
+        222
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  609,00 
+  155,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       609,0000000 
+ 0,49145305 
+           299,29 
+Consumo Ativo(kWh)-TE                        
+       609,0000000 
+ 0,36533070 
+           222,48 
+Multa por atraso-NF 081654318 - 28/06/22     
+            14,21 
+Juros por atraso-NF 081654318 - 28/06/22     
+             0,23 
+TOTAL DA FATURA
+           536,21 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0242701011
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           536,21 
+VENCIMENTO
+22/08/2022

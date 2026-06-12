@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA MANOEL CLAUDIO BEZERRA 1
+ POSTO DE SAUDE ORLANDO MOURA DA SILVA
+ UNA/UNA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2202090
+CÓDIGO DO CLIENTE
+7003209398
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        679
+ 33
+DEZ25
+        814
+ 31
+NOV25
+        781
+ 29
+OUT25
+        733
+ 31
+SET25
+        922
+ 31
+AGO25
+        685
+ 33
+JUL25
+        685
+ 29
+JUN25
+        993
+ 30
+MAI25
+        802
+ 32
+ABR25
+        773
+ 28
+MAR25
+        613
+ 30
+FEV25
+        704
+ 32
+JAN25
+        401
+ 29
+
+CONSUMO
+kWh
+         654,00  
+       1.538,00 
+          25,00  
+           0,00   
+
+Consumo-TUSD
+kWh
+          679,00 
+ 0,57618540 
+           391,22 
+            19,26 
+           391,22 
+20,00
+            78,25 
+ 0,43260000
+Consumo-TE
+kWh
+          679,00 
+ 0,41507725 
+           281,83 
+            13,86 
+           281,83 
+20,00
+            56,36 
+ 0,31164000
+Acrés. Band. AMARELA
+            13,42 
+             0,65 
+            13,42 
+20,00
+             2,68 
+Ilum. Púb. Municipal
+            61,84 
+TRIBF-IRRF(1.2%)
+             8,23-
+TOTAL
+           740,08 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

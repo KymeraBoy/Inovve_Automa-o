@@ -1,124 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 088 - 0139 - 099 - 8100
-MATRÍCULA: 135407-2025-5-9
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
-ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA              LIGAÇÃO: MONOFASICO
-ILUMINACAO PUBLICA - P.M.DESTERRO
-
-ROD BR 230, S/N - 58695000
-
-
-CENTRO
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Maio / 2025   23/06/2025   R$ 22.794,34
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.     ICMS        Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS          (R$)    Unit (R$)
-Consumo em kWh             51.266,00       0,420140      21.539,46     644,46      21.539,46   20      4.307,89   0,323550
-Adic. B. Amarela                                          1.254,88      37,55       1.254,88   20       250,97
-
-
-
-
-                           TOTAL:                        22.794,34     682,01      22.794,34           4.558,86
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   135407-2025-5-9               23/06/2025      5593609       R$ 22.794,34
-
-CONTA PAGA - Data de Pagamento: 06/06/2025
-Data de Apresentação: 04/06/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000135407-5
-30/04/2025   31/05/2025   31   30/06/2025
-5/135407-5
-
-0
-Tributo   Base de     Alíquota     Valor
-          Cálc.(R$)      (%)        (R$)
-PIS       18.235,47   0,6671      121,65
-COFINS    18.235,47   3,0729      560,36
-ICMS      22.794,34    20,00     4.558,86
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAI/25                31
-              ABR/25                30
-              MAR/25                31
-              FEV/25                28
-Consumo kWh
-
-
-
-
-              JAN/25                31
-              DEZ/24                31
-              NOV/24                30
-              OUT/24                31
-              SET/24                30
-              AGO/24                31
-              JUL/24                31
-              JUN/24                30
-              MAI/24                31
-22.794,34              4.558,86
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-Consumo Estimado: faturamento realizado por carga instalada.
-DIC         12,00       1,11   999,00   999,00
-FIC          4,00       0,33   999,00   999,00
-DMIC         9,00       0,00
-DICRI       13,00
-
-
-Conjunto:    Teixeira
-
-Referência:                         03/2025
-Tensão Contratada:
-Limite Adequado:                  202 a 231
-Serviço de distribuição                      5.889,19    25,84
-Compra de energia                            7.397,03    32,45
-Serviço de transmissão                       1.518,38     6,66
-Encargos setoriais                           2.748,87    12,06
-Impostos diretos e encargos                  5.240,87    22,99
-Outros serviços                                  0,00     0,00
-Total                                       22.794,34   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 03/2025): R$ 6.122,49
-MAI/25   51.266,00
-ABR/25   49.671,00
-MAR/25   51.106,00
-FEV/25   46.377,00
-JAN/25   51.299,00
-DEZ/24   50.966,00
-NOV/24   49.542,00
-OUT/24   51.336,00
-SET/24   49.669,00
-AGO/24   51.340,00
-JUL/24   51.297,00
-JUN/24   49.690,00
-MAI/24   51.294,00
-
-
-
-          *FATURAMENTO PELA MÉDIA/MÍNIMO
-Leitura Anterior: 30/04/2025   Leitura Atual: 31/05/2025   Dias: 31
-
-
-
-
-                                                                      * KWTG: Dem Tusdg   * K: Const Med
-

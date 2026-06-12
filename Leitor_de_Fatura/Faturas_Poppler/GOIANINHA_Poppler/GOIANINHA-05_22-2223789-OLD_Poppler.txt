@@ -1,0 +1,89 @@
+CONTA CONTRATO
+7009774160
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2223789
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+AV RUDSON RAIMUNDO HONORIO LISBOA 100
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       1616
+ABR 22
+       1856
+MAR 22
+       1076
+FEV 22
+        540
+JAN 22
+        841
+DEZ 21
+        714
+NOV 21
+        725
+OUT 21
+        718
+SET 21
+        720
+AGO 21
+        644
+JUL 21
+        803
+JUN 21
+        889
+MAI 21
+        983
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+1.616,00 
+  887,00 
+
+Consumo Ativo(kWh)-TUSD                      
+     1.616,0000000 
+ 0,43456393 
+           702,25 
+Consumo Ativo(kWh)-TE                        
+     1.616,0000000 
+ 0,33199792 
+           536,50 
+Acréscimo Bandeira AMARELA                   
+            66,16 
+Contrib. Ilum. Pública Municipal             
+           124,21 
+Multa por atraso-NF 078485679 - 28/04/22     
+            32,88 
+Juros por atraso-NF 078485679 - 28/04/22     
+             3,28 
+TOTAL DA FATURA
+         1.465,28 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7009774160
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         1.465,28 
+VENCIMENTO
+20/06/2022

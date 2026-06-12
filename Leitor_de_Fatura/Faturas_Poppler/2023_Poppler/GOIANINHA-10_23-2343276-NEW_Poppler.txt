@@ -1,0 +1,117 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ AV MONSENHOR ARMANDO DE PAIVA 999999
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+10/2023
+
+CÓDIGO DA INSTALAÇÃO
+2343276
+CÓDIGO DO CLIENTE
+7005970819
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT23
+        500
+ 28
+SET23
+        535
+ 32
+AGO23
+        565
+ 31
+JUL23
+        512
+ 31
+JUN23
+        520
+ 31
+MAI23
+        692
+ 29
+ABR23
+        471
+ 31
+MAR23
+        356
+ 29
+FEV23
+        368
+ 31
+JAN23
+        377
+ 31
+DEZ22
+        346
+ 29
+NOV22
+        369
+ 30
+OUT22
+        357
+ 32
+
+CONSUMO
+kWh
+         500,00  
+         131,00  
+
+Consumo-TUSD
+kWh
+          500,00 
+ 0,52318729 
+           261,59 
+            11,28 
+           261,59 
+20,00
+            52,31 
+ 0,39599000
+Consumo-TE
+kWh
+          500,00 
+ 0,38740619 
+           193,70 
+             8,34 
+           193,70 
+20,00
+            38,74 
+ 0,29322000
+Ilum. Púb. Municipal
+            51,69 
+Multa-NF 103943096
+            10,22 
+Juros-NF 103943096
+             2,38 
+IPCA-NF-103943096
+             0,60 
+TRIBF-IRRF(1.2%)
+             5,45-
+TRIBF-IRRF(4.8%)
+             0,60-
+TOTAL
+           514,13 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

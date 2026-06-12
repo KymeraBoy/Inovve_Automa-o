@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0590875015
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+241397
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+PO MALHADINHA 48
+PO O TUBULAR DE MALHADINHA
+MALHADINHA/AREA RURAL
+59180-000 ESPIRITO SANTO RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        809
+JUN 22
+        842
+MAI 22
+        838
+ABR 22
+        850
+MAR 22
+        960
+FEV 22
+       1145
+JAN 22
+       1308
+DEZ 21
+        784
+NOV 21
+       1349
+OUT 21
+        898
+SET 21
+        695
+AGO 21
+        638
+JUL 21
+        679
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  809,00 
+  865,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       809,0000000 
+ 0,47670944 
+           385,65 
+Consumo Ativo(kWh)-TE                        
+       809,0000000 
+ 0,35437077 
+           286,68 
+Cobrança de ICMS sobre Subvenção CDE         
+             3,74 
+Multa por atraso-NF 080049046 - 27/05/22     
+            13,77 
+Juros por atraso-NF 080049046 - 27/05/22     
+             8,26 
+TOTAL DA FATURA
+           698,10 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0590875015
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           698,10 
+VENCIMENTO
+22/08/2022

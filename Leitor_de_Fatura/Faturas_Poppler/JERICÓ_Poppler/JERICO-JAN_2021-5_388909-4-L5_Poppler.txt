@@ -1,108 +1,0 @@
-PM JERICO SERVICO DE CONVIVENCIA E
-FORTALECIMENTO DE VINCULOS
-DOMICÍLIO DE ENTREGA
-PM JERICO SERVICO DE CONVIVENCIA E FORTALECIMENTO DE VINCULOS
-RUA LOPES FIGUEIREDO 110
-JERICÓ (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 012 - 0253 - 720 - 2460                         LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00000092261                            DOM. BANC.:
-MATRÍCULA: 388909-2021-1-6                              DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA LAURENTINO DE SOUSA MELO, 263
-CENTRO
-JERICO (AG: 245)
-
-
-
-                                                                      0000388909-4
-5/388909-4
-          R$ 24,60
-
-
-          Janeiro/2021
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.: 000XXXXXX
-23/02/2021
-               1,03 kWh
-             MÉDIA DIÁRIA
-30 kWh
-20/01/2021   05/02/2021   18/02/2021
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Custo de Disponibilidade                                                   23,37         23,37   25      5,85           17,83        0,12          0,54
-0601 Adic. B. Amarela                                                            0,37          0,37   25      0,09            0,27        0,00          0,01
-0601 Adic. B. Vermelha                                                           0,86          0,86   25      0,21            0,66        0,00          0,02
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          24,60         24,60           6,15           18,76        0,12          0,57
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-   388909-2021-1-6           23/02/2021         57911674       R$ 24,60
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
-- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
-- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
-- Leitura confirmada
-DIC          6,27     0,00   12,54       25,08
-FIC          3,42     0,00    6,85       13,70
-DMIC         3,71     0,00
-DICRI       12,22
-
-
-Conjunto:    Jericó
-
-Referência:                          11/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      7,10 28,86
-Compra de energia                            7,84 31,87
-Serviço de transmissão                       1,34   5,45
-Encargos setoriais                           1,48   6,02
-Impostos diretos e encargos                  6,84 27,80
-Outros serviços                              0,00   0,00
-Total                                       24,60 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2020): R$ 10,31
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-8   JAN/21      2,00
-0   DEZ/20      3,00
-    NOV/20      6,00
-    OUT/20      2,00
-    SET/20      2,00
-    AGO/20      1,00
-    JUL/20      7,00
-    JUN/20      1,00
-    MAI/20      1,00
-    ABR/20      3,00
-    MAR/20      1,00
-    FEV/20      0,00 *
-    JAN/20      3,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 21/12/2020   Leitura Atual: 19/01/2021   Dias: 29
-
-
-KWH   Ponta   57.916,00    57.914,00      1              0                                    2,00          30,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

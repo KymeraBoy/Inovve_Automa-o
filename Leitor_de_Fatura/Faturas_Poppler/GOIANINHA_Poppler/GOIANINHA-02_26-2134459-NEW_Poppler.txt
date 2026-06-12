@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA JOSE GENIVAL AUGUSTO DA SILVA 100
+ QUADRA DE ESPORTES
+ LAGOA DO POCO/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+02/2026
+
+CÓDIGO DA INSTALAÇÃO
+2134459
+CÓDIGO DO CLIENTE
+7001936535
+
+ CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       1176
+ 28
+JAN26
+        100
+ 19
+DEZ25
+       2609
+ 13
+NOV25
+       1343
+ 32
+OUT25
+       1153
+ 28
+SET25
+       1169
+ 31
+AGO25
+       1254
+ 33
+JUL25
+       1217
+ 29
+JUN25
+       1447
+ 32
+MAI25
+       1332
+ 30
+ABR25
+       1147
+ 28
+MAR25
+       1150
+ 30
+FEV25
+       1180
+ 32
+
+CONSUMO
+kWh
+       1.176,00 
+         797,00  
+
+Consumo-TUSD
+kWh
+        1.176,00 
+ 0,31666577 
+           372,39 
+            18,11 
+           372,39 
+20,00
+            74,48 
+ 0,23793000
+Consumo-TE
+kWh
+        1.176,00 
+ 0,22811967 
+           268,26 
+            13,04 
+           268,26 
+20,00
+            53,65 
+ 0,17140000
+TRIBF-IRRF(1.2%)
+             7,69-
+TOTAL
+           632,96 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

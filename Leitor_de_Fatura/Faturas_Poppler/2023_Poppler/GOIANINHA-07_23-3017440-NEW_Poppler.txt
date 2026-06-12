@@ -1,0 +1,104 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI SAO LUIZ 70
+ CMEI ISAURA DA COSTA GALVAO
+ UMARI/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+07/2023
+
+CÓDIGO DA INSTALAÇÃO
+3017440
+CÓDIGO DO CLIENTE
+7020920020
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL23
+       1947
+ 32
+JUN23
+       1912
+ 29
+MAI23
+       2371
+ 30
+ABR23
+       2211
+ 32
+MAR23
+       1757
+ 29
+FEV23
+       1750
+ 30
+JAN23
+       1833
+ 32
+DEZ22
+       2017
+ 29
+NOV22
+       2115
+ 30
+OUT22
+       1967
+ 29
+SET22
+       2294
+ 46
+AGO22
+JUL22
+
+CONSUMO
+kWh
+1.947,00 
+  884,00 
+
+Consumo-TUSD
+kWh
+        1.947,00 
+ 0,52507425 
+         1.022,31 
+            46,86 
+         1.022,31 
+20,00
+           204,46 
+ 0,39599000
+Consumo-TE
+kWh
+        1.947,00 
+ 0,38880343 
+           757,00 
+            34,69 
+           757,00 
+20,00
+           151,40 
+ 0,29322000
+Ilum. Púb. Municipal
+           161,02 
+TOTAL
+         1.940,33 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

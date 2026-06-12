@@ -1,155 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 013 - 0253 - 737 - 3050
-MATRÍCULA: 1073796-2024-1-9
-DOM. BANC.:                         DOM. ENT.: 9999253002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-PM JERICO GRUPO ESCOLAR FRANCISCO P
-LIMA
-SIT VERTENTES, S/N - 58830000
-
-
-AREA RURAL
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Janeiro / 2024   23/02/2024   R$ 25,31
--"Problemas com alcoolismo? Nós podemos ajudar – Ligue: (83) 3222-4557 / 9 8658-4556” - Alcoólicos Anônimos na Paraíba
-                                            Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                      31,00       0,799640         24,78        1,16          24,78   20       4,95   0,602190
-LANÇAMENTOS E SERVIÇOS
-MULTA 11/2023                                                     0,49
-JUROS DE MORA 11/2023                                             0,04
-
-
-
-
-                                 TOTAL:                          25,31        1,16          24,78            4,95
-00008450454   Energia ativa em kWh   Ponta   6095   6126   1   31
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   1073796-2024-1-9              23/02/2024      2524151         R$ 25,31
-
-CONTA PAGA - Data de Pagamento: 26/02/2024
-Data de Apresentação: 05/02/2024
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0001073796-3
-21/12/2023   22/01/2024   32   21/02/2024
-5/1073796-3
-
-00008450454
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          19,82    1,0464      0,21
-COFINS       19,82    4,8196      0,95
-ICMS         24,78     20,00      4,95
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/24                32
-              DEZ/23                29
-              NOV/23                30
-              OUT/23                32
-Consumo kWh
-
-
-
-
-              SET/23                31
-              AGO/23                31
-              JUL/23                28
-              JUN/23                29
-              MAI/23                31
-              ABR/23                32
-              MAR/23                33
-              FEV/23                30
-              JAN/23                30
-   24,78                   4,95
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-
-
-
-EMITIDO EM CONTINGÊNCIA Pendente de Autorização
-- REAVISO DE VENCIMENTO: Caso a(s) fatura(s) acima relacionada(s) permaneça(m) em
-atraso, o fornecimento poderá ser suspenso a partir de 20/02/2024. Conforme
-Resolução ANEEL n.º 1.000. O pagamento após essa data não elimina a possibilidade
-da devida suspensão do fornecimento, caso o mesmo não seja comunicado ou as
-contas pagas não estejam na unidade consumidora para comprovação. Caso já tenha
-efetuado o pagamento da(s) fatura(s) acima, desconsiderar essa mensagem.
-- Segurança e Saúde no Trabalho. A prevenção é sempre o melhor caminho.
-- A vida em primeiro lugar". Tribunal Regional do Trabalho da 13ª Região
-- Medidor com display apagado - Com Energia
--Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
-- Segurança e Saúde no Trabalho. A prevenção é sempre o melhor caminho.
-- A vida em primeiro lugar". Tribunal Regional do Trabalho da 13ª Região
-- Medidor com display apagado - Com Energia
-DIC         24,00     2,82   0,00        0,00
-FIC          6,00     1,00   0,00        0,00
-DMIC        18,00     0,00
-DICRI       26,00
-
-
-Conjunto:    Jericó
-
-Referência:                         11/2023
-Tensão Contratada:
-Limite Adequado:              202 a 231
-Serviço de distribuição                      6,00    23,71
-Compra de energia                            7,69    30,38
-Serviço de transmissão                       2,06     8,14
-Encargos setoriais                           2,92    11,54
-Impostos diretos e encargos                  6,64    26,23
-Outros serviços                              0,00     0,00
-Total                                       25,31   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2023): R$ 6,79
-Sujeito a corte!
- Reaviso de vencimento:
-Seu fornecimento poderá ser suspenso a partir de
-20/02/2024.
-Regularize seus débitos.
-
-   FATURAS EM ATRASO
-  23/01/2024      25,35
-JAN/24     31,00 *                        0,00
-DEZ/23     32,00 *                        0,00
-NOV/23     32,00 *                        0,00
-OUT/23     35,00 *                        0,00
-SET/23     38,00 *                        0,00
-AGO/23      4,00                          0,00
-JUL/23      3,00                          0,00
-JUN/23     17,00                          0,00
-MAI/23     30,00                          0,00
-ABR/23     31,00                          0,00
-MAR/23     32,00                          0,00
-FEV/23     28,00                          0,00
-JAN/23     30,00                          0,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 21/12/2023      Leitura Atual: 22/01/2024   Dias: 32
-
-
-
-KWH   Ponta    6.126,00       6.095,00       1,00                                                   31,00             31,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

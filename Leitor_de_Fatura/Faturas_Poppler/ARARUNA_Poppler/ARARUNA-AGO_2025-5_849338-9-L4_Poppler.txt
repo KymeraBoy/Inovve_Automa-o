@@ -1,0 +1,213 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000 - CENTRO
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 012 - 0062 - 040 - 4920
+MATRÍCULA: 849338-2025-8-7
+DOM. BANC.:                                   DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA CASA DO MENOR
+
+RUA CEL TARGINO PEREIRA, S/N - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Agosto / 2025   23/09/2025   R$ 193,73
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
+pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura      Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh      KWH        225,00       0,776160        174,63        7,35         174,63   20      34,92   0,588270
+Adic. B. Vermelha                                             5,59        0,23           5,59   20       1,12
+Adic. B. Vermelha                                            13,51        0,57          13,51   20       2,70
+
+
+
+
+                             TOTAL:                         193,73        8,15         193,73           38,74
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+00000832017   Energia ativa em kWh   Ponta   51929   52154   1   225
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+ITAÚ                                                         341 -7 34191.09370 83716.582933 85951.190009 6 12130000019373                                            Pague por
+
+                                                                                                                                                                     PIX
+LOCAL DE PAGAMENTO                                                                                                               VENCIMENTO
+PAGAR PREFERENCIALMENTE NO ITAÚ                                                                                                                23/09/2025
+BENEFICIÁRIO                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA                                                               09.095.183/0001-40                2938/59511-9
+ENDEREÇO
+AV ENGENHEIRO AGRONOMO ALVARO FERREIRA, 155 - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58070-408
+                                                                                                                                 NOSSO NÚMERO
+                                                                                                                                        109/37837165-8
+                                                                                                                                                               É fácil, rápido e seguro.
+DATA DO DOCUMENTO        Nº DOCUMENTO                                    ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/08/2025               849338-2025-08-7                                DS                  N        28/08/2025                                    193,73
+                                                                                                                                 (-) DESCONTOS/
+                                   CARTEIRA   109           ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                  ABATIMENTOS
+INSTRUÇÕES                                                                                                                       (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                    DEDUÇÕES
+                                                                                                                                 (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                        MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                     (+) OUTROS
+                                                                                                                                 ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                 (=) VALOR
+                                                                                                                                 COBRADO
+
+PAGADOR                                                                                                                                            CPF/CNPJ
+PM ARARUNA CASA DO MENOR                                                                                                          08.927.105/0001-00
+RUA CEL TARGINO PEREIRA, S/N       ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                              CÓD. DE BAIXA
+                                                                                                                              AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                               Receba sua conta só com o PIX
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+Data de Apresentação: 03/09/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000849338-9
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+17/07/2025   19/08/2025   33   18/09/2025
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+5/849338-9
+
+00000832017
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         154,96    0,9383      1,45
+COFINS      154,96    4,3217      6,70
+ICMS        193,73     20,00     38,74
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/25                33
+              JUL/25                30
+              JUN/25                29
+              MAI/25                32
+Consumo kWh
+
+
+
+
+              ABR/25                28
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                30
+              NOV/24                29
+              OUT/24                32
+              SET/24                30
+              AGO/24                32
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+  193,73                  38,74
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+- -Reaj. taifário médio13,59% (EPB) a partir de 28/08/2025,conforme REH nº 3.518/2025
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+DIC         10,00      0,00   999,00   999,00
+FIC          4,00      0,00   999,00   999,00
+DMIC         7,00      0,00
+DICRI       13,00
+
+
+Conjunto:    Araruna
+
+Referência:                        06/2025
+Tensão Contratada:
+Limite Adequado:                 350 a 399
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+Serviço de distribuição                      41,25    21,30
+Compra de energia                            64,40    33,24
+Serviço de transmissão                        9,13     4,71
+Encargos setoriais                           32,06    16,55
+Impostos diretos e encargos                  46,89    24,20
+Outros serviços                               0,00     0,00
+Total                                       193,73   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2025): R$ 49,44
+
+===== FIM_PAGINA_17 | INICIO_PAGINA_18 =====
+
+AGO/25    225,00 *
+JUL/25    215,00
+JUN/25    227,00
+MAI/25     11,00
+ABR/25    250,00 *
+MAR/25    146,00
+FEV/25      0,00 *
+JAN/25    275,00 *
+DEZ/24    277,00 *
+NOV/24    280,00
+OUT/24    280,00 *
+SET/24    273,00
+AGO/24    283,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_18 | INICIO_PAGINA_19 =====
+
+              Leitura Anterior: 17/07/2025      Leitura Atual: 19/08/2025   Dias: 33
+
+
+
+KWH   Ponta   52.154,00      51.929,00       1,00                                                  225,00            225,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med

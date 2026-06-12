@@ -1,107 +1,0 @@
-PM JERICO PORTAL RODOVIARIO
-
-DOMICÍLIO DE ENTREGA
-PM JERICO PORTAL RODOVIARIO
-RUA LOPES FIGUEIREDO 110
-JERICÓ (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 009 - 0253 - 731 - 3220                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: W5038927994                          DOM. BANC.:
-MATRÍCULA: 1274541-2021-1-2                          DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-SIT ALTO ALEGRE, S/N
-AREA RURAL
-JERICO (AG: 245)
-
-
-
-                                                                   0001274541-0
-5/1274541-0
-              R$ 219,03
-
-
-              Janeiro/2021
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/02/2021
-               9,07 kWh
-             MÉDIA DIÁRIA
-263 kWh
-15/01/2021   05/02/2021   11/02/2021
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
-0601 Consumo em kWh                        263,00    0,562110    0,779120      204,91        204,91   25      51,22         156,36        1,04          4,81
-0601 Adic. B. Amarela                                                            2,36          2,36   25       0,59           1,80        0,01          0,05
-0601 Adic. B. Vermelha                                                          11,76         11,76   25       2,94           8,98        0,06          0,27
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:         219,03        219,03           54,75         167,14        1,11          5,13
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1274541-2021-1-2           23/02/2021         57640619      R$ 219,03
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- -Exclusão do ICMS pago na base de cálculo do PIS/COFINS, conforme Solução de
-- Consulta Interna COSIT nº 13/2018 da Receita Federal.O percentual de redução
-- na base de cálculo das contribuições no faturamento esse mês será de (- 94,7719%).
-DIC          6,27     0,00   12,54       25,08
-FIC          3,42     0,00    6,85       13,70
-DMIC         3,71     0,00
-DICRI       12,22
-
-
-Conjunto:    Jericó
-
-Referência:                          11/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                      63,18 28,84
-Compra de energia                            69,74 31,84
-Serviço de transmissão                       11,96   5,46
-Encargos setoriais                           13,16   6,01
-Impostos diretos e encargos                  60,99 27,85
-Outros serviços                               0,00   0,00
-Total                                       219,03 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2020): R$ 103,88
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-8   JAN/21    263,00
-0   DEZ/20    336,00
-    NOV/20    302,00
-    OUT/20    315,00
-    SET/20    329,00
-    AGO/20    292,00
-    JUL/20    261,00
-    JUN/20    323,00
-    MAI/20    386,00
-    ABR/20    368,00
-    MAR/20    370,00
-    FEV/20    305,00
-    JAN/20    347,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                Leitura Anterior: 16/12/2020   Leitura Atual: 14/01/2021   Dias: 29
-
-
-KWH   Ponta   5.836,00     5.573,00      1                                                 263,00         263,00
-
-
-
-
-                                                                                      * K : Constante do Medidor
-

@@ -1,134 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 009 - 0139 - 510 - 3400
-MATRÍCULA: 134582-2026-1-7
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM DESTERRO SECRETARIA DE ACAO SOCIAL
-
-RUA CON FLORENTINO, 39 - 58695000
-
-
-CENTRO
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Janeiro / 2026   23/02/2026   R$ 304,72
-- Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor garante o faturamento correto da conta de energia, evitando faturamentos
-pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poderá ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
-Importante: seu número de identificação será atualizado. A partir de 01/04/2026, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
-nem o fornecimento de energia.
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh     KWH        333,00       0,902460        300,52       15,42         300,52   20      60,10   0,675650
-Adic. B. Amarela                                             4,20        0,22           4,20   20       0,84
-
-
-
-
-                            TOTAL:                         304,72       15,64         304,72           60,94
-00009066735   Energia ativa em kWh   Ponta   33978   34311   1   333
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  134582-2026-1-7       23/02/2026       7276992        R$ 304,72
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 04/02/2026
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    00001345826
-16/12/2025   15/01/2026   30   12/02/2026
-5/134582-6
-
-00009066735
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS         243,76    1,1446      2,79
-COFINS      243,76    5,2721     12,85
-ICMS        304,72     20,00     60,94
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              JAN/26                30
-              DEZ/25                32
-              NOV/25                31
-              OUT/25                32
-Consumo kWh
-
-
-
-
-              SET/25                29
-              AGO/25                31
-              JUL/25                32
-              JUN/25                29
-              MAI/25                30
-              ABR/25                28
-              MAR/25                31
-              FEV/25                30
-              JAN/25                30
-  304,72                  60,94
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX - RES 1000 - ANEEL
-DIC         12,00       0,00   999,00      999,00
-FIC          4,00       0,00   999,00      999,00
-DMIC         9,00       0,00
-DICRI       13,00
-
-
-Conjunto:    Teixeira
-
-Referência:                             11/2025
-Tensão Contratada:
-Limite Adequado:                  350 a 399
-Serviço de distribuição                      76,49    25,10
-Compra de energia                            92,83    30,46
-Serviço de transmissão                       16,93     5,56
-Encargos setoriais                           41,89    13,75
-Impostos diretos e encargos                  76,58    25,13
-Outros serviços                               0,00     0,00
-Total                                       304,72   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 11/2025): R$ 94,41
-JAN/26    333,00 *
-DEZ/25    428,00
-NOV/25    400,00
-OUT/25    332,00
-SET/25    275,00
-AGO/25    171,00
-JUL/25    358,00 *
-JUN/25    374,00 *
-MAI/25    487,00
-ABR/25    429,00
-MAR/25    336,00
-FEV/25    251,00
-JAN/25    159,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 16/12/2025      Leitura Atual: 15/01/2026   Dias: 30
-
-
-
-KWH   Ponta   34.311,00      33.978,00       1,00                                                  333,00            333,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

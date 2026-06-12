@@ -1,130 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 013 - 0253 - 720 - 1520
-MATRÍCULA: 388859-2025-5-5
-DOM. BANC.:                                    DOM. ENT.: 9999253002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-GE JOAO ROSADO DE OLIVEIRA JERICO
-
-RUA PE JERONIMO MUNHOS, S/N - 58830000
-
-
-CENTRO
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-37
-Insc. Est.:
-Maio / 2025   23/06/2025   R$ 1.519,15
-                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura     Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh     KWH       1.943,00       0,763900      1.484,27       44,41       1.484,27   20      296,85   0,588270
-Adic. B. Amarela                                             34,88        1,05          34,88   20        6,98
-
-
-
-
-                            TOTAL:                        1.519,15       45,46       1.519,15           303,83
-E7021306306   Energia ativa em kWh   Ponta   70723   72666   1   1943
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  388859-2025-5-5       23/06/2025       5553001        R$ 1.519,15
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 04/06/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000388859-1
-22/04/2025   22/05/2025   30   18/06/2025
-5/388859-1
-
-E7021306306
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.215,30    0,6671       8,11
-COFINS    1.215,30    3,0729      37,35
-ICMS      1.519,15     20,00     303,83
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAI/25                30
-              ABR/25                32
-              MAR/25                29
-              FEV/25                30
-Consumo kWh
-
-
-
-
-              JAN/25                32
-              DEZ/24                29
-              NOV/24                30
-              OUT/24                32
-              SET/24                29
-              AGO/24                31
-              JUL/24                32
-              JUN/24                30
-              MAI/24                32
-1.519,15                 303,83
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Leitura confirmada
-- Leitura confirmada
-DIC         12,00     0,00   999,00   999,00
-FIC          4,00     0,00   999,00   999,00
-DMIC         9,00     0,00
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                       03/2025
-Tensão Contratada:
-Limite Adequado:                350 a 399
-Serviço de distribuição                      392,49     25,84
-Compra de energia                            492,98     32,45
-Serviço de transmissão                       101,19      6,66
-Encargos setoriais                           183,20     12,06
-Impostos diretos e encargos                  349,29     22,99
-Outros serviços                                 0,00     0,00
-Total                                       1.519,15   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 03/2025): R$ 369,85
-MAI/25   1.943,00
-ABR/25   2.009,00
-MAR/25   1.698,00
-FEV/25     863,00
-JAN/25     487,00
-DEZ/24     921,00
-NOV/24   2.061,00
-OUT/24   2.185,00
-SET/24   1.906,00
-AGO/24   1.874,00
-JUL/24   1.404,00
-JUN/24   1.358,00
-MAI/24   1.693,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 22/04/2025      Leitura Atual: 22/05/2025   Dias: 30
-
-
-
-KWH   Ponta   72.666,00      70.723,00       1,00                                                 1.943,00          1.943,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

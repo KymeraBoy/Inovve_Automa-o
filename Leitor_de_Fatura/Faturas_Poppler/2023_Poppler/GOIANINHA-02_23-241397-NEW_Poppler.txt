@@ -1,0 +1,118 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ PO MALHADINHA 48
+ PO O TUBULAR DE MALHADINHA
+ MALHADINHA/AREA RURAL
+ 59180-000 ESPIRITO SANTO RN
+
+REF:MÊS/ANO
+02/2023
+
+CÓDIGO DA INSTALAÇÃO
+241397
+CÓDIGO DO CLIENTE
+590875015
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV23
+       1248
+ 30
+JAN23
+        970
+ 30
+DEZ22
+       1010
+ 31
+NOV22
+        986
+ 30
+OUT22
+        841
+ 29
+SET22
+       1123
+ 33
+AGO22
+        856
+ 30
+JUL22
+        809
+ 29
+JUN22
+        842
+ 32
+MAI22
+        838
+ 30
+ABR22
+        850
+ 32
+MAR22
+        960
+ 31
+FEV22
+       1145
+ 28
+
+CONSUMO
+kWh
+1.248,00 
+1.303,00 
+
+Consumo-TUSD
+kWh
+        1.248,00 
+ 0,47349509 
+           590,92 
+            25,10 
+           590,92 
+18,00
+           106,37 
+ 0,36815380
+Consumo-TE
+kWh
+        1.248,00 
+ 0,35220829 
+           439,55 
+            18,66 
+           439,55 
+18,00
+            79,11 
+ 0,27385040
+Cob. ICMS Subven-CDE
+             5,73 
+Multa-NF 091148579
+            16,76 
+Multa-NF 092723862
+            15,95 
+Juros-NF 092723862
+             0,26 
+Juros-NF 091148579
+             1,95 
+IPCA-NF-091148579
+             0,94 
+TOTAL
+         1.072,06 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

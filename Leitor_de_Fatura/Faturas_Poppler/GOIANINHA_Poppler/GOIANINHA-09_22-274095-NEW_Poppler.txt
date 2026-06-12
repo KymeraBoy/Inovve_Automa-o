@@ -1,0 +1,114 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VEREADOR RAIMUNDO LISBOA 10
+ CENTRO DE VELORIO MUNICIPAL
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+09/2022
+
+CÓDIGO DA INSTALAÇÃO
+274095
+CÓDIGO DO CLIENTE
+856085023
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET22
+        200
+ 33
+AGO22
+        150
+ 30
+JUL22
+        132
+ 29
+JUN22
+        136
+ 32
+MAI22
+        134
+ 30
+ABR22
+        143
+ 32
+MAR22
+        145
+ 31
+FEV22
+        137
+ 28
+JAN22
+        152
+ 32
+DEZ21
+        148
+ 29
+NOV21
+        182
+ 29
+OUT21
+        138
+ 30
+SET21
+        141
+ 32
+
+CONSUMO
+kWh
+  200,00 
+   56,00 
+
+Consumo-TUSD
+kWh
+          200,00 
+ 0,48824225 
+            97,64 
+             4,16 
+            97,64 
+18,00
+            17,57 
+ 0,37954000
+Consumo-TE
+kWh
+          200,00 
+ 0,36317793 
+            72,63 
+             3,09 
+            72,63 
+18,00
+            13,07 
+ 0,28232000
+Ilum. Púb. Municipal
+            19,85 
+Multa-NF 083226108
+             2,25 
+Juros-NF 083226108
+             0,78 
+IPCA-NF-083226108
+             0,58 
+TOTAL
+           193,73 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

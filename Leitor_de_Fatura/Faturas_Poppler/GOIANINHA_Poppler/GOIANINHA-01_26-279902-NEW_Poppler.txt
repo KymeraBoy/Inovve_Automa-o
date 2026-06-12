@@ -1,0 +1,124 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ PO SUMARE 100 SN
+ ESCOLA MUNICIPAL JOAO LUCIO
+ SUMARE/SUMARE
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+279902
+CÓDIGO DO CLIENTE
+856247007
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        433
+ 33
+DEZ25
+        806
+ 30
+NOV25
+       1038
+ 31
+OUT25
+       1154
+ 30
+SET25
+       1023
+ 30
+AGO25
+       1105
+ 32
+JUL25
+        862
+ 31
+JUN25
+       1004
+ 31
+MAI25
+       1178
+ 29
+ABR25
+       1297
+ 30
+MAR25
+       1034
+ 29
+FEV25
+        928
+ 31
+JAN25
+        498
+ 31
+
+CONSUMO
+kWh
+         433,00  
+         162,00  
+
+Consumo-TUSD
+kWh
+          433,00 
+ 0,57618540 
+           249,48 
+            12,27 
+           249,48 
+20,00
+            49,90 
+ 0,43260000
+Consumo-TE
+kWh
+          433,00 
+ 0,41507725 
+           179,72 
+             8,84 
+           179,72 
+20,00
+            35,94 
+ 0,31164000
+Acrés. Band. AMARELA
+             2,30 
+             0,11 
+             2,30 
+20,00
+             0,46 
+Ilum. Púb. Municipal
+            48,59 
+Multa-NF 149199754
+            21,73 
+Juros-NF 149199754
+             8,32 
+IPCA-NF-149199754
+             2,64 
+TRIBF-IRRF(1.2%)
+             5,17-
+TRIBF-IRRF(4.8%)
+             1,57-
+TOTAL
+           506,04 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

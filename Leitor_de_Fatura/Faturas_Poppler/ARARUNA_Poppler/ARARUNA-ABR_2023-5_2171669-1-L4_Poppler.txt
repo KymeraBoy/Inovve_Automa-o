@@ -1,0 +1,202 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE ARARUNA
+RUA PROFESSOR MOREIRA 21 - CEP:58233000
+ARARUNA PB (AG: 62)
+
+ROTEIRO: 014 - 0062 - 080 - 4705
+MATRÍCULA: 2171669-2023-4-3
+DOM. BANC.:                               DOM. ENT.: 9999062001
+
+===== FIM_PAGINA_1 | INICIO_PAGINA_2 =====
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+===== FIM_PAGINA_2 | INICIO_PAGINA_3 =====
+
+PM ARARUNA SALA VACINA COVID
+
+RUA CEL PEDRO TARGINO, 0 - POSTO DE SAUDE 58233000 - 58233000
+
+
+CENTRO
+ARARUNA (AG: 62)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-00
+Insc. Est.:
+
+===== FIM_PAGINA_3 | INICIO_PAGINA_4 =====
+
+Abril / 2023   23/05/2023   R$ 1.151,26
+
+===== FIM_PAGINA_4 | INICIO_PAGINA_5 =====
+
+                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+                                                                                                                            T
+Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+                                                                                                                            P
+Consumo em kWh    KWH       1.480,00       0,777870      1.151,26       57,40       1.151,26   18      207,22   0,599080
+                                                                                                                            C
+                                                                                                                            I
+
+
+
+
+                           TOTAL:                        1.151,26       57,40       1.151,26           207,22
+
+===== FIM_PAGINA_5 | INICIO_PAGINA_6 =====
+
+W7033299165   Energia ativa em kWh   Ponta   35431   36911   1   1480
+
+===== FIM_PAGINA_6 | INICIO_PAGINA_7 =====
+
+BANCO DO BRASIL S A                                              001 -9       00190.00009 03268.926007 69120.034173 1 93590000115126                                     Pague por
+LOCAL DE PAGAMENTO                                                                                                                   VENCIMENTO
+PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL S A
+BENEFICIÁRIO
+ENERGISA PARAIBA DISTRIBUIDORA DE ENERGIA SA
+ENDEREÇO
+BR230 KM 25, S N - - CRISTO REDENTOR - JOÃO PESSOA / PB - CEP 58071-680
+                                                                                                                                                  23/05/2023
+                                                                                                                            CNPJ Ag/COD. BENEFICIÁRIO
+                                                                                                               09.095.183/0001-40
+                                                                                                                                     NOSSO NÚMERO
+                                                                                                                                      32689260069120034
+                                                                                                                                                                         PIX
+                                                                                                                                                                  É fácil, rápido e seguro.
+DATA DO DOCUMENTO          Nº DOCUMENTO                                      ESPÉCIE DOC         ACEITE   DATA DO PROCESSAMENTO      (=)VALOR DO DOCUMENTO
+28/04/2023                 2171669-2023-04-3                                 DS                  N        28/04/2023                                  1.151,26
+                                                                                                                                     (-) DESCONTOS/
+                                     CARTEIRA   17              ESPÉCIE R$          QUANTIDADE                 VALOR
+                                                                                                                                      ABATIMENTOS
+INSTRUÇÕES                                                                                                                           (-) OUTRAS
+OS VALORES DA MULTA/JUROS DE MORA POR ATRASO SÓ SERÃO COBRADOS                                                                        DEDUÇÕES
+                                                                                                                                     (+) MORA/
+NA PRIMEIRA FATURA APÓS O PAGAMENTO DESTA.                                                                                            MULTA
+TITULO SUJEITO A PROTESTO APÓS O VENCIMENTO.                                                                                         (+) OUTROS
+                                                                                                                                     ACRÉSCIMOS
+NÃO ACEITAMOS DEPÓSITO EM CONTA CORRENTE. CASO OCORRA, O MESMO NÃO QUITARÁ ESTA FATURA.
+                                                                                                                                     (=) VALOR
+                                                                                                                                     COBRADO
+
+PAGADOR                                                                                                                                               CPF/CNPJ
+PM ARARUNA SALA VACINA COVID                                                                                                          08.927.105/0001-00
+RUA CEL PEDRO TARGINO, 0 - POSTO DE SAUDE 58233000               ARARUNA (AG: 62)
+SACADOR/ AVALISTA                                                                                                                                 CÓD. DE BAIXA
+                                                                                                                                  AUTENTICAÇÃO MECÂNICA
+                                                                                                                                                                  Abra sua conta VOLTZ - Energisa
+
+===== FIM_PAGINA_7 | INICIO_PAGINA_8 =====
+
+Data de Apresentação: 03/05/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002171669-1
+
+===== FIM_PAGINA_8 | INICIO_PAGINA_9 =====
+
+24/03/2023   25/04/2023   32   26/05/2023
+
+===== FIM_PAGINA_9 | INICIO_PAGINA_10 =====
+
+5/2171669-1
+
+
+W7033299165
+
+===== FIM_PAGINA_10 | INICIO_PAGINA_11 =====
+
+          Base de Alíquota      Valor
+Tributo   Cálc.(R$)  (%)         (R$)
+PIS          944,02   1,0845    10,24
+COFINS       944,02   4,9955    47,16
+ICMS       1.151,26    18,00   207,22
+
+===== FIM_PAGINA_11 | INICIO_PAGINA_12 =====
+
+                                 Nº DIAS
+              CONSUMO FATURADO     FAT
+              ABR/23                   32
+              MAR/23                   29
+              FEV/23                   30
+              JAN/23                   32
+Consumo kWh
+
+
+
+
+              DEZ/22                   30
+              NOV/22                   30
+              OUT/22                   31
+              SET/22                   31
+              AGO/22                   32
+              JUL/22                   30
+              JUN/22                   29
+              MAI/22                   29
+              ABR/22                   32
+
+===== FIM_PAGINA_12 | INICIO_PAGINA_13 =====
+
+1.151,26                 207,22
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+===== FIM_PAGINA_13 | INICIO_PAGINA_14 =====
+
+DIC         0,00     0,00   0,00    0,00
+FIC         0,00     0,00   0,00    0,00
+DMIC        7,00     0,00
+DICRI       0,00
+
+
+Conjunto:
+
+Referência:                    02/2023
+Tensão Contratada:
+Limite Adequado:                    a
+
+===== FIM_PAGINA_14 | INICIO_PAGINA_15 =====
+
+Serviço de distribuição        221,31     19,21
+Compra de energia              392,07     34,06
+Serviço de transmissão          57,54      5,00
+Encargos setoriais             215,72     18,74
+Impostos diretos e encargos    264,62     22,99
+Outros serviços                   0,00     0,00
+Total                         1.151,26   100,00
+
+===== FIM_PAGINA_15 | INICIO_PAGINA_16 =====
+
+ABR/23   1.480,00
+MAR/23   1.551,00
+FEV/23   1.603,00
+JAN/23   1.659,00
+DEZ/22   1.585,00
+NOV/22   1.195,00
+OUT/22   1.242,00
+SET/22   1.076,00
+AGO/22     943,00
+JUL/22     809,00
+JUN/22     994,00
+MAI/22   1.526,00
+ABR/22   1.805,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+===== FIM_PAGINA_16 | INICIO_PAGINA_17 =====
+
+              Leitura Anterior: 24/03/2023      Leitura Atual: 25/04/2023   Dias: 32
+
+
+
+KWH   Ponta   36.911,00      35.431,00       1,00                                                   1.480,00        1.480,00
+
+
+
+
+                                                                                       * K : Constante do Medidor

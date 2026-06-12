@@ -1,0 +1,88 @@
+CONTA CONTRATO
+0854909525
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+272050
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+AV DOUTOR JOAO PRIMENIO 195  AP-24A
+CENTRO COMERCIAL ANTONIO PEREIRA DE SOUZ
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+AGO 22
+        461
+JUL 22
+        474
+JUN 22
+        445
+MAI 22
+        498
+ABR 22
+        529
+MAR 22
+        359
+FEV 22
+        384
+JAN 22
+        313
+DEZ 21
+        280
+NOV 21
+        294
+OUT 21
+        298
+SET 21
+        260
+AGO 21
+        325
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  461,00 
+   24,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       461,0000000 
+ 0,48777928 
+           224,86 
+Consumo Ativo(kWh)-TE                        
+       461,0000000 
+ 0,36271252 
+           167,21 
+Contrib. Ilum. Pública Municipal             
+            45,95 
+Atualizacao IPCA-NF 081654353 - 28.06.22     
+             0,12 
+Atualizacao IPCA-NF 080049055 - 27.05.22     
+             4,78 
+TOTAL DA FATURA
+           442,92 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0854909525
+MÊS/ANO
+08/2022
+TOTAL A PAGAR(R$)
+           442,92 
+VENCIMENTO
+20/09/2022

@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0790916018
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+280828
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+CJ NOVO HORIZONTE I 220
+GINASIO POLIESPORTIVO
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUL 22
+        171
+JUN 22
+        201
+MAI 22
+        141
+ABR 22
+        161
+MAR 22
+        156
+FEV 22
+        116
+JAN 22
+        100
+DEZ 21
+        161
+NOV 21
+        258
+OUT 21
+        166
+SET 21
+        174
+AGO 21
+        173
+JUL 21
+        174
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  171,00 
+  139,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       171,0000000 
+ 0,49205726 
+            84,14 
+Consumo Ativo(kWh)-TE                        
+       171,0000000 
+ 0,36574530 
+            62,54 
+Multa por atraso-NF 080049049 - 27/05/22     
+             2,38 
+Juros por atraso-NF 080049049 - 27/05/22     
+             1,43 
+TOTAL DA FATURA
+           150,49 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0790916018
+MÊS/ANO
+07/2022
+TOTAL A PAGAR(R$)
+           150,49 
+VENCIMENTO
+22/08/2022

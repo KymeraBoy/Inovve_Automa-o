@@ -1,0 +1,86 @@
+CONTA CONTRATO
+0855301520
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+278240
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA JOSE HONORIO DE CARVALHO 100
+POSTO DE SAUDE
+ITAPERUBU/AREA RURAL
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        478
+MAI 22
+        651
+ABR 22
+        633
+MAR 22
+        621
+FEV 22
+        709
+JAN 22
+        604
+DEZ 21
+        577
+NOV 21
+        579
+OUT 21
+        656
+SET 21
+        576
+AGO 21
+        579
+JUL 21
+        587
+JUN 21
+        672
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  478,00 
+  222,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       478,0000000 
+ 0,48974766 
+           234,09 
+Consumo Ativo(kWh)-TE                        
+       478,0000000 
+ 0,36384738 
+           173,91 
+Contrib. Ilum. Pública Municipal             
+            48,19 
+Atualizacao IPCA-NF 078485656 - 28.04.22     
+             1,07 
+TOTAL DA FATURA
+           457,26 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+0855301520
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           457,26 
+VENCIMENTO
+20/07/2022

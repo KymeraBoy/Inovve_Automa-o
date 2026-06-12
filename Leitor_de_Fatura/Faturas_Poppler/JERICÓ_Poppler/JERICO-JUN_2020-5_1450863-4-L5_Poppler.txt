@@ -1,103 +1,0 @@
-PM JERICO CEMITERIO PUBLICO
-
-DOMICÍLIO DE ENTREGA
-PM JERICO CEMITERIO PUBLICO
-RUA LOPES FIGUEIREDO 110
-JERICÓ (AG: 245)
-
-GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
-CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
-ROTEIRO: 010 - 0253 - 705 - 3440                       LIGAÇÃO: MONOFASICO
-Nº DO MEDIDOR: 00008530863                          DOM. BANC.:
-MATRÍCULA: 1450863-2020-6-7                          DOM. ENT.: 9999253001
-
-
-
-ENDEREÇO DA UNIDADE CONSUMIDORA
-RUA MANOEL SOUSA ALVES, S/N
-JD HORIZONTE
-JERICO (AG: 245)
-
-
-
-                                                                   0001450863-4
-5/1450863-4
-              R$ 63,22
-
-
-              Junho/2020
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-23/07/2020
-               2,89 kWh
-             MÉDIA DIÁRIA
-81 kWh
-17/06/2020   08/07/2020   16/07/2020
-                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
-CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,9147%)     (4,2133%)
-0601 Consumo em kWh                         81,00    0,545400    0,780560       63,22         63,22   25      15,80          63,22        0,57          2,66
-
-
-
-
-CCI: Código de Classificação do Item                            TOTAL:          63,22         63,22           15,80          63,22        0,57          2,66
-                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
-  1450863-2020-6-7           23/07/2020         46224587       R$ 63,22
-
->>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
-- Perda do Ramal: 1 kWh.
-DIC          6,27     0,00   12,54   25,08
-FIC          3,42     0,00    6,85   13,70
-DMIC         3,71     0,00
-DICRI       12,22
-
-
-Conjunto:    Jericó
-
-Referência:                      04/2020
-Tensão Contratada:
-Limite Adequado:               202 a 231
-Serviço de distribuição                     17,36 27,46
-Compra de energia                           21,64 34,23
-Serviço de transmissão                       2,58   4,08
-Encargos setoriais                           2,61   4,13
-Impostos diretos e encargos                 19,03 30,10
-Outros serviços                              0,00   0,00
-Total                                       63,22 100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 04/2020): R$ 9,55
-- Para preservar sua saúde, a Energisa está pronta para te
-atender pelos canais virtuais: site, App Energisa ON e Whatsapp
-(83) 99135-5540.
-8   JUN/20     81,00
-0   MAI/20     48,00
-    ABR/20     28,00
-    MAR/20     35,00
-    FEV/20     32,00
-    JAN/20     57,00
-    DEZ/19    104,00
-    NOV/19    238,00
-    OUT/19     90,00
-    SET/19     64,00
-    AGO/19     80,00
-    JUL/19     94,00
-    JUN/19    179,00
-
-
-
-
-             *FATURAMENTO PELA MÉDIA/MÍNIMO
-                 Leitura Anterior: 19/05/2020   Leitura Atual: 16/06/2020   Dias: 28
-
-
-KWH   Ponta   12.361,00    12.279,00      1              0                                   81,00          81,00
-
-
-
-
-                                                                                       * K : Constante do Medidor
-

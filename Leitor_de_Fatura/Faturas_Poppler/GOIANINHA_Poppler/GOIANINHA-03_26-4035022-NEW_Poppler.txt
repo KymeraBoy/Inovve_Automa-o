@@ -1,0 +1,107 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI LIMOAL 4
+ LIGACAO NOVA POCO PG PRX R55661
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+03/2026
+
+CÓDIGO DA INSTALAÇÃO
+4035022
+CÓDIGO DO CLIENTE
+7026607250
+
+ CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR26
+         30
+ 29
+FEV26
+         30
+ 29
+JAN26
+         30
+ 32
+DEZ25
+         30
+ 31
+NOV25
+         30
+ 29
+OUT25
+         30
+ 32
+SET25
+         30
+ 30
+AGO25
+         30
+ 32
+JUL25
+         30
+ 30
+JUN25
+         30
+ 30
+MAI25
+         30
+ 31
+ABR25
+         30
+ 30
+MAR25
+         30
+ 29
+
+CONSUMO
+kWh
+           0,00   
+
+Consumo-TUSD
+kWh
+           30,00 
+ 0,57575596 
+            17,27 
+             0,84 
+            17,27 
+20,00
+             3,46 
+ 0,43260000
+Consumo-TE
+kWh
+           30,00 
+ 0,41476788 
+            12,44 
+             0,59 
+            12,44 
+20,00
+             2,48 
+ 0,31164000
+TRIBF-IRRF(1.2%)
+             0,36-
+TOTAL
+            29,35 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

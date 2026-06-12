@@ -1,0 +1,116 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ CJ NOVO HORIZONTE I 225
+ ESCOLA MUN MARIA DO CEU
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+280829
+CÓDIGO DO CLIENTE
+790915011
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+       1983
+ 30
+OUT23
+       2000
+ 30
+SET23
+       1950
+ 31
+AGO23
+       2744
+ 31
+JUL23
+       2102
+ 32
+JUN23
+       1990
+ 29
+MAI23
+       3101
+ 30
+ABR23
+       2421
+ 32
+MAR23
+       1738
+ 29
+FEV23
+       1011
+ 30
+JAN23
+        911
+ 32
+DEZ22
+       2232
+ 29
+NOV22
+       2374
+ 30
+
+CONSUMO
+kWh
+       1.983,00 
+         606,00  
+
+Consumo-TUSD
+kWh
+        1.983,00 
+ 0,52197353 
+         1.035,07 
+            42,81 
+         1.035,07 
+20,00
+           207,02 
+ 0,39599000
+Consumo-TE
+kWh
+        1.983,00 
+ 0,38650743 
+           766,44 
+            31,69 
+           766,44 
+20,00
+           153,28 
+ 0,29322000
+Multa-NF 105570548
+            35,49 
+Juros-NF 105570548
+             6,49 
+IPCA-NF-105570548
+             1,62 
+TRIBF-IRRF(1.2%)
+            21,61-
+TRIBF-IRRF(4.8%)
+             2,06-
+TOTAL
+         1.821,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

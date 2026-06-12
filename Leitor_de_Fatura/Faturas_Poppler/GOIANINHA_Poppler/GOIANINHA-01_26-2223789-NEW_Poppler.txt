@@ -1,0 +1,123 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ AV MONSENHOR ARMANDO DE PAIVA 100
+ CENTRO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+2223789
+CÓDIGO DO CLIENTE
+7009774160
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+       1686
+ 32
+DEZ25
+       1854
+ 31
+NOV25
+       1530
+ 32
+OUT25
+       1574
+ 28
+SET25
+       1728
+ 31
+AGO25
+       1751
+ 33
+JUL25
+       1284
+ 29
+JUN25
+       2115
+ 32
+MAI25
+       2301
+ 30
+ABR25
+       2101
+ 28
+MAR25
+       1943
+ 30
+FEV25
+       1046
+ 32
+JAN25
+       1003
+ 29
+
+CONSUMO
+kWh
+       1.686,00 
+         460,00  
+
+Consumo-TUSD
+kWh
+        1.686,00 
+ 0,57618540 
+           971,44 
+            47,81 
+           971,44 
+20,00
+           194,29 
+ 0,43260000
+Consumo-TE
+kWh
+        1.686,00 
+ 0,41507725 
+           699,82 
+            34,42 
+           699,82 
+20,00
+           139,96 
+ 0,31164000
+Acrés. Band. AMARELA
+            35,70 
+             1,75 
+            35,70 
+20,00
+             7,14 
+Ilum. Púb. Municipal
+           153,79 
+Multa-NF 149199774
+            32,04 
+Juros-NF 149199774
+            12,27 
+IPCA-NF-149199774
+             3,91 
+TRIBF-IRRF(1.2%)
+            20,49-
+TRIBF-IRRF(4.8%)
+             2,30-
+TOTAL
+         1.886,18 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

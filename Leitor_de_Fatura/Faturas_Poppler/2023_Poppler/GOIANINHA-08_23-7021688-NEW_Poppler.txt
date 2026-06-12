@@ -1,0 +1,95 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RO RN 003 96 -PR
+ LANCHONETE
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+08/2023
+
+CÓDIGO DA INSTALAÇÃO
+7021688
+CÓDIGO DO CLIENTE
+7022161827
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO23
+        186
+ 31
+JUL23
+        174
+ 31
+JUN23
+        157
+ 30
+MAI23
+        135
+ 30
+ABR23
+         72
+ 30
+MAR23
+FEV23
+JAN23
+DEZ22
+NOV22
+OUT22
+SET22
+AGO22
+
+CONSUMO
+kWh
+         186,00  
+
+Consumo-TUSD
+kWh
+          186,00 
+ 0,51989024 
+            96,69 
+             3,71 
+            96,69 
+20,00
+            19,33 
+ 0,39599000
+Consumo-TE
+kWh
+          186,00 
+ 0,38496481 
+            71,60 
+             2,73 
+            71,60 
+20,00
+            14,32 
+ 0,29322000
+Ilum. Púb. Municipal
+            19,22 
+Multa-NF 100750097
+             2,82 
+Juros-NF 100750097
+             0,37 
+TOTAL
+           190,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

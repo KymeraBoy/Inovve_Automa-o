@@ -1,127 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE JERICÓ
-RUA LOPES FIGUEIREDO 110 - CEP:58830000 - CENTRO
-JERICO PB (AG: 245)
-
-ROTEIRO: 012 - 0253 - 710 - 1180
-MATRÍCULA: 677681-2025-3-8
-DOM. BANC.:                                    DOM. ENT.: 9999253002
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-EMEF JUVENAL BERNARDINO DE FREITAS
-JERICO
-RUA PREF LAURO ROSADO DE OLIVEIRA, S/N - 58830000
-
-
-JERICOZINHO
-JERICO (AG: 245)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-84
-Insc. Est.:
-Março / 2025   23/04/2025   R$ 1.486,80
-                                       Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
-Consumo em kWh    KWH       1.899,00       0,782930      1.486,80       72,32       1.486,80   20      297,36   0,588270
-
-
-
-
-                           TOTAL:                        1.486,80       72,32       1.486,80           297,36
-00008950655   Energia ativa em kWh   Ponta   77540   79439   1   1899
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  677681-2025-3-8       23/04/2025       5116088        R$ 1.486,80
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 03/04/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000677681-9
-19/02/2025   20/03/2025   29   17/04/2025
-5/677681-9
-
-00008950655
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS       1.189,43    1,0845      12,90
-COFINS    1.189,43    4,9955      59,42
-ICMS      1.486,80     20,00     297,36
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAR/25                29
-              FEV/25                30
-              JAN/25                32
-              DEZ/24                30
-Consumo kWh
-
-
-
-
-              NOV/24                29
-              OUT/24                32
-              SET/24                30
-              AGO/24                32
-              JUL/24                30
-              JUN/24                30
-              MAI/24                32
-              ABR/24                30
-              MAR/24                28
-1.486,80                 297,36
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-DIC         12,00     0,00   999,00   999,00
-FIC          4,00     0,00   999,00   999,00
-DMIC         9,00     0,00
-DICRI       13,00
-
-
-Conjunto:    Jericó
-
-Referência:                       01/2025
-Tensão Contratada:
-Limite Adequado:                202 a 231
-Serviço de distribuição                      386,85     26,03
-Compra de energia                            449,98     30,26
-Serviço de transmissão                        99,76      6,71
-Encargos setoriais                           180,53     12,14
-Impostos diretos e encargos                  369,68     24,86
-Outros serviços                                 0,00     0,00
-Total                                       1.486,80   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 01/2025): R$ 103,46
-MAR/25   1.899,00
-FEV/25     745,00
-JAN/25     475,00
-DEZ/24   1.291,00
-NOV/24   2.212,00
-OUT/24   2.529,00
-SET/24   2.361,00
-AGO/24   2.160,00
-JUL/24   1.636,00
-JUN/24   1.902,00
-MAI/24   2.038,00
-ABR/24   2.432,00
-MAR/24   2.511,00
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 19/02/2025      Leitura Atual: 20/03/2025   Dias: 29
-
-
-
-KWH   Ponta   79.439,00      77.540,00       1,00                                                 1.899,00          1.899,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

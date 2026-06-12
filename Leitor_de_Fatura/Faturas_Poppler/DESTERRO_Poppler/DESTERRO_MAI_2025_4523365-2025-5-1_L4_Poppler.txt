@@ -1,129 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 009 - 0139 - 510 - 7130
-MATRÍCULA: 4523365-2025-5-1
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
-PM DESTERRO CAPS I
-
-RUA PADRE JOSE FERNANDES, SN - 58695000
-
-
-ALTO CX DAGUA
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Maio / 2025   23/06/2025   R$ 31,80
-- Contrato de Adesão junto à fatura.
-                                      Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                41,00       0,763900         31,32        0,94          31,32   20       6,26   0,588270
-Adic. B. Amarela                                            0,48        0,01           0,48   20       0,10
-
-
-
-
-                           TOTAL:                          31,80        0,95          31,80            6,36
-N5256032391   Energia ativa em kWh   Ponta   0   41   1   41
-                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-   4523365-2025-5-1              23/06/2025      5495977         R$ 31,80
-
-CONTA PAGA - Data de Pagamento: 06/06/2025
-Data de Apresentação: 04/06/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0004523365-7
-15/04/2025   14/05/2025   29   12/06/2025
-5/4523365-7
-
-N5256032391
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          25,42    0,6671      0,17
-COFINS       25,42    3,0729      0,78
-ICMS         31,80     20,00      6,36
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAI/25                29
-              ABR/25
-              MAR/25
-              FEV/25
-Consumo kWh
-
-
-
-
-              JAN/25
-              DEZ/24
-              NOV/24
-              OUT/24
-              SET/24
-              AGO/24
-              JUL/24
-              JUN/24
-              MAI/24
-   31,80                   6,36
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- Leitura confirmada
-- Leitura confirmada
-DIC         0,00     0,00   0,00    0,00
-FIC         0,00     0,00   0,00    0,00
-DMIC        7,00     0,00
-DICRI       0,00
-
-
-Conjunto:
-
-Referência:                    03/2025
-Tensão Contratada:
-Limite Adequado:                    a
-Serviço de distribuição        8,21    25,81
-Compra de energia             10,32    32,45
-Serviço de transmissão         2,12     6,67
-Encargos setoriais             3,84    12,08
-Impostos diretos e encargos    7,31    22,99
-Outros serviços                0,00     0,00
-Total                         31,80   100,00
-MAI/25     41,00
-ABR/25
-MAR/25
-FEV/25
-JAN/25
-DEZ/24
-NOV/24
-OUT/24
-SET/24
-AGO/24
-JUL/24
-JUN/24
-MAI/24
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 15/04/2025      Leitura Atual: 14/05/2025   Dias: 29
-
-
-
-KWH   Ponta      41,00            0,00       1,00                                                   41,00             41,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg    * K: Const Med
-

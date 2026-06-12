@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA SAPUCAIA 85
+ ESCOLA MUN TEREZA FAGUNDES
+ SAPUCAIA/SAPUCAIA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+279152
+CÓDIGO DO CLIENTE
+242742010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        732
+ 33
+DEZ25
+       1321
+ 31
+NOV25
+       1155
+ 29
+OUT25
+       1194
+ 31
+SET25
+       1079
+ 31
+AGO25
+       1206
+ 33
+JUL25
+        769
+ 29
+JUN25
+       1201
+ 30
+MAI25
+       1076
+ 32
+ABR25
+       1253
+ 28
+MAR25
+       1201
+ 30
+FEV25
+        812
+ 32
+JAN25
+        738
+ 29
+
+CONSUMO
+kWh
+         732,00  
+         323,00  
+
+Consumo-TUSD
+kWh
+          732,00 
+ 0,57618540 
+           421,76 
+            20,76 
+           421,76 
+20,00
+            84,36 
+ 0,43260000
+Consumo-TE
+kWh
+          732,00 
+ 0,41507725 
+           303,83 
+            14,94 
+           303,83 
+20,00
+            60,76 
+ 0,31164000
+Acrés. Band. AMARELA
+            14,47 
+             0,70 
+            14,47 
+20,00
+             2,89 
+Multa-NF 149199733
+            24,18 
+Juros-NF 149199733
+             9,26 
+IPCA-NF-149199733
+             2,96 
+TRIBF-IRRF(1.2%)
+             8,88-
+TRIBF-IRRF(4.8%)
+             1,74-
+TOTAL
+           765,84 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

@@ -1,0 +1,124 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ RUA ABDON GRILO 18
+ ESCOLA MUN NAZARE DUARTE
+ COHAB/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+274651
+CÓDIGO DO CLIENTE
+242705017
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        564
+ 31
+DEZ25
+       4157
+ 33
+NOV25
+       5273
+ 28
+OUT25
+       5340
+ 30
+SET25
+       5038
+ 32
+AGO25
+       5054
+ 30
+JUL25
+       2758
+ 32
+JUN25
+       4788
+ 29
+MAI25
+       4875
+ 32
+ABR25
+       6163
+ 28
+MAR25
+       5221
+ 31
+FEV25
+       2195
+ 29
+JAN25
+        840
+ 31
+
+CONSUMO
+kWh
+         564,00  
+         230,00  
+
+Consumo-TUSD
+kWh
+          564,00 
+ 0,57618540 
+           324,96 
+            15,99 
+           324,96 
+20,00
+            65,00 
+ 0,43260000
+Consumo-TE
+kWh
+          564,00 
+ 0,41507725 
+           234,10 
+            11,51 
+           234,10 
+20,00
+            46,82 
+ 0,31164000
+Acrés. Band. AMARELA
+             6,84 
+             0,33 
+             6,84 
+20,00
+             1,36 
+Ilum. Púb. Municipal
+            50,98 
+Multa-NF 149199717
+           110,42 
+Juros-NF 149199717
+            42,32 
+IPCA-NF-149199717
+            13,52 
+TRIBF-IRRF(1.2%)
+             6,79-
+TRIBF-IRRF(4.8%)
+             7,98-
+TOTAL
+           768,37 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

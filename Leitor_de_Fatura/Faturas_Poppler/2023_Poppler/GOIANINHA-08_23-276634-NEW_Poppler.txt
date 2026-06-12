@@ -1,0 +1,112 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ SI SAO LUIS 50
+ POSTO DE SAUDE DE UMARI
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+08/2023
+
+CÓDIGO DA INSTALAÇÃO
+276634
+CÓDIGO DO CLIENTE
+242729013
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO23
+        709
+ 31
+JUL23
+        641
+ 32
+JUN23
+        785
+ 29
+MAI23
+       1080
+ 30
+ABR23
+       1010
+ 32
+MAR23
+        837
+ 29
+FEV23
+        858
+ 30
+JAN23
+        735
+ 32
+DEZ22
+        951
+ 29
+NOV22
+        815
+ 30
+OUT22
+       2015
+ 29
+SET22
+        633
+ 33
+AGO22
+       1650
+ 30
+
+CONSUMO
+kWh
+         709,00  
+         142,00  
+
+Consumo-TUSD
+kWh
+          709,00 
+ 0,51989024 
+           368,60 
+            14,13 
+           368,60 
+20,00
+            73,72 
+ 0,39599000
+Consumo-TE
+kWh
+          709,00 
+ 0,38496481 
+           272,94 
+            10,45 
+           272,94 
+20,00
+            54,58 
+ 0,29322000
+Multa-NF 100750030
+            14,15 
+Juros-NF 100750030
+             4,94 
+IPCA-NF-100750030
+             0,44 
+TOTAL
+           661,07 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

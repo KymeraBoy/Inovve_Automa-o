@@ -1,0 +1,108 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA PRINCIPAL GUARIBA 120
+ ESCOLA MUN ADALIA DIAS
+ GUARIBA/GUARIBA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+11/2023
+
+CÓDIGO DA INSTALAÇÃO
+279954
+CÓDIGO DO CLIENTE
+242733010
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV23
+       1582
+ 32
+OUT23
+       1503
+ 30
+SET23
+       1080
+ 29
+AGO23
+       1190
+ 33
+JUL23
+        937
+ 30
+JUN23
+        988
+ 31
+MAI23
+       1282
+ 30
+ABR23
+       1347
+ 30
+MAR23
+        914
+ 31
+FEV23
+        415
+ 30
+JAN23
+        357
+ 30
+DEZ22
+       1370
+ 31
+NOV22
+       1185
+ 30
+
+CONSUMO
+kWh
+       1.582,00 
+         275,00  
+
+Consumo-TUSD
+kWh
+        1.582,00 
+ 0,52197353 
+           825,76 
+            34,15 
+           825,76 
+20,00
+           165,15 
+ 0,39599000
+Consumo-TE
+kWh
+        1.582,00 
+ 0,38650743 
+           611,45 
+            25,28 
+           611,45 
+20,00
+           122,29 
+ 0,29322000
+TRIBF-IRRF(1.2%)
+            17,23-
+TOTAL
+         1.419,98 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

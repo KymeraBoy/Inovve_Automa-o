@@ -1,0 +1,92 @@
+CONTA CONTRATO
+7009805421
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2556689
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SEBASTIAO CAMILO 100
+ESTACAO ELEVATORIA DE ESGOTO
+NOVO PARAISO/SAPUCAIA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        100
+MAI 22
+        100
+ABR 22
+        100
+MAR 22
+        100
+FEV 22
+        601
+JAN 22
+        369
+DEZ 21
+        100
+NOV 21
+        565
+OUT 21
+        227
+SET 21
+        100
+AGO 21
+        381
+JUL 21
+        100
+JUN 21
+        100
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+   72,00 
+   90,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       100,0000000 
+ 0,47505523 
+            47,50 
+Consumo Ativo(kWh)-TE                        
+       100,0000000 
+ 0,35293195 
+            35,29 
+Cobrança de ICMS sobre Subvenção CDE         
+             0,45 
+Multa por atraso-NF 078485680 - 28/04/22     
+             1,67 
+Juros por atraso-NF 078485680 - 28/04/22     
+             0,69 
+Atualizacao IPCA-NF 078485680 - 28.04.22     
+             0,68 
+Atualizacao IPCA-NF 076900339 - 29.03.22     
+             0,72 
+TOTAL DA FATURA
+            87,00 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7009805421
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+            87,00 
+VENCIMENTO
+20/07/2022

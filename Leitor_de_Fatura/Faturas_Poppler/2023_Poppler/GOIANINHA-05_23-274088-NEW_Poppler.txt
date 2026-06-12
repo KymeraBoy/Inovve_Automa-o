@@ -1,0 +1,110 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.687/0001-73    
+ ENDEREÇO:
+ RUA VEREADOR RAIMUNDO LISBOA 50
+ ESCOLA MUNICIPAL DONA MARQUINHA
+ ESTACAO/AREA URBANA
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+05/2023
+
+CÓDIGO DA INSTALAÇÃO
+274088
+CÓDIGO DO CLIENTE
+242709012
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI23
+       1144
+ 30
+ABR23
+       1082
+ 30
+MAR23
+        819
+ 31
+FEV23
+        577
+ 30
+JAN23
+        516
+ 30
+DEZ22
+        869
+ 31
+NOV22
+       1140
+ 30
+OUT22
+        918
+ 29
+SET22
+       1013
+ 33
+AGO22
+        902
+ 30
+JUL22
+        770
+ 29
+JUN22
+        776
+ 32
+MAI22
+        968
+ 30
+
+CONSUMO
+kWh
+1.144,00 
+  413,00 
+
+Consumo-TUSD
+kWh
+        1.144,00 
+ 0,52396263 
+           599,41 
+            26,52 
+           599,41 
+20,00
+           119,89 
+ 0,39599000
+Consumo-TE
+kWh
+        1.144,00 
+ 0,38798031 
+           443,84 
+            19,63 
+           443,84 
+20,00
+            88,76 
+ 0,29322000
+Multa-NF 097536095
+            18,79 
+Juros-NF 097536095
+             0,30 
+TOTAL
+         1.062,34 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)

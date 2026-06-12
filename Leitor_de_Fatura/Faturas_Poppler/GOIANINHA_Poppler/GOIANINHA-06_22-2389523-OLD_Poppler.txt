@@ -1,0 +1,88 @@
+CONTA CONTRATO
+7007153842
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2389523
+
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+ 
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DOUTOR ANTONIO DE SOUZA 400
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Monofásico
+
+HISTÓRICO DO CONSUMO
+kWh
+JUN 22
+        173
+MAI 22
+        168
+ABR 22
+        186
+MAR 22
+        162
+FEV 22
+        168
+JAN 22
+        170
+DEZ 21
+        162
+NOV 21
+        199
+OUT 21
+        206
+SET 21
+        188
+AGO 21
+        207
+JUL 21
+        195
+JUN 21
+        182
+
+DIC-Nº
+FIC-Nº 
+DMIC-D
+interrup
+CONSUMO
+(kWh)
+  173,00 
+
+Consumo Ativo(kWh)-TUSD                      
+       173,0000000 
+ 0,48974766 
+            84,72 
+Consumo Ativo(kWh)-TE                        
+       173,0000000 
+ 0,36384738 
+            62,94 
+Contrib. Ilum. Pública Municipal             
+            17,44 
+Multa por atraso-NF 078485675 - 28/04/22     
+             3,29 
+Juros por atraso-NF 078485675 - 28/04/22     
+             1,36 
+Atualizacao IPCA-NF 078485675 - 28.04.22     
+             1,34 
+TOTAL DA FATURA
+           171,09 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+CONTA CONTRATO
+7007153842
+MÊS/ANO
+06/2022
+TOTAL A PAGAR(R$)
+           171,09 
+VENCIMENTO
+20/07/2022

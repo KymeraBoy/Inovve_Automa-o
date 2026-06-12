@@ -1,134 +1,0 @@
-DOMICÍLIO DE ENTREGA
-PREFEITURA MUNICIPAL DE DESTERRO
-RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
-DESTERRO PB (AG: 133)
-
-ROTEIRO: 008 - 0139 - 500 - 3320
-MATRÍCULA: 134891-2025-3-0
-DOM. BANC.:                                   DOM. ENT.: 9999139001
-Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
-PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
-PM DESTERRO REPETIDORA
-
-RUA SILVEIRA DANTAS, S/N - 58695000
-
-
-CENTRO
-DESTERRO (AG: 133)
-
-
-CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
-Insc. Est.:
-Março / 2025   23/04/2025   R$ 91,40
--Consumo parcelado, sem acréscimo, por faturamento a menor ou ausência de faturamento no(s) mês(es) anterior(es) (Art.323 Res.1000 Aneel). Caso seja de seu interesse efetuar o pagamento em número menor de
-parcelas ligue para 0800 083 0196 (ligação gratuita).
-                                                           Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
-Itens da Fatura                         Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
-Consumo em kWh                         KWH        115,00       0,782930         90,03        4,38          90,03   20      18,00   0,588270
-Acerto Faturamento - REN1000   7 kWh                                             5,48        0,27           5,48   20       1,10
-LANÇAMENTOS E SERVIÇOS
-VALOR PARCELADO 00/2                                                             -4,11       0,00           0,00            0,00
-
-
-
-
-                                                TOTAL:                          91,40        4,65          95,51           19,10
-W7070348818   Energia ativa em kWh   Ponta   2449   2571   1   115
-                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
-
-
-
-    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
-  134891-2025-3-0       23/04/2025       5067062         R$ 91,40
-
-FATURAMENTO AGRUPADO
-Data de Apresentação: 03/04/2025
-Cadastre sua Fatura em Débito Automático.
-Utilize o Código:    0000134891-1
-13/02/2025   14/03/2025   29   11/04/2025
-5/134891-1
-
-W7070348818
-Tributo   Base de     Alíquota   Valor
-          Cálc.(R$)      (%)      (R$)
-PIS          76,39    1,0845      0,83
-COFINS       76,39    4,9955      3,82
-ICMS         95,51     20,00     19,10
-                                  Nº DIAS
-               CONSUMO FATURADO
-                                    FAT
-              MAR/25                29
-              FEV/25                30
-              JAN/25                32
-              DEZ/24                31
-Consumo kWh
-
-
-
-
-              NOV/24                28
-              OUT/24                32
-              SET/24                30
-              AGO/24                30
-              JUL/24                32
-              JUN/24                30
-              MAI/24                35
-              ABR/24                32
-              MAR/24                30
-   95,51                  19,10
-
-
-
-
-Art. 13, Inciso VII do RICMS/PB - 1997
-.
-- ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
-- ACERTO DE FATURAMENTO - ART. 323 - RES. 1000 - ANEEL
-DIC         12,00       3,34   999,00   999,00
-FIC          4,00       1,00   999,00   999,00
-DMIC         9,00       3,34
-DICRI       13,00
-
-
-Conjunto:    Teixeira
-
-Referência:                         01/2025
-Tensão Contratada:
-Limite Adequado:                  350 a 399
-Serviço de distribuição                     24,85    26,01
-Compra de energia                           28,90    30,26
-Serviço de transmissão                       6,41     6,71
-Encargos setoriais                          11,60    12,15
-Impostos diretos e encargos                 23,75    24,87
-Outros serviços                              0,00     0,00
-Total                                       95,51   100,00
-Encargo de Uso do Sistema de Distribuição
-(Ref 01/2025): R$ 21,78
-MAR/25    115,00
-FEV/25    105,00 *
-JAN/25     44,00
-DEZ/24    100,00
-NOV/24     61,00
-OUT/24    100,00
-SET/24     92,00
-AGO/24     56,00
-JUL/24    112,00 *
-JUN/24    116,00
-MAI/24    115,00 *
-ABR/24     76,00
-MAR/24    122,00 *
-
-
-
-         *FATURAMENTO PELA MÉDIA/MÍNIMO
-              Leitura Anterior: 13/02/2025      Leitura Atual: 14/03/2025   Dias: 29
-
-
-
-KWH   Ponta    2.571,00       2.449,00       1,00                                                   115,00            115,00
-
-
-
-
-                                                                                       * KWTG: Dem Tusdg     * K: Const Med
-

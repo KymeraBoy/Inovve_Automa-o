@@ -1,0 +1,122 @@
+ NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE GOIANINHA
+ CNPJ: 08.162.***/****-**    
+ ENDEREÇO:
+ SI ATERRO 255
+ ESCOLA M ALBERTO TORRES
+ ZONA RURAL/AREA RURAL
+ 59173-000 GOIANINHA RN
+
+REF:MÊS/ANO
+01/2026
+
+CÓDIGO DA INSTALAÇÃO
+276537
+CÓDIGO DO CLIENTE
+242726014
+
+ CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN26
+        444
+ 33
+DEZ25
+       1473
+ 30
+NOV25
+       2063
+ 31
+OUT25
+       2237
+ 30
+SET25
+       2008
+ 30
+AGO25
+       1855
+ 32
+JUL25
+       1496
+ 31
+JUN25
+       1662
+ 31
+MAI25
+       2206
+ 29
+ABR25
+       2553
+ 30
+MAR25
+       2170
+ 29
+FEV25
+       1564
+ 31
+JAN25
+        533
+ 31
+
+CONSUMO
+kWh
+         444,00  
+          10,00  
+
+Consumo-TUSD
+kWh
+          444,00 
+ 0,57618540 
+           255,82 
+            12,59 
+           255,82 
+20,00
+            51,17 
+ 0,43260000
+Consumo-TE
+kWh
+          444,00 
+ 0,41507725 
+           184,29 
+             9,06 
+           184,29 
+20,00
+            36,85 
+ 0,31164000
+Acrés. Band. AMARELA
+             2,35 
+             0,11 
+             2,35 
+20,00
+             0,47 
+Multa-NF 149199725
+            43,20 
+Juros-NF 149199725
+            15,83 
+IPCA-NF-149199725
+             5,06 
+TRIBF-IRRF(1.2%)
+             5,31-
+TRIBF-IRRF(4.8%)
+             3,08-
+TOTAL
+           498,16 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
