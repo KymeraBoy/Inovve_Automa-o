@@ -8,6 +8,7 @@ import io
 import fitz
 import unicodedata
 from PIL import Image
+from pathlib import Path
 
 # ============================================================= #
 # CONFIGURAÇÕES
@@ -17,10 +18,7 @@ cores = [
     (192, 64, 0),
     (160, 128, 64),
     (224, 224, 160),
-    (224, 96, 96),
-
-
-]
+    (224, 96, 96),]
 
 month_name_mapping = {
     "janeiro": "JAN", "fevereiro": "FEV", "marco": "MAR", "março": "MAR",
@@ -114,19 +112,21 @@ def color_exists_in_page(page, cor_alvo_255):
     return simplificar_cor(cor_alvo_255) in extrair_cores_da_pagina(page)
 
 def obter_caminho_unico(dir_path, cropped_name):
-    full_path = os.path.join(dir_path, cropped_name)   
+    '''Pega a pasta e o nome do arquivo, verifica se já existe um arquivo com o mesmo nome.
+    Se existir, adiciona um sufixo "-copia" e um contador para criar um nome único,
+    evitando sobrescrever arquivos existentes.'''
+
+    base_path = Path(dir_path) / cropped_name
     # Se o arquivo não existe, retorna o caminho original
-    if not os.path.exists(full_path):
-        return full_path
-    # Separa o nome da extensão (ex: "imagem" e ".jpg")
-    name, extension = os.path.splitext(cropped_name)    
-    # Adiciona "-copia" e verifica repetidamente
+    if not base_path.exists():
+        return base_path
+
+    stem = base_path.stem
+    suffix = base_path.suffix
     counter = 1
-    new_name = f"{name}-copia{extension}"
-    new_path = os.path.join(dir_path, new_name)    
+    new_path = base_path.with_stem(f"{stem}-copia")
     while os.path.exists(new_path):
-        new_name = f"{name}-copia({counter}){extension}"
-        new_path = os.path.join(dir_path, new_name)
+        new_path = base_path.with_stem(f"{stem}-copia({counter})")
         counter += 1        
     return new_path
 
@@ -462,7 +462,7 @@ def renomear_documento(input_path, layout_key, info_extraida):
 # EXECUÇÃO
 # ============================================================= #
 
-def cropper_logic_energisa(input_path, output_path, template):
+def cropper_logic_energisa(input_path: Path, output_dir: Path, template):
     doc = fitz.open(input_path)
     texto_completo = ""
     for pagina in doc:
@@ -474,6 +474,7 @@ def cropper_logic_energisa(input_path, output_path, template):
         print(f"Não foi possível identificar o layout do documento {input_path}. Verifique manualmente.")
         doc.close()
         return output_path
+        return None
 
     # 4) Aplicar os recortes apropriadamente
     new_doc = aplicar_recortes_apropriadamente(doc, recortes, layout_key, template)
@@ -485,12 +486,16 @@ def cropper_logic_energisa(input_path, output_path, template):
     novo_nome = renomear_documento(input_path, layout_key, info_extraida)
 
     dir_path = os.path.dirname(output_path)
+    dir_path = Path(output_path).parent
     cropped_name = novo_nome.replace(".pdf", "_Cropped.pdf")
     output_path = os.path.join(dir_path, cropped_name)
+    output_path_final = dir_path / cropped_name
     # output_path = obter_caminho_unico(dir_path, cropped_name)
+    output_path_final = output_dir / cropped_name
 
     if len(new_doc) > 0:
         new_doc.save(output_path)
+        new_doc.save(str(output_path_final))
     new_doc.close()
     doc.close()    
 
@@ -499,3 +504,7 @@ def cropper_logic_energisa(input_path, output_path, template):
     new_input_path = obter_caminho_unico(dir_path, novo_nome)   
     os.rename(input_path, new_input_path)
     return output_path
+    dir_path_input = Path(input_path).parent
+    new_input_path = obter_caminho_unico(dir_path_input, novo_nome)   
+    Path(input_path).rename(new_input_path)
+    return str(output_path_final)

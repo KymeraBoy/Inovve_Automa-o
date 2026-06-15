@@ -1,7 +1,111 @@
 import os
 import re
 import fitz
+from pathlib import Path
+import shutil 
+import subprocess
 
+def limpar_pasta(caminho_pasta: str | Path) -> None:
+    """
+    Remove todo o conteúdo de uma pasta, mas mantém a própria pasta.
+
+    Args:
+        caminho_pasta: Caminho da pasta a ser limpa.
+    """
+    pasta = Path(caminho_pasta)
+
+    if not pasta.exists():
+        raise FileNotFoundError(f"A pasta '{pasta}' não existe.")
+
+    if not pasta.is_dir():
+        raise NotADirectoryError(f"'{pasta}' não é uma pasta.")
+
+    for item in pasta.iterdir():
+        if item.is_file() or item.is_symlink():
+            item.unlink()
+        elif item.is_dir():
+            shutil.rmtree(item)
+
+
+def obter_caminho_unico(dir_path, cropped_name):
+    '''Pega a pasta e o nome do arquivo, verifica se já existe um arquivo com o mesmo nome.
+    Se existir, adiciona um sufixo "-copia" e um contador para criar um nome único,
+    evitando sobrescrever arquivos existentes.'''
+    
+    base_path = Path(dir_path) / cropped_name
+    # Se o arquivo não existe, retorna o caminho original
+    if not base_path.exists():
+        return base_path
+
+    stem = base_path.stem
+    suffix = base_path.suffix
+    counter = 1
+    new_path = base_path.with_stem(f"{stem}-copia")
+    while new_path.exists():
+        new_path = base_path.with_stem(f"{stem}-copia({counter})")
+        counter += 1        
+    return new_path
+
+def pdf_para_txt_poppler_estruturado(
+    caminho_pdf: str | Path,
+    PATH_POPPLER_EXE: str | Path,
+    caminho_saida_txt: str | Path | None = None
+) -> str:
+
+    caminho_pdf = Path(caminho_pdf)
+    poppler_exe = Path(PATH_POPPLER_EXE)
+
+    pdfinfo_exe = poppler_exe.parent / "pdfinfo.exe"
+
+    result = subprocess.run(
+        [str(pdfinfo_exe), str(caminho_pdf)],
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace"
+    )
+
+    total_paginas = 0
+    for line in result.stdout.splitlines():
+        if "Pages:" in line:
+            total_paginas = int(line.split(":")[1].strip())
+            break
+
+    partes = []
+
+    for i in range(1, total_paginas + 1):
+
+        cmd = [
+            str(poppler_exe),
+            "-f", str(i),
+            "-l", str(i),
+            "-layout",
+            str(caminho_pdf),
+            "-"
+        ]
+
+        resultado = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace"
+        )
+
+        texto_pagina = resultado.stdout or ""
+
+        partes.append(f"\n<<<INICIO_PAGINA_{i}>>>\n")
+        partes.append(texto_pagina.strip())
+        partes.append(f"\n<<<FIM_PAGINA_{i}>>>\n\n")
+
+    texto_final = "".join(partes)
+
+    # 💾 SALVAMENTO AQUI
+    if caminho_saida_txt:
+        Path(caminho_saida_txt).write_text(texto_final, encoding="utf-8")
+
+    return texto_final
+# ===========================================
 
 def _normalizar_texto(texto):
     substituicoes = str.maketrans({
@@ -45,21 +149,6 @@ def _montar_nome_agrupada(textos_agrupada):
     novo_nome = re.sub(r"[^\w\-_\. ]", "_", novo_nome).strip(" -_.")
     novo_nome = novo_nome + "-COLETIVA"
     return f"{novo_nome or 'AGRUPADA'}.pdf"
-
-
-def _resolver_caminho_duplicado(caminho, caminho_atual=None):
-    pasta, nome_arquivo = os.path.split(caminho)
-    nome_base, extensao = os.path.splitext(nome_arquivo)
-    candidato = caminho
-    contador = 0
-
-    while os.path.exists(candidato) and os.path.normcase(candidato) != os.path.normcase(caminho_atual or ""):
-        contador += 1
-        sufixo = " - Copia" if contador == 1 else f" - Copia {contador}"
-        candidato = os.path.join(pasta, f"{nome_base}{sufixo}{extensao}")
-
-    return candidato
-
 
 def _normalizar_segmento_nome(texto):
     texto = _normalizar_texto(texto)
@@ -400,40 +489,27 @@ def _extrair_texto_de_pdf(caminho_pdf):
 
     blocos = []
     for indice, parte in enumerate(partes_validas, start=1):
+        if indice == 1:
+            blocos.append(f"===== INICIO_PAGINA_{indice} =====\n")
         blocos.append(parte)
         if indice < len(partes_validas):
-            blocos.append(f"\n===== FIM_PAGINA_{indice} | INICIO_PAGINA_{indice + 1} =====\n")
+            blocos.append(f"\n===== INICIO_PAGINA_{indice + 1} =====\n")
     return "\n".join(blocos).strip() + "\n"
 
 
-def _normalizar_nome_por_tag(nome_base, tag):
-    nome_limpo = re.sub(r"(?:_(?:Cropped|Poppler))+\Z", "", nome_base, flags=re.IGNORECASE)
-    return f"{nome_limpo}_{tag}"
 
 
-def _salvar_txt_poppler_individual(caminho_pdf_individual, pasta_poppler=None):
-    base_pdf = os.path.splitext(os.path.basename(caminho_pdf_individual))[0]
-    nome_txt = _normalizar_nome_por_tag(base_pdf, "Poppler") + ".txt"
-    pasta_destino = pasta_poppler or os.path.dirname(caminho_pdf_individual)
-    os.makedirs(pasta_destino, exist_ok=True)
-    caminho_txt = os.path.join(pasta_destino, nome_txt)
-    caminho_txt = _resolver_caminho_duplicado(caminho_txt)
-    texto_fatura = _extrair_texto_de_pdf(caminho_pdf_individual)
+def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, template, poppler):
 
-    with open(caminho_txt, "w", encoding="utf-8") as arquivo_txt:
-        arquivo_txt.write(texto_fatura or "")
-
-    return caminho_txt
-
-
-def cropper_logic_neoenergiaPE(input_path, output_path, template, output_poppler_dir=None):
+    
+    # Abre o PDF no fitz
     doc = fitz.open(input_path)
     new_doc = fitz.open()
     recortes = None
     novo_nome = None
-    pasta_cropped = os.path.dirname(output_path)
 
     for i in range(len(doc)):
+    
         page = doc.load_page(i)
         tipo_pagina, texto_pagina, textos_ind, score_pagina = _classificar_pagina_neoenergia(page, template)
 
@@ -456,27 +532,25 @@ def cropper_logic_neoenergiaPE(input_path, output_path, template, output_poppler
             continue
         elif tipo_pagina in {"INDIVIDUAL_NEW", "INDIVIDUAL_OLD"}:
             recortes_ind = template[tipo_pagina]
+
             textos_ind = _extrair_textos_recortes(page, recortes_ind)
-            nome_pdf = _montar_nome_individual(input_path, texto_pagina, tipo_pagina, textos_ind)
 
-            pasta_original = os.path.dirname(input_path)
-            nome_pasta = os.path.basename(pasta_original)
-            subpasta = os.path.join(pasta_original, nome_pasta + "-INDIVIDUAIS")
-            os.makedirs(subpasta, exist_ok=True)
+            nome_pdf = _montar_nome_individual(input_path, texto_pagina, tipo_pagina, textos_ind)   
+            nome_pdf_cropped = nome_pdf.replace(".pdf", "_Cropped.pdf") # Este é apenas o nome, não um Path
 
-            caminho_pdf_original = _resolver_caminho_duplicado(os.path.join(subpasta, nome_pdf))
-
-            nome_pdf_cropped = nome_pdf.replace(".pdf", "_Cropped.pdf")
-            caminho_pdf_cropped = _resolver_caminho_duplicado(os.path.join(pasta_cropped, nome_pdf_cropped))
+            caminho_pdf_original = obter_caminho_unico(ind_dir, nome_pdf)            
+            caminho_pdf_cropped = obter_caminho_unico(pasta_cropper, nome_pdf_cropped)
 
             # Salva a página individual completa na pasta de faturas originais.
-            doc_original = fitz.open()
-            page_original = doc_original.new_page(width=page.rect.width, height=page.rect.height)
-            page_original.show_pdf_page(page_original.rect, doc, i)
-            doc_original.save(caminho_pdf_original)
-            doc_original.close()
+            with fitz.open() as doc_original:
+                doc_original.insert_pdf(
+                    doc,
+                    from_page=i,
+                    to_page=i
+                )
+                doc_original.save(caminho_pdf_original)            
 
-            # Salva a versão recortada da fatura individual na pasta Cropped do município.
+            # Salva a versão recortada da fatura individual na pasta Cropped do município.            
             doc_ind = fitz.open()
             for r in recortes_ind:
                 recorte = fitz.Rect(r[0], r[1], r[2], r[3])
@@ -487,25 +561,12 @@ def cropper_logic_neoenergiaPE(input_path, output_path, template, output_poppler
             doc_ind.close()
 
             # Gera o TXT da fatura individual a partir da versão recortada.
-            _salvar_txt_poppler_individual(caminho_pdf_cropped, output_poppler_dir)
+            pdf_para_txt_poppler_estruturado(caminho_pdf_cropped, poppler, pasta_poppler)
         else:
             print(f"[Neoenergia] Página {i + 1} ignorada: tipo não reconhecido (score={score_pagina}).")
 
-    if novo_nome:
-        dir_path = os.path.dirname(output_path)
-        output_path = os.path.join(dir_path, novo_nome.replace(".pdf", "_Cropped.pdf"))
-        output_path = _resolver_caminho_duplicado(output_path)
 
-    if len(new_doc) > 0:
-        new_doc.save(output_path)
     new_doc.close()
-    doc.close()
+    doc.close()  
 
-    if novo_nome:
-        dir_path = os.path.dirname(input_path)
-        new_input_path = os.path.join(dir_path, novo_nome)
-        new_input_path = _resolver_caminho_duplicado(new_input_path, input_path)
-        if input_path != new_input_path:
-            os.rename(input_path, new_input_path)
-
-    return output_path
+    return 

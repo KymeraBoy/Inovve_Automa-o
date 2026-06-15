@@ -6,13 +6,15 @@ import os
 import re
 import subprocess
 import sys
+import shutil
+from tqdm import tqdm
 
 from pathlib import Path
 from templates_cropper import TEMPLATES
 
 from Cropper_logic_functions.cropper_logic_enel         import cropper_logic_enel
 from Cropper_logic_functions.cropper_logic_energisa     import cropper_logic_energisa
-from Cropper_logic_functions.cropper_logic_neoenergia   import cropper_logic_neoenergiaPE
+from Cropper_logic_functions.cropper_logic_neoenergia   import cropper_logic_neoenergia
 
 # ============================================================== #
 # CONFIGURAÇÕES
@@ -32,72 +34,18 @@ PATH_POPPLER_EXE    = diretorio / "poppler" / "Library" / "bin" / "pdftotext.exe
 # FUNÇÕES
 # ============================================================== #
 
-def obter_caminho_unico(dir_path, cropped_name):
-    full_path = dir_path / cropped_name    
-    # Se o arquivo não existe, retorna o caminho original
-    if not full_path.exists():
-        return full_path
-    # Separa o nome da extensão (ex: "imagem" e ".jpg")
-    name, extension = os.path.splitext(cropped_name)    
-    # Adiciona "-copia" e verifica repetidamente
-    counter = 1
-    new_name = f"{name}-copia{extension}"
-    new_path = dir_path / new_name    
-    while new_path.exists():
-        new_name = f"{name}-copia({counter}){extension}"
-        new_path = dir_path / new_name
-        counter += 1        
-    return new_path
+def selecionar_subpasta(caminho_pasta_pai: Path) -> Path:
+    '''Lista as subpastas disponíveis em uma pasta pai e permite que o usuário selecione uma delas. Retorna o caminho da subpasta selecionada.'''
+    subpastas = sorted([f for f in caminho_pasta_pai.iterdir() if f.is_dir()])
+    if not subpastas:
+        raise ValueError(f"Nenhuma subpasta encontrada em '{caminho_pasta_pai}'. Certifique-se de que há subpastas.")
 
-def run_pdftotext(input_pdf, output_txt):
-    """Executa o comando externo pdftotext via subprocess."""
-    try:
-        # O argumento '-layout' preserva a estrutura visual do texto
-        subprocess.run([PATH_POPPLER_EXE, "-layout", "-enc", "UTF-8", input_pdf, output_txt], check=True)
-        inserir_divisorias_paginas_txt(output_txt)
-        return True
-    except Exception as e:
-        print(f"Erro ao converter {input_pdf}: {e}")
-        return False
-
-
-def inserir_divisorias_paginas_txt(caminho_txt):
-    """Insere divisorias legiveis entre paginas em arquivos de texto do Poppler."""
-    if not os.path.exists(caminho_txt):
-        return
-
-    with open(caminho_txt, "r", encoding="utf-8", errors="replace") as arquivo:
-        conteudo = arquivo.read()
-
-    # O pdftotext separa paginas por \f; mantemos o texto original e inserimos marcadores entre paginas.
-    paginas = [pagina.strip("\r\n") for pagina in conteudo.replace("\r\n", "\n").split("\f") if pagina.strip()]
-    if len(paginas) <= 1:
-        return
-
-    separadas = []
-    for indice, pagina in enumerate(paginas, start=1):
-        separadas.append(pagina)
-        if indice < len(paginas):
-            separadas.append(f"\n===== FIM_PAGINA_{indice} | INICIO_PAGINA_{indice + 1} =====\n")
-
-    with open(caminho_txt, "w", encoding="utf-8") as arquivo:
-        arquivo.write("\n".join(separadas).strip() + "\n")
-
-
-def normalizar_nome_por_tag(nome_arquivo, tag, nova_extensao=None):
-    nome_base, ext = os.path.splitext(nome_arquivo)
-    nome_limpo = re.sub(r"(?:_(?:Cropped|Poppler))+\Z", "", nome_base, flags=re.IGNORECASE)
-    extensao = nova_extensao if nova_extensao is not None else ext
-    return f"{nome_limpo}_{tag}{extensao}"
-
-def format_progress_bar(current, total, width=30):
-    """Cria uma barra textual de progresso com preenchimento proporcional."""
-    if total <= 0:
-        return "[------------------------------]   0.0%"
-    ratio = current / total
-    filled = int(width * ratio)
-    bar = "#" * filled + "-" * (width - filled)
-    return f"[{bar}] {ratio * 100:5.1f}%"
+    print(f"\n--- SUBPASTAS DISPONÍVEIS EM '{caminho_pasta_pai.name}' ---")
+    for i, folder_path in enumerate(subpastas):
+        print(f"{i} - {folder_path.name}")
+    
+    f_choice = int(input("Escolha a pasta (índice): "))
+    return subpastas[f_choice]
 
 def renomear_pdfs_em_ordem(src_dir):
     pdf_files = sorted(
@@ -121,165 +69,155 @@ def renomear_pdfs_em_ordem(src_dir):
 
     return arquivos_renomeados
 
+def limpar_pasta(caminho_pasta: str | Path) -> None:
+    """
+    Remove todo o conteúdo de uma pasta, mas mantém a própria pasta.
 
-def listar_pdfs_disponiveis(src_dir):
-    return sorted(
-        [file_path.name for file_path in src_dir.iterdir() if file_path.is_file() and file_path.suffix.lower() == ".pdf"]
-    )
+    Args:
+        caminho_pasta: Caminho da pasta a ser limpa.
+    """
+    pasta = Path(caminho_pasta)
 
+    if not pasta.exists():
+        raise FileNotFoundError(f"A pasta '{pasta}' não existe.")
 
-def processar_cropper(
-    src_dir,
-    selected_template_name,
-    selected_template,
-    selected_files=None,
-    progress_callback=None,
-    log_callback=None,
-    gerar_txt=True,
-    limpar_saida=False,
-):
-    dst_dir = PATH_CROPPED / f"{src_dir.name}_Cropped"
-    txt_dir = PATH_POPPLER / f"{src_dir.name}_Poppler"
-    os.makedirs(dst_dir, exist_ok=True)
-    os.makedirs(txt_dir, exist_ok=True)
+    if not pasta.is_dir():
+        raise NotADirectoryError(f"'{pasta}' não é uma pasta.")
 
-    if limpar_saida:
-        for pasta in (dst_dir, txt_dir):
-            for item in Path(pasta).iterdir():
-                if item.is_file():
-                    item.unlink()
+    for item in pasta.iterdir():
+        if item.is_file() or item.is_symlink():
+            item.unlink()
+        elif item.is_dir():
+            shutil.rmtree(item)
 
-    arquivos = selected_files or listar_pdfs_disponiveis(src_dir)
-    if not arquivos:
-        raise ValueError("Nenhum PDF disponível para processamento.")
+def selecionar_modelo(lista):
+        modelos_disponiveis = list(lista.keys())
+        print("\n--- MODELOS DISPONÍVEIS ---")
+        for i, mod in enumerate(modelos_disponiveis): print(f"{i} - {mod}")
+        m_choice = int(input("Escolha o modelo (índice): "))
+        return modelos_disponiveis[m_choice]
 
-    poppler_disponivel = os.path.exists(PATH_POPPLER_EXE)
-    if not poppler_disponivel and log_callback:
-        log_callback(f"Aviso: pdftotext não encontrado em {PATH_POPPLER_EXE}. A conversão para txt será ignorada.")
+def progresso(pasta: str | Path, processar_pdf):
+    """
+    Varre todos os PDFs de uma pasta e exibe uma barra de progresso.
 
-    resultados = []
-    for idx, file_name in enumerate(arquivos, start=1):
-        input_file = src_dir / file_name
-        output_file = os.path.join(dst_dir, f"{os.path.splitext(file_name)[0]}_Cropped.pdf")
+    Args:
+        pasta: Caminho da pasta contendo os PDFs.
+        processar_pdf: Função que receberá um objeto Path para cada PDF.
+    """
+    pasta = Path(pasta)
 
-        if log_callback:
-            log_callback(f"Processando {file_name} com template {selected_template_name}...")
+    if not pasta.exists():
+        raise FileNotFoundError(f"Pasta não encontrada: {pasta}")
 
-        cropped_pdf_path = output_file
-        if selected_template_name == "ENEL":
-            cropped_pdf_path = cropper_logic_enel(str(input_file), output_file, selected_template)
-        elif selected_template_name == "ENERGISA":
-            cropped_pdf_path = cropper_logic_energisa(str(input_file), output_file, selected_template)
-        elif selected_template_name == "NEOENERGIA":
-            cropped_pdf_path = cropper_logic_neoenergiaPE(
-                str(input_file),
-                output_file,
-                selected_template,
-                output_poppler_dir=txt_dir,
-            )
+    if not pasta.is_dir():
+        raise NotADirectoryError(f"O caminho informado não é uma pasta: {pasta}")
 
-        txt_path = ""
-        if gerar_txt and poppler_disponivel and cropped_pdf_path and os.path.exists(cropped_pdf_path):
-            txt_name = normalizar_nome_por_tag(os.path.basename(cropped_pdf_path), "Poppler", ".txt")
-            txt_path = os.path.join(txt_dir, txt_name)
-            if log_callback:
-                log_callback(f"Convertendo para txt: {os.path.basename(cropped_pdf_path)} -> {txt_name}")
-            run_pdftotext(cropped_pdf_path, txt_path)
+    pdfs = list(pasta.glob("*.pdf"))
 
-        resultados.append(
-            {
-                "arquivo": file_name,
-                "cropped_pdf": cropped_pdf_path,
-                "txt": txt_path,
-                "sucesso": bool(cropped_pdf_path and os.path.exists(cropped_pdf_path)),
-            }
-        )
+    if not pdfs:
+        print("Nenhum PDF encontrado.")
+        return
 
-        if progress_callback:
-            progress_callback(idx, len(arquivos), file_name)
+    for pdf in tqdm(
+        pdfs,
+        total=len(pdfs),
+        desc="Processando PDFs",
+        unit="pdf",
+        colour="green"
+    ):
+        processar_pdf(pdf)
 
-    return {
-        "origem": src_dir,
-        "cropped_dir": dst_dir,
-        "poppler_dir": txt_dir,
-        "resultados": resultados,
-        "processados": len(resultados),
-        "sucesso": sum(1 for item in resultados if item["sucesso"]),
-        "falhas": sum(1 for item in resultados if not item["sucesso"]),
-    }
+def obter_caminho_unico(dir_path, cropped_name):
+    '''Pega a pasta e o nome do arquivo, ve se tem um arquivo com mesmo nome, caso tenh adiciona o sufixo "-copia" e um contador para criar um nome unico, evitando sobrescrever arquivos existentes.'''
+
+    full_path = dir_path / cropped_name    
+    # Se o arquivo não existe, retorna o caminho original
+    if not full_path.exists():
+        return full_path
+    # Separa o nome da extensão (ex: "imagem" e ".jpg")
+    name, extension = os.path.splitext(cropped_name)    
+
+    stem = full_path.stem
+    suffix = full_path.suffix
+    # Adiciona "-copia" e verifica repetidamente
+    counter = 1
+    new_name = f"{name}-copia{extension}"
+    new_path = dir_path / new_name    
+    new_path = dir_path / f"{stem}-copia{suffix}"
+    while new_path.exists():
+        new_name = f"{name}-copia({counter}){extension}"
+        new_path = dir_path / new_name
+        new_path = dir_path / f"{stem}-copia({counter}){suffix}"
+        counter += 1        
+    return new_path
+
 
 # ============================================================== #
 # EXECUÇÃO
 # ============================================================== #
 
 def integralaiser_orchestrator():
-    if not os.path.exists(PATH_CROPPED): os.makedirs(PATH_CROPPED)  # Verifica se o caminho de saída já existe, e cria um caso não exista
-    if not os.path.exists(PATH_POPPLER): os.makedirs(PATH_POPPLER)  # Verifica se o caminho de saída dos txts já existe
-
-    # 1. Seleção de Pasta
-    subfolders = [f for f in os.listdir(PATH_FATURAS) if os.path.isdir(os.path.join(PATH_FATURAS, f))]  # Essa variavel ira conter a lista de passtas dentro da pasta de Faturas
-    print("\n--- PASTAS DISPONÍVEIS ---")
-    for i, folder in enumerate(subfolders): print(f"{i} - {folder}")
-    f_choice = int(input("Escolha a pasta (índice): "))
-    selected_folder = subfolders[f_choice]
-    src_dir = PATH_FATURAS / selected_folder
-    pdf_files = renomear_pdfs_em_ordem(src_dir)
-    print(f"PDFs renomeados na pasta {selected_folder}: {len(pdf_files)} arquivo(s).")
     
-    # 2. Seleção de Modelo 
-    modelos_disponiveis = list(TEMPLATES.keys())
-    print("\n--- MODELOS DISPONÍVEIS ---")
-    for i, mod in enumerate(modelos_disponiveis): print(f"{i} - {mod}")
-    m_choice = int(input("Escolha o modelo (índice): "))
-    selected_template_name = modelos_disponiveis[m_choice]
+    # 1. Garantir que as pastas de saída (Cropped e Poppler) existam.
+    PATH_CROPPED.mkdir(parents=True, exist_ok=True)
+    PATH_POPPLER.mkdir(parents=True, exist_ok=True)
+
+    # 2. Seleção de Subpasta
+    src_dir         = selecionar_subpasta(PATH_FATURAS) # Endereço da subpasta
+    nome_subpasta   = src_dir.name                      # Nome da subpasta
+    pdf_files       = renomear_pdfs_em_ordem(src_dir)   # PDFs da subpasta
+    
+    # 2. Seleção de Modelo     
+    selected_template_name = selecionar_modelo(TEMPLATES)
     selected_template = TEMPLATES[selected_template_name]
 
+    if selected_template_name == "NEOENERGIA":
+        ind_dir = src_dir / f"{src_dir.name}-INDIVIDUAIS"    
+        ind_dir.mkdir(parents=True, exist_ok=True)
+        limpar_pasta(ind_dir)
+
     # 3. Processamento: Garante e salva os endereços das pastas e subpastas de origem e de saída
-    dst_dir = PATH_CROPPED / f"{selected_folder}_Cropped"
-    txt_dir = PATH_POPPLER / f"{selected_folder}_Poppler"
-    if not os.path.exists(dst_dir): os.makedirs(dst_dir)
-    if not os.path.exists(txt_dir): os.makedirs(txt_dir)
-    
+    dst_dir = PATH_CROPPED / f"{nome_subpasta}_Cropped"
+    txt_dir = PATH_POPPLER / f"{nome_subpasta}_Poppler"    
+    dst_dir.mkdir(parents=True, exist_ok=True)
+    txt_dir.mkdir(parents=True, exist_ok=True)
+    limpar_pasta(dst_dir)
+    limpar_pasta(txt_dir)    
+        
+    print(f"Quantidade de PDFs para processar: {len(pdf_files)}")
 
-    lista = os.listdir(src_dir)
-    pdf_files = [file_name for file_name in lista if file_name.lower().endswith('.pdf')]
-    total_pdfs = len(pdf_files)
-    print(f"Quantidade de documentos: {len(lista)}")
-    print(f"Quantidade de PDFs para processar: {total_pdfs}")
-
-    poppler_disponivel = os.path.exists(PATH_POPPLER_EXE)
+    poppler_disponivel = PATH_POPPLER_EXE.exists()
     if not poppler_disponivel:
         print(f"Aviso: pdftotext não encontrado em {PATH_POPPLER_EXE}. A etapa de conversão para txt será ignorada.")
+    
 
-    for idx, file_name in enumerate(pdf_files, start=1):
-        restantes = total_pdfs - idx
-        barra = format_progress_bar(idx, total_pdfs)
-        print(f"\n{barra} | {idx}/{total_pdfs} processados | {restantes} restantes")
+    def processar_um_pdf_para_cropper(pdf_path: Path):
+        # Determine the output path for the cropped PDF
+        cropped_output_name = pdf_path.name.replace(".pdf", "_Cropped.pdf")
+        output_cropped_path = dst_dir / cropped_output_name
 
-        input_file = os.path.join(src_dir, file_name)
-        output_file = os.path.join(dst_dir, f"{os.path.splitext(file_name)[0]}_Cropped.pdf")
-        print(f"Processando {file_name} com template {selected_template_name}...")
-        cropped_pdf_path = output_file
+        # Determine the output path for the Poppler TXT (if applicable)
+        poppler_output_name = pdf_path.name.replace(".pdf", "_Poppler.txt")
+        output_poppler_path = txt_dir / poppler_output_name
+
         if selected_template_name == "ENEL":
-            cropped_pdf_path = cropper_logic_enel(input_file, output_file, selected_template)
-        if selected_template_name == "ENERGISA":
-            cropped_pdf_path = cropper_logic_energisa(input_file, output_file, selected_template)
-        if selected_template_name == "NEOENERGIA":
-            cropped_pdf_path = cropper_logic_neoenergiaPE(
-                input_file,
-                output_file,
-                selected_template,
-                output_poppler_dir=txt_dir,
-            )
+            # cropper_logic_enel expects input_path, output_path, template
+            cropper_logic_enel(pdf_path, output_cropped_path, selected_template)
+            # A lógica original não gerava TXT para ENEL.
 
-        if poppler_disponivel and cropped_pdf_path and os.path.exists(cropped_pdf_path):
-            txt_name = normalizar_nome_por_tag(os.path.basename(cropped_pdf_path), "Poppler", ".txt")
-            output_txt = os.path.join(txt_dir, txt_name)
-            print(f"Convertendo para txt: {os.path.basename(cropped_pdf_path)} -> {txt_name}")
-            run_pdftotext(cropped_pdf_path, output_txt)
-        elif poppler_disponivel:
-            
-            (f"Aviso: PDF cropado não encontrado para conversão: {cropped_pdf_path}")
+        elif selected_template_name == "ENERGISA":
+            # cropper_logic_energisa agora espera input_path e output_dir.
+            # A função foi modificada para não renomear o arquivo de entrada.
+            cropper_logic_energisa(pdf_path, dst_dir, selected_template)
+            # A lógica original não gerava TXT para ENERGISA.
+
+        if selected_template_name == "NEOENERGIA":
+            # cropper_logic_neoenergia lida com a criação de múltiplos PDFs e TXTs internamente.
+            # Criar a pasta de faturas individuais            
+            cropper_logic_neoenergia(pdf_path, dst_dir, txt_dir, ind_dir, selected_template, PATH_POPPLER_EXE)          
+
+    progresso(src_dir, processar_um_pdf_para_cropper)
 
 if __name__ == "__main__":
     integralaiser_orchestrator()
