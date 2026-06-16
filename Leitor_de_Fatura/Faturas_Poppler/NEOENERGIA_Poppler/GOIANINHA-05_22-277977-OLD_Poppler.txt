@@ -1,0 +1,99 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0854956949
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+277977
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RO BR 101 8888
+ESTADIO DE FUTEBOL
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       2893
+ABR 22
+       3100
+MAR 22
+       5917
+FEV 22
+       5974
+JAN 22
+       5959
+DEZ 21
+       3162
+NOV 21
+       1906
+OUT 21
+       2000
+SET 21
+        996
+AGO 21
+        806
+JUL 21
+        982
+JUN 21
+       1116
+MAI 21
+        679
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     2.892,9600000 
+ 0,48012860 
+         1.388,99 
+BANDEIRA VERDE                               
+Consumo Ativo(kWh)-TE                        
+     2.892,9600000 
+ 0,35777735 
+         1.035,03 
+Consumo Reativo Excedente(kVARh)             
+       271,2200000 
+ 0,35777735 
+            97,03 
+Contrib. Ilum. Pública Municipal             
+           230,74 
+Multa por atraso-NF 076900312 - 29/03/22     
+           105,29 
+Juros por atraso-NF 076900312 - 29/03/22     
+            38,59 
+Atualizacao IPCA-NF 076900312 - 29.03.22     
+            39,03 
+TOTAL DA FATURA
+         2.934,70 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+2.822,40 
+  264,60
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0854956949
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         2.934,70 
+VENCIMENTO
+20/06/2022
+

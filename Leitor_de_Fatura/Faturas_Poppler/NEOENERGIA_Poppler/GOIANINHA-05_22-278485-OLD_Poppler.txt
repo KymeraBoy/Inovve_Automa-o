@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0242703014
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+278485
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MANOEL CLAUDIO BEZERRA 110
+GRUPO ESCOLAR JOAO MANDU
+UNA/UNA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        979
+ABR 22
+       1161
+MAR 22
+        734
+FEV 22
+        484
+JAN 22
+        917
+DEZ 21
+       1071
+NOV 21
+        796
+OUT 21
+        560
+SET 21
+        559
+AGO 21
+        438
+JUL 21
+        491
+JUN 21
+        498
+MAI 21
+        400
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+       979,0000000 
+ 0,43760157 
+           428,41 
+Consumo Ativo(kWh)-TE                        
+       979,0000000 
+ 0,33371654 
+           326,70 
+Acréscimo Bandeira AMARELA                   
+            34,74 
+Multa por atraso-NF 078485619 - 28/04/22     
+            20,56 
+Juros por atraso-NF 078485619 - 28/04/22     
+             2,04 
+TOTAL DA FATURA
+           812,45 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+  979,00 
+  527,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0242703014
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           812,45 
+VENCIMENTO
+20/06/2022
+

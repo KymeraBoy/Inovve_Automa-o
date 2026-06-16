@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0242708016
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+271246
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA LUIZ BELARMINO DA COSTA 450
+ESCOLA MUNICIPAL DR HELIO M DE GALVAO
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       3539
+ABR 22
+       4015
+MAR 22
+       2390
+FEV 22
+       1569
+JAN 22
+       2002
+DEZ 21
+       2623
+NOV 21
+       1497
+OUT 21
+        979
+SET 21
+        847
+AGO 21
+        665
+JUL 21
+        746
+JUN 21
+        687
+MAI 21
+        707
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     3.539,0000000 
+ 0,43760157 
+         1.548,67 
+Consumo Ativo(kWh)-TE                        
+     3.539,0000000 
+ 0,33371654 
+         1.181,02 
+Acréscimo Bandeira AMARELA                   
+           125,61 
+Multa por atraso-NF 078485624 - 28/04/22     
+            71,15 
+Juros por atraso-NF 078485624 - 28/04/22     
+             7,11 
+TOTAL DA FATURA
+         2.933,56 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+3.539,00 
+  691,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0242708016
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         2.933,56 
+VENCIMENTO
+20/06/2022
+

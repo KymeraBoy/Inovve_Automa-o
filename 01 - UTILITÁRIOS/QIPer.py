@@ -1,28 +1,19 @@
 from __future__ import annotations
 
 import argparse
-import os
-import sys
 from pathlib import Path
 import re
 from datetime import date
-import unicodedata
 
 import pandas as pd
 import pdfplumber
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-
-def _get_base_dir() -> Path:
-	# Em modo PyInstaller, __file__ aponta para diretório temporário.
-	# Usamos a pasta do executável para comportamento portátil.
-	if getattr(sys, "frozen", False):
-		return Path(sys.executable).resolve().parent
-	return Path(__file__).resolve().parent
+from utils import get_base_dir, clean_cell, render_progress, normalize_string_for_filename, MONTH_MAPPINGS, NUM_TO_MONTH_ABBR
 
 
-BASE_DIR = _get_base_dir()
+BASE_DIR = get_base_dir()
 DEFAULT_INPUT_DIR = BASE_DIR
 OUTPUT_DIR = BASE_DIR / "Output"
 DEFAULT_WORKBOOK_NAME = "QIP_consolidado.xlsx"
@@ -139,31 +130,24 @@ def _sanitize_sheet_name(name: str, used_names: set[str]) -> str:
 		index += 1
 
 
-# Mapeamento de meses por extenso para número
-_MESES = {
-	"janeiro": "01", "fevereiro": "02", "março": "03", "marco": "03", "abril": "04", "maio": "05", "junho": "06",
-	"julho": "07", "agosto": "08", "setembro": "09", "outubro": "10", "novembro": "11", "dezembro": "12"
-}
-
 def _normalize_municipio(raw_name: str) -> str:
-	text = unicodedata.normalize("NFKD", raw_name)
-	text = "".join(ch for ch in text if not unicodedata.combining(ch))
-	text = text.upper()
-	text = re.sub(r"[^A-Z ]", "", text)
-	text = re.sub(r"\s+", "_", text).strip("_")
-	return text
+	return normalize_string_for_filename(raw_name)
 
 
 def _extract_info_from_new_qip_text(text: str) -> tuple[str, str, str] | None:
 	match_mes_ano = _RE_MES_ANO_REFERENCIA.search(text)
 	match_local = _RE_LOCAL.search(text)
+	_RE_ANTIGO_HEADER = re.compile(
+		r"^([A-Za-zçÇãõéêíóúâôáàéèíìóòúù\s]+)\s+([0-9]{2})\s+([0-9]{4})$"
+	)
+
 	if not match_mes_ano or not match_local:
 		return None
 
 	mes_extenso = match_mes_ano.group(1).strip().lower()
 	mes = _MESES.get(mes_extenso)
 	ano = match_mes_ano.group(2)
-	municipio = _normalize_municipio(match_local.group(1).strip())
+	municipio = normalize_string_for_filename(match_local.group(1).strip())
 
 	if mes and ano and municipio:
 		return mes, ano, municipio
@@ -175,7 +159,7 @@ def _extract_old_qip_payload(first_table: list[list[object]]) -> tuple[str, str,
 		return None
 
 	first_cell = str(first_table[0][0]).strip() if first_table[0][0] else ""
-	match = _RE_ANTIGO_HEADER.match(first_cell)
+	match = re.compile(r"^([A-Za-zçÇãõéêíóúâôáàéèíìóòúù\s]+)\s+([0-9]{2})\s+([0-9]{4})$").match(first_cell)
 	if not match:
 		return None
 
@@ -186,7 +170,7 @@ def _extract_old_qip_payload(first_table: list[list[object]]) -> tuple[str, str,
 	if len(first_table) < 2:
 		return None
 
-	headers = [_clean_cell(cell) for cell in first_table[1]]
+	headers = [clean_cell(cell) for cell in first_table[1]]
 	data_rows: list[list[str]] = []
 	for row in first_table[2:]:
 		cleaned_row = [_clean_cell(cell) for cell in row]
@@ -217,7 +201,7 @@ def _is_old_qip_header_row(row: list[str], headers: list[str]) -> bool:
 def _old_table_to_dataframe(raw_table: list[list[object]], headers: list[str]) -> pd.DataFrame:
 	rows: list[list[str]] = []
 	for row in raw_table:
-		cleaned_row = [_clean_cell(cell) for cell in row]
+		cleaned_row = [clean_cell(cell) for cell in row]
 		if any(cleaned_row):
 			rows.append(cleaned_row)
 
@@ -225,7 +209,7 @@ def _old_table_to_dataframe(raw_table: list[list[object]], headers: list[str]) -
 		return pd.DataFrame(columns=headers)
 
 	first_cell = rows[0][0] if rows[0] else ""
-	if first_cell and _RE_ANTIGO_HEADER.match(first_cell):
+	if first_cell and re.compile(r"^([A-Za-zçÇãõéêíóúâôáàéèíìóòúù\s]+)\s+([0-9]{2})\s+([0-9]{4})$").match(first_cell):
 		rows = rows[1:]
 
 	if rows and _is_old_qip_header_row(rows[0], headers):
@@ -620,15 +604,13 @@ def _build_resumo_mensal_dataframe(sheet_names: list[str], start_year: int = 201
 	for ano in range(hoje.year, start_year - 1, -1):
 		mes_inicial = hoje.month if ano == hoje.year else 12
 		for mes in range(mes_inicial, 0, -1):
-			tem_qip = (ano, mes) in qip_disponiveis
-			linhas.append(
-				{
-					"Ano": ano,
-					"Mes": _MESES_ABREV[mes],
-					"Mes_numero": f"{mes:02d}",
-					"Status": "OK" if tem_qip else "AUSENTE",
-				}
-			)
+			tem_qip = (ano, mes) in qip_disponiveis # type: ignore
+			linhas.append({
+				"Ano": ano,
+				"Mes": NUM_TO_MONTH_ABBR[mes], # type: ignore
+				"Mes_numero": f"{mes:02d}",
+				"Status": "OK" if tem_qip else "AUSENTE",
+			})
 
 	return pd.DataFrame(linhas, columns=["Ano", "Mes", "Mes_numero", "Status"])
 
@@ -688,7 +670,7 @@ def process_folder(input_folder: Path, output_dir: Path) -> list[Path]:
 		try:
 			payload = _extract_pdf_payload(pdf_file)
 			if not payload:
-				return (None, pdf_file, None, f"[AVISO] Não foi possível extrair dados/tabela de '{pdf_file.name}', pulando...")
+				return (None, pdf_file, None, f"[AVISO] Nao foi possivel extrair dados/tabela de '{pdf_file.name}', pulando...")
 
 			mes, ano, municipio, dataframe = payload
 			_rename_pdf_if_needed(pdf_file, municipio, ano, mes)
@@ -701,11 +683,11 @@ def process_folder(input_folder: Path, output_dir: Path) -> list[Path]:
 		future_to_pdf = {executor.submit(process_single_pdf, pdf_file): pdf_file for pdf_file in pdf_files}
 		for idx, future in enumerate(as_completed(future_to_pdf), 1):
 			municipio, aba_nome, dataframe, error = future.result()
+			render_progress(idx, total_pdfs, prefix="Processando PDFs")
 			if error:
 				print(error)
-				_render_progress(idx, total_pdfs, prefix="Processando PDFs")
 				continue
-
+			
 			if municipio not in municipio_dataframes:
 				municipio_dataframes[municipio] = {}
 
@@ -713,7 +695,6 @@ def process_folder(input_folder: Path, output_dir: Path) -> list[Path]:
 			aba_nome = _sanitize_sheet_name(str(aba_nome), used_sheet_names)
 			municipio_dataframes[municipio][aba_nome] = dataframe
 			_render_progress(idx, total_pdfs, prefix="Processando PDFs")
-
 	if not municipio_dataframes:
 		raise ValueError("Nenhuma tabela válida foi extraída dos PDFs encontrados.")
 

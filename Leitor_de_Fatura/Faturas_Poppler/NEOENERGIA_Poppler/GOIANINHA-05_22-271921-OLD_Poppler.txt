@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0851312730
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+271921
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+AV DOUTOR JOAO PRIMENIO 214
+MERCADO PUBLICO MUNICIPAL
+CENTRO/AREA URBANA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       4800
+ABR 22
+       5168
+MAR 22
+       4725
+FEV 22
+       4772
+JAN 22
+       5286
+DEZ 21
+       4753
+NOV 21
+       5028
+OUT 21
+       5255
+SET 21
+       4675
+AGO 21
+       5206
+JUL 21
+       4666
+JUN 21
+       4678
+MAI 21
+       4639
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     4.800,0000000 
+ 0,43456393 
+         2.085,90 
+Consumo Ativo(kWh)-TE                        
+     4.800,0000000 
+ 0,33199792 
+         1.593,59 
+Acréscimo Bandeira AMARELA                   
+           196,54 
+Multa por atraso-NF 076900307 - 29/03/22     
+            82,99 
+Juros por atraso-NF 076900307 - 29/03/22     
+            35,95 
+TOTAL DA FATURA
+         3.994,97 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+4.800,00 
+5.887,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0851312730
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         3.994,97 
+VENCIMENTO
+20/06/2022
+

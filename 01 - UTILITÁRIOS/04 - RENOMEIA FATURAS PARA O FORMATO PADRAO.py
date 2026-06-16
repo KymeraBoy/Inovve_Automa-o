@@ -5,36 +5,16 @@ from datetime import datetime
 import re
 import unicodedata
 from dataclasses import dataclass
-from pathlib import Path
 
 import fitz
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.formatting.rule import CellIsRule
 from openpyxl.styles import Alignment, Font, PatternFill
-from openpyxl.utils import get_column_letter
+from openpyxl.utils import get_column_letter # type: ignore
+from pathlib import Path
 
-
-MONTH_NAME_TO_ABBR = {
-	"janeiro": "JAN",
-	"fevereiro": "FEV",
-	"marco": "MAR",
-	"março": "MAR",
-	"abril": "ABR",
-	"maio": "MAI",
-	"junho": "JUN",
-	"julho": "JUL",
-	"agosto": "AGO",
-	"setembro": "SET",
-	"outubro": "OUT",
-	"novembro": "NOV",
-	"dezembro": "DEZ",
-}
-
-MONTH_ABBR = {"JAN", "FEV", "MAR", "ABR", "MAI", "JUN", "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"}
-MONTH_ORDER = ["JAN", "FEV", "MAR", "ABR", "MAI", "JUN", "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"]
-
-INVALID_FILENAME_CHARS = re.compile(r'[<>:"/\\|?*]')
+from utils import MONTH_MAPPINGS, MONTH_ABBR_TO_NUM, NUM_TO_MONTH_ABBR, normalize_string_for_filename, strip_accents, INVALID_FILENAME_CHARS, build_unique_path
 
 
 @dataclass
@@ -45,29 +25,12 @@ class InvoiceData:
 
 
 def month_year_sort_key(value: str) -> tuple[int, int]:
-	match = re.fullmatch(r"([A-Z]{3})_(\d{4})", value)
+	match = re.fullmatch(r"([A-Z]{3})_(\d{4})", value) # type: ignore
 	if not match:
 		return (9999, 99)
 	month_abbr, year = match.groups()
-	try:
-		month_index = MONTH_ORDER.index(month_abbr) + 1
-	except ValueError:
-		month_index = 99
-	return (int(year), month_index)
-
-
-def strip_accents(text: str) -> str:
-	normalized = unicodedata.normalize("NFKD", text)
-	return "".join(ch for ch in normalized if not unicodedata.combining(ch))
-
-
-def normalize_for_filename(text: str) -> str:
-	text = strip_accents(text)
-	text = text.upper().strip()
-	text = re.sub(r"\s+", "_", text)
-	text = INVALID_FILENAME_CHARS.sub("-", text)
-	text = re.sub(r"[^A-Z0-9_\-]", "", text)
-	return text.strip("_-")
+	month_index = MONTH_ABBR_TO_NUM.get(month_abbr, 99)
+	return (int(year), month_index) # type: ignore
 
 
 def read_pdf_text(pdf_path: Path) -> str:
@@ -82,7 +45,7 @@ def extract_municipio(text: str) -> str | None:
 		match = re.search(r"PREFEITURA\s+MUNICIPAL\s+DE\s+(.+)$", line, re.IGNORECASE)
 		if not match:
 			continue
-		municipio = match.group(1).strip()
+		municipio = match.group(1).strip() # type: ignore
 		municipio = re.sub(r"\s+PB$", "", municipio, flags=re.IGNORECASE)
 		municipio = re.sub(r"\s+\([A-Z]{2}:.*$", "", municipio)
 		municipio = re.sub(r"\s+", " ", municipio)
@@ -97,14 +60,14 @@ def extract_municipio(text: str) -> str | None:
 		# Ex.: "COREMAS (AG: 227)"
 		ag_match = re.search(r"\b([A-Z]{3,})\s*\(AG:\s*\d+\)", norm)
 		if ag_match:
-			candidate = normalize_for_filename(ag_match.group(1))
+			candidate = normalize_string_for_filename(ag_match.group(1)) # type: ignore
 			if candidate:
 				return candidate
 
 		# Ex.: "PM COREMAS ..." / "PM DE COREMAS ..." / "P.M. COREMAS ..."
 		pm_match = re.search(r"\bP\.?\s*M\.?\s*(?:DE\s+|DO\s+|DA\s+)?([A-Z]{3,})\b", norm)
 		if pm_match:
-			candidate = normalize_for_filename(pm_match.group(1))
+			candidate = normalize_string_for_filename(pm_match.group(1)) # type: ignore
 			if candidate:
 				return candidate
 
@@ -136,18 +99,18 @@ def extract_mes_ano(text: str) -> str | None:
 		re.IGNORECASE,
 	)
 	match = full_name_pattern.search(text)
-	if match:
-		mes = MONTH_NAME_TO_ABBR.get(match.group(1).lower())
-		ano = match.group(2)
+	if match: # type: ignore
+		mes = MONTH_MAPPINGS.get(match.group(1).lower(), {}).get("abbr") # type: ignore
+		ano = match.group(2) # type: ignore
 		if mes:
 			return f"{mes}_{ano}"
 
 	abbr_pattern = re.compile(r"\b(JAN|FEV|MAR|ABR|MAI|JUN|JUL|AGO|SET|OUT|NOV|DEZ)\s*/\s*(\d{2})\b", re.IGNORECASE)
 	match = abbr_pattern.search(text)
-	if match:
-		mes = match.group(1).upper()
-		ano_2 = match.group(2)
-		if mes in MONTH_ABBR:
+	if match: # type: ignore
+		mes = match.group(1).upper() # type: ignore
+		ano_2 = match.group(2) # type: ignore
+		if mes in MONTH_ABBR_TO_NUM: # type: ignore
 			return f"{mes}_20{ano_2}"
 
 	return None
@@ -241,7 +204,7 @@ def build_month_year_columns(found_months: set[str]) -> list[str]:
 		return []
 
 	years = [int(m.split("_")[1]) for m in valid_months]
-	first_year = min(years)
+	first_year = min(years) # type: ignore
 	last_year = max(years)
 
 	columns: list[str] = []
@@ -249,7 +212,7 @@ def build_month_year_columns(found_months: set[str]) -> list[str]:
 		for month in MONTH_ORDER:
 			columns.append(f"{month}_{year}")
 	return columns
-
+MONTH_ORDER = [NUM_TO_MONTH_ABBR[i] for i in range(1, 13)] # type: ignore
 
 def generate_status_spreadsheet(records: list[InvoiceData], output_folder: Path) -> Path | None:
 	if not records:
@@ -363,20 +326,6 @@ def format_status_workbook(xlsx_path: Path, month_columns: list[str]) -> None:
 	ws.conditional_formatting.add(qtd_range, high_missing_rule)
 
 	wb.save(xlsx_path)
-
-
-def build_unique_path(target_path: Path) -> Path:
-	if not target_path.exists():
-		return target_path
-
-	stem = target_path.stem
-	suffix = target_path.suffix
-	counter = 2
-	while True:
-		candidate = target_path.with_name(f"{stem}_{counter}{suffix}")
-		if not candidate.exists():
-			return candidate
-		counter += 1
 
 
 def process_folder(folder: Path, dry_run: bool) -> None:

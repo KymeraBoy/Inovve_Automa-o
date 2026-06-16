@@ -33,12 +33,6 @@ PATH_ANALISE = diretorio / "Faturas_Analaiser"
 # MAPEAMENTO DAS FUNCOES DE FORMATACAO
 # ============================================================== #
 
-FORMATADORES = {
-    # "ENEL": format_enel,
-    "ENERGISA": format_energisa,
-    "NEOENERGIA": format_neoenergia,
-}
-
 THIN_SIDE = Side(style="thin", color="D9E2F3")
 BORDER_LIGHT = Border(left=THIN_SIDE, right=THIN_SIDE, top=THIN_SIDE, bottom=THIN_SIDE)
 FONT_HEADER = Font(name="Calibri", bold=True, color="FFFFFF")
@@ -63,15 +57,27 @@ def limpar_estado_processamento():
     aba_historico_consumo.clear()
     historico.clear()
 
+def limpar_pasta(caminho_pasta: str | Path) -> None:
+    """
+    Remove todo o conteúdo de uma pasta, mas mantém a própria pasta.
 
-def limpar_arquivos_texter(dst_dir):
-    arquivos_removidos = 0
-    for item in dst_dir.iterdir():
-        if item.is_file():
+    Args:
+        caminho_pasta: Caminho da pasta a ser limpa.
+    """
+    pasta = Path(caminho_pasta)
+
+    if not pasta.exists():
+        raise FileNotFoundError(f"A pasta '{pasta}' não existe.")
+
+    if not pasta.is_dir():
+        raise NotADirectoryError(f"'{pasta}' não é uma pasta.")
+
+    for item in pasta.iterdir():
+        if item.is_file() or item.is_symlink():
             item.unlink()
-            arquivos_removidos += 1
-    if arquivos_removidos:
-        print(f"[OK] {arquivos_removidos} arquivo(s) antigos removidos de: {dst_dir}")
+        elif item.is_dir():
+            shutil.rmtree(item)
+
 
 
 def _montar_nome_saida_texter(nome_entrada):
@@ -519,74 +525,61 @@ def _gerar_planilha_texter(dst_dir):
     wb.save(caminho_planilha)
     return caminho_planilha
 
+def selecionar_subapasta(PATH):
+    subfolders = [f.name for f in PATH.iterdir() if f.is_dir()]
+    print("\n--- SELECAO DE PASTA (ORIGEM: POPPLER) ---")
+    for i, folder in enumerate(subfolders):
+        print(f"{i} - {folder}")
+
+    f_choice = int(input("Indice da pasta: "))
+    return subfolders[f_choice]
 
 # ============================================================== #
 # ORQUESTRADOR
 # ============================================================== #
 
 def texter_orchestrator():
+    
     PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
+    PATH_ANALISE.mkdir(parents=True, exist_ok=True)
+    
     limpar_estado_processamento()
 
     # 1. Selecao de pasta de origem
-    subfolders = [f.name for f in PATH_INPUT.iterdir() if f.is_dir()]
-    print("\n--- SELECAO DE PASTA (ORIGEM: POPPLER) ---")
-    for i, folder in enumerate(subfolders):
-        print(f"{i} - {folder}")
+    selected_subfolder = selecionar_subapasta(PATH_INPUT)
 
-    f_choice = int(input("Indice da pasta: "))
-    selected_subfolder = subfolders[f_choice]
+    src_dir         = PATH_INPUT / selected_subfolder   # Endereço pasta Poppler do municipio
 
-    src_dir = PATH_INPUT / selected_subfolder
-    dst_dir_name = selected_subfolder.replace("Poppler", "Texter")
-    dst_dir = PATH_OUTPUT / dst_dir_name
+    # Cria e limpa pasta Texter do município
+    dst_dir_name    = selected_subfolder.replace("Poppler", "Texter")
+    dst_dir         = PATH_OUTPUT / dst_dir_name
     dst_dir.mkdir(parents=True, exist_ok=True)
-    limpar_arquivos_texter(dst_dir)
+    limpar_pasta(dst_dir)
 
     # 2. Selecao de formato
     print("\n--- QUAL FORMATACAO APLICAR? ---")
-    formatos = list(FORMATADORES.keys())
-    for i, nome in enumerate(formatos):
-        print(f"{i} - {nome}")
-    fmt_choice = int(input("Indice do formato: "))
-    funcao_formatadora = FORMATADORES[formatos[fmt_choice]]
+    print("\n 1. NEOENERGIA")
+    print("\n 2. ENEL")
+    print("\n 3. ENERGISA" )
+    formatacao = int(input("Escolha o modelo (índice): "))
 
-    # 3. Escopo de execucao
-    print("\n--- MODO DE EXECUCAO ---")
-    print("1 - Todos os documentos da subpasta")
-    print("2 - Apenas um documento especifico")
-    mode = input("Escolha a opcao: ").strip()
-
+    
+    
     files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
 
-    if mode == "2":
-        for i, file_name in enumerate(files):
-            print(f"{i} - {file_name}")
-        file_choice = int(input("Indice do arquivo: "))
-        files = [files[file_choice]]
+    matriz = []
 
     # 4. Processamento de arquivos Texter
     for file_name in files:
         input_path = src_dir / file_name
-        print(f"Processando: {file_name}...")
 
-        conteudo_bruto = carregar_arquivo(input_path)
-        conteudo_para_parser = _normalizar_poppler_para_parser(conteudo_bruto)
-        conteudo_formatado = funcao_formatadora(conteudo_para_parser, file_name)
-        conteudo_saida = _converter_para_texto_saida(conteudo_formatado)
-        indicador_tribf_irrf = _extrair_indicador_tribf_irrf(conteudo_bruto)
+        if formatacao == 1:
+            ind_data = format_neoenergia(input_path, file_name) 
+        matriz.append(ind_data)
 
-        if conteudo_saida and not conteudo_saida.endswith("\n"):
-            conteudo_saida += "\n"
-        conteudo_saida += f"INDICADOR TRIBF-IRRF\t{indicador_tribf_irrf}\n"
 
-        output_name = _montar_nome_saida_texter(file_name)
-        output_path = dst_dir / output_name
-        salvar_arquivo(output_path, conteudo_saida)
-        print(f"[OK] Arquivo Texter criado: {output_path}")
-
-    caminho_planilha = _gerar_planilha_texter(dst_dir)
-    print(f"[OK] Planilha gerada: {caminho_planilha}")
+    
+        
 
     print("\nFluxo Texter finalizado.")
 

@@ -4,6 +4,7 @@ import fitz
 from pathlib import Path
 import shutil 
 import subprocess
+from pypdf import PdfReader
 
 def limpar_pasta(caminho_pasta: str | Path) -> None:
     """
@@ -46,66 +47,75 @@ def obter_caminho_unico(dir_path, cropped_name):
         counter += 1        
     return new_path
 
-def pdf_para_txt_poppler_estruturado(
-    caminho_pdf: str | Path,
-    PATH_POPPLER_EXE: str | Path,
-    caminho_saida_txt: str | Path | None = None
-) -> str:
+def pdf_para_txt_com_paginas(pdf_path: str | Path,
+                             pdftotext_path: str | Path,
+                             output_txt_path: str | Path):
+    """
+    Converte PDF em TXT usando Poppler (pdftotext),
+    separando o conteúdo por página.
 
-    caminho_pdf = Path(caminho_pdf)
-    poppler_exe = Path(PATH_POPPLER_EXE)
+    Args:
+        pdf_path: caminho do PDF
+        pdftotext_path: caminho do executável pdftotext
+        output_txt_path: caminho do arquivo TXT de saída
+    """
 
-    pdfinfo_exe = poppler_exe.parent / "pdfinfo.exe"
+    pdf_path = Path(pdf_path)
+    pdftotext_path = Path(pdftotext_path)
+    output_txt_path = Path(output_txt_path)
 
+    # pdfinfo normalmente fica na mesma pasta do pdftotext
+    pdfinfo_path = pdftotext_path.parent / "pdfinfo"
+
+    # 1. Obter número de páginas
     result = subprocess.run(
-        [str(pdfinfo_exe), str(caminho_pdf)],
+        [str(pdfinfo_path), str(pdf_path)],
         capture_output=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace"
+        text=True
     )
 
-    total_paginas = 0
+    num_pages = None
     for line in result.stdout.splitlines():
         if "Pages:" in line:
-            total_paginas = int(line.split(":")[1].strip())
+            num_pages = int(line.split(":")[1].strip())
             break
 
-    partes = []
+    if num_pages is None:
+        raise RuntimeError("Não foi possível determinar o número de páginas do PDF.")
 
-    for i in range(1, total_paginas + 1):
+    # garante diretório de saída
+    output_txt_path.parent.mkdir(parents=True, exist_ok=True)
 
-        cmd = [
-            str(poppler_exe),
-            "-f", str(i),
-            "-l", str(i),
-            "-layout",
-            str(caminho_pdf),
-            "-"
-        ]
+    # 2. Escrever arquivo de saída
+    with output_txt_path.open("w", encoding="utf-8") as out_file:
 
-        resultado = subprocess.run(
-            cmd,
-            capture_output=True,
-            text=True,
-            encoding="utf-8",
-            errors="replace"
-        )
+        for page in range(1, num_pages + 1):
+            out_file.write(f"========== PAGE {page} ==========\n\n")
 
-        texto_pagina = resultado.stdout or ""
+            process = subprocess.run(
+                [
+                    str(pdftotext_path),
+                    "-f", str(page),
+                    "-l", str(page),
+                    "-layout",
+                    str(pdf_path),
+                    "-"
+                ],
+                capture_output=True,
+                text=True
+            )
 
-        partes.append(f"\n<<<INICIO_PAGINA_{i}>>>\n")
-        partes.append(texto_pagina.strip())
-        partes.append(f"\n<<<FIM_PAGINA_{i}>>>\n\n")
+            if process.returncode != 0:
+                raise RuntimeError(
+                    f"Erro ao processar página {page}: {process.stderr}"
+                )
 
-    texto_final = "".join(partes)
+            out_file.write(process.stdout or "")
+            out_file.write("\n\n")
 
-    # 💾 SALVAMENTO AQUI
-    if caminho_saida_txt:
-        Path(caminho_saida_txt).write_text(texto_final, encoding="utf-8")
-
-    return texto_final
-# ===========================================
+# ============================================================== #
+# Funções
+# ============================================================== #
 
 def _normalizar_texto(texto):
     substituicoes = str.maketrans({
@@ -477,30 +487,31 @@ def _montar_nome_individual(input_path, texto_pagina, layout_individual, textos_
     ]
     return "-".join(partes) + ".pdf"
 
+def pdf_para_txt(caminho_pdf: str, caminho_txt_saida: str) -> None:
+    """
+    Extrai texto de cada página de um PDF e salva em um arquivo TXT,
+    separando páginas com uma marcação.
 
-def _extrair_texto_de_pdf(caminho_pdf):
-    with fitz.open(caminho_pdf) as documento:
-        partes = [pagina.get_text("text") for pagina in documento]
-    partes_validas = [parte.strip("\r\n") for parte in partes if parte and parte.strip()]
-    if not partes_validas:
-        return ""
-    if len(partes_validas) == 1:
-        return partes_validas[0].strip() + "\n"
+    Args:
+        caminho_pdf (str): caminho do arquivo PDF de entrada
+        caminho_txt_saida (str): caminho completo do arquivo TXT de saída
+    """
 
-    blocos = []
-    for indice, parte in enumerate(partes_validas, start=1):
-        if indice == 1:
-            blocos.append(f"===== INICIO_PAGINA_{indice} =====\n")
-        blocos.append(parte)
-        if indice < len(partes_validas):
-            blocos.append(f"\n===== INICIO_PAGINA_{indice + 1} =====\n")
-    return "\n".join(blocos).strip() + "\n"
+    reader = PdfReader(caminho_pdf)
 
+    with open(caminho_txt_saida, "w", encoding="utf-8") as f:
+        for i, page in enumerate(reader.pages, start=1):
+            texto = page.extract_text() or ""
 
+            f.write(f"========== PAGE {i} ==========\n")
+            f.write(texto.strip())
+            f.write("\n\n")
 
+# ============================================================== #
+# EXECUÇÃO
+# ============================================================== #
 
 def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, template, poppler):
-
     
     # Abre o PDF no fitz
     doc = fitz.open(input_path)
@@ -537,9 +548,12 @@ def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, 
 
             nome_pdf = _montar_nome_individual(input_path, texto_pagina, tipo_pagina, textos_ind)   
             nome_pdf_cropped = nome_pdf.replace(".pdf", "_Cropped.pdf") # Este é apenas o nome, não um Path
+            nome_pdf_poppler = nome_pdf.replace(".pdf", "_Poppler.txt") # Este é apenas o nome, não um Path
 
             caminho_pdf_original = obter_caminho_unico(ind_dir, nome_pdf)            
             caminho_pdf_cropped = obter_caminho_unico(pasta_cropper, nome_pdf_cropped)
+            caminho_pdf_poppler = obter_caminho_unico(pasta_poppler, nome_pdf_poppler)
+
 
             # Salva a página individual completa na pasta de faturas originais.
             with fitz.open() as doc_original:
@@ -558,10 +572,17 @@ def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, 
                     new_page = doc_ind.new_page(width=recorte.width, height=recorte.height)
                     new_page.show_pdf_page(new_page.rect, doc, i, clip=recorte)
             doc_ind.save(caminho_pdf_cropped)
+
+            with open(caminho_pdf_poppler, "w", encoding="utf-8") as f:
+                for i, page in enumerate(doc_ind, start=1):
+                    texto = page.get_text("text") or ""
+
+                    f.write(f"========== PAGE {i} ==========\n")
+                    f.write(texto.strip())
+                    f.write("\n\n")
             doc_ind.close()
 
-            # Gera o TXT da fatura individual a partir da versão recortada.
-            pdf_para_txt_poppler_estruturado(caminho_pdf_cropped, poppler, pasta_poppler)
+
         else:
             print(f"[Neoenergia] Página {i + 1} ignorada: tipo não reconhecido (score={score_pagina}).")
 

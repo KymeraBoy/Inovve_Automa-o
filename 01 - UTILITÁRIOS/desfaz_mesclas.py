@@ -1,6 +1,7 @@
 from pathlib import Path
 import importlib
 import sys
+from utils import get_base_dir, load_pdf_backend
 
 
 try:
@@ -13,6 +14,7 @@ except ImportError:
 		print("Instale com o comando abaixo no mesmo Python que executa este arquivo:")
 		print(f'"{sys.executable}" -m pip install pypdf')
 		raise SystemExit(1)
+PdfReader, PdfWriter = load_pdf_backend()
 
 PdfReader = _pdf_lib.PdfReader
 PdfWriter = _pdf_lib.PdfWriter
@@ -69,6 +71,7 @@ def dividir_em_duas_paginas(pdf_path: Path, output_dir: Path) -> int:
 
 def main() -> None:
 	base_dir = Path(__file__).resolve().parent
+	base_dir = get_base_dir()
 	print(f"Pasta atual: {base_dir}")
 
 	pdfs = listar_pdfs(base_dir)

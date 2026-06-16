@@ -1,0 +1,94 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+7000245334
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2018412
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA VEREADOR RAIMUNDO LISBOA 100
+CEMITERIO PUBLICO
+ESTACAO/AREA URBANA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        592
+ABR 22
+        583
+MAR 22
+        558
+FEV 22
+        447
+JAN 22
+        614
+DEZ 21
+        761
+NOV 21
+        629
+OUT 21
+       2426
+SET 21
+       1291
+AGO 21
+       1228
+JUL 21
+       1326
+JUN 21
+       1906
+MAI 21
+       2720
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+       592,0000000 
+ 0,48620390 
+           287,83 
+Consumo Ativo(kWh)-TE                        
+       592,0000000 
+ 0,36121462 
+           213,83 
+Contrib. Ilum. Pública Municipal             
+            47,75 
+Multa por atraso-NF 076900322 - 29/03/22     
+             9,80 
+Juros por atraso-NF 076900322 - 29/03/22     
+             3,26 
+Atualizacao IPCA-NF 076900322 - 29.03.22     
+             3,31 
+TOTAL DA FATURA
+           565,78 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+  592,00 
+    0,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+7000245334
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           565,78 
+VENCIMENTO
+20/06/2022
+

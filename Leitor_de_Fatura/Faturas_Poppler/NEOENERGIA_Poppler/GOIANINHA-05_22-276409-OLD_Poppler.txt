@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0242727010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+276409
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SI SUMARE 16
+POCO TUBULAR
+ZONA RURAL/AREA RURAL
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       2194
+ABR 22
+       2253
+MAR 22
+       2212
+FEV 22
+       1971
+JAN 22
+       2356
+DEZ 21
+       2139
+NOV 21
+       2200
+OUT 21
+       2355
+SET 21
+       2152
+AGO 21
+       2179
+JUL 21
+       2253
+JUN 21
+       2262
+MAI 21
+       1995
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     2.194,0000000 
+ 0,47161778 
+         1.034,72 
+Consumo Ativo(kWh)-TE                        
+     2.194,0000000 
+ 0,35037818 
+           768,72 
+Cobrança de ICMS sobre Subvenção CDE         
+            10,04 
+Multa por atraso-NF 076900288 - 29/03/22     
+            36,77 
+Juros por atraso-NF 076900288 - 29/03/22     
+            15,93 
+TOTAL DA FATURA
+         1.866,18 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+2.194,00 
+2.585,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0242727010
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+         1.866,18 
+VENCIMENTO
+20/06/2022
+

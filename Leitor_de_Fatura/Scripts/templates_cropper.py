@@ -156,8 +156,9 @@ TEMPLATES = {
             recortes((5, 48, 25, 7)),                 # MES DE REFERENCIA (CONSTANTE)
             recortes((74.83, 26.83, 27.89, 19.06)),   # CODIGO (CONSTANTE)
             recortes((4.94, 54.71, 68.83, 7.06)),     # CLASSIFICACAO (CONSTANTE)
-            recortes((130,56,5,75)),                  # FORNECIMENTO (CONSTANTE)
+            recortes((130,56,75,5)),                  # FORNECIMENTO (CONSTANTE)
             recortes((5,161,115,20)),                 # MEDIDOR
+            recortes((103,161,17,20)),                # CONSUMO
             recortes((159.90, 106.60, 44.83, 52.95)), # HISTORICO DE CONSUMO
             recortes((5,82,154,78)),                  # ITENS DA FATURA
         ],
@@ -166,10 +167,11 @@ TEMPLATES = {
             recortes((3.88, 33.89, 73.77, 19.06)),    # DADOS (VARIAVEL)
             recortes((3.88, 54.36, 74.13, 18.36)),    # ENDERECO
             recortes((79.77, 62.83, 109.78, 9.88)),   # CLASSIFICACAO (CONSTANTE)
-            recortes((153.90, 134.49, 35.30, 52.95)), # HISTORICO DE CONSUMO
-            recortes((103.00, 192.49, 24.17, 15.45)), # CONSUMO
+            recortes((4,254,115,11)), # DADOS DE COBRANÇA           
             recortes((4,90,92,82)), # ITENS DA FATURA
-            recortes((4,254,115,11)), # DADOS DE COBRANÇA
+            recortes((103.00, 192.55, 17, 15.5)), # CONSUMO
+            recortes((153.90, 134.49, 35.30, 52.95)), # HISTORICO DE CONSUMO 
+            
         ],
     },
 }

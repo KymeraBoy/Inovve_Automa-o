@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+7007773220
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+2451149
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ESPIRITO SANTO 666666
+LAR DO IDOSO
+BOSQUE DAS PALMEIRAS/AREA URBANA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        682
+ABR 22
+        635
+MAR 22
+        563
+FEV 22
+        534
+JAN 22
+        394
+DEZ 21
+        166
+NOV 21
+        160
+OUT 21
+        199
+SET 21
+        157
+AGO 21
+        100
+JUL 21
+        100
+JUN 21
+        100
+MAI 21
+        100
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+       682,0000000 
+ 0,48620390 
+           331,59 
+Consumo Ativo(kWh)-TE                        
+       682,0000000 
+ 0,36121462 
+           246,34 
+Contrib. Ilum. Pública Municipal             
+            55,01 
+Multa por atraso-NF 078485676 - 28/04/22     
+            10,59 
+Juros por atraso-NF 078485676 - 28/04/22     
+             1,05 
+TOTAL DA FATURA
+           644,58 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+  682,00 
+  265,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+7007773220
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           644,58 
+VENCIMENTO
+20/06/2022
+

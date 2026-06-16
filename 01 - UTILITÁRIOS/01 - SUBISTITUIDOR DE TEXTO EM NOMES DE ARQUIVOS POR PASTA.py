@@ -1,9 +1,10 @@
 from pathlib import Path
+from utils import get_base_dir
 
 
 def coletar_itens(base_dir: Path) -> list[Path]:
 	"""Retorna apenas arquivos e pastas diretos de base_dir, sem entrar em subpastas."""
-	return list(base_dir.iterdir())
+	return [item for item in base_dir.iterdir() if item.name != Path(__file__).name]
 
 
 def substituir_nomes(base_dir: Path, texto_antigo: str, texto_novo: str) -> None:
@@ -43,7 +44,7 @@ def substituir_nomes(base_dir: Path, texto_antigo: str, texto_novo: str) -> None
 
 
 def main() -> None:
-	pasta_script = Path(__file__).resolve().parent
+	pasta_script = get_base_dir()
 
 	print("Renomeador por substituicao de texto")
 	print(f"Pasta de trabalho: {pasta_script}\n")

@@ -1,3 +1,4 @@
+from pathlib import Path    
 import os
 import re
 
@@ -5,7 +6,7 @@ from texter_utils import aba_info_geral
 
 
 def _normalizar_linha_bloco(valor):
-    return re.sub(r"\s+", " ", (valor or "").strip())
+    return re.sub(r"\s+", " ", (valor or "").strip()) 
 
 
 def _coletar_bloco_apos_rotulo(texto, rotulos, rotulos_parada, parar_em_documento=False):
@@ -91,17 +92,197 @@ def _extrair_referencia(texto):
     return ""
 
 
-def _extrair_unidade(texto):
-    candidatos = [
-        r"C[ÓO]DIGO\s+DA\s+INSTALA[ÇC][ÃA]O\s*\n\s*(\d+)",
-        r"N[ºO.]\s*DA\s+INSTALA[ÇC][ÃA]O\s*\n\s*(\d+)",
-        r"CONTA\s+CONTRATO\s*\n\s*(\d+)",
+def _extrair_unidade(texto: str) -> str | None:
+    """
+    Procura no texto as linhas contendo:
+    - 'CÓDIGO DA INSTALAÇÃO' ou 'Nº DA INSTALAÇÃO'
+
+    Retorna o conteúdo da linha seguinte, com validações:
+    - não vazio
+    - apenas números
+    - garante que o termo realmente existe no texto
+
+    Args:
+        texto (str): texto completo
+
+    Returns:
+        str | None: código encontrado ou None se inválido/não encontrado
+    """
+
+    if not texto or not isinstance(texto, str):
+        return None
+
+    linhas = texto.splitlines()
+
+    termos = [
+        "CÓDIGO DA INSTALAÇÃO",
+        "Nº DA INSTALAÇÃO"
     ]
-    for padrao in candidatos:
-        match = re.search(padrao, texto, flags=re.IGNORECASE)
-        if match:
-            return match.group(1).strip()
-    return ""
+
+    for i, linha in enumerate(linhas):
+        linha_upper = linha.upper()
+
+        if any(termo in linha_upper for termo in termos):
+            # garante que existe próxima linha
+            if i + 1 >= len(linhas):
+                continue
+
+            proxima_linha = linhas[i + 1].strip()
+
+            # validações de segurança
+            if not proxima_linha:
+                continue
+
+            if not re.fullmatch(r"\d+", proxima_linha):
+                continue
+
+            return proxima_linha
+
+    return "UNK"
+
+def _extrair_mes_referencia(texto: str) -> str | None:
+    """
+    Procura no texto os termos:
+    - 'CONSUMO / kWh'
+    - 'HISTÓRICO DO CONSUMO'
+
+    Retorna o conteúdo da 3ª linha após a linha onde o termo é encontrado,
+    com validações de segurança.
+
+    Args:
+        texto (str): texto completo
+
+    Returns:
+        str | None: valor encontrado ou None
+    """
+
+    if not texto or not isinstance(texto, str):
+        return None
+
+    linhas = texto.splitlines()
+
+    termos = [
+        "REF:MÊS/ANO",
+        "MÊS/ANO"
+    ]
+
+    for i, linha in enumerate(linhas):
+        linha_upper = linha.upper()
+
+        if any(termo in linha_upper for termo in termos):
+
+            # precisa existir pelo menos 3 linhas depois
+            if i + 3 >= len(linhas):
+                continue
+
+            valor = linhas[i + 1].strip()
+
+            # validações básicas de segurança
+            if not valor:
+                continue
+
+            # opcional: remover espaços duplicados
+            valor = re.sub(r"\s+", " ", valor)
+
+            return valor
+
+    return "UNK"
+
+def _extrair_consumo_faturado(texto: str) -> str | None:
+    """
+    Procura no texto os termos:
+    - 'CONSUMO / kWh'
+    - 'HISTÓRICO DO CONSUMO'
+
+    Retorna o conteúdo da 3ª linha após a linha onde o termo é encontrado,
+    com validações de segurança.
+
+    Args:
+        texto (str): texto completo
+
+    Returns:
+        str | None: valor encontrado ou None
+    """
+
+    if not texto or not isinstance(texto, str):
+        return None
+
+    linhas = texto.splitlines()
+
+    termos = [
+        "CONSUMO / KWH",
+        "HISTÓRICO DO CONSUMO"
+    ]
+
+    for i, linha in enumerate(linhas):
+        linha_upper = linha.upper()
+
+        if any(termo in linha_upper for termo in termos):
+
+            # precisa existir pelo menos 3 linhas depois
+            if i + 3 >= len(linhas):
+                continue
+
+            valor = linhas[i + 3].strip()
+
+            # validações básicas de segurança
+            if not valor:
+                continue
+
+            # opcional: remover espaços duplicados
+            valor = re.sub(r"\s+", " ", valor)
+
+            return valor
+
+    return "UNK"
+
+def _extrair_consumo_medido(texto: str) -> str | None:
+    """
+    Procura uma linha onde a palavra 'CONSUMO' aparece sozinha
+    e cuja linha anterior seja um divisor de página no formato:
+    ========== PAGE X ==========
+
+    Retorna o conteúdo da 2ª linha após essa referência.
+    """
+
+    if not texto or not isinstance(texto, str):
+        return None
+
+    linhas = texto.splitlines()
+
+    padrao_pagina = re.compile(r"^=+\s*PAGE\s+\d+\s*=+$", re.IGNORECASE)
+
+    for i, linha in enumerate(linhas):
+        linha_limpa = linha.strip().upper()
+
+        # A linha anterior deve ser um divisor de página
+        if i == 0:
+            continue
+
+        linha_anterior = linhas[i - 1].strip()
+
+        if (
+            linha_limpa == "CONSUMO"
+            and padrao_pagina.match(linha_anterior)
+        ):
+            # precisa existir pelo menos 2 linhas depois
+            if i + 2 >= len(linhas):
+                continue
+
+            valor = linhas[i + 2].strip()
+
+            if not valor:
+                continue
+
+            # normaliza espaços
+            valor = re.sub(r"\s+", " ", valor)
+
+            return valor
+
+    return "UNK"
+
+
+
 
 
 def _extrair_municipio(texto):
@@ -200,27 +381,36 @@ def _extrair_endereco_entrega(texto):
     return " | ".join(linhas_endereco)
 
 
-def format_neoenergia(texto, filename=None):
-    municipio_nome, unidade_nome, referencia_nome = _extrair_do_nome_arquivo(filename)
+def format_neoenergia(input, file_name):    
+    output = str(input).replace("Poppler", "Texter")
+    print(output)
 
-    municipio = _extrair_municipio(texto) or municipio_nome or "UNK"
-    unidade = _extrair_unidade(texto) or unidade_nome or "UNK"
-    referencia = _extrair_referencia(texto) or _normalizar_referencia(referencia_nome) or "UNK"
-    classificacao = _extrair_classificacao(texto) or "UNK"
-    fornecimento = _extrair_fornecimento(texto) or "SEM_FORNECIMENTO"
-    cliente = _extrair_cliente(texto) or "SEM_CLIENTE"
-    endereco_entrega = _extrair_endereco_entrega(texto) or "SEM_ENDERECO"
+    vetor=[]
 
-    registro = [unidade, municipio, referencia, classificacao]
-    if not any(linha[:4] == registro for linha in aba_info_geral):
-        aba_info_geral.append(registro)
+    with open(input, "r", encoding="utf-8") as f:
+        texto = f.read()
+     
 
-    return (
-        f"MUNICIPIO\t{municipio}\n"
-        f"UNIDADE CONSUMIDORA\t{unidade}\n"
-        f"MES/ANO REFERENCIA\t{referencia}\n"
-        f"CLASSIFICACAO\t{classificacao}\n"
-        f"FORNECIMENTO\t{fornecimento}\n"
-        f"CLIENTE\t{cliente}\n"
-        f"ENDERECO DE ENTREGA\t{endereco_entrega}\n"
-    )
+    unidade = _extrair_unidade(texto)
+    referencia = _extrair_mes_referencia(texto)
+    consumo_faturado = _extrair_consumo_faturado(texto)
+    consumo_medido = _extrair_consumo_medido(texto)
+    
+    vetor.append(unidade)
+    vetor.append(referencia)
+    vetor.append(consumo_faturado)
+    vetor.append(consumo_medido)
+
+    texto = "UNIDADE CONSUMIDORA: " + unidade
+    texto += "\nCONSUMO FATURADO: " + referencia
+    texto += "\nCONSUMO FATURADO: " + consumo_faturado
+    texto += "\nCONSUMO MEDIDO: " + consumo_medido
+    
+
+
+
+
+    with open(output, "w", encoding="utf-8") as f:
+        f.write(texto)
+    
+    return vetor

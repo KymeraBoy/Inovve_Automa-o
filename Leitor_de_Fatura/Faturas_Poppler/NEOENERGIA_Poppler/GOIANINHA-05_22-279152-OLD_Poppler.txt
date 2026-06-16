@@ -1,0 +1,92 @@
+========== PAGE 1 ==========
+CONTA CONTRATO
+0242742010
+Nº DO CLIENTE
+3000127866
+Nº DA INSTALAÇÃO
+279152
+
+========== PAGE 2 ==========
+DADOS DO CLIENTE
+PREFEITURA MUNICIPAL DE GOIANINHA
+CNPJ: 08.162.687/0001-73
+
+========== PAGE 3 ==========
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA SAPUCAIA 85
+ESCOLA MUN TEREZA FAGUNDES
+SAPUCAIA/SAPUCAIA
+59173-000 GOIANINHA RN
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO
+B3 PODER PUBLICO - MUNICIPAL
+Conv. Monômia - Trifásico
+
+========== PAGE 5 ==========
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+       1125
+ABR 22
+       1231
+MAR 22
+        840
+FEV 22
+        579
+JAN 22
+        923
+DEZ 21
+       1121
+NOV 21
+        802
+OUT 21
+        497
+SET 21
+        401
+AGO 21
+        328
+JUL 21
+        347
+JUN 21
+        391
+MAI 21
+        404
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     1.125,0000000 
+ 0,43760157 
+           492,30 
+Consumo Ativo(kWh)-TE                        
+     1.125,0000000 
+ 0,33371654 
+           375,43 
+Acréscimo Bandeira AMARELA                   
+            39,92 
+Multa por atraso-NF 078485637 - 28/04/22     
+            21,81 
+Juros por atraso-NF 078485637 - 28/04/22     
+             2,17 
+TOTAL DA FATURA
+           931,63 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+1.125,00 
+  439,00
+
+========== PAGE 8 ==========
+CONTA CONTRATO
+0242742010
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           931,63 
+VENCIMENTO
+20/06/2022
+
