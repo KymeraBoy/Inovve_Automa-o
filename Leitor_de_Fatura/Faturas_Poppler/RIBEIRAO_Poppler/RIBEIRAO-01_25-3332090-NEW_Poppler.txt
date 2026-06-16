@@ -1,632 +1,142 @@
 ========== PAGE 1 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+NOME DO CLIENTE:
+PREFEITURA MUNICIPAL DE RIBEIRAO
+CNPJ: 11.343.***/****-**
+ENDEREÇO:
+EG VARZEA MOLE 10
+SERRINHA/RIBEIRAO RURAL
+55520-000 RIBEIRAO PE
 
 ========== PAGE 2 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+REF:MÊS/ANO
+01/2025
 
 ========== PAGE 3 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+CÓDIGO DA INSTALAÇÃO
+3332090
+CÓDIGO DO CLIENTE
+2519424013
 
 ========== PAGE 4 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
 
 ========== PAGE 5 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
 
 ========== PAGE 6 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+MC31969
+Energia Ativa
+Único
+22.622,00
+22.622,00
+1,00000
+0,00
 
 ========== PAGE 7 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+CONSUMO
+kWh
+0,00
 
 ========== PAGE 8 ==========
-Consumo-TUSD kWh 30,00 0,53391810 16,01 0,42 16,01 20,50 3,29 0,41050000 
-Consumo-TE kWh 30,00 0,43418402 13,02 0,33 13,02 20,50 2,66 0,33382000 
-ICMS-CDE NF335866376 0,23 
-TRIBF-IRRF(1.2%) 0,34- 
-TRIBF-IRRF(4.8%) 0,01- 
-www.neoenergia.com|Ligue grátis 116 
-DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA 
-COMPANHIA ENERGÉTICA DE PERNAMBUCO 
-AV.JOÃO DE BARROS, 111, BOA VISTA, RECIFE, PERNAMBUCO CEP 50050-902 
-CNPJ 10.835.932/0001-08 INSCRIÇÃO ESTADUAL 0005943-93 
-CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico 
-Tarifa Social de Energia Elétrica - Lei 10.438, de 26/04/02 
-NOME DO CLIENTE: 
-PREFEITURA MUNICIPAL DE RIBEIRAO 
-CNPJ: 11.343.***/****-** 
-ENDEREÇO: 
-EG VARZEA MOLE 10 
-SERRINHA/RIBEIRAO RURAL 
-55520-000 RIBEIRAO PE 
-CÓDIGO DA INSTALAÇÃO 
-3332090 
-CÓDIGO DO CLIENTE 
-2519424013 
-DATAS DE LEITURAS LEITURA ANTERIOR 11/12/2024 LEITURA ATUAL 08/01/2025 N° DE DIAS 28 PRÓXIMA LEITURA 07/02/2025 
-NOTA FISCAL N° 344385543 - SÉRIE 000 / DATA DE EMISSÃO: 29/01/2025 
-Consulte pela Chave de Acesso em: 
-https://dfe-portal.svrs.rs.gov.br/Nf3e/consulta 
-chave de acesso: 
-2625 0110 8359 3200 0108 6600 0344 3855 4310 7983 7816 
-Protocolo de autorização: 3262500004156024 - 30/01/2025 às00:15:46 
-REF:MÊS/ANO 
-01/2025 
-VENCIMENTO 
-18/02/2025 
-TOTAL A PAGAR R$ 
-28,91 
-Cadastra-se e receba a sua fatura por e-mail, utilizando o QR code no verso da fatura. 
-TRIBUTO BASE DE ALÍQUOTA VALOR (R$) 
-CÁLCULO (R$) (%) 
-PIS 23,07 0,59 0,13 
-COFINS 23,07 2,70 0,62 
-ICMS 29,03 20,50 5,95 
-CONSUMO / kWh 
-CONSUMO FATURADO N°DIAS FAT 
-JAN25 30 28 
-DEZ24 30 33 
-NOV24 30 30 
-OUT24 0 29 
-SET24 0 33 
-AGO24 57 31 
-JUL24 121 28 
-JUN24 30 33 
-MAI24 30 29 
-ABR24 30 29 
-MAR24 113 33 
-FEV24 1160 28 
-JAN24 151 29 
-MEDIDOR GRANDEZAS POSTOS LEITURA LEITURA CONST. CONSUMO 
-HORÁRIOS ANTERIOR ATUAL MEDIDOR kWh 
-MC31969 Energia Ativa Único 22.622,00 22.622,00 1,00000 0,00
-RESERVADO AO FISCO 
-Cobrança ICMS sobre subvenção CDE, conforme Decreto Estadual 39.459/13. 
-838200000002 289100110023 519424013102 188216735033 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-INFORMAÇÕES IMPORTANTES 
-Faturado pelo mínimo da fase - Custo de Disponibilidade,Art igo 98, Resolução ANEEL414/2010. 
-Na data da leitura a bandeira em vigor é a Verde. Mais informaç ões em www.aneel.gov.br. 
-A fatura pode ser emitida com base na leitura informada pelo c liente. 
-Esta Nota Fiscal faz parte do Doc. Pgto. nº 610047210169 da Co nta Contrato Coletiva nº 6305860016. 
-01/2025 
-CÓDIGO DO CLIENTE 2519424013 VENCIMENTO 18/02/2025 TOTAL A PAGAR R$ 28,91 
-PARA CADASTRAR SUA CONTA EM DÉBITO AUTOMÁTICO, UTILIZE O CÓDIGO DO CLIENTE. 
-1/1 
-PAGUE COM PIX 
-TOTAL 28,91 
-ITENS DA FATURA UNID. QUANT. PREÇO UNIT. VALOR PIS/ BASE CALC. ALÍQUOTA ICMS (R$) TARIFA 
-COM TRIB.(R$) (R$) COFINS(R$) ICMS(R$) ICMS(%) UNIT(R$)
+CONSUMO / kWh
+CONSUMO FATURADO
+N°DIAS FAT
+JAN25
+30
+28
+DEZ24
+30
+33
+NOV24
+30
+30
+OUT24
+0
+29
+SET24
+0
+33
+AGO24
+57
+31
+JUL24
+121
+28
+JUN24
+30
+33
+MAI24
+30
+29
+ABR24
+30
+29
+MAR24
+113
+33
+FEV24
+1160
+28
+JAN24
+151
+29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+30,00
+0,53391810
+16,01
+0,42
+16,01
+20,50
+3,29
+0,41050000
+Consumo-TE
+kWh
+30,00
+0,43418402
+13,02
+0,33
+13,02
+20,50
+2,66
+0,33382000
+ICMS-CDE NF335866376
+0,23
+TRIBF-IRRF(1.2%)
+0,34-
+TRIBF-IRRF(4.8%)
+0,01-
+TOTAL
+28,91
+ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ICMS(R$)
+ICMS(%)
+UNIT(R$)
 

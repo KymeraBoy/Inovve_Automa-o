@@ -1,0 +1,104 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+PREFEITURA MUNICIPAL DE RIBEIRAO
+ILUMINACAO PUBLICA
+CNPJ: 11.343.***/****-**
+ENDEREÇO:
+RUA TREVO DA BANDEIRANTE SN
+CENTRO/RIBEIRAO
+55520-000 RIBEIRAO PE
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+3321145
+CÓDIGO DO CLIENTE
+2759538016
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+CONSUMO FATURADO
+N°DIAS FAT
+Para este tipo de faturamento não
+existe histórico de consumo.
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+625,34
+0,29366146
+183,63
+4,80
+183,63
+20,50
+37,64
+0,22578000
+Consumo-TE
+kWh
+625,34
+0,23879991
+149,33
+3,90
+149,33
+20,50
+30,61
+0,18360000
+Acrés. Band. AMARELA
+8,05
+0,20
+8,05
+20,50
+1,65
+Custo Adm-Art131R414
+157,59
+TRIBF-IRRF(1.2%)
+4,08-
+TRIBF-IRRF(4.8%)
+7,56-
+TOTAL
+486,96
+ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ICMS(R$)
+ICMS(%)
+UNIT(R$)
+

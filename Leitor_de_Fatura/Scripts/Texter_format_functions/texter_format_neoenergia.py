@@ -223,7 +223,7 @@ def _extrair_consumo_faturado(texto: str) -> str | None:
             if i + 3 >= len(linhas):
                 continue
 
-            valor = linhas[i + 3].strip()
+            valor = linhas[i + 4].strip()
 
             # validações básicas de segurança
             if not valor:
@@ -282,7 +282,44 @@ def _extrair_consumo_medido(texto: str) -> str | None:
     return "UNK"
 
 
+def extrair_fatura_tagueada(texto_fatura):
+    """
+    Transforma o texto bruto de uma fatura em um dicionário (vetor com tags)
+    para facilitar a busca posterior.
+    """
+    linhas = [l.strip() for l in texto_fatura.splitlines() if l.strip()]
+    
+    # Este é o nosso vetor com tags (Dicionário)
+    fatura_tags = {
+        "Unidade Consumidora": None,
+        "Mês de referência": None,
+        "Consumo Faturado": 0.0,
+        "Consumo Medido": 0.0
+    }
 
+    for linha in linhas:
+        if ":" not in linha:
+            continue
+        
+        # Divide a linha no primeiro ':' encontrado
+        chave, valor = [part.strip() for part in linha.split(":", 1)]
+        
+        if "UNIDADE CONSUMIDORA" in chave.upper():
+            fatura_tags["Unidade Consumidora"] = valor
+       
+        elif "MÊS DE REFERÊNCIA" in chave.upper():
+            fatura_tags["Mês de referência"] = valor
+            
+        elif "CONSUMO FATURADO" in chave.upper():            
+            # Remove letras/espaços e converte para número
+            valor_limpo = re.sub(r'[^\d.,-]', '', valor).replace('.', '').replace(',', '.')
+            fatura_tags["Consumo Faturado"] = float(valor_limpo) if valor_limpo else 0.0
+                
+        elif "CONSUMO MEDIDO" in chave.upper():
+            valor_limpo = re.sub(r'[^\d.,-]', '', valor).replace('.', '').replace(',', '.')
+            fatura_tags["Consumo Medido"] = float(valor_limpo) if valor_limpo else 0.0
+
+    return fatura_tags
 
 
 def _extrair_municipio(texto):
@@ -383,7 +420,6 @@ def _extrair_endereco_entrega(texto):
 
 def format_neoenergia(input, file_name):    
     output = str(input).replace("Poppler", "Texter")
-    print(output)
 
     vetor=[]
 
@@ -402,9 +438,13 @@ def format_neoenergia(input, file_name):
     vetor.append(consumo_medido)
 
     texto = "UNIDADE CONSUMIDORA: " + unidade
-    texto += "\nCONSUMO FATURADO: " + referencia
+    texto += "\nMÊS DE REFERÊNCIA: " + referencia
     texto += "\nCONSUMO FATURADO: " + consumo_faturado
     texto += "\nCONSUMO MEDIDO: " + consumo_medido
+
+    fatura_tags = extrair_fatura_tagueada(texto)
+
+
     
 
 
@@ -413,4 +453,4 @@ def format_neoenergia(input, file_name):
     with open(output, "w", encoding="utf-8") as f:
         f.write(texto)
     
-    return vetor
+    return fatura_tags
