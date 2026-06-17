@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESC VALERIANO GOMES DE CARVALHO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA A 61
+ CENTRO-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18543
+CÓDIGO DO CLIENTE
+7106688
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1221063607   Energia Ativa            
+Único        
+ 5.059,00
+ 5.712,00
+    1,00000
+         653,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         653,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR24
+        653
+ 30
+MAR24
+        509
+ 29
+FEV24
+        172
+ 31
+JAN24
+        409
+ 29
+DEZ23
+        270
+ 30
+NOV23
+        525
+ 32
+OUT23
+        542
+ 30
+SET23
+        465
+ 33
+AGO23
+        464
+ 31
+JUL23
+        283
+ 29
+JUN23
+        385
+ 31
+MAI23
+        313
+ 31
+ABR23
+        175
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          653,00 
+ 0,56506496 
+           368,98 
+            21,52 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          653,00 
+ 0,29240909 
+           190,94 
+            11,12 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 762977446
+             2,95 
+Juros-NF 762977446
+             1,47 
+TRIBF-IRRF(1.2%)
+             6,71-
+TRIBF-IRRF(4.8%)
+             0,19-
+TOTAL
+           557,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

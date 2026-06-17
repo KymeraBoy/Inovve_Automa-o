@@ -1,0 +1,131 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS POV BENEDITO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA BENEDITO 8974
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+90248488
+CÓDIGO DO CLIENTE
+7082135957
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1225739494   Energia Ativa            
+Único        
+     0,00
+     0,00
+    1,00000
+           0,00   
+ 1225739494   Energia Reativa          
+Único        
+     0,00
+     0,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00   
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        100
+ 31
+MAI24
+        100
+ 29
+ABR24
+        100
+ 22
+MAR24
+FEV24
+JAN24
+DEZ23
+NOV23
+OUT23
+SET23
+AGO23
+JUL23
+JUN23
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,55907000 
+            55,90 
+             3,16 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31063000 
+            31,06 
+             1,75 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 777336696
+             1,71 
+Juros-NF 777336696
+             0,13 
+TRIBF-IRRF(1.2%)
+             1,04-
+TRIBF-IRRF(4.8%)
+             0,07-
+TOTAL
+            87,69 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

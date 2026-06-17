@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MUNICIPAL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 73
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+07/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12490
+CÓDIGO DO CLIENTE
+29967040
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 971034246
+  Energia Ativa            
+Único        
+33.966,00
+34.275,00
+    1,00000
+         309,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         309,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL24
+        309
+ 29
+JUN24
+        564
+ 33
+MAI24
+        644
+ 29
+ABR24
+        628
+ 29
+MAR24
+        574
+ 32
+FEV24
+        500
+ 29
+JAN24
+        368
+ 29
+DEZ23
+        527
+ 31
+NOV23
+        465
+ 30
+OUT23
+        500
+ 31
+SET23
+        391
+ 33
+AGO23
+        362
+ 31
+JUL23
+        283
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          309,00 
+ 0,56002954 
+           173,04 
+            10,04 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          309,00 
+ 0,31115588 
+            96,14 
+             5,57 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             2,33 
+             0,13 
+20,50
+Multa-NF 784903973
+            11,29 
+Juros-NF 784903973
+             3,95 
+TRIBF-IRRF(1.2%)
+             3,25-
+TRIBF-IRRF(4.8%)
+             0,72-
+TOTAL
+           282,78 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

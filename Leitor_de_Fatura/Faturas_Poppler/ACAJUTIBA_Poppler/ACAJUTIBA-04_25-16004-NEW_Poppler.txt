@@ -1,0 +1,153 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARIA ESPERANÇA L ANDRADE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16004
+CÓDIGO DO CLIENTE
+7034486918
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172732271   Energia Ativa            
+Único        
+101662,00
+106287,00
+    1,00000
+       4.625,00 
+ 1172732271   Energia Reativa          
+Único        
+46.654,00
+48.506,00
+    1,00000
+       1.852,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       4.625,00 
+       1.852,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+       4625
+ 30
+MAR25
+       3590
+ 31
+FEV25
+       3524
+ 30
+JAN25
+       2440
+ 29
+DEZ24
+       1819
+ 31
+NOV24
+       1884
+ 31
+OUT24
+       1591
+ 29
+SET24
+       1715
+ 33
+AGO24
+       1680
+ 30
+JUL24
+       1172
+ 32
+JUN24
+       2049
+ 30
+MAI24
+       2151
+ 29
+ABR24
+       2617
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        4.625,00 
+ 0,56196456 
+         2.599,08 
+           148,93 
+             0,00 
+20,50
+             0,00 
+ 0,52976400
+Consumo-TE
+kWh
+        4.625,00 
+ 0,30982354 
+         1.432,93 
+            82,09 
+             0,00 
+20,50
+             0,00 
+ 0,29207066
+Multa-NF 850679851
+            63,09 
+Juros-NF 850679851
+            15,77 
+IPCA-NF-850679851
+             8,69 
+TRIBF-IRRF(1.2%)
+            48,37-
+TRIBF-IRRF(4.8%)
+             4,17-
+TOTAL
+         4.067,02 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

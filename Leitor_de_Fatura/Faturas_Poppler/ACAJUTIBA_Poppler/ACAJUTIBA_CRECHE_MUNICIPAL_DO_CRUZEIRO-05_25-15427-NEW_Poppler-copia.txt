@@ -1,0 +1,142 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MUNICIPAL DO CRUZEIRO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 114
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15427
+CÓDIGO DO CLIENTE
+35343148
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200338410   Energia Ativa            
+Único        
+ 8.634,00
+ 8.723,00
+    1,00000
+          89,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          89,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI25
+         89
+ 29
+ABR25
+         30
+ 30
+MAR25
+         30
+ 29
+FEV25
+         30
+ 32
+JAN25
+        145
+ 28
+DEZ24
+        271
+ 31
+NOV24
+        321
+ 32
+OUT24
+        300
+ 29
+SET24
+        374
+ 33
+AGO24
+        373
+ 30
+JUL24
+        290
+ 32
+JUN24
+        310
+ 30
+MAI24
+        333
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           89,00 
+ 0,60195467 
+            53,57 
+             3,69 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+           89,00 
+ 0,29775534 
+            26,50 
+             1,82 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+             1,42 
+             0,09 
+20,50
+TRIBF-IRRF(1.2%)
+             0,97-
+TOTAL
+            80,52 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

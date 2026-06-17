@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ILUMINACAO NA PRACA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 9991 G
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12541
+CÓDIGO DO CLIENTE
+217081459
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1173251161   Energia Ativa            
+Único        
+90.438,00
+90.977,00
+    1,00000
+         539,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         539,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV25
+        539
+ 30
+OUT25
+        571
+ 31
+SET25
+        566
+ 30
+AGO25
+        576
+ 30
+JUL25
+        644
+ 33
+JUN25
+        557
+ 29
+MAI25
+        629
+ 33
+ABR25
+        535
+ 29
+MAR25
+        514
+ 29
+FEV25
+       1055
+ 32
+JAN25
+         30
+ 28
+DEZ24
+        488
+ 31
+NOV24
+        625
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          539,00 
+ 0,33124865 
+           178,54 
+            12,39 
+             0,00 
+20,50
+             0,00 
+ 0,30826000
+Consumo-TE
+kWh
+          539,00 
+ 0,16385127 
+            88,31 
+             6,12 
+             0,00 
+20,50
+             0,00 
+ 0,15248000
+Acrés. Band.VERMELHA
+            25,84 
+             1,79 
+20,50
+Ilum. Púb. Municipal
+           182,95 
+MultaCOSIP
+             9,05 
+IPCACOSIP
+             0,43 
+Multa-NF 897712476
+             6,38 
+Juros-NF 897712476
+             1,59 
+IPCA-NF-897712476
+             0,73 
+TRIBF-IRRF(1.2%)
+             3,51-
+TRIBF-IRRF(4.8%)
+             0,41-
+TOTAL
+           489,90 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

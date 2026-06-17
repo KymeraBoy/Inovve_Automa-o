@@ -24,6 +24,39 @@ B3 PODER PUBLICO - MUNICIPAL
 Conv. Monômia - Trifásico
 
 ========== PAGE 5 ==========
+CONTA CONTRATO
+0242707010
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           967,35 
+VENCIMENTO
+20/06/2022
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     1.199,0000000 
+ 0,43760157 
+           524,68 
+Consumo Ativo(kWh)-TE                        
+     1.199,0000000 
+ 0,33371654 
+           400,12 
+Acréscimo Bandeira AMARELA                   
+            42,55 
+TOTAL DA FATURA
+           967,35 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+1.199,00 
+  551,00
+
+========== PAGE 8 ==========
 HISTÓRICO DO CONSUMO
 kWh
 MAI 22
@@ -52,37 +85,4 @@ JUN 21
        1563
 MAI 21
        1651
-
-========== PAGE 6 ==========
-Consumo Ativo(kWh)-TUSD                      
-     1.199,0000000 
- 0,43760157 
-           524,68 
-Consumo Ativo(kWh)-TE                        
-     1.199,0000000 
- 0,33371654 
-           400,12 
-Acréscimo Bandeira AMARELA                   
-            42,55 
-TOTAL DA FATURA
-           967,35 
-QUANTIDADE
-PREÇO(R$)
-VALOR(R$)
-
-========== PAGE 7 ==========
-CONSUMO
-(kWh)
-1.199,00 
-  551,00
-
-========== PAGE 8 ==========
-CONTA CONTRATO
-0242707010
-MÊS/ANO
-05/2022
-TOTAL A PAGAR(R$)
-           967,35 
-VENCIMENTO
-20/06/2022
 

@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MARIA CALAZANS
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8
+ CRECHE PREFEITURA M DE ACAJUTIBA
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18615
+CÓDIGO DO CLIENTE
+205735550
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 60951098
+  Energia Ativa            
+Único        
+29.607,00
+29.842,00
+    1,00000
+         235,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         235,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR24
+        235
+ 29
+FEV24
+        172
+ 31
+JAN24
+        188
+ 29
+DEZ23
+        185
+ 30
+NOV23
+        252
+ 32
+OUT23
+        243
+ 30
+SET23
+        294
+ 33
+AGO23
+        280
+ 31
+JUL23
+        207
+ 29
+JUN23
+        236
+ 31
+MAI23
+        260
+ 31
+ABR23
+        192
+ 29
+MAR23
+        181
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          235,00 
+ 0,56384212 
+           132,50 
+             7,46 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          235,00 
+ 0,29176297 
+            68,56 
+             3,85 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 755824824
+             3,20 
+Juros-NF 755824824
+             1,70 
+IPCA-NF-748767136
+             0,60 
+TRIBF-IRRF(1.2%)
+             2,41-
+TRIBF-IRRF(4.8%)
+             0,23-
+TOTAL
+           203,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

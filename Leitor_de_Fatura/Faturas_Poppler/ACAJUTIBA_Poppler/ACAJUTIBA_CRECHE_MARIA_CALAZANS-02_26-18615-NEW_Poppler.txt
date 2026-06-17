@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MARIA CALAZANS
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8
+ CRECHE PREFEITURA M DE ACAJUTIBA
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18615
+CÓDIGO DO CLIENTE
+205735550
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1241080818   Energia Ativa            
+Único        
+ 2.794,00
+ 3.141,00
+    1,00000
+         347,00  
+ 1241080818   Energia Reativa          
+Único        
+ 1.518,00
+ 1.784,00
+    1,00000
+         266,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         347,00  
+         266,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+        347
+ 29
+JAN26
+        328
+ 32
+DEZ25
+        310
+ 31
+NOV25
+        400
+ 32
+OUT25
+        352
+ 29
+SET25
+        369
+ 30
+AGO25
+        372
+ 32
+JUL25
+        323
+ 32
+JUN25
+        195
+ 28
+MAI25
+        105
+ 33
+ABR25
+        100
+ 22
+MAR25
+        130
+  6
+FEV25
+        162
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          347,00 
+ 0,59771782 
+           207,40 
+            12,93 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          347,00 
+ 0,29565959 
+           102,59 
+             6,38 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+             3,72-
+TOTAL
+           306,27 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

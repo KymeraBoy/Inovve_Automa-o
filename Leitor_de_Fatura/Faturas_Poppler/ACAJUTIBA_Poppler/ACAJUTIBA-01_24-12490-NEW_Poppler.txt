@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MUNICIPAL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 73
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12490
+CÓDIGO DO CLIENTE
+29967040
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 971034246
+  Energia Ativa            
+Único        
+30.688,00
+31.056,00
+    1,00000
+         368,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         368,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        368
+ 29
+DEZ23
+        527
+ 31
+NOV23
+        465
+ 30
+OUT23
+        500
+ 31
+SET23
+        391
+ 33
+AGO23
+        362
+ 31
+JUL23
+        283
+ 29
+JUN23
+        388
+ 31
+MAI23
+        421
+ 30
+ABR23
+        493
+ 30
+MAR23
+        510
+ 32
+FEV23
+        418
+ 29
+JAN23
+        434
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          368,00 
+ 0,56137913 
+           206,58 
+            10,76 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          368,00 
+ 0,29048869 
+           106,89 
+             5,56 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604634
+             7,93 
+Juros-NF 741604634
+             2,77 
+IPCA-NF-741604634
+             1,49 
+IPCA-NF-734443310
+             1,28 
+TRIBF-IRRF(1.2%)
+             3,75-
+TRIBF-IRRF(4.8%)
+             0,61-
+TOTAL
+           322,58 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESC VALERIANO GOMES DE CARVALHO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA A 61
+ CENTRO-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18543
+CÓDIGO DO CLIENTE
+7106688
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1221063607   Energia Ativa            
+Único        
+12.091,00
+12.701,00
+    1,00000
+         610,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         610,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+        610
+ 28
+MAI25
+        605
+ 33
+ABR25
+        603
+ 28
+MAR25
+        474
+ 29
+FEV25
+        231
+ 32
+JAN25
+        155
+ 28
+DEZ24
+        419
+ 31
+NOV24
+        577
+ 32
+OUT24
+        539
+ 29
+SET24
+        565
+ 31
+AGO24
+        624
+ 32
+JUL24
+        333
+ 30
+JUN24
+        576
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          610,00 
+ 0,58867765 
+           359,09 
+            17,21 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          610,00 
+ 0,29118790 
+           177,62 
+             8,50 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+             5,16 
+             0,24 
+20,50
+Acrés. Band.VERMELHA
+            16,33 
+             0,78 
+20,50
+Multa-NF 858114532
+             8,29 
+Juros-NF 858114532
+             2,48 
+TRIBF-IRRF(1.2%)
+             6,68-
+TRIBF-IRRF(4.8%)
+             0,50-
+TOTAL
+           561,79 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

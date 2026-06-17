@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF M ESC J R ARAUJO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PEDRO ALMEIDA GUIMARAES 18
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13657
+CÓDIGO DO CLIENTE
+3879780
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203697704   Energia Ativa            
+Único        
+27.961,00
+28.614,00
+    1,00000
+         653,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         653,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT24
+        653
+ 29
+SET24
+        676
+ 33
+AGO24
+        646
+ 30
+JUL24
+        683
+ 30
+JUN24
+        738
+ 32
+MAI24
+        991
+ 29
+ABR24
+       1052
+ 28
+MAR24
+       1188
+ 33
+FEV24
+       1170
+ 29
+JAN24
+        890
+ 30
+DEZ23
+        813
+ 32
+NOV23
+        616
+ 30
+OUT23
+        562
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          653,00 
+ 0,56478286 
+           368,80 
+            24,33 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          653,00 
+ 0,31378849 
+           204,90 
+            13,49 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+            27,95 
+             1,83 
+20,50
+Acrés.Bd.VERMELHA-P2
+             5,68 
+             0,36 
+20,50
+TRIBF-IRRF(1.2%)
+             7,28-
+TOTAL
+           600,05 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

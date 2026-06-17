@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CANATUBIA 135
+ RURAL-CANATUBIA/CANATUBIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16979
+CÓDIGO DO CLIENTE
+18143364
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1143394740   Energia Ativa            
+Único        
+10.555,00
+10.787,00
+    1,00000
+         232,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         232,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+        232
+ 32
+OUT24
+        276
+ 29
+SET24
+        283
+ 33
+AGO24
+        230
+ 30
+JUL24
+        191
+ 30
+JUN24
+        279
+ 32
+MAI24
+        219
+ 29
+ABR24
+        184
+ 30
+MAR24
+        153
+ 30
+FEV24
+        110
+ 30
+JAN24
+        109
+ 30
+DEZ23
+        169
+ 29
+NOV23
+        208
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          232,00 
+ 0,55963896 
+           129,83 
+             7,48 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          232,00 
+ 0,31093172 
+            72,13 
+             4,13 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             2,59 
+             0,14 
+20,50
+Acrés.Bd.VERMELHA-P2
+             8,46 
+             0,47 
+20,50
+IPCA-NF-806903700
+             0,82 
+TRIBF-IRRF(1.2%)
+             2,54-
+TRIBF-IRRF(4.8%)
+             0,03-
+TOTAL
+           211,26 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

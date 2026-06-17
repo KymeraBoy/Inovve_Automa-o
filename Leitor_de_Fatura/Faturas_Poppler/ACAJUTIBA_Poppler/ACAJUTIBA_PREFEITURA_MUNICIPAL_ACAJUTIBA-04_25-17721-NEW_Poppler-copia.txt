@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV 01 DA MARAMBAIA 45
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17721
+CÓDIGO DO CLIENTE
+20326492
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1204115113   Energia Ativa            
+Único        
+12.225,00
+12.830,00
+    1,00000
+         605,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         605,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+        605
+ 28
+MAR25
+        636
+ 31
+FEV25
+        338
+ 30
+JAN25
+        311
+ 28
+DEZ24
+        546
+ 32
+NOV24
+        596
+ 31
+OUT24
+        577
+ 29
+SET24
+        687
+ 33
+AGO24
+        666
+ 30
+JUL24
+        344
+ 31
+JUN24
+         65
+ 31
+MAI24
+         40
+ 29
+ABR24
+        102
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          605,00 
+ 0,55963721 
+           338,58 
+            19,40 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          605,00 
+ 0,31094727 
+           188,12 
+            10,77 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 850649543
+             6,05 
+Juros-NF 850649543
+             1,51 
+IPCA-NF-850649543
+             0,83 
+TRIBF-IRRF(1.2%)
+             6,31-
+TRIBF-IRRF(4.8%)
+             0,37-
+TOTAL
+           528,41 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

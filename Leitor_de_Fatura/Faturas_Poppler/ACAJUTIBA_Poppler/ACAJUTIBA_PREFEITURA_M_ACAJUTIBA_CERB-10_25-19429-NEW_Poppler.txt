@@ -1,0 +1,147 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA CERB
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO RETIRO 11
+ CENTRO-RETIRO/RETIRO
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+19429
+CÓDIGO DO CLIENTE
+30476891
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 880932187
+  Energia Ativa            
+Único        
+26.812,00
+26.812,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT25
+         30
+ 29
+SET25
+         30
+ 30
+AGO25
+         30
+ 33
+JUL25
+         30
+ 32
+JUN25
+         30
+ 27
+MAI25
+         30
+ 31
+ABR25
+         30
+ 31
+MAR25
+         30
+ 30
+FEV25
+         30
+ 30
+JAN25
+         30
+ 29
+DEZ24
+         30
+ 31
+NOV24
+         30
+ 31
+OUT24
+         30
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+            0,00 
+ 0,60227810 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+            0,00 
+ 0,29791532 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+MultaCOSIP
+             0,34 
+IPCACOSIP
+             0,01 
+Multa-NF 897712471
+             0,57 
+Juros-NF 897712471
+             0,13 
+TRIBF-IRRF(4.8%)
+             0,03-
+TOTAL
+             1,02 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

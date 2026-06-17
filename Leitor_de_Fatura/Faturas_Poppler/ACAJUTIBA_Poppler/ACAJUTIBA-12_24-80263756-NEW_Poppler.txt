@@ -1,0 +1,129 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA JOAO MACHADO 9988 --A
+ OBRAS DA UNIDADE ESCOLAR
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+80263756
+CÓDIGO DO CLIENTE
+7085509181
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1241080338   Energia Ativa            
+Único        
+    10,00
+    57,00
+    1,00000
+          47,00  
+ 1241080338   Energia Reativa          
+Único        
+     7,00
+   112,00
+    1,00000
+         105,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          47,00  
+         105,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ24
+        100
+ 33
+NOV24
+        100
+ 30
+OUT24
+        100
+ 41
+SET24
+AGO24
+JUL24
+JUN24
+MAI24
+ABR24
+MAR24
+FEV24
+JAN24
+DEZ23
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,56037000 
+            56,03 
+             3,31 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31133000 
+            31,13 
+             1,82 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             1,45 
+             0,08 
+20,50
+TRIBF-IRRF(1.2%)
+             1,06-
+TOTAL
+            87,55 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

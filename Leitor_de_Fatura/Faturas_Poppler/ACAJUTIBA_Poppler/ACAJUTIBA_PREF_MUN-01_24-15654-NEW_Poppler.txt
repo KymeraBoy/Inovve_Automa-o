@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA ADALTON MOTA BRITO 17
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15654
+CÓDIGO DO CLIENTE
+10386705
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1174442572   Energia Ativa            
+Único        
+ 8.656,00
+ 8.805,00
+    1,00000
+         149,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         149,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        149
+ 30
+DEZ23
+        168
+ 31
+NOV23
+        152
+ 31
+OUT23
+        203
+ 30
+SET23
+        190
+ 32
+AGO23
+        174
+ 30
+JUL23
+        170
+ 32
+JUN23
+        148
+ 29
+MAI23
+        136
+ 31
+ABR23
+        159
+ 31
+MAR23
+        120
+ 29
+FEV23
+         66
+ 30
+JAN23
+        105
+ 28
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          149,00 
+ 0,56126751 
+            83,62 
+             4,36 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          149,00 
+ 0,29048067 
+            43,28 
+             2,25 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741592484
+             2,59 
+Juros-NF 741592484
+             0,89 
+IPCA-NF-734474354
+             0,51 
+IPCA-NF-741592484
+             0,49 
+TRIBF-IRRF(1.2%)
+             1,51-
+TRIBF-IRRF(4.8%)
+             0,17-
+TOTAL
+           129,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

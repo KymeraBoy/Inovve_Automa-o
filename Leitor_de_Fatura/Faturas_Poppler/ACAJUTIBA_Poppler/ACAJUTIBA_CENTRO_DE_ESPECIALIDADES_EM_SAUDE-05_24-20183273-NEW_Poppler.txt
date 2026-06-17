@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CENTRO DE ESPECIALIDADES EM SAUDE
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 7866
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+20183273
+CÓDIGO DO CLIENTE
+7068849041
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1219200923   Energia Ativa            
+Único        
+ 8.231,00
+ 8.931,00
+    1,00000
+         700,00  
+ 1219200923   Energia Reativa          
+Único        
+   832,00
+   886,00
+    1,00000
+          54,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         700,00  
+          54,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI24
+        700
+ 29
+ABR24
+        416
+ 32
+MAR24
+        678
+ 29
+FEV24
+        511
+ 29
+JAN24
+        429
+ 32
+DEZ23
+        411
+ 29
+NOV23
+        489
+ 31
+OUT23
+        428
+ 31
+SET23
+        365
+ 31
+AGO23
+        293
+ 30
+JUL23
+        256
+ 32
+JUN23
+        304
+ 29
+MAI23
+        405
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          700,00 
+ 0,56714142 
+           396,99 
+            27,71 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          700,00 
+ 0,31511571 
+           220,58 
+            15,39 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 770293886
+            11,59 
+Juros-NF 770293886
+             5,99 
+TRIBF-IRRF(1.2%)
+             7,40-
+TRIBF-IRRF(4.8%)
+             0,81-
+TOTAL
+           626,94 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

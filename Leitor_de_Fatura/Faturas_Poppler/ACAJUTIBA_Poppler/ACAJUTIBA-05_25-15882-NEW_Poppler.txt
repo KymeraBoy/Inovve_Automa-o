@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESTADIO MUN DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 96
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15882
+CÓDIGO DO CLIENTE
+10387906
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191101371   Energia Ativa            
+Único        
+35.641,00
+36.035,00
+    1,00000
+         394,00  
+ 1191101371   Energia Reativa          
+Único        
+16.445,00
+16.642,00
+    1,00000
+         197,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         394,00  
+         197,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI25
+        394
+ 29
+ABR25
+       1158
+ 30
+MAR25
+        516
+ 31
+FEV25
+        732
+ 30
+JAN25
+        942
+ 29
+DEZ24
+        992
+ 31
+NOV24
+       1707
+ 31
+OUT24
+       1095
+ 29
+SET24
+        789
+ 33
+AGO24
+        663
+ 30
+JUL24
+        361
+ 32
+JUN24
+        236
+ 30
+MAI24
+        382
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          394,00 
+ 0,33107077 
+           130,44 
+             8,99 
+             0,00 
+20,50
+             0,00 
+ 0,30826000
+Consumo-TE
+kWh
+          394,00 
+ 0,16376329 
+            64,52 
+             4,44 
+             0,00 
+20,50
+             0,00 
+ 0,15248000
+Acrés. Band. AMARELA
+             6,04 
+             0,41 
+20,50
+Ilum. Púb. Municipal
+           115,46 
+TRIBF-IRRF(1.2%)
+             2,40-
+TOTAL
+           314,06 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,155 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRAS DE ACAJUTIBA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 9967
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50112618
+CÓDIGO DO CLIENTE
+7055573470
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191129004   Energia Ativa            
+Único        
+12.057,00
+12.493,00
+    1,00000
+         436,00  
+ 1191129004   Energia Reativa          
+Único        
+ 5.050,00
+ 5.325,00
+    1,00000
+         275,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         436,00  
+         275,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        436
+ 32
+DEZ23
+        394
+ 29
+NOV23
+        478
+ 31
+OUT23
+        381
+ 31
+SET23
+        307
+ 31
+AGO23
+        234
+ 30
+JUL23
+        170
+ 32
+JUN23
+        196
+ 29
+MAI23
+        361
+ 32
+ABR23
+        432
+ 30
+MAR23
+        466
+ 29
+FEV23
+        403
+ 30
+JAN23
+        273
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          436,00 
+ 0,56136018 
+           244,75 
+            12,75 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          436,00 
+ 0,29049467 
+           126,65 
+             6,59 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604648
+             8,15 
+Juros-NF 741604648
+             2,85 
+IPCA-NF-741604648
+             1,55 
+IPCA-NF-734443324
+             0,97 
+TRIBF-IRRF(1.2%)
+             4,44-
+TRIBF-IRRF(4.8%)
+             0,61-
+TOTAL
+           379,87 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

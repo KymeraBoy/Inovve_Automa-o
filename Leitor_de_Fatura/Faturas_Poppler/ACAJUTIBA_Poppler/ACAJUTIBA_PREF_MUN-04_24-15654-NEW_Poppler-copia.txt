@@ -1,0 +1,94 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA ADALTON MOTA BRITO 17
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15654
+CÓDIGO DO CLIENTE
+10386705
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+Para este tipo de faturamento não
+existe histórico de consumo.
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           50,00 
+ 0,56654000 
+            28,32 
+             1,74 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+           50,00 
+ 0,29298000 
+            14,64 
+             0,88 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+TRIBF-IRRF(1.2%)
+             0,50-
+TOTAL
+            42,46 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

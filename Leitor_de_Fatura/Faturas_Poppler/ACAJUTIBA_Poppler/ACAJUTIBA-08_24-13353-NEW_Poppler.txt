@@ -1,0 +1,154 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA CASTRO ALVES SN
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13353
+CÓDIGO DO CLIENTE
+201496268
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO24
+     109410
+ 31
+JUL24
+     109572
+ 31
+JUN24
+     107087
+ 30
+MAI24
+     110287
+ 31
+ABR24
+     109594
+ 30
+MAR24
+     113936
+ 31
+FEV24
+     108687
+ 29
+JAN24
+     116051
+ 31
+DEZ23
+     117053
+ 31
+NOV23
+     114323
+ 30
+OUT23
+     117222
+ 31
+SET23
+     114957
+ 30
+AGO23
+     116251
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+      109.410,00 
+ 0,30475784 
+        33.343,55 
+         1.597,15 
+             0,00 
+20,50
+             0,00 
+ 0,29016000
+Consumo-TE
+kWh
+      109.410,00 
+ 0,16933086 
+        18.526,48 
+           887,41 
+             0,00 
+20,50
+             0,00 
+ 0,16122000
+Ilum. Púb. Municipal
+           541,65 
+JurosCOSIP
+             5,41 
+MultaCOSIP
+            51,83 
+IPCACOSIP
+             1,96 
+Multa-NF 792362201
+           658,73 
+Juros-NF 792362201
+           495,28 
+IPCA-NF-785070850
+           187,18 
+IPCA-NF-770295651
+            81,75 
+IPCA-NF-763117668
+           162,73 
+IPCA-NF-777601571
+            31,82 
+IPCA-NF-792362201
+           114,39 
+TRIBF-IRRF(1.2%)
+           622,43-
+TRIBF-IRRF(4.8%)
+            83,06-
+TOTAL
+        53.497,27 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

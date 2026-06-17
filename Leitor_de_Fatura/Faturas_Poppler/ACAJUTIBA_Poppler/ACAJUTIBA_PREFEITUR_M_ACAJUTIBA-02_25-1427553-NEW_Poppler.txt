@@ -1,0 +1,137 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITUR M ACAJUTIBA ESCOLA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CUMBE QUEBRADAS 9907
+ CENTRO-CUMBE QUEBRADAS/CUMBE QUEBRADAS
+ 48370-000 ESPLANADA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1427553
+CÓDIGO DO CLIENTE
+28982380
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 850205140
+  Energia Ativa            
+Único        
+13.472,00
+13.472,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+          0
+ 31
+JAN25
+          0
+ 30
+DEZ24
+          0
+ 30
+NOV24
+          0
+ 31
+OUT24
+          0
+ 30
+SET24
+          0
+ 31
+AGO24
+          0
+ 33
+JUL24
+         30
+ 30
+JUN24
+         30
+ 30
+MAI24
+          0
+ 31
+ABR24
+          0
+ 29
+MAR24
+          0
+ 29
+FEV24
+          0
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+            0,00 
+ 0,57557276 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+            0,00 
+ 0,31980144 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+TOTAL
+             0,00 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

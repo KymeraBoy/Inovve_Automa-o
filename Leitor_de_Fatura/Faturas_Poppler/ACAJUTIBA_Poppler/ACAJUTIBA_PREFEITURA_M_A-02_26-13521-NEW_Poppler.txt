@@ -1,0 +1,138 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M A MERCADO MUN
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA J J SEABRA 109
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13521
+CÓDIGO DO CLIENTE
+25110080
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191129209   Energia Ativa            
+Único        
+79.109,00
+82.248,00
+    1,00000
+       3.139,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       3.139,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       3139
+ 28
+JAN26
+       3456
+ 33
+DEZ25
+       3275
+ 30
+NOV25
+       3006
+ 30
+OUT25
+       3133
+ 30
+SET25
+       3397
+ 31
+AGO25
+       3045
+ 30
+JUL25
+       3616
+ 33
+JUN25
+       3148
+ 29
+MAI25
+       3132
+ 32
+ABR25
+       2500
+ 28
+MAR25
+       2572
+ 30
+FEV25
+       2126
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        3.139,00 
+ 0,59771782 
+         1.876,23 
+           116,89 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        3.139,00 
+ 0,29565959 
+           928,07 
+            57,81 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+            33,65-
+TOTAL
+         2.770,65 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

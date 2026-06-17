@@ -1,0 +1,163 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PSF NA RUA BEDO BRITO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA BEDO FERREIRA BRITO 240
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+70019838
+CÓDIGO DO CLIENTE
+7037914228
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222115341   Energia Ativa            
+Único        
+16.629,00
+17.702,00
+    1,00000
+       1.073,00 
+ 1222115341   Energia Reativa          
+Único        
+ 1.030,00
+ 1.102,00
+    1,00000
+          72,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.073,00 
+          72,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+       1073
+ 30
+JAN25
+        371
+ 28
+DEZ24
+        980
+ 33
+NOV24
+       1033
+ 30
+OUT24
+        746
+ 30
+SET24
+        767
+ 32
+AGO24
+        603
+ 32
+JUL24
+        502
+ 29
+JUN24
+        754
+ 31
+MAI24
+        852
+ 31
+ABR24
+       1064
+ 29
+MAR24
+        979
+ 29
+FEV24
+        769
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.073,00 
+ 0,57556627 
+           617,58 
+            51,50 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.073,00 
+ 0,31979356 
+           343,13 
+            28,61 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 814035596
+            13,74 
+Multa-NF 821238787
+            14,06 
+Multa-NF 828618420
+            19,14 
+Multa-NF 835838475
+            17,28 
+Juros-NF 814035596
+            26,13 
+Juros-NF 821238787
+            18,99 
+Juros-NF 828618420
+            16,90 
+Juros-NF 835838475
+             6,33 
+TRIBF-IRRF(1.2%)
+            11,52-
+TRIBF-IRRF(4.8%)
+             6,30-
+TOTAL
+         1.075,46 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

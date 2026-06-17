@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MARIA CALAZANS
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8
+ CRECHE PREFEITURA M DE ACAJUTIBA
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18615
+CÓDIGO DO CLIENTE
+205735550
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 60951098
+  Energia Ativa            
+Único        
+30.397,00
+30.684,00
+    1,00000
+         287,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         287,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        287
+ 32
+MAI24
+        269
+ 29
+ABR24
+        286
+ 30
+MAR24
+        235
+ 29
+FEV24
+        172
+ 31
+JAN24
+        188
+ 29
+DEZ23
+        185
+ 30
+NOV23
+        252
+ 32
+OUT23
+        243
+ 30
+SET23
+        294
+ 33
+AGO23
+        280
+ 31
+JUL23
+        207
+ 29
+JUN23
+        236
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          287,00 
+ 0,55917278 
+           160,48 
+             9,08 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          287,00 
+ 0,31069097 
+            89,16 
+             5,04 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 777336683
+             3,23 
+Juros-NF 777336683
+             0,39 
+TRIBF-IRRF(1.2%)
+             2,98-
+TRIBF-IRRF(4.8%)
+             0,16-
+Créd Viol Iníc Obras
+           250,12-
+TOTAL
+             0,00 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

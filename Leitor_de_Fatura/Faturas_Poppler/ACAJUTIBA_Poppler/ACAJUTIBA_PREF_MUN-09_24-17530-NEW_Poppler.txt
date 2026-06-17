@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA DA MARAMBAIA 59
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17530
+CÓDIGO DO CLIENTE
+3881067
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1192788516   Energia Ativa            
+Único        
+11.187,00
+11.508,00
+    1,00000
+         321,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         321,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        321
+ 31
+AGO24
+        330
+ 32
+JUL24
+        237
+ 30
+JUN24
+        434
+ 30
+MAI24
+        452
+ 31
+ABR24
+        468
+ 30
+MAR24
+        373
+ 29
+FEV24
+        127
+ 29
+JAN24
+        159
+ 32
+DEZ23
+        225
+ 29
+NOV23
+        356
+ 32
+OUT23
+        353
+ 30
+SET23
+        293
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          321,00 
+ 0,56314632 
+           180,76 
+            11,42 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          321,00 
+ 0,31288077 
+           100,43 
+             6,34 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             9,86 
+             0,62 
+20,50
+Multa-NF 799606801
+             4,18 
+Juros-NF 799606801
+             1,81 
+IPCA-NF-792269789
+             1,32 
+IPCA-NF-777336674
+             0,24 
+IPCA-NF-770293864
+             1,22 
+IPCA-NF-762977445
+             0,16 
+TRIBF-IRRF(1.2%)
+             3,48-
+TRIBF-IRRF(4.8%)
+             0,37-
+TOTAL
+           296,13 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

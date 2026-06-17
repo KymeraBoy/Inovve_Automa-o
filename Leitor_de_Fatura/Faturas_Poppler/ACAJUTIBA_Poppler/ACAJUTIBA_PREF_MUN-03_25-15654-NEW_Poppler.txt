@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA ADALTON MOTA BRITO 17
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15654
+CÓDIGO DO CLIENTE
+10386705
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1174442572   Energia Ativa            
+Único        
+11.287,00
+11.475,00
+    1,00000
+         188,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         188,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+        188
+ 29
+FEV25
+         30
+ 32
+JAN25
+         66
+ 28
+DEZ24
+        190
+ 31
+NOV24
+        238
+ 32
+OUT24
+        226
+ 29
+SET24
+        231
+ 33
+AGO24
+        229
+ 30
+JUL24
+        230
+ 32
+JUN24
+        226
+ 30
+MAI24
+        265
+ 29
+ABR24
+        176
+ 32
+MAR24
+        147
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          188,00 
+ 0,56304162 
+           105,85 
+             6,67 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          188,00 
+ 0,31283884 
+            58,81 
+             3,69 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843411495
+             1,13 
+Juros-NF 843411495
+             0,40 
+IPCA-NF-821287835
+             1,27 
+IPCA-NF-814000435
+             2,21 
+IPCA-NF-828592423
+             0,28 
+TRIBF-IRRF(1.2%)
+             1,97-
+TRIBF-IRRF(4.8%)
+             0,20-
+TOTAL
+           167,78 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

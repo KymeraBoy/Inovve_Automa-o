@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ POSTO SAUDE POVOADO SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 40
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18624
+CÓDIGO DO CLIENTE
+211704586
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 40141839
+  Energia Ativa            
+Único        
+32.610,00
+33.203,00
+    1,00000
+         593,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         593,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+        593
+ 32
+OUT24
+        539
+ 29
+SET24
+        447
+ 31
+AGO24
+        308
+ 32
+JUL24
+        190
+ 30
+JUN24
+        518
+ 32
+MAI24
+        683
+ 29
+ABR24
+        655
+ 30
+MAR24
+        666
+ 29
+FEV24
+        477
+ 31
+JAN24
+        879
+ 29
+DEZ23
+        704
+ 30
+NOV23
+        616
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          593,00 
+ 0,55967792 
+           331,88 
+            19,07 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          593,00 
+ 0,31095462 
+           184,39 
+            10,57 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             7,03 
+             0,40 
+20,50
+Acrés.Bd.VERMELHA-P2
+            20,11 
+             1,14 
+20,50
+IPCA-NF-806898444
+             1,10 
+TRIBF-IRRF(1.2%)
+             6,51-
+TRIBF-IRRF(4.8%)
+             0,04-
+TOTAL
+           537,96 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

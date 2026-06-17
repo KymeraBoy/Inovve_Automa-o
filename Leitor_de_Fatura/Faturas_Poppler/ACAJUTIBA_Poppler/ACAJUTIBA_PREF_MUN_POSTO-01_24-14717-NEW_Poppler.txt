@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN POSTO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ TV DUQUE DE CAXIAS 3
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14717
+CÓDIGO DO CLIENTE
+10381304
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 62180382
+  Energia Ativa            
+Único        
+50.582,00
+55.552,00
+    1,00000
+       4.970,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       4.970,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+       4970
+ 32
+DEZ23
+       4782
+ 29
+NOV23
+       5420
+ 32
+OUT23
+       4605
+ 30
+SET23
+       4087
+ 31
+AGO23
+       3650
+ 33
+JUL23
+       2747
+ 29
+JUN23
+       3563
+ 29
+MAI23
+       4883
+ 33
+ABR23
+       4099
+ 29
+MAR23
+       5180
+ 33
+FEV23
+       4439
+ 28
+JAN23
+       3855
+ 28
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        4.970,00 
+ 0,56138547 
+         2.790,08 
+           145,37 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+        4.970,00 
+ 0,29051279 
+         1.443,84 
+            75,21 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604630
+            92,52 
+Juros-NF 741604630
+            32,38 
+IPCA-NF-734443306
+            11,82 
+IPCA-NF-741604630
+            17,56 
+TRIBF-IRRF(1.2%)
+            50,80-
+TRIBF-IRRF(4.8%)
+             7,36-
+TOTAL
+         4.330,04 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

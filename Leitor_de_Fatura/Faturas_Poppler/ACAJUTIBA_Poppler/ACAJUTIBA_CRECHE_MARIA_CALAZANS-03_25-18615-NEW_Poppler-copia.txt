@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MARIA CALAZANS
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8
+ CRECHE PREFEITURA M DE ACAJUTIBA
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18615
+CÓDIGO DO CLIENTE
+205735550
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 60951098
+  Energia Ativa            
+Único        
+31.639,00
+31.767,00
+    1,00000
+         128,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         128,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+        128
+ 29
+FEV25
+        162
+ 32
+JAN25
+        106
+ 28
+DEZ24
+        121
+ 31
+NOV24
+        108
+ 32
+OUT24
+         90
+ 29
+SET24
+        117
+ 31
+AGO24
+         89
+ 32
+JUL24
+        162
+ 30
+JUN24
+        287
+ 32
+MAI24
+        269
+ 29
+ABR24
+        286
+ 30
+MAR24
+        235
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          128,00 
+ 0,56304162 
+            72,06 
+             4,54 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          128,00 
+ 0,31283884 
+            40,04 
+             2,51 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843410137
+             1,17 
+Juros-NF 843410137
+             0,66 
+IPCA-NF-828593709
+             0,13 
+IPCA-NF-814051006
+             1,10 
+IPCA-NF-821276998
+             0,49 
+TRIBF-IRRF(1.2%)
+             1,34-
+TRIBF-IRRF(4.8%)
+             0,13-
+TOTAL
+           114,18 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

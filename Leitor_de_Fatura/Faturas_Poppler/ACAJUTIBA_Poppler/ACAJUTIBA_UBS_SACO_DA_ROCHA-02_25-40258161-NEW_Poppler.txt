@@ -1,0 +1,153 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8574
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+40258161
+CÓDIGO DO CLIENTE
+7084219937
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1234436780   Energia Ativa            
+Único        
+ 2.204,00
+ 3.625,00
+    1,00000
+       1.421,00 
+ 1234436780   Energia Reativa          
+Único        
+   104,00
+   124,00
+    1,00000
+          20,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.421,00 
+          20,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+       1421
+ 32
+JAN25
+        507
+ 28
+DEZ24
+       1253
+ 31
+NOV24
+        100
+ 32
+OUT24
+        100
+ 29
+SET24
+        100
+ 31
+AGO24
+        370
+ 32
+JUL24
+        100
+ 43
+JUN24
+MAI24
+ABR24
+MAR24
+FEV24
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.421,00 
+ 0,57556437 
+           817,87 
+            68,21 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.421,00 
+ 0,31979432 
+           454,42 
+            37,89 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 821238793
+             1,88 
+Multa-NF 835838481
+            14,04 
+Multa-NF 814035602
+             1,80 
+Multa-NF 828618426
+             1,82 
+Juros-NF 814035602
+             3,42 
+Juros-NF 821238793
+             2,55 
+Juros-NF 828618426
+             1,60 
+Juros-NF 835838481
+             8,07 
+TRIBF-IRRF(1.2%)
+            15,26-
+TRIBF-IRRF(4.8%)
+             1,62-
+TOTAL
+         1.290,59 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

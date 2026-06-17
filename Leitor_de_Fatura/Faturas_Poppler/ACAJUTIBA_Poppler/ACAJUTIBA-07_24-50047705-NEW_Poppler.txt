@@ -1,0 +1,147 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 3322
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+07/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50047705
+CÓDIGO DO CLIENTE
+7042959345
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1223594600   Energia Ativa            
+Único        
+ 1.167,00
+ 1.198,00
+    1,00000
+          31,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          31,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL24
+         31
+ 30
+JUN24
+         30
+ 32
+MAI24
+         30
+ 29
+ABR24
+         30
+ 30
+MAR24
+         65
+ 29
+FEV24
+         43
+ 31
+JAN24
+         51
+ 29
+DEZ23
+         97
+ 30
+NOV23
+         60
+ 32
+OUT23
+         59
+ 30
+SET23
+        104
+ 33
+AGO23
+        105
+ 31
+JUL23
+         77
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           31,00 
+ 0,55950548 
+            17,34 
+             1,03 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           31,00 
+ 0,31054935 
+             9,62 
+             0,54 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             0,36 
+             0,01 
+20,50
+Multa-NF 784949251
+             0,34 
+Juros-NF 784949251
+             0,17 
+TRIBF-IRRF(1.2%)
+             0,31-
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+            27,51 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

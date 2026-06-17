@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRAS DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 9967
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50112618
+CÓDIGO DO CLIENTE
+7055573470
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191129004   Energia Ativa            
+Único        
+16.827,00
+17.189,00
+    1,00000
+         362,00  
+ 1191129004   Energia Reativa          
+Único        
+ 7.743,00
+ 7.942,00
+    1,00000
+         199,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         362,00  
+         199,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN25
+        362
+ 29
+DEZ24
+        487
+ 31
+NOV24
+        529
+ 31
+OUT24
+        420
+ 29
+SET24
+        296
+ 33
+AGO24
+        226
+ 30
+JUL24
+        219
+ 32
+JUN24
+        303
+ 30
+MAI24
+        466
+ 29
+ABR24
+        488
+ 32
+MAR24
+        541
+ 29
+FEV24
+        359
+ 29
+JAN24
+        436
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          362,00 
+ 0,55334348 
+           200,31 
+             9,33 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          362,00 
+ 0,30743939 
+           111,29 
+             5,18 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+TRIBF-IRRF(1.2%)
+             3,73-
+TOTAL
+           307,87 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

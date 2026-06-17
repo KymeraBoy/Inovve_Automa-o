@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 3322
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50047705
+CÓDIGO DO CLIENTE
+7042959345
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1223594600   Energia Ativa            
+Único        
+ 1.349,00
+ 1.377,00
+    1,00000
+          28,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          28,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+         30
+ 29
+FEV25
+         30
+ 32
+JAN25
+         30
+ 28
+DEZ24
+         30
+ 31
+NOV24
+         30
+ 32
+OUT24
+         38
+ 29
+SET24
+         48
+ 31
+AGO24
+         30
+ 32
+JUL24
+         31
+ 30
+JUN24
+         30
+ 32
+MAI24
+         30
+ 29
+ABR24
+         30
+ 30
+MAR24
+         65
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           30,00 
+ 0,56304162 
+            16,89 
+             1,07 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           30,00 
+ 0,31283884 
+             9,38 
+             0,58 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843411519
+             0,51 
+Juros-NF 843411519
+             0,18 
+IPCA-NF-814000459
+             0,45 
+IPCA-NF-821287859
+             0,21 
+IPCA-NF-828592447
+             0,03 
+TRIBF-IRRF(1.2%)
+             0,31-
+TRIBF-IRRF(4.8%)
+             0,02-
+TOTAL
+            27,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

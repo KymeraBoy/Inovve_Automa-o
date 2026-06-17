@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN DE A BOMBA DAGUA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 6
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18602
+CÓDIGO DO CLIENTE
+29758301
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222770102   Energia Ativa            
+Único        
+ 1.333,00
+ 1.442,00
+    1,00000
+         109,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         109,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        109
+ 29
+DEZ23
+         92
+ 30
+NOV23
+        141
+ 32
+OUT23
+        133
+ 30
+SET23
+        105
+ 33
+AGO23
+        102
+ 31
+JUL23
+         75
+ 29
+JUN23
+         68
+ 31
+MAI23
+         70
+ 31
+ABR23
+         48
+ 29
+MAR23
+         99
+ 33
+FEV23
+         58
+ 27
+JAN23
+        132
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          109,00 
+ 0,56122256 
+            61,17 
+             3,19 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          109,00 
+ 0,29042587 
+            31,65 
+             1,64 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Ilum. Púb. Municipal
+            41,12 
+JurosCOSIP
+             0,76 
+MultaCOSIP
+             7,31 
+IPCACOSIP
+             0,28 
+Multa-NF 741592495
+             2,40 
+Juros-NF 741592495
+             0,83 
+IPCA-NF-734474365
+             0,34 
+IPCA-NF-741592495
+             0,45 
+TRIBF-IRRF(1.2%)
+             1,10-
+TRIBF-IRRF(4.8%)
+             0,15-
+TOTAL
+           145,06 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

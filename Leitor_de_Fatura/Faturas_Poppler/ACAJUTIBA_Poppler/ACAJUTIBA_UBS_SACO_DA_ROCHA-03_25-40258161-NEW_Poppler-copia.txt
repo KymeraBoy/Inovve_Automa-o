@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 8574
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+40258161
+CÓDIGO DO CLIENTE
+7084219937
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1234436780   Energia Ativa            
+Único        
+ 3.625,00
+ 4.670,00
+    1,00000
+       1.045,00 
+ 1234436780   Energia Reativa          
+Único        
+   124,00
+   153,00
+    1,00000
+          29,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.045,00 
+          29,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+       1045
+ 29
+FEV25
+       1421
+ 32
+JAN25
+        507
+ 28
+DEZ24
+       1253
+ 31
+NOV24
+        100
+ 32
+OUT24
+        100
+ 29
+SET24
+        100
+ 31
+AGO24
+        370
+ 32
+JUL24
+        100
+ 43
+JUN24
+MAI24
+ABR24
+MAR24
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.045,00 
+ 0,56304162 
+           588,37 
+            37,07 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.045,00 
+ 0,31283884 
+           326,91 
+            20,59 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843391889
+             8,72 
+Juros-NF 843391889
+             3,19 
+IPCA-NF-821238793
+             0,55 
+IPCA-NF-814035602
+             0,94 
+IPCA-NF-828618426
+             0,13 
+TRIBF-IRRF(1.2%)
+            10,98-
+TRIBF-IRRF(4.8%)
+             0,59-
+TOTAL
+           917,24 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

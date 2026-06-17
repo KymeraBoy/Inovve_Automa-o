@@ -1,0 +1,147 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA P ESCOL
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO LAGOETA 37
+ CENTRO-LAGOETA/LAGOETA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18240
+CÓDIGO DO CLIENTE
+26932440
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 3906892
+  Energia Ativa            
+Único        
+19.763,00
+19.912,00
+    1,00000
+         149,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         149,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+        149
+ 28
+MAR25
+        112
+ 30
+FEV25
+         93
+ 31
+JAN25
+         73
+ 29
+DEZ24
+         91
+ 30
+NOV24
+        106
+ 33
+OUT24
+         95
+ 29
+SET24
+         99
+ 31
+AGO24
+        105
+ 32
+JUL24
+        108
+ 30
+JUN24
+        125
+ 32
+MAI24
+        120
+ 29
+ABR24
+        108
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          149,00 
+ 0,55963721 
+            83,38 
+             4,78 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          149,00 
+ 0,31094727 
+            46,33 
+             2,64 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 850679839
+             1,66 
+Juros-NF 850679839
+             0,40 
+IPCA-NF-850679839
+             0,22 
+TRIBF-IRRF(1.2%)
+             1,55-
+TRIBF-IRRF(4.8%)
+             0,08-
+TOTAL
+           130,36 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

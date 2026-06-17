@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA M P EUFRONZINA A CRUZ
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SOUZA BRITO 98
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14574
+CÓDIGO DO CLIENTE
+34501050
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 920169783
+  Energia Ativa            
+Único        
+52.275,00
+52.317,00
+    1,00000
+          42,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          42,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+         42
+ 27
+FEV25
+         30
+ 30
+JAN25
+         31
+ 30
+DEZ24
+        134
+ 30
+NOV24
+         30
+ 31
+OUT24
+         30
+ 31
+SET24
+         30
+ 31
+AGO24
+         30
+ 31
+JUL24
+         30
+ 31
+JUN24
+         56
+ 30
+MAI24
+        199
+ 31
+ABR24
+        186
+ 30
+MAR24
+        112
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           42,00 
+ 0,56304162 
+            23,64 
+             1,49 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           42,00 
+ 0,31283884 
+            13,13 
+             0,82 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843410135
+             0,53 
+Juros-NF 843410135
+             0,18 
+IPCA-NF-814051004
+             0,28 
+IPCA-NF-821276996
+             0,17 
+IPCA-NF-828593707
+             0,03 
+TRIBF-IRRF(1.2%)
+             0,43-
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+            37,52 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

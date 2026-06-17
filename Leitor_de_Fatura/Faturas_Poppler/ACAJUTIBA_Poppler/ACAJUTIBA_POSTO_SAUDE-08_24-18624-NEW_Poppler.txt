@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ POSTO SAUDE POVOADO SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 40
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18624
+CÓDIGO DO CLIENTE
+211704586
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 40141839
+  Energia Ativa            
+Único        
+31.316,00
+31.624,00
+    1,00000
+         308,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         308,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO24
+        308
+ 32
+JUL24
+        190
+ 30
+JUN24
+        518
+ 32
+MAI24
+        683
+ 29
+ABR24
+        655
+ 30
+MAR24
+        666
+ 29
+FEV24
+        477
+ 31
+JAN24
+        879
+ 29
+DEZ23
+        704
+ 30
+NOV23
+        616
+ 32
+OUT23
+        575
+ 30
+SET23
+        435
+ 33
+AGO23
+        367
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          308,00 
+ 0,55409597 
+           170,66 
+             8,18 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          308,00 
+ 0,30783779 
+            94,81 
+             4,53 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             2,46 
+             0,11 
+20,50
+Multa-NF 792269800
+             9,00 
+Juros-NF 792269800
+             4,35 
+IPCA-NF-784903978
+             0,86 
+TRIBF-IRRF(1.2%)
+             3,20-
+TRIBF-IRRF(4.8%)
+             0,65-
+TOTAL
+           278,29 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

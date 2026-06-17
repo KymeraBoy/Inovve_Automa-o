@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS RUA DO CRUZEIRO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 5231
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+40190521
+CÓDIGO DO CLIENTE
+7070177905
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1216185249   Energia Ativa            
+Único        
+40.160,00
+42.040,00
+    1,00000
+       1.880,00 
+ 1216185249   Energia Reativa          
+Único        
+ 1.540,00
+ 1.602,00
+    1,00000
+          62,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.880,00 
+          62,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+       1880
+ 32
+OUT24
+       1787
+ 29
+SET24
+       1605
+ 33
+AGO24
+       1507
+ 30
+JUL24
+       1594
+ 32
+JUN24
+       1657
+ 30
+MAI24
+       1880
+ 29
+ABR24
+       2116
+ 32
+MAR24
+       2227
+ 29
+FEV24
+       1551
+ 29
+JAN24
+       1737
+ 30
+DEZ23
+       1538
+ 31
+NOV23
+       1912
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.880,00 
+ 0,55968702 
+         1.052,21 
+            60,41 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.880,00 
+ 0,31097574 
+           584,63 
+            33,55 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+            29,36 
+             1,68 
+20,50
+Acrés.Bd.VERMELHA-P2
+            34,35 
+             1,96 
+20,50
+IPCA-NF-806898450
+             5,42 
+TRIBF-IRRF(1.2%)
+            20,40-
+TRIBF-IRRF(4.8%)
+             0,25-
+TOTAL
+         1.685,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 90
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15402
+CÓDIGO DO CLIENTE
+30555627
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Bifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222419960   Energia Ativa            
+Único        
+11.777,00
+12.395,00
+    1,00000
+         618,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         618,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV25
+        618
+ 31
+OUT25
+        580
+ 29
+SET25
+        585
+ 32
+AGO25
+        580
+ 31
+JUL25
+        556
+ 33
+JUN25
+        558
+ 28
+MAI25
+        586
+ 29
+ABR25
+        633
+ 32
+MAR25
+        587
+ 29
+FEV25
+        265
+ 30
+JAN25
+         88
+ 29
+DEZ24
+        235
+ 31
+NOV24
+        552
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          618,00 
+ 0,60227810 
+           372,20 
+            25,84 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          618,00 
+ 0,29791532 
+           184,11 
+            12,77 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band.VERMELHA
+            29,63 
+             2,04 
+20,50
+Multa-NF 897712472
+            11,20 
+Juros-NF 897712472
+             2,79 
+IPCA-NF-897712472
+             1,31 
+TRIBF-IRRF(1.2%)
+             7,03-
+TRIBF-IRRF(4.8%)
+             0,72-
+TOTAL
+           593,49 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,141 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ILUMINACAO NA PRACA AQUINOEL
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 9991
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12540
+CÓDIGO DO CLIENTE
+217081335
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2849500
+  Energia Ativa            
+Único        
+45.871,00
+46.449,00
+    1,00000
+         578,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         578,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+        578
+ 28
+JAN26
+        550
+ 29
+DEZ25
+        671
+ 33
+NOV25
+        618
+ 30
+OUT25
+        597
+ 31
+SET25
+        629
+ 30
+AGO25
+        649
+ 30
+JUL25
+        739
+ 33
+JUN25
+        696
+ 29
+MAI25
+        762
+ 33
+ABR25
+        645
+ 29
+MAR25
+        604
+ 29
+FEV25
+        764
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          578,00 
+ 0,32874053 
+           190,01 
+            11,84 
+             0,00 
+20,50
+             0,00 
+ 0,30826000
+Consumo-TE
+kWh
+          578,00 
+ 0,16261064 
+            93,98 
+             5,85 
+             0,00 
+20,50
+             0,00 
+ 0,15248000
+Ilum. Púb. Municipal
+           182,95 
+TRIBF-IRRF(1.2%)
+             3,41-
+TOTAL
+           463,53 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

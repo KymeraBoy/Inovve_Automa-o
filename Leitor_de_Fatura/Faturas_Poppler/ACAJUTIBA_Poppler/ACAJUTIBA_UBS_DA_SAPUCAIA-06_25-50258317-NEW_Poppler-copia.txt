@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS DA SAPUCAIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV SAPUCAIA 8797
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50258317
+CÓDIGO DO CLIENTE
+7084288246
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1234436763   Energia Ativa            
+Único        
+15.245,00
+16.684,00
+    1,00000
+       1.439,00 
+ 1234436763   Energia Reativa          
+Único        
+   390,00
+   397,00
+    1,00000
+           7,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.439,00 
+           7,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+       1439
+ 31
+MAI25
+       1872
+ 30
+ABR25
+       1838
+ 28
+MAR25
+       1835
+ 30
+FEV25
+       1771
+ 32
+JAN25
+       1168
+ 28
+DEZ24
+       1708
+ 31
+NOV24
+       1671
+ 32
+OUT24
+       1005
+ 29
+SET24
+        927
+ 33
+AGO24
+       1087
+ 30
+JUL24
+        363
+ 28
+JUN24
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.439,00 
+ 0,58867765 
+           847,10 
+            40,60 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        1.439,00 
+ 0,29118790 
+           419,01 
+            20,06 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+            26,64 
+             1,26 
+20,50
+Acrés. Band.VERMELHA
+             4,34 
+             0,20 
+20,50
+Multa-NF 858157021
+            32,14 
+Juros-NF 858157021
+             9,63 
+TRIBF-IRRF(1.2%)
+            15,55-
+TRIBF-IRRF(4.8%)
+             1,99-
+TOTAL
+         1.321,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

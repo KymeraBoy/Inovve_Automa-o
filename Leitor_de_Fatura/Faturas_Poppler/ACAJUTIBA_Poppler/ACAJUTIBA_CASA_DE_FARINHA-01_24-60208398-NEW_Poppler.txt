@@ -1,0 +1,153 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CASA DE FARINHA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA JOAO MACHADO 8796
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+60208398
+CÓDIGO DO CLIENTE
+7073599592
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1213687502   Energia Ativa            
+Único        
+   908,00
+ 1.011,00
+    1,00000
+         103,00  
+ 1213687502   Energia Reativa          
+Único        
+ 2.012,00
+ 2.254,00
+    1,00000
+         242,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         103,00  
+         242,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        103
+ 32
+DEZ23
+        105
+ 30
+NOV23
+        101
+ 32
+OUT23
+        100
+ 30
+SET23
+        106
+ 30
+AGO23
+        122
+ 33
+JUL23
+        100
+ 30
+JUN23
+        100
+ 28
+MAI23
+        100
+ 33
+ABR23
+        100
+ 29
+MAR23
+        100
+ 42
+FEV23
+JAN23
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          103,00 
+ 0,56126621 
+            57,81 
+             3,01 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          103,00 
+ 0,29042854 
+            29,91 
+             1,55 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741592510
+             1,71 
+Juros-NF 741592510
+             0,59 
+IPCA-NF-741592510
+             0,33 
+IPCA-NF-734474380
+             0,25 
+TRIBF-IRRF(1.2%)
+             1,04-
+TRIBF-IRRF(4.8%)
+             0,09-
+Créd Viol Iníc Obras
+            89,47-
+TOTAL
+             0,00 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

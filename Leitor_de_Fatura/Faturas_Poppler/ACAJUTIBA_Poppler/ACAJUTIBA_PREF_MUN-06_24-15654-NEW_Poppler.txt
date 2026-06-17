@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA ADALTON MOTA BRITO 17
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15654
+CÓDIGO DO CLIENTE
+10386705
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1174442572   Energia Ativa            
+Único        
+ 9.624,00
+ 9.850,00
+    1,00000
+         226,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         226,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        226
+ 30
+MAI24
+        265
+ 29
+ABR24
+        176
+ 32
+MAR24
+        147
+ 29
+FEV24
+         30
+ 29
+JAN24
+        149
+ 30
+DEZ23
+        168
+ 31
+NOV23
+        152
+ 31
+OUT23
+        203
+ 30
+SET23
+        190
+ 32
+AGO23
+        174
+ 30
+JUL23
+        170
+ 32
+JUN23
+        148
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          226,00 
+ 0,55916292 
+           126,37 
+             7,15 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          226,00 
+ 0,31069637 
+            70,21 
+             3,97 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 776892345
+             0,84 
+Multa-NF 776892343
+             0,84 
+Multa-NF 776892342
+             0,18 
+Multa-NF 777334525
+             1,98 
+Juros-NF 777334525
+             0,24 
+Juros-NF 776892343
+             0,06 
+Juros-NF 776892345
+             0,06 
+Juros-NF 776892342
+             0,01 
+TRIBF-IRRF(1.2%)
+             2,35-
+TRIBF-IRRF(4.8%)
+             0,15-
+TOTAL
+           198,29 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

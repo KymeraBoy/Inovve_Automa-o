@@ -1,0 +1,142 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CANATUBIA 135
+ RURAL-CANATUBIA/CANATUBIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16979
+CÓDIGO DO CLIENTE
+18143364
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1143394740   Energia Ativa            
+Único        
+11.518,00
+11.617,00
+    1,00000
+          99,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          99,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI25
+         99
+ 31
+ABR25
+         94
+ 28
+MAR25
+        123
+ 29
+FEV25
+        169
+ 32
+JAN25
+        158
+ 28
+DEZ24
+        187
+ 31
+NOV24
+        232
+ 32
+OUT24
+        276
+ 29
+SET24
+        283
+ 33
+AGO24
+        230
+ 30
+JUL24
+        191
+ 30
+JUN24
+        279
+ 32
+MAI24
+        219
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           99,00 
+ 0,59511365 
+            58,91 
+             4,06 
+             0,00 
+20,50
+             0,00 
+ 0,55411032
+Consumo-TE
+kWh
+           99,00 
+ 0,30105840 
+            29,80 
+             2,05 
+             0,00 
+20,50
+             0,00 
+ 0,28031548
+Acrés. Band. AMARELA
+             1,03 
+             0,06 
+20,50
+TRIBF-IRRF(1.2%)
+             1,06-
+TOTAL
+            88,68 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

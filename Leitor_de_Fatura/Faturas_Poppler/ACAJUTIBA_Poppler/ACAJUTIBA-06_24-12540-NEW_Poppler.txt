@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ILUMINACAO NA PRACA AQUINOEL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 9991
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12540
+CÓDIGO DO CLIENTE
+217081335
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2849500
+  Energia Ativa            
+Único        
+31.554,00
+32.429,00
+    1,00000
+         875,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         875,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        875
+ 33
+MAI24
+        756
+ 29
+ABR24
+        728
+ 29
+MAR24
+        795
+ 32
+FEV24
+        743
+ 29
+JAN24
+        657
+ 29
+DEZ23
+        710
+ 31
+NOV23
+        739
+ 30
+OUT23
+        789
+ 31
+SET23
+        865
+ 33
+AGO23
+        799
+ 31
+JUL23
+        726
+ 29
+JUN23
+        814
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          875,00 
+ 0,30756571 
+           269,11 
+            15,23 
+             0,00 
+20,50
+             0,00 
+ 0,29016000
+Consumo-TE
+kWh
+          875,00 
+ 0,17087714 
+           149,51 
+             8,45 
+             0,00 
+20,50
+             0,00 
+ 0,16122000
+Ilum. Púb. Municipal
+           192,78 
+MultaCOSIP
+             3,12 
+IPCACOSIP
+             0,09 
+Multa-NF 777334542
+             6,86 
+Juros-NF 777334542
+             0,56 
+TRIBF-IRRF(1.2%)
+             5,01-
+TRIBF-IRRF(4.8%)
+             0,33-
+TOTAL
+           616,69 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

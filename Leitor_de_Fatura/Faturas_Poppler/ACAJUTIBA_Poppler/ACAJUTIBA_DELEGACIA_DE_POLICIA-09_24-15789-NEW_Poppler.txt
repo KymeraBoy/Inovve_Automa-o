@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ DELEGACIA DE POLICIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15789
+CÓDIGO DO CLIENTE
+14021183
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1181484566   Energia Ativa            
+Único        
+12.257,00
+12.436,00
+    1,00000
+         179,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         179,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        179
+ 33
+AGO24
+        149
+ 30
+JUL24
+        113
+ 32
+JUN24
+        149
+ 30
+MAI24
+        152
+ 29
+ABR24
+        241
+ 32
+MAR24
+        268
+ 29
+FEV24
+        185
+ 29
+JAN24
+        254
+ 32
+DEZ23
+         86
+ 29
+NOV23
+        108
+ 31
+OUT23
+        150
+ 31
+SET23
+        146
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          179,00 
+ 0,56310072 
+           100,79 
+             6,38 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          179,00 
+ 0,31285067 
+            56,00 
+             3,53 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             6,20 
+             0,39 
+20,50
+Multa-NF 799577130
+             1,99 
+Juros-NF 799577130
+             0,85 
+IPCA-NF-777334528
+             0,12 
+IPCA-NF-792217273
+             0,45 
+IPCA-NF-762922477
+             0,25 
+IPCA-NF-770295637
+             0,86 
+TRIBF-IRRF(1.2%)
+             1,94-
+TRIBF-IRRF(4.8%)
+             0,16-
+TOTAL
+           165,41 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

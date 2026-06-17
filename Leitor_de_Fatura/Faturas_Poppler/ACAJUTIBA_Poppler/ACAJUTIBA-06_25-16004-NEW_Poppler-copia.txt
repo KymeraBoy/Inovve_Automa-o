@@ -1,0 +1,159 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARIA ESPERANÇA L ANDRADE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16004
+CÓDIGO DO CLIENTE
+7034486918
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172732271   Energia Ativa            
+Único        
+106287,00
+112581,00
+    1,00000
+       6.294,00 
+ 1172732271   Energia Reativa          
+Único        
+50.065,00
+50.810,00
+    1,00000
+         745,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       6.294,00 
+         745,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+       6294
+ 29
+MAI25
+        100
+ 29
+ABR25
+       4625
+ 30
+MAR25
+       3590
+ 31
+FEV25
+       3524
+ 30
+JAN25
+       2440
+ 29
+DEZ24
+       1819
+ 31
+NOV24
+       1884
+ 31
+OUT24
+       1591
+ 29
+SET24
+       1715
+ 33
+AGO24
+       1680
+ 30
+JUL24
+       1172
+ 32
+JUN24
+       2049
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        6.294,00 
+ 0,58867765 
+         3.705,13 
+           177,50 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        6.294,00 
+ 0,29118790 
+         1.832,73 
+            87,78 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+            38,66 
+             1,84 
+20,50
+Acrés. Band.VERMELHA
+           203,46 
+             9,73 
+20,50
+Multa-NF 858114545
+            62,88 
+Juros-NF 858114545
+            18,85 
+TRIBF-IRRF(1.2%)
+            69,35-
+TRIBF-IRRF(4.8%)
+             3,91-
+TOTAL
+         5.788,45 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

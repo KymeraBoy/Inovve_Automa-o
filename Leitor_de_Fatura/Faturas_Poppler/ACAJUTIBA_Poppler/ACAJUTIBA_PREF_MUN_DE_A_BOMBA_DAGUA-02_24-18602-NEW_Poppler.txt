@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN DE A BOMBA DAGUA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 6
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18602
+CÓDIGO DO CLIENTE
+29758301
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222770102   Energia Ativa            
+Único        
+ 1.442,00
+ 1.565,00
+    1,00000
+         123,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         123,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV24
+        123
+ 31
+JAN24
+        109
+ 29
+DEZ23
+         92
+ 30
+NOV23
+        141
+ 32
+OUT23
+        133
+ 30
+SET23
+        105
+ 33
+AGO23
+        102
+ 31
+JUL23
+         75
+ 29
+JUN23
+         68
+ 31
+MAI23
+         70
+ 31
+ABR23
+         48
+ 29
+MAR23
+         99
+ 33
+FEV23
+         58
+ 27
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          123,00 
+ 0,56677414 
+            69,71 
+             4,28 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          123,00 
+ 0,29326617 
+            36,07 
+             2,20 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Ilum. Púb. Municipal
+            41,12 
+JurosCOSIP
+             0,22 
+MultaCOSIP
+             2,12 
+IPCACOSIP
+             0,07 
+Multa-NF 748756295
+             1,58 
+Juros-NF 748756295
+             0,71 
+TRIBF-IRRF(1.2%)
+             1,26-
+TRIBF-IRRF(4.8%)
+             0,09-
+TOTAL
+           150,25 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

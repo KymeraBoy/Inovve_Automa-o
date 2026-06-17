@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CENTRO DE ESPECIALIDADES EM SAUDE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 7866
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+20183273
+CÓDIGO DO CLIENTE
+7068849041
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1219200923   Energia Ativa            
+Único        
+18.748,00
+19.158,00
+    1,00000
+         410,00  
+ 1219200923   Energia Reativa          
+Único        
+ 2.233,00
+ 2.260,00
+    1,00000
+          27,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         410,00  
+          27,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+        410
+ 29
+JAN26
+        411
+ 30
+DEZ25
+        442
+ 32
+NOV25
+        520
+ 31
+OUT25
+        464
+ 29
+SET25
+        407
+ 32
+AGO25
+        517
+ 31
+JUL25
+        334
+ 33
+JUN25
+        513
+ 28
+MAI25
+        666
+ 29
+ABR25
+        741
+ 32
+MAR25
+        588
+ 28
+FEV25
+        688
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          410,00 
+ 0,59771782 
+           245,06 
+            15,27 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          410,00 
+ 0,29565959 
+           121,22 
+             7,54 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+             4,39-
+TOTAL
+           361,89 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

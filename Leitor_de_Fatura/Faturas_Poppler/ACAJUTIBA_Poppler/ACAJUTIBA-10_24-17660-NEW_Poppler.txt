@@ -1,0 +1,159 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DA MARAMBAIA 1580
+ POSTO MEDICO
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17660
+CÓDIGO DO CLIENTE
+210897828
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191128911   Energia Ativa            
+Único        
+25.227,00
+25.255,00
+    1,00000
+          28,00  
+ 1191128911   Energia Reativa          
+Único        
+ 4.629,00
+ 4.629,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          28,00  
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+AGO24
+        100
+ 30
+JUL24
+        312
+ 31
+JUN24
+        771
+ 31
+MAI24
+        893
+ 29
+ABR24
+        986
+ 31
+MAR24
+       1202
+ 29
+FEV24
+        905
+ 30
+JAN24
+        759
+ 30
+DEZ23
+        832
+ 31
+NOV23
+        779
+ 30
+OUT23
+        707
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,56467000 
+            56,46 
+             3,73 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31373000 
+            31,37 
+             2,06 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             2,13 
+             0,13 
+20,50
+Acrés.Bd.VERMELHA-P2
+             4,64 
+             0,30 
+20,50
+Multa-NF 806898443
+             1,73 
+Juros-NF 806898443
+             0,83 
+TRIBF-IRRF(1.2%)
+             1,12-
+TRIBF-IRRF(4.8%)
+             0,11-
+TOTAL
+            95,93 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

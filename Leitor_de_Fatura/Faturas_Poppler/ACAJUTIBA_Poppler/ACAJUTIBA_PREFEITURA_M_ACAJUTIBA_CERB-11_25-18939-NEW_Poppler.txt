@@ -1,0 +1,156 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA CERB
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO GAMELEIRA 63
+ RURAL-GAMELEIRA/GAMELEIRA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18939
+CÓDIGO DO CLIENTE
+30476875
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1241080770   Energia Ativa            
+Único        
+ 2.426,00
+ 2.954,00
+    1,00000
+         528,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         528,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV25
+        528
+ 30
+OUT25
+        449
+ 31
+SET25
+        351
+ 30
+AGO25
+        409
+ 32
+JUL25
+        412
+ 32
+JUN25
+        375
+ 28
+MAI25
+        521
+ 33
+ABR25
+        507
+ 28
+MAR25
+        510
+ 30
+FEV25
+        511
+ 31
+JAN25
+        553
+ 29
+DEZ24
+        590
+ 30
+NOV24
+        592
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          528,00 
+ 0,60227810 
+           318,00 
+            22,07 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          528,00 
+ 0,29791532 
+           157,29 
+            10,91 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band.VERMELHA
+            25,31 
+             1,75 
+20,50
+Ilum. Púb. Municipal
+           182,95 
+MultaCOSIP
+             5,71 
+IPCACOSIP
+             0,27 
+Multa-NF 897712470
+             7,88 
+Juros-NF 897712470
+             1,96 
+IPCA-NF-897712470
+             0,90 
+TRIBF-IRRF(1.2%)
+             6,01-
+TRIBF-IRRF(4.8%)
+             0,52-
+TOTAL
+           693,74 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

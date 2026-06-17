@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 3322
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50047705
+CÓDIGO DO CLIENTE
+7042959345
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1223594600   Energia Ativa            
+Único        
+ 1.198,00
+ 1.210,00
+    1,00000
+          12,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          12,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO24
+         30
+ 32
+JUL24
+         31
+ 30
+JUN24
+         30
+ 32
+MAI24
+         30
+ 29
+ABR24
+         30
+ 30
+MAR24
+         65
+ 29
+FEV24
+         43
+ 31
+JAN24
+         51
+ 29
+DEZ23
+         97
+ 30
+NOV23
+         60
+ 32
+OUT23
+         59
+ 30
+SET23
+        104
+ 33
+AGO23
+        105
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           30,00 
+ 0,55390333 
+            16,61 
+             0,81 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           30,00 
+ 0,30746333 
+             9,22 
+             0,43 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             0,22 
+20,50
+Multa-NF 792217294
+             0,51 
+Juros-NF 792217294
+             0,24 
+IPCA-NF-784949251
+             0,03 
+TRIBF-IRRF(1.2%)
+             0,30-
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+            26,52 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

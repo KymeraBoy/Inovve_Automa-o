@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MUNICIPAL DO CRUZEIRO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 114
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15427
+CÓDIGO DO CLIENTE
+35343148
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200338410   Energia Ativa            
+Único        
+ 8.723,00
+ 8.746,00
+    1,00000
+          23,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          23,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+         30
+ 31
+MAI25
+         89
+ 29
+ABR25
+         30
+ 30
+MAR25
+         30
+ 29
+FEV25
+         30
+ 32
+JAN25
+        145
+ 28
+DEZ24
+        271
+ 31
+NOV24
+        321
+ 32
+OUT24
+        300
+ 29
+SET24
+        374
+ 33
+AGO24
+        373
+ 30
+JUL24
+        290
+ 32
+JUN24
+        310
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           30,00 
+ 0,58867765 
+            17,66 
+             0,86 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+           30,00 
+ 0,29118790 
+             8,73 
+             0,41 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+             0,14 
+20,50
+Acrés. Band.VERMELHA
+             1,03 
+             0,04 
+20,50
+Multa-NF 858114538
+             0,51 
+Juros-NF 858114538
+             0,15 
+TRIBF-IRRF(1.2%)
+             0,32-
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+            27,89 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

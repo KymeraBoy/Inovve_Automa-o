@@ -1,0 +1,159 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CENTRO DE ESPECIALIDADES EM SAUDE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 7866
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+20183273
+CÓDIGO DO CLIENTE
+7068849041
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1219200923   Energia Ativa            
+Único        
+10.459,00
+11.028,00
+    1,00000
+         569,00  
+ 1219200923   Energia Reativa          
+Único        
+ 1.088,00
+ 1.140,00
+    1,00000
+          52,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         569,00  
+          52,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT24
+        569
+ 29
+SET24
+        438
+ 33
+AGO24
+        375
+ 30
+JUL24
+        295
+ 32
+JUN24
+        420
+ 30
+MAI24
+        700
+ 29
+ABR24
+        416
+ 32
+MAR24
+        678
+ 29
+FEV24
+        511
+ 29
+JAN24
+        429
+ 32
+DEZ23
+        411
+ 29
+NOV23
+        489
+ 31
+OUT23
+        428
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          569,00 
+ 0,56477562 
+           321,35 
+            21,21 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          569,00 
+ 0,31378026 
+           178,54 
+            11,75 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             5,61 
+             0,36 
+20,50
+Acrés.Bd.VERMELHA-P2
+            38,03 
+             2,49 
+20,50
+Multa-NF 806898448
+             4,15 
+Juros-NF 806898448
+             3,13 
+TRIBF-IRRF(1.2%)
+             6,51-
+TRIBF-IRRF(4.8%)
+             0,33-
+TOTAL
+           543,97 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

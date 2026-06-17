@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ POSTO SAUDE POVOADO SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 40
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18624
+CÓDIGO DO CLIENTE
+211704586
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 40141839
+  Energia Ativa            
+Único        
+33.286,00
+33.319,00
+    1,00000
+          33,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          33,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+         33
+ 32
+JAN25
+         30
+ 28
+DEZ24
+         79
+ 31
+NOV24
+        593
+ 32
+OUT24
+        539
+ 29
+SET24
+        447
+ 31
+AGO24
+        308
+ 32
+JUL24
+        190
+ 30
+JUN24
+        518
+ 32
+MAI24
+        683
+ 29
+ABR24
+        655
+ 30
+MAR24
+        666
+ 29
+FEV24
+        477
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           33,00 
+ 0,57544878 
+            18,98 
+             1,58 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           33,00 
+ 0,31949363 
+            10,54 
+             0,87 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 835838473
+             1,38 
+Multa-NF 828618418
+            10,86 
+Multa-NF 821238785
+            10,22 
+Multa-NF 814035594
+             8,08 
+Juros-NF 814035594
+            15,36 
+Juros-NF 821238785
+            13,80 
+Juros-NF 828618418
+             9,59 
+Juros-NF 835838473
+             0,50 
+TRIBF-IRRF(1.2%)
+             0,34-
+TRIBF-IRRF(4.8%)
+             3,26-
+TOTAL
+            95,71 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

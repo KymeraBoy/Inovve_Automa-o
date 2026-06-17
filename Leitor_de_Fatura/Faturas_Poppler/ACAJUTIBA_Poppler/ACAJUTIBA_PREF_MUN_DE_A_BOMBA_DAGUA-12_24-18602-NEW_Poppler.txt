@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN DE A BOMBA DAGUA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 6
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18602
+CÓDIGO DO CLIENTE
+29758301
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222770102   Energia Ativa            
+Único        
+ 2.753,00
+ 3.031,00
+    1,00000
+         278,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         278,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ24
+        278
+ 31
+NOV24
+        247
+ 32
+OUT24
+        144
+ 29
+SET24
+        123
+ 31
+AGO24
+        118
+ 32
+JUL24
+        104
+ 30
+JUN24
+        101
+ 32
+MAI24
+        102
+ 29
+ABR24
+        130
+ 30
+MAR24
+        119
+ 29
+FEV24
+        123
+ 31
+JAN24
+        109
+ 29
+DEZ23
+         92
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          278,00 
+ 0,56048366 
+           155,81 
+             9,17 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          278,00 
+ 0,31140338 
+            86,57 
+             5,08 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             1,96 
+             0,11 
+20,50
+Ilum. Púb. Municipal
+            95,06 
+TRIBF-IRRF(1.2%)
+             2,92-
+TOTAL
+           336,48 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

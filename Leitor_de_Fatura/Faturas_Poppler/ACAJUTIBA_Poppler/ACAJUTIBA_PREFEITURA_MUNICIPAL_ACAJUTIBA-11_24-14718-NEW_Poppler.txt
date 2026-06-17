@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DUQUE DE CAXIAS 4
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14718
+CÓDIGO DO CLIENTE
+22963287
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 862919904
+  Energia Ativa            
+Único        
+95.885,00
+ 4.128,00
+    1,00000
+       8.243,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       8.243,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+       8243
+ 31
+OUT24
+       7655
+ 31
+SET24
+       5063
+ 31
+AGO24
+       4642
+ 31
+JUL24
+       4536
+ 31
+JUN24
+       5593
+ 30
+MAI24
+       8005
+ 31
+ABR24
+       9603
+ 30
+MAR24
+       8916
+ 29
+FEV24
+       7272
+ 29
+JAN24
+       7957
+ 32
+DEZ23
+       6243
+ 29
+NOV23
+       6394
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        8.243,00 
+ 0,55969422 
+         4.613,55 
+           264,86 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        8.243,00 
+ 0,31097908 
+         2.563,40 
+           147,13 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+           111,64 
+             6,39 
+20,50
+Acrés.Bd.VERMELHA-P2
+           222,19 
+            12,74 
+20,50
+IPCA-NF-806903703
+            13,87 
+TRIBF-IRRF(1.2%)
+            90,12-
+TRIBF-IRRF(4.8%)
+             0,66-
+TOTAL
+         7.433,87 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

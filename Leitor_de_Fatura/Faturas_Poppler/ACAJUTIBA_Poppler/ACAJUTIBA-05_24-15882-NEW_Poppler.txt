@@ -1,0 +1,159 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESTADIO MUN DE ACAJUTIBA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 96
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15882
+CÓDIGO DO CLIENTE
+10387906
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191101371   Energia Ativa            
+Único        
+26.068,00
+26.450,00
+    1,00000
+         382,00  
+ 1191101371   Energia Reativa          
+Único        
+13.123,00
+13.299,00
+    1,00000
+         176,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         382,00  
+         176,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI24
+        382
+ 29
+ABR24
+        786
+ 32
+MAR24
+        860
+ 29
+FEV24
+        611
+ 29
+JAN24
+        841
+ 32
+DEZ23
+        970
+ 29
+NOV23
+       1055
+ 31
+OUT23
+        853
+ 31
+SET23
+        767
+ 31
+AGO23
+        356
+ 30
+JUL23
+        264
+ 32
+JUN23
+        230
+ 29
+MAI23
+        299
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          382,00 
+ 0,31191392 
+           119,15 
+             8,32 
+             0,00 
+20,50
+             0,00 
+ 0,29016000
+Consumo-TE
+kWh
+          382,00 
+ 0,17328806 
+            66,19 
+             4,61 
+             0,00 
+20,50
+             0,00 
+ 0,16122000
+Ilum. Púb. Municipal
+           113,11 
+JurosCOSIP
+             3,84 
+MultaCOSIP
+            36,85 
+IPCACOSIP
+             1,01 
+Multa-NF 770295635
+             8,09 
+Juros-NF 770295635
+             4,17 
+TRIBF-IRRF(1.2%)
+             2,21-
+TRIBF-IRRF(4.8%)
+             0,57-
+TOTAL
+           349,63 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

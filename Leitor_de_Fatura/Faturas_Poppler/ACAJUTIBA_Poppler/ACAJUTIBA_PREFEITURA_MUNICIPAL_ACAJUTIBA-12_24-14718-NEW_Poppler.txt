@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DUQUE DE CAXIAS 4
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14718
+CÓDIGO DO CLIENTE
+22963287
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 862919904
+  Energia Ativa            
+Único        
+ 4.128,00
+13.022,00
+    1,00000
+       8.894,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       8.894,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ24
+       8894
+ 30
+NOV24
+       8243
+ 31
+OUT24
+       7655
+ 31
+SET24
+       5063
+ 31
+AGO24
+       4642
+ 31
+JUL24
+       4536
+ 31
+JUN24
+       5593
+ 30
+MAI24
+       8005
+ 31
+ABR24
+       9603
+ 30
+MAR24
+       8916
+ 29
+FEV24
+       7272
+ 29
+JAN24
+       7957
+ 32
+DEZ23
+       6243
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        8.894,00 
+ 0,56052817 
+         4.985,33 
+           293,15 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        8.894,00 
+ 0,31144122 
+         2.769,95 
+           162,86 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+            53,43 
+             3,14 
+20,50
+Multa-NF 814000442
+            91,81 
+Multa-NF 821287842
+           145,60 
+Juros-NF 814000442
+            65,79 
+Juros-NF 821287842
+            24,26 
+IPCA-NF-821287842
+            36,53 
+IPCA-NF-814000442
+            13,36 
+TRIBF-IRRF(1.2%)
+            93,70-
+TRIBF-IRRF(4.8%)
+            18,06-
+TOTAL
+         8.074,30 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

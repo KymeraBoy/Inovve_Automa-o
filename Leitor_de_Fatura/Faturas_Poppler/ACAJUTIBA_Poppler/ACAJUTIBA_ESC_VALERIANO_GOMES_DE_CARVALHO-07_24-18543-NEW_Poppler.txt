@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESC VALERIANO GOMES DE CARVALHO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA A 61
+ CENTRO-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+07/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18543
+CÓDIGO DO CLIENTE
+7106688
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1221063607   Energia Ativa            
+Único        
+ 6.966,00
+ 7.299,00
+    1,00000
+         333,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         333,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUL24
+        333
+ 30
+JUN24
+        576
+ 32
+MAI24
+        678
+ 29
+ABR24
+        653
+ 30
+MAR24
+        509
+ 29
+FEV24
+        172
+ 31
+JAN24
+        409
+ 29
+DEZ23
+        270
+ 30
+NOV23
+        525
+ 32
+OUT23
+        542
+ 30
+SET23
+        465
+ 33
+AGO23
+        464
+ 31
+JUL23
+        283
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          333,00 
+ 0,56003246 
+           186,49 
+            10,81 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          333,00 
+ 0,31114801 
+           103,61 
+             6,00 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             3,99 
+             0,23 
+20,50
+Multa-NF 784903968
+            11,93 
+Juros-NF 784903968
+             4,17 
+TRIBF-IRRF(1.2%)
+             3,52-
+TRIBF-IRRF(4.8%)
+             0,75-
+TOTAL
+           305,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

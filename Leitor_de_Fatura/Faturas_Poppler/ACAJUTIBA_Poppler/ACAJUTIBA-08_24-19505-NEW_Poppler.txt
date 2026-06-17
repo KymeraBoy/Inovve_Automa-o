@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO PAU DE CANDEIA 22
+ RURAL-CANDEIA/CANDEIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+19505
+CÓDIGO DO CLIENTE
+25110102
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1221176282   Energia Ativa            
+Único        
+   390,00
+   390,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO24
+         30
+ 32
+JUL24
+         30
+ 29
+JUN24
+         30
+ 31
+MAI24
+         30
+ 30
+ABR24
+         30
+ 30
+MAR24
+         30
+ 30
+FEV24
+         30
+ 29
+JAN24
+         30
+ 30
+DEZ23
+         30
+ 31
+NOV23
+         30
+ 32
+OUT23
+         30
+ 29
+SET23
+         30
+ 32
+AGO23
+         30
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           30,00 
+ 0,55390333 
+            16,61 
+             0,81 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           30,00 
+ 0,30746333 
+             9,22 
+             0,43 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             0,21 
+20,50
+Multa-NF 792217280
+             0,51 
+Juros-NF 792217280
+             0,24 
+IPCA-NF-784949237
+             0,03 
+TRIBF-IRRF(1.2%)
+             0,30-
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+            26,51 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

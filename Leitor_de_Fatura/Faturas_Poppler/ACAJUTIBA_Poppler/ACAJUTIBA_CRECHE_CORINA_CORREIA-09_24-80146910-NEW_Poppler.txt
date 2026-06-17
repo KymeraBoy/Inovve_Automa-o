@@ -1,0 +1,163 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE CORINA CORREIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV 01 DA MARAMBAIA 5213
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+80146910
+CÓDIGO DO CLIENTE
+7061850214
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200022277   Energia Ativa            
+Único        
+ 6.481,00
+ 6.601,00
+    1,00000
+         120,00  
+ 1200022277   Energia Reativa          
+Único        
+ 4.947,00
+ 5.061,00
+    1,00000
+         114,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         120,00  
+         114,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        120
+ 33
+AGO24
+        100
+ 30
+JUL24
+        264
+ 31
+JUN24
+        396
+ 31
+MAI24
+        396
+ 29
+ABR24
+        459
+ 31
+MAR24
+        247
+ 29
+FEV24
+        100
+ 30
+JAN24
+        100
+ 30
+DEZ23
+        196
+ 31
+NOV23
+        249
+ 30
+OUT23
+        262
+ 30
+SET23
+        297
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          120,00 
+ 0,56307000 
+            67,56 
+             4,28 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          120,00 
+ 0,31279666 
+            37,53 
+             2,36 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             2,93 
+             0,18 
+20,50
+Multa-NF 799606822
+             2,95 
+Juros-NF 799606822
+             2,01 
+IPCA-NF-777336693
+             0,24 
+IPCA-NF-792269810
+             1,23 
+IPCA-NF-770293885
+             0,81 
+IPCA-NF-762977466
+             0,13 
+TRIBF-IRRF(1.2%)
+             1,29-
+TRIBF-IRRF(4.8%)
+             0,31-
+TOTAL
+           113,79 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

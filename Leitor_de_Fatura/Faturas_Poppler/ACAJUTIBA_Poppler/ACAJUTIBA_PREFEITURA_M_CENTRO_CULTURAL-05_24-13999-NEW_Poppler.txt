@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M CENTRO CULTURAL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA JOAO MACHADO 1
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13999
+CÓDIGO DO CLIENTE
+31311721
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1204767790   Energia Ativa            
+Único        
+30.398,00
+32.378,00
+    1,00000
+       1.980,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.980,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI24
+       1980
+ 31
+ABR24
+       1324
+ 28
+MAR24
+        842
+ 32
+FEV24
+       1069
+ 28
+JAN24
+        939
+ 32
+DEZ23
+        982
+ 30
+NOV23
+        768
+ 32
+OUT23
+       1117
+ 30
+SET23
+        618
+ 30
+AGO23
+        851
+ 33
+JUL23
+        918
+ 30
+JUN23
+        954
+ 28
+MAI23
+       1345
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.980,00 
+ 0,56969132 
+         1.127,98 
+            78,73 
+             0,00 
+20,50
+             0,00 
+ 0,52992870
+Consumo-TE
+kWh
+        1.980,00 
+ 0,30527173 
+           604,43 
+            42,18 
+             0,00 
+20,50
+             0,00 
+ 0,28396870
+Multa-NF 770295649
+            14,40 
+Juros-NF 770295649
+             7,43 
+TRIBF-IRRF(1.2%)
+            20,78-
+TRIBF-IRRF(4.8%)
+             1,03-
+TOTAL
+         1.732,43 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DA MARAMBAIA 1580
+ POSTO MEDICO
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17660
+CÓDIGO DO CLIENTE
+210897828
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191128911   Energia Ativa            
+Único        
+25.286,00
+25.317,00
+    1,00000
+          31,00  
+ 1191128911   Energia Reativa          
+Único        
+ 4.629,00
+ 4.629,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          31,00  
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ24
+        100
+ 32
+NOV24
+        100
+ 31
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+AGO24
+        100
+ 30
+JUL24
+        312
+ 31
+JUN24
+        771
+ 31
+MAI24
+        893
+ 29
+ABR24
+        986
+ 31
+MAR24
+       1202
+ 29
+FEV24
+        905
+ 30
+JAN24
+        759
+ 30
+DEZ23
+        832
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,56037000 
+            56,03 
+             3,31 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31133000 
+            31,13 
+             1,82 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             0,86 
+             0,04 
+20,50
+TRIBF-IRRF(1.2%)
+             1,05-
+TOTAL
+            86,97 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

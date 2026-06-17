@@ -1,0 +1,155 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PINTO DANTAS 40
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13030
+CÓDIGO DO CLIENTE
+7016512987
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203970451   Energia Ativa            
+Único        
+11.217,00
+11.217,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+         30
+ 32
+JAN25
+        250
+ 28
+DEZ24
+        490
+ 31
+NOV24
+        460
+ 32
+OUT24
+        437
+ 28
+SET24
+        422
+ 32
+AGO24
+        298
+ 32
+JUL24
+         68
+ 29
+JUN24
+        426
+ 33
+MAI24
+        455
+ 29
+ABR24
+        487
+ 29
+MAR24
+        271
+ 32
+FEV24
+        108
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           30,00 
+ 0,57523666 
+            17,25 
+             1,43 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           30,00 
+ 0,31946333 
+             9,58 
+             0,79 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 835791464
+             8,65 
+Multa-NF 828593713
+             8,55 
+Multa-NF 821277002
+             8,21 
+Multa-NF 814051010
+             7,55 
+Juros-NF 814051010
+            14,35 
+Juros-NF 835791464
+             3,17 
+Juros-NF 821277002
+            11,09 
+Juros-NF 828593713
+             7,55 
+TRIBF-IRRF(1.2%)
+             0,31-
+TRIBF-IRRF(4.8%)
+             3,23-
+TOTAL
+            92,41 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

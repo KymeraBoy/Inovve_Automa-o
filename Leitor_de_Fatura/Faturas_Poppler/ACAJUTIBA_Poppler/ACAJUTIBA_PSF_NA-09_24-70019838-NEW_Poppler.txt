@@ -1,0 +1,163 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PSF NA RUA BEDO BRITO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA BEDO FERREIRA BRITO 240
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+70019838
+CÓDIGO DO CLIENTE
+7037914228
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222115341   Energia Ativa            
+Único        
+12.732,00
+13.499,00
+    1,00000
+         767,00  
+ 1222115341   Energia Reativa          
+Único        
+   673,00
+   727,00
+    1,00000
+          54,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         767,00  
+          54,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        767
+ 32
+AGO24
+        603
+ 32
+JUL24
+        502
+ 29
+JUN24
+        754
+ 31
+MAI24
+        852
+ 31
+ABR24
+       1064
+ 29
+MAR24
+        979
+ 29
+FEV24
+        769
+ 30
+JAN24
+       1060
+ 31
+DEZ23
+        817
+ 31
+NOV23
+        964
+ 29
+OUT23
+        717
+ 31
+SET23
+        666
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          767,00 
+ 0,56315018 
+           431,93 
+            27,31 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          767,00 
+ 0,31289531 
+           239,99 
+            15,16 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+            15,97 
+             1,00 
+20,50
+Multa-NF 799606820
+             8,82 
+Juros-NF 799606820
+             3,81 
+IPCA-NF-792269808
+             2,29 
+IPCA-NF-762977464
+             1,45 
+IPCA-NF-777336691
+             1,85 
+IPCA-NF-770293883
+             1,50 
+TRIBF-IRRF(1.2%)
+             8,25-
+TRIBF-IRRF(4.8%)
+             0,88-
+TOTAL
+           698,48 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,138 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA DA MARAMBAIA 59
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17530
+CÓDIGO DO CLIENTE
+3881067
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1192788516   Energia Ativa            
+Único        
+22.287,00
+26.219,00
+    1,00000
+       3.932,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       3.932,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       3932
+ 29
+JAN26
+       4165
+ 30
+DEZ25
+       3463
+ 33
+NOV25
+        840
+ 30
+OUT25
+        194
+ 31
+SET25
+        206
+ 30
+AGO25
+        214
+ 32
+JUL25
+        145
+ 31
+JUN25
+        135
+ 29
+MAI25
+        116
+ 33
+ABR25
+        113
+ 28
+MAR25
+         83
+ 29
+FEV25
+        153
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        3.932,00 
+ 0,59771782 
+         2.350,22 
+           146,42 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        3.932,00 
+ 0,29565959 
+         1.162,53 
+            72,42 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+            42,15-
+TOTAL
+         3.470,60 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

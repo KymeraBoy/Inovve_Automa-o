@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PSF NA RUA BEDO BRITO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA BEDO FERREIRA BRITO 240
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+70019838
+CÓDIGO DO CLIENTE
+7037914228
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222115341   Energia Ativa            
+Único        
+17.702,00
+18.526,00
+    1,00000
+         824,00  
+ 1222115341   Energia Reativa          
+Único        
+ 1.102,00
+ 1.149,00
+    1,00000
+          47,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         824,00  
+          47,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+        824
+ 29
+FEV25
+       1073
+ 30
+JAN25
+        371
+ 28
+DEZ24
+        980
+ 33
+NOV24
+       1033
+ 30
+OUT24
+        746
+ 30
+SET24
+        767
+ 32
+AGO24
+        603
+ 32
+JUL24
+        502
+ 29
+JUN24
+        754
+ 31
+MAI24
+        852
+ 31
+ABR24
+       1064
+ 29
+MAR24
+        979
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          824,00 
+ 0,56304162 
+           463,94 
+            29,23 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          824,00 
+ 0,31283884 
+           257,77 
+            16,23 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843391883
+             6,38 
+Juros-NF 843391883
+             2,33 
+IPCA-NF-821238787
+             4,11 
+IPCA-NF-814035596
+             7,27 
+IPCA-NF-828618420
+             1,29 
+TRIBF-IRRF(1.2%)
+             8,65-
+TRIBF-IRRF(4.8%)
+             0,95-
+TOTAL
+           733,49 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

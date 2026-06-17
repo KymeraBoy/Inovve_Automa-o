@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS DA SAPUCAIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV SAPUCAIA 8797
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50258317
+CÓDIGO DO CLIENTE
+7084288246
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1234436763   Energia Ativa            
+Único        
+ 9.700,00
+11.535,00
+    1,00000
+       1.835,00 
+ 1234436763   Energia Reativa          
+Único        
+   352,00
+   374,00
+    1,00000
+          22,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.835,00 
+          22,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+       1835
+ 30
+FEV25
+       1771
+ 32
+JAN25
+       1168
+ 28
+DEZ24
+       1708
+ 31
+NOV24
+       1671
+ 32
+OUT24
+       1005
+ 29
+SET24
+        927
+ 33
+AGO24
+       1087
+ 30
+JUL24
+        363
+ 28
+JUN24
+MAI24
+ABR24
+MAR24
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.835,00 
+ 0,56304162 
+         1.033,18 
+            65,10 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.835,00 
+ 0,31283884 
+           574,05 
+            36,15 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843391890
+            20,10 
+Juros-NF 843391890
+             7,36 
+IPCA-NF-814035603
+             8,67 
+IPCA-NF-821238794
+             5,45 
+IPCA-NF-828618427
+             2,10 
+TRIBF-IRRF(1.2%)
+            19,27-
+TRIBF-IRRF(4.8%)
+             2,06-
+TOTAL
+         1.629,58 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

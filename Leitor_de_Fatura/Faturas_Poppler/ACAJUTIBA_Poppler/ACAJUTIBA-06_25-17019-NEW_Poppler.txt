@@ -1,0 +1,154 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MUNICIPAL CANATUBIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CANATUBIA 4
+ PREFEITURA DE ACAJUTIBA
+ RURAL-CANATUBIA/CANATUBIA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17019
+CÓDIGO DO CLIENTE
+217224233
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 60067244
+  Energia Ativa            
+Único        
+29.469,00
+29.992,00
+    1,00000
+         523,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         523,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+        523
+ 29
+MAI25
+        535
+ 31
+ABR25
+        497
+ 28
+MAR25
+        233
+ 29
+FEV25
+        113
+ 32
+JAN25
+        117
+ 28
+DEZ24
+        306
+ 31
+NOV24
+         55
+ 32
+OUT24
+         30
+ 29
+SET24
+         36
+ 33
+AGO24
+         49
+ 30
+JUL24
+         40
+ 30
+JUN24
+         75
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          523,00 
+ 0,58867765 
+           307,87 
+            14,77 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          523,00 
+ 0,29118790 
+           152,29 
+             7,28 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+Acrés. Band. AMARELA
+             5,34 
+             0,24 
+20,50
+Acrés. Band.VERMELHA
+            11,82 
+             0,56 
+20,50
+Multa-NF 858114540
+             4,07 
+Juros-NF 858114540
+             1,21 
+TRIBF-IRRF(1.2%)
+             5,72-
+TRIBF-IRRF(4.8%)
+             0,23-
+TOTAL
+           476,65 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA CASTRO ALVES SN
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13353
+CÓDIGO DO CLIENTE
+201496268
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN25
+     108170
+ 30
+MAI25
+     109979
+ 31
+ABR25
+      99667
+ 30
+MAR25
+     109696
+ 31
+FEV25
+      99986
+ 28
+JAN25
+     110723
+ 31
+DEZ24
+     119884
+ 31
+NOV24
+     107321
+ 30
+OUT24
+     110089
+ 31
+SET24
+     104578
+ 30
+AGO24
+     109410
+ 31
+JUL24
+     109572
+ 31
+JUN24
+     107087
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+      108.170,00 
+ 0,32376851 
+        35.022,03 
+         1.677,56 
+             0,00 
+20,50
+             0,00 
+ 0,30826000
+Consumo-TE
+kWh
+      108.170,00 
+ 0,16015124 
+        17.323,55 
+           829,79 
+             0,00 
+20,50
+             0,00 
+ 0,15248000
+Acrés. Band.VERMELHA
+         5.070,49 
+           242,87 
+20,50
+Ilum. Púb. Municipal
+           552,88 
+JurosCOSIP
+             3,43 
+MultaCOSIP
+            32,17 
+IPCACOSIP
+             1,39 
+Multa-NF 858488814
+         1.056,86 
+Juros-NF 858488814
+           317,05 
+TRIBF-IRRF(1.2%)
+           688,98-
+TRIBF-IRRF(4.8%)
+            65,93-
+TOTAL
+        58.624,94 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

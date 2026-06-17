@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESC DR GERALDO VASCONCELOS DE S PER
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA RUI BARBOSA 31
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12972
+CÓDIGO DO CLIENTE
+3876101
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1219199852   Energia Ativa            
+Único        
+16.940,00
+17.949,00
+    1,00000
+       1.009,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.009,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+       1009
+ 32
+OUT24
+        875
+ 28
+SET24
+       1017
+ 32
+AGO24
+       1000
+ 32
+JUL24
+        752
+ 29
+JUN24
+       1328
+ 33
+MAI24
+        738
+ 29
+ABR24
+        949
+ 29
+MAR24
+        779
+ 32
+FEV24
+        431
+ 29
+JAN24
+        410
+ 29
+DEZ23
+        815
+ 31
+NOV23
+        628
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.009,00 
+ 0,55968100 
+           564,71 
+            32,43 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.009,00 
+ 0,31096944 
+           313,76 
+            18,00 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             7,55 
+             0,42 
+20,50
+Acrés.Bd.VERMELHA-P2
+            52,69 
+             3,02 
+20,50
+TRIBF-IRRF(1.2%)
+            11,25-
+TOTAL
+           927,46 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

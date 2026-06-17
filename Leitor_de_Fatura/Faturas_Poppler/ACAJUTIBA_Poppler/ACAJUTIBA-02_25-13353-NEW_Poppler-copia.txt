@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA CASTRO ALVES SN
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13353
+CÓDIGO DO CLIENTE
+201496268
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+      99986
+ 28
+JAN25
+     110723
+ 31
+DEZ24
+     119884
+ 31
+NOV24
+     107321
+ 30
+OUT24
+     110089
+ 31
+SET24
+     104578
+ 30
+AGO24
+     109410
+ 31
+JUL24
+     109572
+ 31
+JUN24
+     107087
+ 30
+MAI24
+     110287
+ 31
+ABR24
+     109594
+ 30
+MAR24
+     113936
+ 31
+FEV24
+     108687
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+       99.986,00 
+ 0,31656119 
+        31.651,68 
+         2.639,75 
+             0,00 
+20,50
+             0,00 
+ 0,29016000
+Consumo-TE
+kWh
+       99.986,00 
+ 0,17588905 
+        17.586,44 
+         1.466,70 
+             0,00 
+20,50
+             0,00 
+ 0,16122000
+Ilum. Púb. Municipal
+           541,65 
+JurosCOSIP
+            13,89 
+MultaCOSIP
+           134,05 
+IPCACOSIP
+             2,56 
+Multa-NF 836087516
+         1.149,86 
+Multa-NF 828902774
+         1.070,77 
+Juros-NF 836087516
+           459,01 
+Juros-NF 828902774
+           945,84 
+TRIBF-IRRF(1.2%)
+           590,85-
+TRIBF-IRRF(4.8%)
+           173,98-
+TOTAL
+        52.790,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

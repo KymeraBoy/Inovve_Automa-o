@@ -1,0 +1,135 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS DA SAPUCAIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV SAPUCAIA 8797
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+50258317
+CÓDIGO DO CLIENTE
+7084288246
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1234436763   Energia Ativa            
+Único        
+ 1.450,00
+ 2.377,00
+    1,00000
+         927,00  
+ 1234436763   Energia Reativa          
+Único        
+    48,00
+    92,00
+    1,00000
+          44,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         927,00  
+          44,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        927
+ 33
+AGO24
+       1087
+ 30
+JUL24
+        363
+ 28
+JUN24
+MAI24
+ABR24
+MAR24
+FEV24
+JAN24
+DEZ23
+NOV23
+OUT23
+SET23
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          927,00 
+ 0,56314713 
+           522,03 
+            33,01 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          927,00 
+ 0,31289267 
+           290,05 
+            18,32 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés.Bd.VERMELHA-P2
+             9,43 
+             0,58 
+20,50
+Multa-NF 799606829
+             6,33 
+Juros-NF 799606829
+             2,74 
+TRIBF-IRRF(1.2%)
+             9,85-
+TRIBF-IRRF(4.8%)
+             0,41-
+TOTAL
+           820,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

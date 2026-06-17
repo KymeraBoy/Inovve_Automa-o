@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA M P EUFRONZINA A CRUZ
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA SOUZA BRITO 98
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14574
+CÓDIGO DO CLIENTE
+34501050
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 920169783
+  Energia Ativa            
+Único        
+51.776,00
+51.975,00
+    1,00000
+         199,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         199,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI24
+        199
+ 31
+ABR24
+        186
+ 30
+MAR24
+        112
+ 29
+FEV24
+         30
+ 29
+JAN24
+         30
+ 32
+DEZ23
+         30
+ 29
+NOV23
+         30
+ 32
+OUT23
+         30
+ 30
+SET23
+         30
+ 31
+AGO23
+         30
+ 33
+JUL23
+         30
+ 29
+JUN23
+         30
+ 29
+MAI23
+         30
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          199,00 
+ 0,56741256 
+           112,91 
+             7,88 
+             0,00 
+20,50
+             0,00 
+ 0,52786483
+Consumo-TE
+kWh
+          199,00 
+ 0,31384412 
+            62,45 
+             4,35 
+             0,00 
+20,50
+             0,00 
+ 0,29198483
+Multa-NF 770293871
+             1,26 
+Juros-NF 770293871
+             0,98 
+TRIBF-IRRF(1.2%)
+             2,09-
+TRIBF-IRRF(4.8%)
+             0,10-
+TOTAL
+           175,41 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

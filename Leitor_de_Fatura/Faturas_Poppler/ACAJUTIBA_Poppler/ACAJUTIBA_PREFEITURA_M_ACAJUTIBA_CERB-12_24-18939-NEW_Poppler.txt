@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA CERB
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO GAMELEIRA 63
+ RURAL-GAMELEIRA/GAMELEIRA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18939
+CÓDIGO DO CLIENTE
+30476875
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 960508823
+  Energia Ativa            
+Único        
+   673,00
+ 1.263,00
+    1,00000
+         590,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         590,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+DEZ24
+        590
+ 30
+NOV24
+        592
+ 33
+OUT24
+        330
+ 29
+SET24
+        317
+ 31
+AGO24
+        257
+ 32
+JUL24
+        215
+ 30
+JUN24
+        242
+ 32
+MAI24
+        221
+ 29
+ABR24
+        236
+ 28
+MAR24
+        300
+ 30
+FEV24
+        287
+ 32
+JAN24
+        328
+ 30
+DEZ23
+        317
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          590,00 
+ 0,56051915 
+           330,70 
+            19,46 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          590,00 
+ 0,31141813 
+           183,73 
+            10,79 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             3,92 
+             0,22 
+20,50
+Ilum. Púb. Municipal
+           179,24 
+TRIBF-IRRF(1.2%)
+             6,21-
+TOTAL
+           691,38 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

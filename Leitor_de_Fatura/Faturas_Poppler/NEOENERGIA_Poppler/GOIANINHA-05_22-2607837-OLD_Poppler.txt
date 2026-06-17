@@ -24,34 +24,14 @@ B3 SERVIÇO PÚBLICO -  AGUA, ESGOTO E SANEAMENTO
 Conv. Monômia - Trifásico
 
 ========== PAGE 5 ==========
-HISTÓRICO DO CONSUMO
-kWh
-MAI 22
-        247
-ABR 22
-        100
-MAR 22
-        100
-FEV 22
-        100
-JAN 22
-        100
-DEZ 21
-        100
-NOV 21
-        100
-OUT 21
-        100
-SET 21
-        475
-AGO 21
-        244
-JUL 21
-        203
-JUN 21
-        195
-MAI 21
-        246
+CONTA CONTRATO
+7010783660
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           205,99 
+VENCIMENTO
+20/06/2022
 
 ========== PAGE 6 ==========
 Consumo Ativo(kWh)-TUSD                      
@@ -81,12 +61,32 @@ CONSUMO
   205,00
 
 ========== PAGE 8 ==========
-CONTA CONTRATO
-7010783660
-MÊS/ANO
-05/2022
-TOTAL A PAGAR(R$)
-           205,99 
-VENCIMENTO
-20/06/2022
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        247
+ABR 22
+        100
+MAR 22
+        100
+FEV 22
+        100
+JAN 22
+        100
+DEZ 21
+        100
+NOV 21
+        100
+OUT 21
+        100
+SET 21
+        475
+AGO 21
+        244
+JUL 21
+        203
+JUN 21
+        195
+MAI 21
+        246
 

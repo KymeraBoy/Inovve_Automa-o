@@ -23,6 +23,40 @@ B3 PODER PUBLICO - MUNICIPAL
 Conv. Monômia - Monofásico
 
 ========== PAGE 5 ==========
+CONTA CONTRATO
+7016227816
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           915,00 
+VENCIMENTO
+20/06/2022
+
+========== PAGE 6 ==========
+Consumo Ativo(kWh)-TUSD                      
+     1.020,0000000 
+ 0,46411193 
+           473,39 
+Consumo Ativo(kWh)-TE                        
+     1.020,0000000 
+ 0,34871549 
+           355,68 
+Acréscimo Bandeira AMARELA                   
+             6,40 
+Contrib. Ilum. Pública Municipal             
+            79,53 
+TOTAL DA FATURA
+           915,00 
+QUANTIDADE
+PREÇO(R$)
+VALOR(R$)
+
+========== PAGE 7 ==========
+CONSUMO
+(kWh)
+1.020,00
+
+========== PAGE 8 ==========
 HISTÓRICO DO CONSUMO
 kWh
 MAI 22
@@ -51,38 +85,4 @@ JUN 21
        1043
 MAI 21
         968
-
-========== PAGE 6 ==========
-Consumo Ativo(kWh)-TUSD                      
-     1.020,0000000 
- 0,46411193 
-           473,39 
-Consumo Ativo(kWh)-TE                        
-     1.020,0000000 
- 0,34871549 
-           355,68 
-Acréscimo Bandeira AMARELA                   
-             6,40 
-Contrib. Ilum. Pública Municipal             
-            79,53 
-TOTAL DA FATURA
-           915,00 
-QUANTIDADE
-PREÇO(R$)
-VALOR(R$)
-
-========== PAGE 7 ==========
-CONSUMO
-(kWh)
-1.020,00
-
-========== PAGE 8 ==========
-CONTA CONTRATO
-7016227816
-MÊS/ANO
-05/2022
-TOTAL A PAGAR(R$)
-           915,00 
-VENCIMENTO
-20/06/2022
 

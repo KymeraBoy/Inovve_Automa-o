@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARIA ESPERANÇA L ANDRADE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16004
+CÓDIGO DO CLIENTE
+7034486918
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172732271   Energia Ativa            
+Único        
+132011,00
+134982,00
+    1,00000
+       2.971,00 
+ 1172732271   Energia Reativa          
+Único        
+57.061,00
+58.070,00
+    1,00000
+       1.009,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       2.971,00 
+       1.009,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       2971
+ 29
+JAN26
+       1808
+ 30
+DEZ25
+       3092
+ 30
+NOV25
+       4032
+ 33
+OUT25
+       3031
+ 29
+SET25
+       2798
+ 32
+AGO25
+       2890
+ 31
+JUL25
+       1779
+ 32
+JUN25
+       6294
+ 29
+MAI25
+        100
+ 29
+ABR25
+       4625
+ 30
+MAR25
+       3590
+ 31
+FEV25
+       3524
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        2.971,00 
+ 0,59771782 
+         1.775,81 
+           110,63 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        2.971,00 
+ 0,29565959 
+           878,40 
+            54,72 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+            31,85-
+TOTAL
+         2.622,36 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

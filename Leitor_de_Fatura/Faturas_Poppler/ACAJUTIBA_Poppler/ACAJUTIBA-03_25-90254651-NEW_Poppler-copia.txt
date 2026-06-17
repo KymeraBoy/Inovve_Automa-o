@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARAMBAIA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA DA MARAMBAIA 9999
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+90254651
+CÓDIGO DO CLIENTE
+7083549160
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222990293   Energia Ativa            
+Único        
+ 4.759,00
+ 5.381,00
+    1,00000
+         622,00  
+ 1222990293   Energia Reativa          
+Único        
+ 1.129,00
+ 1.316,00
+    1,00000
+         187,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         622,00  
+         187,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+        622
+ 29
+FEV25
+        429
+ 30
+JAN25
+        377
+ 30
+DEZ24
+        653
+ 30
+NOV24
+        651
+ 31
+OUT24
+        721
+ 31
+SET24
+        626
+ 31
+AGO24
+        436
+ 32
+JUL24
+        381
+ 30
+JUN24
+        485
+ 42
+MAI24
+ABR24
+MAR24
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          622,00 
+ 0,56304162 
+           350,21 
+            22,08 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          622,00 
+ 0,31283884 
+           194,58 
+            12,24 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843410145
+             6,48 
+Juros-NF 843410145
+             2,36 
+IPCA-NF-814051014
+             5,99 
+IPCA-NF-828593717
+             0,78 
+IPCA-NF-821277006
+             3,99 
+TRIBF-IRRF(1.2%)
+             6,53-
+TRIBF-IRRF(4.8%)
+             0,90-
+TOTAL
+           556,96 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

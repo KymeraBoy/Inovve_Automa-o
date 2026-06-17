@@ -1,0 +1,137 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV LUIZ VIANA 35 ZZ
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15247
+CÓDIGO DO CLIENTE
+7028941743
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172039061   Energia Ativa            
+Único        
+54.628,00
+55.782,00
+    1,00000
+       1.154,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.154,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN25
+       1154
+ 29
+DEZ24
+       1148
+ 32
+NOV24
+        911
+ 31
+OUT24
+        737
+ 29
+SET24
+        534
+ 33
+AGO24
+        483
+ 29
+JUL24
+        671
+ 33
+JUN24
+        652
+ 30
+MAI24
+        863
+ 29
+ABR24
+       1089
+ 32
+MAR24
+       1141
+ 29
+FEV24
+       1036
+ 29
+JAN24
+       1193
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.154,00 
+ 0,55334989 
+           638,56 
+            29,76 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.154,00 
+ 0,30744542 
+           354,79 
+            16,52 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+TRIBF-IRRF(1.2%)
+            11,91-
+TOTAL
+           981,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

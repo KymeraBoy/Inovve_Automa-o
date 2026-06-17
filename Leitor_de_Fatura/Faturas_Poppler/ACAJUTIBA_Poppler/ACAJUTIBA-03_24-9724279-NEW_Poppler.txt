@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC RUI BARBOSA 12
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+9724279
+CÓDIGO DO CLIENTE
+7012523399
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1182188634   Energia Ativa            
+Único        
+57.826,00
+59.218,00
+    1,00000
+       1.392,00 
+ 1182188634   Energia Reativa          
+Único        
+32.341,00
+33.049,00
+    1,00000
+         708,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.392,00 
+         708,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR24
+       1392
+ 32
+FEV24
+       1924
+ 29
+JAN24
+       1484
+ 29
+DEZ23
+       1644
+ 31
+NOV23
+        663
+ 30
+OUT23
+       1361
+ 31
+SET23
+        968
+ 33
+AGO23
+        331
+ 31
+JUL23
+        836
+ 29
+JUN23
+        766
+ 31
+MAI23
+        818
+ 30
+ABR23
+        642
+ 30
+MAR23
+       1534
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.392,00 
+ 0,56387850 
+           784,91 
+            44,19 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+        1.392,00 
+ 0,29180241 
+           406,18 
+            22,86 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 755824830
+            25,28 
+Juros-NF 755824830
+            13,47 
+IPCA-NF-748767142
+             5,43 
+TRIBF-IRRF(1.2%)
+            14,28-
+TRIBF-IRRF(4.8%)
+             2,09-
+TOTAL
+         1.218,90 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

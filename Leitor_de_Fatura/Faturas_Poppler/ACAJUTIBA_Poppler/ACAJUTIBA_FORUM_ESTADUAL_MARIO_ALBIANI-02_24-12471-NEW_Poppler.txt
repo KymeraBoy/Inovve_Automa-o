@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ FORUM ESTADUAL MARIO ALBIANI
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 54
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12471
+CÓDIGO DO CLIENTE
+7044738460
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 81786771
+  Energia Ativa            
+Único        
+278515,00
+280296,00
+    1,00000
+       1.781,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.781,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV24
+       1781
+ 29
+JAN24
+       1397
+ 29
+DEZ23
+       2069
+ 31
+NOV23
+       1787
+ 30
+OUT23
+       1910
+ 31
+SET23
+       1514
+ 33
+AGO23
+       1333
+ 31
+JUL23
+       1155
+ 29
+JUN23
+       1692
+ 31
+MAI23
+       1984
+ 30
+ABR23
+       1817
+ 30
+MAR23
+       2367
+ 32
+FEV23
+       1681
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.781,00 
+ 0,56688452 
+         1.009,62 
+            61,88 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+        1.781,00 
+ 0,29335866 
+           522,47 
+            32,02 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 748756309
+            35,67 
+Juros-NF 748756309
+            16,04 
+TRIBF-IRRF(1.2%)
+            18,37-
+TRIBF-IRRF(4.8%)
+             2,46-
+TOTAL
+         1.562,97 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

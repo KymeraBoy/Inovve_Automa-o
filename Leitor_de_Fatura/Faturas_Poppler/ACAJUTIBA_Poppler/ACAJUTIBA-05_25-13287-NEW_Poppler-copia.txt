@@ -1,0 +1,142 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA CASTRO ALVES 120
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13287
+CÓDIGO DO CLIENTE
+3878236
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 993735167
+  Energia Ativa            
+Único        
+17.362,00
+17.479,00
+    1,00000
+         117,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         117,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI25
+        117
+ 33
+ABR25
+         64
+ 28
+MAR25
+         42
+ 29
+FEV25
+         40
+ 30
+JAN25
+         94
+ 28
+DEZ24
+        111
+ 33
+NOV24
+        155
+ 30
+OUT24
+        157
+ 30
+SET24
+        178
+ 32
+AGO24
+         82
+ 32
+JUL24
+         30
+ 29
+JUN24
+         30
+ 31
+MAI24
+         30
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          117,00 
+ 0,59017291 
+            69,05 
+             4,77 
+             0,00 
+20,50
+             0,00 
+ 0,54951000
+Consumo-TE
+kWh
+          117,00 
+ 0,30344394 
+            35,50 
+             2,43 
+             0,00 
+20,50
+             0,00 
+ 0,28253666
+Acrés. Band. AMARELA
+             0,92 
+             0,06 
+20,50
+TRIBF-IRRF(1.2%)
+             1,25-
+TOTAL
+           104,22 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

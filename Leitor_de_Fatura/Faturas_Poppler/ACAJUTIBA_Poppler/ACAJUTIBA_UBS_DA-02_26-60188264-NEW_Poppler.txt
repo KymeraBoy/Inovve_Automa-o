@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS DA AV SATURNINO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 8654
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+60188264
+CÓDIGO DO CLIENTE
+7069686952
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1219199895   Energia Ativa            
+Único        
+49.460,00
+50.645,00
+    1,00000
+       1.185,00 
+ 1219199895   Energia Reativa          
+Único        
+ 1.175,00
+ 1.192,00
+    1,00000
+          17,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.185,00 
+          17,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       1185
+ 29
+JAN26
+        993
+ 30
+DEZ25
+       1259
+ 32
+NOV25
+       1262
+ 31
+OUT25
+       1091
+ 29
+SET25
+        942
+ 32
+AGO25
+        983
+ 31
+JUL25
+        586
+ 33
+JUN25
+        792
+ 28
+MAI25
+        997
+ 29
+ABR25
+       1282
+ 32
+MAR25
+       1129
+ 29
+FEV25
+       1487
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.185,00 
+ 0,59771782 
+           708,29 
+            44,14 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        1.185,00 
+ 0,29565959 
+           350,35 
+            21,81 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+            12,70-
+TOTAL
+         1.045,94 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,163 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARIA ESPERANÇA L ANDRADE
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16004
+CÓDIGO DO CLIENTE
+7034486918
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172732271   Energia Ativa            
+Único        
+85.099,00
+86.814,00
+    1,00000
+       1.715,00 
+ 1172732271   Energia Reativa          
+Único        
+41.168,00
+41.376,00
+    1,00000
+         208,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.715,00 
+         208,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+       1715
+ 33
+AGO24
+       1680
+ 30
+JUL24
+       1172
+ 32
+JUN24
+       2049
+ 30
+MAI24
+       2151
+ 29
+ABR24
+       2617
+ 32
+MAR24
+       2190
+ 29
+FEV24
+       1646
+ 29
+JAN24
+       1478
+ 32
+DEZ23
+       1532
+ 29
+NOV23
+       2289
+ 31
+OUT23
+       2341
+ 31
+SET23
+       2237
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.715,00 
+ 0,56315600 
+           965,81 
+            61,04 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.715,00 
+ 0,31290259 
+           536,62 
+            33,91 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+            59,41 
+             3,75 
+20,50
+Multa-NF 799606819
+            20,75 
+Juros-NF 799606819
+             8,98 
+IPCA-NF-777336690
+             3,92 
+IPCA-NF-792269807
+             5,50 
+IPCA-NF-762977463
+             4,54 
+IPCA-NF-770293882
+             3,16 
+TRIBF-IRRF(1.2%)
+            18,73-
+TRIBF-IRRF(4.8%)
+             2,18-
+TOTAL
+         1.587,78 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

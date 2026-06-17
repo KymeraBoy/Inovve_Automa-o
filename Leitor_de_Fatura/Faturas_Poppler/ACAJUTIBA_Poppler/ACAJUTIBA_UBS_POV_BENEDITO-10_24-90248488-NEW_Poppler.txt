@@ -1,0 +1,147 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UBS POV BENEDITO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA BENEDITO 8974
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+90248488
+CÓDIGO DO CLIENTE
+7082135957
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1225739494   Energia Ativa            
+Único        
+ 3.345,00
+ 5.061,00
+    1,00000
+       1.716,00 
+ 1225739494   Energia Reativa          
+Único        
+    50,00
+    60,00
+    1,00000
+          10,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.716,00 
+          10,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT24
+       1716
+ 29
+SET24
+       1457
+ 33
+AGO24
+       1355
+ 30
+JUL24
+        533
+ 31
+JUN24
+        100
+ 31
+MAI24
+        100
+ 29
+ABR24
+        100
+ 22
+MAR24
+FEV24
+JAN24
+DEZ23
+NOV23
+OUT23
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.716,00 
+ 0,56478445 
+           969,17 
+            63,89 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.716,00 
+ 0,31380599 
+           538,49 
+            35,48 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+            36,74 
+             2,41 
+20,50
+Acrés.Bd.VERMELHA-P2
+            79,82 
+             5,25 
+20,50
+Multa-NF 806898451
+            23,62 
+Juros-NF 806898451
+            11,41 
+TRIBF-IRRF(1.2%)
+            19,49-
+TRIBF-IRRF(4.8%)
+             1,66-
+TOTAL
+         1.638,10 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

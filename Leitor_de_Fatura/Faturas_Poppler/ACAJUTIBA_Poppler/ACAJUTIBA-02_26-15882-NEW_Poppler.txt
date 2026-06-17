@@ -1,0 +1,153 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESTADIO MUN DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 96
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15882
+CÓDIGO DO CLIENTE
+10387906
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191101371   Energia Ativa            
+Único        
+40.185,00
+40.934,00
+    1,00000
+         749,00  
+ 1191101371   Energia Reativa          
+Único        
+18.232,00
+18.533,00
+    1,00000
+         301,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         749,00  
+         301,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+        749
+ 29
+JAN26
+       1108
+ 30
+DEZ25
+       1133
+ 30
+NOV25
+        607
+ 33
+OUT25
+        437
+ 29
+SET25
+        248
+ 32
+AGO25
+        341
+ 31
+JUL25
+        142
+ 32
+JUN25
+        134
+ 29
+MAI25
+        394
+ 29
+ABR25
+       1158
+ 30
+MAR25
+        516
+ 31
+FEV25
+        732
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          749,00 
+ 0,32874053 
+           246,22 
+            15,34 
+             0,00 
+20,50
+             0,00 
+ 0,30826000
+Consumo-TE
+kWh
+          749,00 
+ 0,16261064 
+           121,79 
+             7,58 
+             0,00 
+20,50
+             0,00 
+ 0,15248000
+Ilum. Púb. Municipal
+           196,78 
+Multa-NF 919883163
+             3,41 
+Juros-NF 919883163
+             0,85 
+TRIBF-IRRF(1.2%)
+             4,41-
+TRIBF-IRRF(4.8%)
+             0,20-
+TOTAL
+           564,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

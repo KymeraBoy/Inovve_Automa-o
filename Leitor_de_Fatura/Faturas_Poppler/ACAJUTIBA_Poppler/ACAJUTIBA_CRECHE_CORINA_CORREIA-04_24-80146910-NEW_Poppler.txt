@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE CORINA CORREIA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ TV 01 DA MARAMBAIA 5213
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+80146910
+CÓDIGO DO CLIENTE
+7061850214
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200022277   Energia Ativa            
+Único        
+ 4.912,00
+ 5.371,00
+    1,00000
+         459,00  
+ 1200022277   Energia Reativa          
+Único        
+ 3.765,00
+ 4.063,00
+    1,00000
+         298,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         459,00  
+         298,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR24
+        459
+ 31
+MAR24
+        247
+ 29
+FEV24
+        100
+ 30
+JAN24
+        100
+ 30
+DEZ23
+        196
+ 31
+NOV23
+        249
+ 30
+OUT23
+        262
+ 30
+SET23
+        297
+ 33
+AGO23
+        260
+ 32
+JUL23
+        219
+ 29
+JUN23
+        235
+ 29
+MAI23
+        271
+ 33
+ABR23
+        141
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          459,00 
+ 0,56505938 
+           259,36 
+            15,13 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          459,00 
+ 0,29239525 
+           134,20 
+             7,81 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 762977466
+             1,71 
+Juros-NF 762977466
+             0,85 
+TRIBF-IRRF(1.2%)
+             4,72-
+TRIBF-IRRF(4.8%)
+             0,10-
+TOTAL
+           391,30 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

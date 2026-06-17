@@ -1,0 +1,155 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PSF NA RUA BEDO BRITO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA BEDO FERREIRA BRITO 240
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+70019838
+CÓDIGO DO CLIENTE
+7037914228
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222115341   Energia Ativa            
+Único        
+ 6.149,00
+ 7.209,00
+    1,00000
+       1.060,00 
+ 1222115341   Energia Reativa          
+Único        
+   316,00
+   351,00
+    1,00000
+          35,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.060,00 
+          35,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+       1060
+ 31
+DEZ23
+        817
+ 31
+NOV23
+        964
+ 29
+OUT23
+        717
+ 31
+SET23
+        666
+ 32
+AGO23
+        629
+ 33
+JUL23
+        525
+ 29
+JUN23
+        617
+ 29
+MAI23
+        793
+ 32
+ABR23
+        421
+ 21
+MAR23
+       1181
+ 41
+FEV23
+       1114
+ 29
+JAN23
+        761
+ 28
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.060,00 
+ 0,56137584 
+           595,05 
+            31,00 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+        1.060,00 
+ 0,29050264 
+           307,93 
+            16,03 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604647
+            16,45 
+Juros-NF 741604647
+             5,75 
+IPCA-NF-741604647
+             3,12 
+IPCA-NF-734443323
+             1,83 
+TRIBF-IRRF(1.2%)
+            10,83-
+TRIBF-IRRF(4.8%)
+             1,27-
+TOTAL
+           918,03 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PSF NA RUA BEDO BRITO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA BEDO FERREIRA BRITO 240
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+70019838
+CÓDIGO DO CLIENTE
+7037914228
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1222115341   Energia Ativa            
+Único        
+19.441,00
+20.299,00
+    1,00000
+         858,00  
+ 1222115341   Energia Reativa          
+Único        
+ 1.198,00
+ 1.237,00
+    1,00000
+          39,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         858,00  
+          39,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI25
+        858
+ 33
+ABR25
+        915
+ 28
+MAR25
+        824
+ 29
+FEV25
+       1073
+ 30
+JAN25
+        371
+ 28
+DEZ24
+        980
+ 33
+NOV24
+       1033
+ 30
+OUT24
+        746
+ 30
+SET24
+        767
+ 32
+AGO24
+        603
+ 32
+JUL24
+        502
+ 29
+JUN24
+        754
+ 31
+MAI24
+        852
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          858,00 
+ 0,59017291 
+           506,36 
+            34,89 
+             0,00 
+20,50
+             0,00 
+ 0,54951000
+Consumo-TE
+kWh
+          858,00 
+ 0,30344394 
+           260,35 
+            17,93 
+             0,00 
+20,50
+             0,00 
+ 0,28253666
+Acrés. Band. AMARELA
+             6,84 
+             0,46 
+20,50
+TRIBF-IRRF(1.2%)
+             9,27-
+TOTAL
+           764,28 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

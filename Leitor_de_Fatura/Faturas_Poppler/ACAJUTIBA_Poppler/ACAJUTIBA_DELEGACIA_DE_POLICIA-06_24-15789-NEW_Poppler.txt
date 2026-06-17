@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ DELEGACIA DE POLICIA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA SATURNINO MENEZES 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15789
+CÓDIGO DO CLIENTE
+14021183
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1181484566   Energia Ativa            
+Único        
+11.846,00
+11.995,00
+    1,00000
+         149,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         149,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        149
+ 30
+MAI24
+        152
+ 29
+ABR24
+        241
+ 32
+MAR24
+        268
+ 29
+FEV24
+        185
+ 29
+JAN24
+        254
+ 32
+DEZ23
+         86
+ 29
+NOV23
+        108
+ 31
+OUT23
+        150
+ 31
+SET23
+        146
+ 31
+AGO23
+        102
+ 30
+JUL23
+        105
+ 32
+JUN23
+        137
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          149,00 
+ 0,55918073 
+            83,31 
+             4,71 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          149,00 
+ 0,31064677 
+            46,28 
+             2,61 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 777334528
+             4,13 
+Juros-NF 777334528
+             0,33 
+TRIBF-IRRF(1.2%)
+             1,54-
+TRIBF-IRRF(4.8%)
+             0,20-
+TOTAL
+           132,31 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

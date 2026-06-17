@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF MUN PREDIO ESCOLAR
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA DA MARAMBAIA 59
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17530
+CÓDIGO DO CLIENTE
+3881067
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1192788516   Energia Ativa            
+Único        
+ 8.607,00
+ 8.766,00
+    1,00000
+         159,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         159,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        159
+ 32
+DEZ23
+        225
+ 29
+NOV23
+        356
+ 32
+OUT23
+        353
+ 30
+SET23
+        293
+ 31
+AGO23
+        279
+ 33
+JUL23
+        202
+ 29
+JUN23
+        234
+ 29
+MAI23
+        265
+ 33
+ABR23
+        226
+ 29
+MAR23
+        225
+ 32
+FEV23
+        149
+ 29
+JAN23
+        110
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          159,00 
+ 0,56138528 
+            89,26 
+             4,65 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          159,00 
+ 0,29041144 
+            46,17 
+             2,39 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604628
+             6,07 
+Juros-NF 741604628
+             2,12 
+IPCA-NF-734443304
+             0,89 
+IPCA-NF-741604628
+             1,15 
+TRIBF-IRRF(1.2%)
+             1,62-
+TRIBF-IRRF(4.8%)
+             0,44-
+TOTAL
+           143,60 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

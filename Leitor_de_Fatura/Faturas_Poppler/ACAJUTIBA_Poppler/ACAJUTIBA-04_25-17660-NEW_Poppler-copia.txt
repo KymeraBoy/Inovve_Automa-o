@@ -1,0 +1,153 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DA MARAMBAIA 1580
+ POSTO MEDICO
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17660
+CÓDIGO DO CLIENTE
+210897828
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191128911   Energia Ativa            
+Único        
+25.438,00
+25.532,00
+    1,00000
+          94,00  
+ 1191128911   Energia Reativa          
+Único        
+ 4.693,00
+ 4.749,00
+    1,00000
+          56,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          94,00  
+          56,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+        100
+ 28
+MAR25
+        100
+ 31
+FEV25
+        100
+ 30
+JAN25
+        100
+ 28
+DEZ24
+        100
+ 32
+NOV24
+        100
+ 31
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+AGO24
+        100
+ 30
+JUL24
+        312
+ 31
+JUN24
+        771
+ 31
+MAI24
+        893
+ 29
+ABR24
+        986
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,55963721 
+            55,96 
+             3,20 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31094727 
+            31,09 
+             1,78 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 850669583
+             1,78 
+Juros-NF 850669583
+             0,43 
+IPCA-NF-850669583
+             0,24 
+TRIBF-IRRF(1.2%)
+             1,04-
+TRIBF-IRRF(4.8%)
+             0,09-
+TOTAL
+            88,37 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

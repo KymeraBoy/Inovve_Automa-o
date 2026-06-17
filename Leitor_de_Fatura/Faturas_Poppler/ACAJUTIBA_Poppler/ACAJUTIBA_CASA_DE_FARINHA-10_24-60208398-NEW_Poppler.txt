@@ -1,0 +1,159 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CASA DE FARINHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA JOAO MACHADO 8796
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+10/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+60208398
+CÓDIGO DO CLIENTE
+7073599592
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1213687502   Energia Ativa            
+Único        
+ 2.210,00
+ 2.370,00
+    1,00000
+         160,00  
+ 1213687502   Energia Reativa          
+Único        
+ 4.484,00
+ 4.756,00
+    1,00000
+         272,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         160,00  
+         272,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+OUT24
+        160
+ 31
+SET24
+        143
+ 31
+AGO24
+        188
+ 32
+JUL24
+        178
+ 30
+JUN24
+        158
+ 30
+MAI24
+        176
+ 31
+ABR24
+        102
+ 28
+MAR24
+        144
+ 32
+FEV24
+        110
+ 28
+JAN24
+        103
+ 32
+DEZ23
+        105
+ 30
+NOV23
+        101
+ 32
+OUT23
+        100
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          160,00 
+ 0,56469500 
+            90,35 
+             5,98 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          160,00 
+ 0,31375500 
+            50,20 
+             3,30 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+             5,89 
+             0,37 
+20,50
+Acrés.Bd.VERMELHA-P2
+             3,03 
+             0,19 
+20,50
+Multa-NF 806903722
+             3,29 
+Juros-NF 806903722
+             1,58 
+TRIBF-IRRF(1.2%)
+             1,78-
+TRIBF-IRRF(4.8%)
+             0,20-
+TOTAL
+           152,36 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

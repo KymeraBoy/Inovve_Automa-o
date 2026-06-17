@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CANATUBIA 2
+ RURAL-CANATUBIA/CANATUBIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+9484944
+CÓDIGO DO CLIENTE
+7008000748
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1192793617   Energia Ativa            
+Único        
+20.924,00
+21.856,00
+    1,00000
+         932,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         932,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+        932
+ 32
+OUT24
+        647
+ 29
+SET24
+        718
+ 33
+AGO24
+        542
+ 30
+JUL24
+        323
+ 30
+JUN24
+        451
+ 32
+MAI24
+        492
+ 29
+ABR24
+        563
+ 30
+MAR24
+        631
+ 30
+FEV24
+        526
+ 30
+JAN24
+        522
+ 30
+DEZ23
+        668
+ 29
+NOV23
+        718
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          932,00 
+ 0,55968373 
+           521,62 
+            29,95 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          932,00 
+ 0,31097334 
+           289,82 
+            16,63 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+            10,47 
+             0,59 
+20,50
+Acrés.Bd.VERMELHA-P2
+            34,06 
+             1,95 
+20,50
+IPCA-NF-806898445
+             1,95 
+TRIBF-IRRF(1.2%)
+            10,26-
+TRIBF-IRRF(4.8%)
+             0,09-
+TOTAL
+           847,57 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

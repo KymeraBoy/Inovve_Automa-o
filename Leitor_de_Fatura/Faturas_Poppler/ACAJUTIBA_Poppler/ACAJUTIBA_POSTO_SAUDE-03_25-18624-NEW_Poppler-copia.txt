@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ POSTO SAUDE POVOADO SACO DA ROCHA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO SACO DA ROCHA 40
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18624
+CÓDIGO DO CLIENTE
+211704586
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 40141839
+  Energia Ativa            
+Único        
+33.319,00
+33.362,00
+    1,00000
+          43,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          43,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+         43
+ 29
+FEV25
+         33
+ 32
+JAN25
+         30
+ 28
+DEZ24
+         79
+ 31
+NOV24
+        593
+ 32
+OUT24
+        539
+ 29
+SET24
+        447
+ 31
+AGO24
+        308
+ 32
+JUL24
+        190
+ 30
+JUN24
+        518
+ 32
+MAI24
+        683
+ 29
+ABR24
+        655
+ 30
+MAR24
+        666
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           43,00 
+ 0,56304162 
+            24,21 
+             1,53 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           43,00 
+ 0,31283884 
+            13,45 
+             0,84 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843391881
+             0,51 
+Juros-NF 843391881
+             0,18 
+IPCA-NF-821238785
+             2,98 
+IPCA-NF-814035594
+             4,28 
+IPCA-NF-828618418
+             0,73 
+TRIBF-IRRF(1.2%)
+             0,45-
+TRIBF-IRRF(4.8%)
+             0,36-
+TOTAL
+            45,53 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

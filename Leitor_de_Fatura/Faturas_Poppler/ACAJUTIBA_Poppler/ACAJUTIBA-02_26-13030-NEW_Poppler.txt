@@ -1,0 +1,137 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PINTO DANTAS 40
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13030
+CÓDIGO DO CLIENTE
+7016512987
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203970451   Energia Ativa            
+Único        
+13.761,00
+13.924,00
+    1,00000
+         163,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         163,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+        163
+ 28
+JAN26
+        225
+ 31
+DEZ25
+        162
+ 31
+NOV25
+        270
+ 32
+OUT25
+        236
+ 29
+SET25
+        254
+ 30
+AGO25
+        271
+ 32
+JUL25
+        280
+ 31
+JUN25
+        257
+ 29
+MAI25
+        268
+ 33
+ABR25
+        176
+ 28
+MAR25
+        145
+ 29
+FEV25
+         30
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          163,00 
+ 0,59771782 
+            97,42 
+             6,07 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+          163,00 
+ 0,29565959 
+            48,19 
+             2,99 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+             1,75-
+TOTAL
+           143,86 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

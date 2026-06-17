@@ -1,0 +1,155 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE CORINA CORREIA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ TV 01 DA MARAMBAIA 5213
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+80146910
+CÓDIGO DO CLIENTE
+7061850214
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200022277   Energia Ativa            
+Único        
+ 4.621,00
+ 4.646,00
+    1,00000
+          25,00  
+ 1200022277   Energia Reativa          
+Único        
+ 3.601,00
+ 3.602,00
+    1,00000
+           1,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          25,00  
+           1,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+        100
+ 30
+DEZ23
+        196
+ 31
+NOV23
+        249
+ 30
+OUT23
+        262
+ 30
+SET23
+        297
+ 33
+AGO23
+        260
+ 32
+JUL23
+        219
+ 29
+JUN23
+        235
+ 29
+MAI23
+        271
+ 33
+ABR23
+        141
+ 29
+MAR23
+        100
+ 32
+FEV23
+        100
+ 28
+JAN23
+        100
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,56134000 
+            56,13 
+             2,92 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          100,00 
+ 0,29048000 
+            29,04 
+             1,51 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604649
+             4,24 
+Juros-NF 741604649
+             1,48 
+IPCA-NF-741604649
+             0,80 
+IPCA-NF-734443325
+             0,67 
+TRIBF-IRRF(1.2%)
+             1,01-
+TRIBF-IRRF(4.8%)
+             0,31-
+TOTAL
+            91,04 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

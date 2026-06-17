@@ -18,10 +18,8 @@ from Texter_format_functions.texter_format_neoenergia import format_neoenergia
 # CONFIGURACOES
 # ============================================================== #
 
-if getattr(sys, "frozen", False):
-    diretorio = Path(sys.executable).resolve().parent
-else:
-    diretorio = Path(__file__).resolve().parent.parent
+
+diretorio = Path(__file__).resolve().parent.parent
 
 PATH_INPUT = diretorio / "Faturas_Poppler"
 PATH_OUTPUT = diretorio / "Faturas_Texter"
@@ -37,12 +35,10 @@ def limpar_estado_processamento():
     aba_historico_consumo.clear()
     historico.clear()
 
-def limpar_pasta(caminho_pasta: str | Path) -> None:
+def limpar_pasta(caminho_pasta: Path) -> None:
     """
     Remove todo o conteúdo de uma pasta, mas mantém a própria pasta.
-
-    Args:
-        caminho_pasta: Caminho da pasta a ser limpa.
+    Args: caminho_pasta: Caminho da pasta a ser limpa.
     """
     pasta = Path(caminho_pasta)
 
@@ -58,14 +54,14 @@ def limpar_pasta(caminho_pasta: str | Path) -> None:
         elif item.is_dir():
             shutil.rmtree(item)
 
-def selecionar_subapasta(PATH):
+def selecionar_subapasta(PATH: Path, municipio_name: str) -> Path:
+    '''Retorna o caminho da subpasta correspondente ao nome do município fornecido.'''
     subfolders = [f.name for f in PATH.iterdir() if f.is_dir()]
-    print("\n--- SELECAO DE PASTA (ORIGEM: POPPLER) ---")
-    for i, folder in enumerate(subfolders):
-        print(f"{i} - {folder}")
-
-    f_choice = int(input("Indice da pasta: "))
-    return subfolders[f_choice]
+    
+    for folder_name in subfolders:
+        if folder_name == municipio_name:
+            return PATH / folder_name
+    raise ValueError(f"Município '{municipio_name}' não encontrado em '{PATH}'.")
 
 MESES_MAP = {
     'JAN': 1, 'FEV': 2, 'MAR': 3, 'ABR': 4, 'MAI': 5, 'JUN': 6,
@@ -88,7 +84,7 @@ def chave_ordenacao_mes(mes_ano):
     return (9999, 0)
 
 
-# --- FUNÇÃO PARA GERAR A BASE DA MATRIZ ---
+# --- FUNÇÃO PARA GERAR A PLANILHA ---
 def gerar_base_matriz_vazia(lista_faturas_tagueadas):
     """
     Vasculha os dicionários, extrai UCs e Meses únicos, ordena-os
@@ -125,29 +121,6 @@ def gerar_base_matriz_vazia(lista_faturas_tagueadas):
         matriz_base.append(linha_vazia)
 
     return matriz_base
-
-def exportar_matriz_para_csv(matriz, pasta_destino, nome_arquivo="visualizacao_base.csv"):
-    """
-    Pega uma matriz (lista de listas) e grava em um arquivo CSV 
-    usando pathlib para manipulação segura de caminhos no Windows.
-    """
-    # 1. Transforma a pasta de destino e o arquivo em objetos Path
-    diretorio = Path(pasta_destino)
-    
-    # Garante que a pasta de destino exista (substitui o os.makedirs)
-    diretorio.mkdir(parents=True, exist_ok=True)
-    
-    # Cria o caminho completo do arquivo final
-    caminho_final = diretorio / nome_arquivo
-    
-    # 2. Abre e grava o arquivo CSV usando o objeto Path diretamente
-    with caminho_final.open(mode='w', newline='', encoding='utf-8-sig') as arquivo_csv:
-        escritor = csv.writer(arquivo_csv, delimiter=';')
-        
-        for linha in matriz:
-            # Converte os 'None' para texto vazio ''
-            linha_limpa = [str(item) if item is not None else '' for item in linha]
-            escritor.writerow(linha_limpa)
 
 def preencher_matriz_com_tag(matriz_base, lista_faturas_tagueadas, tag_valor):
     """
@@ -248,17 +221,23 @@ def exportar_matrizes_para_xlsx(dicionario_abas, pasta_destino, nome_arquivo="Re
 # ORQUESTRADOR
 # ============================================================== #
 
-def texter_orchestrator():
+def texter_orchestrator(municipio_name: str, concessionaria_name: str, progress_callback=None):
+    
+    municipio_name = municipio_name + "_Poppler"
     
     PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
     PATH_ANALISE.mkdir(parents=True, exist_ok=True)
     
     limpar_estado_processamento()
 
-    # 1. Selecao de pasta de origem
-    selected_subfolder = selecionar_subapasta(PATH_INPUT)
+    # 1. Selecao de pasta de origem (agora recebe o nome do município)
+    src_dir_path = selecionar_subapasta(PATH_INPUT, municipio_name)
+    selected_subfolder = src_dir_path.name
 
-    src_dir         = PATH_INPUT / selected_subfolder   # Endereço pasta Poppler do municipio
+    src_dir = src_dir_path # Endereço pasta Poppler do municipio
+
+    # Mapeamento da concessionária para o formato numérico esperado
+    concessionaria_map = {"NEOENERGIA": 1, "ENEL": 2, "ENERGISA": 3}
 
     # Cria e limpa pasta Texter do município
     dst_dir_name    = selected_subfolder.replace("Poppler", "Texter")
@@ -266,41 +245,45 @@ def texter_orchestrator():
     dst_dir.mkdir(parents=True, exist_ok=True)
     limpar_pasta(dst_dir)
 
-    # 2. Selecao de formato
-    print("\n--- QUAL FORMATACAO APLICAR? ---")
-    print("\n 1. NEOENERGIA")
-    print("\n 2. ENEL")
-    print("\n 3. ENERGISA" )
-    formatacao = int(input("Escolha o modelo (índice): "))
-
-    
-    
+    # 2. Selecao de formato (agora usa o nome da concessionária)
+    formatacao = concessionaria_map.get(concessionaria_name.upper())
+    if formatacao is None:
+        raise ValueError(f"Concessionária '{concessionaria_name}' não reconhecida para o Texter.")
+     
     files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
 
     matriz = []
+    total_files = len(files)
 
-    # 4. Processamento de arquivos Texter
-    for file_name in files:
+    for idx, file_name in enumerate(files):
+        if progress_callback:
+            progress_callback(idx + 1, total_files, f"Texter: Processando {file_name} ({idx + 1}/{total_files})...")
+
+        # Restante da lógica de processamento do Texter
         input_path = src_dir / file_name
 
         if formatacao == 1:
-            ind_data = format_neoenergia(input_path, file_name) 
+            ind_data = format_neoenergia(input_path, file_name)
+
         matriz.append(ind_data)
 
     # MONTAR PLANILHA
 
+    # Monta a base de cada aba
     matriz_base = gerar_base_matriz_vazia(matriz)
-    exportar_matriz_para_csv(matriz_base, PATH_ANALISE, nome_arquivo=f"visualizacao_base_{dst_dir_name}.csv")
 
+    # Monta cada aba com um tipo de informação
     matriz_consumo_faturado = preencher_matriz_com_tag(matriz_base, matriz, "Consumo Faturado")
     matriz_consumo_medido = preencher_matriz_com_tag(matriz_base, matriz, "Consumo Medido")
+    matriz_classificacao = preencher_matriz_com_tag(matriz_base, matriz, "Classificação")
    
 
     exportar_matrizes_para_xlsx(
-        {
-            "Base_Vazia": matriz_base,
+        {        
+            "Classificação": matriz_classificacao,    
             "Consumo_Faturado": matriz_consumo_faturado,
-            "Consumo_Medido": matriz_consumo_medido
+            "Consumo_Medido": matriz_consumo_medido,
+            
         },
         PATH_ANALISE,
         nome_arquivo=f"Relatorio_Consolidado_{dst_dir_name}.xlsx"
@@ -312,4 +295,4 @@ def texter_orchestrator():
 
 
 if __name__ == "__main__":
-    texter_orchestrator()
+    print("Este script não deve ser executado diretamente. Use a GUI.")

@@ -24,29 +24,14 @@ B3 PODER PUBLICO - MUNICIPAL
 Conv. Monômia - Monofásico
 
 ========== PAGE 5 ==========
-HISTÓRICO DO CONSUMO
-kWh
-MAI 22
-        261
-ABR 22
-        246
-MAR 22
-        181
-FEV 22
-        214
-JAN 22
-         94
-DEZ 21
-        322
-NOV 21
-         80
-OUT 21
-         30
-SET 21
-AGO 21
-JUL 21
-JUN 21
-MAI 21
+CONTA CONTRATO
+7018941117
+MÊS/ANO
+05/2022
+TOTAL A PAGAR(R$)
+           249,76 
+VENCIMENTO
+20/06/2022
 
 ========== PAGE 6 ==========
 Consumo Ativo(kWh)-TUSD                      
@@ -77,12 +62,27 @@ CONSUMO
   261,00
 
 ========== PAGE 8 ==========
-CONTA CONTRATO
-7018941117
-MÊS/ANO
-05/2022
-TOTAL A PAGAR(R$)
-           249,76 
-VENCIMENTO
-20/06/2022
+HISTÓRICO DO CONSUMO
+kWh
+MAI 22
+        261
+ABR 22
+        246
+MAR 22
+        181
+FEV 22
+        214
+JAN 22
+         94
+DEZ 21
+        322
+NOV 21
+         80
+OUT 21
+         30
+SET 21
+AGO 21
+JUL 21
+JUN 21
+MAI 21
 

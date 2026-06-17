@@ -1,0 +1,163 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DA MARAMBAIA 1580
+ POSTO MEDICO
+ CENTRO-MARAMBAIA/MARAMBAIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+17660
+CÓDIGO DO CLIENTE
+210897828
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1191128911   Energia Ativa            
+Único        
+25.344,00
+25.373,00
+    1,00000
+          29,00  
+ 1191128911   Energia Reativa          
+Único        
+ 4.629,00
+ 4.632,00
+    1,00000
+           3,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          29,00  
+           3,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+        100
+ 30
+JAN25
+        100
+ 28
+DEZ24
+        100
+ 32
+NOV24
+        100
+ 31
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+AGO24
+        100
+ 30
+JUL24
+        312
+ 31
+JUN24
+        771
+ 31
+MAI24
+        893
+ 29
+ABR24
+        986
+ 31
+MAR24
+       1202
+ 29
+FEV24
+        905
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          100,00 
+ 0,57547000 
+            57,54 
+             4,81 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          100,00 
+ 0,31963000 
+            31,96 
+             2,65 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 828618417
+             1,83 
+Multa-NF 821238784
+             1,88 
+Multa-NF 835838472
+             1,12 
+Multa-NF 814035593
+             1,79 
+Juros-NF 814035593
+             3,41 
+Juros-NF 821238784
+             2,54 
+Juros-NF 828618417
+             1,61 
+Juros-NF 835838472
+             0,64 
+TRIBF-IRRF(1.2%)
+             1,07-
+TRIBF-IRRF(4.8%)
+             0,65-
+TOTAL
+           102,60 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

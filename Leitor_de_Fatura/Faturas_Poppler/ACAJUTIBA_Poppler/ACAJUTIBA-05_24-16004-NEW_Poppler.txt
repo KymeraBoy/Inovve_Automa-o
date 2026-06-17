@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MARIA ESPERANÇA L ANDRADE
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA TENENTE JOAO GRASSIS QUEIROZ 5
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+05/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+16004
+CÓDIGO DO CLIENTE
+7034486918
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1172732271   Energia Ativa            
+Único        
+78.047,00
+80.198,00
+    1,00000
+       2.151,00 
+ 1172732271   Energia Reativa          
+Único        
+38.119,00
+39.075,00
+    1,00000
+         956,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       2.151,00 
+         956,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAI24
+       2151
+ 29
+ABR24
+       2617
+ 32
+MAR24
+       2190
+ 29
+FEV24
+       1646
+ 29
+JAN24
+       1478
+ 32
+DEZ23
+       1532
+ 29
+NOV23
+       2289
+ 31
+OUT23
+       2341
+ 31
+SET23
+       2237
+ 31
+AGO23
+       2163
+ 30
+JUL23
+       2008
+ 32
+JUN23
+       1932
+ 29
+MAI23
+       3377
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        2.151,00 
+ 0,56715158 
+         1.219,94 
+            85,16 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        2.151,00 
+ 0,31511977 
+           677,82 
+            47,30 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 770293882
+            37,47 
+Juros-NF 770293882
+            19,36 
+TRIBF-IRRF(1.2%)
+            22,76-
+TRIBF-IRRF(4.8%)
+             2,71-
+TOTAL
+         1.929,12 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

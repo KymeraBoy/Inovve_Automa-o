@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV CASTRO ALVES 77
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12841
+CÓDIGO DO CLIENTE
+23115573
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203753345   Energia Ativa            
+Único        
+12.456,00
+12.998,00
+    1,00000
+         542,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         542,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+        542
+ 30
+OUT24
+        502
+ 31
+SET24
+        507
+ 31
+AGO24
+        448
+ 32
+JUL24
+        312
+ 30
+JUN24
+        526
+ 30
+MAI24
+        823
+ 31
+ABR24
+        268
+ 28
+MAR24
+        290
+ 32
+FEV24
+         68
+ 28
+JAN24
+        159
+ 32
+DEZ23
+        419
+ 30
+NOV23
+        435
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          542,00 
+ 0,55967332 
+           303,34 
+            17,43 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          542,00 
+ 0,31095287 
+           168,53 
+             9,66 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             2,16 
+             0,12 
+20,50
+Acrés.Bd.VERMELHA-P2
+            36,22 
+             2,07 
+20,50
+IPCA-NF-806903704
+             1,62 
+TRIBF-IRRF(1.2%)
+             6,12-
+TRIBF-IRRF(4.8%)
+             0,06-
+TOTAL
+           505,69 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

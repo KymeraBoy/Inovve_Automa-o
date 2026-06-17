@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ILUMINACAO NA PRACA AQUINOEL
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 9991
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12540
+CÓDIGO DO CLIENTE
+217081335
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2849500
+  Energia Ativa            
+Único        
+29.275,00
+30.070,00
+    1,00000
+         795,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         795,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR24
+        795
+ 32
+FEV24
+        743
+ 29
+JAN24
+        657
+ 29
+DEZ23
+        710
+ 31
+NOV23
+        739
+ 30
+OUT23
+        789
+ 31
+SET23
+        865
+ 33
+AGO23
+        799
+ 31
+JUL23
+        726
+ 29
+JUN23
+        814
+ 31
+MAI23
+        775
+ 30
+ABR23
+        759
+ 30
+MAR23
+        706
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          795,00 
+ 0,31013911 
+           246,56 
+            13,88 
+             0,00 
+20,50
+             0,00 
+ 0,29268000
+Consumo-TE
+kWh
+          795,00 
+ 0,16047886 
+           127,58 
+             7,17 
+             0,00 
+20,50
+             0,00 
+ 0,15146000
+Ilum. Púb. Municipal
+           189,69 
+Multa-NF 755795226
+             6,14 
+Juros-NF 755795226
+             3,27 
+IPCA-NF-748756301
+             1,28 
+TRIBF-IRRF(1.2%)
+             4,48-
+TRIBF-IRRF(4.8%)
+             0,50-
+TOTAL
+           569,54 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

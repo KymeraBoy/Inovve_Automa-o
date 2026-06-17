@@ -1,0 +1,147 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA ESCOLA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CUMBE DE CIMA 15
+ CENTRO-CUMBE DE CIMA/CUMBE DE CIMA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+19292
+CÓDIGO DO CLIENTE
+28982372
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 982517885
+  Energia Ativa            
+Único        
+21.482,00
+21.520,00
+    1,00000
+          38,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          38,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+         38
+ 27
+MAR25
+         40
+ 29
+FEV25
+         65
+ 31
+JAN25
+         74
+ 30
+DEZ24
+         62
+ 30
+NOV24
+         68
+ 31
+OUT24
+         48
+ 30
+SET24
+         48
+ 31
+AGO24
+         48
+ 33
+JUL24
+         30
+ 28
+JUN24
+         51
+ 32
+MAI24
+         53
+ 31
+ABR24
+         48
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           38,00 
+ 0,55963721 
+            21,26 
+             1,22 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+           38,00 
+ 0,31094727 
+            11,81 
+             0,67 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 850679840
+             1,15 
+Juros-NF 850679840
+             0,28 
+IPCA-NF-850679840
+             0,15 
+TRIBF-IRRF(1.2%)
+             0,39-
+TRIBF-IRRF(4.8%)
+             0,04-
+TOTAL
+            34,22 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,155 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO CANATUBIA 2
+ RURAL-CANATUBIA/CANATUBIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+9484944
+CÓDIGO DO CLIENTE
+7008000748
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1192793617   Energia Ativa            
+Único        
+19.559,00
+20.277,00
+    1,00000
+         718,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         718,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+        718
+ 33
+AGO24
+        542
+ 30
+JUL24
+        323
+ 30
+JUN24
+        451
+ 32
+MAI24
+        492
+ 29
+ABR24
+        563
+ 30
+MAR24
+        631
+ 30
+FEV24
+        526
+ 30
+JAN24
+        522
+ 30
+DEZ23
+        668
+ 29
+NOV23
+        718
+ 32
+OUT23
+        681
+ 30
+SET23
+        674
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          718,00 
+ 0,56314103 
+           404,33 
+            25,57 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          718,00 
+ 0,31287930 
+           224,64 
+            14,18 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band.VERMELHA
+            18,64 
+             1,17 
+20,50
+Multa-NF 799606815
+             5,69 
+Juros-NF 799606815
+             2,46 
+IPCA-NF-762977459
+             0,71 
+IPCA-NF-792269803
+             0,80 
+IPCA-NF-777336687
+             2,26 
+IPCA-NF-770293878
+             0,69 
+TRIBF-IRRF(1.2%)
+             7,76-
+TRIBF-IRRF(4.8%)
+             0,55-
+TOTAL
+           651,91 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

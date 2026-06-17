@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PO PAU DE CANDEIA 22
+ RURAL-CANDEIA/CANDEIA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+19505
+CÓDIGO DO CLIENTE
+25110102
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1221176282   Energia Ativa            
+Único        
+   390,00
+   390,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET24
+          0
+ 31
+AGO24
+         30
+ 32
+JUL24
+         30
+ 29
+JUN24
+         30
+ 31
+MAI24
+         30
+ 30
+ABR24
+         30
+ 30
+MAR24
+         30
+ 30
+FEV24
+         30
+ 29
+JAN24
+         30
+ 30
+DEZ23
+         30
+ 31
+NOV23
+         30
+ 32
+OUT23
+         30
+ 29
+SET23
+         30
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+            0,00 
+ 0,56316182 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+            0,00 
+ 0,31290563 
+             0,00 
+             0,00 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 799577137
+             0,52 
+Juros-NF 799577137
+             0,22 
+IPCA-NF-777334535
+             0,02 
+IPCA-NF-762922484
+             0,03 
+IPCA-NF-770295644
+             0,07 
+IPCA-NF-792217280
+             0,07 
+TRIBF-IRRF(4.8%)
+             0,01-
+TOTAL
+             0,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

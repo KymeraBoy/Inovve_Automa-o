@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ UNIDADE ESCOLAR
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA DA LINHA 98899
+ UNIDADE ESCOLAR
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2026
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+40263150
+CÓDIGO DO CLIENTE
+7085335140
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1225668171   Energia Ativa            
+Único        
+53.873,00
+56.961,00
+    1,00000
+       3.088,00 
+ 1225668171   Energia Reativa          
+Único        
+ 2.070,00
+ 2.089,00
+    1,00000
+          19,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       3.088,00 
+          19,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV26
+       3088
+ 28
+JAN26
+       2959
+ 31
+DEZ25
+       3693
+ 31
+NOV25
+       4425
+ 33
+OUT25
+       4177
+ 29
+SET25
+       3930
+ 30
+AGO25
+       4569
+ 33
+JUL25
+       4013
+ 30
+JUN25
+       4286
+ 31
+MAI25
+       4096
+ 29
+ABR25
+       3961
+ 30
+MAR25
+       3276
+ 29
+FEV25
+       2973
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        3.088,00 
+ 0,59771782 
+         1.845,75 
+           114,99 
+             0,00 
+20,50
+             0,00 
+ 0,56048000
+Consumo-TE
+kWh
+        3.088,00 
+ 0,29565959 
+           912,99 
+            56,87 
+             0,00 
+20,50
+             0,00 
+ 0,27724000
+TRIBF-IRRF(1.2%)
+            33,11-
+TOTAL
+         2.725,63 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

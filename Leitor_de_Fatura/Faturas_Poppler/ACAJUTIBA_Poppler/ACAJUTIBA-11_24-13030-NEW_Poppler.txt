@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PINTO DANTAS 40
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+11/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13030
+CÓDIGO DO CLIENTE
+7016512987
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203970451   Energia Ativa            
+Único        
+10.017,00
+10.477,00
+    1,00000
+         460,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         460,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+NOV24
+        460
+ 32
+OUT24
+        437
+ 28
+SET24
+        422
+ 32
+AGO24
+        298
+ 32
+JUL24
+         68
+ 29
+JUN24
+        426
+ 33
+MAI24
+        455
+ 29
+ABR24
+        487
+ 29
+MAR24
+        271
+ 32
+FEV24
+        108
+ 29
+JAN24
+         47
+ 29
+DEZ23
+        291
+ 31
+NOV23
+        328
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          460,00 
+ 0,55967869 
+           257,45 
+            14,79 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          460,00 
+ 0,31095608 
+           143,03 
+             8,20 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             3,44 
+             0,19 
+20,50
+Acrés.Bd.VERMELHA-P2
+            24,01 
+             1,37 
+20,50
+IPCA-NF-806931984
+             1,08 
+TRIBF-IRRF(1.2%)
+             5,12-
+TRIBF-IRRF(4.8%)
+             0,04-
+TOTAL
+           423,85 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

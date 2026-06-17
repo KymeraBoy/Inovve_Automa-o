@@ -1,0 +1,148 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CRECHE MUNICIPAL DO CRUZEIRO
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ RUA SEVERINO VIEIRA 114
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+01/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+15427
+CÓDIGO DO CLIENTE
+35343148
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1200338410   Energia Ativa            
+Único        
+ 5.278,00
+ 5.361,00
+    1,00000
+          83,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          83,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JAN24
+         83
+ 30
+DEZ23
+        194
+ 31
+NOV23
+        194
+ 31
+OUT23
+        196
+ 30
+SET23
+        188
+ 32
+AGO23
+        173
+ 30
+JUL23
+        170
+ 32
+JUN23
+        163
+ 29
+MAI23
+        228
+ 31
+ABR23
+        164
+ 31
+MAR23
+        159
+ 29
+FEV23
+         61
+ 30
+JAN23
+         84
+ 28
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           83,00 
+ 0,56129662 
+            46,58 
+             2,42 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+           83,00 
+ 0,29044024 
+            24,10 
+             1,25 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 741604636
+             3,30 
+Juros-NF 741604636
+             1,15 
+IPCA-NF-734443312
+             0,50 
+IPCA-NF-741604636
+             0,60 
+TRIBF-IRRF(1.2%)
+             0,83-
+TRIBF-IRRF(4.8%)
+             0,21-
+TOTAL
+            75,19 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

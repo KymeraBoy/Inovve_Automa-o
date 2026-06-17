@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA M ACAJUTIBA CERB
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO GAMELEIRA 63
+ RURAL-GAMELEIRA/GAMELEIRA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+06/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18939
+CÓDIGO DO CLIENTE
+30476875
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 960508823
+  Energia Ativa            
+Único        
+98.720,00
+98.962,00
+    1,00000
+         242,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         242,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+JUN24
+        242
+ 32
+MAI24
+        221
+ 29
+ABR24
+        236
+ 28
+MAR24
+        300
+ 30
+FEV24
+        287
+ 32
+JAN24
+        328
+ 30
+DEZ23
+        317
+ 29
+NOV23
+        345
+ 31
+OUT23
+        247
+ 31
+SET23
+        307
+ 33
+AGO23
+        202
+ 29
+JUL23
+        199
+ 31
+JUN23
+        199
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          242,00 
+ 0,55918157 
+           135,32 
+             7,65 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          242,00 
+ 0,31069198 
+            75,18 
+             4,25 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Ilum. Púb. Municipal
+            95,06 
+MultaCOSIP
+             1,54 
+IPCACOSIP
+             0,04 
+Multa-NF 777334537
+             2,66 
+Juros-NF 777334537
+             0,33 
+TRIBF-IRRF(1.2%)
+             2,52-
+TRIBF-IRRF(4.8%)
+             0,13-
+TOTAL
+           307,48 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

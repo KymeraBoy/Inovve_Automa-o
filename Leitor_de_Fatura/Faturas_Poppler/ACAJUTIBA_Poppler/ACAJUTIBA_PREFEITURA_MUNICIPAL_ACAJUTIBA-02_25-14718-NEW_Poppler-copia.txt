@@ -1,0 +1,143 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREFEITURA MUNICIPAL ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ TV DUQUE DE CAXIAS 4
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+14718
+CÓDIGO DO CLIENTE
+22963287
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 862919904
+  Energia Ativa            
+Único        
+21.684,00
+31.549,00
+    1,00000
+       9.865,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       9.865,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV25
+       9865
+ 30
+JAN25
+       8662
+ 30
+DEZ24
+       8894
+ 30
+NOV24
+       8243
+ 31
+OUT24
+       7655
+ 31
+SET24
+       5063
+ 31
+AGO24
+       4642
+ 31
+JUL24
+       4536
+ 31
+JUN24
+       5593
+ 30
+MAI24
+       8005
+ 31
+ABR24
+       9603
+ 30
+MAR24
+       8916
+ 29
+FEV24
+       7272
+ 29
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        9.865,00 
+ 0,57557202 
+         5.678,01 
+           473,54 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        9.865,00 
+ 0,31980004 
+         3.154,82 
+           263,10 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+IPCA-NF-828592430
+            10,08 
+TRIBF-IRRF(1.2%)
+           105,98-
+TRIBF-IRRF(4.8%)
+             0,47-
+TOTAL
+         8.736,46 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

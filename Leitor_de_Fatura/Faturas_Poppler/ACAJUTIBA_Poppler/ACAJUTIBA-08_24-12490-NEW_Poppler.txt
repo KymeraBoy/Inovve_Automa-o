@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ ESCOLA MUNICIPAL
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ PC AQUINOEL BORGES 73
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+12490
+CÓDIGO DO CLIENTE
+29967040
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 971034246
+  Energia Ativa            
+Único        
+34.275,00
+34.681,00
+    1,00000
+         406,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         406,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO24
+        406
+ 32
+JUL24
+        309
+ 29
+JUN24
+        564
+ 33
+MAI24
+        644
+ 29
+ABR24
+        628
+ 29
+MAR24
+        574
+ 32
+FEV24
+        500
+ 29
+JAN24
+        368
+ 29
+DEZ23
+        527
+ 31
+NOV23
+        465
+ 30
+OUT23
+        500
+ 31
+SET23
+        391
+ 33
+AGO23
+        362
+ 31
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          406,00 
+ 0,55409709 
+           224,96 
+            10,78 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          406,00 
+ 0,30785906 
+           124,99 
+             5,98 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Acrés. Band. AMARELA
+             5,01 
+             0,23 
+20,50
+Multa-NF 792269795
+             9,80 
+Juros-NF 792269795
+             4,73 
+IPCA-NF-784903973
+             0,81 
+TRIBF-IRRF(1.2%)
+             4,25-
+TRIBF-IRRF(4.8%)
+             0,71-
+TOTAL
+           365,34 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

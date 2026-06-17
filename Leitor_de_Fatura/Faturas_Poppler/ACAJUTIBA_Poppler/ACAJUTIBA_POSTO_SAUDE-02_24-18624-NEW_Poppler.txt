@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ POSTO SAUDE POVOADO SACO DA ROCHA
+ CNPJ: 13.696.521/0001-77    
+ ENDEREÇO:
+ PO SACO DA ROCHA 40
+ RURAL-SACO DA ROCHA/SACO DA ROCHA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+02/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+18624
+CÓDIGO DO CLIENTE
+211704586
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 40141839
+  Energia Ativa            
+Único        
+28.127,00
+28.604,00
+    1,00000
+         477,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         477,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+FEV24
+        477
+ 31
+JAN24
+        879
+ 29
+DEZ23
+        704
+ 30
+NOV23
+        616
+ 32
+OUT23
+        575
+ 30
+SET23
+        435
+ 33
+AGO23
+        367
+ 31
+JUL23
+        303
+ 29
+JUN23
+        389
+ 31
+MAI23
+        582
+ 31
+ABR23
+        465
+ 29
+MAR23
+        718
+ 33
+FEV23
+        578
+ 27
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          477,00 
+ 0,56685698 
+           270,39 
+            16,58 
+             0,00 
+20,50
+             0,00 
+ 0,53214000
+Consumo-TE
+kWh
+          477,00 
+ 0,29334645 
+           139,92 
+             8,57 
+             0,00 
+20,50
+             0,00 
+ 0,27538000
+Multa-NF 748767138
+            12,12 
+Juros-NF 748767138
+             5,45 
+TRIBF-IRRF(1.2%)
+             4,91-
+TRIBF-IRRF(4.8%)
+             0,82-
+TOTAL
+           422,15 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

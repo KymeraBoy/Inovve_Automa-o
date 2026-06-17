@@ -1,0 +1,149 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PINTO DANTAS 40
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13030
+CÓDIGO DO CLIENTE
+7016512987
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203970451   Energia Ativa            
+Único        
+11.217,00
+11.362,00
+    1,00000
+         145,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         145,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+        145
+ 29
+FEV25
+         30
+ 32
+JAN25
+        250
+ 28
+DEZ24
+        490
+ 31
+NOV24
+        460
+ 32
+OUT24
+        437
+ 28
+SET24
+        422
+ 32
+AGO24
+        298
+ 32
+JUL24
+         68
+ 29
+JUN24
+        426
+ 33
+MAI24
+        455
+ 29
+ABR24
+        487
+ 29
+MAR24
+        271
+ 32
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          145,00 
+ 0,56304162 
+            81,64 
+             5,15 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+          145,00 
+ 0,31283884 
+            45,36 
+             2,84 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843410141
+             4,29 
+Juros-NF 843410141
+             1,57 
+IPCA-NF-814051010
+             3,97 
+IPCA-NF-821277002
+             2,38 
+IPCA-NF-828593713
+             0,57 
+TRIBF-IRRF(1.2%)
+             1,51-
+TRIBF-IRRF(4.8%)
+             0,57-
+TOTAL
+           137,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

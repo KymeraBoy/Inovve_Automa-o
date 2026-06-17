@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ PREF M ESC J R ARAUJO
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA PEDRO ALMEIDA GUIMARAES 18
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+03/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13657
+CÓDIGO DO CLIENTE
+3879780
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 1203697704   Energia Ativa            
+Único        
+32.650,00
+33.688,00
+    1,00000
+       1.038,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.038,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+MAR25
+       1038
+ 30
+FEV25
+       1324
+ 32
+JAN25
+        842
+ 28
+DEZ24
+       1069
+ 31
+NOV24
+        801
+ 32
+OUT24
+        653
+ 29
+SET24
+        676
+ 33
+AGO24
+        646
+ 30
+JUL24
+        683
+ 30
+JUN24
+        738
+ 32
+MAI24
+        991
+ 29
+ABR24
+       1052
+ 28
+MAR24
+       1188
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.038,00 
+ 0,56304162 
+           584,43 
+            36,82 
+             0,00 
+20,50
+             0,00 
+ 0,52757000
+Consumo-TE
+kWh
+        1.038,00 
+ 0,31283884 
+           324,72 
+            20,45 
+             0,00 
+20,50
+             0,00 
+ 0,29313000
+Multa-NF 843410128
+            14,48 
+Juros-NF 843410128
+             5,30 
+IPCA-NF-821276989
+             3,55 
+IPCA-NF-814050997
+             6,34 
+IPCA-NF-828593700
+             0,99 
+TRIBF-IRRF(1.2%)
+            10,90-
+TRIBF-IRRF(4.8%)
+             1,42-
+TOTAL
+           927,49 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

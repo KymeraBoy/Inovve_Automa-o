@@ -1,0 +1,146 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ MUNICIPIO DE ACAJUTIBA
+ CNPJ: 13.696.***/****-**    
+ ENDEREÇO:
+ RUA CASTRO ALVES SN
+ CENTRO-ACAJUTIBA/ACAJUTIBA
+ 48360-000 ACAJUTIBA BA
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+04/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+13353
+CÓDIGO DO CLIENTE
+201496268
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+ABR25
+      99667
+ 30
+MAR25
+     109696
+ 31
+FEV25
+      99986
+ 28
+JAN25
+     110723
+ 31
+DEZ24
+     119884
+ 31
+NOV24
+     107321
+ 30
+OUT24
+     110089
+ 31
+SET24
+     104578
+ 30
+AGO24
+     109410
+ 31
+JUL24
+     109572
+ 31
+JUN24
+     107087
+ 30
+MAI24
+     110287
+ 31
+ABR24
+     109594
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+       99.667,00 
+ 0,31355680 
+        31.251,26 
+         1.790,70 
+             0,00 
+20,50
+             0,00 
+ 0,29559000
+Consumo-TE
+kWh
+       99.667,00 
+ 0,16823803 
+        16.767,77 
+           960,78 
+             0,00 
+20,50
+             0,00 
+ 0,15859800
+Ilum. Púb. Municipal
+           545,01 
+JurosCOSIP
+             2,88 
+MultaCOSIP
+            26,81 
+IPCACOSIP
+             3,89 
+Multa-NF 850984098
+           633,03 
+Juros-NF 850984098
+           246,18 
+IPCA-NF-850984098
+           135,85 
+TRIBF-IRRF(1.2%)
+           576,22-
+TRIBF-IRRF(4.8%)
+            48,70-
+TOTAL
+        48.987,76 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+
