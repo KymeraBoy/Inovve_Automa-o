@@ -7,38 +7,76 @@ import sys
 from pathlib import Path
 import os
 import tkinter as tk
-from tkinter import messagebox
-from tkinter import ttk # Importa ttk para widgets mais modernos
+from tkinter import messagebox, filedialog 
+from tkinter import ttk 
 import threading
 
-
-# garante que ele funcione na pasta onde ele estiver
-# Adiciona o diretório 'Scripts' ao sys.path para permitir importações diretas
+# --- 1. LOCALIZAÇÃO E IMPORTAÇÃO DOS SCRIPTS (ESTRITAMENTE LOCAL) ---
 if getattr(sys, "frozen", False):
-    DIRETORIO_BASE = Path(sys.executable).resolve().parent # Para executáveis PyInstaller
+    DIRETORIO_INSTALACAO = Path(sys.executable).resolve().parent 
 else:
-    DIRETORIO_BASE = Path(__file__).resolve().parent # Para execução normal
-SCRIPTS_DIR = DIRETORIO_BASE / "Scripts"
+    DIRETORIO_INSTALACAO = Path(__file__).resolve().parent 
+
+SCRIPTS_DIR = DIRETORIO_INSTALACAO / "Scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-# Importa as funções orquestradoras dos módulos Cropper e Texter
-from Cropper import cropper_orchestrator
-from Texter import texter_orchestrator
+# Importa as funções orquestradoras e os módulos para atualizar seus caminhos
+try:
+    import Cropper
+    import Texter
+    from Cropper import cropper_orchestrator
+    from Texter import texter_orchestrator
+except ModuleNotFoundError:
+    root_erro = tk.Tk()
+    root_erro.withdraw()
+    messagebox.showerror("Erro de Dependência", f"Não foi possível encontrar a pasta 'Scripts' ou seus módulos em:\n{SCRIPTS_DIR}")
+    sys.exit()
+
+
+# --- 2. SELEÇÃO DO DIRETÓRIO DE TRABALHO DE DADOS PELO USUÁRIO ---
+root_init = tk.Tk()
+root_init.withdraw()
+
+print("Aguardando usuário selecionar o Diretório de Trabalho (Dados)...")
+pasta_selecionada = filedialog.askdirectory(
+    title="Selecione a pasta master de Trabalho (Onde as pastas de Faturas serão lidas/criadas)"
+)
+
+if not pasta_selecionada:
+    messagebox.showerror("Erro", "É necessário selecionar um Diretório de Trabalho para prosseguir. O programa será encerrado.")
+    sys.exit()
+
+# Define o Diretório base escolhido pelo usuário para os Dados
+DIRETORIO_BASE = Path(pasta_selecionada).resolve()
+root_init.destroy() 
+
 
 # ============================================================== #
-# CONFIGURAÇÕES DE CAMINHOS (para obter municípios)
+# CONFIGURAÇÕES DE CAMINHOS DINÂMICOS (Injeta nos módulos)
 # ============================================================== #
 PATH_FATURAS = DIRETORIO_BASE / "Faturas"
 PATH_POPPLER = DIRETORIO_BASE / "Faturas_Poppler"
+
+# Atualiza dinamicamente as configurações globais internas do Cropper.py
+Cropper.PATH_FATURAS     = DIRETORIO_BASE / "Faturas"
+Cropper.PATH_CROPPED     = DIRETORIO_BASE / "Faturas_Cropped"
+Cropper.PATH_POPPLER     = DIRETORIO_BASE / "Faturas_Poppler"
+Cropper.PATH_POPPLER_EXE = DIRETORIO_BASE / "poppler" / "Library" / "bin" / "pdftotext.exe"
+
+# Atualiza dinamicamente as configurações globais internas do Texter.py
+Texter.PATH_INPUT        = DIRETORIO_BASE / "Faturas_Poppler"
+Texter.PATH_OUTPUT       = DIRETORIO_BASE / "Faturas_Texter"
+Texter.PATH_ANALISE      = DIRETORIO_BASE / "Faturas_Analaiser"
+
 
 # ============================================================== #
 # FUNÇÕES
 # ============================================================== #
 def integralaiser_main(municipio_name: str, concessionaria_name: str):
     print(f"Iniciando o processo Integralaiser para {municipio_name} ({concessionaria_name})...")   
-    cropper_orchestrator(municipio_name, concessionaria_name) # Executa a orquestração do Cropper
-    texter_orchestrator(municipio_name, concessionaria_name)  # Executa a orquestração do Texter
+    cropper_orchestrator(municipio_name, concessionaria_name) 
+    texter_orchestrator(municipio_name, concessionaria_name)  
     print("Processo Integralaiser concluído.")
 
 # ============================================================== #
@@ -49,14 +87,17 @@ class IntegralaiserGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Integralaiser")
-        self.root.geometry("550x500") # Aumenta o tamanho da janela
+        self.root.geometry("550x520") 
         self.root.resizable(False, False)
 
-        # Container Principal com preenchimento
         main_frame = tk.Frame(root, padx=30, pady=20)
         main_frame.pack(fill=tk.BOTH, expand=True)
 
-        tk.Label(main_frame, text="Integralaiser", font=("Arial", 16, "bold")).pack(pady=(0, 20))
+        tk.Label(main_frame, text="Integralaiser", font=("Arial", 16, "bold")).pack(pady=(0, 5))
+        
+        # Feedback visual para o usuário saber qual pasta de faturas está manipulando
+        lbl_dir = tk.Label(main_frame, text=f"Diretório de Dados: {DIRETORIO_BASE}", font=("Arial", 8), fg="#666", wraplength=480)
+        lbl_dir.pack(pady=(0, 15))
         
         # --- Seleção de Município ---
         tk.Label(main_frame, text="1. Selecione o Município:", font=("Arial", 10, "bold")).pack(anchor=tk.W, pady=(10, 0))
@@ -76,7 +117,6 @@ class IntegralaiserGUI:
 
         # --- Seleção de Fluxo ---
         tk.Label(main_frame, text="3. Selecione o Fluxo Desejado:", font=("Arial", 10, "bold")).pack(anchor=tk.W, pady=(10, 0))
-        
         self.opcao_fluxo = tk.StringVar(value="completo")
         
         tk.Radiobutton(main_frame, text="Apenas Cropper (Recorte de faturas)", 
@@ -99,22 +139,19 @@ class IntegralaiserGUI:
         self.status_lbl = tk.Label(main_frame, textvariable=self.status_var, font=("Arial", 10, "italic"), fg="#555", wraplength=480, justify=tk.LEFT)
         self.status_lbl.pack(anchor=tk.W, pady=(5,0))
         
-        self._update_status_display() # Atualiza o status inicial
+        self._update_status_display()
 
     def _populate_municipios(self):
         municipios = set()
         
-        # Busca em PATH_FATURAS
         if PATH_FATURAS.exists():
             for item in PATH_FATURAS.iterdir():
                 if item.is_dir():
                     municipios.add(item.name)
         
-        # Busca em PATH_POPPLER (para o Texter)
         if PATH_POPPLER.exists():
             for item in PATH_POPPLER.iterdir():
                 if item.is_dir():
-                    # Remove o sufixo "_Poppler" se existir
                     name = item.name.replace("_Poppler", "")
                     municipios.add(name)
 
@@ -123,16 +160,16 @@ class IntegralaiserGUI:
             self.municipio_combobox['values'] = ["Nenhum município encontrado"]
             self.municipio_combobox.set("Nenhum município encontrado")
             self.municipio_combobox.config(state="disabled")
-            messagebox.showwarning("Aviso", "Nenhum diretório de município encontrado nas pastas 'Faturas' ou 'Faturas_Poppler'.")
+            messagebox.showwarning("Aviso", "Nenhum diretório de município encontrado nas pastas 'Faturas' ou 'Faturas_Poppler' do diretório selecionado.")
         else:
+            self.municipio_combobox.config(state="readonly")
             self.municipio_combobox['values'] = municipios_list
-            self.municipio_combobox.set(municipios_list[0]) # Seleciona o primeiro por padrão
+            self.municipio_combobox.set(municipios_list[0])
 
     def _populate_concessionarias(self):
-        # Lista unificada de concessionárias suportadas por Cropper e Texter
-        concessionarias = ["NEOENERGIA", "ENEL", "ENERGISA"] # Adicione outras se necessário
+        concessionarias = ["NEOENERGIA", "ENEL", "ENERGISA"]
         self.concessionaria_combobox['values'] = sorted(concessionarias)
-        self.concessionaria_combobox.set(concessionarias[0]) # Seleciona a primeira por padrão
+        self.concessionaria_combobox.set(concessionarias[0])
 
     def atualizar_status(self, msg):
         self.status_var.set(f"Status: {msg}")
@@ -159,7 +196,6 @@ class IntegralaiserGUI:
         self.status_var.set(status_msg)
 
     def disparar_execucao(self):
-        # Desabilita o botão para evitar cliques duplos durante o processamento
         self.btn_executar.config(state=tk.DISABLED)
         self.atualizar_status("Validando seleções...")
 
@@ -167,7 +203,7 @@ class IntegralaiserGUI:
         concessionaria_selecionada = self.selected_concessionaria.get()
 
         if not municipio_selecionado or municipio_selecionado == "Nenhum município encontrado":
-            messagebox.showwarning("Erro de Seleção", "Por favor, selecione um município.")
+            messagebox.showwarning("Erro de Seleção", "Por favor, selecione um município válido.")
             self.btn_executar.config(state=tk.NORMAL)
             self.atualizar_status("Seleção de município pendente.")
             return
@@ -178,13 +214,11 @@ class IntegralaiserGUI:
             self.atualizar_status("Seleção de concessionária pendente.")
             return
 
-        # Inicia a execução em uma thread separada para não travar a GUI
         threading.Thread(target=self.thread_processamento, 
                          args=(municipio_selecionado, concessionaria_selecionada), 
                          daemon=True).start()
 
     def _update_progress_callback(self, current, total, message=None):
-        """Atualiza a barra de progresso e o status de forma thread-safe."""
         self.root.after(0, lambda: self.progress.config(maximum=total if total > 0 else 1))
         self.root.after(0, lambda: self.progress.config(value=current))
         if message:
@@ -192,7 +226,7 @@ class IntegralaiserGUI:
 
     def thread_processamento(self, municipio_name: str, concessionaria_name: str):
         escolha = self.opcao_fluxo.get()
-        import time # Importa time aqui para medir o tempo de execução
+        import time 
         start_total = time.time()
         
         try:
@@ -212,13 +246,12 @@ class IntegralaiserGUI:
             else:
                 self.atualizar_status(f"Executando Fluxo Completo para {municipio_name} ({concessionaria_name})...")
                 
-                # Execução manual das etapas para medir tempos individuais
-                self._update_progress_callback(0, 100, "Executando Etapa 1/2: Cropper...") # Reset e mensagem para Cropper
+                self._update_progress_callback(0, 100, "Executando Etapa 1/2: Cropper...") 
                 start_c = time.time()
                 cropper_orchestrator(municipio_name, concessionaria_name, progress_callback=self._update_progress_callback)
                 dur_c = time.time() - start_c
                 
-                self._update_progress_callback(0, 100, "Executando Etapa 2/2: Texter...") # Reset e mensagem para Texter
+                self._update_progress_callback(0, 100, "Executando Etapa 2/2: Texter...") 
                 start_t = time.time()
                 texter_orchestrator(municipio_name, concessionaria_name, progress_callback=self._update_progress_callback)
                 dur_t = time.time() - start_t
@@ -231,7 +264,7 @@ class IntegralaiserGUI:
             self.atualizar_status(f"Erro na execução: {e}")
             messagebox.showerror("Erro", f"Ocorreu uma falha durante o processo:\n{e}")            
         finally:
-            self.root.after(0, lambda: self.progress.config(value=0, maximum=100)) # Reseta a barra de progresso
+            self.root.after(0, lambda: self.progress.config(value=0, maximum=100)) 
             self.root.after(0, lambda: self.btn_executar.config(state=tk.NORMAL))
 
 if __name__ == "__main__":
