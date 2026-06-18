@@ -1,0 +1,33 @@
+\begin{flushright}
+Fortaleza - CE, \today.
+\end{flushright}
+
+\ifnum\isREC=1
+\textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\else
+\textbf{REQUISIÇÃO Nº \numReclamacao{}}
+\fi
+
+\textbf{DESTINADA À \nomeConcessionaria{}}
+
+\textbf{CNPJ: \cnpjConcessionaria{}}
+
+\ifnum\isREC=1
+\textbf{PREFEITURA MUNICIPAL DE \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\else
+\textbf{PREFEITURA MUNICIPAL DE \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\fi
+
+\ifnum\hasUC=1
+\textbf{UNIDADE CONSUMIDORA: \unidadeConsumidora{}}
+\fi
+
+\vspace{0.5cm}
+
+O município de \nomeMunicipio{}-\siglaEstado{}, pessoa jurídica de direito público interno, inscrito no CNPJ sob o nº \cnpjMunicipio{}, com sede administrativa situada à \sedePrefeitura{}, neste ato representado \generoPrefeitura{} Municipal, \nomePrefeito{}, por meio de sua representante legal devidamente constituída conforme procuração anexa, Sra. Ana Lívia F. Dias, vem
+\ifnum\isREC=1
+apresentar a seguinte reclamação sobre \tituloDocumento{}, visando a restituição de valores indevidamente cobrados pela \nomeConcessionaria{}, 
+\else
+apresentar o seguinte requerimento sobre \tituloDocumento{}, 
+\fi
+considerando que o consumidor e outros interessados podem junto aos canais de atendimento da concessionária solicitar informações, serviços ou protocolar reclamações e denúncias (Art. 399 -- Resolução Normativa Nº 1000/2021).

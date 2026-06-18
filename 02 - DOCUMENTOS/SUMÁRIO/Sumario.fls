@@ -160,13 +160,13 @@ INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epsto
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 OUTPUT Sumario.pdf
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
-INPUT .\Ruda_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
+INPUT .\HLA_Header.png
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Usuário 1\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map

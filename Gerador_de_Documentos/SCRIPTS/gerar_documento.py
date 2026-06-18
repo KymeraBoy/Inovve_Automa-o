@@ -505,6 +505,7 @@ def compile_tex_to_pdf(tex_path: Path) -> tuple[bool, Path | None, str]:
     Retorna (sucesso, caminho_pdf_ou_none, mensagem).
     """
     engines = ["pdflatex", "xelatex"]
+    engines = ["pdflatex", "xelatex"]
     available = [eng for eng in engines if shutil.which(eng)]
 
     if not available:

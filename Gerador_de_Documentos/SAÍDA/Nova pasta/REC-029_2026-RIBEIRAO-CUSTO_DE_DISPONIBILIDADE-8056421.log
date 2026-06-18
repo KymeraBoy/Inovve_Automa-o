@@ -1,0 +1,415 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  18 JUN 2026 10:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.tex
+(REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/preambulo.tex
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count286
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen157
+\l@unhyphenated=\language79
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.d
+ef)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count287
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/inv
+alid\babel-brazil.tex)
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 4330.
+
+Package babel Info: Importing font and identification data for brazil
+(babel)             from babel-pt-BR.ini. Reported on input line 4330.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\bra
+zilian.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language56). Reported on input line 100.
+Package babel Info: Making " an active character on input line 132.
+))
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.
+sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen158
+\enit@toks=\toks19
+\enit@inbox=\box53
+\enit@count@id=\count288
+\enitdp@description=\count289
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.st
+y
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen161
+\ESO@tempdimb=\dimen162
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color
+.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor
+.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.
+sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen163
+\ttl@minus=\dimen164
+\ttl@toksa=\toks20
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.
+sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen168
+\ar@mcellbox=\box55
+\extrarowheight=\dimen169
+\NC@list=\toks21
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box56
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.st
+y
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)) (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks24
+\float@box=\box57
+\@float@everytoks=\toks25
+\@floatcapt=\box58
+)
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/MUNICIP
+IOS/Dados_Ribeirao.tex
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/CONCESS
+IONARIAS/NEOENERGIA_PERNAMBUCO.tex))
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 25
+.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
+d-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+)
+No file REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.aux.
+\openout1 = `REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(113.81102pt, 660.10394pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=660.10394pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 25.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count292
+\scratchdimen=\dimen170
+\scratchbox=\box59
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen171
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/intro.tex
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
+.
+
+(C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+))
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/legitimidade.tex)
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/anexos.tex
+\totalAditivos=\count298
+)
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/SAÍDA/
+REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421/Custo_de_disponibilidade
+_processed.tex
+<C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/HLA_Header.png, id=1, 603.75563pt x 94.85437pt>
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Header.png  used on input line 7.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+<C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/HLA_Ender.png, id=3, 599.99156pt x 50.43843pt>
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 7.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+ [1
+
+{C:/Users/Usuário 1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
+/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:/User
+s/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/HL
+A_Header.png> <C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Docu
+mentos/EMPRESAS/HLA/HLA_Ender.png>]
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Header.png  used on input line 44.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 44.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+ [2])
+(C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
+S/HLA/final.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+)
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Header.png  used on input line 42.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
+or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 42.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+ [3]
+(REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4882 strings out of 467867
+ 86035 string characters out of 5415879
+ 516287 words of memory out of 5000000
+ 33685 multiletter control sequences out of 15000+600000
+ 646297 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,11n,79p,881b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvr8a.pfb>
+Output written on REC-029_2026-RIBEIRAO-CUSTO_DE_DISPONIBILIDADE-8056421.pdf (3
+ pages, 78816 bytes).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

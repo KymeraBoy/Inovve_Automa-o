@@ -1,0 +1,53 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[a4paper,left=2cm,right=2cm,top=4cm,bottom=2.5cm]{geometry}
+\usepackage[brazil]{babel}
+\usepackage{enumitem}
+\usepackage{iftex}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{array}
+
+\AddToShipoutPictureBG{%
+\AtPageUpperLeft{%
+\raisebox{-\height}{\includegraphics[width=\paperwidth]{FDOJ_Header.jpg}}%
+}%
+}
+
+\AddToShipoutPictureBG{%
+\AtPageLowerLeft{%
+\includegraphics[width=\paperwidth]{FDOJ_Ender.jpg}%
+}%
+}
+
+\ifPDFTeX
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\else
+\usepackage{fontspec}
+\setmainfont{Arial}
+\fi
+
+\titleformat{\section}
+  {\normalfont\bfseries\fontsize{11}{13}\selectfont}
+  {}{0em}{}
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+\providecommand{\EmailEmpresa}{protocolo@gridconsultoria.com e gsra.2023@gmail.com}
+\newcommand{\Citacao}[1]{%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{4cm}%
+    \setlength{\rightmargin}{0cm}%
+    \setlength{\topsep}{\baselineskip}%
+    \setlength{\partopsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\itemsep}{0pt}%
+  }\item[]
+  {\begingroup\scriptsize\setstretch{1}\selectfont #1\par\endgroup}
+  \end{list}%
+}
+
+\newcommand{\emailEmpresa}{protocolo@gridconsultoria.com e gsra.2023@gmail.com}
