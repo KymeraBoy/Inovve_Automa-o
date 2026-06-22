@@ -1,0 +1,61 @@
+Sub PreencherTextoDoRelatorio()
+    Dim xlApp As Excel.Application
+    Dim xlWorkbook As Excel.Workbook
+    Dim xlSheet As Excel.Worksheet
+    Dim caminhoArquivo As String
+    
+    ' --- CORREÇÃO AQUI: Declarada como String ---
+    Dim dataPagamento As String
+    Dim valorPagamento As String
+    
+    ' ---- CONFIGURAÇÃO DE AMBIENTE ----
+    caminhoArquivo = "C:\Users\Usuário 1\Documents\Inovve_Automação\02 - DOCUMENTOS\RELATÓRIO DE PAGAMENTO\Tabela.xlsx"
+    
+    ' Tenta conectar ao Excel
+    On Error Resume Next
+    Set xlApp = GetObject(, "Excel.Application")
+    If xlApp Is Nothing Then
+        Set xlApp = New Excel.Application
+        xlApp.Visible = False
+    End If
+    On Error GoTo 0
+    
+    ' Abre a planilha
+    Set xlWorkbook = xlApp.Workbooks.Open(caminhoArquivo)
+    Set xlSheet = xlWorkbook.Sheets(1)
+    
+    ' ---- CAPTURA OS DADOS DO EXCEL ----
+    dataPagamento = xlSheet.Range("M4").Text
+    valorPagamento = xlSheet.Range("L4").Text
+    valorComplementar = "Entretanto, foi identificado que a distribuidora não estava realizando a devolução em dobro ao longo de todo o período devido. Após as contestações apresentadas, a distribuidora reconheceu a inconsistência e efetuou a devolução do valor remanescente de " & xlSheet.Range("AV4").Text & ", por meio de depósito na conta corrente do Município, em " & xlSheet.Range("AW4").Text & "."
+    
+    ' ---- PREENCHE OS INDICADORES NO WORD ----
+    EscreverNoIndicador "DATA", dataPagamento
+    EscreverNoIndicador "PAGAMENTO", valorPagamento
+    EscreverNoIndicador "PAGAMENTO_FINAL", valorPagamento
+    
+    If Trim(xlSheet.Range("AW4").Text) <> "" Then
+    EscreverNoIndicador "COMPLEMENTAR", valorComplementar
+    End If
+    
+    
+    ' Fecha o Excel e limpa a memória
+    xlWorkbook.Close SaveChanges:=False
+    xlApp.Quit
+    
+    Set xlSheet = Nothing
+    Set xlWorkbook = Nothing
+    Set xlApp = Nothing
+    
+    MsgBox "Campos de texto updated com sucesso!", vbInformation, "Sucesso"
+End Sub
+
+' --- SUBROTINA AUXILIAR ---
+Sub EscreverNoIndicador(nomeIndicador As String, texto As String)
+    Dim alvo As Range
+    If ThisDocument.Bookmarks.Exists(nomeIndicador) Then
+        Set alvo = ThisDocument.Bookmarks(nomeIndicador).Range
+        alvo.Text = texto
+        ThisDocument.Bookmarks.Add nomeIndicador, alvo
+    End If
+End Sub

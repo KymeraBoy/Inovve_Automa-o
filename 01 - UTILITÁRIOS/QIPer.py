@@ -4,6 +4,9 @@ import argparse
 from pathlib import Path
 import re
 from datetime import date
+import os
+import sys
+
 
 import pandas as pd
 import pdfplumber

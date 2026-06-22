@@ -1,0 +1,134 @@
+Sub ImportarAcoesConfiguráveis()
+    Dim xlApp As Excel.Application
+    Dim xlWorkbook As Excel.Workbook
+    Dim xlSheet As Excel.Worksheet
+    Dim caminhoArquivo As String
+    Dim docTabela As Table
+    
+    ' ---- CONFIGURAÇÕES DE AMBIENTE ----
+    caminhoArquivo = "C:\Users\Usuário 1\Documents\Inovve_Automação\02 - DOCUMENTOS\RELATÓRIO DE PAGAMENTO\Tabela.xlsx"
+    Set docTabela = ThisDocument.Tables(1)
+    ' -----------------------------------
+
+    ' Tenta capturar uma instância aberta do Excel ou cria uma nova
+    On Error Resume Next
+    Set xlApp = GetObject(, "Excel.Application")
+    If xlApp Is Nothing Then
+        Set xlApp = New Excel.Application
+        xlApp.Visible = False
+    End If
+    On Error GoTo 0
+
+    ' Abre o arquivo do Excel
+    Set xlWorkbook = xlApp.Workbooks.Open(caminhoArquivo)
+    Set xlSheet = xlWorkbook.Sheets(1)
+
+    ' =========================================================================
+    '  SUA LISTA DE CONFIGURAÇÃO DE AÇÕES (Suas 6 ações integradas aqui)
+    ' =========================================================================
+    Dim acoes As New Collection
+    
+    ' Linha 1: Elaboração da [e4]
+    ConfigurarAcao acoes, xlSheet, "Q4", "Elaboração da ", "E4", ""
+    
+    ' Linha 2: Envio da [e4] para a Concessionária
+    ConfigurarAcao acoes, xlSheet, "Q4", "Envio da ", "E4", " para a Concessionária"
+    
+    ' Linha 3: Deferimento da [e4] pela Concessionária
+    ConfigurarAcao acoes, xlSheet, "J4", "Deferimento da ", "E4", " pela Concessionária"
+    
+    ' Linha 4: Recebimento do memorial de cálculo referente a [e4]
+    ConfigurarAcao acoes, xlSheet, "K4", "Recebimento do memorial de cálculo referente a ", "E4", ""
+    
+    ' Linha 5: Devolução do valor deferido em conta corrente (Corrigido texto quebrado)
+    ConfigurarAcao acoes, xlSheet, "M4", "Devolução do valor deferido em conta corrente. ", "", ""
+    
+    ' Linha 6: Recebimento do comprovante do pagamento
+    ConfigurarAcao acoes, xlSheet, "AT4", "Recebimento do comprovante do pagamento.", "", ""
+    ' =========================================================================
+
+    ' ---- ORDENAÇÃO CRONOLÓGICA NA MEMÓRIA (Evita o Erro 5675) ----
+    Dim acoesOrdenadas As New Collection
+    OrdenarColecaoPorData acoes, acoesOrdenadas
+
+    ' ---- PROCESSAMENTO E PREENCHIMENTO NO WORD ----
+    Dim item As Variant
+    Dim linhaAtual As Long
+    linhaAtual = 2 ' Começa na linha 2 (abaixo do cabeçalho)
+    
+    For Each item In acoesOrdenadas
+        ' Garante que a tabela do Word tem linhas suficientes para este item
+        If docTabela.Rows.Count < linhaAtual Then
+            docTabela.Rows.Add
+        End If
+        
+        ' Preenche a Coluna 1 (Data) e Coluna 2 (Descrição da Ação)
+        docTabela.Cell(linhaAtual, 1).Range.Text = item(0)
+        docTabela.Cell(linhaAtual, 2).Range.Text = item(1)
+        
+        ' Garante o alinhamento à esquerda na segunda coluna
+        docTabela.Cell(linhaAtual, 2).Range.ParagraphFormat.Alignment = wdAlignParagraphLeft
+        
+        linhaAtual = linhaAtual + 1
+    Next item
+
+    ' Fecha o Excel e limpa a memória
+    xlWorkbook.Close SaveChanges:=False
+    xlApp.Quit
+    
+    Set xlSheet = Nothing
+    Set xlWorkbook = Nothing
+    Set xlApp = Nothing
+
+    MsgBox "Processo concluído! Todas as ações foram importadas, ordenadas e alinhadas à esquerda.", vbInformation, "Sucesso"
+End Sub
+
+' --- FUNÇÃO AUXILIAR PARA CONFIGURAÇÃO ---
+Sub ConfigurarAcao(ByRef col As Collection, ByRef sheet As Excel.Worksheet, celulaData As String, textoPrefixo As String, celulaTexto As String, textoSufixo As String)
+    Dim dataRes As String
+    Dim textoRes As String
+    
+    dataRes = Trim(sheet.Range(celulaData).Text)
+    
+    If celulaTexto <> "" Then
+        textoRes = textoPrefixo & LCase(sheet.Range(celulaTexto).Text) & textoSufixo
+    Else
+        textoRes = textoPrefixo & textoSufixo
+    End If
+    
+    col.Add Array(dataRes, textoRes)
+End Sub
+
+' --- SUBROTINA DE ORDENAÇÃO SEGURA (CORRIGIDA) ---
+Sub OrdenarColecaoPorData(ByRef colOriginal As Collection, ByRef colOrdenada As Collection)
+    Dim i As Long, j As Long
+    Dim itemI As Variant, itemJ As Variant
+    Dim temporario As Variant
+    Dim dtI As Date, dtJ As Date
+    
+    ' Transfere os itens para a nova coleção
+    For i = 1 To colOriginal.Count
+        colOrdenada.Add colOriginal(i)
+    Next i
+    
+    If colOrdenada.Count > 1 Then
+        For i = 1 To colOrdenada.Count - 1
+            For j = i + 1 To colOrdenada.Count
+                itemI = colOrdenada(i)
+                itemJ = colOrdenada(j)
+                
+                ' Conversão segura de datas
+                If IsDate(itemI(0)) Then dtI = CDate(itemI(0)) Else dtI = CDate("31/12/2099")
+                If IsDate(itemJ(0)) Then dtJ = CDate(itemJ(0)) Else dtJ = CDate("31/12/2099")
+                
+                If dtI > dtJ Then
+                    temporario = colOrdenada(i)
+                    colOrdenada.Remove (i)
+                    colOrdenada.Add colOrdenada(j - 1), , i
+                    colOrdenada.Remove (j)
+                    colOrdenada.Add temporario, , , j - 1
+                End If
+            Next j
+        Next i
+    End If
+End Sub

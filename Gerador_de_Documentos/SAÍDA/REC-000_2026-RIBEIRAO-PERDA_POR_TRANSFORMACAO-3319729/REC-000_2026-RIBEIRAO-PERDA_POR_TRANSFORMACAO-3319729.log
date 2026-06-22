@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  22 JUN 2026 09:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  19 JUN 2026 13:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./REC-009_2026-RIBEIRAO-DIC2-4129361.tex
-(REC-009_2026-RIBEIRAO-DIC2-4129361.tex
+**./REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.tex
+(REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 
@@ -228,11 +228,9 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 d-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count291
-) (REC-009_2026-RIBEIRAO-DIC2-4129361.aux
-Package babel Info: 'brazil' activates 'portuges' shorthands.
-(babel)             Reported on input line 5.
 )
-\openout1 = `REC-009_2026-RIBEIRAO-DIC2-4129361.aux'.
+No file REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.aux.
+\openout1 = `REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -248,7 +246,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -283,6 +280,8 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 25.
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
@@ -324,7 +323,8 @@ S/HLA/anexos.tex
 \totalAditivos=\count298
 )
 (C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/SAÍDA/
-REC-009_2026-RIBEIRAO-DIC2-4129361/DIC2_processed.tex
+REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729/Perda_por_Transformação
+_processed.tex
 <C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
 S/HLA/HLA_Header.png, id=1, 603.75563pt x 94.85437pt>
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
@@ -350,31 +350,37 @@ or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 7.
 s/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/HL
 A_Header.png> <C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Docu
 mentos/EMPRESAS/HLA/HLA_Ender.png>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
 PRESAS/HLA/HLA_Header.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
 RESAS/HLA/HLA_Header.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
-or_de_Documentos/EMPRESAS/HLA/HLA_Header.png  used on input line 51.
+or_de_Documentos/EMPRESAS/HLA/HLA_Header.png  used on input line 35.
 (pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
 PRESAS/HLA/HLA_Ender.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMP
 RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
-or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 51.
+or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 35.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [2])
+ [2]
+Overfull \hbox (52.93456pt too wide) in paragraph at lines 47--48
+\T1/phv/m/n/10.95 tado do de-fe-ri-mento desta re-cla-ma-��o por meio do en-de-
+re�o ele-tr�-nico: con-tato@hlaconsultoria.com 
+ []
+
+)
 (C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESA
 S/HLA/final.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
 )
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EM
 PRESAS/HLA/HLA_Header.png Graphic file (type png)
@@ -390,30 +396,28 @@ RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/Gerad
 or_de_Documentos/EMPRESAS/HLA/HLA_Ender.png  used on input line 42.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [3] (REC-009_2026-RIBEIRAO-DIC2-4129361.aux)
+ [3] (REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4890 strings out of 467867
- 85867 string characters out of 5415879
- 518240 words of memory out of 5000000
- 33690 multiletter control sequences out of 15000+600000
- 649027 words of font info for 65 fonts, out of 8000000 for 9000
+ 4881 strings out of 467867
+ 85982 string characters out of 5415879
+ 517286 words of memory out of 5000000
+ 33682 multiletter control sequences out of 15000+600000
+ 649000 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,79p,799b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Usuário 1/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Usuário 1/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on REC-009_2026-RIBEIRAO-DIC2-4129361.pdf (3 pages, 108951 bytes
-).
+ 62i,11n,79p,818b,381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvr8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/helvetic/uhvro8a.pfb>
+Output written on REC-000_2026-RIBEIRAO-PERDA_POR_TRANSFORMACAO-3319729.pdf (3 
+pages, 86633 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
