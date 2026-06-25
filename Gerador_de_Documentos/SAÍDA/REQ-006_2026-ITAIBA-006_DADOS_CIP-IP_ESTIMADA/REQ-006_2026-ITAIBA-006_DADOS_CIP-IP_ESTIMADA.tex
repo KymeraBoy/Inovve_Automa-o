@@ -1,0 +1,42 @@
+% === DOCUMENTO AUTO-GERADO — 23/06/2026 ===
+% Município : Itaíba
+% Empresa   : HLA
+% Tipo      : REQ
+% Subtipo   : 006-DADOS-CIP
+
+% ── PREAMBULO DA EMPRESA ──────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/preambulo.tex}
+\usepackage{float} % Suporte para a opção [H] (posicionamento rígido)
+\usepackage{enumitem} % Suporte para a opção [resume] das listas
+% Garante busca de imagens (headers/footers) na pasta da empresa
+\graphicspath{{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/}}
+
+% ── DADOS DO MUNICÍPIO ────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/MUNICIPIOS/Dados_Itaiba.tex}
+
+% ── DADOS DO DOCUMENTO ────────────────────────────────────────────
+\newcommand{\tipoDocumento}{REQ}
+\newcommand{\isREC}{0}
+\newcommand{\hasUC}{1}
+\newcommand{\numReclamacao}{006/2026}
+\newcommand{\unidadeConsumidora}{IP ESTIMADA}
+\newcommand{\tituloDocumento}{Solicitação de Dados da CIP}
+
+\begin{document}
+
+% ── INTRO ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/intro.tex}
+
+% ── LEGITIMIDADE ──────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/legitimidade.tex}
+
+% ── ANEXOS ────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/anexos.tex}
+
+% ── SUBTIPO (REQ: 006-DADOS-CIP) ─────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/SAÍDA/REQ-006_2026-ITAIBA-006_DADOS_CIP-IP_ESTIMADA/006-DADOS-CIP_processed.tex}
+
+% ── FINAL ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/final.tex}
+
+\end{document}

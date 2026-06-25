@@ -1,0 +1,42 @@
+% === DOCUMENTO AUTO-GERADO — 23/06/2026 ===
+% Município : Itaíba
+% Empresa   : HLA
+% Tipo      : REQ
+% Subtipo   : 005-RELATORIO-DE-DIVIDAS
+
+% ── PREAMBULO DA EMPRESA ──────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/preambulo.tex}
+\usepackage{float} % Suporte para a opção [H] (posicionamento rígido)
+\usepackage{enumitem} % Suporte para a opção [resume] das listas
+% Garante busca de imagens (headers/footers) na pasta da empresa
+\graphicspath{{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/}}
+
+% ── DADOS DO MUNICÍPIO ────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/MUNICIPIOS/Dados_Itaiba.tex}
+
+% ── DADOS DO DOCUMENTO ────────────────────────────────────────────
+\newcommand{\tipoDocumento}{REQ}
+\newcommand{\isREC}{0}
+\newcommand{\hasUC}{0}
+\newcommand{\numReclamacao}{005/2026}
+\newcommand{\unidadeConsumidora}{}
+\newcommand{\tituloDocumento}{Solicitação de Relatório de Dívidas}
+
+\begin{document}
+
+% ── INTRO ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/intro.tex}
+
+% ── LEGITIMIDADE ──────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/legitimidade.tex}
+
+% ── ANEXOS ────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/anexos.tex}
+
+% ── SUBTIPO (REQ: 005-RELATORIO-DE-DIVIDAS) ─────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/SAÍDA/REQ-005_2026-ITAIBA-005_RELATORIO_DE_DIVIDAS/005-RELATORIO-DE-DIVIDAS_processed.tex}
+
+% ── FINAL ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/final.tex}
+
+\end{document}

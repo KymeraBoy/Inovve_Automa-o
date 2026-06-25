@@ -1,4 +1,7 @@
 ﻿import tkinter as tk
+
+# Script legacy: mantém o comportamento antigo, mas passa a usar a implementação modular.
+from main_documentaiser import DocumentaiserApp
 from tkinter import filedialog, messagebox
 from pathlib import Path
 import re

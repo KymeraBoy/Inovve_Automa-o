@@ -89,6 +89,8 @@ def locate_docs_for_municipio(workdir: Path, municipio: str) -> dict[str, Option
     _maybe("KIT", f"{mun}_KIT.pdf")
     _maybe("CTR", f"{mun}_CTR.pdf")
     _maybe("RAS_CTR", f"{mun}_RAS_CTR.pdf")
+    _maybe("RAS_PROC", f"{mun}_RAS_PROC.pdf")
+    _maybe("RAS_ADT", f"{mun}_RAS_ADT.pdf")
     _maybe("PUB_CTR", f"{mun}_PUB_CTR.pdf")
 
     adt_nums = parse_adt_numbers(workdir, mun)
@@ -103,15 +105,7 @@ def locate_docs_for_municipio(workdir: Path, municipio: str) -> dict[str, Option
     return result
 
 
-def concat_pdfs(paths: Iterable[Path], out_path: Path) -> None:
-    writer = PdfWriter()
-    for p in paths:
-        reader = PdfReader(str(p))
-        for page in reader.pages:
-            writer.add_page(page)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(out_path, "wb") as f:
-        writer.write(f)
+
 
 
 def count_pages(path: Path) -> int:

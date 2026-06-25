@@ -1,0 +1,42 @@
+% === DOCUMENTO AUTO-GERADO — 23/06/2026 ===
+% Município : Itaíba
+% Empresa   : HLA
+% Tipo      : REQ
+% Subtipo   : 008-TAXA-ADM-CIP
+
+% ── PREAMBULO DA EMPRESA ──────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/preambulo.tex}
+\usepackage{float} % Suporte para a opção [H] (posicionamento rígido)
+\usepackage{enumitem} % Suporte para a opção [resume] das listas
+% Garante busca de imagens (headers/footers) na pasta da empresa
+\graphicspath{{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/}}
+
+% ── DADOS DO MUNICÍPIO ────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/MUNICIPIOS/Dados_Itaiba.tex}
+
+% ── DADOS DO DOCUMENTO ────────────────────────────────────────────
+\newcommand{\tipoDocumento}{REQ}
+\newcommand{\isREC}{0}
+\newcommand{\hasUC}{1}
+\newcommand{\numReclamacao}{008/2026}
+\newcommand{\unidadeConsumidora}{IP ESTIMADA}
+\newcommand{\tituloDocumento}{Solicitação de Informações sobre a Taxa Administrativa da CIP}
+
+\begin{document}
+
+% ── INTRO ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/intro.tex}
+
+% ── LEGITIMIDADE ──────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/legitimidade.tex}
+
+% ── ANEXOS ────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/anexos.tex}
+
+% ── SUBTIPO (REQ: 008-TAXA-ADM-CIP) ─────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/SAÍDA/REQ-008_2026-ITAIBA-008_TAXA_ADM_CIP-IP_ESTIMADA/008-TAXA-ADM-CIP_processed.tex}
+
+% ── FINAL ─────────────────────────────────────────────────────────
+\input{C:/Users/Usuário 1/Documents/Inovve_Automação/Gerador_de_Documentos/EMPRESAS/HLA/final.tex}
+
+\end{document}

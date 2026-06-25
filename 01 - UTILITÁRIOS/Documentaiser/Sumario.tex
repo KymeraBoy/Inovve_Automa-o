@@ -46,6 +46,7 @@
 \usepackage{hyperref}
 \usepackage{bookmark}
 \usepackage{ifthen}
+\usepackage{etoolbox}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
@@ -56,68 +57,23 @@
 \date{}
 
 % ========== SELEÇÃO DE CABEÇALHO ==========
-% Escolha entre "HLA" ou "Ruda" para o tipo de cabeçalho
-\newcommand{\tipoLogo}{HLA}
+\newcommand{\tipo}{<<EMPRESA>>}
 
-% Condicional para exibir o cabeçalho apropriado
-\ifthenelse{\equal{\tipoLogo}{Ruda}}{%
-  % Para RUDA: cabeçalho centralizado com 90% da largura da página
-  \AddToShipoutPictureBG{%
-    \AtPageUpperLeft{%
-      \hspace*{0.5\paperwidth}%
-      \raisebox{-3cm}{\makebox[0pt][c]{\includegraphics[width=0.8\paperwidth]{Ruda_Header.png}}}%
-    }%
-  }%
-}{%
-  % Para HLA: cabeçalho alinhado à esquerda
-  \AddToShipoutPictureBG{%
-    \AtPageUpperLeft{%
-      \raisebox{-\height}{\includegraphics{HLA_Header.png}}%
-    }%
-  }%
-}
+\ifthenelse{\equal{\tipo}{RUDA}}
+{\AddToShipoutPictureBG{\AtPageUpperLeft{\hspace*{0.5\paperwidth}\raisebox{-3cm}{\makebox[0pt][c]{\includegraphics[width=0.8\paperwidth]{Ruda_Header.png}}}}}}
+{\AddToShipoutPictureBG{\AtPageUpperLeft{\raisebox{-\height}{\includegraphics{HLA_Header.png}}}}}
 
 \begin{document}
 
 \textbf{SUMÁRIO}\\
+
 \strut \\
-\begin{enumerate}
-  \item \textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
-  \begin{enumerate}
-    \item Procuração \dotfill 1
-    \item Validação das assinaturas \dotfill 2
-    \item Kit prefeito \dotfill 11
-    \item Contrato Social da Empresa \dotfill 16
-    \item Documento de Identificação do Representante \dotfill 25
-  \end{enumerate}
 
-  \item \textbf{Anexo II -- Documentos contratuais \dotfill 1}
-  \begin{enumerate}
-    \item Contrato \dotfill 1
-    % \item Validação das assinaturas do contrato \dotfill 5
-    \item Publicação do Contrato em Diário Oficial \dotfill 9
-  \end{enumerate}
+<<ANEXO I>>
 
-  % \item \textbf{Anexo III -- 1º Termo Aditivo \dotfill 1}
-  % \begin{enumerate}
-  %   \item 1º Aditivo \dotfill 1
-  %   % \item Validação das assinaturas do 1º Aditivo \dotfill 2   
-  %   \item Publicação do 1º Aditivo em Diário Oficial\dotfill 5
-  % \end{enumerate}
+<<ANEXO II>>
 
-  % \item \textbf{Anexo IV -- 2º Termo Aditivo \dotfill 1}
-  % \begin{enumerate}
-  %   \item 2º Aditivo \dotfill 1
-  %   \item Validação das assinaturas do 2º Aditivo \dotfill 3
-  %   \item Publicação do 2º Aditivo em Diário Oficial\dotfill 13
-  % \end{enumerate}
-
-  % \item \textbf{Anexo V -- 3º Termo Aditivo \dotfill 1}
-  % \begin{enumerate}
-  %   \item 3º Aditivo \dotfill 1
-  %   \item Validação das assinaturas do 3º Aditivo \dotfill 2
-  %   \item Publicação do 3º Aditivo em Diário Oficial\dotfill 11
-  % \end{enumerate}
-\end{enumerate}
+<<ANEXO DE ADITIVOS>>
 
 \end{document}
+
