@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA NELSON FARIA 67  CS-
+ ACOUGUE PUBLICO
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1491214
+CÓDIGO DO CLIENTE
+853397512
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2211395837   Energia Ativa            
+Único        
+ 1.594,00
+ 1.647,00
+    1,00000
+          53,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+          53,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+         53
+ 30
+JUL25
+         46
+ 32
+JUN25
+         43
+ 30
+MAI25
+         42
+ 31
+ABR25
+         38
+ 28
+MAR25
+         39
+ 31
+FEV25
+         39
+ 29
+JAN25
+         43
+ 31
+DEZ24
+         36
+ 32
+NOV24
+         30
+ 29
+OUT24
+         30
+ 29
+SET24
+         39
+ 33
+AGO24
+         35
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+           53,00 
+ 0,57704620 
+            30,58 
+             1,56 
+            30,58 
+20,00
+             6,13 
+ 0,43260000
+Consumo-TE
+kWh
+           53,00 
+ 0,41569736 
+            22,03 
+             1,10 
+            22,03 
+20,00
+             4,40 
+ 0,31164000
+Acrés. Band.VERMELHA
+             1,57 
+             0,07 
+             1,57 
+20,00
+             0,31 
+Acrés.Bd.VERMELHA-P2
+             2,77 
+             0,13 
+             2,77 
+20,00
+             0,55 
+TRIBF-IRRF(1.2%)
+             0,67-
+TOTAL
+            56,28 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

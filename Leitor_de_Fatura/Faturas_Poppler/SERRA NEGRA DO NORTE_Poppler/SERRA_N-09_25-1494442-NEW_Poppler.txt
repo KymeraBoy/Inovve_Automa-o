@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ PO BARRA DE SAO PEDRO 13
+ ILUMINA AO PUBLICA
+ BARRA DE SAO PEDRO/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1494442
+CÓDIGO DO CLIENTE
+853456870
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2242730847   Energia Ativa            
+Único        
+     0,00
+   242,00
+    1,00000
+         242,00  
+ 2011035066   Energia Ativa            
+Único        
+39.119,00
+39.531,00
+    1,00000
+         412,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         242,00  
+         412,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        654
+ 32
+AGO25
+        683
+ 30
+JUL25
+        605
+ 32
+JUN25
+        604
+ 30
+MAI25
+        633
+ 31
+ABR25
+        570
+ 28
+MAR25
+        624
+ 31
+FEV25
+        575
+ 29
+JAN25
+        587
+ 31
+DEZ24
+        608
+ 32
+NOV24
+        554
+ 29
+OUT24
+        568
+ 29
+SET24
+        670
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          654,00 
+ 0,31472222 
+           205,82 
+             9,08 
+           205,82 
+20,00
+            41,17 
+ 0,23793000
+Consumo-TE
+kWh
+          654,00 
+ 0,22671957 
+           148,27 
+             6,51 
+           148,27 
+20,00
+            29,65 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            68,13 
+             2,98 
+            68,13 
+20,00
+            13,62 
+TRIBF-IRRF(1.2%)
+             5,05-
+TOTAL
+           417,17 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

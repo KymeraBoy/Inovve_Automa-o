@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ FZ PINTADO 60
+ DESSALINIZADOR COMUN RURAL PINTADO
+ ZONA RURAL/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1493821
+CÓDIGO DO CLIENTE
+854659049
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2170904160   Energia Ativa            
+Único        
+12.607,00
+12.775,00
+    1,00000
+         168,00  
+ 2170904160   Energia Reativa          
+Único        
+ 5.096,00
+ 5.160,00
+    1,00000
+          64,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         168,00  
+          64,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        168
+ 31
+JUL25
+        132
+ 29
+JUN25
+        156
+ 32
+MAI25
+        131
+ 31
+ABR25
+        101
+ 28
+MAR25
+        135
+ 31
+FEV25
+        100
+ 29
+JAN25
+        134
+ 30
+DEZ24
+        131
+ 32
+NOV24
+        133
+ 30
+OUT24
+        100
+ 29
+SET24
+        112
+ 33
+AGO24
+        124
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          168,00 
+ 0,57704620 
+            96,94 
+             4,91 
+            96,94 
+20,00
+            19,40 
+ 0,43260000
+Consumo-TE
+kWh
+          168,00 
+ 0,41569736 
+            69,83 
+             3,50 
+            69,83 
+20,00
+            13,96 
+ 0,31164000
+Acrés. Band.VERMELHA
+             7,41 
+             0,36 
+             7,41 
+20,00
+             1,48 
+Acrés.Bd.VERMELHA-P2
+             4,54 
+             0,22 
+             4,54 
+20,00
+             0,90 
+TRIBF-IRRF(1.2%)
+             2,14-
+TOTAL
+           176,58 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

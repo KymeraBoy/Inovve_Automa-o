@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA SHIPHIAO EMILIANO MONTEIRO 142
+ GRUPO ESCOLAR CORONEL MARIZ
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492202
+CÓDIGO DO CLIENTE
+461064019
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2222135438   Energia Ativa            
+Único        
+25.033,00
+25.985,00
+    1,00000
+           0,00   
+ 2222135438   Energia Reativa          
+Único        
+ 4.649,00
+ 5.255,00
+    1,00000
+         606,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00   
+         606,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+          0
+ 30
+JUL25
+       1358
+ 32
+JUN25
+       2765
+ 30
+MAI25
+       2851
+ 31
+ABR25
+       2947
+ 28
+MAR25
+       1842
+ 31
+FEV25
+        747
+ 29
+JAN25
+         44
+ 31
+DEZ24
+          0
+ 32
+NOV24
+          0
+ 29
+OUT24
+          0
+ 29
+SET24
+          0
+ 33
+AGO24
+         13
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+            0,00 
+ 0,57704620 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,43260000
+Consumo-TE
+kWh
+            0,00 
+ 0,41569736 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,31164000
+TUSD GDII com trib.
+           149,86 
+             7,53 
+           149,86 
+20,00
+            29,97 
+TRIBF-IRRF(1.2%)
+             1,79-
+TOTAL
+           148,07 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -26,10 +26,10 @@ def organizar_reclamacoes():
 
     for arquivo in arquivos:
         # Verifica se o arquivo é um PDF e termina com o sufixo esperado (case-insensitive)
-        if arquivo.upper().endswith("-ASSINADO.PDF"):
+        if arquivo.upper().endswith(".PDF"):
             # 1. Determina o nome base (ID da Reclamação)
             # Encontra a posição do sufixo para removê-lo preservando o nome original
-            posicao_sufixo = arquivo.upper().rfind("-ASSINADO.PDF")
+            posicao_sufixo = arquivo.upper().rfind(".PDF")
             nome_reclamacao = arquivo[:posicao_sufixo]
             
             if not nome_reclamacao:

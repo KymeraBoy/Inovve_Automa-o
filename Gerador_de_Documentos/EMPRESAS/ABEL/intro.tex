@@ -5,7 +5,11 @@ Taguatinga Norte – DF, \today.
 \ifnum\isREC=1
 \textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
 \else
+\ifnum\isOFI=1
+\textbf{OFÍCIO Nº \numReclamacao{}}
+\else
 \textbf{PETIÇÃO Nº \numReclamacao{}}
+\fi
 \fi
 
 \ifnum\hasUC=1
@@ -20,5 +24,9 @@ MUNICÍPIO DE \nomeMunicipioMaisculo{}, Estado da \nomeEstado{}, inscrito no CNP
 \ifnum\isREC=1
 por meio desta reclamação, venho solicitar, nos termos abaixo expostos, o que se requer:
 \else
+\ifnum\isOFI=1
+vem por meio deste ofício solicitar os seguintes documentos e informações, nos termos a seguir expostos:
+\else
 vem por meio deste apresentar petição para solicitar os seguintes documentos e informações, nos termos a seguir expostos:
+\fi
 \fi

@@ -1,0 +1,201 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**   
+ ENDEREÇO:
+ RUA MANOEL VILLACA 9999
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2363892
+CÓDIGO DO CLIENTE
+7006286229
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: A4 Horo-sazonal Verde
+PODER PUBLICO -- MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2231109601   Energia Ativa            
+Ponta        
+ 2.876,00
+ 3.134,00
+    1,00000
+           0,00    
+ 2231109601    Energia Ativa            
+Fora Ponta   
+44.807,00
+46.853,00
+    1,00000
+           0,00    
+ 2231109601   Demanda Ativa            
+Ponta        
+     0,00
+     8,92
+    1,00000
+           8,92    
+ 2231109601   Demanda Ativa            
+Fora Ponta   
+     0,00
+    16,96
+    1,00000
+          16,96
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+           0,00    
+           0,00    
+           8,92    
+          16,96
+
+========== PAGE 8 ==========
+GRANDEZAS CONTRATADAS
+
+========== PAGE 9 ==========
+Demanda Ativa
+kW
+           17,38 
+38,00264550 
+           660,48 
+            29,07 
+           660,48 
+20,00
+           132,09 28,73000000
+Demanda Reativa Exc.
+kVAr
+            0,00 
+38,00264550 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 28,73000000
+Consumo-TUSD NPonta
+kWh
+            0,00 
+ 2,47064814 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 1,86781000
+Consumo-TUSD F.Ponta
+kWh
+            0,00 
+ 0,12111111 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,09156000
+Consumo-TE Na Ponta
+kWh
+            0,00 
+ 0,64256613 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,48578000
+Consumo-TE F.Ponta
+kWh
+            0,00 
+ 0,38989417 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,29476000
+Cons.Reat.Exc.NPonta
+kVARh
+            0,00 
+ 0,41222222 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,31164000
+Cons.Reat Exc.FPonta
+kVARh
+            0,00 
+ 0,41222222 
+             0,00 
+             0,00 
+             0,00 
+20,00
+             0,00 
+ 0,31164000
+TUSD GDII com trib.
+           232,02 
+            10,20 
+           232,02 
+20,00
+            46,40 
+Demanda Ativa- Lim
+kW
+           12,62 
+30,40211640 
+           383,67 
+            21,09 
+             0,00 
+00,00
+             0,00 
+ 0,00000000
+Imp.Som/Dim-C/Impost
+         1.067,16 
+            46,95 
+         1.067,16 
+20,00
+           213,43 
+TRIBF-IRRF(4.8%)
+           101,33-
+TRIBF-IRRF(1.2%)
+             2,78-
+TOTAL
+            2.239,22 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

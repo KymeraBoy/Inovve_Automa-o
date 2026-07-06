@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA CORONEL CLEMENTINO MONTEIRO DE FARIAS 644
+ CRAS
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1490788
+CÓDIGO DO CLIENTE
+852729619
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2212702067   Energia Ativa            
+Único        
+18.656,00
+19.242,00
+    1,00000
+         586,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         586,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        586
+ 30
+JUL25
+        566
+ 32
+JUN25
+        666
+ 30
+MAI25
+        691
+ 31
+ABR25
+        574
+ 28
+MAR25
+        566
+ 31
+FEV25
+        577
+ 29
+JAN25
+        436
+ 31
+DEZ24
+        660
+ 32
+NOV24
+        731
+ 29
+OUT24
+        638
+ 29
+SET24
+        671
+ 33
+AGO24
+        649
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          586,00 
+ 0,57704620 
+           338,14 
+            17,03 
+           338,14 
+20,00
+            67,64 
+ 0,43260000
+Consumo-TE
+kWh
+          586,00 
+ 0,41569736 
+           243,59 
+            12,25 
+           243,59 
+20,00
+            48,71 
+ 0,31164000
+Acrés. Band.VERMELHA
+            17,43 
+             0,87 
+            17,43 
+20,00
+             3,48 
+Acrés.Bd.VERMELHA-P2
+            30,77 
+             1,54 
+            30,77 
+20,00
+             6,15 
+Comp.DIC Mês 06/25
+            62,43-
+TRIBF-IRRF(1.2%)
+             7,55-
+TOTAL
+           559,95 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

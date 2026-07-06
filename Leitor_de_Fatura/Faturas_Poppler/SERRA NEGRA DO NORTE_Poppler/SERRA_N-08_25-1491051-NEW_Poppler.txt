@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA MAJOR LOBINHO 54
+ CENTRO DE SA DE
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1491051
+CÓDIGO DO CLIENTE
+605184014
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2222326551   Energia Ativa            
+Único        
+140683,00
+145806,00
+    1,00000
+       5.123,00 
+ 2222326551   Energia Reativa          
+Único        
+12.077,00
+12.422,00
+    1,00000
+         345,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       5.123,00 
+         345,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+       5123
+ 30
+JUL25
+       5088
+ 32
+JUN25
+       5295
+ 30
+MAI25
+       5570
+ 31
+ABR25
+       4753
+ 28
+MAR25
+       5149
+ 31
+FEV25
+       4562
+ 29
+JAN25
+       4884
+ 31
+DEZ24
+       5225
+ 32
+NOV24
+       5215
+ 29
+OUT24
+       4847
+ 29
+SET24
+       5153
+ 33
+AGO24
+       4712
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        5.123,00 
+ 0,57704620 
+         2.956,20 
+           148,76 
+         2.956,20 
+20,00
+           591,25 
+ 0,43260000
+Consumo-TE
+kWh
+        5.123,00 
+ 0,41569736 
+         2.129,61 
+           107,16 
+         2.129,61 
+20,00
+           425,92 
+ 0,31164000
+Acrés. Band.VERMELHA
+           152,47 
+             7,66 
+           152,47 
+20,00
+            30,49 
+Acrés.Bd.VERMELHA-P2
+           269,12 
+            13,54 
+           269,12 
+20,00
+            53,82 
+TRIBF-IRRF(1.2%)
+            66,08-
+TOTAL
+         5.441,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

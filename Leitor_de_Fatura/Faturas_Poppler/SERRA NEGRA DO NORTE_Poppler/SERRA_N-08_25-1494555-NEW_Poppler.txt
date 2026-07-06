@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ PO LAGOA DA SERRA 22
+ BOMBA POCO TUBULAR-ABAST DAGUA
+ LAGOA DA SERRA/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1494555
+CÓDIGO DO CLIENTE
+851987630
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2132420877   Energia Ativa            
+Único        
+35.491,00
+35.913,00
+    1,00000
+         422,00  
+ 2132420877   Energia Reativa          
+Único        
+23.648,00
+24.119,00
+    1,00000
+         471,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         422,00  
+         471,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        422
+ 32
+JUL25
+        421
+ 30
+JUN25
+        388
+ 32
+MAI25
+        456
+ 31
+ABR25
+        342
+ 28
+MAR25
+        411
+ 29
+FEV25
+        386
+ 31
+JAN25
+        492
+ 30
+DEZ24
+        546
+ 32
+NOV24
+        526
+ 30
+OUT24
+        451
+ 29
+SET24
+        500
+ 33
+AGO24
+         69
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          422,00 
+ 0,57704620 
+           243,51 
+            12,27 
+           243,51 
+20,00
+            48,71 
+ 0,43260000
+Consumo-TE
+kWh
+          422,00 
+ 0,41569736 
+           175,42 
+             8,82 
+           175,42 
+20,00
+            35,08 
+ 0,31164000
+Acrés. Band.VERMELHA
+            16,47 
+             0,82 
+            16,47 
+20,00
+             3,29 
+Acrés.Bd.VERMELHA-P2
+            15,23 
+             0,75 
+            15,23 
+20,00
+             3,04 
+TRIBF-IRRF(1.2%)
+             5,40-
+TOTAL
+           445,23 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

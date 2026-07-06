@@ -1,0 +1,180 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CEP:58840000 - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 012 - 0227 - 125 - 8960
+MATRÍCULA: 207828-2025-7-5
+DOM. BANC.:                                   DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL ACOUGUE
+
+RUA CEL JOSE FERNANDES, S/N - 58840000
+
+
+CENTRO
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Julho / 2025   23/08/2025   R$ 901,59
+
+========== INFORMACOES ==========
+Importante: seu número de identificação será atualizado. A partir de 01/12/2025, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                                      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                                      KWH       1.905,00       0,779340      1.484,66       67,07       1.484,66   20      296,93   0,588270
+Energia Atv Injetada GDII oUC 7/2025 mPT            KWH       1.078,00       0,684260       -737,64       -37,96       -327,68   20      -65,54   0,588270
+Ajuste GDII - TRF Reduzida(Lei 14.300/22) - Conv.   KWH       1.078,00       0,098030        105,67        0,00           0,00   0         0,00   0,098032
+Adic. B. Vermelha                                                                             48,90        2,22          48,90   20        9,78
+Subsídio SCEE                                                                                316,47        0,00           0,00   0         0,00
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio SCEE                                                                     -316,47        0,00           0,00   0         0,00
+
+
+
+
+                                                             TOTAL:                          901,59       31,33       1.205,88           241,17
+
+========== DADOS DE MEDICAO ==========
+00009061245   Energia ativa em kWh   Ponta   142544   144453   1   1905
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  207828-2025-7-5       23/08/2025       5993138        R$ 901,59
+
+FATURAMENTO AGRUPADO
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/08/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000207828-5
+
+========== DATAS DE LEITURA ==========
+17/06/2025   17/07/2025   30   18/08/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/207828-5
+
+00009061245
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         554,74    1,0074       5,59
+COFINS      554,74    4,6401      25,74
+ICMS      1.205,88     20,00     241,17
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JUL/25                30
+              JUN/25                29
+              MAI/25                32
+              ABR/25                28
+Consumo kWh
+
+
+
+
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                30
+              NOV/24                29
+              OUT/24                32
+              SET/24                30
+              AGO/24                32
+              JUL/24                30
+
+========== RESERVADO AO FISCO ==========
+1.205,88                 241,17
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+.
+UC de compensação de energia classificada como GD_II, conforme Lei 14.300/22
+Saldo Acumulado: 0 A expirar no próximo ciclo: 0
+- Perda do Ramal: 4 kWh
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+
+========== PÁGINA 16 ==========
+DIC         10,00     0,00   999,00   999,00
+FIC          4,00     0,00   999,00   999,00
+DMIC         7,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Pombal
+
+Referência:                       05/2025
+Tensão Contratada:
+Limite Adequado:                350 a 399
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                     202,51    22,47
+Compra de energia                           279,88    31,04
+Serviço de transmissão                       52,21     5,79
+Encargos setoriais                           94,49    10,48
+Impostos diretos e encargos                 272,50    30,22
+Outros serviços                               0,00     0,00
+Total                                       901,59   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 05/2025): R$ 208,46
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+JUL/25   1.905,00
+JUN/25   1.943,00
+MAI/25   2.064,00
+ABR/25   1.748,00
+MAR/25   1.767,00
+FEV/25   1.646,00
+JAN/25   2.059,00
+DEZ/24   1.939,00
+NOV/24   1.899,00
+OUT/24   2.129,00
+SET/24   1.892,00
+AGO/24   2.004,00
+JUL/24   1.943,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 17/06/2025      Leitura Atual: 17/07/2025   Dias: 30
+
+
+
+KWH   Ponta   144.453,00    142.544,00       1,00                                                 1.905,00          1.905,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

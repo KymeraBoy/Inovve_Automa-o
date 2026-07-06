@@ -1,0 +1,169 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA SENADOR JOSE BERNARDO 100
+ SE - ESTA  O DE TRATAMENTO DE AGUA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2363958
+CÓDIGO DO CLIENTE
+7006287675
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 50514498
+  Energia Ativa            
+Único        
+105156,00
+106568,00
+    0,36000
+         508,32  
+ 50514498
+  Energia Reativa          
+Único        
+14.156,00
+14.287,00
+    0,36000
+          47,16
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         508,32  
+          47,16
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        521
+ 30
+JUL25
+        241
+ 32
+JUN25
+        272
+ 30
+MAI25
+        186
+ 31
+ABR25
+        100
+ 28
+MAR25
+        220
+ 31
+FEV25
+        623
+ 29
+JAN25
+        100
+ 31
+DEZ24
+        100
+ 32
+NOV24
+        100
+ 29
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+AGO24
+        100
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          521,03 
+ 0,57704620 
+           300,65 
+            15,15 
+           300,65 
+20,00
+            60,15 
+ 0,43260000
+Consumo-TE
+kWh
+          521,03 
+ 0,41569736 
+           216,59 
+            10,89 
+           216,59 
+20,00
+            43,31 
+ 0,31164000
+Cons.Reat.Excedente
+kVARh
+           48,34 
+ 0,41569736 
+            20,09 
+             1,00 
+            20,09 
+20,00
+             4,01 
+ 0,31164000
+Acrés. Band.VERMELHA
+            15,49 
+             0,77 
+            15,49 
+20,00
+             3,09 
+Acrés.Bd.VERMELHA-P2
+            27,37 
+             1,37 
+            27,37 
+20,00
+             5,47 
+TRIBF-IRRF(1.2%)
+             6,95-
+TOTAL
+           573,24 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

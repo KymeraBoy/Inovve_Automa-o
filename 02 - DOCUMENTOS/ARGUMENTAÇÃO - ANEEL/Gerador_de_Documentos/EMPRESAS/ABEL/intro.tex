@@ -1,0 +1,24 @@
+\begin{flushright}
+Taguatinga Norte – DF, \today.
+\end{flushright}
+
+\ifnum\isREC=1
+\textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\else
+\textbf{PETIÇÃO Nº \numReclamacao{}}
+\fi
+
+\ifnum\hasUC=1
+\textbf{NÚMERO DA UNIDADE CONSUMIDORA: \unidadeConsumidora{}}
+\fi
+
+\textbf{DIRECIONADO À DISTRIBUIDORA DE ENERGIA - \nomeConcessionaria{} - (CNPJ: \cnpjConcessionaria{})} 
+
+\vspace{0.5cm}
+
+MUNICÍPIO DE \nomeMunicipioMaisculo{}, Estado da \nomeEstado{}, inscrito no CNPJ/MF Nº \cnpjMunicipio{}, pessoa jurídica de direito público interno, com sede situada à \sedePrefeitura{}, neste ato representado \generoPrefeitura{}, \nomePrefeito{}, por meio de seu representante legal Abel Gomes Cunha,
+\ifnum\isREC=1
+por meio desta reclamação, venho solicitar, nos termos abaixo expostos, o que se requer:
+\else
+vem por meio deste apresentar petição para solicitar os seguintes documentos e informações, nos termos a seguir expostos:
+\fi

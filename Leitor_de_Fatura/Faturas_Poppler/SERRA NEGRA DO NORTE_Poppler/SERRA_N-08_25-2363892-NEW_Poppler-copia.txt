@@ -1,0 +1,136 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**   
+ ENDEREÇO:
+ RUA MANOEL VILLACA 9999
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2363892
+CÓDIGO DO CLIENTE
+7006286229
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: A4 Horo-sazonal Verde
+PODER PUBLICO -- MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Trifásico
+
+========== PAGE 6 ==========
+
+
+========== PAGE 7 ==========
+
+
+========== PAGE 8 ==========
+24
+25
+25
+25
+25
+25
+25
+25
+25
+onta
+Fora Ponta
+Demanda Medida em kW
+
+========== PAGE 9 ==========
+N° MEDIDOR - 2231109601
+CICLO - 31/07/2025 a 31/08/2025
+DIAS - 31
+Data                                         
+310725
+310825 
+Hora                                         
+235900
+235900 
+Consumo Ativo Na Ponta                       
+  2.876,00 
+  3.134,00 
+    1,00000
+     258,00-
+           0,00  
+Consumo Ativo Fora de Ponta                  
+ 44.807,00 
+ 46.853,00 
+    1,00000
+   2.046,00-
+           0,00  
+Demanda Máxima Na Ponta                      
+      0,00 
+      8,92 
+    1,00000
+       0,00 
+           8,92  
+Demanda Máxima Fora de Ponta                 
+      0,00 
+     16,96 
+    1,00000
+       0,00 
+          16,96  
+Consumo Reativo Na Ponta                     
+    245,00 
+    245,00 
+    1,00000
+       0,00 
+           0,00  
+Consumo Reativo Fora de Ponta                
+  2.984,00 
+  2.984,00 
+    1,00000
+       0,00 
+           0,00  
+Consumo Reativo Excedente Na Ponta           
+      0,00 
+      0,00 
+    1,00000
+       0,00 
+           0,00  
+Consumo Reativo Excedente Fora de Ponta      
+    137,00 
+    137,00 
+    1,00000
+       0,00 
+           0,00  
+Demanda Máxima Corrigida Na Ponta            
+      0,00 
+      7,87 
+    1,00000
+       0,00 
+           7,87  
+Demanda Máxima Corrigida Fora de Ponta       
+      0,00 
+     12,39 
+    1,00000
+       0,00 
+          12,39 
+  4400
+  3300
+  2200
+  1100
+     0
+AGO
+SET
+OUT
+NOV
+24
+24
+24
+24
+P
+    30
+    24
+    18
+    12
+

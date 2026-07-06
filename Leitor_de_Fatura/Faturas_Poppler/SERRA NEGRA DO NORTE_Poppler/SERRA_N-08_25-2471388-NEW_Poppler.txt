@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA LEONIDAS GOMES 178
+ ESTACAO ELEVATORIA DE ESGOTOS
+ ARECIO BATISTA DE FARIAS/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2471388
+CÓDIGO DO CLIENTE
+7008167278
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2132382053   Energia Ativa            
+Único        
+34.385,00
+34.616,00
+    1,00000
+         231,00  
+ 2132382053   Energia Reativa          
+Único        
+17.804,00
+17.922,00
+    1,00000
+         118,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         231,00  
+         118,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        231
+ 30
+JUL25
+        253
+ 32
+JUN25
+        260
+ 30
+MAI25
+        294
+ 31
+ABR25
+        311
+ 28
+MAR25
+        285
+ 31
+FEV25
+        333
+ 29
+JAN25
+        281
+ 31
+DEZ24
+        290
+ 32
+NOV24
+        241
+ 29
+OUT24
+        250
+ 29
+SET24
+        274
+ 33
+AGO24
+        316
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          231,00 
+ 0,57704620 
+           133,29 
+             6,71 
+           133,29 
+20,00
+            26,66 
+ 0,43260000
+Consumo-TE
+kWh
+          231,00 
+ 0,41569736 
+            96,02 
+             4,83 
+            96,02 
+20,00
+            19,20 
+ 0,31164000
+Acrés. Band.VERMELHA
+             6,86 
+             0,34 
+             6,86 
+20,00
+             1,37 
+Acrés.Bd.VERMELHA-P2
+            12,12 
+             0,60 
+            12,12 
+20,00
+             2,42 
+TRIBF-IRRF(1.2%)
+             2,97-
+TOTAL
+           245,32 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

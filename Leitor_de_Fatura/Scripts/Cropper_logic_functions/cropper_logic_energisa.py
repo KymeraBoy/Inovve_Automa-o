@@ -7,6 +7,7 @@ import re
 import io
 import fitz
 import unicodedata
+import subprocess
 from PIL import Image
 from pathlib import Path
 
@@ -62,6 +63,343 @@ TERMOS_PIX_QR = (
 # ============================================================= #
 # FUNÇÕES
 # ============================================================= #
+
+# FUNÇÕES QUE EU ADICIONEI
+
+def abrir_pdf_e_extrair_texto(input_path):
+    """
+    Abre um arquivo PDF e extrai todo o texto.
+
+    Args:
+        input_path (str): Caminho para o arquivo PDF.
+
+    Returns:
+        tuple: (doc, texto_completo)
+            - doc: objeto fitz.Document
+            - texto_completo: string contendo todo o texto do PDF
+    """
+    doc = fitz.open(input_path)
+
+    texto_completo = ""
+    for pagina in doc:
+        texto_completo += pagina.get_text()
+
+    return doc, texto_completo
+
+def extrair_uc(caminho_arquivo):
+    """
+    Recebe o endereço de um arquivo de texto (como String ou objeto Path),
+    lê o seu conteúdo utilizando pathlib e extrai o número da unidade consumidora.
+    """
+    # 1. Transforma a entrada em um objeto Path de forma segura
+    arquivo_path = Path(caminho_arquivo)
+    
+    # Validação de existência do arquivo usando pathlib
+    if not arquivo_path.exists():
+        print(f"Erro: O arquivo no caminho '{arquivo_path}' não foi encontrado.")
+        return None
+        
+    try:
+        # 2. Path.read_text já abre, lê e fecha o arquivo automaticamente
+        texto_documento = arquivo_path.read_text(encoding='utf-8')
+            
+        # 3. Isola a seção específica de Código do Cliente e Instalação
+        match_secao = re.search(
+            r"========== CODIGO DO CLIENTE E INSTALACAO ==========(.*?)(====|$)", 
+            texto_documento, 
+            re.DOTALL
+        )
+        
+        if not match_secao:
+            return None
+            
+        bloco_instalacao = match_secao.group(1)
+        
+        # 4. Busca pelo padrão clássico de instalação (ex: 5/7100783-5)
+        match_codigo = re.search(r"\d+/([\d\-]+)", bloco_instalacao)
+        
+        if match_codigo:
+            return match_codigo.group(1)
+            
+        # 5. Fallback: Se não achar com barra, pega a primeira linha limpa com números e hífen
+        linhas = [linha.strip() for linha in bloco_instalacao.split('\n') if linha.strip()]
+        for linha in linhas:
+            if re.match(r"^[\d\-]+$", linha):
+                return linha
+
+        return None
+
+    except Exception as e:
+        print(f"Ocorreu um erro ao ler o arquivo: {e}")
+        return None
+
+def extrair_mes_ano(caminho_arquivo):
+    """
+    Recebe o endereço de um arquivo de texto (como String ou objeto Path),
+    lê o seu conteúdo utilizando pathlib e extrai o mês/ano de referência 
+    da fatura formatado como 'MES_ANO' (Ex: JUL_2025).
+    """
+    # 1. Transforma a entrada em um objeto Path de forma segura
+    arquivo_path = Path(caminho_arquivo)
+    
+    # Validação de existência do arquivo usando pathlib
+    if not arquivo_path.exists():
+        print(f"Erro: O arquivo no caminho '{arquivo_path}' não foi encontrado.")
+        return None
+        
+    try:
+        # 2. Abre, lê e fecha o arquivo automaticamente em UTF-8
+        texto_documento = arquivo_path.read_text(encoding='utf-8')
+            
+        # 3. Isola a seção de Mês/Ano, Vencimento e Valor
+        match_secao = re.search(
+            r"========== MES/ANO, VENCIMENTO E VALOR ==========(.*?)(====|$)", 
+            texto_documento, 
+            re.DOTALL
+        )
+        
+        if not match_secao:
+            return None
+            
+        bloco_referencia = match_secao.group(1)
+        
+        # 4. Procura pelo padrão "NomeDoMês / Ano" (ex: Julho / 2025)
+        # O padrão aceita variações com ou sem espaços em volta da barra
+        match_data = re.search(r"([A-Za-zçãõÚí]+)\s*/\s*(\d{4})", bloco_referencia)
+        
+        if match_data:
+            # Extrai o mês e o ano limpos
+            mes = match_data.group(1).strip()
+            ano = match_data.group(2).strip()
+            
+            # Formata para obter as 3 primeiras letras em maiúsculo (Ex: Julho -> JUL)
+            # Nota: Caso os meses venham completos ou já abreviados, o [:3] resolve
+            mes_abreviado = mes[:3].upper()
+            
+            # Retorna no formato solicitado: MES_ANO (Ex: JUL_2025)
+            return f"{mes_abreviado}_{ano}"
+
+        return None
+
+    except Exception as e:
+        print(f"Ocorreu um erro ao ler o arquivo: {e}")
+        return None
+
+def extrair_municipio_l4(bloco_cliente):
+    """Lógica dedicada exclusivamente ao Layout 4"""
+    linhas = [linha.strip() for line in bloco_cliente.split('\n') if (linha := line.strip())]
+    
+    for i, linha in enumerate(linhas):
+        if "CNPJ" in linha or "CPF" in linha or "Insc." in linha:
+            if i > 0:
+                municipio_bruto = linhas[i-1]
+                municipio_limpo = re.sub(r"\s*\(AG:\s*\d+\)", "", municipio_bruto).strip()
+                if re.match(r"^[A-ZÁ-Úa-zá-ú\s]+$", municipio_limpo):
+                    return municipio_limpo
+                    
+    match_pm = re.search(r"PM\s+([A-ZÁ-Úa-zá-ú]+)", bloco_cliente)
+    if match_pm:
+        return match_pm.group(1)
+        
+    if linhas:
+        municipio_limpo = re.sub(r"\s*\(AG:\s*\d+\)", "", linhas[-1]).strip()
+        if re.match(r"^[A-ZÁ-Úa-zá-ú\s]+$", municipio_limpo):
+            return municipio_limpo
+            
+    return None
+
+def extrair_municipio_l5(bloco_cliente):
+    """Lógica corrigida e dedicada exclusivamente ao Layout 5"""
+    # Divide em linhas e remove espaços extras
+    linhas = [linha.strip() for line in bloco_cliente.split('\n') if (linha := line.strip())]
+    
+    # Estratégia 1: Buscar o município no início (Domicílio de Entrega)
+    # Evita pegar faturas que mencionam JOAO PESSOA no fim do bloco como endereço de consumo
+    for linha in linhas:
+        # Se achamos uma linha com AG no começo/meio do bloco (antes de mudar para Unidade Consumidora)
+        if "ENDEREÇO DA UNIDADE CONSUMIDORA" in linha:
+            break # Interrompe para não capturar o município do local de consumo físico externo
+            
+        match_agencia = re.search(r"^([A-ZÁ-Úa-zá-ú\s]+?)\s*\(AG:\s*\d+\)", linha)
+        if match_agencia:
+            municipio = match_agencia.group(1).strip()
+            if municipio and "PREFEITURA" not in municipio and "CASA" not in municipio:
+                return municipio
+            elif municipio and "PREFEITURA MUNICIPAL DE" in municipio:
+                return municipio.replace("PREFEITURA MUNICIPAL DE", "").strip()
+
+    # Estratégia 2: Procurar por linha isolada acima de metadados estruturais (ex: GRUPO/SUBGRP)
+    for i, linha in enumerate(linhas):
+        if "GRUPO/SUBGRP" in linha or "MATRÍCULA" in linha:
+            if i > 0:
+                # O candidato é a linha imediatamente anterior
+                candidato = linhas[i-1]
+                # Se for apenas texto limpo (o nome da cidade sozinho, ex: POMBAL)
+                if re.match(r"^[A-ZÁ-Ú\s]+$", candidato) and len(candidato) > 2:
+                    # Garante que não capturamos termos estruturais comuns
+                    if candidato not in ["JAGUARIBE", "CENTRO", "AREA RURAL"]:
+                        return candidato
+
+    # Estratégia 3: Fallback direto por varredura de palavra-chave explícita de controle
+    if "POMBAL" in bloco_cliente:
+        return "POMBAL"
+
+    return None
+
+def extrair_municipio(caminho_arquivo):
+    """
+    Função principal que identifica o layout pelo nome do arquivo 
+    e direciona para a lógica dedicada correspondente.
+    """
+    arquivo_path = Path(caminho_arquivo)
+    
+    if not arquivo_path.exists():
+        print(f"Erro: O arquivo '{arquivo_path}' não foi encontrado.")
+        return None
+        
+    nome_arquivo = arquivo_path.name.upper()
+    
+    try:
+        texto_documento = arquivo_path.read_text(encoding='utf-8')
+        
+        # --- ROTEAMENTO POR LAYOUT ---
+        if "L5" in nome_arquivo:
+            match_secao = re.search(
+                r"========== DOMICILIO DE ENTREGA E CLIENTE ==========(.*?)(====|$)", 
+                texto_documento, 
+                re.DOTALL
+            )
+            if match_secao:
+                return extrair_municipio_l5(match_secao.group(1))
+                
+        elif "L4" in nome_arquivo:
+            match_secao = re.search(
+                r"========== CLIENTE ==========(.*?)(====|$)", 
+                texto_documento, 
+                re.DOTALL
+            )
+            if match_secao:
+                return extrair_municipio_l4(match_secao.group(1))
+                
+        else:
+            # Fallback caso o nome do arquivo venha sem a flag L4 ou L5
+            if "========== DOMICILIO DE ENTREGA E CLIENTE ==========" in texto_documento:
+                match_secao = re.search(r"========== DOMICILIO DE ENTREGA E CLIENTE ==========(.*?)(====|$)", texto_documento, re.DOTALL)
+                return extrair_municipio_l5(match_secao.group(1))
+            elif "========== CLIENTE ==========" in texto_documento:
+                match_secao = re.search(r"========== CLIENTE ==========(.*?)(====|$)", texto_documento, re.DOTALL)
+                return extrair_municipio_l4(match_secao.group(1))
+            
+        return None
+
+    except Exception as e:
+        print(f"Ocorreu um erro ao processar o arquivo {arquivo_path.name}: {e}")
+        return None
+
+# FUNÇÕES ANTIGAS
+
+def normalizar_texto_para_regra(texto):
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = "".join(char for char in texto if not unicodedata.combining(char))
+    texto = texto.lower()
+    texto = re.sub(r"\s+", " ", texto)
+    return texto
+
+def identificar_layout_fatura(doc, template, texto_completo):
+    pages = [doc.load_page(i) for i in range(len(doc))]
+    texto_norm = normalizar_texto_para_regra(texto_completo)
+    textos_paginas_norm = [normalizar_texto_para_regra(page.get_text()) for page in pages]
+
+    if len(pages) == 2:
+        scores = {"LAYOUT_4": 0, "LAYOUT_5": 0, "LAYOUT_6": 0, "LAYOUT_7": 0}
+        texto_verso = textos_paginas_norm[1]
+        uc_fatura = extrair_uc_energisa(texto_norm)
+
+        if uc_fatura in UCS_FORCAR_LAYOUT_4:
+            return "LAYOUT_4", template["LAYOUT_4"]
+
+        # LAYOUT 4: forte presença de DANF3E / Documento Auxiliar
+        if "danf3e" in texto_norm or "documento auxiliar" in texto_norm:
+            scores["LAYOUT_4"] += 7
+        if "auxiliar" in texto_norm:
+            scores["LAYOUT_4"] += 3
+        if "nota fiscal" in texto_norm and "matricula:" in texto_norm and "dom. banc." in texto_norm:
+            scores["LAYOUT_4"] += 4
+
+        # LAYOUT 5: sinais característicos de bandeira/lançamentos
+        if "endereco da unidade consumidora" in texto_norm:
+            scores["LAYOUT_5"] += 8
+        if "adic. b. vermelha" in texto_norm:
+            scores["LAYOUT_5"] += 6
+        if "bandeira vermelha" in texto_norm:
+            scores["LAYOUT_5"] += 5
+        if "faturamento pela media/minimo" in texto_norm:
+            scores["LAYOUT_5"] += 4
+
+        # Migração observada: alguns L4 mantêm semântica de cobrança sem QR/PIX textual.
+        if parece_layout4_sem_pix_qr(texto_norm, uc_fatura):
+            scores["LAYOUT_4"] += 12
+            scores["LAYOUT_5"] -= 4
+
+        # LAYOUT 6: cabeçalho mais antigo com domicílio/medidor/roteiro
+        if "classe/subcls" in texto_norm:
+            scores["LAYOUT_6"] += 1
+        if "domicilio de entrega" in texto_norm:
+            scores["LAYOUT_6"] += 1
+        if "matricula:" in texto_norm and "roteiro:" in texto_norm:
+            scores["LAYOUT_6"] += 1
+        if "whatsapp" in texto_norm:
+            scores["LAYOUT_6"] += 8
+
+        # LAYOUT 7: costuma ter verso com pouco/nenhum texto extraível
+        if len(texto_verso.strip()) < 20:
+            scores["LAYOUT_7"] += 7
+        if color_exists_in_page(pages[0], cores[3]):
+            scores["LAYOUT_7"] += 4
+        if "faturas em atraso" in texto_norm:
+            scores["LAYOUT_7"] += 2
+
+        # Critérios de desempate/fallback com sinais já usados no projeto
+        if color_exists_in_page(pages[1], (0, 0, 0)):
+            scores["LAYOUT_5"] += 1
+        if "discriminacao" in texto_norm:
+            scores["LAYOUT_6"] += 1
+
+        layout_key = max(scores, key=scores.get)
+        if scores[layout_key] > 0:
+            return layout_key, template[layout_key]
+        return None, None
+
+    if len(pages) == 1:
+        scores = {"LAYOUT_1": 0, "LAYOUT_2": 0, "LAYOUT_3": 0}
+
+        if color_exists_in_page(pages[0], cores[0]):
+            scores["LAYOUT_1"] += 7
+        if color_exists_in_page(pages[0], cores[1]):
+            scores["LAYOUT_3"] += 7
+        if not color_exists_in_page(pages[0], cores[0]) and not color_exists_in_page(pages[0], cores[1]):
+            scores["LAYOUT_2"] += 6
+
+        if "valor do eusd" in texto_norm:
+            scores["LAYOUT_1"] += 1
+            scores["LAYOUT_2"] += 1
+            scores["LAYOUT_3"] += 1
+
+        if "data data" in texto_norm:
+            scores["LAYOUT_1"] += 3
+        if "cadastre sua fatura em debito automatico" in texto_norm:
+            scores["LAYOUT_2"] += 2
+            scores["LAYOUT_3"] += 1
+        if "data de pagamento" in texto_norm:
+            scores["LAYOUT_3"] += 2
+
+        layout_key = max(scores, key=scores.get)
+        if scores[layout_key] > 0:
+            return layout_key, template[layout_key]
+        return None, None
+
+    # Mantém comportamento seguro: só identifica layouts conhecidos (1 ou 2 páginas)
+    return None, None
 
 def simplificar_cor(cor, fator=FATOR_SIMPLIFICACAO):
     return tuple((c // fator) * fator for c in cor)
@@ -147,13 +485,6 @@ def extrair_municipio_robusto(texto):
         resultado = resultado.rstrip("-").strip()
         return resultado.title()
     return texto.strip().title()
-
-def normalizar_texto_para_regra(texto):
-    texto = unicodedata.normalize("NFKD", texto)
-    texto = "".join(char for char in texto if not unicodedata.combining(char))
-    texto = texto.lower()
-    texto = re.sub(r"\s+", " ", texto)
-    return texto
 
 def normalizar_segmento_nome(texto):
     texto = str(texto).strip()
@@ -263,8 +594,8 @@ def extrair_unidade_para_nome_layout4(texto):
     return extrair_unidade_para_nome(texto)
 
 def extrair_uc_energisa(texto_norm):
-    uc_match = re.search(r"\b5/\d{5,7}-\d\b", texto_norm)
-    return uc_match.group(0) if uc_match else ""
+    uc_match = re.search(r"\b\d/\d{5,7}-\d\b", texto_norm)
+    return uc_match.group(0) if uc_match else "Não encontrado"
 
 def parece_layout4_sem_pix_qr(texto_norm, uc_extraida):
     if not uc_extraida.startswith("5/"):
@@ -282,102 +613,6 @@ def parece_layout4_sem_pix_qr(texto_norm, uc_extraida):
         return False
 
     return True
-
-def identificar_layout_fatura(doc, template, texto_completo):
-    pages = [doc.load_page(i) for i in range(len(doc))]
-    texto_norm = normalizar_texto_para_regra(texto_completo)
-    textos_paginas_norm = [normalizar_texto_para_regra(page.get_text()) for page in pages]
-
-    if len(pages) == 2:
-        scores = {"LAYOUT_4": 0, "LAYOUT_5": 0, "LAYOUT_6": 0, "LAYOUT_7": 0}
-        texto_verso = textos_paginas_norm[1]
-        uc_fatura = extrair_uc_energisa(texto_norm)
-
-        if uc_fatura in UCS_FORCAR_LAYOUT_4:
-            return "LAYOUT_4", template["LAYOUT_4"]
-
-        # LAYOUT 4: forte presença de DANF3E / Documento Auxiliar
-        if "danf3e" in texto_norm or "documento auxiliar" in texto_norm:
-            scores["LAYOUT_4"] += 7
-        if "auxiliar" in texto_norm:
-            scores["LAYOUT_4"] += 3
-        if "nota fiscal" in texto_norm and "matricula:" in texto_norm and "dom. banc." in texto_norm:
-            scores["LAYOUT_4"] += 4
-
-        # LAYOUT 5: sinais característicos de bandeira/lançamentos
-        if "endereco da unidade consumidora" in texto_norm:
-            scores["LAYOUT_5"] += 8
-        if "adic. b. vermelha" in texto_norm:
-            scores["LAYOUT_5"] += 6
-        if "bandeira vermelha" in texto_norm:
-            scores["LAYOUT_5"] += 5
-        if "faturamento pela media/minimo" in texto_norm:
-            scores["LAYOUT_5"] += 4
-
-        # Migração observada: alguns L4 mantêm semântica de cobrança sem QR/PIX textual.
-        if parece_layout4_sem_pix_qr(texto_norm, uc_fatura):
-            scores["LAYOUT_4"] += 12
-            scores["LAYOUT_5"] -= 4
-
-        # LAYOUT 6: cabeçalho mais antigo com domicílio/medidor/roteiro
-        if "classe/subcls" in texto_norm:
-            scores["LAYOUT_6"] += 1
-        if "domicilio de entrega" in texto_norm:
-            scores["LAYOUT_6"] += 1
-        if "matricula:" in texto_norm and "roteiro:" in texto_norm:
-            scores["LAYOUT_6"] += 1
-        if "whatsapp" in texto_norm:
-            scores["LAYOUT_6"] += 8
-
-        # LAYOUT 7: costuma ter verso com pouco/nenhum texto extraível
-        if len(texto_verso.strip()) < 20:
-            scores["LAYOUT_7"] += 7
-        if color_exists_in_page(pages[0], cores[3]):
-            scores["LAYOUT_7"] += 4
-        if "faturas em atraso" in texto_norm:
-            scores["LAYOUT_7"] += 2
-
-        # Critérios de desempate/fallback com sinais já usados no projeto
-        if color_exists_in_page(pages[1], (0, 0, 0)):
-            scores["LAYOUT_5"] += 1
-        if "discriminacao" in texto_norm:
-            scores["LAYOUT_6"] += 1
-
-        layout_key = max(scores, key=scores.get)
-        if scores[layout_key] > 0:
-            return layout_key, template[layout_key]
-        return None, None
-
-    if len(pages) == 1:
-        scores = {"LAYOUT_1": 0, "LAYOUT_2": 0, "LAYOUT_3": 0}
-
-        if color_exists_in_page(pages[0], cores[0]):
-            scores["LAYOUT_1"] += 7
-        if color_exists_in_page(pages[0], cores[1]):
-            scores["LAYOUT_3"] += 7
-        if not color_exists_in_page(pages[0], cores[0]) and not color_exists_in_page(pages[0], cores[1]):
-            scores["LAYOUT_2"] += 6
-
-        if "valor do eusd" in texto_norm:
-            scores["LAYOUT_1"] += 1
-            scores["LAYOUT_2"] += 1
-            scores["LAYOUT_3"] += 1
-
-        if "data data" in texto_norm:
-            scores["LAYOUT_1"] += 3
-        if "cadastre sua fatura em debito automatico" in texto_norm:
-            scores["LAYOUT_2"] += 2
-            scores["LAYOUT_3"] += 1
-        if "data de pagamento" in texto_norm:
-            scores["LAYOUT_3"] += 2
-
-        layout_key = max(scores, key=scores.get)
-        if scores[layout_key] > 0:
-            return layout_key, template[layout_key]
-        return None, None
-
-    # Mantém comportamento seguro: só identifica layouts conhecidos (1 ou 2 páginas)
-    return None, None
 
 def aplicar_recortes_apropriadamente(doc, recortes, layout_key, template):
     new_doc = fitz.open()
@@ -458,53 +693,146 @@ def renomear_documento(input_path, layout_key, info_extraida):
 
     return re.sub(r"[^\w\-_\. ]", "-", novo_nome) + ".pdf"
 
+def extrair_texto_poppler_por_pagina(pdf_path, poppler_exe):
+    pdf_path = Path(pdf_path)
+    poppler_exe = Path(poppler_exe)
+
+    doc = fitz.open(pdf_path)
+    try:
+        total_paginas = len(doc)
+    finally:
+        doc.close()
+
+    textos_por_pagina = []
+
+    for pagina_num in range(1, total_paginas + 1):
+        processo = subprocess.run(
+            [
+                str(poppler_exe),
+                "-f", str(pagina_num),
+                "-l", str(pagina_num),
+                "-layout",
+                "-enc", "UTF-8",
+                str(pdf_path),
+                "-",
+            ],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+        )
+
+        if processo.returncode != 0:
+            raise RuntimeError(
+                f"Erro ao extrair texto da página {pagina_num} com Poppler: {processo.stderr}"
+            )
+
+        textos_por_pagina.append(processo.stdout or "")
+
+    return textos_por_pagina
+
 # ============================================================= #
 # EXECUÇÃO
 # ============================================================= #
 
-def cropper_logic_energisa(input_path: Path, output_dir: Path, template):
-    doc = fitz.open(input_path)
-    texto_completo = ""
-    for pagina in doc:
-        texto_completo += pagina.get_text()
+def cropper_logic_energisa(input_path, pasta_cropper, pasta_poppler, template, Poppler):
 
-    # 1) Identificacao do layout da fatura
-    layout_key, recortes = identificar_layout_fatura(doc, template, texto_completo)
-    if recortes is None:
-        print(f"Não foi possível identificar o layout do documento {input_path}. Verifique manualmente.")
-        doc.close()
-        return output_path
-        return None
+    doc, texto_completo = abrir_pdf_e_extrair_texto(input_path)
 
-    # 4) Aplicar os recortes apropriadamente
-    new_doc = aplicar_recortes_apropriadamente(doc, recortes, layout_key, template)
+    uc = extrair_uc_energisa(texto_completo)
+    print(texto_completo)
+    print(uc)
 
-    # 2) Extracao de informacoes do PDF
-    info_extraida = extrair_informacoes_do_pdf(new_doc)
+    # # 1) Identificacao do layout da fatura
+    # layout_key, recortes = identificar_layout_fatura(doc, template, texto_completo)
+    # if recortes is None:
+    #     print(f"Não foi possível identificar o layout do documento {input_path}. Verifique manualmente.")
+    #     doc.close()
+    #     return 
+         
+    # # 2) Aplicar os recortes apropriadamente
+    # new_doc = aplicar_recortes_apropriadamente(doc, recortes, layout_key, template)
 
-    # 3) Renomear o documento
-    novo_nome = renomear_documento(input_path, layout_key, info_extraida)
+    # # 3) Extracao de informacoes do PDF
+    # info_extraida = extrair_informacoes_do_pdf(new_doc)
 
-    dir_path = os.path.dirname(output_path)
-    dir_path = Path(output_path).parent
-    cropped_name = novo_nome.replace(".pdf", "_Cropped.pdf")
-    output_path = os.path.join(dir_path, cropped_name)
-    output_path_final = dir_path / cropped_name
-    # output_path = obter_caminho_unico(dir_path, cropped_name)
-    output_path_final = output_dir / cropped_name
+    # # 4) Renomear o documento
+    # novo_nome = renomear_documento(input_path, layout_key, info_extraida)
+    
+    # cropped_name = novo_nome.replace(".pdf", "_Cropped.pdf")
+    # poppler_name = novo_nome.replace(".pdf", "_Poppler.txt")    
+    
+    # mapa_de_titulos = {
+    #     "LAYOUT_4": ["DOMICILIO DE ENTREGA",
+    #             "CLASSIFICACAO E FORNECIMENTO",
+    #             "CLIENTE",
+    #             "MES/ANO, VENCIMENTO E VALOR",
+    #             "INFORMACOES",
+    #             "ITENS DA FATURA",
+    #             "DADOS DE MEDICAO",
+    #             "DADOS FISCAIS",
+    #             "APRESENTACAO",
+    #             "DATAS DE LEITURA",
+    #             "CODIGO DO CLIENTE E INSTALACAO",
+    #             "IMPOSTOS",
+    #             "HISTORICO DE CONSUMO",
+    #             "RESERVADO AO FISCO",
+    #         ],
+    #     "LAYOUT_5": [   "DOMICILIO DE ENTREGA E CLIENTE",
+    #                     "UNIDADE CONSUMIDORA",
+    #                     "VALOR, REFERENCIA E CNPJ",
+    #                     "VENCIMENTO, CONSUMO E RESERVADO AO FISCO",
+    #                     "SITUACAO DE DEBITOS",
+    #                     "DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA",
+    #                     "DESCRITIVO",
+    #                     "INFORMACOES FISCAIS",
+    #                 ],
+    # }    
+       
+    # vetor_titulos = mapa_de_titulos.get(layout_key, [])
 
-    if len(new_doc) > 0:
-        new_doc.save(output_path)
-        new_doc.save(str(output_path_final))
-    new_doc.close()
-    doc.close()    
+    # cropped_pdf_path = pasta_cropper / cropped_name
 
-    dir_path = os.path.dirname(input_path)
-    new_input_path = os.path.join(dir_path, novo_nome)
-    new_input_path = obter_caminho_unico(dir_path, novo_nome)   
-    os.rename(input_path, new_input_path)
-    return output_path
-    dir_path_input = Path(input_path).parent
-    new_input_path = obter_caminho_unico(dir_path_input, novo_nome)   
-    Path(input_path).rename(new_input_path)
-    return str(output_path_final)
+    # if len(new_doc) > 0:
+    #     new_doc.save(cropped_pdf_path)
+    #     textos_por_pagina = extrair_texto_poppler_por_pagina(cropped_pdf_path, Poppler)
+    # else:
+    #     textos_por_pagina = []
+
+    # # 4. Execução do laço gravando no arquivo
+    # with open(obter_caminho_unico(pasta_poppler,poppler_name), "w", encoding="utf-8") as f:
+    #     for idx, texto in enumerate(textos_por_pagina):
+
+    #         # Verifica se o índice atual existe no vetor de títulos escolhido.
+    #         # Se existir, usa o título. Se não (ex: o PDF tem mais páginas que títulos), usa um padrão.
+    #         if idx < len(vetor_titulos):
+    #             titulo_atual = vetor_titulos[idx]
+    #         else:
+    #             titulo_atual = f"PÁGINA {idx + 1}"  # Fallback caso faltem títulos
+
+    #         # Escreve no arquivo usando o título dinâmico
+    #         f.write(f"========== {titulo_atual} ==========\n")
+    #         f.write(texto.strip())
+    #         f.write("\n\n")      
+
+    
+    # if layout_key == "LAYOUT_4":   
+    #     municipio           = extrair_municipio(pasta_poppler / poppler_name)
+    #     mes_ano             = extrair_mes_ano(pasta_poppler / poppler_name)
+    #     unidade_consumidora = extrair_uc(pasta_poppler / poppler_name)  
+    #     novo_nome = f"{municipio}-{mes_ano}-{unidade_consumidora}-L4.txt"
+    #     arquivo_original = pasta_poppler / poppler_name
+    #     novo_caminho = arquivo_original.with_name(novo_nome)    
+    #     arquivo_original.rename(novo_caminho)
+    #     novo_nome = f"{municipio}-{mes_ano}-{unidade_consumidora}-L4.pdf"
+        
+
+
+    # new_doc.close()
+    # doc.close()  
+
+    
+
+    # dir_path_input = Path(input_path).parent
+    # new_input_path = obter_caminho_unico(dir_path_input, novo_nome)   
+    # Path(input_path).rename(new_input_path)
+    return 

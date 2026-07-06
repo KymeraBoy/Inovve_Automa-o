@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA ATRAS DA IGREJA CATOLICA 3
+ ETA-ESTA  O DE TRATAMENTO DE  GUA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492215
+CÓDIGO DO CLIENTE
+461080014
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2212289380   Energia Ativa            
+Único        
+320047,00
+323652,00
+    1,00000
+       3.605,00 
+ 2212289380   Energia Reativa          
+Único        
+188051,00
+190202,00
+    1,00000
+       2.151,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       3.605,00 
+       2.151,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+       3605
+ 32
+AGO25
+       3041
+ 30
+JUL25
+       4854
+ 32
+JUN25
+       6643
+ 30
+MAI25
+       6894
+ 31
+ABR25
+       6673
+ 28
+MAR25
+       7319
+ 31
+FEV25
+       6879
+ 29
+JAN25
+      10535
+ 31
+DEZ24
+      10139
+ 32
+NOV24
+       9716
+ 29
+OUT24
+      10068
+ 29
+SET24
+      11640
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        3.605,00 
+ 0,57222222 
+         2.062,86 
+            90,78 
+         2.062,86 
+20,00
+           412,57 
+ 0,43260000
+Consumo-TE
+kWh
+        3.605,00 
+ 0,41222222 
+         1.486,06 
+            65,37 
+         1.486,06 
+20,00
+           297,21 
+ 0,31164000
+Acrés.Bd.VERMELHA-P2
+           375,60 
+            16,52 
+           375,60 
+20,00
+            75,12 
+TRIBF-IRRF(1.2%)
+            47,08-
+TOTAL
+         3.877,44 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

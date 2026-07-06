@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA CORONEL CLEMENTINO MONTEIRO DE FARIAS 1 2
+ ILUMINA AO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1490790
+CÓDIGO DO CLIENTE
+747315019
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2240682063   Energia Ativa            
+Único        
+33.607,00
+36.702,00
+    1,00000
+       3.095,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       3.095,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+       3095
+ 30
+JUL25
+       3171
+ 32
+JUN25
+       2921
+ 30
+MAI25
+       2993
+ 31
+ABR25
+       2617
+ 28
+MAR25
+       2717
+ 31
+FEV25
+       2500
+ 29
+JAN25
+       2653
+ 31
+DEZ24
+       2756
+ 32
+NOV24
+       2518
+ 29
+OUT24
+       2252
+ 29
+SET24
+       2883
+ 33
+AGO24
+       2648
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        3.095,00 
+ 0,31737541 
+           982,27 
+            49,45 
+           982,27 
+20,00
+           196,46 
+ 0,23793000
+Consumo-TE
+kWh
+        3.095,00 
+ 0,22863088 
+           707,61 
+            35,60 
+           707,61 
+20,00
+           141,52 
+ 0,17140000
+Acrés. Band.VERMELHA
+            92,11 
+             4,62 
+            92,11 
+20,00
+            18,42 
+Acrés.Bd.VERMELHA-P2
+           162,58 
+             8,17 
+           162,58 
+20,00
+            32,51 
+TRIBF-IRRF(1.2%)
+            23,32-
+TOTAL
+         1.921,25 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

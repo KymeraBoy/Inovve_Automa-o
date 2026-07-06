@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ PO LAGOA DA SERRA 13 SN
+ ILUMINACAO PUBLICA
+ LAGOA DA SERRA/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1494565
+CÓDIGO DO CLIENTE
+674195010
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2181100349   Energia Ativa            
+Único        
+13.064,00
+13.454,00
+    1,00000
+         390,00  
+ 2181100349   Energia Reativa          
+Único        
+17.615,00
+17.924,00
+    1,00000
+         309,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         390,00  
+         309,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        390
+ 31
+AGO25
+        438
+ 32
+JUL25
+        443
+ 30
+JUN25
+        457
+ 32
+MAI25
+        296
+ 31
+ABR25
+        196
+ 28
+MAR25
+        145
+ 29
+FEV25
+        100
+ 31
+JAN25
+        225
+ 30
+DEZ24
+        240
+ 32
+NOV24
+        234
+ 30
+OUT24
+        220
+ 29
+SET24
+        219
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          390,00 
+ 0,31472222 
+           122,74 
+             5,41 
+           122,74 
+20,00
+            24,55 
+ 0,23793000
+Consumo-TE
+kWh
+          390,00 
+ 0,22671957 
+            88,42 
+             3,88 
+            88,42 
+20,00
+            17,68 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            40,63 
+             1,78 
+            40,63 
+20,00
+             8,12 
+Multa-NF 144257201
+             5,44 
+Juros-NF 144257201
+             0,08 
+TRIBF-IRRF(1.2%)
+             3,01-
+TRIBF-IRRF(4.8%)
+             0,25-
+TOTAL
+           254,05 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

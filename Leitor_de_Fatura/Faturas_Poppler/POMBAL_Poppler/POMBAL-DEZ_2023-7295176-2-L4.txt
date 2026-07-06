@@ -1,0 +1,163 @@
+========== DOMICILIO DE ENTREGA ==========
+ROTEIRO: 001 - 0227 - -
+MATRÍCULA: 7295176-2023-12-2
+DOM. BANC.:                    DOM. ENT.:
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICIPAL                               LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL POETA EM VERSOS
+
+RUA JOAO FELIX DE FRANCA - 58840000
+
+
+Janduhy Carneiro
+POMBAL
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2023   23/12/2023   R$ 34,97
+
+========== INFORMACOES ==========
+
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura                          Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh                                      20,00       0,773670         15,47        0,63          15,47   18       2,78   0,602190
+LANÇAMENTOS E SERVIÇOS
+DESPESA COM LIGAÇÃO PROVISÓRIA 12/2023                                           19,50
+
+
+
+
+                                                 TOTAL:                          34,97        0,63          15,47            2,78
+
+========== DADOS DE MEDICAO ==========
+Energia ativa em kWh   Ponta   0   0   20
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  7295176-2023-12-2              23/12/2023      2245402         R$ 34,97
+
+CONTA PAGA - Data de Pagamento: 19/12/2023
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/12/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0007295176-2
+
+========== DATAS DE LEITURA ==========
+
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/7295176-2
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          12,68    0,9062      0,11
+COFINS       12,68    4,1741      0,52
+ICMS         15,47     18,00      2,78
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/23
+              NOV/23
+              OUT/23
+              SET/23
+Consumo kWh
+
+
+
+
+              AGO/23
+              JUL/23
+              JUN/23
+              MAI/23
+              ABR/23
+              MAR/23
+              FEV/23
+              JAN/23
+              DEZ/22
+
+========== RESERVADO AO FISCO ==========
+15,47                   2,78
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+Serviço: LIGAÇÃO PROVISÓRIA
+CONFORME OFICIO Nº 045/2023 PM POMBAL, DATADO DE 04/12/23 E ASSINADO POR DJONIERISON
+JOSE SECRETARIO. AT CAMILLA
+
+========== PÁGINA 16 ==========
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+
+========== PÁGINA 17 ==========
+Serviço de distribuição        3,88    11,10
+Compra de energia              4,97    14,21
+Serviço de transmissão         1,33     3,80
+Encargos setoriais             1,88     5,38
+Impostos diretos e encargos    3,41     9,75
+Outros serviços               19,50    55,76
+Total                         34,97   100,00
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/23
+NOV/23
+OUT/23
+SET/23
+AGO/23
+JUL/23
+JUN/23
+MAI/23
+ABR/23
+MAR/23
+FEV/23
+JAN/23
+DEZ/22
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior:          Leitura Atual:     Dias:
+
+
+
+KWH   Ponta       0,00            0,00               0,00                        20,00             20,00
+
+
+
+
+                                                                    * KWTG: Dem Tusdg    * K: Const Med
+

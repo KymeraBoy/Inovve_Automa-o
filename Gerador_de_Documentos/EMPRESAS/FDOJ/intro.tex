@@ -1,7 +1,11 @@
 \ifnum\isREC=1
 \textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
 \else
+\ifnum\isOFI=1
+\textbf{OFÍCIO Nº \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\else
 \textbf{REQUERIMENTO Nº \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\fi
 \fi
 
 \textbf{À CONCESSIONÁRIA DE ENERGIA \nomeConcessionaria{}}
@@ -19,7 +23,11 @@
 \ifnum\isREC=1
 \textbf{ASSUNTO: RECLAMAÇÃO - \tituloDocumento{}}
 \else
+\ifnum\isOFI=1
+\textbf{ASSUNTO: OFÍCIO - \tituloDocumento{}}
+\else
 \textbf{ASSUNTO: REQUERIMENTO - \tituloDocumento{}}
+\fi
 \fi
 
 \vspace{0,25cm}

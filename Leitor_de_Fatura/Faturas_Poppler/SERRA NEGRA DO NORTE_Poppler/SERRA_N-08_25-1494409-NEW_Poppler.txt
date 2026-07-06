@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ PO BARRA DE SAO PEDRO 3 SN
+ POSTO DE SAUDE
+ BARRA DE SAO PEDRO/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1494409
+CÓDIGO DO CLIENTE
+688935016
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2180163851   Energia Ativa            
+Único        
+ 8.729,00
+ 8.921,00
+    1,00000
+         192,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         192,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        192
+ 30
+JUL25
+        207
+ 32
+JUN25
+        320
+ 30
+MAI25
+        160
+ 31
+ABR25
+        227
+ 28
+MAR25
+        265
+ 31
+FEV25
+        233
+ 29
+JAN25
+        126
+ 31
+DEZ24
+        136
+ 32
+NOV24
+        136
+ 29
+OUT24
+        178
+ 29
+SET24
+        171
+ 33
+AGO24
+        149
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          192,00 
+ 0,57704620 
+           110,79 
+             5,58 
+           110,79 
+20,00
+            22,16 
+ 0,43260000
+Consumo-TE
+kWh
+          192,00 
+ 0,41569736 
+            79,81 
+             4,01 
+            79,81 
+20,00
+            15,96 
+ 0,31164000
+Acrés. Band.VERMELHA
+             5,70 
+             0,28 
+             5,70 
+20,00
+             1,14 
+Acrés.Bd.VERMELHA-P2
+            10,08 
+             0,50 
+            10,08 
+20,00
+             2,01 
+TRIBF-IRRF(1.2%)
+             2,46-
+TOTAL
+           203,92 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA OTAVIANO AUGUSTO DE ARAUJO 100 SN
+ ILUMINACAO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492453
+CÓDIGO DO CLIENTE
+856235807
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2240833134   Energia Ativa            
+Único        
+ 2.760,00
+ 3.294,00
+    1,00000
+         534,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         534,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        534
+ 30
+JUL25
+        349
+ 32
+JUN25
+        322
+ 30
+MAI25
+        335
+ 31
+ABR25
+        296
+ 28
+MAR25
+        321
+ 31
+FEV25
+        282
+ 29
+JAN25
+        250
+ 31
+DEZ24
+        261
+ 32
+NOV24
+        264
+ 29
+OUT24
+        290
+ 29
+SET24
+        337
+ 33
+AGO24
+        312
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          534,00 
+ 0,31737541 
+           169,47 
+             8,54 
+           169,47 
+20,00
+            33,90 
+ 0,23793000
+Consumo-TE
+kWh
+          534,00 
+ 0,22863088 
+           122,08 
+             6,13 
+           122,08 
+20,00
+            24,41 
+ 0,17140000
+Acrés. Band.VERMELHA
+            15,88 
+             0,79 
+            15,88 
+20,00
+             3,17 
+Acrés.Bd.VERMELHA-P2
+            28,05 
+             1,41 
+            28,05 
+20,00
+             5,61 
+TRIBF-IRRF(1.2%)
+             4,02-
+TOTAL
+           331,46 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

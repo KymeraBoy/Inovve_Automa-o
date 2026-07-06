@@ -1,0 +1,177 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 003 - 0227 - 040 - 4800
+MATRÍCULA: 12534-2024-12-7
+DOM. BANC.:                                 DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL REPETIDORA DE TV
+
+RUA PROJETADA, S/N - 58840000
+
+
+NOVA VIDA
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2024   23/01/2025   R$ 515,53
+
+========== INFORMACOES ==========
+- Informamos que a partir de agora, não enviaremos mais as cartas de Geração Distribuída fisicamente. Mas não se preocupe! Essa carta estará disponível para consulta através do nosso site. Para acessar o demonstrativo,
+faça login na sua conta no site da Energisa e navegue até a seção de Geração Distribuída.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS        Tarifa
+Itens da Fatura                                          Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)    Unit (R$)
+Consumo em kWh                                                    3.098,00       0,782550      2.424,38      117,05       2.424,38   20      484,87    0,588270
+Energia Atv Injetada mUC 11/2024 mPT                              2.870,00       0,687080      -1.971,96     -108,43       -875,97   20      -175,19   0,588270
+Energia Atv Injetada mUC 10/2024 mPT                               201,00        0,687080       -138,10        -7,59        -61,35   20       -12,27   0,588270
+Ajuste GD - TRF Reduzida(Lei 14.300/22) - Convencional            3.071,00       0,065340        200,66        0,00           0,00   20        0,00    0,065343
+Adic. B. Amarela                                                                                   0,55        0,03           0,55   20         0,11
+
+
+
+
+                                                                 TOTAL:                          515,53        1,06       1.487,61           297,52
+
+========== DADOS DE MEDICAO ==========
+00000831794   Energia ativa em kWh   Ponta   55883   58981   1   3098
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   12534-2024-12-7               23/01/2025      4436360        R$ 515,53
+
+CONTA PAGA - Data de Pagamento: 22/01/2025
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/01/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000012534-4
+
+========== DATAS DE LEITURA ==========
+05/11/2024   06/12/2024   31   07/01/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/12534-4
+
+00000831794
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          17,36    1,0765       0,20
+COFINS       17,36    4,9583       0,86
+ICMS      1.487,61     20,00     297,52
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24                31
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+Consumo kWh
+
+
+
+
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                32
+              ABR/24                30
+              MAR/24                30
+              FEV/24                28
+              JAN/24                33
+              DEZ/23                29
+
+========== RESERVADO AO FISCO ==========
+1.487,61                 297,52
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+UC de compensação de energia classificada como GD_II, conforme Lei 14.300/22
+Saldo Acumulado: 0 A expirar no próximo ciclo: 0
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+
+========== PÁGINA 16 ==========
+DIC         12,00     1,07   0,00    0,00
+FIC          4,00     1,00   0,00    0,00
+DMIC         9,00     1,07
+DICRI       13,00
+
+
+Conjunto:    Pombal
+
+Referência:                     10/2024
+Tensão Contratada:
+Limite Adequado:              202 a 231
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      75,13    14,57
+Compra de energia                            87,39    16,95
+Serviço de transmissão                       19,37     3,76
+Encargos setoriais                           35,06     6,80
+Impostos diretos e encargos                 298,58    57,92
+Outros serviços                               0,00     0,00
+Total                                       515,53   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2024): R$ 79,28
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/24   3.098,00                         0,00
+NOV/24   2.812,00                         0,00
+OUT/24   3.090,00                         0,00
+SET/24   2.896,00                         0,00
+AGO/24   2.812,00                         0,00
+JUL/24   3.009,00                         0,00
+JUN/24   2.811,00                         0,00
+MAI/24   3.065,00                         0,00
+ABR/24   2.887,00                         0,00
+MAR/24   2.721,00                         0,00
+FEV/24   2.376,00                         0,00
+JAN/24   2.610,00                         0,00
+DEZ/23   2.035,00                         0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 05/11/2024      Leitura Atual: 06/12/2024   Dias: 31
+
+
+
+KWH   Ponta   58.981,00      55.883,00       1,00                                                 3.098,00          3.098,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

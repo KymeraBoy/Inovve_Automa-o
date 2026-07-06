@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA CORONEL CLEMENTINO MONTEIRO DE FARIAS 9999
+ ILUMINA  O P BLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1633715
+CÓDIGO DO CLIENTE
+856690890
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2160863350   Energia Ativa            
+Único        
+73.543,00
+74.424,00
+    1,00000
+         881,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         881,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        881
+ 30
+JUL25
+        968
+ 32
+JUN25
+        894
+ 30
+MAI25
+        925
+ 31
+ABR25
+        911
+ 28
+MAR25
+       1003
+ 31
+FEV25
+       1858
+ 29
+JAN25
+         30
+ 31
+DEZ24
+       1012
+ 32
+NOV24
+        766
+ 29
+OUT24
+       1094
+ 29
+SET24
+       1087
+ 33
+AGO24
+       1100
+ 25
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          881,00 
+ 0,31737541 
+           279,60 
+            14,08 
+           279,60 
+20,00
+            55,93 
+ 0,23793000
+Consumo-TE
+kWh
+          881,00 
+ 0,22863088 
+           201,42 
+            10,13 
+           201,42 
+20,00
+            40,28 
+ 0,17140000
+Acrés. Band.VERMELHA
+            26,21 
+             1,31 
+            26,21 
+20,00
+             5,24 
+Acrés.Bd.VERMELHA-P2
+            46,27 
+             2,32 
+            46,27 
+20,00
+             9,25 
+Comp.DMIC 06/25
+            35,57-
+TRIBF-IRRF(1.2%)
+             6,63-
+TOTAL
+           511,30 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

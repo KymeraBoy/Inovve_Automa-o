@@ -267,6 +267,7 @@ class IntegralaiserGUI:
             self.root.after(0, lambda: self.progress.config(value=0, maximum=100)) 
             self.root.after(0, lambda: self.btn_executar.config(state=tk.NORMAL))
 
+
 if __name__ == "__main__":
     root = tk.Tk()
     app = IntegralaiserGUI(root)

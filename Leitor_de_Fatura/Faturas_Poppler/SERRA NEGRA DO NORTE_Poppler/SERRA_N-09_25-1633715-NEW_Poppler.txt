@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA CORONEL CLEMENTINO MONTEIRO DE FARIAS 9999
+ ILUMINA  O P BLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1633715
+CÓDIGO DO CLIENTE
+856690890
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2160863350   Energia Ativa            
+Único        
+74.424,00
+75.374,00
+    1,00000
+         950,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         950,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        950
+ 32
+AGO25
+        881
+ 30
+JUL25
+        968
+ 32
+JUN25
+        894
+ 30
+MAI25
+        925
+ 31
+ABR25
+        911
+ 28
+MAR25
+       1003
+ 31
+FEV25
+       1858
+ 29
+JAN25
+         30
+ 31
+DEZ24
+       1012
+ 32
+NOV24
+        766
+ 29
+OUT24
+       1094
+ 29
+SET24
+       1087
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          950,00 
+ 0,31472222 
+           298,98 
+            13,15 
+           298,98 
+20,00
+            59,80 
+ 0,23793000
+Consumo-TE
+kWh
+          950,00 
+ 0,22671957 
+           215,38 
+             9,47 
+           215,38 
+20,00
+            43,07 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            98,98 
+             4,35 
+            98,98 
+20,00
+            19,79 
+TRIBF-IRRF(1.2%)
+             7,35-
+TOTAL
+           605,99 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

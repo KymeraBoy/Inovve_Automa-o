@@ -1,0 +1,29 @@
+\section{DOS ANEXOS}
+
+\begin{enumerate}[resume]
+\item Para a devida comprovação, juntam-se a este documento os anexos abaixo:
+  \begin{enumerate}
+    \item Anexo I – Instrumentos procuratórios
+    \item Anexo II – Documentos contratuais
+    \newcount\totalAditivos
+    \totalAditivos=0
+    \ifdefined\quantidadeAditivos
+      \totalAditivos=\quantidadeAditivos\relax
+    \else
+      \ifdefined\possuiAditivos
+        \ifnum\possuiAditivos=1
+          \totalAditivos=1
+        \fi
+      \fi
+    \fi
+    \ifnum\totalAditivos>0
+      \newcount\indiceAditivo
+      \indiceAditivo=1
+      \loop
+        \item Anexo \Roman{enumii} - Aditivo \number\indiceAditivo
+        \advance\indiceAditivo by 1
+      \ifnum\indiceAditivo<\numexpr\totalAditivos+1\relax
+      \repeat
+    \fi
+  \end{enumerate}
+\end{enumerate}

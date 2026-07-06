@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA ATRAS DA IGREJA CATOLICA 1 A
+ BARRAGEM DINAMARCA-CAPTA  O DE  GUA BRUT
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492216
+CÓDIGO DO CLIENTE
+739334012
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2180702906   Energia Ativa            
+Único        
+18.217,00
+39.364,00
+    1,00000
+      21.147,00 
+ 2180702906   Energia Reativa          
+Único        
+612570,00
+619557,00
+    1,00000
+       6.987,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+      21.147,00 
+       6.987,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+      21147
+ 30
+JUL25
+      21339
+ 32
+JUN25
+      18336
+ 30
+MAI25
+      19935
+ 31
+ABR25
+      15518
+ 28
+MAR25
+      18565
+ 31
+FEV25
+      17146
+ 29
+JAN25
+      18048
+ 31
+DEZ24
+      16777
+ 32
+NOV24
+      12400
+ 29
+OUT24
+      12868
+ 29
+SET24
+       4934
+ 33
+AGO24
+      14509
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+       21.147,00 
+ 0,57704620 
+        12.202,79 
+           614,07 
+        12.202,79 
+20,00
+         2.440,56 
+ 0,43260000
+Consumo-TE
+kWh
+       21.147,00 
+ 0,41569736 
+         8.790,75 
+           442,34 
+         8.790,75 
+20,00
+         1.758,15 
+ 0,31164000
+Acrés. Band.VERMELHA
+           629,45 
+            31,66 
+           629,45 
+20,00
+           125,89 
+Acrés.Bd.VERMELHA-P2
+         1.110,96 
+            55,89 
+         1.110,96 
+20,00
+           222,19 
+TRIBF-IRRF(1.2%)
+           272,80-
+TOTAL
+        22.461,15 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

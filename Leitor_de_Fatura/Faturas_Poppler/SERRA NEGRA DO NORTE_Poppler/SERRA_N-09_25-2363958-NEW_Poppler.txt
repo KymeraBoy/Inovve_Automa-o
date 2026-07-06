@@ -1,0 +1,158 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA SENADOR JOSE BERNARDO 100
+ SE - ESTA  O DE TRATAMENTO DE AGUA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2363958
+CÓDIGO DO CLIENTE
+7006287675
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 50514498
+  Energia Ativa            
+Único        
+106568,00
+107510,00
+    0,36000
+         339,12  
+ 50514498
+  Energia Reativa          
+Único        
+14.287,00
+14.378,00
+    0,36000
+          32,76
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         339,12  
+          32,76
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        348
+ 32
+AGO25
+        521
+ 30
+JUL25
+        241
+ 32
+JUN25
+        272
+ 30
+MAI25
+        186
+ 31
+ABR25
+        100
+ 28
+MAR25
+        220
+ 31
+FEV25
+        623
+ 29
+JAN25
+        100
+ 31
+DEZ24
+        100
+ 32
+NOV24
+        100
+ 29
+OUT24
+        100
+ 29
+SET24
+        100
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          347,60 
+ 0,57222222 
+           198,90 
+             8,77 
+           198,90 
+20,00
+            39,78 
+ 0,43260000
+BAND.VERMELHA-PATAM2
+Consumo-TE
+kWh
+          347,60 
+ 0,51641534 
+           179,50 
+             7,89 
+           179,50 
+20,00
+            35,90 
+ 0,39041000
+Cons.Reat.Excedente
+kVARh
+           33,58 
+ 0,41222222 
+            13,84 
+             0,59 
+            13,84 
+20,00
+             2,76 
+ 0,31164000
+TRIBF-IRRF(1.2%)
+             4,69-
+TOTAL
+           387,55 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

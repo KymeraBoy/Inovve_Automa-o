@@ -1,14 +1,22 @@
 \ifnum\isREC=1
 \textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipio{} - \siglaEstado{}}
 \else
+\ifnum\isOFI=1
+\textbf{OFÍCIO Nº \numReclamacao{} - \nomeMunicipio{} - \siglaEstado{}}
+\else
 \textbf{PETIÇÃO Nº \numReclamacao{} - \nomeMunicipio{} - \siglaEstado{}}
+\fi
 \fi
 
 \textbf{À \nomeConcessionaria{}}
 
 \textbf{CNPJ: \cnpjConcessionaria{}}
 
+\ifnum\isOFI=1
+\textbf{ASSUNTO: \tituloDocumento{}}
+\else
 \textbf{SERVIÇO PÚBLICO E GOVERNAMENTAL}
+\fi
 
 \ifnum\hasUC=1
 \textbf{Unidade consumidora: \unidadeConsumidora{}}
@@ -18,8 +26,11 @@
 
 O município de \nomeMunicipio{}-\siglaEstado{}, inscrito no CNPJ N°: \cnpjMunicipio{}, pessoa jurídica de direito público interno, com sede à \sedePrefeitura{}, neste ato representado \generoPrefeitura{} Constitucional \nomePrefeito{}, por meio do representante legal Rudá Pereira Brasil, vem, respeitosamente, à presença de Vossa Senhoria, com fundamento na legislação aplicável, especialmente nas disposições da Resolução Normativa ANEEL nº 1.000/2021, do Código de Defesa do Consumidor, e demais normas pertinentes,
 \ifnum\isREC=1
-apresentar a presente reclamação sobre \tituloDocumento{},
+apresentar a presente reclamação sobre \tituloDocumento{}, pelos fundamentos de fato e de direito que passa a expor.
 \else
-apresentar a presente petição sobre \tituloDocumento{},
+\ifnum\isOFI=1
+requerer o que se segue:
+\else
+apresentar a presente petição sobre \tituloDocumento{}, pelos fundamentos de fato e de direito que passa a expor.
 \fi
-pelos fundamentos de fato e de direito que passa a expor.
+\fi

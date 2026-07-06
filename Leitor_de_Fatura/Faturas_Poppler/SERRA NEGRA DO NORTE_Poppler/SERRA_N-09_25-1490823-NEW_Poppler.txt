@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA JUVENAL LAMARTINE 100 SN
+ ILUMINACAO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1490823
+CÓDIGO DO CLIENTE
+856236544
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2170856387   Energia Ativa            
+Único        
+56.591,00
+57.186,00
+    1,00000
+         595,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         595,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        595
+ 32
+AGO25
+        566
+ 30
+JUL25
+        609
+ 32
+JUN25
+        566
+ 30
+MAI25
+        579
+ 31
+ABR25
+        518
+ 28
+MAR25
+        459
+ 31
+FEV25
+        491
+ 29
+JAN25
+        493
+ 31
+DEZ24
+        525
+ 32
+NOV24
+        520
+ 29
+OUT24
+        530
+ 29
+SET24
+        613
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          595,00 
+ 0,31472222 
+           187,25 
+             8,25 
+           187,25 
+20,00
+            37,46 
+ 0,23793000
+Consumo-TE
+kWh
+          595,00 
+ 0,22671957 
+           134,89 
+             5,92 
+           134,89 
+20,00
+            26,97 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            61,98 
+             2,72 
+            61,98 
+20,00
+            12,39 
+TRIBF-IRRF(1.2%)
+             4,60-
+TOTAL
+           379,52 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

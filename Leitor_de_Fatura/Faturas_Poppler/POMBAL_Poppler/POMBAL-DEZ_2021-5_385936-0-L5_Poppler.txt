@@ -1,0 +1,137 @@
+========== DOMICILIO DE ENTREGA E CLIENTE ==========
+PM POMBAL POSTO TELEFONICO
+
+DOMICÍLIO DE ENTREGA
+PM POMBAL POSTO TELEFONICO
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO SN - CENTRO
+POMBAL (AG: 227)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 011 - 0227 - 801 - 1880                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008111091                            DOM. BANC.:
+MATRÍCULA: 385936-2021-12-9                            DOM. ENT.: 9999227001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+SIT VARZEA COMPRIDA, S/N
+AREA RURAL
+POMBAL (AG: 227)
+
+
+
+                                                                     0000385936-0
+
+========== UNIDADE CONSUMIDORA ==========
+5/385936-0
+
+========== VALOR, REFERENCIA E CNPJ ==========
+R$ 30,69
+
+
+              Dezembro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== VENCIMENTO, CONSUMO E RESERVADO AO FISCO ==========
+23/01/2022
+               0,94 kWh
+             MÉDIA DIÁRIA
+30 kWh
+
+========== SITUACAO DE DEBITOS ==========
+
+
+========== DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA ==========
+21/12/2021   04/01/2022   19/01/2022
+
+========== DESCRITIVO ==========
+TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   24,80         24,80   25      6,20           18,60        0,12          0,57
+0601 Adic. B. Amarela                                                            2,16          2,16   25      0,54            1,62        0,01          0,05
+0601 Adic. B. Vermelha                                                           3,73          3,73   25      0,93            2,79        0,02          0,08
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:          30,69         30,69           7,67           23,01        0,15          0,70
+
+========== INFORMACOES FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  385936-2021-12-9           23/01/2022         76612852       R$ 30,69
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+
+========== PÁGINA 9 ==========
+- Imóvel fechado sem acesso ao medidor - Art. 87 da Res. 414 - ANEEL
+
+========== PÁGINA 10 ==========
+DIC         11,30     2,58   22,61   45,22
+FIC          7,59     1,00   15,19   30,39
+DMIC         6,19     2,58
+DICRI       16,60
+
+
+Conjunto:    Pombal
+
+Referência:                      10/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+========== PÁGINA 11 ==========
+Serviço de distribuição                      6,11 19,90
+Compra de energia                           12,60 41,06
+Serviço de transmissão                       1,38   4,50
+Encargos setoriais                           2,08   6,78
+Impostos diretos e encargos                  8,52 27,76
+Outros serviços                              0,00   0,00
+Total                                       30,69 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2021): R$ 10,23
+
+========== PÁGINA 12 ==========
+- Comunicamos que por falta de acesso ao equipamento de medição,
+NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao
+medidor garante o faturamento correto da conta de energia,
+evitando faturamentos pela média e consumos acumulados.
+Notificamos a necessidade de liberar o acesso ao local da
+medição, caso contrário, o fornecimento de energia poderá
+ser suspenso, conforme previsto no Art.355 RES 1000 ANEEL.
+
+========== PÁGINA 13 ==========
+2   DEZ/21     30,00 *
+9   NOV/21     30,00 *
+    OUT/21      0,00 *
+    SET/21      0,00 *
+    AGO/21      0,00 *
+    JUL/21      0,00 *
+    JUN/21      0,00 *
+    MAI/21      0,00 *
+    ABR/21      0,00 *
+    MAR/21      0,00
+    FEV/21      0,00 *
+    JAN/21      0,00 *
+    DEZ/20      0,00 *
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 14 ==========
+Leitura Anterior: 18/11/2021   Leitura Atual: 20/12/2021   Dias: 32
+
+
+KWH   Ponta   9.699,00     9.669,00      1              0                                   30,00          30,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

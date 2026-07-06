@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ FZ ROLINHA 9
+ POSTO DE SAUDE MUNICIPAL DA ROLINHA
+ ZONA RURAL/AREA RURAL
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1493636
+CÓDIGO DO CLIENTE
+853582506
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2240830186   Energia Ativa            
+Único        
+ 1.350,00
+ 1.520,00
+    1,00000
+         170,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         170,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        170
+ 31
+AGO25
+        121
+ 32
+JUL25
+        107
+ 30
+JUN25
+        112
+ 32
+MAI25
+        118
+ 31
+ABR25
+        102
+ 28
+MAR25
+        124
+ 29
+FEV25
+        107
+ 31
+JAN25
+        114
+ 30
+DEZ24
+        133
+ 32
+NOV24
+        196
+ 30
+OUT24
+        140
+ 29
+SET24
+        135
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          170,00 
+ 0,57222222 
+            97,27 
+             4,29 
+            97,27 
+20,00
+            19,46 
+ 0,43260000
+Consumo-TE
+kWh
+          170,00 
+ 0,41222222 
+            70,07 
+             3,07 
+            70,07 
+20,00
+            14,01 
+ 0,31164000
+Acrés.Bd.VERMELHA-P2
+            17,71 
+             0,77 
+            17,71 
+20,00
+             3,54 
+TRIBF-IRRF(1.2%)
+             2,21-
+TOTAL
+           182,84 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

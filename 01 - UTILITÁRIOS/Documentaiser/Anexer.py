@@ -60,18 +60,13 @@ def contar_paginas_pdf(caminho_pdf: str | Path) -> int:
 
 print(contar_paginas_pdf(r"C:\Users\Usuário 1\OneDrive\PASTA ENERGIA 1\PARCEIROS\Municípios Thamires e Ruda\Paraíba\Aguiar\Documentos\Contratuais\documentaiser_export\AGUIAR - ANEXO I - INSTRUMENTOS PROCURATÓRIOS.pdf"))
 
-[PROC, RAS_PROC, KIT]
-[CRT, RAS_CRT,PUB_CRT]
-[ADT_XX, RAS_ADT_XX, PUB_ADT_XX]
 
-
-
-
-pags_anexo_i    = [1, 1, 1, 1]
-pags_anexo_ii   = [1, 3, 2]
+municipio = "POÇO DE JOSÉ DE MOURA - PB"
+pags_anexo_i    = [1, 4, 13, 6, 1]
+pags_anexo_ii   = [11, 8, 2]
 vetor_de_aditivos = [
-    [1, 2],       # 1º Aditivo (tamanho 3: não tem validação)
-    [1, 3, 4]    # 2º Aditivo (tamanho 4: tem validação)
+    [3, 9, 3],       # 1º Aditivo (tamanho 3: não tem validação)
+    # [1, 3, 4]    # 2º Aditivo (tamanho 4: tem validação)
 ]
 
 pags_anexo_i    = calcular_paginas_acumuladas(pags_anexo_i)
@@ -80,11 +75,12 @@ vetor_de_aditivos = [calcular_paginas_acumuladas(aditivo) for aditivo in vetor_d
 
 # Formação do Anexo I
 if len(pags_anexo_i) in [5, 6]:
-    paginas = iter(pags_anexo_i)      
+    paginas = iter(pags_anexo_i)  
+    procuracao = next(paginas)    
     rel_ass_procuracao = fr"\item Validação das assinaturas \dotfill {next(paginas)}" if len(pags_anexo_i) == 6 else ""
     anexo_i = fr"""\textbf{{Anexo I -- Instrumentos procuratórios \dotfill 1}}
 \begin{{enumerate}}
-    \item Procuração \dotfill {next(paginas)} 
+    \item Procuração \dotfill {procuracao} 
     {rel_ass_procuracao}
     \item Kit prefeito \dotfill {next(paginas)}
     \item Contrato Social da Empresa \dotfill {next(paginas)} 
@@ -145,6 +141,7 @@ for idx, pags_aditivo in enumerate(vetor_de_aditivos, start=3):
         print(fr"Quantidade de documentos do aditivo (Anexo {to_roman(idx)}) não válida.")
 
 modificadores = {
+    "SUMÁRIO":                  "SUMÁRIO - " + municipio,
     "<<ANEXO I>>":              anexo_i,
     "<<ANEXO II>>":             anexo_ii,
     "<<ANEXO DE ADITIVOS>>":    aditivos_acumulados_latex,

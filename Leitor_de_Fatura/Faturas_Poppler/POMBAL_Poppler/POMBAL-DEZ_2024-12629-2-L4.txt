@@ -1,0 +1,164 @@
+========== DOMICILIO DE ENTREGA ==========
+ROTEIRO: 001 - 0227 - 020 - 0460
+MATRÍCULA: 7309717-2024-12-5
+DOM. BANC.:                        DOM. ENT.:
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICI                                  LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL SECRETARIA DE
+INFRAESTRUTURA
+RUA DOMINGOS DE MEDEIROS, 46 - - 58840000
+
+
+CENTRO
+POMBAL
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2024   23/02/2025   R$ 1.846,80
+
+========== INFORMACOES ==========
+
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh Recuperado            2.276,00                     1.770,43       77,22       1.770,43   20      354,09
+Adic. B. Amarela P                                                   13,02        0,57          13,02   20        2,60
+Adic. B. Vermelha P                                                  63,35        2,76          63,35   20       12,67
+
+
+
+
+                                    TOTAL:                        1.846,80       80,55       1.846,80           369,36
+
+========== DADOS DE MEDICAO ==========
+00009003717   Energia ativa em kWh   Ponta   2276
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                  VENCIMENTO            Nº FATURA   TOTAL A PAGAR
+  7309717-2024-12-5              23/02/2025           4513008       R$ 1.846,80
+
+83630000018-6 46800054000-4 73097172024-0 12500227019-2
+
+
+
+(YiPaB{B{JjQxNeB{JwBvB{KkDmIlClDjJdMsB{GdA|Sg)
+
+========== APRESENTACAO ==========
+Data de Apresentação: 19/12/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0007309717-2
+
+========== DATAS DE LEITURA ==========
+
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/12629-2
+
+00009003717
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS       1.478,04    0,9722      14,37
+COFINS    1.478,04    4,4775      66,18
+ICMS      1.846,80     20,00     369,36
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24
+              NOV/24
+              OUT/24
+              SET/24
+Consumo kWh
+
+
+
+
+              AGO/24
+              JUL/24
+              JUN/24
+              MAI/24
+              ABR/24
+              MAR/24
+              FEV/24
+              JAN/24
+              DEZ/23
+
+========== RESERVADO AO FISCO ==========
+1.846,80   369,36
+
+========== PÁGINA 15 ==========
+PARCELA 1 /2 REFERENTE À RECUPERAÇÃO DE CONSUMO; 90 DIAS
+PREZADO CLIENTE, NEGOCIE MELHORES CONDIÇÕES EM NOSSA AGENCIA DE ATENDIMENTO.
+RED original - 7309716
+
+========== PÁGINA 16 ==========
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+
+========== PÁGINA 17 ==========
+Serviço de distribuição        483,74     26,20
+Compra de energia              562,67     30,47
+Serviço de transmissão         124,74      6,75
+Encargos setoriais             225,74     12,22
+Impostos diretos e encargos    449,91     24,36
+Outros serviços                   0,00     0,00
+Total                         1.846,80   100,00
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/24
+NOV/24
+OUT/24
+SET/24
+AGO/24
+JUL/24
+JUN/24
+MAI/24
+ABR/24
+MAR/24
+FEV/24
+JAN/24
+DEZ/23
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior:   Leitura Atual:   Dias:
+
+
+
+KWH   Ponta                                                           2.276,00          2.276,00
+
+
+
+
+                                                           * KWTG: Dem Tusdg     * K: Const Med
+

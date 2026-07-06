@@ -1,0 +1,169 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PM POMBAL PRACA SANTA ROSA
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CENTRO
+POMBAL (AG: 227)
+
+ROTEIRO: 002 - 0227 - 025 - 4480
+MATRÍCULA: 1458071-2022-12-3
+DOM. BANC.:                                 DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA              LIGAÇÃO: MONOFASICO
+
+========== CLIENTE ==========
+PM POMBAL PRACA SANTA ROSA
+
+RUA ADMILSON LEITE DE ALMEIDA, SN - 58840000
+
+
+NOVA VIDA
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2022   23/01/2023   R$ 620,76
+
+========== INFORMACOES ==========
+- Informamos que a partir deste mês a classe de consumo de sua unidade foi alterada de acordo com a atividade nela exercida e a finalidade da utilização da energia elétrica. - HIV/AIDS: O CUIDADO COMEÇA COM A
+PREVENÇÃO.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh             1.469,00       0,422570        620,76       24,99         620,76   18      111,73   0,329500
+
+
+
+
+                          TOTAL:                          620,76       24,99         620,76           111,73
+
+========== DADOS DE MEDICAO ==========
+W5143752571   Energia ativa em kWh   Ponta   9807   11276   1   1469
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1458071-2022-12-3              23/01/2023      413268         R$ 620,76
+
+CONTA PAGA - Data de Pagamento: 23/01/2023
+
+========== APRESENTACAO ==========
+Data de Apresentação: 03/01/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001458071-6
+
+========== DATAS DE LEITURA ==========
+04/11/2022   06/12/2022   32   06/01/2023
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/1458071-6
+
+W5143752571
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         509,02    0,8759      4,46
+COFINS      509,02    4,0342     20,53
+ICMS        620,76     18,00     111,73
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/22                32
+              NOV/22                30
+              OUT/22                29
+              SET/22                33
+Consumo kWh
+
+
+
+
+              AGO/22                30
+              JUL/22                33
+              JUN/22                28
+              MAI/22                31
+              ABR/22                31
+              MAR/22                30
+              FEV/22                28
+              JAN/22                33
+              DEZ/21                30
+
+========== RESERVADO AO FISCO ==========
+620,76                 111,73
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+- Instalação de entrada de energia fora do padrão
+
+========== PÁGINA 16 ==========
+DIC         12,00     0,00   0,00    0,00
+FIC          4,00     0,00   0,00    0,00
+DMIC         9,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Pombal
+
+Referência:                     10/2022
+Tensão Contratada:
+Limite Adequado:              202 a 231
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                     120,82    19,47
+Compra de energia                           214,04    34,48
+Serviço de transmissão                       31,41     5,06
+Encargos setoriais                          117,77    18,97
+Impostos diretos e encargos                 136,72    22,02
+Outros serviços                               0,00     0,00
+Total                                       620,76   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2022): R$ 422,93
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/22   1.469,00                         0,00
+NOV/22   1.259,00                         0,00
+OUT/22   1.186,00                         0,00
+SET/22   1.350,00                         0,00
+AGO/22   1.276,00                         0,00
+JUL/22   1.420,00                         0,00
+JUN/22   1.175,00                         0,00
+MAI/22   1.244,00                         0,00
+ABR/22     897,00                         0,00
+MAR/22   1.108,00                         0,00
+FEV/22   1.094,00 *                       0,00
+JAN/22   1.269,00                         0,00
+DEZ/21   1.063,00                         0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 04/11/2022      Leitura Atual: 06/12/2022   Dias: 32
+
+
+
+KWH   Ponta   11.276,00       9.807,00       1,00                                                 1.469,00          1.469,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

@@ -1,0 +1,140 @@
+========== DOMICILIO DE ENTREGA E CLIENTE ==========
+PM POMBAL UBS NOVA VIDA
+
+DOMICÍLIO DE ENTREGA
+PM POMBAL UBS NOVA VIDA
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO SN - CENTRO
+POMBAL (AG: 227)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 003 - 0227 - 040 - 4610                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7010549873                            DOM. BANC.:
+MATRÍCULA: 1937061-2021-12-7                           DOM. ENT.: 9999227003
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA MARINETE DE SOUSA, S/N
+POPULARES
+POMBAL (AG: 227)
+
+
+
+                                                                     0001937061-8
+
+========== UNIDADE CONSUMIDORA ==========
+5/1937061-8
+
+========== VALOR, REFERENCIA E CNPJ ==========
+R$ 2.182,10
+
+
+              Dezembro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== VENCIMENTO, CONSUMO E RESERVADO AO FISCO ==========
+23/01/2022
+              66,63 kWh
+             MÉDIA DIÁRIA
+2.132 kWh
+
+========== SITUACAO DE DEBITOS ==========
+
+
+========== DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA ==========
+08/12/2021   04/01/2022   07/01/2022
+
+========== DESCRITIVO ==========
+TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                      2.132,00    0,596920    0,826800    1.762,77      1.762,77   25      440,69       1.322,08        8,81         40,63
+0601 Adic. B. Amarela                                                          327,68        327,68   25       81,92         245,76        1,64          7,55
+0601 Adic. B. Vermelha                                                          91,65         91,65   25       22,91          68,74        0,46          2,11
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:       2.182,10      2.182,10           545,52       1.636,58       10,91         50,29
+
+========== INFORMACOES FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1937061-2021-12-7          23/01/2022         75728483      R$ 2.182,10
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+
+========== PÁGINA 9 ==========
+- Leitura confirmada
+
+========== PÁGINA 10 ==========
+DIC          5,91     0,00   11,82   23,64
+FIC          3,30     0,00    6,60   13,20
+DMIC         3,46     0,00
+DICRI       12,22
+
+
+Conjunto:    Pombal
+
+Referência:                      10/2021
+Tensão Contratada:
+Limite Adequado:               350 a 399
+
+========== PÁGINA 11 ==========
+Serviço de distribuição                      434,02 19,90
+Compra de energia                            895,60 41,04
+Serviço de transmissão                        97,99    4,49
+Encargos setoriais                           147,77    6,77
+Impostos diretos e encargos                  606,72 27,80
+Outros serviços                                0,00    0,00
+Total                                       2.182,10 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2021): R$ 638,72
+
+========== PÁGINA 12 ==========
+-Conforme determinação da Aneel, clientes inscritos na Tarifa
+Social terão a bandeira tarifária verde neste mês.
+A bandeira não tem custo extra.
+Para os demais clientes, a bandeira vigente é a de Escassez
+Hídrica, que indica condições críticas para geração hidrelétrica
+no país.
+A cobrança consta no campo “descritivo” da sua conta no item
+0601, que soma a bandeira vermelha,
+totalizando R$ 14,20 a cada 100 kWh consumidos.
+O valor é estabelecido pela Aneel.
+
+========== PÁGINA 13 ==========
+4   DEZ/21   2.132,00
+0   NOV/21   1.818,00
+    OUT/21   1.872,00
+    SET/21   1.988,00
+    AGO/21   1.729,00
+    JUL/21   1.675,00
+    JUN/21   1.393,00
+    MAI/21   1.573,00
+    ABR/21   1.608,00
+    MAR/21   1.860,00
+    FEV/21   1.568,00
+    JAN/21   1.508,00
+    DEZ/20   1.708,00
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 14 ==========
+Leitura Anterior: 05/11/2021   Leitura Atual: 07/12/2021   Dias: 32
+
+
+KWH   Ponta   41.547,00    39.415,00      1                                               2.132,00       2.132,00
+
+
+
+
+                                                                                       * K : Constante do Medidor
+

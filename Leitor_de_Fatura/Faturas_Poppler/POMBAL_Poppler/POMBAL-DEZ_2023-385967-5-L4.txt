@@ -1,0 +1,177 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 011 - 0227 - 801 - 6498
+MATRÍCULA: 385967-2023-12-0
+DOM. BANC.:                                 DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL BOMBA
+
+SIT VARZEA COMPRIDA, S/N - 58840000
+
+
+AREA RURAL
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2023   23/01/2024   R$ 290,13
+
+========== INFORMACOES ==========
+-"Problemas com alcoolismo? Nós podemos ajudar – Ligue: (83) 3222-4557 / 9 8658-4556” - Alcoólicos Anônimos na Paraíba
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              375,00       0,773670        290,13       12,08         290,13   18      52,22   0,602190
+
+
+
+
+                          TOTAL:                         290,13       12,08         290,13           52,22
+
+========== DADOS DE MEDICAO ==========
+00001063113   Energia ativa em kWh   Ponta   72994   73369   1   375
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   385967-2023-12-0              23/01/2024      2328531        R$ 290,13
+
+CONTA PAGA - Data de Pagamento: 23/01/2024
+
+========== APRESENTACAO ==========
+Data de Apresentação: 10/01/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0000385967-5
+
+========== DATAS DE LEITURA ==========
+20/11/2023   19/12/2023   29   18/01/2024
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/385967-5
+
+00001063113
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         237,90    0,9062      2,15
+COFINS      237,90    4,1741      9,93
+ICMS        290,13     18,00     52,22
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/23                29
+              NOV/23                32
+              OUT/23                30
+              SET/23                33
+Consumo kWh
+
+
+
+
+              AGO/23                29
+              JUL/23                28
+              JUN/23                29
+              MAI/23                33
+              ABR/23                30
+              MAR/23                31
+              FEV/23                30
+              JAN/23                35
+              DEZ/22                31
+
+========== RESERVADO AO FISCO ==========
+290,13                  52,22
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+
+
+EMITIDO EM CONTINGÊNCIA Pendente de Autorização
+
+========== PÁGINA 15 ==========
+- Segurança e Saúde no Trabalho. A prevenção é sempre o melhor caminho.
+- A vida em primeiro lugar". Tribunal Regional do Trabalho da 13ª Região
+- Leitura confirmada
+- Segurança e Saúde no Trabalho. A prevenção é sempre o melhor caminho.
+- A vida em primeiro lugar". Tribunal Regional do Trabalho da 13ª Região
+- Leitura confirmada
+
+========== PÁGINA 16 ==========
+DIC         24,00     0,00   0,00    0,00
+FIC          6,00     0,00   0,00    0,00
+DMIC        18,00     0,00
+DICRI       26,00
+
+
+Conjunto:    Pombal
+
+Referência:                     10/2023
+Tensão Contratada:
+Limite Adequado:              202 a 231
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      72,64    25,04
+Compra de energia                            92,97    32,04
+Serviço de transmissão                       24,95     8,60
+Encargos setoriais                           35,27    12,16
+Impostos diretos e encargos                  64,30    22,16
+Outros serviços                               0,00     0,00
+Total                                       290,13   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2023): R$ 381,59
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/23     375,00
+NOV/23   1.120,00
+OUT/23   1.796,00
+SET/23   1.862,00
+AGO/23   1.550,00
+JUL/23   1.403,00
+JUN/23   1.551,00
+MAI/23   1.512,00
+ABR/23   1.053,00
+MAR/23   1.406,00
+FEV/23   1.237,00
+JAN/23   1.807,00
+DEZ/22   1.499,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 20/11/2023      Leitura Atual: 19/12/2023   Dias: 29
+
+
+
+KWH   Ponta   73.369,00      72.994,00       1,00                                                  375,00            375,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

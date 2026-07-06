@@ -1,0 +1,157 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA OTAVIANO AUGUSTO DE ARAUJO 127
+ ESTA  O ELEVAT RIA  DE ESGOTO
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2244329
+CÓDIGO DO CLIENTE
+7004091480
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2190373544   Energia Ativa            
+Único        
+92.316,00
+93.658,00
+    1,00000
+       1.342,00 
+ 2190373544   Energia Reativa          
+Único        
+71.662,00
+72.944,00
+    1,00000
+       1.282,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.342,00 
+       1.282,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+       1342
+ 30
+JUL25
+        999
+ 32
+JUN25
+        356
+ 30
+MAI25
+        456
+ 31
+ABR25
+       1486
+ 28
+MAR25
+       1536
+ 31
+FEV25
+       1441
+ 29
+JAN25
+        492
+ 31
+DEZ24
+       1646
+ 32
+NOV24
+       1518
+ 29
+OUT24
+       1129
+ 29
+SET24
+       1603
+ 33
+AGO24
+       1389
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.342,00 
+ 0,57704620 
+           774,39 
+            38,98 
+           774,39 
+20,00
+           154,89 
+ 0,43260000
+Consumo-TE
+kWh
+        1.342,00 
+ 0,41569736 
+           557,86 
+            28,06 
+           557,86 
+20,00
+           111,57 
+ 0,31164000
+Acrés. Band.VERMELHA
+            39,93 
+             2,00 
+            39,93 
+20,00
+             7,98 
+Acrés.Bd.VERMELHA-P2
+            70,49 
+             3,54 
+            70,49 
+20,00
+            14,09 
+TRIBF-IRRF(1.2%)
+            17,30-
+TOTAL
+         1.425,37 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

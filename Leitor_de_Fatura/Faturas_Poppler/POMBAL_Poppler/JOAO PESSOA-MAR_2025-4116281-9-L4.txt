@@ -1,0 +1,170 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CEP:58840000 - CENTRO
+POMBAL PB (AG: 1)
+
+ROTEIRO: 009 - 0001 - 197 - 1840
+MATRÍCULA: 4116281-2025-3-8
+DOM. BANC.:                                   DOM. ENT.: 9999227003
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL CASA DE APOIO
+
+RUA MAJ JADER CARVALHO NUNES, 155 - 58015740
+
+
+JAGUARIBE
+JOAO PESSOA (AG: 1)
+
+
+CNPJ/CPF/RANI: 1X.XXX.XXX/XXX1-03
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Março / 2025   23/04/2025   R$ 305,55
+
+========== INFORMACOES ==========
+
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh             KWH        395,00       0,782930        309,26       15,04         309,26   20      61,85   0,588270
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                             -3,71       0,00           0,00            0,00
+
+
+
+
+                                    TOTAL:                         305,55       15,04         309,26           61,85
+
+========== DADOS DE MEDICAO ==========
+W7034799421   Energia ativa em kWh   Ponta   10130   10525   1   395
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  4116281-2025-3-8      23/04/2025       5078707        R$ 305,55
+
+FATURAMENTO AGRUPADO
+
+========== APRESENTACAO ==========
+Data de Apresentação: 03/04/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0004116281-9
+
+========== DATAS DE LEITURA ==========
+14/02/2025   17/03/2025   31   14/04/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/4116281-9
+
+W7034799421
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         247,40    1,0845      2,68
+COFINS      247,40    4,9955     12,36
+ICMS        309,26     20,00     61,85
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              MAR/25                31
+              FEV/25                30
+              JAN/25                30
+              DEZ/24                33
+Consumo kWh
+
+
+
+
+              NOV/24                28
+              OUT/24                30
+              SET/24                32
+              AGO/24                30
+              JUL/24                32
+              JUN/24                30
+              MAI/24                30
+              ABR/24                32
+              MAR/24                28
+
+========== RESERVADO AO FISCO ==========
+309,26                  61,85
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+.
+
+========== PÁGINA 16 ==========
+DIC          7,00    0,00   999,00   999,00
+FIC          4,00    0,00   999,00   999,00
+DMIC         5,00    0,00
+DICRI       13,00
+
+
+Conjunto:    João Pessoa
+
+Referência:                      01/2025
+Tensão Contratada:
+Limite Adequado:               350 a 399
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      80,47    26,02
+Compra de energia                            93,60    30,27
+Serviço de transmissão                       20,75     6,71
+Encargos setoriais                           37,55    12,14
+Impostos diretos e encargos                  76,89    24,86
+Outros serviços                               0,00     0,00
+Total                                       309,26   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 01/2025): R$ 71,66
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+MAR/25    395,00
+FEV/25    409,00
+JAN/25    329,00
+DEZ/24    443,00
+NOV/24    352,00
+OUT/24    354,00
+SET/24    383,00
+AGO/24    368,00
+JUL/24    362,00
+JUN/24    364,00
+MAI/24    395,00
+ABR/24    396,00
+MAR/24    374,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 14/02/2025      Leitura Atual: 17/03/2025   Dias: 31
+
+
+
+KWH   Ponta   10.525,00      10.130,00       1,00                                                  395,00            395,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

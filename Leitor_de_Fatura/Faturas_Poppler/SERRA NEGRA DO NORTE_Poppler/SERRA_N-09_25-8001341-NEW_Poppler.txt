@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA MAJOR LOBINHO 69252
+ ILUMINACAO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+8001341
+CÓDIGO DO CLIENTE
+7016838815
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2200381184   Energia Ativa            
+Único        
+58.105,00
+59.048,00
+    1,00000
+         943,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         943,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        943
+ 32
+AGO25
+        905
+ 30
+JUL25
+        974
+ 32
+JUN25
+        945
+ 30
+MAI25
+       1020
+ 31
+ABR25
+        908
+ 28
+MAR25
+        941
+ 31
+FEV25
+        792
+ 29
+JAN25
+        780
+ 31
+DEZ24
+        855
+ 32
+NOV24
+        904
+ 29
+OUT24
+        960
+ 29
+SET24
+       1109
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          943,00 
+ 0,31472222 
+           296,78 
+            13,07 
+           296,78 
+20,00
+            59,36 
+ 0,23793000
+Consumo-TE
+kWh
+          943,00 
+ 0,22671957 
+           213,79 
+             9,40 
+           213,79 
+20,00
+            42,75 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            98,25 
+             4,31 
+            98,25 
+20,00
+            19,65 
+TRIBF-IRRF(1.2%)
+             7,30-
+TOTAL
+           601,52 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

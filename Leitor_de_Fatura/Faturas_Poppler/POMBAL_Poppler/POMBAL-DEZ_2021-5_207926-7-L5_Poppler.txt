@@ -1,0 +1,136 @@
+========== DOMICILIO DE ENTREGA E CLIENTE ==========
+ILUMINACAO PUBLICA - P.M.POMBAL
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO SN - CENTRO
+POMBAL (AG: 227)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0227 - 099 - 6620                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 207926-2021-12-6                                DOM. ENT.: 9999227001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+POMBAL (AG: 227)
+
+
+
+                                                                         0000207926-7
+
+========== UNIDADE CONSUMIDORA ==========
+5/207926-7
+
+========== VALOR, REFERENCIA E CNPJ ==========
+R$ 126.488,92
+
+
+              Dezembro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== VENCIMENTO, CONSUMO E RESERVADO AO FISCO ==========
+23/01/2022
+              6.263,45 kWh
+              MÉDIA DIÁRIA
+194.167 kWh
+
+========== SITUACAO DE DEBITOS ==========
+
+
+========== DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA ==========
+30/12/2021   04/01/2022   31/01/2022
+
+========== DESCRITIVO ==========
+TARIFA SEM TARIFA COM       VALOR     BASE CALC. % ALÍQ.       ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS    TOTAL (R$)     ICMS (R$) ICMS          (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta     2.051,00    0,328310    0,454740       932,70        932,70   25         233,17         699,52       4,67          21,49
+0601 Consumo em kWh                             192.116,00    0,328310    0,454740    87.365,61     87.365,61   25      21.841,41      65.524,21     437,11       2.013,49
+0601 Adic. B. Vermelha                                                                38.190,61     38.190,61   25       9.547,65      28.642,96     191,07         880,17
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      126.488,92    126.488,92           31.622,23      94.866,69     632,85       2.915,15
+
+========== INFORMACOES FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  207926-2021-12-6           23/01/2022         77086342     R$ 126.488,92
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+
+========== PÁGINA 9 ==========
+Consumo Estimado: faturamento realizado por carga instalada.
+Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
+
+========== PÁGINA 10 ==========
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+
+========== PÁGINA 11 ==========
+Serviço de distribuição        25.158,30 19,90
+Compra de energia              51.914,68 41,04
+Serviço de transmissão          5.680,02   4,49
+Encargos setoriais              8.565,69   6,77
+Impostos diretos e encargos    35.170,23 27,80
+Outros serviços                     0,00   0,00
+Total                         126.488,92 100,00
+
+========== PÁGINA 12 ==========
+-Conforme determinação da Aneel, clientes inscritos na Tarifa
+Social terão a bandeira tarifária verde neste mês.
+A bandeira não tem custo extra.
+Para os demais clientes, a bandeira vigente é a de Escassez
+Hídrica, que indica condições críticas para geração hidrelétrica
+no país.
+A cobrança consta no campo “descritivo” da sua conta no item
+0601, que soma a bandeira vermelha,
+totalizando R$ 14,20 a cada 100 kWh consumidos.
+O valor é estabelecido pela Aneel.
+
+========== PÁGINA 13 ==========
+DEZ/21   192.116,00
+NOV/21   185.919,00
+OUT/21   192.116,00
+SET/21   185.919,00
+AGO/21   192.116,00
+JUL/21   192.116,00
+JUN/21   184.576,00
+MAI/21   190.729,00
+ABR/21   196.881,00
+MAR/21   203.034,00
+FEV/21   203.034,00
+JAN/21   190.729,00
+DEZ/20   190.729,00
+
+
+
+
+           *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 14 ==========
+Leitura Anterior: 30/11/2021   Leitura Atual: 31/12/2021   Dias: 31
+
+
+
+
+                                                                      * K : Constante do Medidor
+

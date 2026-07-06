@@ -1,0 +1,179 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA SN - CEP:58840000 - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 017 - 0227 - 176 - 4060
+MATRÍCULA: 1741152-2025-4-8
+DOM. BANC.:                                  DOM. ENT.: 9999227002
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL CRECHE PROINFACIA
+
+RUA PROJETADA, S/N - 58840000
+
+
+FCO PEREIRA
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Abril / 2025   23/05/2025   R$ 301,84
+
+========== INFORMACOES ==========
+Declaração de Quitação Anual de Débitos: Conforme previsto na Lei 12.007 de 29 de julho de 2009, informamos a quitação dos débitos referentes aos faturamentos regulares de energia elétrica desta unidade consumidora
+vencidos no ano de 2024 e nos anos anteriores. Esta declaração substitui, para a comprovação do cumprimento das obrigações do consumidor, as quitacões dos faturamentos mensais dos débitos do ano a que se refere e
+dos anos anteriores.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                                      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                                      KWH       1.568,00       0,774380      1.214,24       48,99       1.214,24   20      242,85   0,588270
+Energia Atv Injetada GDII                           KWH       1.568,00       0,679910      -1.066,11      -48,99       -473,58   20      -94,72   0,588270
+Ajuste GDII - TRF Reduzida(Lei 14.300/22) - Conv.   KWH       1.568,00       0,098030        153,71        0,00           0,00   20        0,00   0,098032
+Subsídio SCEE                                                                                460,31        0,00           0,00   20        0,00
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio SCEE                                                                     -460,31        0,00           0,00   20        0,00
+
+
+
+
+                                                             TOTAL:                          301,84        0,00         740,66           148,13
+
+========== DADOS DE MEDICAO ==========
+D7043856801   Energia ativa em kWh   Ponta   14826   16394   1   1568
+D7043856801   Energia injetada       Ponta   67777   72757   1   4980
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1741152-2025-4-8      23/05/2025       5375903        R$ 301,84
+
+FATURAMENTO AGRUPADO
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/05/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001741152-1
+
+========== DATAS DE LEITURA ==========
+27/03/2025   28/04/2025   32   28/05/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/1741152-1
+
+D7043856801
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS           0,00    0,8996       0,00
+COFINS        0,00    4,1435       0,00
+ICMS        740,66     20,00     148,13
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              ABR/25                32
+              MAR/25                29
+              FEV/25                29
+              JAN/25                32
+Consumo kWh
+
+
+
+
+              DEZ/24                30
+              NOV/24                30
+              OUT/24                32
+              SET/24                28
+              AGO/24                31
+              JUL/24                32
+              JUN/24                30
+              MAI/24                32
+              ABR/24                31
+
+========== RESERVADO AO FISCO ==========
+740,66                 148,13
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+.
+UC com Microgeração classificada como GD_II para faturamento, conforme Lei 14.300/22
+Saldo Acumulado: 10.166 A expirar no próximo ciclo: 0
+
+========== PÁGINA 16 ==========
+DIC         20,00     0,00   999,00   999,00
+FIC          6,00     0,00   999,00   999,00
+DMIC        15,00     0,00
+DICRI       26,00
+
+
+Conjunto:    Pombal
+
+Referência:                       02/2025
+Tensão Contratada:
+Limite Adequado:                350 a 399
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      53,23    17,63
+Compra de energia                            61,91    20,51
+Serviço de transmissão                       13,73     4,55
+Encargos setoriais                           24,84     8,23
+Impostos diretos e encargos                 148,13    49,08
+Outros serviços                               0,00     0,00
+Total                                       301,84   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 02/2025): R$ 0,00
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+ABR/25   1.568,00
+MAR/25   1.228,00
+FEV/25     957,00
+JAN/25     458,00
+DEZ/24   1.064,00
+NOV/24   1.377,00
+OUT/24   1.715,00
+SET/24    889,00
+AGO/24   1.124,00
+JUL/24     810,00
+JUN/24   1.052,00
+MAI/24   1.093,00
+ABR/24   1.248,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 27/03/2025      Leitura Atual: 28/04/2025   Dias: 32
+
+
+
+KWH   Ponta   16.394,00      14.826,00       1,00                                                 1.568,00          1.568,00
+INJ   Ponta   72.757,00      67.777,00       1,00                                                 4.980,00          1.568,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

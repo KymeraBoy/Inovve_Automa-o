@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA LEONIDAS GOMES 178
+ ESTACAO ELEVATORIA DE ESGOTOS
+ ARECIO BATISTA DE FARIAS/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2471388
+CÓDIGO DO CLIENTE
+7008167278
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 SERVIÇO PÚBLICO - AGUA, ESGOTO E SANE
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2132382053   Energia Ativa            
+Único        
+34.616,00
+34.876,00
+    1,00000
+         260,00  
+ 2132382053   Energia Reativa          
+Único        
+17.922,00
+18.057,00
+    1,00000
+         135,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         260,00  
+         135,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        260
+ 32
+AGO25
+        231
+ 30
+JUL25
+        253
+ 32
+JUN25
+        260
+ 30
+MAI25
+        294
+ 31
+ABR25
+        311
+ 28
+MAR25
+        285
+ 31
+FEV25
+        333
+ 29
+JAN25
+        281
+ 31
+DEZ24
+        290
+ 32
+NOV24
+        241
+ 29
+OUT24
+        250
+ 29
+SET24
+        274
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          260,00 
+ 0,57222222 
+           148,77 
+             6,57 
+           148,77 
+20,00
+            29,76 
+ 0,43260000
+Consumo-TE
+kWh
+          260,00 
+ 0,41222222 
+           107,17 
+             4,70 
+           107,17 
+20,00
+            21,43 
+ 0,31164000
+Acrés.Bd.VERMELHA-P2
+            27,08 
+             1,18 
+            27,08 
+20,00
+             5,41 
+TRIBF-IRRF(1.2%)
+             3,39-
+TOTAL
+           279,63 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

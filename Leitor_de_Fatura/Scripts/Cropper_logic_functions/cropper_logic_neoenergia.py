@@ -135,13 +135,11 @@ def _normalizar_texto(texto):
     texto = texto.translate(substituicoes).upper()
     return re.sub(r"\s+", " ", texto).strip()
 
-
 def _linha_valida(texto, posicao=0):
     linhas_validas = [linha.strip() for linha in texto.splitlines() if linha.strip()]
     if len(linhas_validas) > posicao:
         return linhas_validas[posicao]
     return linhas_validas[0] if linhas_validas else ""
-
 
 def _montar_nome_agrupada(textos_agrupada):
     cliente_linhas = [linha.strip() for linha in textos_agrupada[0].splitlines() if linha.strip()]
@@ -166,14 +164,12 @@ def _normalizar_segmento_nome(texto):
     texto = re.sub(r"\s+", "_", texto)
     return re.sub(r"[^\w\-\.]+", "_", texto).strip(" _.-") or "SEM_DADO"
 
-
 def _extrair_textos_recortes(page, recortes):
     textos = []
     for r in recortes:
         area = fitz.Rect(r[0], r[1], r[2], r[3])
         textos.append(page.get_text(clip=area).strip())
     return textos
-
 
 def _identificar_layout_individual(page, template):
     candidatos = {
@@ -216,7 +212,6 @@ def _identificar_layout_individual(page, template):
             melhor_textos = textos
 
     return melhor_layout, melhor_textos, melhor_score
-
 
 def _classificar_pagina_neoenergia(page, template):
     texto_pagina = page.get_text("text")
@@ -287,7 +282,6 @@ def _classificar_pagina_neoenergia(page, template):
 
     return tipo, texto_pagina, [], score
 
-
 def _extrair_municipio_referencia_do_nome(input_path):
     nome = os.path.basename(input_path)
     match = re.match(r"([^\-]+)-([0-9]{2}_[0-9]{2})-", nome)
@@ -298,7 +292,6 @@ def _extrair_municipio_referencia_do_nome(input_path):
     municipio = partes[0] if partes else "MUNICIPIO"
     referencia = partes[1] if len(partes) > 1 else "SEM_REF"
     return municipio, referencia
-
 
 def _extrair_municipio_por_prefixo(texto):
     texto_norm = _normalizar_texto(texto)
@@ -327,7 +320,6 @@ def _extrair_municipio_por_prefixo(texto):
 
     return ""
 
-
 def _extrair_municipio_do_cliente(layout_individual, textos_ind):
     candidatos = []
     if layout_individual == "INDIVIDUAL_NEW" and len(textos_ind) > 0:
@@ -341,7 +333,6 @@ def _extrair_municipio_do_cliente(layout_individual, textos_ind):
             return municipio
 
     return ""
-
 
 def _extrair_municipio_individual(texto_pagina, input_path, layout_individual, textos_ind):
     municipio_cliente = _extrair_municipio_do_cliente(layout_individual, textos_ind)
@@ -370,11 +361,9 @@ def _extrair_municipio_individual(texto_pagina, input_path, layout_individual, t
     municipio_fallback, _ = _extrair_municipio_referencia_do_nome(input_path)
     return municipio_fallback
 
-
 def _extrair_referencia_do_nome(input_path):
     _, referencia = _extrair_municipio_referencia_do_nome(input_path)
     return referencia
-
 
 def _normalizar_referencia_para_nome(texto):
     texto_norm = _normalizar_texto(texto)
@@ -411,7 +400,6 @@ def _normalizar_referencia_para_nome(texto):
 
     return ""
 
-
 def _extrair_referencia_individual(layout_individual, textos_ind, input_path):
     candidatos = []
     if layout_individual == "INDIVIDUAL_NEW":
@@ -434,7 +422,6 @@ def _extrair_referencia_individual(layout_individual, textos_ind, input_path):
 
     return _extrair_referencia_do_nome(input_path)
 
-
 def _extrair_unidade_individual(texto_pagina):
     texto_norm = _normalizar_texto(texto_pagina)
     padroes = [
@@ -453,7 +440,6 @@ def _extrair_unidade_individual(texto_pagina):
     numeros = re.findall(r"\b\d{5,}\b", texto_norm)
     return numeros[0] if numeros else "SEM_UNIDADE"
 
-
 def _extrair_unidade_por_layout(layout_individual, textos_ind, texto_pagina):
     candidatos = []
     if layout_individual == "INDIVIDUAL_NEW":
@@ -471,7 +457,6 @@ def _extrair_unidade_por_layout(layout_individual, textos_ind, texto_pagina):
             return unidade
 
     return "SEM_UNIDADE"
-
 
 def _montar_nome_individual(input_path, texto_pagina, layout_individual, textos_ind):
     municipio = _extrair_municipio_individual(texto_pagina, input_path, layout_individual, textos_ind)

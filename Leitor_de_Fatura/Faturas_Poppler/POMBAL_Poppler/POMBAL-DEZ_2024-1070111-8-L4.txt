@@ -1,0 +1,173 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA SN - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 011 - 0227 - 801 - 2480
+MATRÍCULA: 1070111-2024-12-1
+DOM. BANC.:                                DOM. ENT.: 9999227002
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+
+========== CLIENTE ==========
+EMEF DR AVELINO ELIAS DE QUEIROGA
+POMBAL
+SIT VARZEA COMPRIDA, S/N - 58840000
+
+
+AREA RURAL
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2024   23/01/2025   R$ 254,40
+
+========== INFORMACOES ==========
+
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh               321,00       0,782550        251,20       12,12         251,20   20      50,23   0,588270
+Adic. B. Amarela                                            3,20        0,16           3,20   20       0,64
+
+
+
+
+                           TOTAL:                         254,40       12,28         254,40           50,87
+
+========== DADOS DE MEDICAO ==========
+00008099410   Energia ativa em kWh   Ponta   19823   20144   1   321
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1070111-2024-12-1              23/01/2025      4521837        R$ 254,40
+
+CONTA PAGA - Data de Pagamento: 22/01/2025
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/01/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001070111-8
+
+========== DATAS DE LEITURA ==========
+18/11/2024   18/12/2024   30   17/01/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/1070111-8
+
+00008099410
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         203,51    1,0765      2,19
+COFINS      203,51    4,9583     10,09
+ICMS        254,40     20,00     50,87
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/24                30
+              NOV/24                31
+              OUT/24                30
+              SET/24                30
+Consumo kWh
+
+
+
+
+              AGO/24                32
+              JUL/24                30
+              JUN/24                32
+              MAI/24                30
+              ABR/24                30
+              MAR/24                28
+              FEV/24                32
+              JAN/24                30
+              DEZ/23                29
+
+========== RESERVADO AO FISCO ==========
+254,40                  50,87
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+- -Para garantir a segurança durante as visitas, pedimos que mantenha cães e outros
+- animais sob controle.Conforme a Res.1000/2021 e o Artigo 936 do Codigo Civil, é sua
+- responsabilidade garantir acesso livre e seguro, e responder por danos a terceiros.
+- Leitura confirmada
+- Leitura confirmada
+
+========== PÁGINA 16 ==========
+DIC         24,00   10,15   0,00    0,00
+FIC          6,00    1,00   0,00    0,00
+DMIC        18,00   10,15
+DICRI       26,00
+
+
+Conjunto:    Pombal
+
+Referência:                    10/2024
+Tensão Contratada:
+Limite Adequado:             202 a 231
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      66,22    26,04
+Compra de energia                            77,04    30,28
+Serviço de transmissão                       17,08     6,71
+Encargos setoriais                           30,91    12,15
+Impostos diretos e encargos                  63,15    24,82
+Outros serviços                               0,00     0,00
+Total                                       254,40   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2024): R$ 74,49
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/24    321,00
+NOV/24    337,00
+OUT/24    342,00
+SET/24    365,00
+AGO/24    263,00
+JUL/24    179,00
+JUN/24    144,00
+MAI/24    153,00
+ABR/24    141,00
+MAR/24    134,00
+FEV/24    116,00
+JAN/24     85,00
+DEZ/23    147,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 18/11/2024      Leitura Atual: 18/12/2024   Dias: 30
+
+
+
+KWH   Ponta   20.144,00      19.823,00       1,00                                                  321,00            321,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

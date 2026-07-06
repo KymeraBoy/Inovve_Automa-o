@@ -1,0 +1,27 @@
+\ifnum\isREC=1
+\textbf{RECLAMAÇÃO N° \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\else
+\textbf{REQUERIMENTO Nº \numReclamacao{} - \nomeMunicipioMaisculo{} - \siglaEstado{}}
+\fi
+
+\textbf{À CONCESSIONÁRIA DE ENERGIA \nomeConcessionaria{}}
+
+\textbf{CNPJ: \cnpjConcessionaria{}}
+
+\textbf{\presidenteConcessionaria{}}
+
+\textbf{Presidente da \nomeConcessionaria{}}
+
+\ifnum\hasUC=1
+\textbf{Unidade consumidora: \unidadeConsumidora{}}
+\fi
+
+\ifnum\isREC=1
+\textbf{ASSUNTO: RECLAMAÇÃO - \tituloDocumento{}}
+\else
+\textbf{ASSUNTO: REQUERIMENTO - \tituloDocumento{}}
+\fi
+
+\vspace{0,25cm}
+
+MUNICÍPIO DE \nomeMunicipioMaisculo{}, Estado da \nomeEstado{}, inscrito no CNPJ/MF N° \cnpjMunicipio{}, pessoa jurídica de direito público interno, com sede à \sedePrefeitura{}, neste ato representado \generoPrefeitura{} Municipal \nomePrefeito{}, por meio do representante legal ANA LIVIA F. DIAS, devidamente constituídos na forma da procuração em anexo (Anexo I), vem à presença de V.s.as., requerer o que se segue.

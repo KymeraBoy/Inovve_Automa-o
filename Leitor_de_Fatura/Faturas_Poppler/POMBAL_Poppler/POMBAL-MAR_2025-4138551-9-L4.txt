@@ -1,0 +1,170 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CEP:58840000 - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 013 - 0227 - 145 - 0675
+MATRÍCULA: 4138551-2025-3-8
+DOM. BANC.:                                   DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL ESTADIO MUNICIPAL O PEREIRAO
+
+RUA JERONIMO ROSADO, SN - 58840000
+
+
+CENTRO
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Março / 2025   23/04/2025   R$ 103,34
+
+========== INFORMACOES ==========
+
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura    Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh    KWH        132,00       0,782930        103,34        5,03         103,34   20      20,66   0,588270
+
+
+
+
+                           TOTAL:                         103,34        5,03         103,34           20,66
+
+========== DADOS DE MEDICAO ==========
+D7044164961   Energia ativa em kWh   Ponta   3548   3680   1   132
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  4138551-2025-3-8      23/04/2025       5137714        R$ 103,34
+
+FATURAMENTO AGRUPADO
+
+========== APRESENTACAO ==========
+Data de Apresentação: 03/04/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0004138551-9
+
+========== DATAS DE LEITURA ==========
+20/02/2025   21/03/2025   29   22/04/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/4138551-9
+
+D7044164961
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          82,67    1,0845      0,90
+COFINS       82,67    4,9955      4,13
+ICMS        103,34     20,00     20,66
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              MAR/25                29
+              FEV/25                30
+              JAN/25                32
+              DEZ/24                29
+Consumo kWh
+
+
+
+
+              NOV/24                30
+              OUT/24                32
+              SET/24                29
+              AGO/24                31
+              JUL/24                32
+              JUN/24                30
+              MAI/24                32
+              ABR/24                30
+              MAR/24                28
+
+========== RESERVADO AO FISCO ==========
+103,34                  20,66
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+.
+- Leitura confirmada
+- Leitura confirmada
+
+========== PÁGINA 16 ==========
+DIC         10,00     0,00   999,00   999,00
+FIC          4,00     0,00   999,00   999,00
+DMIC         7,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Pombal
+
+Referência:                       01/2025
+Tensão Contratada:
+Limite Adequado:                350 a 399
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      26,89    26,02
+Compra de energia                            31,28    30,27
+Serviço de transmissão                        6,93     6,71
+Encargos setoriais                           12,55    12,14
+Impostos diretos e encargos                  25,69    24,86
+Outros serviços                               0,00     0,00
+Total                                       103,34   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 01/2025): R$ 57,94
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+MAR/25    132,00
+FEV/25    172,00
+JAN/25    266,00
+DEZ/24    268,00
+NOV/24    357,00
+OUT/24    386,00
+SET/24    341,00
+AGO/24    317,00
+JUL/24    293,00
+JUN/24    242,00
+MAI/24     83,00
+ABR/24    112,00
+MAR/24     15,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 20/02/2025      Leitura Atual: 21/03/2025   Dias: 29
+
+
+
+KWH   Ponta    3.680,00       3.548,00       1,00                                                  132,00            132,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

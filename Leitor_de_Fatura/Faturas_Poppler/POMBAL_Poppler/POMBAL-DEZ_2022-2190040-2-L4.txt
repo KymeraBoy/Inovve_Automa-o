@@ -1,0 +1,166 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PM POMBAL SMTRDS
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CENTRO
+POMBAL (AG: 227)
+
+ROTEIRO: 006 - 0227 - 050 - 0142
+MATRÍCULA: 2190040-2022-12-9
+DOM. BANC.:                                 DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL SMTRDS
+
+RUA CEL JOSE AVELINO, 901 - 58840000
+
+
+PETROPOLIS
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2022   23/01/2023   R$ 76,83
+
+========== INFORMACOES ==========
+- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          76,83        3,09          76,83   18      13,82
+
+
+
+
+                                   TOTAL:                         76,83        3,09          76,83           13,82
+
+========== DADOS DE MEDICAO ==========
+W7024263310   Energia ativa em kWh   Ponta   12110   12156   1   46
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  2190040-2022-12-9              23/01/2023      442007          R$ 76,83
+
+CONTA PAGA - Data de Pagamento: 23/01/2023
+
+========== APRESENTACAO ==========
+Data de Apresentação: 03/01/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002190040-2
+
+========== DATAS DE LEITURA ==========
+10/11/2022   13/12/2022   33   12/01/2023
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/2190040-2
+
+W7024263310
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          62,99    0,8759      0,55
+COFINS       62,99    4,0342      2,54
+ICMS         76,83     18,00     13,82
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/22                33
+              NOV/22                30
+              OUT/22                28
+              SET/22                33
+Consumo kWh
+
+
+
+
+              AGO/22                31
+              JUL/22                33
+              JUN/22                28
+              MAI/22                33
+              ABR/22                29
+              MAR/22                30
+              FEV/22                28
+              JAN/22                31
+              DEZ/21                32
+
+========== RESERVADO AO FISCO ==========
+76,83                  13,82
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+- Leitura confirmada
+
+========== PÁGINA 16 ==========
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+
+========== PÁGINA 17 ==========
+Serviço de distribuição       14,95    19,46
+Compra de energia             26,50    34,49
+Serviço de transmissão         3,89     5,06
+Encargos setoriais            14,58    18,98
+Impostos diretos e encargos   16,91    22,01
+Outros serviços                0,00     0,00
+Total                         76,83   100,00
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/22     46,00                          0,00
+NOV/22     34,00                          0,00
+OUT/22     45,00                          0,00
+SET/22    108,00                          0,00
+AGO/22    298,00                          0,00
+JUL/22    820,00                          0,00
+JUN/22    798,00                          0,00
+MAI/22   1.065,00                         0,00
+ABR/22     977,00                         0,00
+MAR/22   1.085,00                         0,00
+FEV/22     815,00                         0,00
+JAN/22     935,00                         0,00
+DEZ/21   1.367,00                         0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 10/11/2022      Leitura Atual: 13/12/2022   Dias: 33
+
+
+
+KWH   Ponta   12.156,00      12.110,00       1,00           0,00                                    46,00            100,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

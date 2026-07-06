@@ -1,0 +1,152 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA MAJOR LOBINHO 1822
+ ILUMINACAO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2845817
+CÓDIGO DO CLIENTE
+7016838750
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2150128547   Energia Ativa            
+Único        
+59.676,00
+60.545,00
+    1,00000
+         869,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         869,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        869
+ 30
+JUL25
+        930
+ 32
+JUN25
+        864
+ 30
+MAI25
+        898
+ 31
+ABR25
+        826
+ 28
+MAR25
+        888
+ 31
+FEV25
+        667
+ 29
+JAN25
+        700
+ 31
+DEZ24
+        821
+ 32
+NOV24
+        797
+ 29
+OUT24
+        887
+ 29
+SET24
+       1060
+ 33
+AGO24
+        892
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          869,00 
+ 0,31737541 
+           275,79 
+            13,91 
+           275,79 
+20,00
+            55,17 
+ 0,23793000
+Consumo-TE
+kWh
+          869,00 
+ 0,22863088 
+           198,68 
+             9,99 
+           198,68 
+20,00
+            39,73 
+ 0,17140000
+Acrés. Band.VERMELHA
+            25,86 
+             1,29 
+            25,86 
+20,00
+             5,17 
+Acrés.Bd.VERMELHA-P2
+            45,64 
+             2,28 
+            45,64 
+20,00
+             9,12 
+Comp.DMIC 06/25
+            34,38-
+TRIBF-IRRF(1.2%)
+             6,54-
+TOTAL
+           505,05 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

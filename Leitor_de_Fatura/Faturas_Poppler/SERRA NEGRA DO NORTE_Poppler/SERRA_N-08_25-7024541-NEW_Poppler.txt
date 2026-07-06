@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA OSVALDO FERNANDES 477
+ COMPLEXO URBANISTICO TOBIAS E WILKER
+ ARECIO BATISTA DE FARIAS/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+7024541
+CÓDIGO DO CLIENTE
+7023098576
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2230634494   Energia Ativa            
+Único        
+16.887,00
+17.367,00
+    1,00000
+         480,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         480,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        480
+ 30
+JUL25
+        518
+ 32
+JUN25
+        483
+ 30
+MAI25
+        512
+ 31
+ABR25
+        543
+ 28
+MAR25
+       1087
+ 31
+FEV25
+       1039
+ 29
+JAN25
+       1026
+ 31
+DEZ24
+       1067
+ 32
+NOV24
+        991
+ 29
+OUT24
+        933
+ 29
+SET24
+        794
+ 33
+AGO24
+        560
+ 25
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          480,00 
+ 0,31737541 
+           152,34 
+             7,69 
+           152,34 
+20,00
+            30,48 
+ 0,23793000
+Consumo-TE
+kWh
+          480,00 
+ 0,22863088 
+           109,74 
+             5,51 
+           109,74 
+20,00
+            21,94 
+ 0,17140000
+Acrés. Band.VERMELHA
+            14,28 
+             0,71 
+            14,28 
+20,00
+             2,85 
+Acrés.Bd.VERMELHA-P2
+            25,21 
+             1,26 
+            25,21 
+20,00
+             5,04 
+TRIBF-IRRF(1.2%)
+             3,61-
+TOTAL
+           297,96 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

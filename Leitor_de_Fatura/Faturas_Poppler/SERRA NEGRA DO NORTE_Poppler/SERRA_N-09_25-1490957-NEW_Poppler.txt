@@ -1,0 +1,144 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA MANOEL MONTEIRO DA NOBREGA 50
+ SEC INFRAESTRUTURA SERV PUBLICOS - ILUM.
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1490957
+CÓDIGO DO CLIENTE
+856133591
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2131229081   Energia Ativa            
+Único        
+53.764,00
+54.153,00
+    1,00000
+         389,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         389,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        389
+ 32
+AGO25
+        374
+ 30
+JUL25
+        386
+ 32
+JUN25
+        368
+ 30
+MAI25
+        375
+ 31
+ABR25
+        335
+ 28
+MAR25
+        365
+ 31
+FEV25
+        337
+ 29
+JAN25
+        348
+ 31
+DEZ24
+        372
+ 32
+NOV24
+        337
+ 29
+OUT24
+        342
+ 29
+SET24
+        396
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          389,00 
+ 0,31472222 
+           122,42 
+             5,39 
+           122,42 
+20,00
+            24,49 
+ 0,23793000
+Consumo-TE
+kWh
+          389,00 
+ 0,22671957 
+            88,19 
+             3,87 
+            88,19 
+20,00
+            17,63 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            40,52 
+             1,78 
+            40,52 
+20,00
+             8,10 
+TRIBF-IRRF(1.2%)
+             3,00-
+TOTAL
+           248,13 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,151 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA MARIA FARIAS 111
+ ILUMINACAO PUBLICA
+ PROJETO CRESCER/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492505
+CÓDIGO DO CLIENTE
+855755122
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2212301704   Energia Ativa            
+Único        
+30.128,00
+31.072,00
+    1,00000
+         944,00  
+ 2212301704   Energia Reativa          
+Único        
+     4,00
+     4,00
+    1,00000
+           0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         944,00  
+           0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+        944
+ 32
+AGO25
+        890
+ 30
+JUL25
+        924
+ 32
+JUN25
+        741
+ 30
+MAI25
+        780
+ 31
+ABR25
+        705
+ 28
+MAR25
+        756
+ 31
+FEV25
+        718
+ 29
+JAN25
+        764
+ 31
+DEZ24
+        798
+ 32
+NOV24
+        744
+ 29
+OUT24
+        753
+ 29
+SET24
+        864
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          944,00 
+ 0,31472222 
+           297,09 
+            13,08 
+           297,09 
+20,00
+            59,43 
+ 0,23793000
+Consumo-TE
+kWh
+          944,00 
+ 0,22671957 
+           214,02 
+             9,41 
+           214,02 
+20,00
+            42,80 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+            98,34 
+             4,31 
+            98,34 
+20,00
+            19,66 
+TRIBF-IRRF(1.2%)
+             7,30-
+TOTAL
+           602,15 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

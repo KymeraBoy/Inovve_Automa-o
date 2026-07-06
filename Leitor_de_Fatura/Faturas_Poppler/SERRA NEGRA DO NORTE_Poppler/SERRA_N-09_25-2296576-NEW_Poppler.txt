@@ -1,0 +1,145 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA DIGNA FARIA MARIZ 2060
+ PRACA BAIRRO DEROSSI MARIZ
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+09/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+2296576
+CÓDIGO DO CLIENTE
+7005167595
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 70469626
+  Energia Ativa            
+Único        
+ 2.322,00
+ 3.386,00
+    1,00000
+       1.064,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+       1.064,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+SET25
+       1064
+ 32
+AGO25
+       1055
+ 30
+JUL25
+       1255
+ 32
+JUN25
+       1185
+ 30
+MAI25
+       1229
+ 31
+ABR25
+       1191
+ 28
+MAR25
+       1312
+ 31
+FEV25
+       1913
+ 29
+JAN25
+        712
+ 31
+DEZ24
+       1409
+ 32
+NOV24
+       1380
+ 29
+OUT24
+       1467
+ 29
+SET24
+       3736
+ 33
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+        1.064,00 
+ 0,31472222 
+           334,86 
+            14,75 
+           334,86 
+20,00
+            66,97 
+ 0,23793000
+Consumo-TE
+kWh
+        1.064,00 
+ 0,22671957 
+           241,22 
+            10,61 
+           241,22 
+20,00
+            48,24 
+ 0,17140000
+Acrés.Bd.VERMELHA-P2
+           110,85 
+             4,86 
+           110,85 
+20,00
+            22,17 
+TRIBF-IRRF(1.2%)
+             8,23-
+TOTAL
+           678,70 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

@@ -1,0 +1,140 @@
+========== DOMICILIO DE ENTREGA E CLIENTE ==========
+PM POMBAL GINASIO DE ESPORTES
+
+DOMICÍLIO DE ENTREGA
+PM POMBAL GINASIO DE ESPORTES
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO SN - CENTRO
+POMBAL (AG: 227)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 016 - 0227 - 150 - 4905                         LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: W7026958897                            DOM. BANC.:
+MATRÍCULA: 2124450-2021-12-3                           DOM. ENT.: 9999227001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA DALVA OLIMPIO DE QUEIR, 0 - GINASIO DE ESPORTE
+JD ROGERIO
+POMBAL (AG: 227)
+
+
+
+                                                                     0002124450-4
+
+========== UNIDADE CONSUMIDORA ==========
+5/2124450-4
+
+========== VALOR, REFERENCIA E CNPJ ==========
+R$ 102,34
+
+
+              Dezembro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== VENCIMENTO, CONSUMO E RESERVADO AO FISCO ==========
+23/01/2022
+               3,03 kWh
+             MÉDIA DIÁRIA
+100 kWh
+
+========== SITUACAO DE DEBITOS ==========
+
+
+========== DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA ==========
+29/12/2021   04/01/2022   26/01/2022
+
+========== DESCRITIVO ==========
+TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Custo de Disponibilidade                                                   82,68         82,68   25      20,67          62,01        0,42          1,90
+0601 Adic. B. Amarela                                                            2,95          2,95   25       0,73           2,21        0,01          0,07
+0601 Adic. B. Vermelha                                                          16,71         16,71   25       4,18          12,54        0,08          0,38
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         102,34        102,34           25,58          76,76        0,51          2,35
+
+========== INFORMACOES FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  2124450-2021-12-3          23/01/2022         77000041      R$ 102,34
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<
+
+========== PÁGINA 9 ==========
+- Leitura confirmada
+
+========== PÁGINA 10 ==========
+DIC          5,91     0,00   11,82   23,64
+FIC          3,30     0,00    6,60   13,20
+DMIC         3,46     0,00
+DICRI       12,22
+
+
+Conjunto:    Pombal
+
+Referência:                      10/2021
+Tensão Contratada:
+Limite Adequado:               202 a 231
+
+========== PÁGINA 11 ==========
+Serviço de distribuição                      20,36 19,90
+Compra de energia                            42,01 41,05
+Serviço de transmissão                        4,60   4,49
+Encargos setoriais                            6,93   6,77
+Impostos diretos e encargos                  28,44 27,79
+Outros serviços                               0,00   0,00
+Total                                       102,34 100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2021): R$ 100,65
+
+========== PÁGINA 12 ==========
+-Conforme determinação da Aneel, clientes inscritos na Tarifa
+Social terão a bandeira tarifária verde neste mês.
+A bandeira não tem custo extra.
+Para os demais clientes, a bandeira vigente é a de Escassez
+Hídrica, que indica condições críticas para geração hidrelétrica
+no país.
+A cobrança consta no campo “descritivo” da sua conta no item
+0601, que soma a bandeira vermelha,
+totalizando R$ 14,20 a cada 100 kWh consumidos.
+O valor é estabelecido pela Aneel.
+
+========== PÁGINA 13 ==========
+4   DEZ/21     92,00
+0   NOV/21    202,00
+    OUT/21    295,00
+    SET/21    434,00
+    AGO/21    282,00
+    JUL/21    346,00
+    JUN/21    686,00
+    MAI/21    427,00
+    ABR/21     65,00
+    MAR/21     64,00
+    FEV/21      0,00 *
+    JAN/21      0,00 *
+    DEZ/20      0,00 *
+
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 14 ==========
+Leitura Anterior: 25/11/2021   Leitura Atual: 28/12/2021   Dias: 33
+
+
+KWH   Ponta   2.893,00     2.801,00      1              0                                   92,00         100,00
+
+
+
+
+                                                                                      * K : Constante do Medidor
+

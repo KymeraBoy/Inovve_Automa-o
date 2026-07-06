@@ -1,0 +1,179 @@
+========== DOMICILIO DE ENTREGA E CLIENTE ==========
+DOM. BANC.:                                    DOM. ENT.:
+
+
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICI                                       LIGAÇÃO: MONOFASICO
+
+
+TENSÃO NOMINAL EM VOLTS     DISP:                 Lim. Min.:              Lim. Max.:
+
+
+PM POMBAL
+
+RUA ODILON LOPES, S/N - BOX 3 - 58840000
+
+
+JD STA ROSA                                                               398.982.053-08
+POMBAL
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== UNIDADE CONSUMIDORA ==========
+NOTA FISCAL Nº: 008.181.0
+
+========== VALOR, REFERENCIA E CNPJ ==========
+Maio / 2026
+
+
+
+
+Itens da Fatura
+
+========== VENCIMENTO, CONSUMO E RESERVADO AO FISCO ==========
+23/06/2026                    R$ 257,40
+
+
+
+
+                 Preço unit (R$)
+Unid.   Quant.     com tributos    Valor (R$) COFIN
+
+========== SITUACAO DE DEBITOS ==========
+3252600009474880 - 07/05/2026 10:10:09
+
+========== DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA ==========
+PIS/   Base Calc. % Alíq.   ICMS       Tarifa   Tributo   Base de     Alíquota   Valor
+                                                               Cálc.(R$)      (%)      (R$)
+FINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+                                                     PIS         205,93    0,8126      1,67
+
+========== DESCRITIVO ==========
+PIS                 205,93   0,8126
+Consumo em kWh Recuperado                              274,00   242,68    8,85   242,68   20   48,54
+                                                                                                          COFINS              205,93   3,7431
+Adic. B. Amarela P                                                0,96    0,03     0,96   20    0,19
+                                                                                                          ICMS                257,40    20,00
+Adic. B. Vermelha P                                              13,76    0,50    13,76   20    2,75
+
+
+
+
+                                                                                                                      CONSUMO FATURADO
+
+                                                                                                                     MAI/26
+                                                                                                                     ABR/26
+                                                                                                                     MAR/26
+                                                                                                                     FEV/26
+
+
+
+
+                                                                                                       Consumo kWh
+                                                                                                                     JAN/26
+                                                                                                                     DEZ/25
+                                                                                                                     NOV/25
+                                                                                                                     OUT/25
+                                                                                                                     SET/25
+                                                                                                                     AGO/25
+                                                                                                                     JUL/25
+                                                                                                                     JUN/25
+                                                                                                                     MAI/25
+
+
+
+
+                                                     TOTAL:     257,40    9,38   257,40        51,48
+
+
+
+
+    D5275067907       Energia ativa em kWh   Ponta                       274
+
+========== INFORMACOES FISCAIS ==========
+CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0007165547-5
+            Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 07/05/2026
+
+
+                                            NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
+   7165547-2026-5-8                            23/06/2026                          8181063              R$ 257,40
+
+83690000002-4 57400054000-9 71655472026-9 05800227019-5
+
+
+
+(YiHeB{B{B{MsAzB{JwBvB{IlNqRrClDjFuXeB{GdA|Sg)
+
+========== PÁGINA 9 ==========
+PARCELA 1 /2 REFERENTE À RECUPERAÇÃO DE CONSUMO; 90 DIAS
+PREZADO CLIENTE, NEGOCIE MELHORES CONDIÇÕES EM NOSSA AGENCIA DE ATENDIMENTO.
+RED original - 7165546
+
+========== PÁGINA 10 ==========
+DIC
+FIC
+DMIC
+DICRI
+
+
+Conjunto:
+
+Referência:
+Tensão Contratada:
+Limite Adequado:     a
+
+========== PÁGINA 11 ==========
+Serviço de distribuição        64,11    24,9
+Compra de energia              83,14    32,3
+Serviço de transmissão         14,19     5,5
+Encargos setoriais             35,10    13,6
+Impostos diretos e encargos    60,86    23,6
+Outros serviços                 0,00     0,0
+Total                         257,40   100,0
+
+========== PÁGINA 12 ==========
+
+
+========== PÁGINA 13 ==========
+MAI/26
+    ABR/26
+    MAR/26
+    FEV/26
+    JAN/26
+    DEZ/25
+    NOV/25
+    OUT/25
+    SET/25
+a   AGO/25
+    JUL/25
+    JUN/25
+    MAI/25
+
+
+
+             *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 14 ==========
+Leitura Anterior:   Leitura Atual:   Dias:
+
+
+
+,91   KWH   Ponta                                                            274,00            27
+,30
+,51
+,64
+,64
+,00
+,00
+
+
+
+
+                                                                 * KWTG: Dem Tusdg    * K: Const Me
+

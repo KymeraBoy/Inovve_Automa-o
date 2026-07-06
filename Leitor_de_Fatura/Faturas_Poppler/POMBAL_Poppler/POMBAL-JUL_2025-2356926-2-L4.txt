@@ -1,0 +1,176 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE POMBAL
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CEP:58840000 - CENTRO
+POMBAL PB (AG: 227)
+
+ROTEIRO: 011 - 0227 - 105 - 8453
+MATRÍCULA: 2356926-2025-7-2
+DOM. BANC.:                                   DOM. ENT.: 9999227003
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+
+========== CLIENTE ==========
+PM POMBAL UBS ALTIPLANO
+
+RUA MARIA DE FATIMA F FRANCA DE ALMEIDA, 0 - 58840000
+
+
+ALTIPLANO POMBAL II
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Julho / 2025   23/08/2025   R$ 1.017,37
+
+========== INFORMACOES ==========
+Importante: seu número de identificação será atualizado. A partir de 01/12/2025, o número da sua unidade consumidora será alterado, conforme determinação da ANEEL. A mudança é automática e não afeta o seu consumo
+nem o fornecimento de energia.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura                  Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh                  KWH       1.185,00       0,779340        923,53       41,72         923,53   20      184,70   0,588270
+Adic. B. Vermelha                                                         70,06        3,16          70,06   20       14,01
+LANÇAMENTOS E SERVIÇOS
+JUROS DE MORA 05/2025                                                      0,76        0,00           0,00             0,00
+MULTA 05/2025                                                             22,70        0,00           0,00             0,00
+ATUALIZAÇÃO MONETÁRIA 05/2025                                              0,32        0,00           0,00             0,00
+
+
+
+
+                                         TOTAL:                        1.017,37       44,88         993,59           198,71
+
+========== DADOS DE MEDICAO ==========
+W7042231018   Energia ativa em kWh   Ponta   40273   41458   1   1185
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  2356926-2025-7-2      23/08/2025       5979349        R$ 1.017,37
+
+FATURAMENTO AGRUPADO
+
+========== APRESENTACAO ==========
+Data de Apresentação: 06/08/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0002356926-2
+
+========== DATAS DE LEITURA ==========
+16/06/2025   16/07/2025   30   15/08/2025
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/2356926-2
+
+W7042231018
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         794,85    1,0074       8,00
+COFINS      794,85    4,6401      36,88
+ICMS        993,59     20,00     198,71
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JUL/25                30
+              JUN/25                31
+              MAI/25                30
+              ABR/25                28
+Consumo kWh
+
+
+
+
+              MAR/25                29
+              FEV/25                32
+              JAN/25                30
+              DEZ/24                30
+              NOV/24                31
+              OUT/24                30
+              SET/24                30
+              AGO/24                32
+              JUL/24                30
+
+========== RESERVADO AO FISCO ==========
+993,59                 198,71
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+- -Meio Ambiente - Receba sua fatura por e-mail e contribua com um futuro mais verde.
+
+========== PÁGINA 16 ==========
+DIC         10,00     0,00   999,00   999,00
+FIC          4,00     0,00   999,00   999,00
+DMIC         7,00     0,00
+DICRI       13,00
+
+
+Conjunto:    Pombal
+
+Referência:                       05/2025
+Tensão Contratada:
+Limite Adequado:                350 a 399
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      241,42     23,73
+Compra de energia                            333,68     32,80
+Serviço de transmissão                        62,25      6,12
+Encargos setoriais                           112,65     11,07
+Impostos diretos e encargos                  267,37     26,28
+Outros serviços                                 0,00     0,00
+Total                                       1.017,37   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 05/2025): R$ 318,23
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+JUL/25   1.185,00
+JUN/25   1.441,00
+MAI/25   1.461,00
+ABR/25   1.496,00
+MAR/25   1.312,00
+FEV/25   1.555,00
+JAN/25   1.620,00
+DEZ/24   1.590,00
+NOV/24   1.568,00
+OUT/24   1.374,00
+SET/24   1.285,00
+AGO/24   1.259,00
+JUL/24   1.112,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 16/06/2025      Leitura Atual: 16/07/2025   Dias: 30
+
+
+
+KWH   Ponta   41.458,00      40.273,00       1,00                                                 1.185,00          1.185,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg     * K: Const Med
+

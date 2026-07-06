@@ -1,0 +1,168 @@
+========== DOMICILIO DE ENTREGA ==========
+DOMICÍLIO DE ENTREGA
+PM POMBAL ABASTECIMENTO DAGUA SIT MONTE ALEGRE
+PRAÇA MONSENHOR VALERIANO PEREIRA, SN - CENTRO - CENTRO
+POMBAL (AG: 227)
+
+ROTEIRO: 007 - 0227 - 233 - 2360
+MATRÍCULA: 1390173-2022-12-8
+DOM. BANC.:                                 DOM. ENT.: 9999227001
+
+========== CLASSIFICACAO E FORNECIMENTO ==========
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+
+========== CLIENTE ==========
+PM POMBAL ABASTECIMENTO DAGUA SIT
+MONTE ALEGRE
+SIT MONTE ALEGRE, S/N - 58840000
+
+
+AREA RURAL
+POMBAL (AG: 227)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-39
+Insc. Est.:
+
+========== MES/ANO, VENCIMENTO E VALOR ==========
+Dezembro / 2022   23/01/2023   R$ 476,35
+
+========== INFORMACOES ==========
+- HIV/AIDS: O CUIDADO COMEÇA COM A PREVENÇÃO.
+
+========== ITENS DA FATURA ==========
+Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura   Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh              620,00       0,768300        476,35       19,18         476,35   18      85,74   0,599080
+
+
+
+
+                          TOTAL:                         476,35       19,18         476,35           85,74
+
+========== DADOS DE MEDICAO ==========
+D5130096291   Energia ativa em kWh   Ponta   5897   6518   1   620
+
+========== DADOS FISCAIS ==========
+NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1390173-2022-12-8              23/01/2023      449664         R$ 476,35
+
+CONTA PAGA - Data de Pagamento: 23/01/2023
+
+========== APRESENTACAO ==========
+Data de Apresentação: 03/01/2023
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001390173-1
+
+========== DATAS DE LEITURA ==========
+11/11/2022   14/12/2022   33   13/01/2023
+
+========== CODIGO DO CLIENTE E INSTALACAO ==========
+5/1390173-1
+
+D5130096291
+
+========== IMPOSTOS ==========
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         390,60    0,8759      3,42
+COFINS      390,60    4,0342     15,76
+ICMS        476,35     18,00     85,74
+
+========== HISTORICO DE CONSUMO ==========
+Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              DEZ/22                33
+              NOV/22                29
+              OUT/22                29
+              SET/22                33
+Consumo kWh
+
+
+
+
+              AGO/22                30
+              JUL/22                33
+              JUN/22                28
+              MAI/22                31
+              ABR/22                29
+              MAR/22                32
+              FEV/22                28
+              JAN/22                30
+              DEZ/21                33
+
+========== RESERVADO AO FISCO ==========
+476,35                  85,74
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997
+
+========== PÁGINA 15 ==========
+- Perda do Ramal: 1 kWh.
+
+========== PÁGINA 16 ==========
+DIC         24,00     0,00   0,00    0,00
+FIC          6,00     0,00   0,00    0,00
+DMIC        18,00     0,00
+DICRI       26,00
+
+
+Conjunto:    Pombal
+
+Referência:                     10/2022
+Tensão Contratada:
+Limite Adequado:              202 a 231
+
+========== PÁGINA 17 ==========
+Serviço de distribuição                      92,70    19,46
+Compra de energia                           164,25    34,48
+Serviço de transmissão                       24,11     5,06
+Encargos setoriais                           90,37    18,97
+Impostos diretos e encargos                 104,92    22,03
+Outros serviços                               0,00     0,00
+Total                                       476,35   100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 10/2022): R$ 96,28
+
+========== PÁGINA 18 ==========
+
+
+========== PÁGINA 19 ==========
+DEZ/22    620,00                          0,00
+NOV/22    450,00                          0,00
+OUT/22    270,00                          0,00
+SET/22    511,00                          0,00
+AGO/22    530,00                          0,00
+JUL/22    628,00                          0,00
+JUN/22    776,00                          0,00
+MAI/22    450,00                          0,00
+ABR/22    339,00                          0,00
+MAR/22    279,00                          0,00
+FEV/22    236,00                          0,00
+JAN/22    266,00                          0,00
+DEZ/21    299,00                          0,00
+
+
+
+         *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+========== PÁGINA 20 ==========
+Leitura Anterior: 11/11/2022      Leitura Atual: 14/12/2022   Dias: 33
+
+
+
+KWH   Ponta    6.518,00       5.897,00       1,00           0,00                                   620,00            620,00
+
+
+
+
+                                                                                       * KWTG: Dem Tusdg    * K: Const Med
+

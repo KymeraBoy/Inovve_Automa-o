@@ -1,0 +1,150 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+ PREFEITURA MUNICIPAL DE SERRA N. NORTE
+ CNPJ: 08.096.***/****-**    
+ ENDEREÇO:
+ RUA DOM JOSE DELGADO 100 SN
+ ILUMINACAO PUBLICA
+ CENTRO/AREA URBANA
+ 59318-000 SERRA NEGRA DO NORTE RN
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+08/2025
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1492162
+CÓDIGO DO CLIENTE
+856236498
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B4a ILUMINAÇÃO PÚBLICA -ILUMINACAO PÚBL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+ 2240833061   Energia Ativa            
+Único        
+ 5.441,00
+ 6.258,00
+    1,00000
+         817,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+         817,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+                                         CONSUMO FATURADO          N°DIAS FAT
+AGO25
+        817
+ 30
+JUL25
+        880
+ 32
+JUN25
+        813
+ 30
+MAI25
+        536
+ 31
+ABR25
+        474
+ 28
+MAR25
+        492
+ 31
+FEV25
+        480
+ 29
+JAN25
+        532
+ 31
+DEZ24
+        563
+ 32
+NOV24
+        522
+ 29
+OUT24
+        517
+ 29
+SET24
+        552
+ 33
+AGO24
+        531
+ 30
+
+========== PAGE 9 ==========
+Consumo-TUSD
+kWh
+          817,00 
+ 0,31737541 
+           259,29 
+            13,07 
+           259,29 
+20,00
+            51,87 
+ 0,23793000
+Consumo-TE
+kWh
+          817,00 
+ 0,22863088 
+           186,79 
+             9,39 
+           186,79 
+20,00
+            37,35 
+ 0,17140000
+Acrés. Band.VERMELHA
+            24,31 
+             1,21 
+            24,31 
+20,00
+             4,86 
+Acrés.Bd.VERMELHA-P2
+            42,91 
+             2,15 
+            42,91 
+20,00
+             8,58 
+TRIBF-IRRF(1.2%)
+             6,15-
+TOTAL
+           507,15 
+ ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+ BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+ 
+ COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ ICMS(R$)
+ ICMS(%)
+UNIT(R$)
+

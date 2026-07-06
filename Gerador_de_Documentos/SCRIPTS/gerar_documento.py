@@ -18,6 +18,7 @@ import sys
 import unicodedata
 from datetime import date
 from pathlib import Path
+from decimal import Decimal, InvalidOperation
 
 try:
     from rich.console import Console
@@ -36,6 +37,7 @@ SCRIPTS_DIR  = Path(__file__).resolve().parent
 BASE_DIR     = SCRIPTS_DIR.parent          # Gerador_de_Documentos/
 MUNICIPIOS_DIR = BASE_DIR / "MUNICIPIOS"
 EMPRESAS_DIR   = BASE_DIR / "EMPRESAS"
+OFI_DIR        = BASE_DIR / "OFI"
 REC_DIR        = BASE_DIR / "REC"
 REQ_DIR        = BASE_DIR / "REQ"
 SAIDA_DIR      = BASE_DIR / "SAÍDA"
@@ -64,10 +66,20 @@ def parse_municipio_file(path: Path) -> dict:
 
 
 def get_titulo_from_subtype(path: Path) -> str:
-    """Lê \\tipoRequerimento do subtipo e retorna seu conteúdo (ou vazio)."""
+    """Lê o título principal do subtipo (fallback entre macros conhecidas)."""
     try:
         data = parse_latex_commands(path.read_text(encoding="utf-8"))
-        return data.get("tipoRequerimento", "").strip()
+        for key in (
+            "tipoRequerimento",
+            "tipoReclamacao",
+            "tituloDocumento",
+            "assuntoDocumento",
+            "tipoOficio",
+        ):
+            value = data.get(key, "").strip()
+            if value:
+                return value
+        return ""
     except Exception as exc:
         console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
         return ""
@@ -312,6 +324,110 @@ def _process_perda_reatores_content(conteudo_tex: str) -> str:
     return conteudo_tex
 
 
+def _process_perda_transformacao_content(conteudo_tex: str) -> str:
+    """
+    Solicita os caminhos das imagens e realiza as substituições para o
+    template de Perda por Transformação.
+    """
+    console.print("\n[bold blue]CONFIGURAÇÃO: PERDA POR TRANSFORMAÇÃO[/bold blue]")
+
+    placeholders = [
+        ("<<IDENTIFICAÇÃO>>", "Informe o endereço da imagem de identificação da UC"),
+        ("<<COMPROVAÇÃO>>", "Informe o endereço da imagem de comprovação da perda de 2,5%"),
+        ("<<CONSUMO>>", "Informe o endereço da imagem de consumo medido"),
+        ("<<FATURAMENTO>>", "Informe o endereço da imagem de faturamento com acréscimo"),
+    ]
+
+    for placeholder, prompt in placeholders:
+        caminho_img = _ask_image_path(f"{prompt} (ex: C:/caminho/para/imagem.png)")
+        conteudo_tex = conteudo_tex.replace(placeholder, _build_reator_figure_block(caminho_img))
+
+    return conteudo_tex
+
+def _formatar_moeda(valor: str) -> str:
+    """
+    Converte diversas representações monetárias para o padrão:
+        R$ 1.234,56
+
+    Exemplos aceitos:
+        1111
+        1111,5
+        1111.5
+        1111,50
+        1111.50
+        1.111,50
+        1,111.50
+        R$1111
+        R$ 1111
+        $1111
+    """
+
+    if not valor or not valor.strip():
+        raise ValueError("Valor vazio.")
+
+    valor = valor.strip()
+
+    # Remove qualquer símbolo monetário e espaços
+    valor = re.sub(r"[^\d,.\-]", "", valor)
+
+    if not valor:
+        raise ValueError("Valor inválido.")
+
+    # Descobre qual é o separador decimal
+    if "," in valor and "." in valor:
+        # O último separador encontrado é considerado decimal
+        if valor.rfind(",") > valor.rfind("."):
+            valor = valor.replace(".", "")
+            valor = valor.replace(",", ".")
+        else:
+            valor = valor.replace(",", "")
+    elif "," in valor:
+        partes = valor.split(",")
+        if len(partes[-1]) <= 2:
+            valor = valor.replace(".", "")
+            valor = valor.replace(",", ".")
+        else:
+            valor = valor.replace(",", "")
+    elif "." in valor:
+        partes = valor.split(".")
+        if len(partes[-1]) > 2:
+            valor = valor.replace(".", "")
+
+    try:
+        numero = Decimal(valor)
+    except InvalidOperation:
+        raise ValueError("Valor inválido.")
+
+    numero = numero.quantize(Decimal("0.01"))
+
+    inteiro, decimal = f"{numero:.2f}".split(".")
+    inteiro = f"{int(inteiro):,}".replace(",", ".")
+
+    return f"R\$ {inteiro},{decimal}"
+
+def _process_ofi_complementar_dobro_content(conteudo_tex: str) -> str:
+    """
+    Solicita o valor já pago e substitui o placeholder do
+    template de Ofício Complementar do Dobro.
+    """
+    console.print("\n[bold blue]CONFIGURAÇÃO: OFÍCIO - COMPLEMENTAR DO DOBRO[/bold blue]")
+
+    while True:
+        entrada = Prompt.ask(
+            "  Informe o valor já pago [dim](ex: R$ 12.345,67)[/dim]"
+        ).strip()
+
+        try:
+            valor_pago = _formatar_moeda(entrada)
+            break
+        except ValueError:
+            console.print(
+                "[red]  Valor inválido. Tente novamente.[/red]"
+            )
+
+    return conteudo_tex.replace("<<VALOR_PAGO>>", valor_pago)
+
+
 def list_subtypes_rec() -> list:
     """Fragmentos de subtipos para REC (arquivos .tex na raiz de REC/)."""
     return [
@@ -332,6 +448,14 @@ def list_subtypes_req(empresa: str) -> list:
         for f in sorted(empresa_dir.glob("*.tex")):
             subtypes.append((f"[{empresa}] {_label(f.stem)}", f))
     return subtypes
+
+def list_subtypes_ofi() -> list:
+    """Fragmentos de subtipos para OFI: arquivos .tex na raiz de OFI/."""
+    return [
+        (_label(f.stem), f)
+        for f in sorted(OFI_DIR.glob("*.tex"))
+        if f.is_file()
+    ]
 
 
 # ---------------------------------------------------------------------------
@@ -387,7 +511,7 @@ def build_output_name(doc_type: str, num_doc: str, municipio: str, subtype_stem:
 def generate_assembled_doc(
     municipio_path: Path,
     empresa: str,
-    doc_type: str,       # "REC" ou "REQ"
+    doc_type: str,       # "REC" ou "REQ" ou "OFI"
     subtype_path: Path,
     num_doc: str,
     uc: str,
@@ -417,8 +541,13 @@ def generate_assembled_doc(
 
     # Read subtype content and apply specific processing if needed
     subtype_content = subtype_path.read_text(encoding="utf-8")
-    if subtype_path.stem == "Perda_nos_reatores":
+    subtype_key = _tokenize_name(subtype_path.stem)
+    if subtype_key == "PERDA_NOS_REATORES":
         subtype_content = _process_perda_reatores_content(subtype_content)
+    elif subtype_key == "PERDA_POR_TRANSFORMACAO":
+        subtype_content = _process_perda_transformacao_content(subtype_content)
+    elif doc_type == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
+        subtype_content = _process_ofi_complementar_dobro_content(subtype_content)
 
     # Write the (potentially modified) subtype content to a temporary file
     # in the output directory. This ensures that the modifications are applied
@@ -447,6 +576,7 @@ def generate_assembled_doc(
         "% ── DADOS DO DOCUMENTO ────────────────────────────────────────────",
         f"\\newcommand{{\\tipoDocumento}}{{{doc_type}}}",
         f"\\newcommand{{\\isREC}}{{{'1' if doc_type == 'REC' else '0'}}}",
+        f"\\newcommand{{\\isOFI}}{{{'1' if doc_type == 'OFI' else '0'}}}",
         f"\\newcommand{{\\hasUC}}{{{'1' if uc.strip() else '0'}}}",
         f"\\newcommand{{\\numReclamacao}}{{{num_doc}}}",
         f"\\newcommand{{\\unidadeConsumidora}}{{{uc}}}",
@@ -457,12 +587,19 @@ def generate_assembled_doc(
         "% ── INTRO ─────────────────────────────────────────────────────────",
         f"\\input{{{_lpath(intro_path)}}}",
         "",
-        "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
-        f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
-        "",
-        "% ── ANEXOS ────────────────────────────────────────────────────────",
-        f"\\input{{{_lpath(empresa_dir / 'anexos.tex')}}}",
-        "",
+    ]
+
+    if doc_type != "OFI":
+        lines.extend([
+            "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
+            f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
+            "",
+            "% ── ANEXOS ────────────────────────────────────────────────────────",
+            f"\\input{{{_lpath(empresa_dir / 'anexos.tex')}}}",
+            "",
+        ])
+
+    lines.extend([
         f"% ── SUBTIPO ({doc_type}: {subtype_path.stem}) ─────────────────────",
         f"\\input{{{_lpath(processed_subtype_file)}}}", # Input the processed file
         "",
@@ -470,7 +607,7 @@ def generate_assembled_doc(
         f"\\input{{{_lpath(empresa_dir / 'final.tex')}}}",
         "",
         "\\end{document}",
-    ]
+    ])
 
     out_file = out_dir / f"{out_name}.tex"
     out_file.write_text("\n".join(lines), encoding="utf-8")
@@ -596,13 +733,21 @@ def main():
     # 3. Tipo de documento ────────────────────────────────────────────────────
     tipo_idx = choose_from_list(
         "Tipo de documento",
-        ["REC  —  Reclamação", "REQ  —  Requerimento / Petição"],
+        [
+            "REC  —  Reclamação",
+            "REQ  —  Requerimento / Petição",
+            "OFI  —  Ofício",
+        ],
     )
-    doc_type = "REC" if tipo_idx == 0 else "REQ"
+    doc_type = ["REC", "REQ", "OFI"][tipo_idx]
 
     # 4. Subtipo ──────────────────────────────────────────────────────────────
-    subtypes = (list_subtypes_rec() if doc_type == "REC"
-                else list_subtypes_req(empresa))
+    if doc_type == "REC":
+        subtypes = list_subtypes_rec()
+    elif doc_type == "REQ":
+        subtypes = list_subtypes_req(empresa)
+    else:
+        subtypes = list_subtypes_ofi()
     if not subtypes:
         console.print(f"[red]  Nenhum subtipo encontrado para {doc_type}.[/red]")
         sys.exit(1)
@@ -626,7 +771,7 @@ def main():
         uc = Prompt.ask("  Unidade consumidora [dim](deixe em branco se n/a)[/dim]", default="").strip()
         ucs_to_process.append((num_doc, uc))
     else:
-        num_ini = Prompt.ask("  Número da primeira reclamação [dim](ex: 001/2026)[/dim]").strip()
+        num_ini = Prompt.ask("  Número inicial do documento [dim](ex: 001/2026)[/dim]").strip()
         ucs_raw = Prompt.ask("  Lista de UCs [dim](separe por espaço, vírgula ou nova linha)[/dim]").strip()
         ucs_list = [u.strip() for u in re.split(r'[,\s\n]+', ucs_raw) if u.strip()]
 
@@ -638,12 +783,11 @@ def main():
     titulo = get_titulo_from_subtype(subtype_path)
     if titulo:
         console.print(
-            "  Título/descrição  "
-            f"[dim](lido de \\tipoRequerimento em {subtype_path.name})[/dim]: {titulo}"
+            f"  Título/descrição [dim](lido do subtipo {subtype_path.name})[/dim]: {titulo}"
         )
     else:
         console.print(
-            "  [yellow]Aviso:[/yellow] \\tipoRequerimento não encontrado no subtipo; "
+            "  [yellow]Aviso:[/yellow] nenhuma macro de título conhecida foi encontrada no subtipo; "
             "seguindo com título vazio."
         )
 
