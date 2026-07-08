@@ -638,12 +638,14 @@ def handle_standalone_doc(
 
 def compile_tex_to_pdf(tex_path: Path) -> tuple[bool, Path | None, str]:
     """
-    Compila um arquivo .tex para PDF na mesma pasta do arquivo.
+    Compila um arquivo .tex para PDF na mesma pasta do arquivo,
+    executando passagens extras para resolver referencias cruzadas.
+    Se houver indice, roda makeindex entre as passagens.
     Retorna (sucesso, caminho_pdf_ou_none, mensagem).
     """
     engines = ["pdflatex", "xelatex"]
-    engines = ["pdflatex", "xelatex"]
     available = [eng for eng in engines if shutil.which(eng)]
+    has_makeindex = shutil.which("makeindex") is not None
 
     if not available:
         return (
@@ -652,11 +654,10 @@ def compile_tex_to_pdf(tex_path: Path) -> tuple[bool, Path | None, str]:
             "Nenhum compilador LaTeX encontrado no PATH (pdflatex/xelatex).",
         )
 
-    last_error = ""
-    for engine in available:
+    def _run_cmd(cmd: list[str]) -> tuple[bool, str]:
         try:
             proc = subprocess.run(
-                [engine, "-interaction=nonstopmode", "-halt-on-error", tex_path.name],
+                cmd,
                 cwd=tex_path.parent,
                 capture_output=True,
                 text=True,
@@ -666,19 +667,58 @@ def compile_tex_to_pdf(tex_path: Path) -> tuple[bool, Path | None, str]:
                 check=False,
             )
         except Exception as exc:
-            last_error = f"Falha ao executar {engine}: {exc}"
-            continue
-
-        if proc.returncode == 0:
-            pdf_path = tex_path.with_suffix(".pdf")
-            if pdf_path.exists():
-                return True, pdf_path, f"Compilado com {engine}."
-            last_error = f"{engine} concluiu sem erro, mas o PDF não foi encontrado."
-            continue
+            return False, f"Falha ao executar {' '.join(cmd)}: {exc}"
 
         output = (proc.stdout or "") + "\n" + (proc.stderr or "")
-        tail = "\n".join(output.strip().splitlines()[-12:])
-        last_error = f"Compilação com {engine} falhou.\n{tail}"
+        if proc.returncode == 0:
+            return True, output
+
+        tail = "\n".join(output.strip().splitlines()[-20:])
+        return False, f"Comando {' '.join(cmd)} falhou.\n{tail}"
+
+    last_error = ""
+    for engine in available:
+        base_cmd = [engine, "-interaction=nonstopmode", "-halt-on-error", tex_path.name]
+
+        # 1a passada: gera .aux/.toc/.idx para referencias e indice.
+        ok, msg = _run_cmd(base_cmd)
+        if not ok:
+            last_error = msg
+            continue
+
+        idx_path = tex_path.with_suffix(".idx")
+        ran_makeindex = False
+        if idx_path.exists() and idx_path.stat().st_size > 0:
+            if has_makeindex:
+                ok_idx, msg_idx = _run_cmd(["makeindex", idx_path.name])
+                if not ok_idx:
+                    last_error = msg_idx
+                    continue
+                ran_makeindex = True
+            else:
+                # Segue sem abortar: refs resolvem mesmo sem indice.
+                msg += "\nmakeindex não encontrado; índice não será gerado."
+
+        # 2a e 3a passadas: fixam \ref{}, TOC e referencias apos makeindex.
+        ok2, msg2 = _run_cmd(base_cmd)
+        if not ok2:
+            last_error = msg2
+            continue
+
+        ok3, msg3 = _run_cmd(base_cmd)
+        if not ok3:
+            last_error = msg3
+            continue
+
+        pdf_path = tex_path.with_suffix(".pdf")
+        if pdf_path.exists():
+            detail = "Compilado com 3 passagens"
+            if ran_makeindex:
+                detail += " + makeindex"
+            detail += f" usando {engine}."
+            return True, pdf_path, detail
+
+        last_error = f"{engine} concluiu as passagens sem erro, mas o PDF não foi encontrado."
 
     return False, None, last_error or "Falha desconhecida durante compilação do PDF."
 

@@ -10,6 +10,14 @@ PASTAS_PADRAO = [
 	"E-MAILS",
 	"RECLAMACAO_FORMAL",
 ]
+
+PASTAS_REQUERIMENTO = [
+	"REQUERIMENTO FORMAL",
+	"ANEEL",
+	"DOCUMENTOS RECEBIDOS",
+	"E-MAILS",
+]
+
 def listar_arquivos(base_dir: Path) -> list[Path]:
 	"""Lista arquivos na pasta ignorando o próprio script."""
 	return [
@@ -58,30 +66,37 @@ class RenomeadorGUI:
 		self.btn_reclamacao = tk.Button(
 			frame_botoes, text="RENOMEAR: PADRÃO RECLAMAÇÃO", font=("Arial", 10, "bold"),
 			bg="#28a745", fg="white", height=2, state=tk.DISABLED,
-			width=25, command=lambda: self.executar_renomeacao(memorial=False)
+			width=20, command=lambda: self.executar_renomeacao(memorial=False)
 		)
 		self.btn_reclamacao.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 		self.btn_memorial = tk.Button(
 			frame_botoes, text="RENOMEAR: MEMORIAL", font=("Arial", 10, "bold"),
 			bg="#17a2b8", fg="white", height=2, state=tk.DISABLED,
-			width=25, command=lambda: self.executar_renomeacao(memorial=True)
+			width=20, command=lambda: self.executar_renomeacao(memorial=True)
 		)
 		self.btn_memorial.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 		self.btn_comprovante = tk.Button(
 			frame_botoes, text="RENOMEAR: PAGAMENTO", font=("Arial", 10, "bold"),
 			bg="#ff9900", fg="white", height=2, state=tk.DISABLED,
-			width=25, command=lambda: self.executar_renomeacao(comprovante=True)
+			width=20, command=lambda: self.executar_renomeacao(comprovante=True)
 		)
 		self.btn_comprovante.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 		self.btn_subpastas = tk.Button(
-			frame_botoes, text="CRIAR: SUBPASTAS", font=("Arial", 10, "bold"),
+			frame_botoes, text="CRIAR: SUBPASTAS REC", font=("Arial", 10, "bold"),
 			bg="#174489", fg="white", height=2, state=tk.NORMAL,
-			width=25, command=self.criar_subpastas
+			width=20, command=self.criar_subpastas
 		)
 		self.btn_subpastas.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
+
+		self.btn_subpastas_req = tk.Button(
+			frame_botoes, text="CRIAR: SUBPASTAS REQ", font=("Arial", 10, "bold"),
+			bg="#6f42c1", fg="white", height=2, state=tk.NORMAL,
+			width=20, command=self.criar_subpastas_requerimento
+		)
+		self.btn_subpastas_req.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 	def carregar_arquivos(self):
 		# Limpa a visualização atual antes de carregar
@@ -192,11 +207,17 @@ class RenomeadorGUI:
 		self.carregar_arquivos()
 
 	def criar_subpastas(self):
+		self._criar_subpastas_com_lista(PASTAS_PADRAO, "Criação de Subpastas")
+
+	def criar_subpastas_requerimento(self):
+		self._criar_subpastas_com_lista(PASTAS_REQUERIMENTO, "Criação de Subpastas (Requerimento)")
+
+	def _criar_subpastas_com_lista(self, lista_subpastas, titulo_janela):
 		subpastas_criadas = []
 		subpastas_existentes = []
 		erros = []
 
-		for nome_pasta in PASTAS_PADRAO:
+		for nome_pasta in lista_subpastas:
 			caminho_pasta = self.base_dir / nome_pasta
 			if caminho_pasta.exists() and caminho_pasta.is_dir():
 				subpastas_existentes.append(nome_pasta)
@@ -214,9 +235,9 @@ class RenomeadorGUI:
 			mensagem += f"\nJá existentes: {', '.join(subpastas_existentes)}"
 		if erros:
 			mensagem += f"\nErros: {', '.join(erros)}"
-			messagebox.showerror("Erro na Criação de Subpastas", mensagem)
+			messagebox.showerror(f"Erro - {titulo_janela}", mensagem)
 		else:
-			messagebox.showinfo("Criação de Subpastas", mensagem)
+			messagebox.showinfo(titulo_janela, mensagem)
 
 if __name__ == "__main__":
 	root = tk.Tk()
