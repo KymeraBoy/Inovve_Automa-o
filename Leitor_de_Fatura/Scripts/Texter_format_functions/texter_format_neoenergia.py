@@ -4,7 +4,6 @@ import re
 
 from texter_utils import aba_info_geral
 
-
 def _normalizar_linha_bloco(valor):
     return re.sub(r"\s+", " ", (valor or "").strip()) 
 
@@ -38,10 +37,6 @@ def _coletar_bloco_apos_rotulo(texto, rotulos, rotulos_parada, parar_em_document
             return bloco
 
     return []
-
-# ============================================================== #
-# EXECUÇÃO - NEOENERGIA
-# ============================================================== #
 
 def _extrair_mes_referencia(texto: str) -> str | None:
     """
@@ -227,54 +222,6 @@ def _extrair_classificacao(texto):
 
     return "UNK"
 
-
-
-
-def _normalizar_referencia(valor):
-    if not valor:
-        return ""
-
-    match = re.search(r"\b(\d{2})\s*/\s*(\d{2,4})\b", valor)
-    if not match:
-        return ""
-
-    mes = match.group(1)
-    ano = match.group(2)
-    if len(ano) == 2:
-        ano = f"20{ano}"
-    return f"{mes}/{ano}"
-
-def _extrair_do_nome_arquivo(filename):
-    if not filename:
-        return "", "", ""
-
-    base = os.path.basename(filename)
-    stem = os.path.splitext(base)[0]
-    partes = stem.split("-")
-
-    municipio = partes[0] if len(partes) > 0 else ""
-    referencia = partes[1] if len(partes) > 1 else ""
-    unidade = partes[2] if len(partes) > 2 else ""
-
-    municipio = municipio.replace("_", " ").strip()
-    referencia = referencia.replace("_", "/").strip()
-    unidade = re.sub(r"\D", "", unidade)
-
-    return municipio, unidade, referencia
-
-def _extrair_referencia(texto):
-    candidatos = [
-        r"REF\s*:?\s*M[ÊE]S\s*/\s*ANO\s*\n\s*(\d{2}\s*/\s*\d{2,4})",
-        r"M[ÊE]S\s*/\s*ANO\s*\n\s*(\d{2}\s*/\s*\d{2,4})",
-    ]
-    for padrao in candidatos:
-        match = re.search(padrao, texto, flags=re.IGNORECASE)
-        if match:
-            referencia = _normalizar_referencia(match.group(1))
-            if referencia:
-                return referencia
-    return ""
-
 def _extrair_unidade(texto: str) -> str | None:
     """
     Procura no texto as linhas contendo:
@@ -367,7 +314,6 @@ def extrair_fatura_tagueada(texto_fatura):
 
     return fatura_tags
 
-
 def _extrair_municipio(texto):
     match = re.search(
         r"(?:MUNICIPIO DE|PREFEITURA MUNICIPAL DE|PREF MUNICIPAL DE)\s+([A-ZÀ-ÚÇ ]{3,})",
@@ -378,23 +324,30 @@ def _extrair_municipio(texto):
         return municipio
     return ""
 
+def extrair_fornecimento(texto):
+    """
+    Extrai o tipo de fornecimento de linhas como:
 
+    TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
 
-def _extrair_fornecimento(texto):
-    candidatos = [
-        r"CLASSIFICA[ÇC][ÃA]O\s*:\s*[^\n\r]+\s*[\n\r]+\s*([^\n\r,]+(?:[\- ][^\n\r,]+)?)",
-        r"CLASSIFICA[ÇC][ÃA]O\s*[\n\r]+\s*[^\n\r]+\s*[\n\r]+\s*([^\n\r]+)",
-    ]
+    Retorna:
+        str: Tipo de fornecimento.
+        None: Caso não encontre.
+    """
 
-    for padrao in candidatos:
-        match = re.search(padrao, texto, flags=re.IGNORECASE)
-        if match:
-            fornecimento = re.sub(r"\s+", " ", match.group(1)).strip(" ,.-")
-            if fornecimento:
-                return fornecimento
+    padrao = re.compile(
+        r'^\s*TIPO\s+DE\s+FORNECIMENTO\s*:\s*(.+?)\s*$',
+        re.IGNORECASE
+    )
 
-    return ""
+    for linha in texto.splitlines():
+        linha = linha.strip()
 
+        resultado = padrao.match(linha)
+        if resultado:
+            return resultado.group(1).strip()
+
+    return None
 
 def _extrair_cliente(texto):
     linhas_cliente = _coletar_bloco_apos_rotulo(
@@ -422,7 +375,6 @@ def _extrair_cliente(texto):
     )
     return " ".join(linhas_cliente)
 
-
 def _extrair_endereco_entrega(texto):
     linhas_endereco = _coletar_bloco_apos_rotulo(
         texto,
@@ -446,6 +398,9 @@ def _extrair_endereco_entrega(texto):
     )
     return " | ".join(linhas_endereco)
 
+# ============================================================== #
+# EXECUÇÃO - NEOENERGIA
+# ============================================================== #
 
 def format_neoenergia(input, file_name):    
     output = str(input).replace("Poppler", "Texter")
@@ -455,25 +410,26 @@ def format_neoenergia(input, file_name):
     with open(input, "r", encoding="utf-8") as f:
         texto = f.read()
      
-
     unidade             = _extrair_unidade(texto)
     referencia          = _extrair_mes_referencia(texto)
     consumo_faturado    = _extrair_consumo_faturado(texto)
     consumo_medido      = _extrair_consumo_medido(texto)
     classificacao       = _extrair_classificacao(texto)
+    fornecimento        = extrair_fornecimento(texto)
  
-
     vetor.append(unidade)
     vetor.append(referencia)
     vetor.append(consumo_faturado)
     vetor.append(consumo_medido)
     vetor.append(classificacao)
+    vetor.append(fornecimento)
 
     texto = "UNIDADE CONSUMIDORA: "     + unidade
     texto += "\nMÊS DE REFERÊNCIA: "    + referencia
     texto += "\nCONSUMO FATURADO: "     + consumo_faturado
     texto += "\nCONSUMO MEDIDO: "       + consumo_medido
     texto += "\nCLASSIFICAÇÃO: "        + classificacao
+    texto += "\nFORNECIMENTO: "          + fornecimento
     
     fatura_tags = extrair_fatura_tagueada(texto)  
 

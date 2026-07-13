@@ -2,31 +2,6 @@ import os
 import re
 import fitz
 from pathlib import Path
-import shutil 
-import subprocess
-from pypdf import PdfReader
-
-def limpar_pasta(caminho_pasta: str | Path) -> None:
-    """
-    Remove todo o conteúdo de uma pasta, mas mantém a própria pasta.
-
-    Args:
-        caminho_pasta: Caminho da pasta a ser limpa.
-    """
-    pasta = Path(caminho_pasta)
-
-    if not pasta.exists():
-        raise FileNotFoundError(f"A pasta '{pasta}' não existe.")
-
-    if not pasta.is_dir():
-        raise NotADirectoryError(f"'{pasta}' não é uma pasta.")
-
-    for item in pasta.iterdir():
-        if item.is_file() or item.is_symlink():
-            item.unlink()
-        elif item.is_dir():
-            shutil.rmtree(item)
-
 
 def obter_caminho_unico(dir_path, cropped_name):
     '''Pega a pasta e o nome do arquivo, verifica se já existe um arquivo com o mesmo nome.
@@ -47,75 +22,95 @@ def obter_caminho_unico(dir_path, cropped_name):
         counter += 1        
     return new_path
 
-def pdf_para_txt_com_paginas(pdf_path: str | Path,
-                             pdftotext_path: str | Path,
-                             output_txt_path: str | Path):
-    """
-    Converte PDF em TXT usando Poppler (pdftotext),
-    separando o conteúdo por página.
-
-    Args:
-        pdf_path: caminho do PDF
-        pdftotext_path: caminho do executável pdftotext
-        output_txt_path: caminho do arquivo TXT de saída
-    """
-
-    pdf_path = Path(pdf_path)
-    pdftotext_path = Path(pdftotext_path)
-    output_txt_path = Path(output_txt_path)
-
-    # pdfinfo normalmente fica na mesma pasta do pdftotext
-    pdfinfo_path = pdftotext_path.parent / "pdfinfo"
-
-    # 1. Obter número de páginas
-    result = subprocess.run(
-        [str(pdfinfo_path), str(pdf_path)],
-        capture_output=True,
-        text=True
-    )
-
-    num_pages = None
-    for line in result.stdout.splitlines():
-        if "Pages:" in line:
-            num_pages = int(line.split(":")[1].strip())
-            break
-
-    if num_pages is None:
-        raise RuntimeError("Não foi possível determinar o número de páginas do PDF.")
-
-    # garante diretório de saída
-    output_txt_path.parent.mkdir(parents=True, exist_ok=True)
-
-    # 2. Escrever arquivo de saída
-    with output_txt_path.open("w", encoding="utf-8") as out_file:
-
-        for page in range(1, num_pages + 1):
-            out_file.write(f"========== PAGE {page} ==========\n\n")
-
-            process = subprocess.run(
-                [
-                    str(pdftotext_path),
-                    "-f", str(page),
-                    "-l", str(page),
-                    "-layout",
-                    str(pdf_path),
-                    "-"
-                ],
-                capture_output=True,
-                text=True
-            )
-
-            if process.returncode != 0:
-                raise RuntimeError(
-                    f"Erro ao processar página {page}: {process.stderr}"
-                )
-
-            out_file.write(process.stdout or "")
-            out_file.write("\n\n")
-
 # ============================================================== #
 # Funções
 # ============================================================== #
+
+
+def obter_numero_de_pagamento(texto):
+    """Essa função serve para extrair o numero de pagamento da fatura coletiva, que é o numero que difere um documento do outro"""
+    padrao = r"Nº DO DOCUMENTO\s*DE PAGAMENTO\s*(\d+)"
+    resultado = re.search(padrao, texto)    
+    if resultado:
+        return resultado.group(1)
+    return None
+
+def renomear_pdf(caminho_pdf, novo_nome):
+    """
+    Renomeia um PDF utilizando um nome temporário para evitar conflitos.
+
+    Args:
+        caminho_pdf (str | Path): Caminho do PDF.
+        novo_nome (str): Nome desejado (com ou sem .pdf).
+
+    Returns:
+        Path: Caminho final do arquivo.
+    """
+    caminho_pdf = Path(caminho_pdf)
+
+    if not caminho_pdf.exists():
+        raise FileNotFoundError(f"Arquivo não encontrado: {caminho_pdf}")
+
+    if caminho_pdf.suffix.lower() != ".pdf":
+        raise ValueError("O arquivo informado não é um PDF.")
+
+    pasta = caminho_pdf.parent
+
+    # Garante a extensão .pdf
+    if not novo_nome.lower().endswith(".pdf"):
+        novo_nome += ".pdf"
+
+    # ========= Etapa 1: nome temporário =========
+    numero = 1
+    while (pasta / f"{numero}.pdf").exists():
+        numero += 1
+
+    caminho_temporario = pasta / f"{numero}.pdf"
+
+    caminho_pdf.rename(caminho_temporario)
+
+    # ========= Etapa 2: nome definitivo =========
+    destino = pasta / novo_nome
+
+    contador = 1
+    while destino.exists():
+        destino = pasta / f"{Path(novo_nome).stem}_{contador}.pdf"
+        contador += 1
+
+    caminho_temporario.rename(destino)
+
+    return destino
+
+def extrair_municipio(texto):
+    """
+    Extrai o nome do município a partir de linhas como:
+
+    - PREF MUNICIPAL DE ITAIBA
+    - PREF. MUNICIPAL DE ITAIBA
+    - PREFEITURA MUNICIPAL DE ITAIBA
+    - PM DE ITAIBA
+
+    Retorna:
+        str: Nome do município em maiúsculas.
+        None: Caso não encontre.
+    """
+
+    padrao = re.compile(
+        r'^\s*'
+        r'(?:PREF(?:EITURA|\.)?\s+MUNICIPAL\s+DE|PM\s+DE)\s+'
+        r'([A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ ]+?)'
+        r'\s*$',
+        re.IGNORECASE
+    )
+
+    for linha in texto.splitlines():
+        linha = re.sub(r'\s+', ' ', linha.strip())
+
+        resultado = padrao.match(linha)
+        if resultado:
+            return resultado.group(1).strip().upper()
+
+    return None
 
 def _normalizar_texto(texto):
     substituicoes = str.maketrans({
@@ -472,26 +467,6 @@ def _montar_nome_individual(input_path, texto_pagina, layout_individual, textos_
     ]
     return "-".join(partes) + ".pdf"
 
-def pdf_para_txt(caminho_pdf: str, caminho_txt_saida: str) -> None:
-    """
-    Extrai texto de cada página de um PDF e salva em um arquivo TXT,
-    separando páginas com uma marcação.
-
-    Args:
-        caminho_pdf (str): caminho do arquivo PDF de entrada
-        caminho_txt_saida (str): caminho completo do arquivo TXT de saída
-    """
-
-    reader = PdfReader(caminho_pdf)
-
-    with open(caminho_txt_saida, "w", encoding="utf-8") as f:
-        for i, page in enumerate(reader.pages, start=1):
-            texto = page.extract_text() or ""
-
-            f.write(f"========== PAGE {i} ==========\n")
-            f.write(texto.strip())
-            f.write("\n\n")
-
 # ============================================================== #
 # EXECUÇÃO
 # ============================================================== #
@@ -504,6 +479,7 @@ def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, 
     recortes = None
     novo_nome = None
 
+    # Loop que percorre todas as páginas do PDF
     for i in range(len(doc)):
     
         page = doc.load_page(i)
@@ -512,11 +488,15 @@ def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, 
         if tipo_pagina == "COLETIVA":
             recortes = template["AGRUPADA"]
             textos_agrupada = []
+            
+            numero_de_pagamento = obter_numero_de_pagamento(texto_pagina)
+            nome_do_municipio = extrair_municipio(texto_pagina)
+            
 
             for r in recortes:
                 recorte = fitz.Rect(r[0], r[1], r[2], r[3])
                 texto_recorte = page.get_text(clip=recorte).strip()
-                textos_agrupada.append(texto_recorte)
+                textos_agrupada.append(texto_recorte)                
 
                 if recorte.width > 0 and recorte.height > 0:
                     new_page = new_doc.new_page(width=recorte.width, height=recorte.height)
@@ -566,13 +546,14 @@ def cropper_logic_neoenergia(input_path, pasta_cropper, pasta_poppler, ind_dir, 
                     f.write(texto.strip())
                     f.write("\n\n")
             doc_ind.close()
-
-
         else:
             print(f"[Neoenergia] Página {i + 1} ignorada: tipo não reconhecido (score={score_pagina}).")
 
 
     new_doc.close()
     doc.close()  
+
+    novo_nome = nome_do_municipio + "-" + numero_de_pagamento if nome_do_municipio else numero_de_pagamento
+    renomear_pdf(input_path, novo_nome)
 
     return 

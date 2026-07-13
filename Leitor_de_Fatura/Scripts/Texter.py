@@ -9,7 +9,6 @@ from pathlib import Path
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment
 
-from texter_utils import salvar_arquivo, carregar_arquivo, aba_info_geral, aba_historico_consumo, historico
 from Texter_format_functions.texter_format_enel import format_enel
 from Texter_format_functions.texter_format_energisa import format_energisa
 from Texter_format_functions.texter_format_neoenergia import format_neoenergia
@@ -22,14 +21,19 @@ PATH_INPUT   = Path(".")
 PATH_OUTPUT  = Path(".")
 PATH_ANALISE = Path(".")
 
+# Configuração central das abas do relatório.
+# Para adicionar uma nova aba, basta incluir um novo dicionário na lista.
+ABAS_RELATORIO_CONFIG = [
+    {"nome_aba": "Classificação", "campo": "Classificação", "valor_padrao": ""},
+    {"nome_aba": "Consumo_Medido", "campo": "Consumo Medido", "valor_padrao": 0.0},
+    {"nome_aba": "Consumo_Faturado", "campo": "Consumo Faturado", "valor_padrao": 0.0},
+    {"nome_aba": "Fornecimento", "campo": "Fornceimento", "valor_padrao": ""},
+]
+
 # ============================================================== #
 # FUNCOES
 # ============================================================== #
 
-def limpar_estado_processamento():
-    aba_info_geral.clear()
-    aba_historico_consumo.clear()
-    historico.clear()
 
 def limpar_pasta(caminho_pasta: Path) -> None:
     pasta = Path(caminho_pasta)
@@ -66,7 +70,6 @@ def chave_ordenacao_mes(mes_ano):
     except:
         pass
     return (9999, 0)
-
 
 def gerar_base_matriz_vazia(lista_faturas_tagueadas):
     ucs_unicas = set()
@@ -120,6 +123,58 @@ def preencher_matriz_com_tag(matriz_base, lista_faturas_tagueadas, tag_valor):
 
     return matriz_preenchida
 
+def gerar_matriz_resumo_mais_recente(lista_faturas_tagueadas, campos_resumo):
+    """
+    Gera uma matriz-resumo com o valor mais recente de cada campo por UC.
+
+    A coluna 1 permanece "Unidade Consumidora" e as demais colunas são
+    os nomes das abas/campos informados em campos_resumo.
+    """
+    por_uc = {}
+
+    for fatura in lista_faturas_tagueadas:
+        uc = str(fatura.get("Unidade Consumidora", "")).strip()
+        mes = str(fatura.get("Mês de referência", "")).strip()
+        if not uc:
+            continue
+
+        chave_mes = chave_ordenacao_mes(mes)
+        atual = por_uc.get(uc)
+        if (atual is None) or (chave_mes > atual["chave_mes"]):
+            por_uc[uc] = {
+                "chave_mes": chave_mes,
+                "dados": {nome_coluna: fatura.get(campo, valor_padrao) for nome_coluna, campo, valor_padrao in campos_resumo},
+            }
+
+    matriz = [["Unidade Consumidora"] + [nome_coluna for nome_coluna, _, _ in campos_resumo]]
+
+    for uc in sorted(por_uc.keys()):
+        dados = por_uc[uc]["dados"]
+        linha = [uc] + [dados.get(nome_coluna, "") for nome_coluna, _, _ in campos_resumo]
+        matriz.append(linha)
+
+    return matriz
+
+def gerar_abas_detalhadas_por_config(matriz_base, lista_faturas_tagueadas, abas_config):
+    """
+    Gera as matrizes detalhadas (por mês) a partir da configuração de abas.
+    """
+    abas = {}
+    for cfg in abas_config:
+        nome_aba = cfg["nome_aba"]
+        campo = cfg["campo"]
+        abas[nome_aba] = preencher_matriz_com_tag(matriz_base, lista_faturas_tagueadas, campo)
+    return abas
+
+def gerar_campos_resumo_por_config(abas_config):
+    """
+    Converte a configuração de abas para o formato esperado pela matriz de resumo.
+    """
+    return [
+        (cfg["nome_aba"], cfg["campo"], cfg.get("valor_padrao", 0.0))
+        for cfg in abas_config
+    ]
+
 def exportar_matrizes_para_xlsx(dicionario_abas, pasta_destino, nome_arquivo="Relatorio_Consolidado.xlsx"):
     diretorio = Path(pasta_destino)
     diretorio.mkdir(parents=True, exist_ok=True)
@@ -169,14 +224,13 @@ def texter_orchestrator(municipio_name: str, concessionaria_name: str, progress_
     PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
     PATH_ANALISE.mkdir(parents=True, exist_ok=True)
     
-    limpar_estado_processamento()
-
-    src_dir_path = selecionar_subapasta(PATH_INPUT, municipio_name)
-    selected_subfolder = src_dir_path.name
-    src_dir = src_dir_path 
+    src_dir_path        = selecionar_subapasta(PATH_INPUT, municipio_name)
+    selected_subfolder  = src_dir_path.name
+    src_dir             = src_dir_path 
 
     concessionaria_map = {"NEOENERGIA": 1, "ENEL": 2, "ENERGISA": 3}
 
+    # Criação da pasta de saída para o Texter
     dst_dir_name    = selected_subfolder.replace("Poppler", "Texter")
     dst_dir         = PATH_OUTPUT / dst_dir_name
     dst_dir.mkdir(parents=True, exist_ok=True)
@@ -202,17 +256,14 @@ def texter_orchestrator(municipio_name: str, concessionaria_name: str, progress_
         matriz.append(ind_data)
 
     matriz_base = gerar_base_matriz_vazia(matriz)
+    abas_detalhadas = gerar_abas_detalhadas_por_config(matriz_base, matriz, ABAS_RELATORIO_CONFIG)
+    matriz_resumo = gerar_matriz_resumo_mais_recente(matriz, gerar_campos_resumo_por_config(ABAS_RELATORIO_CONFIG))
 
-    matriz_consumo_faturado = preencher_matriz_com_tag(matriz_base, matriz, "Consumo Faturado")
-    matriz_consumo_medido = preencher_matriz_com_tag(matriz_base, matriz, "Consumo Medido")
-    matriz_classificacao = preencher_matriz_com_tag(matriz_base, matriz, "Classificação")
+    abas_exportacao = {"Resumo": matriz_resumo}
+    abas_exportacao.update(abas_detalhadas)
    
     exportar_matrizes_para_xlsx(
-        {        
-            "Classificação": matriz_classificacao,    
-            "Consumo_Faturado": matriz_consumo_faturado,
-            "Consumo_Medido": matriz_consumo_medido,
-        },
+        abas_exportacao,
         PATH_ANALISE,
         nome_arquivo=f"Relatorio_Consolidado_{dst_dir_name}.xlsx"
     )

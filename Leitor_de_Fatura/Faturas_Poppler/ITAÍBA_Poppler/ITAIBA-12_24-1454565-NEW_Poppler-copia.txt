@@ -1,0 +1,122 @@
+========== PAGE 1 ==========
+NOME DO CLIENTE:
+PREF MUNICIPAL DE ITAIBA
+CNPJ: 11.286.***/****-**
+ENDEREÇO:
+RUA NEGRAS 200
+Mercado de Carne de Itaiba
+Av. Pres. Get lio Vargas, 200 - Itaiba
+NEGRAS/NEGRAS
+56550-000 ITAIBA PE
+
+========== PAGE 2 ==========
+REF:MÊS/ANO
+12/2024
+
+========== PAGE 3 ==========
+CÓDIGO DA INSTALAÇÃO
+1454565
+CÓDIGO DO CLIENTE
+1028972012
+
+========== PAGE 4 ==========
+CLASSIFICAÇÃO: B3 PODER PUBLICO -MUNICIPAL
+,
+
+========== PAGE 5 ==========
+TIPO DE FORNECIMENTO: Conv. Monômia - Monofásico
+
+========== PAGE 6 ==========
+MEDIDOR
+GRANDEZAS
+POSTOS
+LEITURA
+LEITURA
+CONST.
+CONSUMO
+HORÁRIOS
+ANTERIOR
+ATUAL
+MEDIDOR
+kWh
+3010173977
+Energia Ativa
+Único
+757,00
+757,00
+1,00000
+0,00
+
+========== PAGE 7 ==========
+CONSUMO
+kWh
+0,00
+
+========== PAGE 8 ==========
+CONSUMO / kWh
+CONSUMO FATURADO
+N°DIAS FAT
+DEZ24
+30
+32
+NOV24
+30
+30
+OUT24
+30
+29
+SET24
+30
+27
+AGO24
+30
+32
+JUL24
+30
+30
+JUN24
+30
+30
+MAI24
+30
+31
+ABR24
+30
+30
+MAR24
+30
+29
+FEV24
+30
+29
+JAN24
+30
+32
+DEZ23
+30
+29
+
+========== PAGE 9 ==========
+TRIBF-IRRF(4.8%)
+0,62-
+Pagamento a maior
+1,17-
+TOTAL
+44,07
+ITENS DA FATURA
+UNID.
+QUANT.
+PREÇO UNIT.
+VALOR
+PIS/
+BASE CALC.
+ALÍQUOTA
+ICMS (R$)
+TARIFA
+COM TRIB.(R$)
+(R$)
+COFINS(R$)
+ICMS(R$)
+ICMS(%)
+UNIT(R$)
+

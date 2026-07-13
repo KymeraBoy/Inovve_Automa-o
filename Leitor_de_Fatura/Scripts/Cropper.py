@@ -75,41 +75,39 @@ def obter_caminho_unico(dir_path, cropped_name):
 
 def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress_callback=None):
     
-    # 1. Garante que as pastas de saída existam no diretório do usuário
+    # Garante quee as pastas de saídda (Poppler e Cropper) existam
     PATH_CROPPED.mkdir(parents=True, exist_ok=True)
     PATH_POPPLER.mkdir(parents=True, exist_ok=True)
 
-    # 2. Seleciona a Subpasta baseado no diretório apontado
-    src_dir         = selecionar_subpasta(PATH_FATURAS, municipio_name) 
-    nome_subpasta   = src_dir.name                                      
-    pdf_files       = sorted([f for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".pdf"]) 
-    
-    selected_template_name = concessionaria_name
-    selected_template = TEMPLATES[selected_template_name]
+    # Seleciona a Subpasta (Município) baseado no diretório apontado
+    src_dir                 = selecionar_subpasta(PATH_FATURAS, municipio_name) 
+    nome_subpasta           = src_dir.name                                      
+    pdf_files               = sorted([f for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".pdf"]) 
+    selected_template_name  = concessionaria_name
+    selected_template       = TEMPLATES[selected_template_name]
 
-    # 2.1 Garante que vai haver uma pasta da pasta ne faturas da Neoenergia para alocação das individuais
+    # Garante que vai haver uma pasta da pasta ne faturas da Neoenergia para alocação das individuais
     if selected_template_name == "NEOENERGIA":
         ind_dir = src_dir / f"{src_dir.name}-INDIVIDUAIS"    
         ind_dir.mkdir(parents=True, exist_ok=True)
         limpar_pasta(ind_dir)
+    
     # 2.2 Renomeia todos os PDFs da pasta
     # if selected_template_name == "ENERGISA":    
     #     # Lista todos os PDFs
     #     pdfs = sorted(src_dir.glob("*.pdf"))
-
     #     # Etapa 1: renomeia para nomes temporários únicos
     #     arquivos_temporarios = []
     #     for pdf in pdfs:
     #         temp_name = src_dir / f"__tmp__{uuid.uuid4().hex}.pdf"
     #         pdf.rename(temp_name)
     #         arquivos_temporarios.append(temp_name)
-
     #     # Etapa 2: renomeia para 1.pdf, 2.pdf, 3.pdf...
     #     for i, temp_file in enumerate(arquivos_temporarios, start=1):
     #         novo_nome = src_dir / f"{i}.pdf"
     #         temp_file.rename(novo_nome)
 
-    # 3. Garante a existência das pastas Cropped e Poppler para o município selecionado e limpa elas
+    # Garante a existência das pastas Cropped e Poppler para o município selecionado e limpa elas
     dst_dir = PATH_CROPPED / f"{nome_subpasta}_Cropped"
     txt_dir = PATH_POPPLER / f"{nome_subpasta}_Poppler"    
     dst_dir.mkdir(parents=True, exist_ok=True)
@@ -119,12 +117,12 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
         
     print(f"Quantidade de PDFs para processar: {len(pdf_files)}")
 
-    # 4. Verifica se o Poppler existe
+    # Verifica se o Poppler existe
     poppler_disponivel = PATH_POPPLER_EXE.exists()
     if not poppler_disponivel:
         print(f"Aviso: pdftotext não encontrado em {PATH_POPPLER_EXE}. A etapa de conversão para txt será ignorada.")
     
-    # 5. Função para processamento de um PDF
+    # Função para processamento de um PDF (definição necessária para existência da barra de progresso)
     def processar_um_pdf_para_cropper(pdf_path: Path):
         cropped_output_name = f"{pdf_path.stem}_Cropped.pdf"
         output_cropped_path = dst_dir / cropped_output_name
@@ -139,7 +137,7 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
         elif selected_template_name == "NEOENERGIA":
             cropper_logic_neoenergia(pdf_path, dst_dir, txt_dir, ind_dir, selected_template, PATH_POPPLER_EXE)          
     
-    # 6. Loop que varre todos os PDFs da pasta do município com barra de progresso
+    # Loop que varre todos os PDFs da pasta do município com barra de progresso
     total_pdfs = len(pdf_files)
     for idx, pdf_path in enumerate(pdf_files):
         if progress_callback:
