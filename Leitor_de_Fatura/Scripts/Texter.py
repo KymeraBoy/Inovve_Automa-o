@@ -5,21 +5,21 @@
 import sys
 import shutil
 import csv
-from pathlib import Path
-from openpyxl import Workbook
-from openpyxl.styles import Font, Alignment
+from pathlib            import Path
+from openpyxl           import Workbook
+from openpyxl.styles    import Font, Alignment
 
-from Texter_format_functions.texter_format_enel import format_enel
-from Texter_format_functions.texter_format_energisa import format_energisa
-from Texter_format_functions.texter_format_neoenergia import format_neoenergia
+from Texter_format_functions.texter_format_enel         import format_enel
+from Texter_format_functions.texter_format_energisa     import format_energisa
+from Texter_format_functions.texter_format_neoenergia   import format_neoenergia
 
 # ============================================================== #
 # CONFIGURACOES (Serão sobrescritas dinamicamente pela GUI)
 # ============================================================== #
 
-PATH_INPUT   = Path(".")
-PATH_OUTPUT  = Path(".")
-PATH_ANALISE = Path(".")
+PATH_POPPLER_PASTE      = Path(".")
+PATH_TEXTER_PASTE       = Path(".")
+PATH_ANALAISER_PASTE    = Path(".")
 
 # Configuração central das abas do relatório.
 # Para adicionar uma nova aba, basta incluir um novo dicionário na lista.
@@ -27,9 +27,14 @@ ABAS_RELATORIO_CONFIG = [
     {"nome_aba": "Classificação", "campo": "Classificação", "valor_padrao": ""},
     {"nome_aba": "Consumo_Medido", "campo": "Consumo Medido", "valor_padrao": 0.0},
     {"nome_aba": "Consumo_Faturado", "campo": "Consumo Faturado", "valor_padrao": 0.0},
-    {"nome_aba": "Fornecimento", "campo": "Fornceimento", "valor_padrao": ""},
+    {"nome_aba": "Fornecimento", "campo": "Fornecimento", "valor_padrao": ""},
 ]
 
+MESES_MAP = {
+    'JAN': 1, 'FEV': 2, 'MAR': 3, 'ABR': 4, 'MAI': 5, 'JUN': 6, 'JUL': 7, 'AGO': 8, 'SET': 9, 'OUT': 10, 'NOV': 11, 'DEZ': 12
+}
+
+CONCESSIONÁRIA_MAP = {"NEOENERGIA": 1, "ENEL": 2, "ENERGISA": 3}
 # ============================================================== #
 # FUNCOES
 # ============================================================== #
@@ -53,11 +58,6 @@ def selecionar_subapasta(PATH: Path, municipio_name: str) -> Path:
         if folder_name == municipio_name:
             return PATH / folder_name
     raise ValueError(f"Município '{municipio_name}' não encontrado em '{PATH}'.")
-
-MESES_MAP = {
-    'JAN': 1, 'FEV': 2, 'MAR': 3, 'ABR': 4, 'MAI': 5, 'JUN': 6,
-    'JUL': 7, 'AGO': 8, 'SET': 9, 'OUT': 10, 'NOV': 11, 'DEZ': 12
-}
 
 def chave_ordenacao_mes(mes_ano):
     try:
@@ -212,60 +212,55 @@ def exportar_matrizes_para_xlsx(dicionario_abas, pasta_destino, nome_arquivo="Re
 
     wb.save(caminho_final)
 
-
 # ============================================================== #
 # ORQUESTRADOR
 # ============================================================== #
 
 def texter_orchestrator(municipio_name: str, concessionaria_name: str, progress_callback=None):
-    
-    municipio_name = municipio_name + "_Poppler"
-    
-    PATH_OUTPUT.mkdir(parents=True, exist_ok=True)
-    PATH_ANALISE.mkdir(parents=True, exist_ok=True)
-    
-    src_dir_path        = selecionar_subapasta(PATH_INPUT, municipio_name)
-    selected_subfolder  = src_dir_path.name
-    src_dir             = src_dir_path 
 
-    concessionaria_map = {"NEOENERGIA": 1, "ENEL": 2, "ENERGISA": 3}
+    PATH_POPPLER_PASTE.mkdir(parents=True, exist_ok=True)  # Checar - Existência - Pasta Poppler
+    PATH_TEXTER_PASTE.mkdir(parents=True, exist_ok=True)    # Checar - Existência - Pasta Texter
+    PATH_ANALAISER_PASTE.mkdir(parents=True, exist_ok=True) # Checar - Existência - Pasta Analaiser
 
-    # Criação da pasta de saída para o Texter
-    dst_dir_name    = selected_subfolder.replace("Poppler", "Texter")
-    dst_dir         = PATH_OUTPUT / dst_dir_name
-    dst_dir.mkdir(parents=True, exist_ok=True)
-    limpar_pasta(dst_dir)
+    pop_dir = PATH_POPPLER_PASTE / f"{municipio_name}_Poppler"  # Atribui - Endereço - Pasta Poppler do Município
+    txt_dir = PATH_TEXTER_PASTE / f"{municipio_name}_Texter"    # Atribui - Endereço - Pasta Texter do Município
+    txt_dir.mkdir(parents=True, exist_ok=True)                  # Checar - Existência - Pasta Texter do Município
+    pop_dir.mkdir(parents=True, exist_ok=True)                  # Checar - Existência
+    print(pop_dir)
+    limpar_pasta(txt_dir)                                       # Limpar - Pasta Texter do Município
 
-    formatacao = concessionaria_map.get(concessionaria_name.upper())
+    formatacao = CONCESSIONÁRIA_MAP.get(concessionaria_name.upper())
     if formatacao is None:
         raise ValueError(f"Concessionária '{concessionaria_name}' não reconhecida para o Texter.")
-     
-    files = sorted([f.name for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
-
+    
+    files = sorted([f.name for f in pop_dir.iterdir() if f.is_file() and f.suffix.lower() == ".txt"])
     matriz = []
     total_files = len(files)
 
     for idx, file_name in enumerate(files):
         if progress_callback:
             progress_callback(idx + 1, total_files, f"Texter: Processando {file_name} ({idx + 1}/{total_files})...")
-
-        input_path = src_dir / file_name
+        input_path = pop_dir / file_name
+        ind_data = None
         if formatacao == 1:
             ind_data = format_neoenergia(input_path, file_name)
+            
+        
+        matriz.append(ind_data)  
 
-        matriz.append(ind_data)
+      
 
-    matriz_base = gerar_base_matriz_vazia(matriz)
+    matriz_base     = gerar_base_matriz_vazia(matriz)
     abas_detalhadas = gerar_abas_detalhadas_por_config(matriz_base, matriz, ABAS_RELATORIO_CONFIG)
-    matriz_resumo = gerar_matriz_resumo_mais_recente(matriz, gerar_campos_resumo_por_config(ABAS_RELATORIO_CONFIG))
+    matriz_resumo   = gerar_matriz_resumo_mais_recente(matriz, gerar_campos_resumo_por_config(ABAS_RELATORIO_CONFIG))
 
     abas_exportacao = {"Resumo": matriz_resumo}
     abas_exportacao.update(abas_detalhadas)
    
     exportar_matrizes_para_xlsx(
         abas_exportacao,
-        PATH_ANALISE,
-        nome_arquivo=f"Relatorio_Consolidado_{dst_dir_name}.xlsx"
+        PATH_ANALAISER_PASTE,
+        nome_arquivo=f"Relatorio_Consolidado_{municipio_name}.xlsx"
     )
 
     print("\nFluxo Texter finalizado.")

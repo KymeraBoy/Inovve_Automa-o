@@ -1,42 +1,53 @@
 from pathlib import Path    
-import os
 import re
 
-from texter_utils import aba_info_geral
+def _extrair_unidade(texto: str) -> str | None:
+    """
+    Procura no texto as linhas contendo:
+    - 'CÓDIGO DA INSTALAÇÃO' ou 'Nº DA INSTALAÇÃO'
 
-def _normalizar_linha_bloco(valor):
-    return re.sub(r"\s+", " ", (valor or "").strip()) 
+    Retorna o conteúdo da linha seguinte, com validações:
+    - não vazio
+    - apenas números
+    - garante que o termo realmente existe no texto
 
-def _coletar_bloco_apos_rotulo(texto, rotulos, rotulos_parada, parar_em_documento=False):
+    Args:
+        texto (str): texto completo
+
+    Returns:
+        str | None: código encontrado ou None se inválido/não encontrado
+    """
+
+    if not texto or not isinstance(texto, str):
+        return None
+
     linhas = texto.splitlines()
-    rotulos_normalizados = {_normalizar_linha_bloco(rotulo).upper() for rotulo in rotulos}
-    rotulos_parada_normalizados = {_normalizar_linha_bloco(rotulo).upper() for rotulo in rotulos_parada}
 
-    for indice, linha in enumerate(linhas):
-        linha_normalizada = _normalizar_linha_bloco(linha).upper()
-        if linha_normalizada not in rotulos_normalizados:
-            continue
+    termos = [
+        "CÓDIGO DA INSTALAÇÃO",
+        "Nº DA INSTALAÇÃO"
+    ]
 
-        bloco = []
-        for proxima_linha in linhas[indice + 1:]:
-            valor = _normalizar_linha_bloco(proxima_linha)
-            if not valor:
-                if bloco:
-                    break
+    for i, linha in enumerate(linhas):
+        linha_upper = linha.upper()
+
+        if any(termo in linha_upper for termo in termos):
+            # garante que existe próxima linha
+            if i + 1 >= len(linhas):
                 continue
 
-            valor_upper = valor.upper()
-            if valor_upper in rotulos_parada_normalizados:
-                break
-            if parar_em_documento and (valor_upper.startswith("CNPJ") or valor_upper.startswith("CPF")):
-                break
+            proxima_linha = linhas[i + 1].strip()
 
-            bloco.append(valor)
+            # validações de segurança
+            if not proxima_linha:
+                continue
 
-        if bloco:
-            return bloco
+            if not re.fullmatch(r"\d+", proxima_linha):
+                continue
 
-    return []
+            return proxima_linha
+
+    return "UNK"
 
 def _extrair_mes_referencia(texto: str) -> str | None:
     """
@@ -222,53 +233,30 @@ def _extrair_classificacao(texto):
 
     return "UNK"
 
-def _extrair_unidade(texto: str) -> str | None:
+def _extrair_fornecimento(texto):
     """
-    Procura no texto as linhas contendo:
-    - 'CÓDIGO DA INSTALAÇÃO' ou 'Nº DA INSTALAÇÃO'
+    Extrai o tipo de fornecimento de linhas como:
 
-    Retorna o conteúdo da linha seguinte, com validações:
-    - não vazio
-    - apenas números
-    - garante que o termo realmente existe no texto
+    TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
 
-    Args:
-        texto (str): texto completo
-
-    Returns:
-        str | None: código encontrado ou None se inválido/não encontrado
+    Retorna:
+        str: Tipo de fornecimento.
+        None: Caso não encontre.
     """
 
-    if not texto or not isinstance(texto, str):
-        return None
+    padrao = re.compile(
+        r'^\s*TIPO\s+DE\s+FORNECIMENTO\s*:\s*(.+?)\s*$',
+        re.IGNORECASE
+    )
 
-    linhas = texto.splitlines()
+    for linha in texto.splitlines():
+        linha = linha.strip()
 
-    termos = [
-        "CÓDIGO DA INSTALAÇÃO",
-        "Nº DA INSTALAÇÃO"
-    ]
+        resultado = padrao.match(linha)
+        if resultado:
+            return resultado.group(1).strip()
 
-    for i, linha in enumerate(linhas):
-        linha_upper = linha.upper()
-
-        if any(termo in linha_upper for termo in termos):
-            # garante que existe próxima linha
-            if i + 1 >= len(linhas):
-                continue
-
-            proxima_linha = linhas[i + 1].strip()
-
-            # validações de segurança
-            if not proxima_linha:
-                continue
-
-            if not re.fullmatch(r"\d+", proxima_linha):
-                continue
-
-            return proxima_linha
-
-    return "UNK"
+    return None
 
 def extrair_fatura_tagueada(texto_fatura):
     """
@@ -284,6 +272,7 @@ def extrair_fatura_tagueada(texto_fatura):
         "Consumo Faturado": 0.0,
         "Consumo Medido": 0.0,
         "Classificação": "UNK",
+        "Fornecimento": "UNK"
     }
 
     for linha in linhas:
@@ -311,99 +300,16 @@ def extrair_fatura_tagueada(texto_fatura):
         elif "CLASSIFICAÇÃO" in chave.upper():
             fatura_tags["Classificação"] = valor
 
+        elif "FORNECIMENTO" in chave.upper():
+            fatura_tags["Fornecimento"] = valor
 
     return fatura_tags
-
-def _extrair_municipio(texto):
-    match = re.search(
-        r"(?:MUNICIPIO DE|PREFEITURA MUNICIPAL DE|PREF MUNICIPAL DE)\s+([A-ZÀ-ÚÇ ]{3,})",
-        texto.upper(),
-    )
-    if match:
-        municipio = re.sub(r"\s+", " ", match.group(1)).strip()
-        return municipio
-    return ""
-
-def extrair_fornecimento(texto):
-    """
-    Extrai o tipo de fornecimento de linhas como:
-
-    TIPO DE FORNECIMENTO: Conv. Monômia - Trifásico
-
-    Retorna:
-        str: Tipo de fornecimento.
-        None: Caso não encontre.
-    """
-
-    padrao = re.compile(
-        r'^\s*TIPO\s+DE\s+FORNECIMENTO\s*:\s*(.+?)\s*$',
-        re.IGNORECASE
-    )
-
-    for linha in texto.splitlines():
-        linha = linha.strip()
-
-        resultado = padrao.match(linha)
-        if resultado:
-            return resultado.group(1).strip()
-
-    return None
-
-def _extrair_cliente(texto):
-    linhas_cliente = _coletar_bloco_apos_rotulo(
-        texto,
-        rotulos=["NOME DO CLIENTE:", "DADOS DO CLIENTE"],
-        rotulos_parada=[
-            "ENDEREÇO:",
-            "ENDERECO:",
-            "ENDEREÇO DA UNIDADE CONSUMIDORA",
-            "ENDERECO DA UNIDADE CONSUMIDORA",
-            "CLASSIFICAÇÃO",
-            "CLASSIFICACAO",
-            "REF:MÊS/ANO",
-            "REF:MES/ANO",
-            "MÊS/ANO",
-            "MES/ANO",
-            "CÓDIGO DA INSTALAÇÃO",
-            "CODIGO DA INSTALACAO",
-            "Nº DA INSTALAÇÃO",
-            "N° DA INSTALAÇÃO",
-            "N DA INSTALAÇÃO",
-            "CONTA CONTRATO",
-        ],
-        parar_em_documento=True,
-    )
-    return " ".join(linhas_cliente)
-
-def _extrair_endereco_entrega(texto):
-    linhas_endereco = _coletar_bloco_apos_rotulo(
-        texto,
-        rotulos=["ENDEREÇO:", "ENDERECO:", "ENDEREÇO DA UNIDADE CONSUMIDORA", "ENDERECO DA UNIDADE CONSUMIDORA"],
-        rotulos_parada=[
-            "CLASSIFICAÇÃO",
-            "CLASSIFICACAO",
-            "REF:MÊS/ANO",
-            "REF:MES/ANO",
-            "MÊS/ANO",
-            "MES/ANO",
-            "CÓDIGO DA INSTALAÇÃO",
-            "CODIGO DA INSTALACAO",
-            "Nº DA INSTALAÇÃO",
-            "N° DA INSTALAÇÃO",
-            "N DA INSTALAÇÃO",
-            "CONTA CONTRATO",
-            "HISTÓRICO DO CONSUMO",
-            "HISTORICO DO CONSUMO",
-        ],
-    )
-    return " | ".join(linhas_endereco)
 
 # ============================================================== #
 # EXECUÇÃO - NEOENERGIA
 # ============================================================== #
 
 def format_neoenergia(input, file_name):    
-    output = str(input).replace("Poppler", "Texter")
 
     vetor=[]
 
@@ -415,7 +321,7 @@ def format_neoenergia(input, file_name):
     consumo_faturado    = _extrair_consumo_faturado(texto)
     consumo_medido      = _extrair_consumo_medido(texto)
     classificacao       = _extrair_classificacao(texto)
-    fornecimento        = extrair_fornecimento(texto)
+    fornecimento        = _extrair_fornecimento(texto)    
  
     vetor.append(unidade)
     vetor.append(referencia)
@@ -429,13 +335,11 @@ def format_neoenergia(input, file_name):
     texto += "\nCONSUMO FATURADO: "     + consumo_faturado
     texto += "\nCONSUMO MEDIDO: "       + consumo_medido
     texto += "\nCLASSIFICAÇÃO: "        + classificacao
-    texto += "\nFORNECIMENTO: "          + fornecimento
+    texto += "\nFORNECIMENTO: "         + fornecimento
     
     fatura_tags = extrair_fatura_tagueada(texto)  
 
-
-
-
+    output = str(input).replace("Poppler", "Texter")
     with open(output, "w", encoding="utf-8") as f:
         f.write(texto)
     

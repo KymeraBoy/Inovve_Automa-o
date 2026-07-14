@@ -65,9 +65,9 @@ Cropper.PATH_POPPLER     = DIRETORIO_BASE / "Faturas_Poppler"
 Cropper.PATH_POPPLER_EXE = DIRETORIO_BASE / "poppler" / "Library" / "bin" / "pdftotext.exe"
 
 # Atualiza dinamicamente as configurações globais internas do Texter.py
-Texter.PATH_INPUT        = DIRETORIO_BASE / "Faturas_Poppler"
-Texter.PATH_OUTPUT       = DIRETORIO_BASE / "Faturas_Texter"
-Texter.PATH_ANALISE      = DIRETORIO_BASE / "Faturas_Analaiser"
+Texter.PATH_POPPLER_PASTE   = DIRETORIO_BASE / "Faturas_Poppler"
+Texter.PATH_TEXTER_PASTE    = DIRETORIO_BASE / "Faturas_Texter"
+Texter.PATH_ANALAISER_PASTE = DIRETORIO_BASE / "Faturas_Analaiser"
 
 
 # ============================================================== #
