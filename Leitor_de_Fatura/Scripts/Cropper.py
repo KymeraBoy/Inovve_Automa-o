@@ -92,21 +92,6 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
         ind_dir.mkdir(parents=True, exist_ok=True)
         limpar_pasta(ind_dir)
     
-    # 2.2 Renomeia todos os PDFs da pasta
-    # if selected_template_name == "ENERGISA":    
-    #     # Lista todos os PDFs
-    #     pdfs = sorted(src_dir.glob("*.pdf"))
-    #     # Etapa 1: renomeia para nomes temporários únicos
-    #     arquivos_temporarios = []
-    #     for pdf in pdfs:
-    #         temp_name = src_dir / f"__tmp__{uuid.uuid4().hex}.pdf"
-    #         pdf.rename(temp_name)
-    #         arquivos_temporarios.append(temp_name)
-    #     # Etapa 2: renomeia para 1.pdf, 2.pdf, 3.pdf...
-    #     for i, temp_file in enumerate(arquivos_temporarios, start=1):
-    #         novo_nome = src_dir / f"{i}.pdf"
-    #         temp_file.rename(novo_nome)
-
     # Garante a existência das pastas Cropped e Poppler para o município selecionado e limpa elas
     dst_dir = PATH_CROPPED / f"{nome_subpasta}_Cropped"
     txt_dir = PATH_POPPLER / f"{nome_subpasta}_Poppler"    

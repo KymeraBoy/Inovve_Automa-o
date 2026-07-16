@@ -49,6 +49,44 @@ def _extrair_unidade(texto: str) -> str | None:
 
     return "UNK"
 
+def _extrair_cliente(texto: str) -> str:
+    linhas = [linha.strip() for linha in texto.splitlines()]
+    
+    for index, linha in enumerate(linhas):
+        if linha == "NOME DO CLIENTE:":
+            # Verifica se a segunda linha existe
+            if index + 2 < len(linhas):
+                segunda_linha = linhas[index + 2]
+                # Se a segunda linha começar com CNPJ, retorna a primeira
+                if segunda_linha.upper().startswith("CNPJ"):
+                    return linhas[index + 1]
+                return segunda_linha
+            # Se apenas a primeira linha após o marcador existir
+            elif index + 1 < len(linhas):
+                return linhas[index + 1]
+                
+    return ""
+
+def _extrair_endereco(texto: str) -> str:
+    linhas = [linha.strip() for linha in texto.splitlines()]
+    endereco_linhas = []
+    capturando = False
+    
+    for linha in linhas:
+        if linha == "ENDEREÇO:":
+            capturando = True
+            continue
+            
+        if capturando:
+            # Para a captura se encontrar o marcador de página
+            if re.match(r"^========== PAGE \d+ ==========$", linha):
+                break
+            # Adiciona a linha se não estiver vazia
+            if linha:
+                endereco_linhas.append(linha)
+                
+    return " ".join(endereco_linhas)
+
 def _extrair_mes_referencia(texto: str) -> str | None:
     """
     Procura no texto os termos:
@@ -272,7 +310,9 @@ def extrair_fatura_tagueada(texto_fatura):
         "Consumo Faturado": 0.0,
         "Consumo Medido": 0.0,
         "Classificação": "UNK",
-        "Fornecimento": "UNK"
+        "Fornecimento": "UNK",
+        "Cliente": "UNK",
+        "Endereço": "UNK"
     }
 
     for linha in linhas:
@@ -302,6 +342,12 @@ def extrair_fatura_tagueada(texto_fatura):
 
         elif "FORNECIMENTO" in chave.upper():
             fatura_tags["Fornecimento"] = valor
+        
+        elif "CLIENTE" in chave.upper():
+            fatura_tags["Cliente"] = valor
+            
+        elif "ENDEREÇO" in chave.upper():
+            fatura_tags["Endereço"] = valor
 
     return fatura_tags
 
@@ -322,6 +368,9 @@ def format_neoenergia(input, file_name):
     consumo_medido      = _extrair_consumo_medido(texto)
     classificacao       = _extrair_classificacao(texto)
     fornecimento        = _extrair_fornecimento(texto)    
+    cliente             = _extrair_cliente(texto)
+    endereco            = _extrair_endereco(texto)
+    print(endereco)
  
     vetor.append(unidade)
     vetor.append(referencia)
@@ -329,13 +378,17 @@ def format_neoenergia(input, file_name):
     vetor.append(consumo_medido)
     vetor.append(classificacao)
     vetor.append(fornecimento)
+    vetor.append(cliente)
+    vetor.append(endereco)
 
     texto = "UNIDADE CONSUMIDORA: "     + unidade
     texto += "\nMÊS DE REFERÊNCIA: "    + referencia
     texto += "\nCONSUMO FATURADO: "     + consumo_faturado
     texto += "\nCONSUMO MEDIDO: "       + consumo_medido
     texto += "\nCLASSIFICAÇÃO: "        + classificacao
-    texto += "\nFORNECIMENTO: "         + fornecimento
+    texto += "\nFORNECIMENTO: "         + fornecimento  
+    texto += "\nCLIENTE: "              + cliente
+    texto += "\nENDEREÇO: "             + endereco
     
     fatura_tags = extrair_fatura_tagueada(texto)  
 

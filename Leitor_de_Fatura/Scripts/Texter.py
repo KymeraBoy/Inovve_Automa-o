@@ -28,6 +28,8 @@ ABAS_RELATORIO_CONFIG = [
     {"nome_aba": "Consumo_Medido", "campo": "Consumo Medido", "valor_padrao": 0.0},
     {"nome_aba": "Consumo_Faturado", "campo": "Consumo Faturado", "valor_padrao": 0.0},
     {"nome_aba": "Fornecimento", "campo": "Fornecimento", "valor_padrao": ""},
+    {"nome_aba": "Cliente", "campo": "Cliente", "valor_padrao": ""},
+    {"nome_aba": "Endereço", "campo": "Endereço", "valor_padrao": ""},
 ]
 
 MESES_MAP = {
