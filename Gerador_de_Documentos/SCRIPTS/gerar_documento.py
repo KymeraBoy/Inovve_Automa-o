@@ -142,6 +142,28 @@ def _ask_image_path(prompt: str) -> str:
         console.print("[red]  Arquivo não encontrado. Informe um caminho de imagem válido.[/red]")
 
 
+MESES_CONTADOR_BASE = 115
+MESES_CONTADOR_DATA_BASE = date(2026, 7, 1)
+MESES_CONTADOR_MAXIMO = 120
+MESES_CONTADOR_PLACEHOLDER = "<<CONTADOR_MESES>>"
+
+
+def _meses_contador_atual(referencia: date | None = None) -> int:
+    """Calcula o contador automático de meses com teto em 120."""
+    referencia = referencia or date.today()
+    meses_passados = (
+        (referencia.year - MESES_CONTADOR_DATA_BASE.year) * 12
+        + (referencia.month - MESES_CONTADOR_DATA_BASE.month)
+    )
+    meses_atual = MESES_CONTADOR_BASE + max(0, meses_passados)
+    return min(MESES_CONTADOR_MAXIMO, meses_atual)
+
+
+def _atualizar_contador_meses(conteudo: str) -> str:
+    """Substitui o contador textual de meses pelo valor automático atual."""
+    return conteudo.replace(MESES_CONTADOR_PLACEHOLDER, str(_meses_contador_atual()))
+
+
 VAPOR_LAMP_TYPES = (
     ("sodio", "vapor de sódio"),
     ("mercurio", "vapor de mercúrio"),
@@ -290,6 +312,8 @@ def _process_perda_reatores_content(conteudo_tex: str) -> str:
     for placeholder, valor in mapa_substituicao.items():
         conteudo_tex = conteudo_tex.replace(placeholder, valor)
 
+    conteudo_tex = _atualizar_contador_meses(conteudo_tex)
+
     conteudo_tex = conteudo_tex.replace(
         "\\perdaVaporfalse",
         "\\perdaVaportrue" if perda_vapor else "\\perdaVaporfalse",
@@ -425,7 +449,8 @@ def _process_ofi_complementar_dobro_content(conteudo_tex: str) -> str:
                 "[red]  Valor inválido. Tente novamente.[/red]"
             )
 
-    return conteudo_tex.replace("<<VALOR_PAGO>>", valor_pago)
+    conteudo_tex = conteudo_tex.replace("<<VALOR_PAGO>>", valor_pago)
+    return _atualizar_contador_meses(conteudo_tex)
 
 
 def list_subtypes_rec() -> list:
@@ -549,6 +574,8 @@ def generate_assembled_doc(
     elif doc_type == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
         subtype_content = _process_ofi_complementar_dobro_content(subtype_content)
 
+    subtype_content = _atualizar_contador_meses(subtype_content)
+
     # Write the (potentially modified) subtype content to a temporary file
     # in the output directory. This ensures that the modifications are applied
     # before LaTeX processes it.
@@ -630,7 +657,7 @@ def handle_standalone_doc(
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / f"{out_name}.tex"
     out_file.write_text(
-        subtype_path.read_text(encoding="utf-8"),
+        _atualizar_contador_meses(subtype_path.read_text(encoding="utf-8")),
         encoding="utf-8",
     )
     return out_file

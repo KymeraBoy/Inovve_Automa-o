@@ -130,6 +130,29 @@ def _ask_image_path(prompt: str) -> str:
         console.print("[red]  Arquivo não encontrado. Informe um caminho de imagem válido.[/red]")
 
 
+MESES_CONTADOR_BASE = 115
+MESES_CONTADOR_DATA_BASE = date(2026, 7, 1)
+MESES_CONTADOR_MAXIMO = 120
+_MESES_CONTADOR_RE = re.compile(r"(últimos?\s+)(1\d{2}|120)(\s+meses)", re.IGNORECASE)
+
+
+def _meses_contador_atual(referencia: date | None = None) -> int:
+    """Calcula o contador automático de meses com teto em 120."""
+    referencia = referencia or date.today()
+    meses_passados = (
+        (referencia.year - MESES_CONTADOR_DATA_BASE.year) * 12
+        + (referencia.month - MESES_CONTADOR_DATA_BASE.month)
+    )
+    meses_atual = MESES_CONTADOR_BASE + max(0, meses_passados)
+    return min(MESES_CONTADOR_MAXIMO, meses_atual)
+
+
+def _atualizar_contador_meses(conteudo: str) -> str:
+    """Substitui o contador textual de meses pelo valor automático atual."""
+    contador = str(_meses_contador_atual())
+    return _MESES_CONTADOR_RE.sub(rf"\g<1>{contador}\g<3>", conteudo)
+
+
 VAPOR_LAMP_TYPES = (
     ("sodio", "vapor de sódio"),
     ("mercurio", "vapor de mercúrio"),
