@@ -560,6 +560,7 @@ def generate_assembled_doc(
     mun_dados = parse_municipio_file(municipio_path)
     mun_nome  = mun_dados.get("nomeMunicipio",
                               municipio_path.stem.replace("Dados_", ""))
+    include_legitimidade = mun_dados.get("legitimidade", "").strip() != "0"
     out_name = build_output_name(doc_type, num_doc, mun_nome, subtype_path.stem, uc)
     out_dir  = SAIDA_DIR / out_name
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -617,10 +618,13 @@ def generate_assembled_doc(
     ]
 
     if doc_type != "OFI":
+        if include_legitimidade:
+            lines.extend([
+                "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
+                f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
+                "",
+            ])
         lines.extend([
-            "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
-            f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
-            "",
             "% ── ANEXOS ────────────────────────────────────────────────────────",
             f"\\input{{{_lpath(empresa_dir / 'anexos.tex')}}}",
             "",

@@ -51,7 +51,6 @@ if not pasta_selecionada:
 DIRETORIO_BASE = Path(pasta_selecionada).resolve()
 root_init.destroy() 
 
-
 # ============================================================== #
 # CONFIGURAÇÕES DE CAMINHOS DINÂMICOS (Injeta nos módulos)
 # ============================================================== #

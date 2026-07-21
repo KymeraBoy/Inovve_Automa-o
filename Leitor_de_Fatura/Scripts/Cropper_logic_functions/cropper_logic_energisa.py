@@ -594,8 +594,89 @@ def extrair_unidade_para_nome_layout4(texto):
     return extrair_unidade_para_nome(texto)
 
 def extrair_uc_energisa(texto_norm):
-    uc_match = re.search(r"\b\d/\d{5,7}-\d\b", texto_norm)
-    return uc_match.group(0) if uc_match else "Não encontrado"
+
+    PADROES_UC = [
+        r"\b\d/\d{5,7}-\d\b",   # Maior prioridade
+        r"\d{3}\.\d{3}\.\d{3}-\d{2}",  # Segunda prioridade      
+        r"\d{2}\.\d{3}-\d{2}",  # Terceira prioridade
+    ]
+
+    for padrao in PADROES_UC:
+        uc_match = re.search(padrao, texto_norm)
+
+        if uc_match:
+            uc = uc_match.group(0)
+
+            # Normaliza o segundo padrão removendo 
+            # if padrao == r"\b\d/\d{5,7}-\d\b":
+            #     uc = uc.replace("/", "").replace("-", "")
+            if padrao == r"\d{2}\.\d{3}-\d{2}":
+                uc = uc.replace(".", "").replace("-", "")
+
+            return uc
+
+    return "Não encontrado"
+
+def extrair_municipio_energisa(texto: str) -> str | None:
+    
+    municipio_match = re.search(
+        r"^([^\r\n]*?)\s*\(AG:\s*\d{1,3}\)",
+        texto,
+        re.MULTILINE
+    )
+
+    if "DOMICÍLIO DE ENTREGA" not in texto and municipio_match is None:
+        return "SEM DOMICÍLIO DE ENTREGA"
+
+    municipio_str = municipio_match.group(1).strip() if municipio_match else ""
+
+    municipio_str = re.sub(
+        r"\s*[-/]\s*[A-Za-z]{2}$",
+        "",
+        municipio_str
+    )
+
+    return municipio_str if municipio_str else None
+
+def extrair_mes_energisa(texto_norm):
+
+    PADROES_MES = [
+        r"\b(Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro)\s*/\s*\d{4}\b",
+        r"\b(JAN|FEV|MAR|ABR|MAI|JUN|JUL|AGO|SET|OUT|NOV|DEZ)\s*/?\s*\d{4}\b",
+    ]
+
+    MESES_ABREV = {
+        "janeiro": "JAN",
+        "fevereiro": "FEV",
+        "março": "MAR",
+        "abril": "ABR",
+        "maio": "MAI",
+        "junho": "JUN",
+        "julho": "JUL",
+        "agosto": "AGO",
+        "setembro": "SET",
+        "outubro": "OUT",
+        "novembro": "NOV",
+        "dezembro": "DEZ",
+    }
+
+    for padrao in PADROES_MES:
+        mes_match = re.search(padrao, texto_norm, re.IGNORECASE)
+        if mes_match:
+            valor = mes_match.group(0)
+            partes = re.search(
+                r"([A-Za-zÀ-ÿ]+)\s*/?\s*(\d{4})",
+                valor
+            )
+            if partes:
+                mes = partes.group(1).lower()
+                ano = partes.group(2)
+                mes_abrev = MESES_ABREV.get(
+                    mes,
+                    mes[:3].upper()
+                )
+                return f"{mes_abrev}/{ano}"
+    return None
 
 def parece_layout4_sem_pix_qr(texto_norm, uc_extraida):
     if not uc_extraida.startswith("5/"):
@@ -739,8 +820,36 @@ def cropper_logic_energisa(input_path, pasta_cropper, pasta_poppler, template, P
     doc, texto_completo = abrir_pdf_e_extrair_texto(input_path)
 
     uc = extrair_uc_energisa(texto_completo)
-    print(texto_completo)
-    print(uc)
+    municipio = extrair_municipio_energisa(texto_completo)
+    mes = extrair_mes_energisa(texto_completo)
+
+    # Montagem do nome do documento    
+    valores = [municipio, mes, uc]
+    partes = []
+    for valor in valores:
+        valor = "".join(
+            c if c.isalnum() else "_"
+            for c in valor)
+        valor = re.sub(r"_+", "_", valor)
+        valor = valor.strip("_")
+        partes.append(valor)
+    nome = "-".join(partes)
+
+
+    doc.close()
+    novo_nome = input_path.with_name(f"{nome}.pdf")
+    contador = 1
+    while novo_nome.exists():
+        novo_nome = input_path.with_name(f"{nome}_{contador}.pdf")
+        contador += 1
+    input_path.rename(novo_nome)
+
+    # print(nome)
+
+    # if municipio is "SEM DOMICÍLIO DE ENTREGA" :
+    #     print(input_path)
+    
+
 
     # # 1) Identificacao do layout da fatura
     # layout_key, recortes = identificar_layout_fatura(doc, template, texto_completo)
