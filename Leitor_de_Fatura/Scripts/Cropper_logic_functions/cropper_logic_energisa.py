@@ -619,21 +619,22 @@ def extrair_uc_energisa(texto_norm):
 
 def extrair_municipio_energisa(texto: str) -> str | None:
     
-    municipio_match = re.search(
-        r"^([^\r\n]*?)\s*\(AG:\s*\d{1,3}\)",
-        texto,
-        re.MULTILINE
+    municipio_match = re.findall(
+    r"^([^\r\n]*?)\s*\(AG:\s*\d{1,3}\)",
+    texto,
+    re.MULTILINE
     )
+    print(municipio_match)
 
-    if "DOMICÍLIO DE ENTREGA" not in texto and municipio_match is None:
+    if "DOMICÍLIO DE ENTREGA" not in texto and not municipio_match:
         return "SEM DOMICÍLIO DE ENTREGA"
 
-    municipio_str = municipio_match.group(1).strip() if municipio_match else ""
+    municipio_str = municipio_match[1].strip() if municipio_match else ""
 
     municipio_str = re.sub(
-        r"\s*[-/]\s*[A-Za-z]{2}$",
-        "",
-        municipio_str
+    r"\s+(?:[-/]\s*)?[A-Za-z]{2}$",
+    "",
+    municipio_str
     )
 
     return municipio_str if municipio_str else None
