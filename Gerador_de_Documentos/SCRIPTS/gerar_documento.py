@@ -85,6 +85,16 @@ def get_titulo_from_subtype(path: Path) -> str:
         return ""
 
 
+def get_tese_from_subtype(path: Path) -> str:
+    """Lê o conteúdo de \\tese definido no subtipo, quando existir."""
+    try:
+        data = parse_latex_commands(path.read_text(encoding="utf-8"))
+        return data.get("tese", "").strip()
+    except Exception as exc:
+        console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
+        return ""
+
+
 def list_municipios() -> list:
     """Retorna lista de (nome_display, path, dados_dict)."""
     result = []
@@ -520,8 +530,26 @@ def _tokenize_name(value: str) -> str:
     return re.sub(r"_+", "_", underscored).strip("_") or "SEM_NOME"
 
 
-def build_output_name(doc_type: str, num_doc: str, municipio: str, subtype_stem: str, uc: str = "") -> str:
-    """Monta nome de saída: TIPO-NUMERO-MUNICIPIO-SUBTIPO-UC (ASCII e CAIXA ALTA)."""
+def build_output_name(
+    doc_type: str,
+    num_doc: str,
+    municipio: str,
+    subtype_stem: str,
+    uc: str = "",
+    origem_tipo: str = "",
+    origem_cod: str = "",
+    tese: str = "",
+) -> str:
+    """Monta nome de saída em ASCII e CAIXA ALTA."""
+    if doc_type == "OFI":
+        return "-".join([
+            _tokenize_name(doc_type),
+            _tokenize_name(num_doc),
+            _tokenize_name(municipio),
+            _tokenize_name(origem_tipo),
+            _tokenize_name(origem_cod),
+        ])
+
     parts = [
         _tokenize_name(doc_type),
         _tokenize_name(num_doc),
@@ -541,6 +569,9 @@ def generate_assembled_doc(
     num_doc: str,
     uc: str,
     titulo: str,
+    origem_tipo: str = "",
+    origem_cod: str = "",
+    tese: str = "",
 ) -> Path:
     """
     Monta documento.tex em SAÍDA/{municipio}_{tipo}_{numero}/ com
@@ -561,7 +592,16 @@ def generate_assembled_doc(
     mun_nome  = mun_dados.get("nomeMunicipio",
                               municipio_path.stem.replace("Dados_", ""))
     include_legitimidade = mun_dados.get("legitimidade", "").strip() != "0"
-    out_name = build_output_name(doc_type, num_doc, mun_nome, subtype_path.stem, uc)
+    out_name = build_output_name(
+        doc_type,
+        num_doc,
+        mun_nome,
+        subtype_path.stem,
+        uc,
+        origem_tipo,
+        origem_cod,
+        tese,
+    )
     out_dir  = SAIDA_DIR / out_name
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -651,12 +691,24 @@ def handle_standalone_doc(
     num_doc: str,
     municipio_nome: str,
     uc: str = "",
+    origem_tipo: str = "",
+    origem_cod: str = "",
+    tese: str = "",
 ) -> Path:
     """
     Documentos autônomos (já possuem \\documentclass / \\begin{document})
     são copiados para SAÍDA/ sem modificação.
     """
-    out_name = build_output_name(doc_type, num_doc, municipio_nome, subtype_path.stem, uc)
+    out_name = build_output_name(
+        doc_type,
+        num_doc,
+        municipio_nome,
+        subtype_path.stem,
+        uc,
+        origem_tipo,
+        origem_cod,
+        tese,
+    )
     out_dir  = SAIDA_DIR / out_name
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / f"{out_name}.tex"
@@ -766,6 +818,15 @@ def increment_code(code: str) -> str:
     return code[:match.start()] + new_num_str + code[match.end():]
 
 
+def prompt_origem_cod(prompt_text: str) -> str:
+    """Lê um código de origem no formato XXX_XXXX."""
+    while True:
+        origem_cod_input = Prompt.ask(prompt_text).strip().upper()
+        if re.fullmatch(r"[A-Z0-9]{3}_[A-Z0-9]{4}", origem_cod_input):
+            return origem_cod_input
+        console.print("[red]  Código inválido. Use o formato XXX_XXXX.[/red]")
+
+
 # ---------------------------------------------------------------------------
 # Fluxo principal
 # ---------------------------------------------------------------------------
@@ -829,6 +890,28 @@ def main():
     )
     _, subtype_path = subtypes[st_idx]
 
+    origem_tipo = ""
+    origem_cod = ""
+    tese = ""
+    if doc_type == "OFI":
+        origem_tipo_idx = choose_from_list(
+            "Documento de origem do OFI",
+            ["REC", "REQ"],
+        )
+        origem_tipo = ["REC", "REQ"][origem_tipo_idx]
+
+        tese = get_tese_from_subtype(subtype_path)
+        if tese:
+            console.print(
+                f"  TESE [dim](lida de {subtype_path.name})[/dim]: {tese}"
+            )
+        else:
+            console.print(
+                "[yellow]  Aviso:[/yellow] macro \\tese não encontrada no subtipo; "
+                "será usado o nome do subtipo no nome do arquivo."
+            )
+            tese = subtype_path.stem
+
     # 5. Dados do documento ───────────────────────────────────────────────────
     console.print()
     modo_idx = choose_from_list(
@@ -840,15 +923,34 @@ def main():
     if modo_idx == 0:
         num_doc = Prompt.ask("  Número do documento [dim](ex: 001/2026)[/dim]").strip()
         uc = Prompt.ask("  Unidade consumidora [dim](deixe em branco se n/a)[/dim]", default="").strip()
-        ucs_to_process.append((num_doc, uc))
+        if doc_type == "OFI":
+            origem_cod = prompt_origem_cod(
+                "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+            )
+        ucs_to_process.append((num_doc, uc, origem_cod if doc_type == "OFI" else ""))
     else:
         num_ini = Prompt.ask("  Número inicial do documento [dim](ex: 001/2026)[/dim]").strip()
         ucs_raw = Prompt.ask("  Lista de UCs [dim](separe por espaço, vírgula ou nova linha)[/dim]").strip()
         ucs_list = [u.strip() for u in re.split(r'[,\s\n]+', ucs_raw) if u.strip()]
 
+        origem_cod_modo = 0
+        if doc_type == "OFI":
+            origem_cod_modo = choose_from_list(
+                "Numeração do documento de origem",
+                ["Única para todos os documentos", "Em lote (sequencial)"],
+            )
+            origem_cod = prompt_origem_cod(
+                "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+                if origem_cod_modo == 0
+                else "  Código inicial do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+            )
+
         curr_num = num_ini
+        curr_origem_cod = origem_cod
         for u in ucs_list:
-            ucs_to_process.append((curr_num, u))
+            ucs_to_process.append((curr_num, u, curr_origem_cod if doc_type == "OFI" else ""))
+            if doc_type == "OFI" and origem_cod_modo == 1:
+                curr_origem_cod = increment_code(curr_origem_cod)
             curr_num = increment_code(curr_num)
 
     titulo = get_titulo_from_subtype(subtype_path)
@@ -865,15 +967,25 @@ def main():
     # 6. Gerar ────────────────────────────────────────────────────────────────
     standalone = not is_fragment(subtype_path)
 
-    for n_doc, n_uc in ucs_to_process:
-        console.print(f"\n  [bold]Processando: {n_doc} | UC: {n_uc or 'N/A'}[/bold]")
+    for n_doc, n_uc, n_origem_cod in ucs_to_process:
+        extra_info = f" | Origem: {n_origem_cod}" if doc_type == "OFI" else ""
+        console.print(f"\n  [bold]Processando: {n_doc} | UC: {n_uc or 'N/A'}{extra_info}[/bold]")
 
         if standalone:
-            out_file = handle_standalone_doc(subtype_path, doc_type, n_doc, nome_mun, n_uc)
+            out_file = handle_standalone_doc(
+                subtype_path,
+                doc_type,
+                n_doc,
+                nome_mun,
+                n_uc,
+                origem_tipo,
+                n_origem_cod,
+                tese,
+            )
         else:
             out_file = generate_assembled_doc(
                 mun_path, empresa, doc_type, subtype_path,
-                n_doc, n_uc, titulo,
+                n_doc, n_uc, titulo, origem_tipo, n_origem_cod, tese,
             )
 
         ok, pdf_path, compile_msg = compile_tex_to_pdf(out_file)
