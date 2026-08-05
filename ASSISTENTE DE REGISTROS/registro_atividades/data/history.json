@@ -1,0 +1,196 @@
+{
+  "events": [
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa longa",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa longa",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa longa",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "foco",
+      "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
+    }
+  ]
+}

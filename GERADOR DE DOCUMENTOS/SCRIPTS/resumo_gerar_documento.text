@@ -1,0 +1,78 @@
+Resumo do que o gerar_documento.py faz
+
+Visao geral
+- O script e um gerador interativo de documentos LaTeX para os tipos REC, REQ e OFI.
+- Ele monta o arquivo final combinando dados do municipio, estrutura da empresa e um subtipo (tese/modelo).
+- Ao final, tenta compilar automaticamente para PDF (pdflatex/xelatex), com passagens extras para referencias e indice.
+
+Principais capacidades
+- Lista municipios a partir de arquivos MUNICIPIOS/Dados_*.tex.
+- Le macros LaTeX (newcommand/providecommand/renewcommand) para extrair dados do municipio e do subtipo.
+- Detecta automaticamente titulo do documento a partir de macros conhecidas do subtipo.
+- Detecta se a tese usa IP estimada e, nesse caso, preenche a UC automaticamente.
+- Oferece dois fluxos principais:
+  - Fluxo padrao (um municipio por vez).
+  - Varredura de teses (mesma tese para varios municipios).
+- Permite operacao em documento unico ou em lote (multiplas UCs), com incremento automatico de numeracao (ex.: 001/2026 -> 002/2026).
+- Para OFI, solicita tipo e codigo do documento de origem (formato XXX_XXXX), com opcao de sequencial em lote.
+- Trata subtipos especiais com perguntas adicionais e substituicao de placeholders:
+  - Perda nos Reatores: coleta dados, calcula faturamento de 10 anos e dobro, monta blocos de figura e textos normativos.
+  - Perda por Transformacao: solicita imagens para identificacao/comprovacao/consumo/faturamento e injeta no template.
+  - Complementar do Dobro (OFI): valida e formata valor monetario para padrao brasileiro.
+- Atualiza automaticamente um placeholder de contador de meses (com base temporal e teto configurado).
+- Identifica se o subtipo e fragmento ou documento autonomo:
+  - Fragmento: monta documento completo com preambulo, intro, anexos, final e subtipo processado.
+  - Autonomo: copia o .tex para SAIDA com ajustes necessarios, sem montagem adicional.
+
+Fluxo de operacao (passo a passo)
+1. Inicializacao
+- Define caminhos de trabalho (MUNICIPIOS, EMPRESAS, REC, REQ, OFI, SAIDA).
+- Valida dependencia da biblioteca rich para interface no terminal.
+
+2. Escolha do modo
+- Usuario escolhe entre:
+  - Padrao (municipio unico).
+  - Varredura de teses (mesmo subtipo para varios municipios).
+
+3. Selecao de contexto
+- Escolhe municipio (ou percorre todos, no modo varredura).
+- Infere empresa pelo campo empresaResponsavel do municipio; se faltar, pede manualmente.
+- Escolhe tipo de documento: REC, REQ ou OFI.
+- Lista subtipos disponiveis conforme o tipo e, para REQ, considera pasta da empresa.
+
+4. Leitura de regras do subtipo
+- Verifica titulo e tese (quando aplicavel).
+- Verifica se exige IP estimada.
+- Para OFI, pergunta origem (REC/REQ) e codigo de origem.
+
+5. Coleta de dados do documento
+- Numero do documento.
+- UC (manual ou automatica por IP estimada).
+- Em lote, divide lista de UCs e incrementa numeracao automaticamente.
+- Em OFI em lote, pode incrementar tambem o codigo de origem.
+
+6. Montagem do .tex de saida
+- Gera nome de arquivo/pasta em ASCII e caixa alta padronizada.
+- Se subtipo for fragmento:
+  - Cria documento completo com \input absolutos para preambulo, dados do municipio, intro, anexos/legitimidade (quando aplicavel), subtipo processado e final.
+- Se subtipo for autonomo:
+  - Copia o conteudo para SAIDA sem montagem estrutural.
+
+7. Processamentos especiais de template
+- Executa rotinas especificas para subtipos especiais (reatores, transformacao, complementar do dobro).
+- Substitui placeholders de texto, valores e blocos de imagem.
+- Atualiza contador automatico de meses.
+
+8. Compilacao em PDF
+- Tenta pdflatex e depois xelatex (se disponiveis).
+- Faz 3 passagens para estabilizar referencias.
+- Se houver .idx e makeindex disponivel, roda indice entre passagens.
+- Exibe sucesso/falha com resumo no terminal.
+
+9. Ciclo continuo
+- Ao terminar um ciclo, reinicia o gerador para novo documento.
+- Encerra apenas quando o usuario interrompe (Ctrl+C).
+
+Resultado final
+- O script entrega um .tex final em SAIDA/<nome_padronizado>/ e, quando possivel, o PDF correspondente na mesma pasta.
+- Toda a operacao e guiada por prompts, com validacoes de entrada e mensagens de erro/sucesso no terminal.

@@ -1,0 +1,96 @@
+REGISTRO DO DIA
+2026-08-03
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+Automatizando a análise de QIP
+
+Contexto: Eu quero fazer a análise de perdas nos reatores do quadro de iluminação pública mais automático, da seguinte forma, todo QIP possui uma planilha nessa planilha as colunas que me interessam são a de tipo da lâmpada potência e perda, eu possuo um gabarito como aba dessa planilha indicando qual deve ser a perda máxima para cada combinação de tipo de lâmpada e potência da mesma, que quero uma forma no próprio excel de em uma coluna, na aba do QIP identificar se alguma lâmpada teve uma perda maior do que a máxima
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+10:37
+
+Testando registro automático
+
+--------------------------------------------------
+
+10:55
+
+Contestar as reclamações 004/2026 e 005/2026 de Santo Antônio de Jesus na ANEEL
+
+--------------------------------------------------
+
+11:03
+
+Atualização do Status das reclamações de Gurinhém - Todas estavam com resposta atrasada pois eu por confusão coloquei como data de retorno a data em que eles enviaram o protocolo sendo que na verdade deve ser a data em que eles enviam a resposta, de toda forma, passar as 37 reclamações para a ouvidoria (apenas 10 por dia).
+
+--------------------------------------------------
+
+11:23
+
+Fim do almoço
+
+--------------------------------------------------
+
+11:49
+
+Passar para a ouvidoria da concessionária - Gurinhém - REC 001/2026 até a 010/2026 (Fica faltando mais 27)
+
+--------------------------------------------------
+
+11:58
+
+Atualizando a lista de atividades - Pondo as levas de reclamações de Gurinhém para passar para a ouvidoria como atividades pendentes
+
+--------------------------------------------------
+
+12:50
+
+Método de análise do QIP automático - Protótipo rudimentar, mas já facilita muito o processo por enquanto, permite identificar em quais meses houve cobrança indevida, melhorias futuras incluem gerar a tabela de perdas para a reclamação e retornar todos os meses em que houve cobrança indevida, melhorar também a usabilidade, ainda precisa de muita interação do usuário.
+
+--------------------------------------------------
+
+13:13
+
+Finalizada análise de QIP (Perda nos reatores) de Gurinhém + Elaboração da reclamação de Perda nos reatores de Gurinhém
+
+--------------------------------------------------
+
+13:39
+
+Leitura de E-mails 3 Reclamações CELPE foram deferidas, porém não consegui identificar o protocolo de duas delas na planilha, a terceira é referente a Ribeirão, e pelo fato de que Itaíba é a única outra cidade de Pernambuco da HLA e ela não tem reclamações as outras duas também devem ser de Ribeirão.
+Salvei o resto das faturas de Miranda que ainda estavam enviando.
+
+--------------------------------------------------
+
+13:46
+
+Consegui localizar mais um protocolo deferido de Ribeirão, referente a reclamação 026/2026 de Custo de disponibilidade.
+
+--------------------------------------------------
+
+13:51
+
+Adicionei na tabela as atividades de contestar custo de disponibilidade em Guanambi e Itabela e a atividade de atualizar as datas de deferimento de Ribeirão
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

@@ -1,0 +1,5 @@
+{
+  "records_root": "registros_diarios",
+  "monitor_interval_seconds": 60,
+  "open_notepad_on_start": true
+}

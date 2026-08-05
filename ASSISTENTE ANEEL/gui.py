@@ -37,6 +37,8 @@ class AppGUI(ctk.CTk):
         self.objetivos_modelos = {
             "Contestação de Indeferimento": "Contestar o indeferimento da reclamação",
             "Contestação de Memorial de Cálculo": "Contestar o memorial de cálculo",
+            "Contestação do Deferimento Parcial": "Contestar o deferimento parcial da reclamação",
+
         }
         self.modelos_config = {
             "Modelo de ouvidoria": """Prezado ouvidor,
@@ -48,6 +50,7 @@ Referente a <<TESE>> de <<MUNICÍPIO>>. O pedido visa <<OBJETIVO>>.
 A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         }
         self.opcoes_modelos = list(self.objetivos_modelos.keys())
+        self._scroll_widget = None
 
         # Construção da Interface
         self._build_widgets()
@@ -55,8 +58,14 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
 
     def _build_widgets(self):
         """Monta a estrutura visual dos componentes."""
+        # Área principal rolável
+        self._scroll_widget = ctk.CTkScrollableFrame(self)
+        self._scroll_widget.pack(fill="both", expand=True, padx=15, pady=(15, 8))
+
+        self._bind_mousewheel(self._scroll_widget)
+
         # Container de Seleção Topo
-        frame_topo = ctk.CTkFrame(self)
+        frame_topo = ctk.CTkFrame(self._scroll_widget)
         frame_topo.pack(fill="x", padx=15, pady=15)
 
         lbl_select = ctk.CTkLabel(
@@ -82,7 +91,7 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         btn_refresh.pack(side="right")
 
         # Container de Informações Atuais
-        frame_info = ctk.CTkFrame(self)
+        frame_info = ctk.CTkFrame(self._scroll_widget)
         frame_info.pack(fill="x", padx=15, pady=5)
 
         self.lbl_status_municipio = ctk.CTkLabel(
@@ -94,7 +103,7 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         self.lbl_status_municipio.pack(pady=10)
 
         # Container de Botões de Cópia
-        frame_botoes = ctk.CTkFrame(self)
+        frame_botoes = ctk.CTkFrame(self._scroll_widget)
         frame_botoes.pack(fill="both", expand=True, padx=15, pady=15)
 
         lbl_botoes = ctk.CTkLabel(
@@ -120,6 +129,21 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
             frame_botoes, 
             "TEL. REPRESENTANTE", 
             lambda: self._copiar_campo("TEL_REPRESENTANTE")
+        )
+        self.btn_nome_rep = self._criar_botao_copia(
+            frame_botoes,
+            "NOME DO REPRESENTANTE",
+            lambda: self._copiar_campo("NOME_REPRESENTANTE"),
+        )
+        self.btn_cnpj_rep = self._criar_botao_copia(
+            frame_botoes,
+            "CNPJ DO REPRESENTANTE",
+            lambda: self._copiar_campo("CNPJ_REPRESENTANTE"),
+        )
+        self.btn_email_rep = self._criar_botao_copia(
+            frame_botoes,
+            "E-MAIL DO REPRESENTANTE",
+            lambda: self._copiar_campo("EMAIL_REPRESENTANTE"),
         )
 
         lbl_modelos = ctk.CTkLabel(
@@ -182,6 +206,17 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
             text_color="gray",
         )
         self.lbl_feedback.pack(side="bottom", pady=8)
+
+    def _bind_mousewheel(self, widget):
+        """Permite rolar a área principal com o mouse em Windows."""
+
+        def _on_mousewheel(event):
+            delta = -1 * int(event.delta / 120) if event.delta else 0
+            if delta:
+                widget._parent_canvas.yview_scroll(delta, "units")
+
+        widget.bind("<Enter>", lambda _event: widget.bind_all("<MouseWheel>", _on_mousewheel))
+        widget.bind("<Leave>", lambda _event: widget.unbind_all("<MouseWheel>"))
 
     def _criar_botao_copia(self, master, label: str, command, state: str = "disabled") -> ctk.CTkButton:
         """Helper para padronizar os botões de ação."""
@@ -267,6 +302,9 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         self.btn_email.configure(state=st)
         self.btn_cnpj.configure(state=st)
         self.btn_tel_rep.configure(state=st)
+        self.btn_nome_rep.configure(state=st)
+        self.btn_cnpj_rep.configure(state=st)
+        self.btn_email_rep.configure(state=st)
 
     def _copiar_campo(self, campo: str):
         """Copia o conteúdo do campo solicitado e exibe feedback imediato."""

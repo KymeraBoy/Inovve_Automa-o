@@ -3,9 +3,10 @@ Módulo de Parsing TeX.
 Responsável por ler os arquivos .tex e extrair variáveis via Expressões Regulares.
 """
 
+
 from pathlib import Path
 import re
-from config import CONCESSIONARIA_ESTADO_MAP
+from config import CONCESSIONARIA_ESTADO_MAP, PREAMBULO_EMPRESA_MAP
 from models import ClienteMunicipio
 
 
@@ -31,6 +32,53 @@ class TexParser:
     REGEX_EMPRESA = re.compile(
         r"\\newcommand\{\\empresaResponsavel\}\{(.*?)\}", re.IGNORECASE
     )
+
+    REGEX_PREAMBULO_COMANDO = re.compile(
+        r"\\(?:providecommand|newcommand)\{\\(?P<nome>[A-Za-z]+)\}\{(?P<valor>.*?)\}",
+        re.IGNORECASE,
+    )
+
+    COMANDOS_EMPRESA = {
+        "representante_nome": {"RepresentanteEmpresa"},
+        "representante_email": {"EmailEmpresa", "emailEmpresa"},
+        "representante_cnpj": {"CNPJEmpresa"},
+        "representante_telefone": {"TelefoneEmpresa"},
+    }
+
+    @classmethod
+    def _extrair_comando_preambulo(cls, content: str, nomes: set[str]) -> str:
+        for match in cls.REGEX_PREAMBULO_COMANDO.finditer(content):
+            if match.group("nome") in nomes:
+                return match.group("valor").strip()
+        return ""
+
+    @classmethod
+    def _carregar_dados_empresa(cls, empresa_responsavel: str) -> dict:
+        empresa = empresa_responsavel.upper().strip()
+        preambulo_path = PREAMBULO_EMPRESA_MAP.get(empresa)
+
+        if not preambulo_path or not preambulo_path.exists():
+            return {
+                "representante_nome": "",
+                "representante_cnpj": "",
+                "representante_email": "",
+                "representante_telefone": "",
+            }
+
+        try:
+            content = preambulo_path.read_text(encoding="utf-8")
+        except Exception:
+            return {
+                "representante_nome": "",
+                "representante_cnpj": "",
+                "representante_email": "",
+                "representante_telefone": "",
+            }
+
+        return {
+            campo: cls._extrair_comando_preambulo(content, nomes)
+            for campo, nomes in cls.COMANDOS_EMPRESA.items()
+        }
 
     @classmethod
     def parse_file(cls, filepath: Path) -> ClienteMunicipio:
@@ -79,6 +127,7 @@ class TexParser:
 
         # Se não encontrar \empresaResponsavel no .tex, assume string vazia
         empresa_resp = match_empresa.group(1).strip() if match_empresa else ""
+        dados_empresa = cls._carregar_dados_empresa(empresa_resp)
 
         return ClienteMunicipio(
             nome_municipio=match_nome.group(1).strip(),
@@ -89,4 +138,8 @@ class TexParser:
             empresa_responsavel=empresa_resp,
             caminho_arquivo=str(filepath),
             concessionaria=nome_arquivo_conc.replace(".tex", "").replace("_", " "),
+            representante_nome=dados_empresa["representante_nome"],
+            representante_cnpj=dados_empresa["representante_cnpj"],
+            representante_email=dados_empresa["representante_email"],
+            representante_telefone=dados_empresa["representante_telefone"],
         )

@@ -50,6 +50,10 @@ console = Console()
 _CMD_RE = re.compile(
     r'\\(?:new|provide|renew)command\s*\{\\(\w+)\}\s*\{([^}]*)\}'
 )
+_IP_ESTIMADA_COMMENT_RE = re.compile(
+    r"^\s*%\s*DEDICADA\s+A\s+IP\s+ESTIMADA\b",
+    re.IGNORECASE | re.MULTILINE,
+)
 
 
 def parse_latex_commands(content: str) -> dict:
@@ -93,6 +97,35 @@ def get_tese_from_subtype(path: Path) -> str:
     except Exception as exc:
         console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
         return ""
+
+
+def _is_truthy_flag(value: str) -> bool:
+    """Interpreta valores textuais simples como flag booleana."""
+    return value.strip().lower() in {"1", "true", "sim", "s", "yes", "y"}
+
+
+def subtype_uses_ip_estimada(path: Path) -> bool:
+    """Indica se a tese deve usar automaticamente a UC de IP estimada do município."""
+    try:
+        content = path.read_text(encoding="utf-8")
+    except Exception as exc:
+        console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
+        return False
+
+    data = parse_latex_commands(content)
+    if _is_truthy_flag(data.get("usaIPEstimada", "")):
+        return True
+
+    # Compatibilidade com a anotação textual já usada em algumas teses.
+    return _IP_ESTIMADA_COMMENT_RE.search(content) is not None
+
+
+def get_ip_estimada_from_municipio(mun_dados: dict) -> str:
+    """Lê a UC de IP estimada do município (novo nome + fallback legado)."""
+    return (
+        mun_dados.get("IPestimada", "").strip()
+        or mun_dados.get("IP_estimada", "").strip()
+    )
 
 
 def list_municipios() -> list:
@@ -484,6 +517,24 @@ def list_subtypes_req(empresa: str) -> list:
             subtypes.append((f"[{empresa}] {_label(f.stem)}", f))
     return subtypes
 
+
+def list_subtypes_req_all() -> list:
+    """Subtipos REQ de uso geral e por empresa, para varredura multi-municípios."""
+    subtypes = []
+    for f in sorted(REQ_DIR.glob("*.tex")):
+        if f.is_file():
+            subtypes.append((_label(f.stem), f))
+
+    for empresa_dir in sorted(REQ_DIR.iterdir()):
+        if not empresa_dir.is_dir():
+            continue
+        empresa_nome = empresa_dir.name.upper()
+        for f in sorted(empresa_dir.glob("*.tex")):
+            if f.is_file():
+                subtypes.append((f"[{empresa_nome}] {_label(f.stem)}", f))
+
+    return subtypes
+
 def list_subtypes_ofi() -> list:
     """Fragmentos de subtipos para OFI: arquivos .tex na raiz de OFI/."""
     return [
@@ -827,10 +878,231 @@ def prompt_origem_cod(prompt_text: str) -> str:
         console.print("[red]  Código inválido. Use o formato XXX_XXXX.[/red]")
 
 
+def _infer_empresa_from_municipio(nome_mun: str, mun_dados: dict) -> str:
+    """Infere a empresa do município e solicita manualmente quando ausente."""
+    empresa = mun_dados.get("empresaResponsavel", "").strip().upper()
+    if empresa:
+        return empresa
+    console.print(
+        f"[yellow]  Aviso: empresa não encontrada no arquivo do município ({nome_mun}).[/yellow]"
+    )
+    return Prompt.ask("  Informe a empresa (HLA ou RUDA)").strip().upper()
+
+
+def _required_req_empresa(subtype_path: Path) -> str:
+    """Retorna a empresa exigida por um subtipo REQ específico, quando aplicável."""
+    if subtype_path.parent == REQ_DIR:
+        return ""
+    if subtype_path.parent.parent == REQ_DIR:
+        return subtype_path.parent.name.upper()
+    return ""
+
+
+def _generate_for_case(
+    nome_mun: str,
+    mun_path: Path,
+    empresa: str,
+    doc_type: str,
+    subtype_path: Path,
+    n_doc: str,
+    n_uc: str,
+    titulo: str,
+    origem_tipo: str,
+    n_origem_cod: str,
+    tese: str,
+    standalone: bool,
+) -> bool:
+    """Gera e compila um documento para um caso específico."""
+    extra_info = f" | Origem: {n_origem_cod}" if doc_type == "OFI" else ""
+    console.print(
+        f"\n  [bold]Processando: {nome_mun} | {n_doc} | UC: {n_uc or 'N/A'}{extra_info}[/bold]"
+    )
+
+    if standalone:
+        out_file = handle_standalone_doc(
+            subtype_path,
+            doc_type,
+            n_doc,
+            nome_mun,
+            n_uc,
+            origem_tipo,
+            n_origem_cod,
+            tese,
+        )
+    else:
+        out_file = generate_assembled_doc(
+            mun_path,
+            empresa,
+            doc_type,
+            subtype_path,
+            n_doc,
+            n_uc,
+            titulo,
+            origem_tipo,
+            n_origem_cod,
+            tese,
+        )
+
+    ok, pdf_path, compile_msg = compile_tex_to_pdf(out_file)
+
+    if ok:
+        console.print(Panel(
+            f"[bold green]✓ Sucesso para {n_doc}![/bold green]\n\n"
+            f"Arquivo .tex: [cyan]{out_file}[/cyan]\n"
+            f"Arquivo PDF: [cyan]{pdf_path}[/cyan]\n\n"
+            f"[dim]{compile_msg}[/dim]",
+            title=f"Doc {n_doc}",
+            border_style="green",
+        ))
+    else:
+        if standalone:
+            console.print(Panel(
+                f"[yellow]⚠ O subtipo é autônomo. PDF não gerado automaticamente.[/yellow]\n\n"
+                f"Arquivo .tex: [cyan]{out_file}[/cyan]\n\n"
+                f"[dim]{compile_msg}[/dim]",
+                title=f"Atenção {n_doc}",
+                border_style="yellow",
+            ))
+        else:
+            console.print(Panel(
+                f"[red]✖ Falha na compilação do PDF.[/red]\n\n"
+                f"Arquivo .tex: [cyan]{out_file}[/cyan]\n\n"
+                f"[dim]{compile_msg}[/dim]",
+                title=f"Erro {n_doc}",
+                border_style="red",
+            ))
+
+    return ok
+
+
+def _run_varredura_teses(municipios: list) -> bool:
+    """Executa o modo Varredura de Teses para todos os municípios cadastrados."""
+    console.print("\n[bold blue]MODO: VARREDURA DE TESES[/bold blue]")
+
+    tipo_idx = choose_from_list(
+        "Tipo de documento",
+        [
+            "REC  —  Reclamação",
+            "REQ  —  Requerimento / Petição",
+            "OFI  —  Ofício",
+        ],
+    )
+    doc_type = ["REC", "REQ", "OFI"][tipo_idx]
+
+    if doc_type == "REC":
+        subtypes = list_subtypes_rec()
+    elif doc_type == "REQ":
+        subtypes = list_subtypes_req_all()
+    else:
+        subtypes = list_subtypes_ofi()
+
+    if not subtypes:
+        console.print(f"[red]  Nenhum subtipo encontrado para {doc_type}.[/red]")
+        return False
+
+    st_idx = choose_from_list(
+        f"Subtipos disponíveis ({doc_type})",
+        [label for label, _ in subtypes],
+    )
+    _, subtype_path = subtypes[st_idx]
+
+    usa_ip_estimada = subtype_uses_ip_estimada(subtype_path)
+    origem_tipo = ""
+    tese = ""
+    if doc_type == "OFI":
+        origem_tipo_idx = choose_from_list(
+            "Documento de origem do OFI",
+            ["REC", "REQ"],
+        )
+        origem_tipo = ["REC", "REQ"][origem_tipo_idx]
+        tese = get_tese_from_subtype(subtype_path) or subtype_path.stem
+
+    titulo = get_titulo_from_subtype(subtype_path)
+    if titulo:
+        console.print(
+            f"  Título/descrição [dim](lido do subtipo {subtype_path.name})[/dim]: {titulo}"
+        )
+    else:
+        console.print(
+            "  [yellow]Aviso:[/yellow] nenhuma macro de título conhecida foi encontrada no subtipo; "
+            "seguindo com título vazio."
+        )
+
+    required_req_empresa = _required_req_empresa(subtype_path) if doc_type == "REQ" else ""
+    standalone = not is_fragment(subtype_path)
+
+    selecionados = 0
+    gerados = 0
+    total_docs = 0
+    for nome_mun, mun_path, mun_dados in municipios:
+        console.print(f"\n[bold]Município:[/bold] {nome_mun}")
+        if not _ask_yes_no("Gerar esta tese para este município?"):
+            continue
+
+        selecionados += 1
+        empresa = _infer_empresa_from_municipio(nome_mun, mun_dados)
+        if not empresa or not (EMPRESAS_DIR / empresa).is_dir():
+            console.print(f"[yellow]  Pulado: empresa inválida para {nome_mun} ({empresa or 'N/A'}).[/yellow]")
+            continue
+
+        if required_req_empresa and empresa != required_req_empresa:
+            console.print(
+                f"[yellow]  Pulado: este subtipo REQ exige empresa {required_req_empresa}, "
+                f"mas o município usa {empresa}.[/yellow]"
+            )
+            continue
+
+        num_doc = Prompt.ask("  Número do documento [dim](ex: 001/2026)[/dim]").strip()
+        if usa_ip_estimada:
+            uc = get_ip_estimada_from_municipio(mun_dados)
+            if not uc:
+                console.print(
+                    "[yellow]  Pulado: tese marcada com IP estimada, mas o município não possui "
+                    "\\IPestimada{} (nem \\IP_estimada{} legado).[/yellow]"
+                )
+                continue
+            console.print(f"  [bold]UC automática (IP estimada):[/bold] {uc}")
+        else:
+            uc = Prompt.ask(
+                "  Unidade consumidora [dim](deixe em branco se n/a)[/dim]",
+                default="",
+            ).strip()
+
+        origem_cod = ""
+        if doc_type == "OFI":
+            origem_cod = prompt_origem_cod(
+                "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+            )
+
+        total_docs += 1
+        ok = _generate_for_case(
+            nome_mun,
+            mun_path,
+            empresa,
+            doc_type,
+            subtype_path,
+            num_doc,
+            uc,
+            titulo,
+            origem_tipo,
+            origem_cod,
+            tese,
+            standalone,
+        )
+        if ok:
+            gerados += 1
+
+    console.print(
+        f"\n[bold green]Varredura finalizada![/bold green] "
+        f"Selecionados: {selecionados} | Processados: {total_docs} | Sucesso: {gerados}"
+    )
+    return True
+
+
 # ---------------------------------------------------------------------------
 # Fluxo principal
 # ---------------------------------------------------------------------------
-def main():
+def _run_generation_cycle() -> bool:
     console.print(Panel(
         "[bold blue]GERADOR DE DOCUMENTOS[/bold blue]\n"
         "[dim]Inovve Automação — Montagem automática de LaTeX[/dim]",
@@ -841,7 +1113,17 @@ def main():
     municipios = list_municipios()
     if not municipios:
         console.print(f"[red]Nenhum arquivo encontrado em {MUNICIPIOS_DIR}[/red]")
-        sys.exit(1)
+        return False
+
+    fluxo_idx = choose_from_list(
+        "Modo de fluxo",
+        [
+            "Padrão  —  Município único",
+            "Varredura de Teses  —  Mesma tese para vários municípios",
+        ],
+    )
+    if fluxo_idx == 1:
+        return _run_varredura_teses(municipios)
 
     idx = choose_from_list(
         "Municípios disponíveis",
@@ -851,16 +1133,13 @@ def main():
     console.print(f"\n  [bold]Município selecionado:[/bold] {nome_mun}")
 
     # 2. Empresa (inferida do arquivo do município) ───────────────────────────
-    empresa = mun_dados.get("empresaResponsavel", "").strip().upper()
+    empresa = _infer_empresa_from_municipio(nome_mun, mun_dados)
     if empresa:
         console.print(f"  [bold]Empresa:[/bold] {empresa}  [dim](inferida do município)[/dim]")
-    else:
-        console.print("[yellow]  Aviso: empresa não encontrada no arquivo do município.[/yellow]")
-        empresa = Prompt.ask("  Informe a empresa (HLA ou RUDA)").strip().upper()
 
     if not (EMPRESAS_DIR / empresa).is_dir():
         console.print(f"[red]  Erro: pasta EMPRESAS/{empresa} não encontrada![/red]")
-        sys.exit(1)
+        return False
 
     # 3. Tipo de documento ────────────────────────────────────────────────────
     tipo_idx = choose_from_list(
@@ -882,13 +1161,27 @@ def main():
         subtypes = list_subtypes_ofi()
     if not subtypes:
         console.print(f"[red]  Nenhum subtipo encontrado para {doc_type}.[/red]")
-        sys.exit(1)
+        return False
 
     st_idx = choose_from_list(
         f"Subtipos disponíveis ({doc_type})",
         [label for label, _ in subtypes],
     )
     _, subtype_path = subtypes[st_idx]
+    usa_ip_estimada = subtype_uses_ip_estimada(subtype_path)
+    uc_ip_estimada = ""
+    if usa_ip_estimada:
+        uc_ip_estimada = get_ip_estimada_from_municipio(mun_dados)
+        if not uc_ip_estimada:
+            console.print(
+                "[red]  Erro: a tese selecionada exige a macro \\IPestimada{} "
+                "(ou \\IP_estimada{} legado), mas o município não a informou.[/red]"
+            )
+            return False
+        console.print(
+            f"  [bold]UC automática (IP estimada):[/bold] {uc_ip_estimada}  "
+            "[dim](lida do arquivo do município)[/dim]"
+        )
 
     origem_tipo = ""
     origem_cod = ""
@@ -914,44 +1207,56 @@ def main():
 
     # 5. Dados do documento ───────────────────────────────────────────────────
     console.print()
-    modo_idx = choose_from_list(
-        "Modo de operação",
-        ["Documento Único", "Lote (Múltiplas UCs)"]
-    )
-
     ucs_to_process = []
-    if modo_idx == 0:
+    if usa_ip_estimada:
+        console.print(
+            "  [bold]Modo de operação:[/bold] Documento Único "
+            "[dim](UC preenchida automaticamente pela macro \\IPestimada{})[/dim]"
+        )
         num_doc = Prompt.ask("  Número do documento [dim](ex: 001/2026)[/dim]").strip()
-        uc = Prompt.ask("  Unidade consumidora [dim](deixe em branco se n/a)[/dim]", default="").strip()
         if doc_type == "OFI":
             origem_cod = prompt_origem_cod(
                 "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
             )
-        ucs_to_process.append((num_doc, uc, origem_cod if doc_type == "OFI" else ""))
+        ucs_to_process.append((num_doc, uc_ip_estimada, origem_cod if doc_type == "OFI" else ""))
     else:
-        num_ini = Prompt.ask("  Número inicial do documento [dim](ex: 001/2026)[/dim]").strip()
-        ucs_raw = Prompt.ask("  Lista de UCs [dim](separe por espaço, vírgula ou nova linha)[/dim]").strip()
-        ucs_list = [u.strip() for u in re.split(r'[,\s\n]+', ucs_raw) if u.strip()]
+        modo_idx = choose_from_list(
+            "Modo de operação",
+            ["Documento Único", "Lote (Múltiplas UCs)"]
+        )
 
-        origem_cod_modo = 0
-        if doc_type == "OFI":
-            origem_cod_modo = choose_from_list(
-                "Numeração do documento de origem",
-                ["Única para todos os documentos", "Em lote (sequencial)"],
-            )
-            origem_cod = prompt_origem_cod(
-                "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
-                if origem_cod_modo == 0
-                else "  Código inicial do documento de origem [dim](formato: XXX_XXXX)[/dim]"
-            )
+        if modo_idx == 0:
+            num_doc = Prompt.ask("  Número do documento [dim](ex: 001/2026)[/dim]").strip()
+            uc = Prompt.ask("  Unidade consumidora [dim](deixe em branco se n/a)[/dim]", default="").strip()
+            if doc_type == "OFI":
+                origem_cod = prompt_origem_cod(
+                    "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+                )
+            ucs_to_process.append((num_doc, uc, origem_cod if doc_type == "OFI" else ""))
+        else:
+            num_ini = Prompt.ask("  Número inicial do documento [dim](ex: 001/2026)[/dim]").strip()
+            ucs_raw = Prompt.ask("  Lista de UCs [dim](separe por espaço, vírgula ou nova linha)[/dim]").strip()
+            ucs_list = [u.strip() for u in re.split(r'[,\s\n]+', ucs_raw) if u.strip()]
 
-        curr_num = num_ini
-        curr_origem_cod = origem_cod
-        for u in ucs_list:
-            ucs_to_process.append((curr_num, u, curr_origem_cod if doc_type == "OFI" else ""))
-            if doc_type == "OFI" and origem_cod_modo == 1:
-                curr_origem_cod = increment_code(curr_origem_cod)
-            curr_num = increment_code(curr_num)
+            origem_cod_modo = 0
+            if doc_type == "OFI":
+                origem_cod_modo = choose_from_list(
+                    "Numeração do documento de origem",
+                    ["Única para todos os documentos", "Em lote (sequencial)"],
+                )
+                origem_cod = prompt_origem_cod(
+                    "  Código do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+                    if origem_cod_modo == 0
+                    else "  Código inicial do documento de origem [dim](formato: XXX_XXXX)[/dim]"
+                )
+
+            curr_num = num_ini
+            curr_origem_cod = origem_cod
+            for u in ucs_list:
+                ucs_to_process.append((curr_num, u, curr_origem_cod if doc_type == "OFI" else ""))
+                if doc_type == "OFI" and origem_cod_modo == 1:
+                    curr_origem_cod = increment_code(curr_origem_cod)
+                curr_num = increment_code(curr_num)
 
     titulo = get_titulo_from_subtype(subtype_path)
     if titulo:
@@ -968,56 +1273,36 @@ def main():
     standalone = not is_fragment(subtype_path)
 
     for n_doc, n_uc, n_origem_cod in ucs_to_process:
-        extra_info = f" | Origem: {n_origem_cod}" if doc_type == "OFI" else ""
-        console.print(f"\n  [bold]Processando: {n_doc} | UC: {n_uc or 'N/A'}{extra_info}[/bold]")
-
-        if standalone:
-            out_file = handle_standalone_doc(
-                subtype_path,
-                doc_type,
-                n_doc,
-                nome_mun,
-                n_uc,
-                origem_tipo,
-                n_origem_cod,
-                tese,
-            )
-        else:
-            out_file = generate_assembled_doc(
-                mun_path, empresa, doc_type, subtype_path,
-                n_doc, n_uc, titulo, origem_tipo, n_origem_cod, tese,
-            )
-
-        ok, pdf_path, compile_msg = compile_tex_to_pdf(out_file)
-
-        if ok:
-            console.print(Panel(
-                f"[bold green]✓ Sucesso para {n_doc}![/bold green]\n\n"
-                f"Arquivo .tex: [cyan]{out_file}[/cyan]\n"
-                f"Arquivo PDF: [cyan]{pdf_path}[/cyan]\n\n"
-                f"[dim]{compile_msg}[/dim]",
-                title=f"Doc {n_doc}",
-                border_style="green",
-            ))
-        else:
-            if standalone:
-                console.print(Panel(
-                    f"[yellow]⚠ O subtipo é autônomo. PDF não gerado automaticamente.[/yellow]\n\n"
-                    f"Arquivo .tex: [cyan]{out_file}[/cyan]\n\n"
-                    f"[dim]{compile_msg}[/dim]",
-                    title=f"Atenção {n_doc}",
-                    border_style="yellow",
-                ))
-            else:
-                console.print(Panel(
-                    f"[red]✖ Falha na compilação do PDF.[/red]\n\n"
-                    f"Arquivo .tex: [cyan]{out_file}[/cyan]\n\n"
-                    f"[dim]{compile_msg}[/dim]",
-                    title=f"Erro {n_doc}",
-                    border_style="red",
-                ))
+        _generate_for_case(
+            nome_mun,
+            mun_path,
+            empresa,
+            doc_type,
+            subtype_path,
+            n_doc,
+            n_uc,
+            titulo,
+            origem_tipo,
+            n_origem_cod,
+            tese,
+            standalone,
+        )
 
     console.print(f"\n[bold green]Finalizado! {len(ucs_to_process)} documento(s) processado(s).[/bold green]")
+    return True
+
+
+def main():
+    while True:
+        try:
+            cycle_ok = _run_generation_cycle()
+            if cycle_ok:
+                console.print("\n[bold cyan]Reiniciando gerador para um novo documento...[/bold cyan]\n")
+            else:
+                console.print("\n[yellow]Ciclo encerrado por dados inválidos/incompletos. Reiniciando...[/yellow]\n")
+        except KeyboardInterrupt:
+            console.print("\n[yellow]Execução interrompida pelo usuário.[/yellow]")
+            break
 
 
 if __name__ == "__main__":

@@ -1,0 +1,217 @@
+========================================================================
+ARQUIVO: Registro-2026-08-03.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-03
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+Automatizando a análise de QIP
+
+Contexto: Eu quero fazer a análise de perdas nos reatores do quadro de iluminação pública mais automático, da seguinte forma, todo QIP possui uma planilha nessa planilha as colunas que me interessam são a de tipo da lâmpada potência e perda, eu possuo um gabarito como aba dessa planilha indicando qual deve ser a perda máxima para cada combinação de tipo de lâmpada e potência da mesma, que quero uma forma no próprio excel de em uma coluna, na aba do QIP identificar se alguma lâmpada teve uma perda maior do que a máxima
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+10:37
+
+Testando registro automático
+
+--------------------------------------------------
+
+10:55
+
+Contestar as reclamações 004/2026 e 005/2026 de Santo Antônio de Jesus na ANEEL
+
+--------------------------------------------------
+
+11:03
+
+Atualização do Status das reclamações de Gurinhém - Todas estavam com resposta atrasada pois eu por confusão coloquei como data de retorno a data em que eles enviaram o protocolo sendo que na verdade deve ser a data em que eles enviam a resposta, de toda forma, passar as 37 reclamações para a ouvidoria (apenas 10 por dia).
+
+--------------------------------------------------
+
+11:23
+
+Fim do almoço
+
+--------------------------------------------------
+
+11:49
+
+Passar para a ouvidoria da concessionária - Gurinhém - REC 001/2026 até a 010/2026 (Fica faltando mais 27)
+
+--------------------------------------------------
+
+11:58
+
+Atualizando a lista de atividades - Pondo as levas de reclamações de Gurinhém para passar para a ouvidoria como atividades pendentes
+
+--------------------------------------------------
+
+12:50
+
+Método de análise do QIP automático - Protótipo rudimentar, mas já facilita muito o processo por enquanto, permite identificar em quais meses houve cobrança indevida, melhorias futuras incluem gerar a tabela de perdas para a reclamação e retornar todos os meses em que houve cobrança indevida, melhorar também a usabilidade, ainda precisa de muita interação do usuário.
+
+--------------------------------------------------
+
+13:13
+
+Finalizada análise de QIP (Perda nos reatores) de Gurinhém + Elaboração da reclamação de Perda nos reatores de Gurinhém
+
+--------------------------------------------------
+
+13:39
+
+Leitura de E-mails 3 Reclamações CELPE foram deferidas, porém não consegui identificar o protocolo de duas delas na planilha, a terceira é referente a Ribeirão, e pelo fato de que Itaíba é a única outra cidade de Pernambuco da HLA e ela não tem reclamações as outras duas também devem ser de Ribeirão.
+Salvei o resto das faturas de Miranda que ainda estavam enviando.
+
+--------------------------------------------------
+
+13:46
+
+Consegui localizar mais um protocolo deferido de Ribeirão, referente a reclamação 026/2026 de Custo de disponibilidade.
+
+--------------------------------------------------
+
+13:51
+
+Adicionei na tabela as atividades de contestar custo de disponibilidade em Guanambi e Itabela e a atividade de atualizar as datas de deferimento de Ribeirão
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-08-04.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-04
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Prioridade no momento fazer reclamações em massa de taxa administrativa da CIP
+- Raciocínio a cerca da evolução do gerador de documentos, eu quero facilitar o seguinte:
+	- Algumas teses do tipo REC e REQ são dedicadas a IP estimada, e agora o documento de dados do município já traz essa informação do município na função \IP_estimada{}, eu quero agora uma forma de sinalizar, dentro dos documentos de teses, se ela é ou não dedicada a IP estimada, pois com essa sinalização eu quero que o fluxo de geração de documento pule a etapa de perguntar o numero da UC caso a tese escolhida seja dedicada a UC. Elabore um método de sinalização nas teses e adicione no fluxo de geração essa nova funcionalidade de utilizar automaticamente a IP estimada diretamente do documento de dados do município
+	- Muitas vezes é necessário gerar a mesma tese para diversos municípios, alterando apenas o código da reclamação e o número da Unidade Consumidora (UC). Para otimizar esse processo, quero que seja incorporado ao fluxo de geração de documentos um novo modo chamado Varredura de Teses. Nesse modo, o usuário deverá selecionar inicialmente a tese desejada (REC, REQ ou OFI) e, em seguida, o sistema deverá realizar uma varredura por todos os municípios cadastrados, apresentando-os um a um. Para cada município, o sistema deverá informar seu nome e perguntar se a tese deve ser gerada para ele. Caso a resposta seja positiva, deverá solicitar o código da reclamação e, quando necessário, o número da UC. No caso das teses destinadas à IP Estimada, a solicitação da UC deve ocorrer automaticamente, conforme o fluxo específico desse tipo de tese. O processo deve continuar até que todos os municípios tenham sido percorridos, permitindo a geração da mesma tese de forma rápida, padronizada e sem a necessidade de reiniciar o fluxo para cada município.
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:29
+
+Fim da leitura de E-mails não tinha muita novidade, só mais faturas de Miranda.
+
+--------------------------------------------------
+
+08:35
+
+Quanto a atividade de contestar as reclamações de custo de disponibilidade de Santo Antônio de Jesus, eu até o momento contestei 4, porém as duas primeiras tiveram o protocolo concluído por causa da documentação dos anexos, então acabou que eu não ter conseguido protocolar todas as reclamações foi bom pois teria sido em vão. o que me resta é ver o que tem de errado e organizar a documentação de forma correta.
+
+--------------------------------------------------
+
+08:52
+
+Além do termo aditivo estar vencido desde de maio, para o caso de SAJ (Santo Antônio de Jesus), eu não percebi que no anexo I de instrumentos procuratórios foi posto tanto o contrato social quanto documento de identificação de outra empresa, já que eu não tinha atualizado o Documentaiser. Vou então atualizar ele e informar que preciso da regularização dos documentos do município para fazer as contestações
+
+--------------------------------------------------
+
+08:57
+
+Mudança de curso, Larissa pediu pra eu focar nas reclamações de taxa de administração da CIP de Ribeirão e Itaíba, acontece que eu já tinha a reclamação de Ribeirão assinada mas esqueci de enviar. A de Itaíba eu Não tinha assinada, vou fazer e enviar.
+
+A situação é que eu tenho 4 reclamações de Itaíba já assinadas para enviar, e uma de Itaíba ainda não assinada para pedir assinatura. A de Ribeirão eu já tinha enviado, mas tinha colocado como requerimento ao invés de reclamação na planilha de teses
+
+--------------------------------------------------
+
+09:06
+
+Fim da atividade de fazer a reclamação de taxa adm. da CIP de Itaíba
+
+--------------------------------------------------
+
+09:59
+
+Finalizado envio de reclamações de Itaíba, todas foram feitas por e-mail pois o portal não aceitava o código doo cliente das UCs
+
+--------------------------------------------------
+
+12:36
+
+Finalizei as reclamações de taxa CIP de Ruda
+
+--------------------------------------------------
+
+12:55
+
+Finalizei as reclamações de CIP da HLA
+
+--------------------------------------------------
+
+13:24
+
+Correção das reclamações de RUDA e HLA
+
+--------------------------------------------------
+
+13:55
+
+Pausei, estou tentando melhorar o método de edição e analise dos dados dos municípios fazendo uma planilha e vice versa, mas vai demorar muito, e não tem muito pra onde fugir, vou ter que verificar depois as informações de cada município individualmente.
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-08-05.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-05
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

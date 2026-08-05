@@ -3,12 +3,24 @@ Módulo de Configuração Global.
 Centraliza caminhos de diretórios, dicionários de mapeamento e constantes.
 """
 
+
 from pathlib import Path
 
 # Caminho absoluto da pasta de municípios
 MUNICIPIOS_DIR = Path(
-    r"C:\Users\Usuário 1\Documents\Inovve_Automação\Gerador_de_Documentos\MUNICIPIOS"
+    r"C:\Users\Usuário 1\Documents\Inovve_Automação\GERADOR DE DOCUMENTOS\MUNICIPIOS"
 )
+
+# Caminho absoluto da pasta com os preâmbulos das empresas
+EMPRESAS_DIR = Path(
+    r"C:\Users\Usuário 1\Documents\Inovve_Automação\GERADOR DE DOCUMENTOS\EMPRESAS"
+)
+
+PREAMBULO_EMPRESA_MAP = {
+    "RUDA": EMPRESAS_DIR / "RUDA" / "preambulo.tex",
+    "HLA": EMPRESAS_DIR / "HLA" / "preambulo.tex",
+    "ABEL": EMPRESAS_DIR / "ABEL" / "preambulo.tex",
+}
 
 # Mapeamento de arquivos de concessionária para o Estado correspondente
 CONCESSIONARIA_ESTADO_MAP = {

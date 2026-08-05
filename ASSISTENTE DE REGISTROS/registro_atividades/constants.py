@@ -1,0 +1,31 @@
+"""Constantes globais do assistente de registros."""
+
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent
+DATA_DIR = ROOT_DIR / "data"
+
+DEFAULT_ENCODING = "utf-8"
+
+REGISTRO_PREFIX = "Registro"
+CONSOLIDADO_PREFIX = "Consolidado"
+
+SECTION_TITLE = "REGISTRO DO DIA"
+SECTION_INFO = "INFORMAÇÕES"
+SECTION_ATIVIDADES = "ATIVIDADES"
+SECTION_NOVA_ATIVIDADE = "NOVA ATIVIDADE"
+
+SECTION_DOUBLE_BAR = "=" * 50
+SECTION_DASH_BAR = "-" * 50
+
+MONITOR_STATUS_ATIVO = "Ativo"
+MONITOR_STATUS_PAUSADO = "Pausado"
+
+POMODORO_STATUS_IDLE = "Parado"
+POMODORO_STATUS_RUNNING = "Em execução"
+POMODORO_STATUS_PAUSED = "Pausado"
+
+DEFAULT_CONFIG_FILE = DATA_DIR / "config.json"
+DEFAULT_POMODORO_FILE = DATA_DIR / "pomodoro.json"
+DEFAULT_HISTORY_FILE = DATA_DIR / "history.json"
+DEFAULT_LOG_FILE = DATA_DIR / "app.log"
