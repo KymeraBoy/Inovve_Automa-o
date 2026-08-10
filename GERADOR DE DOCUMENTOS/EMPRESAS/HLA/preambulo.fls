@@ -1,6 +1,6 @@
-PWD c:\Users\Usuário 1\Documents\Inovve_Automação\Gerador_de_Documentos\EMPRESAS\HLA
+PWD c:\Users\Usuário 1\Documents\Inovve_Automação\GERADOR DE DOCUMENTOS\EMPRESAS\HLA
 INPUT C:\Users\Usuário 1\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Usuário 1\Documents\Inovve_Automação\Gerador_de_Documentos\EMPRESAS\HLA\preambulo.tex
+INPUT c:\Users\Usuário 1\Documents\Inovve_Automação\GERADOR DE DOCUMENTOS\EMPRESAS\HLA\preambulo.tex
 OUTPUT preambulo.log
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -65,6 +65,8 @@ INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.st
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm

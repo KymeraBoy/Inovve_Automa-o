@@ -1,0 +1,123 @@
+REGISTRO DO DIA
+2026-08-06
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+Reclamação de Taxa Administrativa da CIP
+
+FAZER AUTOMAÇÃO DE OCR
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:19
+
+Atualização da planilha de atividades.
+
+--------------------------------------------------
+
+08:40
+
+Leitura de E-mails
+REC 002/2026 Itaíba - a UC foi desligada, contestar no próximo nível, Não é porque a UC foi desligada que a cobrança indevida vai ficar por ficar
+Reclamação de perdas nos reatores de Miranda foi indeferida na ouvidoria da Energisa, mandar pra ANEEL
+
+--------------------------------------------------
+
+09:34
+
+Protocolando reclamações de taxa administrativa da CIP
+Malta
+Desterro
+Cuité de Mamanguape
+Coremas
+Condado
+Conceição
+Jericó
+Cacimbas
+Aguiar
+Vista Serrana
+
+Finalizados. Limite diário de 10 reclamações atingido.
+
+--------------------------------------------------
+
+10:05
+
+Requerimento de Taxa Administrativa da CIP foi reingressando, ou ingressado a depender da interpretação, no primeiro nível da distribuidora de Miranda, pois ele não havia sido ingressado corretamente já que na época ele foi enviado por e-mail e a concessionária estava recebendo por portal apenas.
+
+--------------------------------------------------
+
+10:45
+
+Elaboração de um ofício para o seguinte caso: A concessionária de energia fazer um pagamento e enviar o comprovante avulso, sem estar atrelado a reclamação alguma, dessa forma impossibilitando a gente de registrar qual reclamação teve seu pagamento feito, e se o pagamento foi feito por completo, o ofício no caso que enviaremos será um pedido de esclarecimento, no caso de qual reclamação e uc esse pagamento é proveniente.
+
+Análise de objeto: o oficio está atrelado a uma empresa, no caso aquela que recebeu o comprovante de pagamento [HLA, RUDA, ABEL], Tammbém vai estar atrealado a uma concessionária, que no caso foi quem enviou [Energisa, Neoenergia, Equatorial], ele também vai estar atrelado a um município, mas não vai estar atrelado a uma reclamação e UC, pois se tivesse a gente poderia rastrear nos nossos dados
+
+Não vai ser Ofício, vai ser requerimento, de esclarecimento de pagamento
+
+Protótipo feito, submetido para análise e ajuste.
+
+--------------------------------------------------
+
+10:56
+
+Contestações de Guanambi feitas, a atualização do gerador de documento se provou um sucesso nesse caso, ainda falta Itabela, para melhor mais focar na robustez, estou trabalahdno também com municípios novos então a informação não esta compilado, priorizar o método de formalizar os dados dos municípios.
+
+--------------------------------------------------
+
+11:53
+
+Correção do requerimento de esclarecimento de pagamento.
+
+--------------------------------------------------
+
+12:20
+
+fazendo os ofícios de contestação de Itabela, preciso das ucs e das reclamações atreladas a elas.
+002/2026
+2278454
+2278455
+2278456
+2278457
+
+Feitas
+
+--------------------------------------------------
+
+12:52
+
+Elaboração do requerimento de esclarecimento de pagamento de Baixa Grande
+
+--------------------------------------------------
+
+13:20
+
+Fazendo o restante das reclamações de taxa CIP
+
+Soledade
+Sâo José de Espinharas
+São João do Rio Peixe
+Pombal
+Poço de José de Moura
+
+Finalizadas
+
+--------------------------------------------------
+
+13:39
+
+Atualizando palniha de atividades
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

@@ -1,0 +1,24 @@
+[
+  {
+    "doc_id": 40,
+    "municipio": "Itaíba",
+    "empresa": "HLA",
+    "tipo": "OFI",
+    "subtipo": "Itaiba UC Desligada Enq IP",
+    "numero": "001/2026",
+    "uc": "1448473",
+    "origem_tipo": "REC",
+    "origem_codigo": "002_2026",
+    "valor_faturamento": "",
+    "periodo_qip": "",
+    "numero_comprovante": "",
+    "valor_pago": "",
+    "data_pagamento": "",
+    "imagens": {},
+    "info_adicional": "",
+    "status": "Erro",
+    "erros": [
+      "Documento montado, mas falhou ao compilar PDF: Comando xelatex -interaction=nonstopmode -halt-on-error OFI-001_2026-ITAIBA-REC-002_2026.tex falhou.\nARIAS/NEOENERGIA_PERNAMBUCO.tex)) (OFI-001_2026-ITAIBA-REC-002_2026.aux)\n*geometry* driver: auto-detecting\n*geometry* detected driver: xetex\n\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/H\nLA/intro.tex)\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/H\nLA/legitimidade.tex)\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/H\nLA/anexos.tex)\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/SAÍDA/OFI-\n001_2026-ITAIBA-REC-002_2026/Itaiba-UC_Desligada-Enq_IP_processed.tex\n! Missing $ inserted.\n<inserted text> \n                $\nl.6 ...referente à solicitação/reclamação REC-002_\n                                                  2026-ITAIBA-ENQUADRAMENTO_...\n\nNo pages of output.\nTranscript written on OFI-001_2026-ITAIBA-REC-002_2026.log."
+    ]
+  }
+]

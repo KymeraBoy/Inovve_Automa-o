@@ -7,6 +7,7 @@ from modelos.documento import Documento
 
 
 ORIGEM_COD_RE = re.compile(r"^[A-Z0-9]{3}_[A-Z0-9]{4}$")
+DATA_BR_RE = re.compile(r"^\d{2}/\d{2}/\d{4}$")
 
 
 def extrair_subtipo_normalizado(subtipo: str) -> str:
@@ -99,5 +100,20 @@ def validar_documento(documento: Documento) -> list[str]:
         for chave in obrigatorias:
             if not _campo_imagem_preenchido(documento, chave):
                 erros.append(f"Imagem obrigatoria nao informada: {chave}.")
+
+    if "ESCLARECIMENTO_PAGAMENTO" in subtipo:
+        if not documento.numero_comprovante.strip():
+            erros.append("Numero do comprovante nao informado para Esclarecimento de Pagamento.")
+        if not documento.valor_pago.strip():
+            erros.append("Valor pago nao informado para Esclarecimento de Pagamento.")
+        else:
+            try:
+                parse_monetario_br(documento.valor_pago)
+            except ValueError:
+                erros.append("Valor pago invalido para Esclarecimento de Pagamento.")
+        if not documento.data_pagamento.strip():
+            erros.append("Data do pagamento nao informada para Esclarecimento de Pagamento.")
+        elif not DATA_BR_RE.fullmatch(documento.data_pagamento.strip()):
+            erros.append("Data do pagamento invalida (use DD/MM/AAAA).")
 
     return erros

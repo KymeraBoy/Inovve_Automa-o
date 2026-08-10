@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.30)  5 AUG 2026 14:04
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.30)  6 AUG 2026 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -270,28 +270,218 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/MUNICIPIOS
 /Dados_Guanambi.tex
+(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/CONCESSION
+ARIAS/NEOENERGIA_BAHIA.tex)) (OFI-007_2026-GUANAMBI-REC-008_2026.aux
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 5.
+)
+\openout1 = `OFI-007_2026-GUANAMBI-REC-008_2026.aux'.
 
-! LaTeX Error: File `C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE D
-OCUMENTOS/CONCESSIONARIAS/COELBA.tex' not found.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(73.97733pt, 449.55322pt, 73.97733pt)
+* v-part:(T,H,B)=(8.5359pt, 819.43912pt, 17.07182pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55322pt
+* \textheight=711.31859pt
+* \oddsidemargin=1.70734pt
+* \evensidemargin=1.70734pt
+* \topmargin=-63.73409pt
+* \headheight=71.13188pt
+* \headsep=8.5359pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.1 ...R DE DOCUMENTOS/CONCESSIONARIAS/COELBA.tex}
-                                                  ^^M
-*** (cannot \read from terminal in nonstop modes)
 
- 
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 25.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 25.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 25.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 25.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 25.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 25.
+LaTeX Font Info:    Redeclaring math accent \check on input line 25.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 25.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 25.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 25.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/YuGothic(0)/m/n on input line 25.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/YuGothic(0)/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/YuGothic(0)/m/n --> TU/YuGothic(0)/m/n on input line
+ 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/YuGothic(0)/m/it on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/YuGothic(0)/b/n on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/YuGothic(0)/m/n --> TU/YuGothic(0)/b/n on input line
+ 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/YuGothic(0)/b/it on input line 25.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 25.
+
+(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A
+BEL/intro.tex
+Overfull \hbox (14.47015pt too wide) in paragraph at lines 19--20
+[]\TU/YuGothic(0)/b/n/10 DIRECIONADO À DISTRIBUIDORA DE ENERGIA - NEOENERGIA BA
+HIA - (CNPJ: 15.139.629/0001-
+ []
+
+)
+(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/SAÍDA/OFI-
+007_2026-GUANAMBI-REC-008_2026/Contestação_Custo_Disponibilidade_processed.tex
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRE
+SAS/ABEL/Abel_Header.png Graphic file (type bmp)
+<C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A
+BEL/Abel_Header.png>
+
+Overfull \hbox (38.34644pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (71.13188pt): 
+(fancyhdr)                Make it at least 71.88647pt, for example:
+(fancyhdr)                \setlength{\headheight}{71.88647pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.7546pt}.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+[1
+
+]
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRE
+SAS/ABEL/Abel_Header.png Graphic file (type bmp)
+<C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A
+BEL/Abel_Header.png>
+
+Overfull \hbox (38.34644pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (71.13188pt): 
+(fancyhdr)                Make it at least 71.88647pt, for example:
+(fancyhdr)                \setlength{\headheight}{71.88647pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.7546pt}.
+
+[2]
+Overfull \hbox (24.11418pt too wide) in paragraph at lines 38--39
+[]\TU/YuGothic(0)/m/n/10 O afastamento do marco temporal de 31/03/2022 estabele
+cido pela distribuidora, reconhecendo-
+ []
+
+)
+(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A
+BEL/final.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+)
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRE
+SAS/ABEL/Abel_Header.png Graphic file (type bmp)
+<C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A
+BEL/Abel_Header.png>
+
+Overfull \hbox (38.34644pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (71.13188pt): 
+(fancyhdr)                Make it at least 71.88647pt, for example:
+(fancyhdr)                \setlength{\headheight}{71.88647pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.7546pt}.
+
+[3] (OFI-007_2026-GUANAMBI-REC-008_2026.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 6100 strings out of 402983
- 149899 string characters out of 5447654
- 603939 words of memory out of 5000000
- 34778 multiletter control sequences out of 15000+600000
- 630783 words of font info for 50 fonts, out of 8000000 for 9000
+ 6341 strings out of 402983
+ 157374 string characters out of 5447654
+ 624148 words of memory out of 5000000
+ 34985 multiletter control sequences out of 15000+600000
+ 632662 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,0n,96p,403b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
-No pages of output.
+ 78i,15n,96p,1628b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on OFI-007_2026-GUANAMBI-REC-008_2026.pdf (3 pages).

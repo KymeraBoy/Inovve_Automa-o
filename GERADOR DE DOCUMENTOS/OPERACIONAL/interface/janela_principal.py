@@ -254,6 +254,12 @@ class JanelaPrincipal(QMainWindow):
             documento.valor_faturamento = str(valor)
         elif campo == "periodo_qip":
             documento.periodo_qip = str(valor)
+        elif campo == "numero_comprovante":
+            documento.numero_comprovante = str(valor)
+        elif campo == "valor_pago":
+            documento.valor_pago = str(valor)
+        elif campo == "data_pagamento":
+            documento.data_pagamento = str(valor)
         elif campo == "info_adicional":
             documento.info_adicional = str(valor)
 

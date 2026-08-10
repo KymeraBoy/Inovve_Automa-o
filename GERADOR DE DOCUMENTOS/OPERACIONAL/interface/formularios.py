@@ -71,6 +71,19 @@ class PainelDetalhesDocumento(QWidget):
         form_transf.addRow("Imagem faturamento", self._img_faturamento["container"])
         layout.addWidget(self.grp_transformacao)
 
+        self.grp_req_esclarecimento = QGroupBox("Campos de Esclarecimento de Pagamento")
+        form_req_esclarecimento = QFormLayout(self.grp_req_esclarecimento)
+        self.txt_numero_comprovante = QLineEdit()
+        self.txt_numero_comprovante.setPlaceholderText("Ex: 123456")
+        self.txt_valor_pago = QLineEdit()
+        self.txt_valor_pago.setPlaceholderText("R$ 0,00")
+        self.txt_data_pagamento = QLineEdit()
+        self.txt_data_pagamento.setPlaceholderText("Ex: 31/12/2026")
+        form_req_esclarecimento.addRow("Numero do comprovante", self.txt_numero_comprovante)
+        form_req_esclarecimento.addRow("Valor pago", self.txt_valor_pago)
+        form_req_esclarecimento.addRow("Data do pagamento", self.txt_data_pagamento)
+        layout.addWidget(self.grp_req_esclarecimento)
+
         self.grp_adicional = QGroupBox("Informacoes adicionais")
         form_adicional = QFormLayout(self.grp_adicional)
         self.txt_info_adicional = QTextEdit()
@@ -89,6 +102,13 @@ class PainelDetalhesDocumento(QWidget):
         self.txt_valor_faturamento.editingFinished.connect(self._formatar_e_emitir_valor)
         self.txt_periodo_qip.editingFinished.connect(
             lambda: self._emitir("periodo_qip", self.txt_periodo_qip.text().strip())
+        )
+        self.txt_numero_comprovante.editingFinished.connect(
+            lambda: self._emitir("numero_comprovante", self.txt_numero_comprovante.text().strip())
+        )
+        self.txt_valor_pago.editingFinished.connect(self._formatar_e_emitir_valor_pago)
+        self.txt_data_pagamento.editingFinished.connect(
+            lambda: self._emitir("data_pagamento", self.txt_data_pagamento.text().strip())
         )
         self.txt_info_adicional.textChanged.connect(
             lambda: self._emitir("info_adicional", self.txt_info_adicional.toPlainText().strip())
@@ -132,6 +152,9 @@ class PainelDetalhesDocumento(QWidget):
             self.txt_origem_codigo.setText("")
             self.txt_valor_faturamento.setText("")
             self.txt_periodo_qip.setText("")
+            self.txt_numero_comprovante.setText("")
+            self.txt_valor_pago.setText("")
+            self.txt_data_pagamento.setText("")
             self.txt_info_adicional.setPlainText("")
             self._set_imagem("vapor", "")
             self._set_imagem("fluorescente", "")
@@ -148,6 +171,9 @@ class PainelDetalhesDocumento(QWidget):
         self.txt_origem_codigo.setText(documento.origem_codigo)
         self.txt_valor_faturamento.setText(documento.valor_faturamento)
         self.txt_periodo_qip.setText(documento.periodo_qip)
+        self.txt_numero_comprovante.setText(documento.numero_comprovante)
+        self.txt_valor_pago.setText(documento.valor_pago)
+        self.txt_data_pagamento.setText(documento.data_pagamento)
         self.txt_info_adicional.setPlainText(documento.info_adicional)
         self._set_imagem("vapor", documento.imagens.get("vapor", ""))
         self._set_imagem("fluorescente", documento.imagens.get("fluorescente", ""))
@@ -188,6 +214,22 @@ class PainelDetalhesDocumento(QWidget):
         except ValueError:
             self._emitir("valor_faturamento", valor)
 
+    def _formatar_e_emitir_valor_pago(self) -> None:
+        if self._loading:
+            return
+
+        valor = self.txt_valor_pago.text().strip()
+        if not valor:
+            self._emitir("valor_pago", "")
+            return
+
+        try:
+            formatado = formatar_monetario_br(valor)
+            self.txt_valor_pago.setText(formatado)
+            self._emitir("valor_pago", formatado)
+        except ValueError:
+            self._emitir("valor_pago", valor)
+
     def _emitir(self, campo: str, valor: object) -> None:
         if self._loading:
             return
@@ -198,3 +240,4 @@ class PainelDetalhesDocumento(QWidget):
         self.grp_ofi.setVisible(tipo == "OFI")
         self.grp_reatores.setVisible("PERDA_NOS_REATORES" in normalizado)
         self.grp_transformacao.setVisible("PERDA_POR_TRANSFORMACAO" in normalizado)
+        self.grp_req_esclarecimento.setVisible("ESCLARECIMENTO_PAGAMENTO" in normalizado)

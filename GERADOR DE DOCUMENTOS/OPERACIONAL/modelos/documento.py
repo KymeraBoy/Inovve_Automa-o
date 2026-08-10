@@ -25,6 +25,9 @@ class Documento:
     origem_codigo: str = ""
     valor_faturamento: str = ""
     periodo_qip: str = ""
+    numero_comprovante: str = ""
+    valor_pago: str = ""
+    data_pagamento: str = ""
     imagens: dict[str, str] = field(default_factory=dict)
     info_adicional: str = ""
     status: str = STATUS_AGUARDANDO
@@ -43,6 +46,9 @@ class Documento:
             "origem_codigo": self.origem_codigo,
             "valor_faturamento": self.valor_faturamento,
             "periodo_qip": self.periodo_qip,
+            "numero_comprovante": self.numero_comprovante,
+            "valor_pago": self.valor_pago,
+            "data_pagamento": self.data_pagamento,
             "imagens": dict(self.imagens),
             "info_adicional": self.info_adicional,
             "status": self.status,
@@ -63,6 +69,9 @@ class Documento:
             origem_codigo=str(data.get("origem_codigo", "")),
             valor_faturamento=str(data.get("valor_faturamento", "")),
             periodo_qip=str(data.get("periodo_qip", "")),
+            numero_comprovante=str(data.get("numero_comprovante", "")),
+            valor_pago=str(data.get("valor_pago", "")),
+            data_pagamento=str(data.get("data_pagamento", "")),
             imagens=dict(data.get("imagens", {}) or {}),
             info_adicional=str(data.get("info_adicional", "")),
             status=str(data.get("status", STATUS_AGUARDANDO)) or STATUS_AGUARDANDO,

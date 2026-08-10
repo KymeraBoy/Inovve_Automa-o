@@ -20,6 +20,15 @@ _IP_ESTIMADA_COMMENT_RE = re.compile(
     r"^\s*%\s*DEDICADA\s+A\s+IP\s+ESTIMADA\b",
     re.IGNORECASE | re.MULTILINE,
 )
+_EMPRESA_DOC_KEYS = {"intro", "legitimidade", "anexos", "final"}
+_EMPRESA_DOC_ALIASES = {
+    "INTRO": "intro",
+    "INTRODUCAO": "intro",
+    "LEGITIMIDADE": "legitimidade",
+    "ANEXO": "anexos",
+    "ANEXOS": "anexos",
+    "FINAL": "final",
+}
 
 MESES_CONTADOR_BASE = 115
 MESES_CONTADOR_DATA_BASE = date(2026, 7, 1)
@@ -113,6 +122,51 @@ def _get_titulo_from_subtype(path: Path) -> str:
         if value:
             return value
     return ""
+
+
+def _get_empresa_docs_from_subtype(path: Path) -> set[str]:
+    """
+    Le configuracao opcional da tese via macro LaTeX:
+      \newcommand{\empresaDocumentos}{intro,legitimidade,anexos,final}
+
+    Regras:
+    - Se ausente/invalida: inclui todos os tipos.
+    - Aceita exclusao por prefixo '-' ou '!': ex. "-anexos,-legitimidade".
+    - Aceita sinonimos simples (introducao, anexo/anexos).
+    """
+    try:
+        content = path.read_text(encoding="utf-8")
+    except Exception:
+        return set(_EMPRESA_DOC_KEYS)
+
+    data = _parse_latex_commands(content)
+    raw = data.get("empresaDocumentos", "").strip()
+    if not raw:
+        return set(_EMPRESA_DOC_KEYS)
+
+    tokens = [t for t in re.split(r"[,;|\s]+", raw) if t]
+    included: set[str] = set()
+    removed: set[str] = set()
+    touched = False
+
+    for token in tokens:
+        excluded = token.startswith(("-", "!"))
+        base = token[1:] if excluded else token
+        alias = _EMPRESA_DOC_ALIASES.get(_tokenize_name(base))
+        if not alias:
+            continue
+        touched = True
+        if excluded:
+            removed.add(alias)
+        else:
+            included.add(alias)
+
+    if not touched:
+        return set(_EMPRESA_DOC_KEYS)
+
+    result = set(included) if included else set(_EMPRESA_DOC_KEYS)
+    result.difference_update(removed)
+    return result
 
 
 def _build_output_name(
@@ -309,6 +363,31 @@ def _process_ofi_complementar_dobro_content(conteudo_tex: str, documento: Docume
     if not documento.valor_faturamento.strip():
         raise ValueError("valor_faturamento deve ser informado para o subtipo Complementar do dobro.")
     conteudo_tex = conteudo_tex.replace("<<VALOR_PAGO>>", _formatar_moeda(documento.valor_faturamento))
+    return _atualizar_contador_meses(conteudo_tex)
+
+
+def _process_req_esclarecimento_pagamento_content(conteudo_tex: str, documento: Documento) -> str:
+    numero_comprovante = documento.numero_comprovante.strip()
+    valor_pago = documento.valor_pago.strip()
+    data_pagamento = documento.data_pagamento.strip()
+
+    if not numero_comprovante:
+        raise ValueError("numero_comprovante deve ser informado para o subtipo Esclarecimento Pagamento.")
+    if not valor_pago:
+        raise ValueError("valor_pago deve ser informado para o subtipo Esclarecimento Pagamento.")
+    if not data_pagamento:
+        raise ValueError("data_pagamento deve ser informada para o subtipo Esclarecimento Pagamento.")
+
+    valor_pago_fmt = _formatar_moeda(valor_pago)
+
+    mapa_substituicao = {
+        "<<NUMEROCOMPROVANTE>>": numero_comprovante,
+        "<<VALORPAGO>>": valor_pago_fmt.replace("R$ ", ""),
+        "<<DATAPAGAMENTO>>": data_pagamento,
+    }
+    for placeholder, value in mapa_substituicao.items():
+        conteudo_tex = conteudo_tex.replace(placeholder, value)
+
     return _atualizar_contador_meses(conteudo_tex)
 
 
@@ -526,6 +605,8 @@ class GeradorOperacional:
             content = _process_perda_transformacao_content(content, documento)
         elif documento.tipo == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
             content = _process_ofi_complementar_dobro_content(content, documento)
+        elif documento.tipo == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
+            content = _process_req_esclarecimento_pagamento_content(content, documento)
 
         return _atualizar_contador_meses(content)
 
@@ -540,14 +621,20 @@ class GeradorOperacional:
         empresa_dir: Path,
         out_dir: Path,
     ) -> Path:
+        empresa_docs = _get_empresa_docs_from_subtype(subtype_path)
+
+        include_intro = "intro" in empresa_docs
+        include_legitimidade = "legitimidade" in empresa_docs
+        include_anexos = "anexos" in empresa_docs
+        include_final = "final" in empresa_docs
+
         intro_path = empresa_dir / "intro.tex"
-        if not intro_path.exists():
-            intro_path = empresa_dir / f"intro_{documento.tipo}.tex"
+        if include_intro:
+            if not intro_path.exists():
+                intro_path = empresa_dir / f"intro_{documento.tipo}.tex"
 
-        if not intro_path.exists():
-            raise FileNotFoundError(f"Arquivo de introducao nao encontrado: {intro_path}")
-
-        include_legitimidade = municipio_dados.get("legitimidade", "").strip() != "0"
+            if not intro_path.exists():
+                raise FileNotFoundError(f"Arquivo de introducao nao encontrado: {intro_path}")
 
         processed_content = self._process_subtype_content(documento, subtype_path)
         processed_subtype_file = out_dir / f"{subtype_path.stem}_processed.tex"
@@ -582,21 +669,28 @@ class GeradorOperacional:
             f"\\newcommand{{\\tituloDocumento}}{{{titulo}}}",
             "",
             "\\begin{document}",
-            "",
-            "% ── INTRO ─────────────────────────────────────────────────────────",
-            f"\\input{{{_lpath(intro_path)}}}",
-            "",
         ]
 
-        if documento.tipo != "OFI":
-            if include_legitimidade:
-                lines.extend(
-                    [
-                        "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
-                        f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
-                        "",
-                    ]
-                )
+        if include_intro:
+            lines.extend(
+                [
+                    "",
+                    "% ── INTRO ─────────────────────────────────────────────────────────",
+                    f"\\input{{{_lpath(intro_path)}}}",
+                    "",
+                ]
+            )
+
+        if include_legitimidade:
+            lines.extend(
+                [
+                    "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
+                    f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
+                    "",
+                ]
+            )
+
+        if include_anexos:
             lines.extend(
                 [
                     "% ── ANEXOS ────────────────────────────────────────────────────────",
@@ -610,12 +704,19 @@ class GeradorOperacional:
                 f"% ── SUBTIPO ({documento.tipo}: {subtype_path.stem}) ─────────────────────",
                 f"\\input{{{_lpath(processed_subtype_file)}}}",
                 "",
-                "% ── FINAL ─────────────────────────────────────────────────────────",
-                f"\\input{{{_lpath(empresa_dir / 'final.tex')}}}",
-                "",
-                "\\end{document}",
             ]
         )
+
+        if include_final:
+            lines.extend(
+                [
+                    "% ── FINAL ─────────────────────────────────────────────────────────",
+                    f"\\input{{{_lpath(empresa_dir / 'final.tex')}}}",
+                    "",
+                ]
+            )
+
+        lines.append("\\end{document}")
 
         out_name = _build_output_name(documento, municipio_nome, subtype_path.stem)
         out_file = out_dir / f"{out_name}.tex"

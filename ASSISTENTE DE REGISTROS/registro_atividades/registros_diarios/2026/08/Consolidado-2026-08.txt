@@ -199,6 +199,305 @@ INFORMAÇÕES
 
 Área destinada para:
 
+- Automação: Guarda Reclamação
+	Contexto: Assim que eu faço uma reclamação eu tenho que guarda-la, isso acontece da seguinte maneira, tenho que ir na pasta do município, nela eu vou na pasta de reclamações, em seguida eu crio nela uma pasta com o mesmo nome do pdf de reclamação, dentro dessa pasta eu crio 5 pastas (ANEEL, PAGAMENTO, DOCUMENTOS RECEBIDOS, RECLAMAÇÃO FORMAL, E-MAILS), se for um PDF de Requerimento as pastas no caso seriam 4 (ANEL, DOCUMENTOS RECEBIDOS, REQUERIMENTO FORMAL, E-MAILS), o documento de tese (reclamação ou requerimento deve ser movido de onde ele estive para a pasta de RECLAMAÇÃO FORMAL ou REQUERIMENTO FORMAL recém criada. Esse processo como um todo é repetitivo, tendo em vista a quantidade de passos, e a quantidade de vezes por dia que eu tenho que fazer isso.
+	Objetivo: Eu quero uma automação desse processo em Python, que permita concluir o processo com o mínimo de comandos possíveis.
+	Cenário: Os documentos de Tese possuem uma formatação no nome que já indica que tipo de documento ele é, e de qual município ele é responsável, o programa deve usar essas informações para procurar a pasta do município correspondente. As pastas de municípios estão distribuídas em mais de uma pasta (dependem da empresa e do estado que toma de conta dela), essas pastas de empresa possuem endereços fixos no computador, para o meu caso são apenas duas, cada uma dessas duas possui pastas dedicadas a estados, e em cada pasta de estado vão estar as cidades daqueles estados que prestamos serviços, o programa deve procurar em ambas a pasta do município que for ser objeto do documento de tese. a organização das pastas de municípios é padrão, cada uma possui 3 subpastas (RECLAMAÇÕES, REQUERIMENTOS ou PETIÇÕES ou REQUISIÇÕES, DOCUMENTOS), Para o que concerne essa automação apenas a subpasta de DOCUMENTOS será irrelevante. A forma como aparece no nome do documento o tipo de tese dele será no começo, sendo REC uma Reclamação e REQ um Requerimento/Requisição/Petição. O nome do município ao qual ele é responsável vem após seu código, um exemplo de nome  é o seguinte: REC-001_2026-CACIMBA_DE_DENTRO-TAXA_CIP-439836_8; esse quer dizer que é uma Reclamação da Cidade de Cacimba de dentro, ele então deve fazer o procedimento descrito no contexto.
+	Operação: eu quero que o programa opere com o mínimo de comandos possíveis, mas que também seja passível de melhorias e atualizações possíveis, eu estou fazendo um caso especifico para o meu dia a dia de trabalho, apenas as empresas que eu sou responsável, e apenas os tipos de tese que eu sou responsável, por isso eu quero que na estrutura dos códigos haja comentários explicando a funcionalidade e objetivo de trechos e que a própria forma de organização do código seja modular a ponto de permitir a substituição deles. Dito isso a forma que eu quero que o programa opere é assim que ele for acionado ele abrir uma aba de navegação de arquivos para que eu indique a ele qual o PDF da reclamação que eu acabei de realizar para que ele a guarde adequadamente.
+- Automação: Criação de nova Tese nas planilhas de acompanhamento
+	Contexto: Cada empresa que eu tomo conta possui sua própria planilha de acompanhamento de teses, onde a gente registra a situação de cada tese (Reclamação, Requerimento, Ofício). Porém essas planilhas são grandes e a ação de cadastrar uma nova reclamação é algo demorado e repetitivo, sem contar que sujeito a muitos erros quando feito manualmente, o que eu quero é desenvolver uma automação na planilha para a geração de uma nova linha de tese, já formatada da maneira correta, com as informações básicas, preciso de sugestões de como fazer isso.
+	Cenário: Existem ocasiões especificas para a criação de novas linhas nas planilhas, a mais comum é para quando uma nova reclamação ou requerimento é feito. Antes de explicar o outro motivo para criação de uma nova linha eu preciso explicar como as planilhas se organizam, as colunas iniciais trazer informações gerais da tese, seu nome, município relacionado, dados de deferimento (Data, valor deferido, valor pago...), as outras partes são dedicadas aos níveis em que uma tese pode estar, são respectivamente 3, 1º Nível - Concessionária de Energia, 2º Nível - Ouvidoria da Concessionária de Energia, 3º Nível - Ouvidoria da ANEEL, cada um deles possui basicamente as mesma informações (Responsável, data de protocolo, protocolo, previsão de retorno, retorno, status, ação, indicador de quebra de prazo de resposta), o mais diferente deles é o 3º nível que não possui previsão de prazo de retorno, dessa forma também não possui indicador de quebra de prazo, mas em contrapartida possui o indicador de data de última atualização. Vamos para alguns detalhes importantes, existe um 4º nível que é menos usado que se trata dos processos administrativos, mas eles são bem menores pois uma vez que a tese entra nele elas basicamente saem da minha responsabilidade. A planilha não pode possuir células vazias, se não houver informação para se por ela deve ser preenchida com "S/I", então uma coisa muito boa seria a automação gerar todas as células da linha até onde for preciso já preenchidas com isso. Outra coisa é que muitas colunas possuem automações. como os indicadores de quebra de prazo e as colunas de previsão de retorno, pra piorar muitas coluna possuem também validação de dados, principalmente a de responsáveis, a de status e a de ação, elas são validadas na forma de lista de outras abas da planilha.
+	Eu quero uma automação, utilizo a versão online do Excel, para criação de uma nova linha de tese, vou mandar aqui como é a linha de cabeçalho, me de sugestões do que fazer. PARCEIRO	VIGÊNCIA DO CONTRATO	MUNICIPIO	ESTADO	Nº REC./REQ.	TESES	OBJETO	UNIDADE CONSUMIDORA	STATUS GERAL	DATA DEFERIMENTO	DATA DO MEMORIAL DE CÁLCULO	 VALOR DEFERIDO 	DATA PAGAMENTO	 VALOR PAGO ATÉ AGORA 	% PGMT	"RESPONSAVEL (CONCESSIONÁRIA)"	DATA PROTOCOLO	Nº PROTOCOLO	DATA DE RETORNO	PRAZO PREVISTO DE RETORNO	STATUS (CONCESSIONÁRIA)	AÇÃO (CONCESSIONÁRIA)	DESCUMPRIMENTO DE PRAZOS (CONCESSIONÁRIA)	"RESPONSAVEL (OUVIDORIA)"	DATA PROTOCOLO (OUVIDORIA)	Nº PROTOCOLO (OUVIDORIA)	SENHA PROTOCOLO (OUVIDORIA)	DATA DE RETORNO (OUVIDORIA)	PRAZO PREVISTO DE RETORNO (OUVIDORIA)	STATUS (OUVIDORIA)	AÇÃO (OUVIDORIA)	DESCUMPRIMENTO DE PRAZOS (OUVIDORIA)	"RESPONSAVEL (ANEEL)"	DATA PROTOCOLO (ANEEL)	"Nº PROTOCOLO (ANEEL)"	STATUS (ANEEL)	"DATA ÚLTIMA ATUALIZAÇÃO (ANEEL)"	"DATA RETORNO (ANEEL)"	AÇÃO (ANEEL)	RESPONSÁVEL	DATA DE ENVIO	N° DE PROTOCOLO (P.A)	OBS
+- Reclamação de Taxa Administrativa da CIP
+- Tenho que fazer os ofícios de contestação de Guanambi e Itabela
+- Reformulação do GERADOR DE DOCUMENTOS:
+	Premmissa: O gerador de documentos é um programa muito útil cuja funcionalidade dele está concatenada em um script único (gerar_documento.py), a questão aqui é eu quero fazer com que a execução dele possua uma GUI, porém quero manter o gerar documento salvo e inalterado, já que ele funciona muito bem sozinho, até que a nova versão com GUI consiga bater de frente com a atual. o objetivo da GUI é o seguinte, a função do programa como um todo é gerar documentos, eu quero que a GUI tenha uma aspecto de fila/planilha, eu posso ir adicionando novos documentos a fila de compilação e ir editando as informações necessárias deles por meio de lista de itens quando possível, como por exemplo para o código do documento, ao invez de digitado.  cada documento a ser gerado possui informações básicas (município, código, tipo de documento, subtipo de documento), alguns subtipos 
+
+Municipios de Guanabi para fazer reclamações:
+1876501
+20016360
+50084169
+60192263
+70171701
+80149868
+90173340
+90222449
+90222451
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:10
+
+Leitura de e-mails finalizada: Hoje foi só receber os protocolos das reclamações de Itaíba que eu tinha enviado ontem
+
+--------------------------------------------------
+
+08:26
+
+Atualizei a planilha de atividades.
+
+--------------------------------------------------
+
+08:52
+
+Reclamação 001/2026 Cacimba de Dentro.
+
+--------------------------------------------------
+
+09:32
+
+Automação que guarda os PDFs das reclamações novas.
+
+--------------------------------------------------
+
+11:01
+
+Fiz 7 reclamações de taxa da cip, ficou faltando dois pq eu não achei as faturas e um que é da cosern
+
+--------------------------------------------------
+
+12:20
+
+Finalizei o envio das reclamações de taxa cip de hoje
+
+--------------------------------------------------
+
+14:06
+
+Quase termino aqui as atualizações do gerador de documento, fica para depois, tava tentando gerar as ofi de guanambi
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-08-06.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-06
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+Reclamação de Taxa Administrativa da CIP
+
+FAZER AUTOMAÇÃO DE OCR
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:19
+
+Atualização da planilha de atividades.
+
+--------------------------------------------------
+
+08:40
+
+Leitura de E-mails
+REC 002/2026 Itaíba - a UC foi desligada, contestar no próximo nível, Não é porque a UC foi desligada que a cobrança indevida vai ficar por ficar
+Reclamação de perdas nos reatores de Miranda foi indeferida na ouvidoria da Energisa, mandar pra ANEEL
+
+--------------------------------------------------
+
+09:34
+
+Protocolando reclamações de taxa administrativa da CIP
+Malta
+Desterro
+Cuité de Mamanguape
+Coremas
+Condado
+Conceição
+Jericó
+Cacimbas
+Aguiar
+Vista Serrana
+
+Finalizados. Limite diário de 10 reclamações atingido.
+
+--------------------------------------------------
+
+10:05
+
+Requerimento de Taxa Administrativa da CIP foi reingressando, ou ingressado a depender da interpretação, no primeiro nível da distribuidora de Miranda, pois ele não havia sido ingressado corretamente já que na época ele foi enviado por e-mail e a concessionária estava recebendo por portal apenas.
+
+--------------------------------------------------
+
+10:45
+
+Elaboração de um ofício para o seguinte caso: A concessionária de energia fazer um pagamento e enviar o comprovante avulso, sem estar atrelado a reclamação alguma, dessa forma impossibilitando a gente de registrar qual reclamação teve seu pagamento feito, e se o pagamento foi feito por completo, o ofício no caso que enviaremos será um pedido de esclarecimento, no caso de qual reclamação e uc esse pagamento é proveniente.
+
+Análise de objeto: o oficio está atrelado a uma empresa, no caso aquela que recebeu o comprovante de pagamento [HLA, RUDA, ABEL], Tammbém vai estar atrealado a uma concessionária, que no caso foi quem enviou [Energisa, Neoenergia, Equatorial], ele também vai estar atrelado a um município, mas não vai estar atrelado a uma reclamação e UC, pois se tivesse a gente poderia rastrear nos nossos dados
+
+Não vai ser Ofício, vai ser requerimento, de esclarecimento de pagamento
+
+Protótipo feito, submetido para análise e ajuste.
+
+--------------------------------------------------
+
+10:56
+
+Contestações de Guanambi feitas, a atualização do gerador de documento se provou um sucesso nesse caso, ainda falta Itabela, para melhor mais focar na robustez, estou trabalahdno também com municípios novos então a informação não esta compilado, priorizar o método de formalizar os dados dos municípios.
+
+--------------------------------------------------
+
+11:53
+
+Correção do requerimento de esclarecimento de pagamento.
+
+--------------------------------------------------
+
+12:20
+
+fazendo os ofícios de contestação de Itabela, preciso das ucs e das reclamações atreladas a elas.
+002/2026
+2278454
+2278455
+2278456
+2278457
+
+Feitas
+
+--------------------------------------------------
+
+12:52
+
+Elaboração do requerimento de esclarecimento de pagamento de Baixa Grande
+
+--------------------------------------------------
+
+13:20
+
+Fazendo o restante das reclamações de taxa CIP
+
+Soledade
+Sâo José de Espinharas
+São João do Rio Peixe
+Pombal
+Poço de José de Moura
+
+Finalizadas
+
+--------------------------------------------------
+
+13:39
+
+Atualizando palniha de atividades
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-08-07.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-07
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+Bom dia Raissa! 
+As aulas Na UFC voltam semana que vem, a forma como meus horários estão e como eu pensei de organizar os horários de estágio estão assim, para que eu possa atender aos dois eu preciso que a carga horária seja reduzida de 30 para 20 horas semanais.
+
+
+
+
+
+Dessa forma consigo conciliar melhor as aulas com o estágio e manter minha carga horária semanal. Queria saber se esse horário funciona para vocês ou se há alguma outra alternativa que possamos ajustar
+- Estranho, nada de e-mails novos
+
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:32
+
+Organizei meus horários do semestre e mandei pra Raissa.
+
+--------------------------------------------------
+
+08:40
+
+Enviando o Requerimento de Esclarecimento de pagamento de Baixa Grande - BA -> REQ 002/2026
+
+--------------------------------------------------
+
+14:03
+
+Elaborar o restante das reclamações de TAXA ADM CIP que ficaram faltando, no caso as do ABEL.
+
+Começar fazendo a planilha de dados deles
+BARROCAS
+CACHOEIRA
+CANAVIEIRAS
+CARDEAL DA SILVA
+CONDE
+CRAVOLÂNDIA
+GOVERNADOR MANGABEIRA
+IBICUÍ
+ITUBERÁ
+JAGUARIPE
+JANDAÍRA
+MAIQUINIQUE
+MILAGRES
+NOVA IBIÁ
+SAUBARA
+SITIO DO MATO
+TEODORO SAMPAIO
+WENCESLAU GUIMARÃES
+BREJOLÂNDIA
+RETIROLÂNDIA
+SÃO VICENTE
+
+Fazer aqui o meu OCR - Consegui depois de muita peleja.
+
+Deverá a empresa efetuar levantamento dos créditos a que faz jus o município, referentes aos pagamentos indevidos à concessionária de energia elétrica, conforme os prazos estabelecidos na Resolução Normativa da ANEEL nº 1.000, de 7 de dezembro de 2021, especialmente o art. 323, §2º, inciso I, e suas alterações posteriores, podendo para tanto, representar administrativamente o Município de Maiquinique - BA perante a Agência Nacional de Energia Elétrica – ANEEL, em todos os processos, reclamações, recursos e demais atos decorrentes de suas competências.
+
+
+Eu só fui terminar de completar a planilha as 13:00
+
+Fiz o programa reverso que gera os tex a partir da planilha, e percebi que falta por as IP estimadas de cada município.
+
+Observação importante, Jandaira tem como distribuidora a SULGIPE, o que faz a reclamação inválida já que não contempla ela.
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-08-10.txt
+========================================================================
+REGISTRO DO DIA
+2026-08-10
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
 - observações
 - respostas
 - lembretes

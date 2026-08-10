@@ -54,6 +54,15 @@ _IP_ESTIMADA_COMMENT_RE = re.compile(
     r"^\s*%\s*DEDICADA\s+A\s+IP\s+ESTIMADA\b",
     re.IGNORECASE | re.MULTILINE,
 )
+_EMPRESA_DOC_KEYS = {"intro", "legitimidade", "anexos", "final"}
+_EMPRESA_DOC_ALIASES = {
+    "INTRO": "intro",
+    "INTRODUCAO": "intro",
+    "LEGITIMIDADE": "legitimidade",
+    "ANEXO": "anexos",
+    "ANEXOS": "anexos",
+    "FINAL": "final",
+}
 
 
 def parse_latex_commands(content: str) -> dict:
@@ -97,6 +106,52 @@ def get_tese_from_subtype(path: Path) -> str:
     except Exception as exc:
         console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
         return ""
+
+
+def get_empresa_docs_from_subtype(path: Path) -> set[str]:
+    """
+    Lê configuração opcional da tese via macro LaTeX:
+      \newcommand{\empresaDocumentos}{intro,legitimidade,anexos,final}
+
+    Regras:
+    - Se ausente/inválida: inclui todos os tipos.
+    - Aceita exclusão por prefixo '-' ou '!': ex. "-anexos,-legitimidade".
+    - Aceita sinônimos simples (introducao, anexo/anexos).
+    """
+    try:
+        content = path.read_text(encoding="utf-8")
+    except Exception as exc:
+        console.print(f"[yellow]Aviso: não foi possível ler {path.name}: {exc}[/yellow]")
+        return set(_EMPRESA_DOC_KEYS)
+
+    data = parse_latex_commands(content)
+    raw = data.get("empresaDocumentos", "").strip()
+    if not raw:
+        return set(_EMPRESA_DOC_KEYS)
+
+    tokens = [t for t in re.split(r"[,;|\s]+", raw) if t]
+    included: set[str] = set()
+    removed: set[str] = set()
+    touched = False
+
+    for token in tokens:
+        excluded = token.startswith(("-", "!"))
+        base = token[1:] if excluded else token
+        alias = _EMPRESA_DOC_ALIASES.get(_tokenize_name(base))
+        if not alias:
+            continue
+        touched = True
+        if excluded:
+            removed.add(alias)
+        else:
+            included.add(alias)
+
+    if not touched:
+        return set(_EMPRESA_DOC_KEYS)
+
+    result = set(included) if included else set(_EMPRESA_DOC_KEYS)
+    result.difference_update(removed)
+    return result
 
 
 def _is_truthy_flag(value: str) -> bool:
@@ -496,6 +551,38 @@ def _process_ofi_complementar_dobro_content(conteudo_tex: str) -> str:
     return _atualizar_contador_meses(conteudo_tex)
 
 
+def _process_req_esclarecimento_pagamento_content(conteudo_tex: str) -> str:
+    """
+    Solicita dados do comprovante e substitui placeholders do
+    template de REQ Esclarecimento de Pagamento.
+    """
+    console.print("\n[bold blue]CONFIGURAÇÃO: REQ - ESCLARECIMENTO DE PAGAMENTO[/bold blue]")
+
+    numero_comprovante = Prompt.ask("  Informe o número do comprovante").strip()
+
+    while True:
+        entrada_valor = Prompt.ask(
+            "  Informe o valor pago [dim](ex: R$ 12.345,67)[/dim]"
+        ).strip()
+        try:
+            valor_pago_fmt = _formatar_moeda(entrada_valor)
+            break
+        except ValueError:
+            console.print("[red]  Valor inválido. Tente novamente.[/red]")
+
+    data_pagamento = Prompt.ask("  Informe a data do pagamento [dim](DD/MM/AAAA)[/dim]").strip()
+
+    mapa_substituicao = {
+        "<<NUMEROCOMPROVANTE>>": numero_comprovante,
+        "<<VALORPAGO>>": valor_pago_fmt.replace("R\\$ ", ""),
+        "<<DATAPAGAMENTO>>": data_pagamento,
+    }
+    for placeholder, valor in mapa_substituicao.items():
+        conteudo_tex = conteudo_tex.replace(placeholder, valor)
+
+    return _atualizar_contador_meses(conteudo_tex)
+
+
 def list_subtypes_rec() -> list:
     """Fragmentos de subtipos para REC (arquivos .tex na raiz de REC/)."""
     return [
@@ -631,18 +718,26 @@ def generate_assembled_doc(
     """
     empresa_dir = EMPRESAS_DIR / empresa
 
+    empresa_docs = get_empresa_docs_from_subtype(subtype_path)
+    include_intro = "intro" in empresa_docs
+    include_legitimidade = "legitimidade" in empresa_docs
+    include_anexos = "anexos" in empresa_docs
+    include_final = "final" in empresa_docs
+
     # Intro unificado por empresa (o próprio LaTeX escolhe REC/REQ)
     intro_path = empresa_dir / "intro.tex"
-    if not intro_path.exists():
+    if include_intro and not intro_path.exists():
         # Compatibilidade: empresas antigas podem manter o padrão intro_{tipo}.tex
         intro_variante = empresa_dir / f"intro_{doc_type}.tex"
         intro_path = intro_variante
+
+    if include_intro and not intro_path.exists():
+        raise FileNotFoundError(f"Arquivo de introdução não encontrado: {intro_path}")
 
     # Pasta de saída
     mun_dados = parse_municipio_file(municipio_path)
     mun_nome  = mun_dados.get("nomeMunicipio",
                               municipio_path.stem.replace("Dados_", ""))
-    include_legitimidade = mun_dados.get("legitimidade", "").strip() != "0"
     out_name = build_output_name(
         doc_type,
         num_doc,
@@ -665,6 +760,8 @@ def generate_assembled_doc(
         subtype_content = _process_perda_transformacao_content(subtype_content)
     elif doc_type == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
         subtype_content = _process_ofi_complementar_dobro_content(subtype_content)
+    elif doc_type == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
+        subtype_content = _process_req_esclarecimento_pagamento_content(subtype_content)
 
     subtype_content = _atualizar_contador_meses(subtype_content)
 
@@ -702,19 +799,24 @@ def generate_assembled_doc(
         f"\\newcommand{{\\tituloDocumento}}{{{titulo}}}",
         "",
         "\\begin{document}",
-        "",
-        "% ── INTRO ─────────────────────────────────────────────────────────",
-        f"\\input{{{_lpath(intro_path)}}}",
-        "",
     ]
 
-    if doc_type != "OFI":
-        if include_legitimidade:
-            lines.extend([
-                "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
-                f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
-                "",
-            ])
+    if include_intro:
+        lines.extend([
+            "",
+            "% ── INTRO ─────────────────────────────────────────────────────────",
+            f"\\input{{{_lpath(intro_path)}}}",
+            "",
+        ])
+
+    if include_legitimidade:
+        lines.extend([
+            "% ── LEGITIMIDADE ──────────────────────────────────────────────────",
+            f"\\input{{{_lpath(empresa_dir / 'legitimidade.tex')}}}",
+            "",
+        ])
+
+    if include_anexos:
         lines.extend([
             "% ── ANEXOS ────────────────────────────────────────────────────────",
             f"\\input{{{_lpath(empresa_dir / 'anexos.tex')}}}",
@@ -725,11 +827,16 @@ def generate_assembled_doc(
         f"% ── SUBTIPO ({doc_type}: {subtype_path.stem}) ─────────────────────",
         f"\\input{{{_lpath(processed_subtype_file)}}}", # Input the processed file
         "",
-        "% ── FINAL ─────────────────────────────────────────────────────────",
-        f"\\input{{{_lpath(empresa_dir / 'final.tex')}}}",
-        "",
-        "\\end{document}",
     ])
+
+    if include_final:
+        lines.extend([
+            "% ── FINAL ─────────────────────────────────────────────────────────",
+            f"\\input{{{_lpath(empresa_dir / 'final.tex')}}}",
+            "",
+        ])
+
+    lines.append("\\end{document}")
 
     out_file = out_dir / f"{out_name}.tex"
     out_file.write_text("\n".join(lines), encoding="utf-8")
