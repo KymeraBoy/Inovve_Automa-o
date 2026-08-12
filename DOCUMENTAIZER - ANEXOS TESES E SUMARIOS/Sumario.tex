@@ -1,0 +1,130 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage[top=4cm, bottom=3cm, left=3cm, right=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}}
+\renewcommand{\labelenumii}{\theenumii}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{lmodern}
+  \usepackage{helvet} % Tahoma-like sans-serif for pdfLaTeX
+  \renewcommand{\familydefault}{\sfdefault}
+\else % if luatex or xetex
+  \usepackage{fontspec}
+  \setmainfont{Georgia}
+  \setsansfont{Tahoma}
+  \setsansfont{Yu Gothic}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{ifthen}
+\usepackage{etoolbox}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+% ==========================================================
+% CONFIGURAÇÃO POR EMPRESA
+% - Cada empresa tem um bloco dedicado de layout.
+% - O gerador substitui <<EMPRESA>> por RUDA, HLA ou ABEL.
+% ==========================================================
+
+\newcommand{\EmpresaSelecionada}{<<EMPRESA>>}
+\newcommand{\AplicarHeaderEmpresa}{}
+\newcommand{\TituloSumarioFonte}{\sffamily\bfseries\Large}
+\newcommand{\TituloSumarioCor}{black}
+
+% ---------- RUDA ----------
+\newcommand{\ConfigEmpresaRUDA}{%
+  \renewcommand{\AplicarHeaderEmpresa}{%
+    \AddToShipoutPictureBG{%
+      \AtPageUpperLeft{%
+        \hspace*{0.5\paperwidth}%
+        \raisebox{-3cm}{\makebox[0pt][c]{\includegraphics[width=0.8\paperwidth]{Ruda_Header.png}}}%
+      }%
+    }%
+  }%
+  \renewcommand{\TituloSumarioFonte}{\sffamily\bfseries\Large}%
+  \renewcommand{\TituloSumarioCor}{black}%
+}
+
+% ---------- ABEL ----------
+\newcommand{\ConfigEmpresaABEL}{%
+  \renewcommand{\AplicarHeaderEmpresa}{%
+    \AddToShipoutPictureBG{\AtPageUpperLeft{\raisebox{-\height}{\includegraphics{ABEL_Header.png}}}}%
+  }%
+  \renewcommand{\TituloSumarioFonte}{\sffamily\bfseries\Large}%
+  \renewcommand{\TituloSumarioCor}{black}%
+}
+
+% ---------- HLA (padrão/fallback) ----------
+\newcommand{\ConfigEmpresaHLA}{%
+  \renewcommand{\AplicarHeaderEmpresa}{%
+    \AddToShipoutPictureBG{\AtPageUpperLeft{\raisebox{-\height}{\includegraphics{HLA_Header.png}}}}%
+  }%
+  \renewcommand{\TituloSumarioFonte}{\sffamily\bfseries\Large}%
+  \renewcommand{\TituloSumarioCor}{black}%
+}
+
+% Seleção da configuração ativa
+\ifthenelse{\equal{\EmpresaSelecionada}{RUDA}}{%
+  \ConfigEmpresaRUDA
+}{%
+  \ifthenelse{\equal{\EmpresaSelecionada}{ABEL}}{%
+    \ConfigEmpresaABEL
+  }{%
+    \ConfigEmpresaHLA
+  }%
+}
+
+% Aplica o header definido pela empresa selecionada
+\AplicarHeaderEmpresa
+
+\begin{document}
+
+{\TituloSumarioFonte\textcolor{\TituloSumarioCor}{SUMÁRIO - <<MUNICIPIO>>}}\\
+
+\strut \\
+
+<<ANEXO I>>
+
+<<ANEXO II>>
+
+<<ADITIVOS>>
+
+\end{document}
+
