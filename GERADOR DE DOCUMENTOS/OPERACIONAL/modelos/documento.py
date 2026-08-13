@@ -29,6 +29,7 @@ class Documento:
     valor_pago: str = ""
     data_pagamento: str = ""
     imagens: dict[str, str] = field(default_factory=dict)
+    ofi_item_flags: dict[str, bool] = field(default_factory=dict)
     info_adicional: str = ""
     status: str = STATUS_AGUARDANDO
     erros: list[str] = field(default_factory=list)
@@ -50,6 +51,7 @@ class Documento:
             "valor_pago": self.valor_pago,
             "data_pagamento": self.data_pagamento,
             "imagens": dict(self.imagens),
+            "ofi_item_flags": dict(self.ofi_item_flags),
             "info_adicional": self.info_adicional,
             "status": self.status,
             "erros": list(self.erros),
@@ -73,6 +75,7 @@ class Documento:
             valor_pago=str(data.get("valor_pago", "")),
             data_pagamento=str(data.get("data_pagamento", "")),
             imagens=dict(data.get("imagens", {}) or {}),
+            ofi_item_flags={str(chave): bool(valor) for chave, valor in dict(data.get("ofi_item_flags", {}) or {}).items()},
             info_adicional=str(data.get("info_adicional", "")),
             status=str(data.get("status", STATUS_AGUARDANDO)) or STATUS_AGUARDANDO,
             erros=list(data.get("erros", []) or []),

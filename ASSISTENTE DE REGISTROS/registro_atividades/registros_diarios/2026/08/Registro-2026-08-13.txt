@@ -1,0 +1,179 @@
+REGISTRO DO DIA
+2026-08-13
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+Reclamação de Enquadramento AES
+RECLAMAÇÃO 008/2026
+RECLAMAÇÃO 009/2026
+RECLAMAÇÃO 010/2026
+RECLAMAÇÃO 011/2026
+RECLAMAÇÃO 012/2026
+RECLAMAÇÃO 013/2026
+RECLAMAÇÃO 014/2026
+RECLAMAÇÃO 015/2026
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:21
+
+Leitura de E-mails:
+Fatura de Pombal que não estava na pasta compactada
+Fatura de Miranda
+
+--------------------------------------------------
+
+08:31
+
+4ª Leva de Reclamações de Gurinhém enviadas para a ouvissionária [CADASTRADA NA PLATIVIDADES]
+
+--------------------------------------------------
+
+08:45
+
+A partir daqui a única atividade que ficou pendente para fazer foi contestar as reclamações de Custo Disponibilidade de Ribeirão na ANEEL, porém eu ainda estou esperando a assinatura disso. Então a partir daqui eu não sei o que fazer hoje, hora de caçar coisa pra fazer
+
+Teses que tem pendências:
+
+AGUIAR REC 004/2025
+CAPIM REC 011/2025
+COREMAS REC 009/2025
+DESTERRO REC 001/2024
+DESTERRO REC 005/2024
+DESTERRO REC 006/2024
+DESTERRO REC 015/2024
+JERICÓ REC RECLAMAÇÃO 006/2025
+LIVRAMENTO	PB	RECLAMAÇÃO 008/2025
+LIVRAMENTO	PB	RECLAMAÇÃO 009/2025
+PAULISTA	PB	RECLAMAÇÃO 001/2026
+RIACHO DOS CAVALOS	PB	RECLAMAÇÃO 002/2025
+RIACHO DOS CAVALOS	PB	RECLAMAÇÃO 002/2026
+RIACHO DOS CAVALOS	PB	RECLAMAÇÃO 008/2025
+SALGADO DE SÃO FÉLIX	PB	RECLAMAÇÃO 002/2026
+SANTA CRUZ	PB	RECLAMAÇÃO 001/2025
+
+Tá bom por enquanto
+
+--------------------------------------------------
+
+09:07
+
+AGUIAR REC 004/2025
+No caso a reclamação como um todo já foi paga, o que ficou faltando foi a cobrança do pagamento de ajuste, porém um nunca vi uma cobrança dessas, todavia eu já vi pagamentos de ajuste,
+Baseado nos pagamentos de ajuste que já recbeemos eu não acho que vale tanto a pena por que proporcionalmente ele vai ser menor que mil, mas como eu to aqui mais pra fazer, vamos elaborar uma contestação de pagamento de ajuste.
+
+Vamos antes ver se a gente já tem um modelo - Não temos
+
+--------------------------------------------------
+
+09:24
+
+Salgado de São Félix - Demandas
+
+Reclamações de Enquadramento AES
+Reclamação de Enquadramento AES
+
+5/623109-6
+5/721932-2
+5/1022628-0
+5/1059570-0
+5/1522411-6
+
+Reclamações elaboradas
+
+--------------------------------------------------
+
+09:32
+
+Reclamação de Enquadramento IP
+5/254826-1
+5/1670528-7
+5/1827197-3
+
+Reclamações elaboradas
+
+--------------------------------------------------
+
+10:19
+
+Requerimentos para passar para a ANEEL
+- levantamento cadastral IP
+- Dados da CIP
+Pausar por enquanto
+
+--------------------------------------------------
+
+10:32
+
+REC 004/2026 - ARARUNA - ENVIADA
+
+--------------------------------------------------
+
+12:52
+
+Tentar fazer aqui a analise de QIP divergente de Salgado de São Félix
+
+Consegui finalizar o Cropper_logic_energisa
+
+--------------------------------------------------
+
+14:10
+
+Enviar reclamações de Salgado de são Félix
+Todas menos a 013/2026 (por falta de fatura) foram protocoladas
+
+--------------------------------------------------
+
+14:19
+
+Elaboração das contestações de custo disponibilidade de Ribeirão
+
+--------------------------------------------------
+
+14:50
+
+Analisando o gasto de tempo do cropper:
+
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] fitz.open: 0.0041s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] classificar_layout: 4.2264s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] extrair_texto: 0.0303s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] extrair_uc: 0.0026s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] extrair_municipio: 0.0011s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] extrair_mes: 0.0014s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] gerar_nome: 0.0002s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] obter_caminhos: 0.0011s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] aplicar_recortes: 0.0543s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] salvar_pdf: 0.0127s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] fechar_pdf: 0.0003s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] renomear: 0.0014s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] aplicar_poppler: 0.6972s
+[C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FATURAS\Faturas\ENERGISA - AGUIAR\AGUIAR-DEZ_2020-5_1224643_5_1.pdf] TOTAL: 5.0436s
+
+[CLASSIFICADOR] glob/sort: 0.0013s
+  [CLASSIFICADOR] pdf_para_imagem_gray: 1.6034s
+  [CLASSIFICADOR] np.load TOTAL: 0.0347s
+  [CLASSIFICADOR] comparações TOTAL: 0.6879s
+  [CLASSIFICADOR] max(): 0.0000s
+  [CLASSIFICADOR] TOTAL: 2.3286s
+  [CLASSIFICADOR] glob/sort: 0.0003s
+  [CLASSIFICADOR] pdf_para_imagem_gray: 1.3868s
+  [CLASSIFICADOR] np.load TOTAL: 0.0256s
+  [CLASSIFICADOR] comparações TOTAL: 0.8368s
+  [CLASSIFICADOR] max(): 0.0000s
+  [CLASSIFICADOR] TOTAL: 2.2504s
+
+Deixando o Leitor de faturas mais rápido
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

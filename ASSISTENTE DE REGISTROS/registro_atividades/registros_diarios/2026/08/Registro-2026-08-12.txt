@@ -65,6 +65,19 @@ Arquivando REC 002/2026 de Itaíba
 
 --------------------------------------------------
 
+11:51
+
+Alterações na função:
+1. Receber o input path e a variável gabaritos
+2. a variável gabaritos é uma pasta que contem os pdfs que são modelos de faturas
+3. a função pdf_para_imagem_gray deve ser aplicada para cada pdf da pasta da variável gabaritos.
+4. a comparação da função comparar_layouts_graficos deve ser aplicada entre cada gabarito e o input path
+5 a comparação com maior score deve ser retornada
+
+Indentificador de Layout feito
+
+--------------------------------------------------
+
 --------------------------------------------------
 NOVA ATIVIDADE
 --------------------------------------------------

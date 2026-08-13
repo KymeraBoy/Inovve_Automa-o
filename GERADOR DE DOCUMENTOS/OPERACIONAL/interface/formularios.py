@@ -6,6 +6,7 @@ from PySide6.QtCore import Signal
 from PySide6.QtWidgets import (
     QFileDialog,
     QFormLayout,
+    QCheckBox,
     QGroupBox,
     QHBoxLayout,
     QLabel,
@@ -19,6 +20,25 @@ from PySide6.QtWidgets import (
 
 from modelos.documento import Documento
 from servicos.validacao import formatar_monetario_br
+
+
+OFI_LEVANTAMENTO_CADASTRAL_ITEMS = [
+    ("ItemPenultimoBaseGeorreferenciada", "Item 14.1.a - Base georreferenciada do penúltimo censo", False),
+    ("ItemPenultimoTOI", "Item 14.1.b - Cópias de TOIs do penúltimo censo", False),
+    ("ItemPenultimoMemorialCalculo", "Item 14.1.c - Memorial de cálculo do penúltimo censo", False),
+    ("ItemPenultimoDatasCenso", "Item 14.1.d - Datas de início e término do penúltimo censo", False),
+    ("ItemPenultimoCartaComunicacao", "Item 14.1.e - Carta de comunicação do penúltimo censo", False),
+    ("ItemPenultimoCobrancaDevolucao", "Item 14.1.f - Informação sobre cobrança ou devolução do penúltimo censo", False),
+    ("ItemPenultimoComprovantes", "Item 14.1.g - Comprovantes/faturas do penúltimo censo", False),
+    ("ItemUltimoBaseGeorreferenciada", "Item 14.2.a - Base georreferenciada do último censo", True),
+    ("ItemUltimoTOI", "Item 14.2.b - Cópias de TOIs do último censo", False),
+    ("ItemUltimoMemorialCalculo", "Item 14.2.c - Memorial de cálculo do último censo", False),
+    ("ItemUltimoDatasCenso", "Item 14.2.d - Datas de início e término do último censo", False),
+    ("ItemUltimoCartaComunicacao", "Item 14.2.e - Carta de comunicação do último censo", False),
+    ("ItemUltimoCobrancaDevolucao", "Item 14.2.f - Informação sobre cobrança ou devolução do último censo", False),
+    ("ItemUltimoComprovantes", "Item 14.2.g - Comprovantes/faturas do último censo", False),
+    ("ItemTOIsVinculados", "Item 14.3 - Histórico completo de TOIs lavrados na UC nos últimos 5 anos", True),
+]
 
 
 class PainelDetalhesDocumento(QWidget):
@@ -44,6 +64,20 @@ class PainelDetalhesDocumento(QWidget):
         form_ofi.addRow("Documento origem", self.cmb_origem_tipo)
         form_ofi.addRow("Codigo origem", self.txt_origem_codigo)
         layout.addWidget(self.grp_ofi)
+
+        self.grp_ofi_checklist = QGroupBox("Checklist - Levantamento Cadastral")
+        self.grp_ofi_checklist_layout = QVBoxLayout(self.grp_ofi_checklist)
+        self._ofi_checkboxes: dict[str, QCheckBox] = {}
+        self._ofi_flags_atual: dict[str, bool] = {}
+        for chave, rotulo, default in OFI_LEVANTAMENTO_CADASTRAL_ITEMS:
+            checkbox = QCheckBox(rotulo)
+            checkbox.toggled.connect(
+                lambda checked, flag=chave: self._emitir(f"ofi_flag:{flag}", checked)
+            )
+            self.grp_ofi_checklist_layout.addWidget(checkbox)
+            self._ofi_checkboxes[chave] = checkbox
+            self._ofi_flags_atual[chave] = default
+        layout.addWidget(self.grp_ofi_checklist)
 
         self.grp_reatores = QGroupBox("Campos de Perda nos Reatores")
         form_reatores = QFormLayout(self.grp_reatores)
@@ -115,6 +149,29 @@ class PainelDetalhesDocumento(QWidget):
         )
 
         self._set_visibility("REC", "")
+        self._aplicar_checklist_ofi(self._ofi_flags_atual)
+
+    def _defaults_checklist_ofi(self) -> dict[str, bool]:
+        return {chave: default for chave, _, default in OFI_LEVANTAMENTO_CADASTRAL_ITEMS}
+
+    def _normalizar_checklist_ofi(self, flags: dict[str, bool] | None) -> dict[str, bool]:
+        base = self._defaults_checklist_ofi()
+        if flags:
+            for chave, valor in flags.items():
+                if chave in base:
+                    base[chave] = bool(valor)
+        return base
+
+    def _aplicar_checklist_ofi(self, flags: dict[str, bool] | None) -> None:
+        normalizado = self._normalizar_checklist_ofi(flags)
+        self._ofi_flags_atual = dict(normalizado)
+        for chave, checkbox in self._ofi_checkboxes.items():
+            checkbox.blockSignals(True)
+            checkbox.setChecked(normalizado.get(chave, False))
+            checkbox.blockSignals(False)
+
+    def _set_checklist_ofi_visible(self, visible: bool) -> None:
+        self.grp_ofi_checklist.setVisible(visible)
 
     def _criar_campo_imagem(self, chave: str) -> dict[str, object]:
         container = QWidget()
@@ -182,10 +239,19 @@ class PainelDetalhesDocumento(QWidget):
         self._set_imagem("consumo", documento.imagens.get("consumo", ""))
         self._set_imagem("faturamento", documento.imagens.get("faturamento", ""))
         self._set_visibility(documento.tipo, documento.subtipo)
+        self._aplicar_checklist_ofi(documento.ofi_item_flags)
         self._loading = False
 
     def atualizar_contexto_tipo_subtipo(self, tipo: str, subtipo: str) -> None:
         self._set_visibility(tipo, subtipo)
+        normalizado = subtipo.upper().replace("-", "_").replace(" ", "_")
+        if tipo == "OFI" and normalizado == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP":
+            if not self._ofi_flags_atual:
+                self._aplicar_checklist_ofi(None)
+            else:
+                self._aplicar_checklist_ofi(self._ofi_flags_atual)
+        else:
+            self._set_checklist_ofi_visible(False)
 
     def _set_imagem(self, chave: str, valor: str) -> None:
         mapa = {
@@ -233,6 +299,9 @@ class PainelDetalhesDocumento(QWidget):
     def _emitir(self, campo: str, valor: object) -> None:
         if self._loading:
             return
+        if campo.startswith("ofi_flag:"):
+            chave = campo.split(":", 1)[1]
+            self._ofi_flags_atual[chave] = bool(valor)
         self.campoEditado.emit(campo, valor)
 
     def _set_visibility(self, tipo: str, subtipo: str) -> None:
@@ -241,3 +310,4 @@ class PainelDetalhesDocumento(QWidget):
         self.grp_reatores.setVisible("PERDA_NOS_REATORES" in normalizado)
         self.grp_transformacao.setVisible("PERDA_POR_TRANSFORMACAO" in normalizado)
         self.grp_req_esclarecimento.setVisible("ESCLARECIMENTO_PAGAMENTO" in normalizado)
+        self._set_checklist_ofi_visible(tipo == "OFI" and normalizado == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP")

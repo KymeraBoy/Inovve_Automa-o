@@ -219,10 +219,13 @@ def _fmt_br(valor: float) -> str:
     return f"{valor:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
 
 
-def _ask_yes_no(prompt: str) -> bool:
+def _ask_yes_no(prompt: str, default: bool = False) -> bool:
     """Solicita uma resposta sim/não e retorna True para sim."""
     while True:
-        resposta = Prompt.ask(f"  {prompt} [dim](s/n)[/dim]", default="n").strip().lower()
+        resposta = Prompt.ask(
+            f"  {prompt} [dim](s/n)[/dim]",
+            default="s" if default else "n",
+        ).strip().lower()
         if resposta in {"s", "sim"}:
             return True
         if resposta in {"n", "nao", "não"}:
@@ -551,6 +554,67 @@ def _process_ofi_complementar_dobro_content(conteudo_tex: str) -> str:
     return _atualizar_contador_meses(conteudo_tex)
 
 
+_OFI_LEVANTAMENTO_CADASTRAL_CHECKLIST = [
+    ("ItemPenultimoBaseGeorreferenciada", "Item 14.1.a - Base georreferenciada do penúltimo censo"),
+    ("ItemPenultimoTOI", "Item 14.1.b - Cópias de TOIs do penúltimo censo"),
+    ("ItemPenultimoMemorialCalculo", "Item 14.1.c - Memorial de cálculo do penúltimo censo"),
+    ("ItemPenultimoDatasCenso", "Item 14.1.d - Datas de início e término do penúltimo censo"),
+    ("ItemPenultimoCartaComunicacao", "Item 14.1.e - Carta de comunicação do penúltimo censo"),
+    ("ItemPenultimoCobrancaDevolucao", "Item 14.1.f - Informação sobre cobrança ou devolução do penúltimo censo"),
+    ("ItemPenultimoComprovantes", "Item 14.1.g - Comprovantes/faturas do penúltimo censo"),
+    ("ItemUltimoBaseGeorreferenciada", "Item 14.2.a - Base georreferenciada do último censo"),
+    ("ItemUltimoTOI", "Item 14.2.b - Cópias de TOIs do último censo"),
+    ("ItemUltimoMemorialCalculo", "Item 14.2.c - Memorial de cálculo do último censo"),
+    ("ItemUltimoDatasCenso", "Item 14.2.d - Datas de início e término do último censo"),
+    ("ItemUltimoCartaComunicacao", "Item 14.2.e - Carta de comunicação do último censo"),
+    ("ItemUltimoCobrancaDevolucao", "Item 14.2.f - Informação sobre cobrança ou devolução do último censo"),
+    ("ItemUltimoComprovantes", "Item 14.2.g - Comprovantes/faturas do último censo"),
+    ("ItemTOIsVinculados", "Item 14.3 - Histórico completo de TOIs lavrados na UC nos últimos 5 anos"),
+]
+
+
+def _ask_ofi_levantamento_cadastral_checklist() -> dict[str, bool]:
+    """Pergunta quais itens do modelo de levantamento cadastral devem constar no OFI."""
+    console.print("\n[bold blue]CONFIGURAÇÃO: OFÍCIO - LEVANTAMENTO CADASTRAL[/bold blue]")
+    respostas = {}
+    for flag_name, prompt in _OFI_LEVANTAMENTO_CADASTRAL_CHECKLIST:
+        default_value = flag_name in {"ItemUltimoBaseGeorreferenciada", "ItemTOIsVinculados"}
+        respostas[flag_name] = _ask_yes_no(f"{prompt} deve constar no documento?", default=default_value)
+    return respostas
+
+
+def _set_latex_boolean(content: str, flag_name: str, enabled: bool) -> str:
+    """Atualiza `\\Flagtrue` / `\\Flagfalse` preservando o nome da flag."""
+    replacement = f"\\{flag_name}{'true' if enabled else 'false'}"
+    pattern = rf"\\{re.escape(flag_name)}(?:true|false)"
+    return re.sub(pattern, lambda _: replacement, content)
+
+
+def _apply_ofi_levantamento_cadastral_checklist(conteudo_tex: str) -> str:
+    """Coleta e aplica as respostas do checklist do OFI de levantamento cadastral."""
+    respostas = _ask_ofi_levantamento_cadastral_checklist()
+    for flag_name, enabled in respostas.items():
+        conteudo_tex = _set_latex_boolean(conteudo_tex, flag_name, enabled)
+    return conteudo_tex
+
+
+def _process_subtype_content(doc_type: str, subtype_path: Path, conteudo_tex: str) -> str:
+    """Aplica o processamento específico do subtipo antes da compilação."""
+    subtype_key = _tokenize_name(subtype_path.stem)
+    if subtype_key == "PERDA_NOS_REATORES":
+        conteudo_tex = _process_perda_reatores_content(conteudo_tex)
+    elif subtype_key == "PERDA_POR_TRANSFORMACAO":
+        conteudo_tex = _process_perda_transformacao_content(conteudo_tex)
+    elif doc_type == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
+        conteudo_tex = _process_ofi_complementar_dobro_content(conteudo_tex)
+    elif doc_type == "OFI" and subtype_key == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP":
+        conteudo_tex = _apply_ofi_levantamento_cadastral_checklist(conteudo_tex)
+    elif doc_type == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
+        conteudo_tex = _process_req_esclarecimento_pagamento_content(conteudo_tex)
+
+    return _atualizar_contador_meses(conteudo_tex)
+
+
 def _process_req_esclarecimento_pagamento_content(conteudo_tex: str) -> str:
     """
     Solicita dados do comprovante e substitui placeholders do
@@ -752,18 +816,11 @@ def generate_assembled_doc(
     out_dir.mkdir(parents=True, exist_ok=True)
 
     # Read subtype content and apply specific processing if needed
-    subtype_content = subtype_path.read_text(encoding="utf-8")
-    subtype_key = _tokenize_name(subtype_path.stem)
-    if subtype_key == "PERDA_NOS_REATORES":
-        subtype_content = _process_perda_reatores_content(subtype_content)
-    elif subtype_key == "PERDA_POR_TRANSFORMACAO":
-        subtype_content = _process_perda_transformacao_content(subtype_content)
-    elif doc_type == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
-        subtype_content = _process_ofi_complementar_dobro_content(subtype_content)
-    elif doc_type == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
-        subtype_content = _process_req_esclarecimento_pagamento_content(subtype_content)
-
-    subtype_content = _atualizar_contador_meses(subtype_content)
+    subtype_content = _process_subtype_content(
+        doc_type,
+        subtype_path,
+        subtype_path.read_text(encoding="utf-8"),
+    )
 
     # Write the (potentially modified) subtype content to a temporary file
     # in the output directory. This ensures that the modifications are applied
@@ -871,7 +928,11 @@ def handle_standalone_doc(
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / f"{out_name}.tex"
     out_file.write_text(
-        _atualizar_contador_meses(subtype_path.read_text(encoding="utf-8")),
+        _process_subtype_content(
+            doc_type,
+            subtype_path,
+            subtype_path.read_text(encoding="utf-8"),
+        ),
         encoding="utf-8",
     )
     return out_file

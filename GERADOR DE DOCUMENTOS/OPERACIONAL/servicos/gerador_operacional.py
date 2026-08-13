@@ -366,6 +366,42 @@ def _process_ofi_complementar_dobro_content(conteudo_tex: str, documento: Docume
     return _atualizar_contador_meses(conteudo_tex)
 
 
+_OFI_LEVANTAMENTO_CADASTRAL_CHECKLIST = [
+    "ItemPenultimoBaseGeorreferenciada",
+    "ItemPenultimoTOI",
+    "ItemPenultimoMemorialCalculo",
+    "ItemPenultimoDatasCenso",
+    "ItemPenultimoCartaComunicacao",
+    "ItemPenultimoCobrancaDevolucao",
+    "ItemPenultimoComprovantes",
+    "ItemUltimoBaseGeorreferenciada",
+    "ItemUltimoTOI",
+    "ItemUltimoMemorialCalculo",
+    "ItemUltimoDatasCenso",
+    "ItemUltimoCartaComunicacao",
+    "ItemUltimoCobrancaDevolucao",
+    "ItemUltimoComprovantes",
+    "ItemTOIsVinculados",
+]
+
+
+def _set_latex_boolean(content: str, flag_name: str, enabled: bool) -> str:
+    replacement = f"\\{flag_name}{'true' if enabled else 'false'}"
+    pattern = rf"\\{re.escape(flag_name)}(?:true|false)"
+    return re.sub(pattern, lambda _: replacement, content)
+
+
+def _apply_ofi_levantamento_cadastral_checklist(conteudo_tex: str, documento: Documento) -> str:
+    defaults = {
+        "ItemUltimoBaseGeorreferenciada": True,
+        "ItemTOIsVinculados": True,
+    }
+    for flag_name in _OFI_LEVANTAMENTO_CADASTRAL_CHECKLIST:
+        enabled = documento.ofi_item_flags.get(flag_name, defaults.get(flag_name, False))
+        conteudo_tex = _set_latex_boolean(conteudo_tex, flag_name, bool(enabled))
+    return conteudo_tex
+
+
 def _process_req_esclarecimento_pagamento_content(conteudo_tex: str, documento: Documento) -> str:
     numero_comprovante = documento.numero_comprovante.strip()
     valor_pago = documento.valor_pago.strip()
@@ -605,6 +641,8 @@ class GeradorOperacional:
             content = _process_perda_transformacao_content(content, documento)
         elif documento.tipo == "OFI" and subtype_key == "COMPLEMENTAR_DO_DOBRO":
             content = _process_ofi_complementar_dobro_content(content, documento)
+        elif documento.tipo == "OFI" and subtype_key == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP":
+            content = _apply_ofi_levantamento_cadastral_checklist(content, documento)
         elif documento.tipo == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
             content = _process_req_esclarecimento_pagamento_content(content, documento)
 

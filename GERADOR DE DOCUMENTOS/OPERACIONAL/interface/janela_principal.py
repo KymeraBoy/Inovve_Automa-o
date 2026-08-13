@@ -262,6 +262,9 @@ class JanelaPrincipal(QMainWindow):
             documento.data_pagamento = str(valor)
         elif campo == "info_adicional":
             documento.info_adicional = str(valor)
+        elif campo.startswith("ofi_flag:"):
+            chave = campo.split(":", 1)[1]
+            documento.ofi_item_flags[chave] = bool(valor)
 
         self._marcar_aguardando(row)
 

@@ -1,0 +1,122 @@
+\newcommand{\tipoRequerimento}{Recurso à Ouvidoria da ANEEL – Omissão e Recusa de Prestação de Informações e Documentos pela Concessionária}
+
+% ==============================================================================
+% CONFIGURAÇÃO DE ITENS RESPONDIDOS PELA CONCESSIONÁRIA
+% Marque com \true o que FOI ATENDIDO e com \false o que NÃO FOI RESPONDIDO.
+% O documento exibirá/ocultará automaticamente as cobranças com base nisso.
+% ==============================================================================
+\newif\ifItemPenultimoBaseGeorreferenciada  \ItemPenultimoBaseGeorreferenciadafalse  % Item 14.1.a
+\newif\ifItemPenultimoTOI                  \ItemPenultimoTOIfalse                  % Item 14.1.b
+\newif\ifItemPenultimoMemorialCalculo      \ItemPenultimoMemorialCalculofalse      % Item 14.1.c
+\newif\ifItemPenultimoDatasCenso           \ItemPenultimoDatasCensofalse           % Item 14.1.d
+\newif\ifItemPenultimoCartaComunicacao     \ItemPenultimoCartaComunicacaofalse     % Item 14.1.e
+\newif\ifItemPenultimoCobrancaDevolucao    \ItemPenultimoCobrancaDevolucaofalse    % Item 14.1.f
+\newif\ifItemPenultimoComprovantes         \ItemPenultimoComprovantesfalse         % Item 14.1.g
+
+\newif\ifItemUltimoBaseGeorreferenciada    \ItemUltimoBaseGeorreferenciadatrue   % Item 14.2.a (Exemplo: atendido)
+\newif\ifItemUltimoTOI                    \ItemUltimoTOIfalse                    % Item 14.2.b
+\newif\ifItemUltimoMemorialCalculo        \ItemUltimoMemorialCalculofalse        % Item 14.2.c
+\newif\ifItemUltimoDatasCenso             \ItemUltimoDatasCensofalse             % Item 14.2.d
+\newif\ifItemUltimoCartaComunicacao       \ItemUltimoCartaComunicacaofalse       % Item 14.2.e
+\newif\ifItemUltimoCobrancaDevolucao      \ItemUltimoCobrancaDevolucaofalse      % Item 14.2.f
+\newif\ifItemUltimoComprovantes           \ItemUltimoComprovantesfalse           % Item 14.2.g
+
+\newif\ifItemTOIsVinculados                \ItemTOIsVinculadostrue                % Item 14.3 (Exemplo: atendido)
+% ==============================================================================
+
+\section{DOS FATOS E DOS DIREITOS}
+
+\begin{enumerate}[resume]
+\item O Município Requerente, no exercício de suas prerrogativas institucionais e em busca da regularidade tarifária e cadastral do parque de iluminação pública, protocolou perante a concessionária de energia elétrica requerimento formal solicitando a apresentação de documentos e informações indispensáveis relativas ao acervo cadastral de Iluminação Pública da Unidade Consumidora nº \unidadeConsumidora{}.
+
+\item Em resposta encaminhada à municipalidade, a distribuidora prestou informações incompletas e omitiu-se de forma injustificada no envio de documentos e dados essenciais requeridos, violando o dever de transparência e o direito à informação assegurado ao Poder Público Municipal pela regulamentação setorial.
+
+\item Analisando a documentação encaminhada pela concessionária em confronto com os termos do Requerimento Administrativo, constata-se a subsistência de pendências relativas aos seguintes pontos regulamentares, que não foram atendidos ou respondidos de forma satisfatória:
+
+\begin{itemize}
+    \ifItemPenultimoBaseGeorreferenciada\else
+        \item \textbf{Penúltimo Censo – Base Georreferenciada:} Não foi apresentada a base de dados georreferenciada completa do penúltimo censo/recontagem de pontos.
+    \fi
+    \ifItemPenultimoTOI\else
+        \item \textbf{Penúltimo Censo – Cópia de TOIs:} Ausência de cópias de eventuais Termos de Ocorrência e Inspeção (TOI) vinculados ao penúltimo levantamento cadastral.
+    \fi
+    \ifItemPenultimoMemorialCalculo\else
+        \item \textbf{Penúltimo Censo – Memorial de Cálculo:} Omissão no envio do memorial de cálculo que fundamentou eventuais cobranças ou devoluções de valores ao Município.
+    \fi
+    \ifItemPenultimoDatasCenso\else
+        \item \textbf{Penúltimo Censo – Período de Execução:} Ausência da indicação formal das datas de início e término da realização do penúltimo censo.
+    \fi
+    \ifItemPenultimoCartaComunicacao\else
+        \item \textbf{Penúltimo Censo – Comunicação Prévia:} Não apresentação do comprovante/carta de comunicação enviada ao Município informando o início do levantamento.
+    \fi
+    \ifItemPenultimoCobrancaDevolucao\else
+        \item \textbf{Penúltimo Censo – Indicação Financeira:} Ausência de declaração expressa sobre a existência de cobranças ou devoluções de valores decorrentes do censo.
+    \fi
+    \ifItemPenultimoComprovantes\else
+        \item \textbf{Penúltimo Censo – Comprovantes de Faturamento/Devolução:} Não envio das cópias das faturas de cobrança ou comprovantes de devolução financeira.
+    \fi
+
+    \ifItemUltimoBaseGeorreferenciada\else
+        \item \textbf{Último Censo – Base Georreferenciada:} Não fornecimento da base completa georreferenciada do último levantamento/recontagem conduzido pela distribuidora.
+    \fi
+    \ifItemUltimoTOI\else
+        \item \textbf{Último Censo – Cópia de TOIs:} Ausência das cópias dos TOIs eventualmente lavrados em razão das apurações do último censo.
+    \fi
+    \ifItemUltimoMemorialCalculo\else
+        \item \textbf{Último Censo – Memorial de Cálculo:} Omissão do memorial de cálculo do faturamento atualizado decorrente da última recontagem.
+    \fi
+    \ifItemUltimoDatasCenso\else
+        \item \textbf{Último Censo – Período de Execução:} Falta de indicação do período exato (datas de início e término) de realização do último levantamento em campo.
+    \fi
+    \ifItemUltimoCartaComunicacao\else
+        \item \textbf{Último Censo – Comunicação Prévia:} Não apresentação da notificação/comunicação oficial prévia encaminhada à Prefeitura sobre o último censo.
+    \fi
+    \ifItemUltimoCobrancaDevolucao\else
+        \item \textbf{Último Censo – Informação Financeira:} Falta de posicionamento conclusivo sobre cobrança de diferenças ou devolução de montantes faturados a maior.
+    \fi
+    \ifItemUltimoComprovantes\else
+        \item \textbf{Último Censo – Comprovantes Financeiros:} Não envio das faturas ou comprovantes bancários relativos aos acertos financeiros do último censo.
+    \fi
+
+    \ifItemTOIsVinculados\else
+        \item \textbf{Histórico de TOIs (5 anos):} Negativa ou omissão na prestação de informações e envio de cópias integrais dos TOIs lavrados na Unidade Consumidora de Iluminação Pública nos últimos 5 (cinco) anos, bem como a discriminação dos respectivos comprovantes e parcelamentos.
+    \fi
+\end{itemize}
+
+\item A recusa ou prestação parcial de informações por parte da distribuidora contraria expressamente o art. 463, § 8º, da Resolução Normativa ANEEL nº 1.000/2021, segundo o qual a concessionária tem o dever de fornecer a cópia integral do processo de levantamento cadastral mediante solicitação do Poder Público Municipal.
+
+\item Além disso, a sonegação de dados e de memórias de cálculo inviabiliza o exercício legítimo do direito do Município de fiscalizar a exatidão das faturas cobradas e de verificar a ocorrência de faturamentos a maior efetuados pela distribuidora.
+
+\item Diante do descumprimento regulamentar e da inércia da concessionária em sanar as omissões no âmbito da resposta administrativa, recorre-se a esta Ouvidoria da ANEEL para que determine a imediata exibição dos documentos e dados omitidos.
+\end{enumerate}
+
+\section{DOS PEDIDOS}
+
+\begin{enumerate}[resume]
+\item Ante o exposto, requer-se a esta Ouvidoria da ANEEL:
+    \begin{enumerate}
+    \item O conhecimento e provimento do presente recurso contra a resposta incompleta fornecida pela concessionária de energia elétrica;
+    \item A expedição de determinação para que a distribuidora forneça e apresente, no prazo regulamentar, os seguintes itens omitidos e pendentes:
+    \begin{itemize}
+        \ifItemPenultimoBaseGeorreferenciada\else\item Base georreferenciada do penúltimo censo de IP;\fi
+        \ifItemPenultimoTOI\else\item Cópias dos TOIs do penúltimo censo;\fi
+        \ifItemPenultimoMemorialCalculo\else\item Memorial de cálculo do faturamento do penúltimo censo;\fi
+        \ifItemPenultimoDatasCenso\else\item Indicação das datas de início e término do penúltimo censo;\fi
+        \ifItemPenultimoCartaComunicacao\else\item Carta de comunicação do penúltimo censo;\fi
+        \ifItemPenultimoCobrancaDevolucao\else\item Informação sobre cobrança ou devolução do penúltimo censo;\fi
+        \ifItemPenultimoComprovantes\else\item Comprovantes/faturas do penúltimo censo;\fi
+
+        \ifItemUltimoBaseGeorreferenciada\else\item Base georreferenciada do último censo de IP;\fi
+        \ifItemUltimoTOI\else\item Cópias dos TOIs do último censo;\fi
+        \ifItemUltimoMemorialCalculo\else\item Memorial de cálculo do faturamento do último censo;\fi
+        \ifItemUltimoDatasCenso\else\item Indicação das datas de início e término do último censo;\fi
+        \ifItemUltimoCartaComunicacao\else\item Carta de comunicação do último censo;\fi
+        \ifItemUltimoCobrancaDevolucao\else\item Informação sobre cobrança ou devolução do último censo;\fi
+        \ifItemUltimoComprovantes\else\item Comprovantes/faturas do último censo;\fi
+
+        \ifItemTOIsVinculados\else\item Histórico completo e cópias de TOIs lavrados na UC nos últimos 5 anos com a discriminação de faturamentos;\fi
+    \end{itemize}
+    \item A remessa de todas as informações e arquivos digitais editáveis/PDFs para o endereço eletrônico: \emailEmpresa{};
+    \item A adoção das medidas fiscalizatórias e sancionatórias cabíveis em face da distribuidora pelo descumprimento das normas de prestação de informações ao Poder Público Municipal.
+    \end{enumerate}
+\end{enumerate}
