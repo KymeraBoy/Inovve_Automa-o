@@ -559,6 +559,10 @@
     {
       "phase": "foco",
       "message": "Tempo de foco concluído. Hora da pausa."
+    },
+    {
+      "phase": "pausa curta",
+      "message": "Pausa concluída. Volte ao foco."
     }
   ]
 }
