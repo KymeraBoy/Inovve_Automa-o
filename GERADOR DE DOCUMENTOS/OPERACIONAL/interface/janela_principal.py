@@ -14,20 +14,21 @@ from PySide6.QtWidgets import (
     QFileDialog,
 )
 
-from configuracao.config import CONFIG
-from interface.formularios import PainelDetalhesDocumento
-from interface.tabela_documentos import TabelaDocumentos
-from modelos.documento import (
+from configuracao.config            import CONFIG
+from interface.formularios          import PainelDetalhesDocumento
+from interface.tabela_documentos    import TabelaDocumentos
+from servicos.fila                  import FilaDocumentos
+from servicos.gerador_adapter       import GeradorAdapter
+from servicos.municipios            import mapa_municipios
+from servicos.validacao             import validar_documento
+from servicos.empresas              import inferir_empresa_por_municipio, listar_empresas
+from modelos.documento              import (
     Documento,
     STATUS_AGUARDANDO,
     STATUS_ERRO,
     STATUS_VALIDO,
 )
-from servicos.empresas import inferir_empresa_por_municipio, listar_empresas
-from servicos.fila import FilaDocumentos
-from servicos.gerador_adapter import GeradorAdapter
-from servicos.municipios import mapa_municipios
-from servicos.validacao import validar_documento
+
 
 
 class JanelaPrincipal(QMainWindow):
