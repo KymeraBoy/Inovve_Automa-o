@@ -1,0 +1,55 @@
+PACOTE EXPORTAVEL - APURACAO POR PERIODO - COORD_01
+
+Este pacote roda somente a apuracao por intervalo de datas e gera arquivo Excel.
+Ele nao gera PowerPoint.
+Ele nao faz a analise de casos de Ouvidoria ENEL em aberto.
+Ele nao busca atividades no sistema web.
+
+LINGUAGEM USADA
+Python 3.
+
+BIBLIOTECA NECESSARIA
+openpyxl
+
+COMO RODAR
+1. Copie a pasta inteira deste pacote para o computador COORD_01.
+2. Instale Python 3, se ainda nao existir.
+3. Dê dois cliques em rodar_apuracao_periodo.bat.
+4. Informe a data inicial e a data final no formato DD/MM/AAAA.
+5. Ao final, o Excel sera salvo na pasta outputs dentro deste pacote.
+
+CAMINHOS CONFIGURADOS - BASES CEARA
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\FDOJ - Ceará\FDOJ RECLAMAÇÕES.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Municípios HLA - Ceará\CONTROLE DE RECLAMAÇÕES - CEARÁ HLA.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Anderson\Acompanhamento diario\GRID - controle processos reclamações.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Anderson\Acompanhamento diario\INOVVE - controle processos reclamações ceara - Editável - Editável.xlsm
+
+CAMINHOS CONFIGURADOS - OUTROS ESTADOS
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\FDOJ - Outros Estados\CONTROLE DE RECLAMAÇÕES - FDOJ.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Municípios Grid - Outros Estados\CONTROLE DE RECLAMAÇÕES - GRID.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Municípios HLA - Outros Estados\CONTROLE DE RECLAMAÇÕES - HLA.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\Municípios Inovve - Outros Estados\CONTROLE DE RECLAMAÇÕES - INOVVE ESTADOS DE FORA 1.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Abel Gomes Cunha\CONTROLE DE RECLAMAÇÕES - ABEL CUNHA-HLA-ENERGIA-06.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Augusto Santos\CONTROLE DE RECLAMAÇÕES - AUGUSTO SANTOS.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Indyra\CONTROLE DE RECLAMAÇÕES - INDYRA.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Monteiro & Monteiro\Estados\Planilhas de Controle\CONTROLE DE RECLAMAÇÕES - MONTEIRO E MONTEIRO.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Thamires e Ruda\CONTROLE DE RECLAMAÇÕES - THAMIRES E RUDÁ-HLA-ENERGIA-06.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\PARCEIROS\Municípios Wagner (Oliveira e Varela - Advogados)\CONTROLE DE RECLAMAÇÕES - OLIVEIRA E VARELA.xlsm
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\CLIENTES PRIVADOS\CLIENTES PRIVADOS - CONTROLE\CONTROLE DE RECLAMAÇÕES - PRIVADOS (USAR ESSE).xlsm
+
+CAMINHO CONFIGURADO - NF
+C:\Users\COORD_01\Documents\OneDrive\4. SETOR DE ENERGIA (ACESSO GERAL)\COORDENAÇÃO\CONTROLE\CONTROLE NF\PROCESSO ENVIADOS PRA GERAR NF.xlsx
+
+OBSERVACAO SOBRE MUNICIPIO E ESTADO
+Sempre que o Excel gerado mostrar a coluna Municipio, o codigo tambem mostra a coluna Estado logo ao lado.
+O Estado e lido automaticamente da coluna imediatamente a direita da coluna Municipio na planilha de origem.
+
+ESTRUTURA ESPERADA
+As bases de reclamacoes devem manter a mesma estrutura de colunas dos modelos atuais.
+Nas bases de outros estados/parceiros, a aba esperada geralmente e ANDAMENTO TESES, com cabecalho na linha 5.
+Na base FDOJ Outros Estados, a aba esperada e Controle.
+Na planilha de NF, a aba esperada e NFS.
+Na base PRIVADOS, o cliente fica na coluna C, o estado na coluna D, o responsavel do Processo ADM na coluna AM e a data do Processo ADM na coluna AN.
+
+SE ALGUM ARQUIVO NAO FOR ENCONTRADO
+O programa registra o problema na aba Inconsistências e continua a apuracao com os demais arquivos encontrados.

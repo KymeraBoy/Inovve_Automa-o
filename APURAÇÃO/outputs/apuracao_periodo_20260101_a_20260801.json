@@ -1,0 +1,12 @@
+{
+  "arquivo": "C:\\Users\\Usuário 1\\Documents\\Inovve_Automação\\APURAÇÃO\\outputs\\apuracao_periodo_20260101_a_20260801.xlsx",
+  "tipo_apuracao": "intervalo",
+  "periodo": "2026-01-01 a 2026-08-01",
+  "ingressos_total": 198,
+  "atividades_total": 0,
+  "nf_anderson_valor": 0.0,
+  "deferimentos_quantidade": 20,
+  "deferimentos_valor": 290726.48,
+  "deferimentos_saldo_pendente": 33754.10429558701,
+  "inconsistencias": 44
+}

@@ -1,0 +1,86 @@
+REGISTRO DO DIA
+2026-08-20
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:20
+
+Leitura de e-mails
+No e-mail de Ruda temos 5 novas mensagens, 2 notificações da ANEEL e 3 notificações da COSERN
+
+1º Notificação da ANEEL
+Apenas notificação de cadastro de Protocolo
+2º Notificação da ANEEL
+O protocolo referente a 1º notificação foi concluído sobre o pretexto de falta de representatividade. O protocolo é referente ao município de São José da Lagoa Tapada.
+A situação é realmente essa, o Município de São José da Lagoa Tapada está vencido.
+1º Notificação da COSERN
+Protocolo 009100606562 - na resposta eles faram que foi impossível elaborar o projeto de orçamento pois se trata de uma ligação dedicada para a captação de recursos hídricos, e precisam do documento de outorga ou despacho do mesmo. O trabalho maior está em identificar qual a UC e qual a reclamação relacionada a essa resposta, pois nada no e-mail ou na resposta atrela ela a qualquer tese nossa.
+As demais notificações da COSERN são iguais porém apenas mudando o protocolo, temos apenas 3 reclamações de enquadramento AES feitas por mim, sendo que uma está concluída
+
+Ok vamos resumir a situação na COSERN
+
+Fatos:
+- Temos duas reclamações de enquadramento AES esperando memorial de cálculo e pagamento, ambas já foram cobradas ao Pedro Formiga, que Solicitou um esclarecimento, que também já foi enviado.
+- Além disso temos uma outra reclamação de AES que foi indeferida e arquivada
+- Recebemos 3 e-mails da COSERN de resposta, todos iguais variando apenas o número do protocolo
+- nenhum dos protocolos da resposta foi identificado, dessa forma não da pra dizer a qual UC ou teses eles fazem referência (Eu acredito que são das reclamações de AES pela resposta)
+- Todos apresentam como desculpa para a elaboração dos projetos de orçamento o seguinte: "Por se tratar de uma ligação para captação de recursos hídricos, se torna necessária a apresentação de Outorga ou Dispensa de Outorga"
+
+Isso encerra a leitura de e-mails de Ruda, vamos para HLA, nela temos 3 novo e-mails todos referentes a Ribeirão
+
+1º E-mail
+REQ 001/2026
+Respondido parcialmente, o e-mail foi cadastrado, porém as informações de CIP e QIP devem ser solicitadas em pedidos separados, no caso os últimos 3 meses de informações deles
+2º E-mail
+REC 006/206
+Deferida, no valor de aproximadamente 3,7k, dessa vez a autorização de pagamento veio com valor correto, porém o memorial de cálculo também não leva em conta valores de faturas em aberto e o prazo de 4 anos na análise
+3º E-mail
+REC 004/2026 também deferida e sofre dos mesmos pontos da REC 006/2026.
+
+Os e-mails receberam tags e os arquivos salvos no Drive.
+
+Fim da Leitura de E-mails
+
+--------------------------------------------------
+
+10:55
+
+Próxima atividade vai ser continuar atualizando a planilha de teses
+A prioridade vai ser então atualizar a planilha da HLA
+porém hoje eu quero testar algumas das minhas automações como Gonzaga, então eu vou só organizar a planilha e separa as atividades que eu tenho que fazer, e depois atualizar o computador do Gonzaga
+
+Pronto, na HLA todas as Reclamações om prazo no primeiro nível descumprido, e que não possuem entrada no segundo ou terceiro estão com status atualizados, no caso agora é apenas uma que precisa ser passada para o próximo nível
+
+Cobrar a resposta dos seguintes requerimentos de Ribeirão próxima semana com a CELPE
+REQUISIÇÃO		UC	PROTOCOLO
+REQUISIÇÃO 003/2026	S/I	S/I
+REQUISIÇÃO 004/2026	4129361	1814217017
+REQUISIÇÃO 007/2026	4129361	1814204941
+REQUISIÇÃO 008/2026	4129361	S/I
+REQUISIÇÃO 009/2026	4129361	1814212015
+REQUISIÇÃO 011/2026	9170342	1814324048
+
+Status gerais das teses atualizadas temos 8 pendencias no total para a HLA.
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

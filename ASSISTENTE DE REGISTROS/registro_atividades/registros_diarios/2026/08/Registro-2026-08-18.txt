@@ -1,0 +1,116 @@
+REGISTRO DO DIA
+2026-08-18
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Hoje tem que ser feito o ofício de Ribeirão explicando as reclamações de custo disponibilidade e compilando as faturas e as Unidades consumidoras
+- Verificar a planilha de teses para pendências
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:22
+
+Nenhum e-mail novo
+
+Então vamos fazer logo esse Ofício
+
+Missão:
+para a demanda de custo de ribeirão que eles indeferiram, tu pode fazer um único ofício ou apenas uma mensagem no e-mail explicando o indeferimento, informando as reclamações que foram indeferidas, protocolos a que se referem, UC, e enviar a fatura de cada uma que tenha cobrança de custo de disponibilidade.
+Acho que o unificado de faturas tu já tem, mas dá uma revisada porque nas REC 011, 018 e 025 ou não tinha a fatura ou a fatura enviada não tinha cobrança de custo
+
+Começar com o unificado de faturas
+
+A situação geral das reclamações de Custo Disponibilidade em Ribeirão pode ser confusa, mas vamos aos fatos
+
+- Foram feitas ao total 22 reclamações de Custo Disponibilidade
+- No primeiro nível:
+	2 foram deferidas
+	1 ficou sem resposta (O protocolo dela é o mesmo da reclamação de DIC/2)
+	19 foram indeferidas (Dessas apenas uma foi para a ouvidoria da concessionária)
+
+Para fins de objetivo, vamos considerar no ofício geral as 19 reclamações indeferidas e a sem resposta. A entrega pode ser feita por texto em E-mail
+
+O texto tem que explicar a reclamação
+
+voltando para as faturas, as 20 unidades consumidoras são:
+
+RECLAMAÇÃO 010/2026	3315795
+RECLAMAÇÃO 011/2026	3315835
+RECLAMAÇÃO 013/2026	3316090
+RECLAMAÇÃO 014/2026	3316232
+RECLAMAÇÃO 015/2026	3316503
+RECLAMAÇÃO 016/2026	3316504
+RECLAMAÇÃO 017/2026	3317459 - FATURAS ESTRANHAS
+RECLAMAÇÃO 018/2026	3317741
+RECLAMAÇÃO 019/2026	3317749
+RECLAMAÇÃO 020/2026	3318220
+RECLAMAÇÃO 021/2026	3320737
+RECLAMAÇÃO 022/2026	3321145
+RECLAMAÇÃO 023/2026	6819353
+RECLAMAÇÃO 024/2026	6819377
+RECLAMAÇÃO 025/2026	6819381 - FATURAS ZERADAS
+RECLAMAÇÃO 027/2026	6819418
+RECLAMAÇÃO 028/2026	8056418
+RECLAMAÇÃO 029/2026	8056421
+RECLAMAÇÃO 030/2026	9057068
+RECLAMAÇÃO 031/2026	9061471
+
+Após revisão das faturas duas reclamações que seriam postas no ofício geral vão ser retiradas, uma por histórico de consumo muito variado, e outra por um histórico de consumo zerado.
+Reclamações 017 e 025
+
+Já temos o compilado de faturas, falta escrever o e-mail, minha dúvida é para quem mandar esse e-mail
+
+Prompt para o E-mail:
+Chat após uma reunião com a Neoenergia de Pernambuco foi combinado que enviaríamos um e-mail explicando novamente a base de uma reclamação de custo de disponibilidade, eu quero que você escreva esse e-mail, ele deve ser curto, fácil de entender e medianamente formal, os anexos dele serão uma planinha que indica o numero da unidade consumidor o código da reclamação e o protocolo afiliados a ela, além de uma pasta compactada contendo uma fatura de cada uc em questão do mês 12 de 2025 comprovando a existência da cobrança indevida, eu estou mandando junto desse prompt um pdf que é uma das reclamações que foram indeferidas para que você use como base para a explicação de qual foi a cobrança indevida e o porque dela se indevida
+
+Finalizado elaboração do "Ofício" geral de contestação das reclamações de custo de disponibilidade.
+
+--------------------------------------------------
+
+10:12
+
+Ofício 35/2025 de São José da Lagoa Tapada enviado para a ANEEL - Solicitação de QIP
+
+--------------------------------------------------
+
+10:21
+
+Corrigi o ofício 002/2026 de São José do Sabugi
+
+--------------------------------------------------
+
+10:25
+
+Enviado e-mail de contestação de custo disponibilidade de Ribeirão
+
+--------------------------------------------------
+
+10:35
+
+Ajeitei umas teses que precisam ser passadas para a próxima instância
+
+--------------------------------------------------
+
+10:41
+
+Verificando o programa do Anderson
+
+--------------------------------------------------
+
+11:45
+
+Automação
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
