@@ -1,14 +1,14 @@
 [
   {
-    "doc_id": 57,
-    "municipio": "São José de Sabugi",
+    "doc_id": 67,
+    "municipio": "Conceição",
     "empresa": "RUDA",
     "tipo": "OFI",
-    "subtipo": "Contestação Enquadramento IP",
-    "numero": "002/2026",
-    "uc": "1227022-9",
+    "subtipo": "Complementar do dobro",
+    "numero": "003/2025",
+    "uc": "1086623-4",
     "origem_tipo": "REC",
-    "origem_codigo": "019_2025",
+    "origem_codigo": "004_2025",
     "valor_faturamento": "",
     "periodo_qip": "",
     "numero_comprovante": "",
@@ -17,7 +17,53 @@
     "imagens": {},
     "ofi_item_flags": {},
     "info_adicional": "",
-    "status": "Gerado",
+    "status": "Aguardando",
     "erros": []
+  },
+  {
+    "doc_id": 68,
+    "municipio": "Conceição",
+    "empresa": "RUDA",
+    "tipo": "OFI",
+    "subtipo": "Complementar do dobro",
+    "numero": "004/2025",
+    "uc": "1737392-9",
+    "origem_tipo": "REC",
+    "origem_codigo": "007_2025",
+    "valor_faturamento": "",
+    "periodo_qip": "",
+    "numero_comprovante": "",
+    "valor_pago": "",
+    "data_pagamento": "",
+    "imagens": {},
+    "ofi_item_flags": {},
+    "info_adicional": "",
+    "status": "Erro",
+    "erros": [
+      "valor_faturamento deve ser informado para o subtipo Complementar do dobro."
+    ]
+  },
+  {
+    "doc_id": 69,
+    "municipio": "Conceição",
+    "empresa": "RUDA",
+    "tipo": "OFI",
+    "subtipo": "Complementar do dobro",
+    "numero": "005/2025",
+    "uc": "1747015-4",
+    "origem_tipo": "REC",
+    "origem_codigo": "008_2025",
+    "valor_faturamento": "",
+    "periodo_qip": "",
+    "numero_comprovante": "",
+    "valor_pago": "",
+    "data_pagamento": "",
+    "imagens": {},
+    "ofi_item_flags": {},
+    "info_adicional": "",
+    "status": "Erro",
+    "erros": [
+      "valor_faturamento deve ser informado para o subtipo Complementar do dobro."
+    ]
   }
 ]

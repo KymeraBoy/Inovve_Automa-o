@@ -9,7 +9,6 @@ import subprocess
 import numpy as np
 
 from pathlib import Path
-from pdf2image import convert_from_path
 
 # ============================================================= #
 # CONFIGURAÇÕES
@@ -20,8 +19,6 @@ Gabaritos = Path(r"C:\Users\Usuário 1\Documents\Inovve_Automação\LEITOR DE FA
 # ============================================================= #
 # FUNÇÕES
 # ============================================================= #
-
-# FUNÇÕES QUE EU ADICIONEI (TODAS ELAS DEVEM SER INDEPENDETES UMAS DA OUTRAS)
 
 # PRIMEIRA PARTE - RENOMEIAR O DOCUMENTO
 def extrair_texto(doc):
@@ -247,7 +244,7 @@ def obter_caminho_unico(dir_path: Path, cropped_name: str) -> Path:
     return new_path
 
 # SEGUNDA PARTE - IDENTIFICAR O LAYOUT
-def pdf_para_imagem_gray(doc: fitz.Document, dpi: int = 150) -> np.ndarray:
+def pdf_para_imagem_gray(doc: fitz.Document, dpi: int = 100) -> np.ndarray:
 
     page = doc[0]
 
@@ -340,6 +337,10 @@ def classificar_modelo_graficamente(doc: fitz.Document, caminho_cache: Path) -> 
 # ============================================================= #
 
 def cropper_logic_energisa(input_path, pasta_cropper, pasta_poppler, template, Poppler):
+    # input_path - Endereço do arquivo PDF que será processado
+    # pasta_cropper - Endereço da pasta onde o PDF cortado será salvo
+    # pasta_poppler - Endereço da pasta onde o arquivo de texto será salvo 
+
 
     doc     = fitz.open(input_path)
     doc_new = fitz.open()

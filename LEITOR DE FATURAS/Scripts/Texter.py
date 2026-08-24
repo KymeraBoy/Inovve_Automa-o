@@ -269,6 +269,16 @@ def texter_orchestrator(municipio_name: str, concessionaria_name: str, progress_
             ind_data = format_neoenergia(input_path, file_name)
         if formatacao == 3:
             ind_data = format_energisa(input_path, output_path)
+
+        uc_nao_encontrada = any(
+        item.get('UC') == 'Não encontrado'
+        for item in ind_data
+)
+
+        if uc_nao_encontrada:
+            print(file_name)
+        else:
+            print("-")
             
         matriz.append(ind_data)  
 
