@@ -45,6 +45,7 @@ python main.py
 - edicao direta na tabela (municipio, empresa, tipo, subtipo, UC, numero);
 - campos condicionais no painel lateral:
   - OFI: origem e codigo;
+  - OFI - Pagamento de Ajuste: reclamacao, pagamentos, comprovantes, periodo, processo ANEEL e datas de referencia;
   - Perda nos Reatores: valor, periodo e imagens;
   - Perda por Transformacao: imagens obrigatorias;
 - selecao de imagens via dialogo do sistema;

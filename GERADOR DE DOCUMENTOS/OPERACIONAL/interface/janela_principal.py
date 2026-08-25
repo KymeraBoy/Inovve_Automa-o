@@ -261,6 +261,8 @@ class JanelaPrincipal(QMainWindow):
             documento.valor_pago = str(valor)
         elif campo == "data_pagamento":
             documento.data_pagamento = str(valor)
+        elif campo.startswith("ajuste_"):
+            setattr(documento, campo, str(valor))
         elif campo == "info_adicional":
             documento.info_adicional = str(valor)
         elif campo.startswith("ofi_flag:"):

@@ -3,11 +3,11 @@
 # ============================================================== #
 
 import os
-import re
-import uuid
+# import re
+# import uuid
 import fitz
 import shutil
-import subprocess
+# import subprocess
 
 from pathlib import Path
 from templates_cropper import TEMPLATES
@@ -52,9 +52,6 @@ def limpar_pasta(caminho_pasta: Path) -> None:
         elif item.is_dir():
             shutil.rmtree(item)
 
-def selecionar_modelo(templates_dict: dict, concessionaria_name: str) -> dict:
-    return templates_dict[concessionaria_name]
-
 def obter_caminho_unico(dir_path, cropped_name):
     full_path = dir_path / cropped_name    
     if not full_path.exists():
@@ -83,29 +80,25 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
     src_dir                 = selecionar_subpasta(PATH_FATURAS, municipio_name) 
     nome_subpasta           = src_dir.name                                      
     pdf_files               = sorted([f for f in src_dir.iterdir() if f.is_file() and f.suffix.lower() == ".pdf"]) 
-    selected_template_name  = concessionaria_name
-    selected_template       = TEMPLATES[selected_template_name]
-
-    # Garante que vai haver uma pasta da pasta ne faturas da Neoenergia para alocação das individuais
-    if selected_template_name == "NEOENERGIA":
-        ind_dir = src_dir / f"{src_dir.name}-INDIVIDUAIS"    
-        ind_dir.mkdir(parents=True, exist_ok=True)
-        limpar_pasta(ind_dir)
-    
+       
     # Garante a existência das pastas Cropped e Poppler para o município selecionado e limpa elas
     dst_dir = PATH_CROPPED / f"{nome_subpasta}_Cropped"
     txt_dir = PATH_POPPLER / f"{nome_subpasta}_Poppler"    
     dst_dir.mkdir(parents=True, exist_ok=True)
     txt_dir.mkdir(parents=True, exist_ok=True)
     limpar_pasta(dst_dir)
-    limpar_pasta(txt_dir)    
-        
-    print(f"Quantidade de PDFs para processar: {len(pdf_files)}")
+    limpar_pasta(txt_dir)            
 
     # Verifica se o Poppler existe
     poppler_disponivel = PATH_POPPLER_EXE.exists()
     if not poppler_disponivel:
         print(f"Aviso: pdftotext não encontrado em {PATH_POPPLER_EXE}. A etapa de conversão para txt será ignorada.")
+
+    # Verifica se já existe uma pasta individual e se sim limpa ela
+    ind_dir = src_dir / f"{src_dir.name}-INDIVIDUAIS"  
+    if ind_dir.exists():
+        limpar_pasta(ind_dir)
+
     
     # Função para processamento de um PDF (definição necessária para existência da barra de progresso)
     def processar_um_pdf_para_cropper(pdf_path: Path):
@@ -115,7 +108,6 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
         # Lê o texto do PDF
         with fitz.open(pdf_path) as pdf:
             texto_pdf = ""
-
             for pagina in pdf:
                 texto_pdf += pagina.get_text()
 
@@ -123,42 +115,19 @@ def cropper_orchestrator(municipio_name: str, concessionaria_name: str, progress
         texto_pdf = texto_pdf.upper()
 
         # Identifica o template diretamente pelo conteúdo do PDF
-        if "ENEL" in texto_pdf:
+        if      "ENEL"          in texto_pdf:
             selected_template = TEMPLATES["ENEL"]
-
-            cropper_logic_enel(
-                pdf_path,
-                output_cropped_path,
-                selected_template
-            )
-
-        elif "ENERGISA" in texto_pdf:
+            cropper_logic_enel(pdf_path, output_cropped_path, selected_template)
+        elif    "ENERGISA"      in texto_pdf:
             selected_template = TEMPLATES["ENERGISA"]
-
-            cropper_logic_energisa(
-                pdf_path,
-                dst_dir,
-                txt_dir,
-                selected_template,
-                PATH_POPPLER_EXE
-            )
-
-        elif "NEOENERGIA" in texto_pdf:
+            cropper_logic_energisa(pdf_path, dst_dir, txt_dir, selected_template, PATH_POPPLER_EXE)
+        elif    "NEOENERGIA"    in texto_pdf:
             selected_template = TEMPLATES["NEOENERGIA"]
-
-            cropper_logic_neoenergia(
-                pdf_path,
-                dst_dir,
-                txt_dir,
-                ind_dir,
-                selected_template,
-                PATH_POPPLER_EXE
-            )
-
+            ind_dir.mkdir(parents=True, exist_ok=True)
+            cropper_logic_neoenergia(pdf_path, dst_dir, txt_dir, ind_dir, selected_template,PATH_POPPLER_EXE)
         else:
-            raise ValueError(
-                f"Não foi possível identificar o template do PDF: {pdf_path.name}"
-            )
+            raise ValueError(f"Não foi possível identificar o template do PDF: {pdf_path.name}")
+        
     # Barra de progresso
     total_pdfs = len(pdf_files)
     for idx, pdf_path in enumerate(pdf_files):

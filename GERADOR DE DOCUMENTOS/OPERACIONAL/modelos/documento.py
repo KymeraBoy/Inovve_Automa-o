@@ -28,6 +28,23 @@ class Documento:
     numero_comprovante: str = ""
     valor_pago: str = ""
     data_pagamento: str = ""
+    ajuste_reclamacao: str = ""
+    ajuste_data_reclamacao: str = ""
+    ajuste_data_primeiro_pagamento: str = ""
+    ajuste_valor_primeiro_pagamento: str = ""
+    ajuste_comprovante_primeiro_pagamento: str = ""
+    ajuste_valor_pagamento_complementar: str = ""
+    ajuste_data_pagamento_complementar: str = ""
+    ajuste_comprovante_pagamento_complementar: str = ""
+    ajuste_data_disponibilizacao: str = ""
+    ajuste_data_efetivo_pagamento_complementar: str = ""
+    ajuste_periodo_decorrido: str = ""
+    ajuste_data_pagamento: str = ""
+    ajuste_termo_inicial: str = ""
+    ajuste_termo_final: str = ""
+    ajuste_numero_processo_aneel: str = ""
+    ajuste_explicacao_data_inicial: str = ""
+    ajuste_explicacao_data_final: str = ""
     imagens: dict[str, str] = field(default_factory=dict)
     ofi_item_flags: dict[str, bool] = field(default_factory=dict)
     info_adicional: str = ""
@@ -50,6 +67,23 @@ class Documento:
             "numero_comprovante": self.numero_comprovante,
             "valor_pago": self.valor_pago,
             "data_pagamento": self.data_pagamento,
+            "ajuste_reclamacao": self.ajuste_reclamacao,
+            "ajuste_data_reclamacao": self.ajuste_data_reclamacao,
+            "ajuste_data_primeiro_pagamento": self.ajuste_data_primeiro_pagamento,
+            "ajuste_valor_primeiro_pagamento": self.ajuste_valor_primeiro_pagamento,
+            "ajuste_comprovante_primeiro_pagamento": self.ajuste_comprovante_primeiro_pagamento,
+            "ajuste_valor_pagamento_complementar": self.ajuste_valor_pagamento_complementar,
+            "ajuste_data_pagamento_complementar": self.ajuste_data_pagamento_complementar,
+            "ajuste_comprovante_pagamento_complementar": self.ajuste_comprovante_pagamento_complementar,
+            "ajuste_data_disponibilizacao": self.ajuste_data_disponibilizacao,
+            "ajuste_data_efetivo_pagamento_complementar": self.ajuste_data_efetivo_pagamento_complementar,
+            "ajuste_periodo_decorrido": self.ajuste_periodo_decorrido,
+            "ajuste_data_pagamento": self.ajuste_data_pagamento,
+            "ajuste_termo_inicial": self.ajuste_termo_inicial,
+            "ajuste_termo_final": self.ajuste_termo_final,
+            "ajuste_numero_processo_aneel": self.ajuste_numero_processo_aneel,
+            "ajuste_explicacao_data_inicial": self.ajuste_explicacao_data_inicial,
+            "ajuste_explicacao_data_final": self.ajuste_explicacao_data_final,
             "imagens": dict(self.imagens),
             "ofi_item_flags": dict(self.ofi_item_flags),
             "info_adicional": self.info_adicional,
@@ -74,6 +108,23 @@ class Documento:
             numero_comprovante=str(data.get("numero_comprovante", "")),
             valor_pago=str(data.get("valor_pago", "")),
             data_pagamento=str(data.get("data_pagamento", "")),
+            ajuste_reclamacao=str(data.get("ajuste_reclamacao", "")),
+            ajuste_data_reclamacao=str(data.get("ajuste_data_reclamacao", "")),
+            ajuste_data_primeiro_pagamento=str(data.get("ajuste_data_primeiro_pagamento", "")),
+            ajuste_valor_primeiro_pagamento=str(data.get("ajuste_valor_primeiro_pagamento", "")),
+            ajuste_comprovante_primeiro_pagamento=str(data.get("ajuste_comprovante_primeiro_pagamento", "")),
+            ajuste_valor_pagamento_complementar=str(data.get("ajuste_valor_pagamento_complementar", "")),
+            ajuste_data_pagamento_complementar=str(data.get("ajuste_data_pagamento_complementar", "")),
+            ajuste_comprovante_pagamento_complementar=str(data.get("ajuste_comprovante_pagamento_complementar", "")),
+            ajuste_data_disponibilizacao=str(data.get("ajuste_data_disponibilizacao", "")),
+            ajuste_data_efetivo_pagamento_complementar=str(data.get("ajuste_data_efetivo_pagamento_complementar", "")),
+            ajuste_periodo_decorrido=str(data.get("ajuste_periodo_decorrido", "")),
+            ajuste_data_pagamento=str(data.get("ajuste_data_pagamento", "")),
+            ajuste_termo_inicial=str(data.get("ajuste_termo_inicial", "")),
+            ajuste_termo_final=str(data.get("ajuste_termo_final", "")),
+            ajuste_numero_processo_aneel=str(data.get("ajuste_numero_processo_aneel", "")),
+            ajuste_explicacao_data_inicial=str(data.get("ajuste_explicacao_data_inicial", "")),
+            ajuste_explicacao_data_final=str(data.get("ajuste_explicacao_data_final", "")),
             imagens=dict(data.get("imagens", {}) or {}),
             ofi_item_flags={str(chave): bool(valor) for chave, valor in dict(data.get("ofi_item_flags", {}) or {}).items()},
             info_adicional=str(data.get("info_adicional", "")),

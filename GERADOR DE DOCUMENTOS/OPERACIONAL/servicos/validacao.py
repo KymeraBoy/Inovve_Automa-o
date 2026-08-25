@@ -116,4 +116,55 @@ def validar_documento(documento: Documento) -> list[str]:
         elif not DATA_BR_RE.fullmatch(documento.data_pagamento.strip()):
             erros.append("Data do pagamento invalida (use DD/MM/AAAA).")
 
+    if documento.tipo == "OFI" and subtipo == "PAGAMENTO_DE_AJUSTE":
+        campos_obrigatorios = {
+            "ajuste_reclamacao": "Reclamacao",
+            "ajuste_data_reclamacao": "Data da reclamacao",
+            "ajuste_data_primeiro_pagamento": "Data do primeiro pagamento",
+            "ajuste_valor_primeiro_pagamento": "Valor do primeiro pagamento",
+            "ajuste_comprovante_primeiro_pagamento": "Comprovante do primeiro pagamento",
+            "ajuste_valor_pagamento_complementar": "Valor do pagamento complementar",
+            "ajuste_data_pagamento_complementar": "Data do pagamento complementar",
+            "ajuste_comprovante_pagamento_complementar": "Comprovante do pagamento complementar",
+            "ajuste_data_disponibilizacao": "Data de disponibilizacao",
+            "ajuste_data_efetivo_pagamento_complementar": "Data do efetivo pagamento complementar",
+            "ajuste_periodo_decorrido": "Periodo decorrido",
+            "ajuste_data_pagamento": "Data do pagamento",
+            "ajuste_termo_inicial": "Termo inicial",
+            "ajuste_termo_final": "Termo final",
+            "ajuste_numero_processo_aneel": "Numero do processo ANEEL",
+            "ajuste_explicacao_data_inicial": "Explicacao da data inicial",
+            "ajuste_explicacao_data_final": "Explicacao da data final",
+        }
+        for campo, rotulo in campos_obrigatorios.items():
+            if not getattr(documento, campo).strip():
+                erros.append(f"{rotulo} nao informado para Pagamento de Ajuste.")
+
+        campos_monetarios = {
+            "ajuste_valor_primeiro_pagamento": "Valor do primeiro pagamento",
+            "ajuste_valor_pagamento_complementar": "Valor do pagamento complementar",
+        }
+        for campo, rotulo in campos_monetarios.items():
+            if not getattr(documento, campo).strip():
+                continue
+            try:
+                parse_monetario_br(getattr(documento, campo))
+            except ValueError:
+                erros.append(f"{rotulo} invalido para Pagamento de Ajuste.")
+
+        campos_data = {
+            "ajuste_data_reclamacao": "Data da reclamacao",
+            "ajuste_data_primeiro_pagamento": "Data do primeiro pagamento",
+            "ajuste_data_pagamento_complementar": "Data do pagamento complementar",
+            "ajuste_data_disponibilizacao": "Data de disponibilizacao",
+            "ajuste_data_efetivo_pagamento_complementar": "Data do efetivo pagamento complementar",
+            "ajuste_data_pagamento": "Data do pagamento",
+            "ajuste_termo_inicial": "Termo inicial",
+            "ajuste_termo_final": "Termo final",
+        }
+        for campo, rotulo in campos_data.items():
+            valor = getattr(documento, campo).strip()
+            if valor and not DATA_BR_RE.fullmatch(valor):
+                erros.append(f"{rotulo} invalida (use DD/MM/AAAA).")
+
     return erros

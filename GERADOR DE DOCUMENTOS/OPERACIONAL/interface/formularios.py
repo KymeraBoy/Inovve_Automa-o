@@ -40,6 +40,26 @@ OFI_LEVANTAMENTO_CADASTRAL_ITEMS = [
     ("ItemTOIsVinculados", "Item 14.3 - Histórico completo de TOIs lavrados na UC nos últimos 5 anos", True),
 ]
 
+AJUSTE_FIELDS = [
+    ("ajuste_reclamacao", "Reclamacao", "Ex: administrativa", "text"),
+    ("ajuste_data_reclamacao", "Data da reclamacao", "DD/MM/AAAA", "date"),
+    ("ajuste_data_primeiro_pagamento", "Data do primeiro pagamento", "DD/MM/AAAA", "date"),
+    ("ajuste_valor_primeiro_pagamento", "Valor do primeiro pagamento", "R$ 0,00", "money"),
+    ("ajuste_comprovante_primeiro_pagamento", "Comprovante do primeiro pagamento", "Numero do comprovante", "text"),
+    ("ajuste_valor_pagamento_complementar", "Valor do pagamento complementar", "R$ 0,00", "money"),
+    ("ajuste_data_pagamento_complementar", "Data do pagamento complementar", "DD/MM/AAAA", "date"),
+    ("ajuste_comprovante_pagamento_complementar", "Comprovante do pagamento complementar", "Numero do comprovante", "text"),
+    ("ajuste_data_disponibilizacao", "Data em que deveria ser disponibilizado", "DD/MM/AAAA", "date"),
+    ("ajuste_data_efetivo_pagamento_complementar", "Data do efetivo pagamento complementar", "DD/MM/AAAA", "date"),
+    ("ajuste_periodo_decorrido", "Periodo decorrido", "Ex: 180 dias", "text"),
+    ("ajuste_data_pagamento", "Data do pagamento", "DD/MM/AAAA", "date"),
+    ("ajuste_termo_inicial", "Termo inicial", "DD/MM/AAAA", "date"),
+    ("ajuste_termo_final", "Termo final", "DD/MM/AAAA", "date"),
+    ("ajuste_numero_processo_aneel", "Numero do processo ANEEL", "Ex: 48500.000000/2026-00", "text"),
+    ("ajuste_explicacao_data_inicial", "O que representa a data inicial", "Ex: vencimento do valor", "text"),
+    ("ajuste_explicacao_data_final", "O que representa a data final", "Ex: pagamento complementar", "text"),
+]
+
 
 class PainelDetalhesDocumento(QWidget):
     """Painel lateral com campos dinamicos por tipo/subtipo."""
@@ -117,6 +137,24 @@ class PainelDetalhesDocumento(QWidget):
         form_req_esclarecimento.addRow("Valor pago", self.txt_valor_pago)
         form_req_esclarecimento.addRow("Data do pagamento", self.txt_data_pagamento)
         layout.addWidget(self.grp_req_esclarecimento)
+
+        self.grp_pagamento_ajuste = QGroupBox("Campos de Pagamento de Ajuste")
+        form_pagamento_ajuste = QFormLayout(self.grp_pagamento_ajuste)
+        self._ajuste_edits: dict[str, QLineEdit] = {}
+        for chave, rotulo, placeholder, tipo_campo in AJUSTE_FIELDS:
+            campo = QLineEdit()
+            campo.setPlaceholderText(placeholder)
+            if tipo_campo == "money":
+                campo.editingFinished.connect(
+                    lambda chave=chave, campo=campo: self._formatar_e_emitir_ajuste(chave, campo, True)
+                )
+            else:
+                campo.editingFinished.connect(
+                    lambda chave=chave, campo=campo: self._emitir(chave, campo.text().strip())
+                )
+            form_pagamento_ajuste.addRow(rotulo, campo)
+            self._ajuste_edits[chave] = campo
+        layout.addWidget(self.grp_pagamento_ajuste)
 
         self.grp_adicional = QGroupBox("Informacoes adicionais")
         form_adicional = QFormLayout(self.grp_adicional)
@@ -212,6 +250,8 @@ class PainelDetalhesDocumento(QWidget):
             self.txt_numero_comprovante.setText("")
             self.txt_valor_pago.setText("")
             self.txt_data_pagamento.setText("")
+            for campo in self._ajuste_edits.values():
+                campo.setText("")
             self.txt_info_adicional.setPlainText("")
             self._set_imagem("vapor", "")
             self._set_imagem("fluorescente", "")
@@ -231,6 +271,8 @@ class PainelDetalhesDocumento(QWidget):
         self.txt_numero_comprovante.setText(documento.numero_comprovante)
         self.txt_valor_pago.setText(documento.valor_pago)
         self.txt_data_pagamento.setText(documento.data_pagamento)
+        for chave, campo in self._ajuste_edits.items():
+            campo.setText(getattr(documento, chave))
         self.txt_info_adicional.setPlainText(documento.info_adicional)
         self._set_imagem("vapor", documento.imagens.get("vapor", ""))
         self._set_imagem("fluorescente", documento.imagens.get("fluorescente", ""))
@@ -296,6 +338,18 @@ class PainelDetalhesDocumento(QWidget):
         except ValueError:
             self._emitir("valor_pago", valor)
 
+    def _formatar_e_emitir_ajuste(self, chave: str, campo: QLineEdit, monetario: bool) -> None:
+        valor = campo.text().strip()
+        if not valor or not monetario:
+            self._emitir(chave, valor)
+            return
+        try:
+            formatado = formatar_monetario_br(valor)
+            campo.setText(formatado)
+            self._emitir(chave, formatado)
+        except ValueError:
+            self._emitir(chave, valor)
+
     def _emitir(self, campo: str, valor: object) -> None:
         if self._loading:
             return
@@ -310,4 +364,5 @@ class PainelDetalhesDocumento(QWidget):
         self.grp_reatores.setVisible("PERDA_NOS_REATORES" in normalizado)
         self.grp_transformacao.setVisible("PERDA_POR_TRANSFORMACAO" in normalizado)
         self.grp_req_esclarecimento.setVisible("ESCLARECIMENTO_PAGAMENTO" in normalizado)
+        self.grp_pagamento_ajuste.setVisible(tipo == "OFI" and normalizado == "PAGAMENTO_DE_AJUSTE")
         self._set_checklist_ofi_visible(tipo == "OFI" and normalizado == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP")

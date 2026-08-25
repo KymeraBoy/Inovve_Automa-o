@@ -427,6 +427,33 @@ def _process_req_esclarecimento_pagamento_content(conteudo_tex: str, documento: 
     return _atualizar_contador_meses(conteudo_tex)
 
 
+def _process_ofi_pagamento_ajuste_content(conteudo_tex: str, documento: Documento) -> str:
+    campos = {
+        "[RECLAMACAO]": documento.ajuste_reclamacao,
+        "[DATA RECLAMACAO]": documento.ajuste_data_reclamacao,
+        "[DATA PRIMEIRO PAGAMENTO]": documento.ajuste_data_primeiro_pagamento,
+        "[COMPROVANTE PRIMEIRO PAGAMENTO]": documento.ajuste_comprovante_primeiro_pagamento,
+        "[DATA PAGAMENTO COMPLEMENTAR]": documento.ajuste_data_pagamento_complementar,
+        "[COMPROVANTE PAGAMENTO COMPLEMENTAR]": documento.ajuste_comprovante_pagamento_complementar,
+        "[DATA DISPONIBILIZACAO]": documento.ajuste_data_disponibilizacao,
+        "[DATA EFETIVO PAGAMENTO COMPLEMENTAR]": documento.ajuste_data_efetivo_pagamento_complementar,
+        "[PERIODO DECORRIDO]": documento.ajuste_periodo_decorrido,
+        "[DATA PAGAMENTO]": documento.ajuste_data_pagamento,
+        "[DATA TERMO INICIAL]": documento.ajuste_termo_inicial,
+        "[DATA TERMO FINAL]": documento.ajuste_termo_final,
+        "[NUMERO PROCESSO ANEEL]": documento.ajuste_numero_processo_aneel,
+        "[EXPLICACAO DATA INICIAL]": documento.ajuste_explicacao_data_inicial,
+        "[EXPLICACAO DATA FINAL]": documento.ajuste_explicacao_data_final,
+        "[VALOR PRIMEIRO PAGAMENTO]": _formatar_moeda(documento.ajuste_valor_primeiro_pagamento).replace("R$ ", ""),
+        "[VALOR PAGAMENTO COMPLEMENTAR]": _formatar_moeda(documento.ajuste_valor_pagamento_complementar).replace("R$ ", ""),
+    }
+    for placeholder, value in campos.items():
+        if not str(value).strip():
+            raise ValueError(f"{placeholder} deve ser informado para o subtipo Pagamento de Ajuste.")
+        conteudo_tex = conteudo_tex.replace(placeholder, str(value))
+    return _atualizar_contador_meses(conteudo_tex)
+
+
 def _compile_tex_to_pdf(tex_path: Path) -> tuple[bool, Path | None, str]:
     engines = ["pdflatex", "xelatex"]
     available = [eng for eng in engines if shutil.which(eng)]
@@ -643,6 +670,8 @@ class GeradorOperacional:
             content = _process_ofi_complementar_dobro_content(content, documento)
         elif documento.tipo == "OFI" and subtype_key == "CONTESTACAO_LEVANTAMENTO_CADASTRAL_IP":
             content = _apply_ofi_levantamento_cadastral_checklist(content, documento)
+        elif documento.tipo == "OFI" and subtype_key == "PAGAMENTO_DE_AJUSTE":
+            content = _process_ofi_pagamento_ajuste_content(content, documento)
         elif documento.tipo == "REQ" and subtype_key == "ESCLARECIMENTO_PAGAMENTO":
             content = _process_req_esclarecimento_pagamento_content(content, documento)
 
