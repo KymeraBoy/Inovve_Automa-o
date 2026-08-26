@@ -1,0 +1,103 @@
+REGISTRO DO DIA
+2026-08-26
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:14
+
+Leitura de mensagens no Teams
+
+- o ofício 002/2026 de Salgado de São Félix foi rejeitado por não valer a pena contesta-lo, ele tratava da reclamação 001/2026 - Enquadramento IP
+
+- Vai ser necessário atualizar o ofício de contestação de enquadramento AES. Deve ser inserido algumas citações da 679/2026 que não descaracteriza o enquadramento de água e esgoto pela presença de tomadas e lâmpadas.
+
+- Recebemos 4 ofícios assinados que já podem ser passados para a ANEEL.
+
+--------------------------------------------------
+
+08:38
+
+REC 004/2025 de Conceição passada para a ANEEL - Contestação de Memorial de Cálculo - Complementar do Dobro
+
+--------------------------------------------------
+
+08:52
+
+REC 007/2025 de Conceição passada para a ANEEL - Contestação de Memorial de Cálculo - Complementar do Dobro
+
+--------------------------------------------------
+
+09:03
+
+REC 008/2025 de Conceição passada para a ANEEL - Contestação de Memorial de Cálculo - Complementar do Dobro
+
+--------------------------------------------------
+
+09:25
+
+REC 001/2025 de Lastro passada para a ANEEL - Contestação de indeferimento de enquadramento IP
+
+--------------------------------------------------
+
+09:58
+
+Contestações de Enquadramento AES atualizadas
+
+--------------------------------------------------
+
+10:28
+
+Leitura de E-mails:
+
+RUDA
+
+- temos reposta do Pedro Formiga em 3 teses, basicamente é só pra informar que os e-mails que a gente não tinha identificado reclamação e protocolo não tem nada haver com a gente, são comunicações entre a COSERN e a Prefeitura, podemos ignorar
+
+HLA
+
+- Temos 5 e-mails novos na HLA, 2 são da Microsoft informando provavelmente que dois dos nossos e-maisl não puderam ser entregados, e 3 sobre Ribeirão
+- Tivemos resposta da Reclamação de taxa administrativa da CIP por parte de Ribeirão, fica faltando analisar por que foi indeferido
+- EM resumo, no e-mail da HLA vou ter que reenviar algumas contestações de memorial de cálculo, reclamação de taxa adm da CIP foi indeferida e recebemos resposta do requerimento 9 de Riberirão
+- Os e-mails que não foram enviados, na verdade foram sim enviados.
+
+--------------------------------------------------
+
+10:49
+
+REC 006/2026 de Lucena foi passado para a ouvidoria da Energisa
+
+--------------------------------------------------
+
+11:05
+
+REC 005/2025 de Araruna contestada na ouvidoria da concessionária
+
+--------------------------------------------------
+
+11:15
+
+REC 001/2026 de Miranda - Foi elaborada a contestação para a ANEEL dela
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+Agora eu vou ver se eu finalizo a cobrança de pagamento de ajuste, o problema é que os códigos do gerador de documento não me são familiares, então eu vou ter um trabalho inicial só de preparar esse código para receber novos templates e poder atualizar eles. Isso vai demoar mais um pouco

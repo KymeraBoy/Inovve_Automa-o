@@ -29,8 +29,6 @@ from modelos.documento              import (
     STATUS_VALIDO,
 )
 
-
-
 class JanelaPrincipal(QMainWindow):
     """Janela principal da operacao em fila."""
 
