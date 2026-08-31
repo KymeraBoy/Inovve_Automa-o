@@ -1,16 +1,16 @@
 [
   {
-    "doc_id": 1,
-    "municipio": "Aguiar",
-    "empresa": "RUDA",
-    "tipo": "OFI",
-    "subtipo": "Pagamento de ajuste",
-    "numero": "001/2026",
-    "uc": "137004",
-    "origem_tipo": "REC",
-    "origem_codigo": "004_2025",
-    "valor_faturamento": "",
-    "periodo_qip": "",
+    "doc_id": 0,
+    "municipio": "Itaíba",
+    "empresa": "HLA",
+    "tipo": "REC",
+    "subtipo": "Perda nos reatores",
+    "numero": "006/2026",
+    "uc": "1448473",
+    "origem_tipo": "",
+    "origem_codigo": "",
+    "valor_faturamento": "R$ 18.460,19",
+    "periodo_qip": "Maio de 2020",
     "numero_comprovante": "",
     "valor_pago": "",
     "data_pagamento": "",
@@ -31,10 +31,13 @@
     "ajuste_numero_processo_aneel": "",
     "ajuste_explicacao_data_inicial": "",
     "ajuste_explicacao_data_final": "",
-    "imagens": {},
+    "imagens": {
+      "vapor": "C:\\Users\\Usuário 1\\OneDrive\\PASTA ENERGIA 1\\Municípios HLA - Outros Estados\\Pernambuco\\Itaíba\\Reclamações\\REC-006_2026-ITAIBA-PERDA_NOS_REATORES\\RECLAMACAO_FORMAL\\Perdas Vapor.png",
+      "fluorescente": "C:\\Users\\Usuário 1\\OneDrive\\PASTA ENERGIA 1\\Municípios HLA - Outros Estados\\Pernambuco\\Itaíba\\Reclamações\\REC-006_2026-ITAIBA-PERDA_NOS_REATORES\\RECLAMACAO_FORMAL\\Perdas Fluorescente.png"
+    },
     "ofi_item_flags": {},
     "info_adicional": "",
-    "status": "Aguardando",
+    "status": "Gerado",
     "erros": []
   }
 ]

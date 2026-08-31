@@ -1,12 +1,10 @@
-from __future__ import annotations
+from __future__     import annotations
+from dataclasses    import dataclass, field
+from typing         import Any
 
-from dataclasses import dataclass, field
-from typing import Any
-
-
-STATUS_AGUARDANDO = "Aguardando"
-STATUS_VALIDO = "Valido"
-STATUS_ERRO = "Erro"
+STATUS_AGUARDANDO       = "Aguardando"
+STATUS_VALIDO           = "Valido"
+STATUS_ERRO             = "Erro"
 STATUS_PENDENTE_GERACAO = "Pendente geracao"
 
 
@@ -14,17 +12,20 @@ STATUS_PENDENTE_GERACAO = "Pendente geracao"
 class Documento:
     """Representa um chamado/documento na fila operacional."""
 
-    doc_id: int
-    municipio: str = ""
-    empresa: str = ""
-    tipo: str = "REC"
-    subtipo: str = ""
-    numero: str = ""
-    uc: str = ""
-    origem_tipo: str = ""
-    origem_codigo: str = ""
+    doc_id:         int
+    municipio:      str = ""
+    empresa:        str = ""
+    tipo:           str = "REC"
+    subtipo:        str = ""
+    numero:         str = ""
+    uc:             str = ""
+    origem_tipo:    str = ""
+    origem_codigo:  str = ""
+
+    # Contestação de QIP
     valor_faturamento: str = ""
-    periodo_qip: str = ""
+    periodo_qip:       str = ""
+
     numero_comprovante: str = ""
     valor_pago: str = ""
     data_pagamento: str = ""

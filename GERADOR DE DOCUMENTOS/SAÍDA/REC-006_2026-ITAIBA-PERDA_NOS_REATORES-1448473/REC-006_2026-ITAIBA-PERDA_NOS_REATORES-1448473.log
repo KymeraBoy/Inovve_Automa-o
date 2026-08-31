@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  26 AUG 2026 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  31 AUG 2026 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./OFI-002_2026-MIRANDA-REC-001_2026.tex
-(OFI-002_2026-MIRANDA-REC-001_2026.tex
+**./REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.tex
+(REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 
@@ -246,9 +246,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box58
 )
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/MUNICIP
-IOS/Dados_Miranda.tex
+IOS/Dados_Itaiba.tex
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/CONCESS
-IONARIAS/ENERGISA_MATO_GROSSO_DO_SUL.tex))
+IONARIAS/NEOENERGIA_PERNAMBUCO.tex))
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 25
 .
 
@@ -259,11 +259,11 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 d-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
-) (OFI-002_2026-MIRANDA-REC-001_2026.aux
+) (REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 5.
 )
-\openout1 = `OFI-002_2026-MIRANDA-REC-001_2026.aux'.
+\openout1 = `REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -342,7 +342,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESA
 S/HLA/intro.tex
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 9
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
 .
 
 (C:\Users\Usuário 1\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
@@ -355,8 +355,7 @@ S/HLA/anexos.tex
 \totalAditivos=\count303
 )
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/SAÍDA/
-OFI-002_2026-MIRANDA-REC-001_2026/Contestação_Enquadramento_IP-Ausencia_Prova
-s_processed.tex
+REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473/Perda_nos_reatores_processed.tex
 <C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESA
 S/HLA/HLA_Header.png, id=1, 603.75563pt x 94.85437pt>
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
@@ -364,7 +363,7 @@ PRESAS/HLA/HLA_Header.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Header.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 9.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 15.
 (pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
 <C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESA
 S/HLA/HLA_Ender.png, id=3, 599.99156pt x 50.43843pt>
@@ -373,32 +372,107 @@ PRESAS/HLA/HLA_Ender.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 9.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 15.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [1
+[1
 
 {C:/Users/Usuário 1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
 /Usuário 1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:/User
 s/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/HLA/HL
 A_Header.png> <C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCU
 MENTOS/EMPRESAS/HLA/HLA_Ender.png>]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
 PRESAS/HLA/HLA_Header.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Header.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 40.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 70.
 (pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
 PRESAS/HLA/HLA_Ender.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 40.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 70.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [2])
+ [2]
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 91.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 91.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+ [3]
+<C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estados/
+Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECLAMA
+CAO_FORMAL/Perdas Vapor.png, id=18, 750.4035pt x 218.61674pt>
+File: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Est
+ados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RE
+CLAMACAO_FORMAL/Perdas Vapor.png Graphic file (type png)
+<use C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
+dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
+LAMACAO_FORMAL/Perdas Vapor.png>
+Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípi
+os HLA - Outros Estados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PE
+RDA_NOS_REATORES/RECLAMACAO_FORMAL/Perdas Vapor.png  used on input line 95.
+(pdftex.def)             Requested size: 483.69687pt x 140.9183pt.
+<C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estados/
+Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECLAMA
+CAO_FORMAL/Perdas Fluorescente.png, id=19, 747.39224pt x 112.62074pt>
+File: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Est
+ados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RE
+CLAMACAO_FORMAL/Perdas Fluorescente.png Graphic file (type png)
+<use C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
+dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
+LAMACAO_FORMAL/Perdas Fluorescente.png>
+Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípi
+os HLA - Outros Estados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PE
+RDA_NOS_REATORES/RECLAMACAO_FORMAL/Perdas Fluorescente.png  used on input line 
+121.
+(pdftex.def)             Requested size: 483.69687pt x 72.8864pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 124.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 124.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+ [4 <C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
+dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
+LAMACAO_FORMAL/Perdas Vapor.png>]
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Header.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Header.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 147.
+(pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
+File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
+PRESAS/HLA/HLA_Ender.png Graphic file (type png)
+<use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
+RESAS/HLA/HLA_Ender.png>
+Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 147.
+(pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
+
+[5 <C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estad
+os/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECL
+AMACAO_FORMAL/Perdas Fluorescente.png>])
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESA
 S/HLA/final.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -422,28 +496,27 @@ RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
 OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 42.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [3] (OFI-002_2026-MIRANDA-REC-001_2026.aux)
+ [6] (REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5019 strings out of 467867
- 88187 string characters out of 5415879
- 519537 words of memory out of 5000000
- 33812 multiletter control sequences out of 15000+600000
- 649000 words of font info for 64 fonts, out of 8000000 for 9000
+ 5043 strings out of 467867
+ 91246 string characters out of 5415879
+ 521362 words of memory out of 5000000
+ 33838 multiletter control sequences out of 15000+600000
+ 646297 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,79p,1130b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,12n,79p,1041b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
 hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
-lvetic/uhvr8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/helvetic/uhvro8a.pfb>
-Output written on OFI-002_2026-MIRANDA-REC-001_2026.pdf (3 pages, 83527 bytes).
-
+lvetic/uhvr8a.pfb>
+Output written on REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.pdf (6 pages, 
+130855 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

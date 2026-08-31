@@ -1,0 +1,77 @@
+REGISTRO DO DIA
+2026-08-31
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+11:46
+
+Sem mensagens do Teams
+
+E-mails:
+
+Ruda
+- Encerramento do protocolo da REC 010/2025 de Coremas, vamos ter que passar para processo administrativo.
+- Protocolo da reclamação 003/2025 de Cacimbas encerrado por falta de representatividade.
+- Recebemos o demonstrativo da CIP de Condado
+
+HLA
+- REC 005/2026 de Itaíba foi indeferida, ela era uma reclamação de taxa administrativa da CIP
+
+Fim da leitura de e-mails
+
+--------------------------------------------------
+
+13:47
+
+Fazer a reclamação de perdas nos reatores de Itaíba
+
+Objetivo: Fazer uma automação que entregue em quais meses ouve perda nos reatores, a perda ocorre quando o valor indicado no QIP de perda nos reatores for maior que a perda da norma para o tipo e a potência da lâmpada, a potência limite da norma é fixa, e funcionará basicamente como gabarito.
+
+Para o Layout 1:
+LED ok
+Mista ok
+Por fins de praticidade a reclamação vai se basear no QIP de Maio de 2020
+
+Finalizado a reclamação de Perdas nos reatores de Itaíba
+
+--------------------------------------------------
+
+14:53
+
+Tentar organizar o código do gerador de documento pra facilitar na hora de atualizar uma tese ou qualquer outra coisa
+Finalizar aqui a manipulação do código do gerador de documento para corrigir a reclamação de perdas nos reatores de Itaíba
+
+--------------------------------------------------
+
+15:09
+
+REC 006/2026 de Itaíba Corrigida
+
+--------------------------------------------------
+
+15:19
+
+REC 001/2026 de Miranda contestada na ANEEL
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
