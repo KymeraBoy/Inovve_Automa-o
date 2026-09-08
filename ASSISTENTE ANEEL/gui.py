@@ -38,16 +38,17 @@ class AppGUI(ctk.CTk):
             "Contestação de Indeferimento": "Contestar o indeferimento da reclamação",
             "Contestação de Memorial de Cálculo": "Contestar o memorial de cálculo",
             "Contestação do Deferimento Parcial": "Contestar o deferimento parcial da reclamação",
+            "Manifestação por falta de resposta da concessionária": "Manifestar-se por falta de resposta da concessionária",
 
         }
         self.modelos_config = {
             "Modelo de ouvidoria": """Prezado ouvidor,
 
-Esta reclamação é direcionada à <<CONCESSIONÁRIA>>.
+            Esta reclamação é direcionada à <<CONCESSIONÁRIA>>.
 
-Referente a <<TESE>> de <<MUNICÍPIO>>. O pedido visa <<OBJETIVO>>.
+            Referente a <<TESE>> de <<MUNICÍPIO>>. O pedido visa <<OBJETIVO>>.
 
-A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
+            A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         }
         self.opcoes_modelos = list(self.objetivos_modelos.keys())
         self._scroll_widget = None
@@ -332,6 +333,30 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
 
     def _gerar_texto_modelo(self) -> str:
         """Gera o conteúdo final do modelo com os placeholders preenchidos."""
+        objetivo_selecionado = self.combo_modelos.get()
+        
+        # Caso especial: Manifestação por falta de resposta da concessionária
+        if objetivo_selecionado == "Manifestação por falta de resposta da concessionária":
+            if not self.cliente_atual:
+                return ""
+            
+            concessionaria = (
+                getattr(self.cliente_atual, "concessionaria", "")
+                or self.cliente_atual.empresa_responsavel
+                or "CONCESSIONÁRIA"
+            )
+            tipo_documento = self.combo_tipo_tese.get().upper()
+            numero_texto = self.spin_numero_tese.get().strip()
+            numero = int(numero_texto) if numero_texto.isdigit() else 1
+            ano = self.combo_ano_tese.get()
+            tese = f"{tipo_documento} {numero:03d}/{ano}"
+            
+            return f"""Prezado Ouvidor,
+A presente reclamação é direcionada à {concessionaria} e refere-se à {tese}, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido.
+Ressalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).
+Dessa forma, solicita-se a atuação dessa Ouvidoria para que a {concessionaria} apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer."""
+        
+        # Caso padrão
         template = self.modelos_config.get("Modelo de ouvidoria", "")
         if not template:
             return ""
@@ -346,7 +371,7 @@ A descrição detalhada consta no <<OFÍCIO>>, enviado em anexo."""
         )
         municipio = self.cliente_atual.nome_municipio or "MUNICÍPIO"
         objetivo = self.objetivos_modelos.get(
-            self.combo_modelos.get(),
+            objetivo_selecionado,
             "contestar o memorial de cálculo",
         )
         tipo_documento = self.combo_tipo_tese.get().upper()

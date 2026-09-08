@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  31 AUG 2026 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.2)  1 SEP 2026 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,33 +411,25 @@ Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
 OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 91.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
  [3]
-<C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estados/
-Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECLAMA
-CAO_FORMAL/Perdas Vapor.png, id=18, 750.4035pt x 218.61674pt>
-File: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Est
-ados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RE
-CLAMACAO_FORMAL/Perdas Vapor.png Graphic file (type png)
-<use C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
-dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
-LAMACAO_FORMAL/Perdas Vapor.png>
-Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípi
-os HLA - Outros Estados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PE
-RDA_NOS_REATORES/RECLAMACAO_FORMAL/Perdas Vapor.png  used on input line 95.
-(pdftex.def)             Requested size: 483.69687pt x 140.9183pt.
-<C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estados/
-Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECLAMA
-CAO_FORMAL/Perdas Fluorescente.png, id=19, 747.39224pt x 112.62074pt>
-File: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Est
-ados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RE
-CLAMACAO_FORMAL/Perdas Fluorescente.png Graphic file (type png)
-<use C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
-dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
-LAMACAO_FORMAL/Perdas Fluorescente.png>
-Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípi
-os HLA - Outros Estados/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PE
-RDA_NOS_REATORES/RECLAMACAO_FORMAL/Perdas Fluorescente.png  used on input line 
-121.
-(pdftex.def)             Requested size: 483.69687pt x 72.8864pt.
+<C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castro/QI
+P - Itaíba/Perdas-Vapor.png, id=18, 745.5855pt x 163.812pt>
+File: C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Cast
+ro/QIP - Itaíba/Perdas-Vapor.png Graphic file (type png)
+<use C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castr
+o/QIP - Itaíba/Perdas-Vapor.png>
+Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Doc
+umentos/Arthur Castro/QIP - Itaíba/Perdas-Vapor.png  used on input line 95.
+(pdftex.def)             Requested size: 483.69687pt x 106.27406pt.
+<C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castro/QI
+P - Itaíba/Perdas-Fluorescente.png, id=19, 744.381pt x 139.722pt>
+File: C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Cast
+ro/QIP - Itaíba/Perdas-Fluorescente.png Graphic file (type png)
+<use C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castr
+o/QIP - Itaíba/Perdas-Fluorescente.png>
+Package pdftex.def Info: C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Doc
+umentos/Arthur Castro/QIP - Itaíba/Perdas-Fluorescente.png  used on input line
+ 121.
+(pdftex.def)             Requested size: 483.69687pt x 90.7905pt.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
 PRESAS/HLA/HLA_Header.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
@@ -452,27 +444,24 @@ RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
 OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 124.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
- [4 <C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Esta
-dos/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/REC
-LAMACAO_FORMAL/Perdas Vapor.png>]
+ [4 <C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castr
+o/QIP - Itaíba/Perdas-Vapor.png>]
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
 PRESAS/HLA/HLA_Header.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Header.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 147.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Header.png  used on input line 146.
 (pdftex.def)             Requested size: 597.50787pt x 93.8728pt.
 File: C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EM
 PRESAS/HLA/HLA_Ender.png Graphic file (type png)
 <use C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMP
 RESAS/HLA/HLA_Ender.png>
 Package pdftex.def Info: C:/Users/Usuário 1/Documents/Inovve_Automação/GERAD
-OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 147.
+OR DE DOCUMENTOS/EMPRESAS/HLA/HLA_Ender.png  used on input line 146.
 (pdftex.def)             Requested size: 597.50787pt x 50.23357pt.
-
-[5 <C:/Users/Usuário 1/OneDrive/PASTA ENERGIA 1/Municípios HLA - Outros Estad
-os/Pernambuco/Itaíba/Reclamações/REC-006_2026-ITAIBA-PERDA_NOS_REATORES/RECL
-AMACAO_FORMAL/Perdas Fluorescente.png>])
+[5 <C:/Users/Usuário 1/OneDrive/00 - Arquivos antigos/Documentos/Arthur Castro
+/QIP - Itaíba/Perdas-Fluorescente.png>])
 (C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESA
 S/HLA/final.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -504,7 +493,7 @@ L3 programming layer <2026-01-19>
  ) 
 Here is how much of TeX's memory you used:
  5043 strings out of 467867
- 91246 string characters out of 5415879
+ 90154 string characters out of 5415879
  521362 words of memory out of 5000000
  33838 multiletter control sequences out of 15000+600000
  646297 words of font info for 63 fonts, out of 8000000 for 9000
@@ -514,7 +503,7 @@ Here is how much of TeX's memory you used:
 hvb8a.pfb><C:/Users/Usuário 1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
 lvetic/uhvr8a.pfb>
 Output written on REC-006_2026-ITAIBA-PERDA_NOS_REATORES-1448473.pdf (6 pages, 
-130855 bytes).
+125710 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

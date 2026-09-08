@@ -1,0 +1,1152 @@
+[
+  {
+    "tempo": 2.124,
+    "tipo": "mouse_click",
+    "x": 505,
+    "y": 315,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 505,
+    "fim_y": 315
+  },
+  {
+    "tempo": 3.46,
+    "tipo": "mouse_click",
+    "x": 1427,
+    "y": 993,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1427,
+    "fim_y": 993
+  },
+  {
+    "tempo": 5.476,
+    "tipo": "mouse_click",
+    "x": 2198,
+    "y": 253,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2198,
+    "fim_y": 253
+  },
+  {
+    "tempo": 6.404,
+    "tipo": "mouse_click",
+    "x": 692,
+    "y": 460,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 692,
+    "fim_y": 460
+  },
+  {
+    "tempo": 7.247,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 7.556,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 7.634,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 7.66,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 8.932,
+    "tipo": "mouse_click",
+    "x": 2316,
+    "y": 326,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2316,
+    "fim_y": 326
+  },
+  {
+    "tempo": 9.7,
+    "tipo": "mouse_click",
+    "x": 836,
+    "y": 582,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 836,
+    "fim_y": 582
+  },
+  {
+    "tempo": 10.179,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 10.548,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 10.613,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 10.679,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 11.908,
+    "tipo": "mouse_click",
+    "x": 2178,
+    "y": 354,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2178,
+    "fim_y": 354
+  },
+  {
+    "tempo": 12.844,
+    "tipo": "mouse_click",
+    "x": 1263,
+    "y": 463,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1263,
+    "fim_y": 463
+  },
+  {
+    "tempo": 13.236,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 13.585,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 13.664,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 13.745,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 14.516,
+    "tipo": "mouse_click",
+    "x": 2260,
+    "y": 429,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2260,
+    "fim_y": 429
+  },
+  {
+    "tempo": 15.524,
+    "tipo": "mouse_click",
+    "x": 1320,
+    "y": 566,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1320,
+    "fim_y": 566
+  },
+  {
+    "tempo": 15.833,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 16.173,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 16.236,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 16.312,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 17.948,
+    "tipo": "mouse_click",
+    "x": 2190,
+    "y": 465,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2190,
+    "fim_y": 465
+  },
+  {
+    "tempo": 18.996,
+    "tipo": "mouse_click",
+    "x": 792,
+    "y": 855,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 792,
+    "fim_y": 855
+  },
+  {
+    "tempo": 19.242,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 19.647,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 19.71,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 19.775,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 20.9,
+    "tipo": "mouse_click",
+    "x": 2244,
+    "y": 529,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2244,
+    "fim_y": 529
+  },
+  {
+    "tempo": 21.58,
+    "tipo": "mouse_click",
+    "x": 744,
+    "y": 757,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 744,
+    "fim_y": 757
+  },
+  {
+    "tempo": 21.84,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 22.183,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 22.266,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 22.323,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 23.788,
+    "tipo": "mouse_click",
+    "x": 2277,
+    "y": 581,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2277,
+    "fim_y": 581
+  },
+  {
+    "tempo": 24.852,
+    "tipo": "mouse_click",
+    "x": 1160,
+    "y": 876,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1160,
+    "fim_y": 876
+  },
+  {
+    "tempo": 25.117,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 25.437,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 25.498,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 25.558,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 26.668,
+    "tipo": "mouse_click",
+    "x": 2286,
+    "y": 637,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2286,
+    "fim_y": 637
+  },
+  {
+    "tempo": 27.708,
+    "tipo": "mouse_click",
+    "x": 1181,
+    "y": 750,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1181,
+    "fim_y": 750
+  },
+  {
+    "tempo": 28.062,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 28.399,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 28.456,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 28.542,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 30.02,
+    "tipo": "mouse_drag",
+    "x": 1908,
+    "y": 543,
+    "botao": "Button.left",
+    "fim_x": 1913,
+    "fim_y": 978,
+    "acao": "arrastar"
+  },
+  {
+    "tempo": 32.292,
+    "tipo": "mouse_click",
+    "x": 778,
+    "y": 326,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 778,
+    "fim_y": 326
+  },
+  {
+    "tempo": 33.163,
+    "tipo": "key_press",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 33.377,
+    "tipo": "key_press",
+    "tecla": "I"
+  },
+  {
+    "tempo": 33.448,
+    "tipo": "key_release",
+    "tecla": "I"
+  },
+  {
+    "tempo": 33.49,
+    "tipo": "key_release",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 33.667,
+    "tipo": "key_press",
+    "tecla": "l"
+  },
+  {
+    "tempo": 33.754,
+    "tipo": "key_release",
+    "tecla": "l"
+  },
+  {
+    "tempo": 33.914,
+    "tipo": "key_press",
+    "tecla": "u"
+  },
+  {
+    "tempo": 33.977,
+    "tipo": "key_release",
+    "tecla": "u"
+  },
+  {
+    "tempo": 34.111,
+    "tipo": "key_press",
+    "tecla": "m"
+  },
+  {
+    "tempo": 34.194,
+    "tipo": "key_release",
+    "tecla": "m"
+  },
+  {
+    "tempo": 34.309,
+    "tipo": "key_press",
+    "tecla": "i"
+  },
+  {
+    "tempo": 34.377,
+    "tipo": "key_release",
+    "tecla": "i"
+  },
+  {
+    "tempo": 34.492,
+    "tipo": "key_press",
+    "tecla": "n"
+  },
+  {
+    "tempo": 34.555,
+    "tipo": "key_release",
+    "tecla": "n"
+  },
+  {
+    "tempo": 34.668,
+    "tipo": "key_press",
+    "tecla": "a"
+  },
+  {
+    "tempo": 34.736,
+    "tipo": "key_release",
+    "tecla": "a"
+  },
+  {
+    "tempo": 34.919,
+    "tipo": "key_press",
+    "tecla": "ç"
+  },
+  {
+    "tempo": 34.987,
+    "tipo": "key_release",
+    "tecla": "ç"
+  },
+  {
+    "tempo": 35.071,
+    "tipo": "key_press",
+    "tecla": "~"
+  },
+  {
+    "tempo": 35.153,
+    "tipo": "key_release",
+    "tecla": "~"
+  },
+  {
+    "tempo": 35.167,
+    "tipo": "key_press",
+    "tecla": "a"
+  },
+  {
+    "tempo": 35.238,
+    "tipo": "key_release",
+    "tecla": "a"
+  },
+  {
+    "tempo": 35.308,
+    "tipo": "key_press",
+    "tecla": "o"
+  },
+  {
+    "tempo": 35.387,
+    "tipo": "key_release",
+    "tecla": "o"
+  },
+  {
+    "tempo": 36.296,
+    "tipo": "key_press",
+    "tecla": "Key.space"
+  },
+  {
+    "tempo": 36.353,
+    "tipo": "key_release",
+    "tecla": "Key.space"
+  },
+  {
+    "tempo": 36.482,
+    "tipo": "key_press",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 36.599,
+    "tipo": "key_press",
+    "tecla": "P"
+  },
+  {
+    "tempo": 36.667,
+    "tipo": "key_release",
+    "tecla": "P"
+  },
+  {
+    "tempo": 36.682,
+    "tipo": "key_release",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 37.031,
+    "tipo": "key_press",
+    "tecla": "´"
+  },
+  {
+    "tempo": 37.119,
+    "tipo": "key_release",
+    "tecla": "´"
+  },
+  {
+    "tempo": 37.401,
+    "tipo": "key_press",
+    "tecla": "u"
+  },
+  {
+    "tempo": 37.48,
+    "tipo": "key_release",
+    "tecla": "u"
+  },
+  {
+    "tempo": 37.805,
+    "tipo": "key_press",
+    "tecla": "b"
+  },
+  {
+    "tempo": 37.873,
+    "tipo": "key_release",
+    "tecla": "b"
+  },
+  {
+    "tempo": 38.155,
+    "tipo": "key_press",
+    "tecla": "l"
+  },
+  {
+    "tempo": 38.243,
+    "tipo": "key_release",
+    "tecla": "l"
+  },
+  {
+    "tempo": 38.366,
+    "tipo": "key_press",
+    "tecla": "i"
+  },
+  {
+    "tempo": 38.44,
+    "tipo": "key_release",
+    "tecla": "i"
+  },
+  {
+    "tempo": 38.488,
+    "tipo": "key_press",
+    "tecla": "c"
+  },
+  {
+    "tempo": 38.562,
+    "tipo": "key_release",
+    "tecla": "c"
+  },
+  {
+    "tempo": 38.654,
+    "tipo": "key_press",
+    "tecla": "a"
+  },
+  {
+    "tempo": 38.721,
+    "tipo": "key_release",
+    "tecla": "a"
+  },
+  {
+    "tempo": 40.42,
+    "tipo": "mouse_click",
+    "x": 1234,
+    "y": 325,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1234,
+    "fim_y": 325
+  },
+  {
+    "tempo": 41.155,
+    "tipo": "key_press",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 41.331,
+    "tipo": "key_press",
+    "tecla": "B"
+  },
+  {
+    "tempo": 41.4,
+    "tipo": "key_release",
+    "tecla": "B"
+  },
+  {
+    "tempo": 41.492,
+    "tipo": "key_release",
+    "tecla": "Key.shift"
+  },
+  {
+    "tempo": 44.98,
+    "tipo": "mouse_click",
+    "x": 2078,
+    "y": 14,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2078,
+    "fim_y": 14
+  },
+  {
+    "tempo": 46.54,
+    "tipo": "mouse_click",
+    "x": 2348,
+    "y": 391,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2348,
+    "fim_y": 391
+  },
+  {
+    "tempo": 47.588,
+    "tipo": "mouse_click",
+    "x": 2348,
+    "y": 391,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2348,
+    "fim_y": 391
+  },
+  {
+    "tempo": 48.591,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 48.648,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 48.762,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 48.836,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 48.948,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.016,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.11,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.18,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.278,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.346,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.456,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.526,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.644,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.714,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.861,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 49.919,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.17,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.239,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.485,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.569,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.841,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 50.899,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 51.212,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 51.285,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 51.668,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 51.727,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 52.22,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 52.278,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 53.613,
+    "tipo": "key_press",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 53.683,
+    "tipo": "key_release",
+    "tecla": "Key.right"
+  },
+  {
+    "tempo": 55.11,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 55.738,
+    "tipo": "key_press",
+    "tecla": "\u0003"
+  },
+  {
+    "tempo": 55.826,
+    "tipo": "key_release",
+    "tecla": "\u0003"
+  },
+  {
+    "tempo": 55.982,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 58.764,
+    "tipo": "mouse_click",
+    "x": 413,
+    "y": 514,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 413,
+    "fim_y": 514
+  },
+  {
+    "tempo": 59.223,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 60.117,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 60.185,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 60.349,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 70.052,
+    "tipo": "mouse_click",
+    "x": 3453,
+    "y": 394,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 3453,
+    "fim_y": 394
+  },
+  {
+    "tempo": 70.212,
+    "tipo": "mouse_click",
+    "x": 3453,
+    "y": 394,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 3453,
+    "fim_y": 394
+  },
+  {
+    "tempo": 71.004,
+    "tipo": "mouse_click",
+    "x": 3453,
+    "y": 394,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 3453,
+    "fim_y": 394
+  },
+  {
+    "tempo": 71.18,
+    "tipo": "mouse_click",
+    "x": 3453,
+    "y": 394,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 3453,
+    "fim_y": 394
+  },
+  {
+    "tempo": 71.517,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 71.983,
+    "tipo": "key_press",
+    "tecla": "\u0003"
+  },
+  {
+    "tempo": 72.062,
+    "tipo": "key_release",
+    "tecla": "\u0003"
+  },
+  {
+    "tempo": 72.181,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 73.276,
+    "tipo": "mouse_click",
+    "x": 466,
+    "y": 523,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 466,
+    "fim_y": 523
+  },
+  {
+    "tempo": 73.452,
+    "tipo": "mouse_click",
+    "x": 466,
+    "y": 523,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 466,
+    "fim_y": 523
+  },
+  {
+    "tempo": 73.775,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 74.124,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 74.176,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 74.337,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 79.684,
+    "tipo": "mouse_click",
+    "x": 2840,
+    "y": 1068,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2840,
+    "fim_y": 1068
+  },
+  {
+    "tempo": 80.268,
+    "tipo": "mouse_click",
+    "x": 2910,
+    "y": 978,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2910,
+    "fim_y": 978
+  },
+  {
+    "tempo": 81.86,
+    "tipo": "mouse_click",
+    "x": 2393,
+    "y": 730,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2393,
+    "fim_y": 730
+  },
+  {
+    "tempo": 83.06,
+    "tipo": "mouse_click",
+    "x": 428,
+    "y": 819,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 428,
+    "fim_y": 819
+  },
+  {
+    "tempo": 83.535,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 83.804,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 83.865,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 83.933,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 84.82,
+    "tipo": "mouse_click",
+    "x": 571,
+    "y": 899,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 571,
+    "fim_y": 899
+  },
+  {
+    "tempo": 86.164,
+    "tipo": "mouse_click",
+    "x": 607,
+    "y": 347,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 607,
+    "fim_y": 347
+  },
+  {
+    "tempo": 87.852,
+    "tipo": "mouse_click",
+    "x": 500,
+    "y": 1009,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 500,
+    "fim_y": 1009
+  },
+  {
+    "tempo": 89.597,
+    "tipo": "mouse_drag",
+    "x": 1914,
+    "y": 544,
+    "botao": "Button.left",
+    "fim_x": 1920,
+    "fim_y": 764,
+    "acao": "arrastar"
+  },
+  {
+    "tempo": 91.028,
+    "tipo": "mouse_click",
+    "x": 694,
+    "y": 927,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 694,
+    "fim_y": 927
+  },
+  {
+    "tempo": 91.892,
+    "tipo": "mouse_click",
+    "x": 585,
+    "y": 803,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 585,
+    "fim_y": 803
+  },
+  {
+    "tempo": 92.604,
+    "tipo": "mouse_click",
+    "x": 1204,
+    "y": 923,
+    "botao": "Button.left",
+    "fim_x": 1205,
+    "fim_y": 924,
+    "acao": "clique"
+  },
+  {
+    "tempo": 95.42,
+    "tipo": "mouse_click",
+    "x": 1271,
+    "y": 839,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 1271,
+    "fim_y": 839
+  },
+  {
+    "tempo": 96.852,
+    "tipo": "mouse_drag",
+    "x": 1909,
+    "y": 639,
+    "botao": "Button.left",
+    "fim_x": 1922,
+    "fim_y": 880,
+    "acao": "arrastar"
+  },
+  {
+    "tempo": 104.044,
+    "tipo": "mouse_click",
+    "x": 2262,
+    "y": 823,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2262,
+    "fim_y": 823
+  },
+  {
+    "tempo": 105.068,
+    "tipo": "mouse_click",
+    "x": 704,
+    "y": 470,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 704,
+    "fim_y": 470
+  },
+  {
+    "tempo": 105.768,
+    "tipo": "key_press",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 106.19,
+    "tipo": "key_press",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 106.24,
+    "tipo": "key_release",
+    "tecla": "\u0016"
+  },
+  {
+    "tempo": 106.421,
+    "tipo": "key_release",
+    "tecla": "Key.ctrl_l"
+  },
+  {
+    "tempo": 113.452,
+    "tipo": "mouse_click",
+    "x": 2980,
+    "y": 1059,
+    "botao": "Button.left",
+    "acao": "clique",
+    "fim_x": 2980,
+    "fim_y": 1059
+  },
+  {
+    "tempo": 115.696,
+    "tipo": "key_press",
+    "tecla": "Key.esc"
+  },
+  {
+    "tempo": 115.809,
+    "tipo": "key_release",
+    "tecla": "Key.esc"
+  }
+]

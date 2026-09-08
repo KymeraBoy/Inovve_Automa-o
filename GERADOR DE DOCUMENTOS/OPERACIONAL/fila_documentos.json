@@ -1,16 +1,16 @@
 [
   {
-    "doc_id": 0,
+    "doc_id": 2,
     "municipio": "Itaíba",
     "empresa": "HLA",
     "tipo": "REC",
-    "subtipo": "Perda nos reatores",
+    "subtipo": "Defesa de TOI",
     "numero": "006/2026",
     "uc": "1448473",
     "origem_tipo": "",
     "origem_codigo": "",
-    "valor_faturamento": "R$ 18.460,19",
-    "periodo_qip": "Maio de 2020",
+    "valor_faturamento": "R$ 318,66",
+    "periodo_qip": "Desembro de 2020",
     "numero_comprovante": "",
     "valor_pago": "",
     "data_pagamento": "",
@@ -32,12 +32,12 @@
     "ajuste_explicacao_data_inicial": "",
     "ajuste_explicacao_data_final": "",
     "imagens": {
-      "vapor": "C:\\Users\\Usuário 1\\OneDrive\\PASTA ENERGIA 1\\Municípios HLA - Outros Estados\\Pernambuco\\Itaíba\\Reclamações\\REC-006_2026-ITAIBA-PERDA_NOS_REATORES\\RECLAMACAO_FORMAL\\Perdas Vapor.png",
-      "fluorescente": "C:\\Users\\Usuário 1\\OneDrive\\PASTA ENERGIA 1\\Municípios HLA - Outros Estados\\Pernambuco\\Itaíba\\Reclamações\\REC-006_2026-ITAIBA-PERDA_NOS_REATORES\\RECLAMACAO_FORMAL\\Perdas Fluorescente.png"
+      "vapor": "C:\\Users\\Usuário 1\\OneDrive\\00 - Arquivos antigos\\Documentos\\Arthur Castro\\QIP - Itaíba\\Perdas-Vapor.png",
+      "fluorescente": "C:\\Users\\Usuário 1\\OneDrive\\00 - Arquivos antigos\\Documentos\\Arthur Castro\\QIP - Itaíba\\Perdas-Fluorescente.png"
     },
     "ofi_item_flags": {},
     "info_adicional": "",
-    "status": "Gerado",
+    "status": "Aguardando",
     "erros": []
   }
 ]

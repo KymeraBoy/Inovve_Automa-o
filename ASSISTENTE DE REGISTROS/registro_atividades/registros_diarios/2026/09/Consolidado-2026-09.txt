@@ -1,0 +1,197 @@
+========================================================================
+ARQUIVO: Registro-2026-09-01.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-01
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Passar reclamações de Taxa Administrativa da CIP sem resposta para o próximo nível
+- Sem e-mails novos
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:43
+
+Correção do REC 006/2026 de Itaíba
+
+--------------------------------------------------
+
+10:20
+
+REC 013/2026 de Miranda Elaborada
+
+--------------------------------------------------
+
+10:34
+
+REC 013/2026 de Miranda Feita
+
+--------------------------------------------------
+
+10:41
+
+REC 006/2026 de Itaíba Corrigida novamente
+
+--------------------------------------------------
+
+11:29
+
+Passando reclamações de Taxa ADM da CIP pra a próxima instância:
+Aguiar
+Brejo doo Cruz
+Cacimba de Dentro
+
+--------------------------------------------------
+
+13:54
+
+REC 003/2026 de Cacimbas passada para a ANEEL
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+Melhorando a automação de preenchimento de formulário da ANEEL para poder passar as reclamações de Taxa ADM da CIP
+
+========================================================================
+ARQUIVO: Registro-2026-09-02.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-02
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Meta de hoje: Fazer funcionar o programa que automatiza o preenchimento de informações do formulário de manifestações do portal da ANEEL
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+10:56
+
+Consegui finalizar para um formato aceitável o preenchedor automático de protocolo da ANEEL, ele já preenche toda a parte de informações do cliente e do representante, o restante das informações variam mais pois dependem do que eu vou fazer, mas com o tempo pode ser que eu automatize isso também, por horas vamos terminar de passar as reclamações para a ANEEL.
+
+--------------------------------------------------
+
+11:39
+
+Eu ainda não cadastrei nenhuma reclamação na ANEEL hoje pois agora eu vou esperar a Larissa me passar um texto para eu por junto com a reclamação, enquanto isso, vamos para a leitura de E-mails
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+Prezado Ouvidor,
+A presente reclamação é direcionada à {concessionaria} e refere-se à {tese}, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido.
+Ressalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).
+Dessa forma, solicita-se a atuação dessa Ouvidoria para que a {concessionaria} apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.
+
+
+Prezado Ouvidor,
+A presente reclamação é direcionada à ENERGISA PARAIBA e refere-se à RECLAMAÇÃO 002/2026, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido.
+Ressalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).
+Dessa forma, solicita-se a atuação dessa Ouvidoria para que a ENERGISA PARAIBA apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.
+
+========================================================================
+ARQUIVO: Registro-2026-09-03.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-03
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+10:02
+
+Finalizado a passagem para a ANEEL das reclamações de CIP de Ruda
+
+--------------------------------------------------
+
+10:34
+
+Finalizada Passagem para a ANEEL das reclamações de CIP da HLA
+
+Lucena - Não foi feito a reclamação pois o contrato está vencido
+Araruna - A reclamação foi cadastrada com o código errado (Sugestão, refazer a reclamação com número correto, assinar, enviar pra ANEEL com numero correto e avisar no texto da ANEEL a confusão)
+Miranda - Reclamação feita recentemente, ainda não da pra passar pra ANEEL
+Pedras de Fogo - Na ANEEL
+Cidade Ocidental
+
+--------------------------------------------------
+
+10:49
+
+Salvei o kit prefeito de marizopolis no lugar correto
+
+--------------------------------------------------
+
+11:23
+
+o E-mail de esclarecimento das reclamações de Custo Disponibilidade foi reenviado com a adesão do e-mail dos clientes coorporativos da CELPE
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+
+2000033195001
+
+========================================================================
+ARQUIVO: Registro-2026-09-08.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-08
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

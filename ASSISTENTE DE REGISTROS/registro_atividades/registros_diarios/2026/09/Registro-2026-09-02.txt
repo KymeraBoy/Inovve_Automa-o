@@ -1,0 +1,43 @@
+REGISTRO DO DIA
+2026-09-02
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Meta de hoje: Fazer funcionar o programa que automatiza o preenchimento de informações do formulário de manifestações do portal da ANEEL
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+10:56
+
+Consegui finalizar para um formato aceitável o preenchedor automático de protocolo da ANEEL, ele já preenche toda a parte de informações do cliente e do representante, o restante das informações variam mais pois dependem do que eu vou fazer, mas com o tempo pode ser que eu automatize isso também, por horas vamos terminar de passar as reclamações para a ANEEL.
+
+--------------------------------------------------
+
+11:39
+
+Eu ainda não cadastrei nenhuma reclamação na ANEEL hoje pois agora eu vou esperar a Larissa me passar um texto para eu por junto com a reclamação, enquanto isso, vamos para a leitura de E-mails
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+Prezado Ouvidor,
+A presente reclamação é direcionada à {concessionaria} e refere-se à {tese}, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido.
+Ressalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).
+Dessa forma, solicita-se a atuação dessa Ouvidoria para que a {concessionaria} apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.
+
+
+Prezado Ouvidor,
+A presente reclamação é direcionada à ENERGISA PARAIBA e refere-se à RECLAMAÇÃO 002/2026, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido.
+Ressalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).
+Dessa forma, solicita-se a atuação dessa Ouvidoria para que a ENERGISA PARAIBA apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.
