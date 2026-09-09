@@ -179,6 +179,112 @@ INFORMAÇÕES
 
 Área destinada para:
 
+- Análise da Leitura de E-mails, 15 Reclamações de Taxa ADM CIP que estavam na ANEEL tiveram seus protocolos encerrados (um por falta de representatividade e o restante por alegação de que a responsabilidade da Taxa é doo município). Ainda sobraram 13 Reclamações que com Protocolo ainda aberto. Essa análise considerou apenas os municípios de Ruda
+- Informar a Larissa da Situação das Reclamações de Taxa ADM dda CIP
+- Questionar a Resposta do REQ 004/2026 de Ribeirão
+- Enviar dados de pagamento e cobrar memorial de cálculo da REC 007/2026 de Miranda
+- Itaiba tem duas reclamações esperando assinatura - Perdas nos Reatores e Defesa e TOI
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:38
+
+Vou começar com Leitura de e-mails
+
+RECLAMAÇÕES DA TAXA ADIMINISTRATIVA DA CIP
+Nº	Município			Assunto	Status
+1	Marizópolis			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+3	Sabugi				Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+4	São Bentinho			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+5	São Mamede			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+6	São João do Rio do Peixe	Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+7	Espinharas			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+8	Salgado de São Félix		Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+9	São Bento			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+10	Livramento			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+11	Cuité de Mamanguape		Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+12	Lastro				Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+13	Desterro			Reclamação de Taxa Adm. da CIP	Falta de representatividade
+14	Capim				Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+15	Cacimba de Dentro		Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+16	Brejo do Cruz			Reclamação de Taxa Adm. da CIP	Indeferido na ANEEL
+
+Total: 15 reclamações
+
+14 indeferidas pela ANEEL
+1 por falta de representatividade
+
+RESPOSTAS DE RECS E REQS
+Nº	Município		Referência	Situação / Próxima ação
+2	Ribeirão		REC 008/2026	Recebidas provas para o indeferimento
+20	Ribeirão		REQ 011/2026	Resposta recebida
+22	Ribeirão		REQ 008/2026	Resposta recebida
+23	Ribeirão		REQ 004/2026	Resposta recebida — Pasta vazia (Questionar)
+17	Cidade Oriental		REQ 001/2026	Resposta recebida
+18	Cidade Oriental		REQ 005/2026	Resposta recebida
+19	Cidade Oriental		REQ 007/2026	Resposta recebida
+25	Cidade Ocidental	REQ 007/2026	Resposta recebida
+
+DEFERIMENTOS E FATURAS
+Nº	Município	Referência	Situação / Próxima ação
+21	Miranda		REC 007/2026	Deferido — Enviar dados de pagamento e cobrar memorial de cálculo
+24	Miranda		—		Salvando as faturas
+
+--------------------------------------------------
+
+10:03
+
+Informando a Larissa a situação das reclamações de Taxa ADM CIP:
+
+15 Reclamações de Taxa ADM CIP que estavam na ANEEL tiveram seus protocolos encerrados (um por falta de representatividade e o restante por alegação de que a responsabilidade da Taxa é doo município). Ainda sobraram 13 Reclamações que com Protocolo ainda aberto. Essa análise considerou apenas os municípios de Ruda
+
+--------------------------------------------------
+
+10:10
+
+Questionando a resposta da REQ 004/2026 de Ribeirão
+
+--------------------------------------------------
+
+10:21
+
+REC 007/2026 de Miranda dados de pagamento enviados e memorial de cálculo cobrado
+
+--------------------------------------------------
+
+10:33
+
+ELABORAÇÃO - REC - Defesa de TOI - Itaíba
+2000033195001
+
+--------------------------------------------------
+
+12:02
+
+fazendo analise de teses pra larissa
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-09-09.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-09
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
 - observações
 - respostas
 - lembretes
