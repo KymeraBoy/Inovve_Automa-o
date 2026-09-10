@@ -18,6 +18,7 @@ from PySide6.QtWidgets import (
 
 from Etapa1 import Etapa1
 from Etapa2 import Etapa2
+from Etapa3 import Etapa3
 
 
 class MainWindow(QMainWindow):
@@ -51,6 +52,7 @@ class MainWindow(QMainWindow):
 
         # Conectar sinais para atualizar as etapas
         self.input_municipio.textChanged.connect(self.atualizar_dados_integracao)
+        self.combo_uf.currentIndexChanged.connect(self.atualizar_dados_integracao)
         self.combo_empresa.currentIndexChanged.connect(self.atualizar_dados_integracao)
 
         # Carrega lista inicial de empresas
@@ -70,6 +72,16 @@ class MainWindow(QMainWindow):
         self.input_municipio = QLineEdit()
         self.input_municipio.setPlaceholderText("Digite o nome do município")
 
+        # UF (Estado)
+        self.label_uf = QLabel("UF:")
+        self.combo_uf = QComboBox()
+        estados_br = [
+            "AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA",
+            "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN",
+            "RO", "RR", "RS", "SC", "SE", "SP", "TO"
+        ]
+        self.combo_uf.addItems(estados_br)
+
         # Empresa (Retrátil / ComboBox)
         self.label_empresa = QLabel("Empresa:")
         self.combo_empresa = QComboBox()
@@ -87,6 +99,9 @@ class MainWindow(QMainWindow):
         layout_area_inicial.addWidget(self.label_municipio)
         layout_area_inicial.addWidget(self.input_municipio, 1)
 
+        layout_area_inicial.addWidget(self.label_uf)
+        layout_area_inicial.addWidget(self.combo_uf)
+
         layout_area_inicial.addWidget(self.label_empresa)
         layout_area_inicial.addWidget(self.combo_empresa, 1)
 
@@ -102,7 +117,7 @@ class MainWindow(QMainWindow):
         Lê a pasta /Empresas junto do script e adiciona à combo_empresa.
         """
         self.combo_empresa.clear()
-        pasta_empresas = self.diretorio_base / "Empresas"
+        pasta_empresas = self.diretorio_base / "EMPRESAS"
 
         if pasta_empresas.exists() and pasta_empresas.is_dir():
             empresas = [
@@ -120,10 +135,13 @@ class MainWindow(QMainWindow):
         # Módulos das Etapas
         self.etapa_1 = Etapa1()
         self.etapa_2 = Etapa2()
-        self.etapa_3 = self.criar_container_etapa("ETAPA 3")
+        self.etapa_3 = Etapa3()
 
-        # Conecta atualização do Etapa 1 para atualizar o Etapa 2 automaticamente
+        # Conecta atualização do Etapa 1 para atualizar a Etapa 2
         self.etapa_1.arquivo_renomeado.connect(self.etapa_2.atualizar_estrutura)
+
+        # Quando os anexos em PDF forem gerados na Etapa 2, re-sincroniza a Etapa 3
+        self.etapa_2.anexos_gerados.connect(self.atualizar_dados_integracao)
 
         # Dividir a largura em 3 partes iguais
         self.layout_etapas.addWidget(self.etapa_1, 1)
@@ -131,18 +149,6 @@ class MainWindow(QMainWindow):
         self.layout_etapas.addWidget(self.etapa_3, 1)
 
         self.layout_principal.addLayout(self.layout_etapas)
-
-    def criar_container_etapa(self, titulo):
-        container = QFrame()
-        container.setFrameShape(QFrame.StyledPanel)
-        container.setFrameShadow(QFrame.Raised)
-
-        layout = QVBoxLayout(container)
-        titulo_etapa = QLabel(titulo)
-        titulo_etapa.setAlignment(Qt.AlignCenter)
-        layout.addWidget(titulo_etapa)
-
-        return container
 
     def selecionar_pasta(self):
         pasta = QFileDialog.getExistingDirectory(
@@ -154,23 +160,34 @@ class MainWindow(QMainWindow):
 
             self.etapa_1.set_pasta_municipio(self.pasta_municipio)
             self.etapa_2.set_pasta_municipio(self.pasta_municipio)
+            self.atualizar_dados_integracao()
 
     def atualizar_dados_integracao(self):
         self.nome_municipio = self.input_municipio.text().strip()
         self.empresa_selecionada = self.combo_empresa.currentText()
+        uf_selecionada = self.combo_uf.currentText()
 
         # Atualiza a Etapa 1
         self.etapa_1.set_nome_municipio(self.nome_municipio)
 
-        # Atualiza a Etapa 2
         pasta_empresa_path = None
         if self.empresa_selecionada:
             pasta_empresa_path = (
-                self.diretorio_base / "Empresas" / self.empresa_selecionada
+                self.diretorio_base / "EMPRESAS" / self.empresa_selecionada
             )
 
+        # Atualiza a Etapa 2
         self.etapa_2.set_dados(
             nome_municipio=self.nome_municipio,
+            pasta_empresa=pasta_empresa_path
+        )
+
+        # Atualiza a Etapa 3
+        self.etapa_3.set_dados(
+            municipio=self.nome_municipio,
+            uf=uf_selecionada,
+            empresa=self.empresa_selecionada,
+            pasta_municipio=self.pasta_municipio,
             pasta_empresa=pasta_empresa_path
         )
 

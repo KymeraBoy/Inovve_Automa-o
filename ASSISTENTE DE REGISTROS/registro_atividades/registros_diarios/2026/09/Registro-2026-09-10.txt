@@ -1,0 +1,105 @@
+REGISTRO DO DIA
+2026-09-10
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Tentar acessar o link de resposta da REQ 002/2026 de Cidade Ocidental novamente
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:12
+
+Leitura de E-mails
+
+Recebemos mais faturas da Energisa no e-mail do Ruda
+Municípios que receberam faturas
+Aguiar, Cacimbas, Conceição, Condado, Desterro, Malta, Marizópolis, Pombal, Riacho dos Cavalos, São Bentinho, São José de Espinharas, São José de Sabugi, Vista Serrana.
+
+REQ 002/2026 Cidade Ocidental Respondida
+Link da resposta: https://grupoequatorialenergia-my.sharepoint.com/:u:/g/personal/debora_vitor_equatorialenergia_com_br/IQAUkKqkWI4jS7G2H8u9e-SPAdfnQ6mYveeSK_a_DNvP7Mg
+Não consegui acessar o link
+
+Script para guardar as pastas de faturas no Drive
+Contexto: PReciso de um script em python que receba o endereço de duas pastas
+Pasta SALVAR: Nela estarão as pasta das faturas recebidas de cada município
+Pasta da empresa: Nela estarão as pastas dos estados, dentro das pastas dos estados estarão as pastas dos municípios, dentro das pastas dos municípios estarão as pastas de Documentos, Dentro das pastas de documentos estarão as pastas de faturas.
+O objetivo do Script é identificar através do nome, a qual município a pasta de faturas dentro da pasta SALVAR ela pertence. Em seguida ela deve mover as pastas para as pastas de faturas do município.
+Por fins de segurança o Script deve antes de efetuar a movimentação, me apresentar para quais endereços cada pasta será movida
+
+Atualização - 01
+O endereço das pastas são:
+PASTA_SALVAR = Path(r"C:\Users\Usuário 1\Downloads\SALVAR")
+PASTA_EMPRESA = Path(r"C:\Users\Usuário 1\OneDrive\PASTA ENERGIA 1\PARCEIROS\Municípios Thamires e Ruda")
+
+O programa não está identificando o município das pastas da pasta Salvar provavelmente em função da forma como elas são nomeadas, aqui um exemplo: FATURAMENTO ENERGISA VENCT 23-09-2026 - PM Aguiar
+
+Faturas salvas
+Leitura de E-mails concluída.
+
+--------------------------------------------------
+
+09:59
+
+Retomando a reestruturação do Documentaizer
+
+Eu parei na etapa 3 que é a de fazer o sumário, eu pensei e basicamente o programa deve fazer duas coisas, montar o texto do sumário e jogar no template da empresa do município, para isso eu vou ter que ter um template para cada município.
+
+Elaboração da Etapa3
+
+A etapa 3 ela consiste em
+Montar o texto do sumario, colocar ele no template latex da empresa, gerar o pdf do documento. Cada uma desse partes tem suas particularidades.
+
+A montagem do texto do sumário consiste na seguinte estrutura de exemplo:
+
+\textbf{SUMÁRIO - [MUNICÍPIO] - [ESTADO]}\\
+\strut \\
+\textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
+\begin{enumerate}
+    \item Procuração \dotfill 1
+    \item Validação das assinaturas \dotfill 2
+    \item Kit prefeito \dotfill 6
+    \item Contrato Social da Empresa \dotfill 19
+    \item Documento de Identificação do Representante \dotfill 25
+\end{enumerate}
+\textbf{Anexo II -- Documentos contratuais \dotfill 1}
+\begin{enumerate}
+    \item Contrato \dotfill 1
+    \item Validação das assinaturas \dotfill 12
+    \item Publicação do Contrato em Diário Oficial \dotfill 20
+\end{enumerate}
+\textbf{Anexo III -- 1º Termo Aditivo \dotfill 1}
+\begin{enumerate}
+    \item 1º Aditivo \dotfill 1
+        \item Validação das assinaturas do 1º Aditivo \dotfill 4
+    \item Publicação do 1º Aditivo em Diário Oficial \dotfill 13
+\end{enumerate}
+
+Para isso é claro que deve ser necessário fazer uma contagem das páginas de cada documento que foi utilizado para fazer cada anexo. Além disso essa etapa utiliza também a caixa de seleção do estado na area_inicial,
+
+A seleção do template é feita de acordo com a empresa selecionada na caixa de seleção da área inicial
+os template estão salvos da seguinte forma
+
+Documnetaizer
+ - main
+ - Etapa1
+ - Etapa2
+ - Etapa3
+ - Latex
+   - RUDA.tex
+   - HLA.tex
+
+dentro deles haverá um place holder: <<TEXTO>>, ele deve ser substituído pelo texto que foi gerado na pasrte anterior
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

@@ -1,0 +1,79 @@
+\documentclass{article}
+
+% ==================================================
+% CONFIGURAÇÃO DA PÁGINA
+% ==================================================
+
+\usepackage[
+    top=4cm,
+    bottom=3cm,
+    left=1.5cm,
+    right=6cm
+]{geometry}
+
+% ==================================================
+% FONTE
+% Compilar usando XeLaTeX ou LuaLaTeX
+% ==================================================
+
+\usepackage{fontspec}
+\setmainfont{Calisto MT}
+
+% ==================================================
+% IMAGENS E ELEMENTOS DE PÁGINA
+% ==================================================
+
+\usepackage{graphicx}
+\usepackage{eso-pic}
+
+% ==================================================
+% LISTAS
+% ==================================================
+
+\setcounter{secnumdepth}{-\maxdimen}
+
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}}
+\renewcommand{\labelenumii}{\theenumii}
+
+% ==================================================
+% LINKS
+% ==================================================
+
+\usepackage{hyperref}
+
+\hypersetup{
+    hidelinks,
+    pdfcreator={LaTeX}
+}
+
+% ==================================================
+% AJUSTE DE LINHAS
+% ==================================================
+
+\setlength{\emergencystretch}{3em}
+
+% ==================================================
+% CABEÇALHO RUDA
+% ==================================================
+
+\AddToShipoutPictureBG{%
+    \AtPageLowerLeft{%
+        \includegraphics[
+            width=\paperwidth,
+            height=\paperheight
+        ]{MONTEIRO_Header.jpg}%
+    }%
+}
+
+\author{}
+\date{}
+
+% ==================================================
+% DOCUMENTO
+% ==================================================
+
+\begin{document}
+
+<<TEXTO>>
+
+\end{document}

@@ -285,6 +285,189 @@ INFORMAÇÕES
 
 Área destinada para:
 
+- Ajeitar o Documentaizer, ele pode ser liberado pra galera
+- E-mails novos: Apenas faturas no e-mail de Ruda. salvar e salva-los nas pastas
+- Analisar o memorial de Cálculo de Serra Negra do Norte que veio com o nome de São José
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:14
+
+1º Aditivo de Miranda - Salvo no Drive
+No entanto não foi criado no momento de salvamento o Anexo III relativo ao mesmo aditivo 01, nem o sumário foi atualizado para lista-lo. o "Documentaizer", programa responsável pela gestão dos documentos contratuais, anexos e sumários dos municípios está desconforme, porém ele pode ser consolidado para voltar a funcionar e até mesmo para ser disponibilizado.
+
+--------------------------------------------------
+
+08:25
+
+Leitura de E-mails: Nada de novo no e-mail da HLA. na caixa de entrada de Ruda recebemos faturas de alguns municípios da Energisa. Eles serão salvos e guardados no Drive.
+
+Recebemos as faturas dos seguintes municípios:
+Brejo do Cruz
+Catolé do Rocha
+Coremas
+Lastro
+Poço José de Moura
+Santa Cruz
+São Bento
+São João do Rio do Peixe
+São José da Lagoa Tapada
+São Mamede
+Triunfo
+
+--------------------------------------------------
+
+09:38
+
+Concerto do Documentaizer
+
+A reelaboração do Documentaizer irá incluir a utilização da biblioteca Pyside6, por oferecer um resultado melhor.
+O programa deve ser escalável, ou seja, deve ser feito por partes, a primeira que deve ser feita é a janela principal, ela deve ser dividida em 3 colunas, cada coluna representara cada uma delas representara uma das etapas do processo e por consequência e organização, cada uma terá um script único, uma das metas para manter a organização é reduzir a quantidade de scripts.
+O primeiro script a ser desenvolvido é o Main. ele terá como objetivo deixar reservado os espaços de cada etapa. além disso ele deve ter a funcionalidade de encontrar a pasta onde estão os arquivos que serão manipulados. a janela do programa será divido nas seguintes áreas, considerando todo a área da janela no topo de borda a borada uma pequena área para Inserir o nome do município e um buscador de pasta, para o usuário buscar a pasta onde estão salvos os documentos contratuais do município. em baixo dessa área, estarão 3 retângulos lado a lado, cada um deles será onde ficará as partes de cada uma das etapas do programa que serão elaboradas em seguida. fazendo uma analise de objetos, eu quero que seja elaborado agor a o cpodigo do Main. ele terá como objetos o nome do município e o endereço da pasta de arquivos do município. deve utilizar o pyside6
+
+Documentaizer/
+│
+├── Main.py
+├── Etapa1.py       # será desenvolvido depois
+├── Etapa2.py       # será desenvolvido depois
+└── Etapa3.py       # será desenvolvido depois
+
+Primeiras modificações:
+1. A janela deve ter a opção de ocupar a tela inteira (deixando é claro apenas a barra de tarefas), como se fosse uma janela de navegador de internet por exemplo.
+2. a área onde estão as informações de nome do município e o endereço da pasta dos arquivos dele deve se chamar internamente no programa de "area_inicial" e é assim que vamos nos referir a ela daqui pra frente.
+3. a area_inicial deve ter uma altura de 10% da janela inteira, da maneira que elea está atualmente ela ocupa muito espaço.
+
+Primeira etapa - Renoemação
+A primeira etapa é a renomeação dos documentos da pasta para um modelo padrão, o objetivo é facilitar o trabalho do usuário.
+a nomeação dos documentos segue um padrão, de forma que ele será montado por botões, porém pode ser que esse padrão seja atualizado no futuro então é importante no códigi um local apenas para definilo.
+Na área da primeira etapa que vamos passar a nos referir a ela como area_etapa_1, a primeira coisa que deve aparecer nela é uma lista mostrando todos os documentos presentes na pasta que o usuário selecionou na area_inicial. Essa lista deve ocupar metade do espaço da area_etapa_1, e caso não consiga comportar todos os arquivos da pasta deve possuir então uma barra de rolagem para que o usuário possa ver todos os arquivos. essa lista deve permitir que o usuário selecione um item para ser manipulado.
+Abaixo da lista irá ficar os botões para montagem do novo nnome do documento. no caso esse botões devem ser listas retrateis. elas devem ficar uma em cima da outra, e acima delas deve estar uma label mostrando uma preview do novo nome do documento. cada lista retrátil deve ser preenchida com uma lista fixa que será salva dentro do próprio código da etapa 1. haverá momentos em que o preenchimento de uma caixa de seleção será alterado de acordo com o item que foi selecionado previamente em outra caixa de seleção. Vamos para como essas listas retrateis devem estar organizadas
+A primeira será o tipo de documento, ela deve apresentar as seguintes opções: Contrato, Procuração, Aditivo, Relatório de Assinaturas, Kit Prefeito, Publicação.
+A segunda caixa é variável, caso a opção selecionada na primeira tenha sido Contrato, Procuração, ou Kit Prefeito ela deve ficar inativa. Se A primeira opção tiver sido Aditivo a caixa de seleção deve apresentaer as seguintes opções 1, 2, 3, 4, 5. Se a primeira opção tiver sido Relatório de Assinaturas a lista deve apresentar: Contratoo, Procuração, Aditivo. Se a primeira opção tiver sido Publicação, a lista deve apresentar Contrato ou Aditivo.
+A Terceira caixa de seleção deve aparecer apenas se a segunda caixa tiver sido selecionado Aditivo. se esse for o caso a lista apresentada deve ser 1,2,3,4,5.
+
+Montagem do nome do arquivo.
+O nomde do arquivo deve ser composto pelo nome do município informado pelo usuário e pelo conteúdo das caixas de seleção em ordem. o texto deve ser em caps, retirados acentos e caracteres como "Ç" que podem gerar qualquer problema na nomeação de arquivos. sempre que algum item for selecionado nas listas retrateis o nome na label de preview deve ser atualizado. No fundo da area_etapa_1 deve haver um botão que aplique a renomeação, esse botão também deve fazer a verificação se esse nome estpa disponível para renomeação, prevenindo qualquer problema que possa vir a acontecer.
+
+Modificações na Etapa1
+1. faça com que o espaço ocupado pela etapa1 na janela principal seja apenas um terço da largura da janela, quero que cada etapa tenha o mesmo espaço
+2. Corrija o código que atualiza o label que mostra o preview do nome do documento, ele não está sendo atualizado, pou seja não consigo ver a preview do novo nome do documento
+3. Troque a cor do botão de aplicar atualização no nome do arquivo para verde escuro
+
+Pausa na atividade para dar atenção a outra, Larissa me pediu para analisar um memorial de cálculo de Serra Negra do Norte
+
+--------------------------------------------------
+
+10:43
+
+Análise de Memorial de Cálculo - Serra Negra do Norte - UC: 1494001
+
+O memorial indica o nome de outro município (São José)
+
+O memorial de cálculo é referente a uma reclamação que já foi deferida anteriormente e chegou a tramitar na ANEEL, o protocolo dela lá foi concluído e na resposta a ANEEL informou que a conssecionária alegou que o memorial de cálculo e o pagamento forma feitos, o que até o momento não são verdades. Uma suspeita minha é que esse Memorial de Cálculo não é de Serra Negra do Norte, pois além do nome ser diferente, o valor também é bem diferente do informado na resposta da ANEEL, lá o valor informado pela concessionária era algo por volta de 1,7k e o memorial enviado mostra um montante de 9k.
+
+A reclamação do caso é REC 004/2025
+
+Uma coisa que me chama a atenção é que os valores que aparecem no histórico da fatura do cálculo são menores que o das faturas que temos, isso acontece por que em partes da planilha eles estão fazendo a separação do TUSD e do TE
+
+Na resposta da ANEEL os seguintes dados são apresentados
+Devolução de R$ 1.758,20 do período de janeiro de 2015 até março de 2023
+Reclassificação 27/02/2026
+conta contrato nº 700807984
+
+Resumo:
+- Os cálculos estão corretos (consideram período de 10 anos, com aplicação de dobro neles)
+- a unidade consumidora confere
+- O nome do município difere
+- O código do cliente não foi localizado
+- O valor do Memorial de cálculo diverge do informado pela resposta da ANEEL
+- O reenquadramento foi feito 02/2026, não temos nenhuma fatura após esse período para confirmar
+- Reclamação foi protocolada 11/2025
+- Período de cálculo diverge do da resposta da ANEEL
+	ANEEL:		01/2015 a 03/2023
+	MEMORIAL: 	03/2013 a 03/2023
+
+Análise Completa. Apresentar para a Larissa assim que ela sair da reunião
+
+--------------------------------------------------
+
+11:47
+
+Retomando a reelaboração do Documentaizer
+O próximo passo é a etapa2, a montagem dos anexos
+A montagem dos anexos é o processo de combinar pdfs que estiverem nas pasta selecionada pelo usuário e também em uma pasta junto aos scripts, que se tratam de documentos "fixos"
+existem 3 tipos de anexos a serem gerados
+
+tipo I Instrumentos procuratórios
+Ele é formado pelos seguintes documentos
+Procuração
+Relatório de assinaturas da procuração
+Kit prefeito
+Contrato social da empresa
+documento ddo representante da empresa
+
+esse anexo tem uma particularidade que são os contrato social da empresa e o documento do representante da empresa. são dois documentos que variam de acordo com a empresa. a ideia é a seguinte. no espaço reservado a area_incial deve haver uma lista retratio para a seleção da empresa. essa lista deve ser composta pelo nome das pastas contidas juntamente ao script main da seguinte hierarquia. o documento do representante e contrato social da emrpesa necessários para a criação do anexo tipo I devem ser retirados de la
+
+Documentaizer/
+│
+├── Main.py
+├── Empresas
+  ├── HLA
+    ├── Documento do representante
+    ├── Contrato Social da Emmpresa
+  ├── RUDA
+    ├── Documento do representante
+    ├── Contrato Social da Emmpresa
+├── Etapa1.py       # será desenvolvido depois
+├── Etapa2.py       # será desenvolvido depois
+└── Etapa3.py       # será desenvolvido depois
+
+a esturutra do nome do documento cirado segue a seguinte lógica
+
+"[MUNICÍPIO] - ANEXO I - INSTRUMENTOS PROCURATORIOS"
+
+tipo II documentos contratuais
+esse anexo é composto pelo contrato do município, o relatório de assinaturas dele e a publicação do contrato.
+a esturutra do nome do documento cirado segue a seguinte lógica
+
+"[MUNICÍPIO] - ANEXO II - DOCUMENTOS CONTRATUAIS"
+
+tipo III - aditivos
+Esse tipo de anexo deve ser feito para cada Anexo que o município tiver, para cada um a estrutura é a seguinte
+aditivo, relatório de assinaturas do aditivo e publicação do aditivo,
+
+o nome do anexo vai ser
+
+"[MUNICÍPIO] - ANEXO [numero do aditivo + 2] - ADITIVO [NUMERO DO ADITIVO]"
+
+Na base da area_etapa_2 deve haver um botão para a geração dos pdfs de anexo da co verde como o da etapa1, no restante do bloco deve ser mostrada a estrutura dos anexo e informar caso algum dos documentos necessários esteja falatnaod, mesmo que faltando documentos os anexos devem ser gerados
+
+Ultima etapa do Documentaiser, geração do sumario
+
+Finalizar por aqui hoje, amanhã consigo finalizar e se pá distrubuir
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-09-10.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-10
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
 - observações
 - respostas
 - lembretes

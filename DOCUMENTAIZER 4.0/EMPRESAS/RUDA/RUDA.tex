@@ -1,0 +1,83 @@
+\documentclass{article}
+
+% ==================================================
+% CONFIGURAÇÃO DA PÁGINA
+% ==================================================
+
+\usepackage[
+    top=4cm,
+    bottom=3cm,
+    left=3cm,
+    right=3cm
+]{geometry}
+
+% ==================================================
+% FONTE
+% Compilar usando XeLaTeX ou LuaLaTeX
+% ==================================================
+
+\usepackage{fontspec}
+\setmainfont{Georgia}
+
+% ==================================================
+% IMAGENS E ELEMENTOS DE PÁGINA
+% ==================================================
+
+\usepackage{graphicx}
+\usepackage{eso-pic}
+
+% ==================================================
+% LISTAS
+% ==================================================
+
+\setcounter{secnumdepth}{-\maxdimen}
+
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}}
+\renewcommand{\labelenumii}{\theenumii}
+
+% ==================================================
+% LINKS
+% ==================================================
+
+\usepackage{hyperref}
+
+\hypersetup{
+    hidelinks,
+    pdfcreator={LaTeX}
+}
+
+% ==================================================
+% AJUSTE DE LINHAS
+% ==================================================
+
+\setlength{\emergencystretch}{3em}
+
+% ==================================================
+% CABEÇALHO RUDA
+% ==================================================
+
+\AddToShipoutPictureBG{%
+    \AtPageUpperLeft{%
+        \hspace*{0.5\paperwidth}%
+        \raisebox{-3cm}{%
+            \makebox[0pt][c]{%
+                \includegraphics[
+                    width=0.8\paperwidth
+                ]{Ruda_Header.png}%
+            }%
+        }%
+    }%
+}
+
+\author{}
+\date{}
+
+% ==================================================
+% DOCUMENTO
+% ==================================================
+
+\begin{document}
+
+<<TEXTO>>
+
+\end{document}
