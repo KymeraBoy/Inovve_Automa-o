@@ -1,0 +1,104 @@
+\documentclass{article}
+
+% ==================================================
+% CONFIGURAÇÃO DA PÁGINA
+% ==================================================
+
+\usepackage[
+    top=4cm,
+    bottom=3cm,
+    left=3cm,
+    right=3cm
+]{geometry}
+
+% ==================================================
+% FONTE
+% Compilar usando XeLaTeX ou LuaLaTeX
+% ==================================================
+
+\usepackage{fontspec}
+\setmainfont{Georgia}
+
+% ==================================================
+% IMAGENS E ELEMENTOS DE PÁGINA
+% ==================================================
+
+\usepackage{graphicx}
+\usepackage{eso-pic}
+
+% ==================================================
+% LISTAS
+% ==================================================
+
+\setcounter{secnumdepth}{-\maxdimen}
+
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}}
+\renewcommand{\labelenumii}{\theenumii}
+
+% ==================================================
+% LINKS
+% ==================================================
+
+\usepackage{hyperref}
+
+\hypersetup{
+    hidelinks,
+    pdfcreator={LaTeX}
+}
+
+% ==================================================
+% AJUSTE DE LINHAS
+% ==================================================
+
+\setlength{\emergencystretch}{3em}
+
+% ==================================================
+% CABEÇALHO HLA
+% ==================================================
+
+\AddToShipoutPictureBG{%
+    \AtPageUpperLeft{%
+        \raisebox{-\height}{%
+            \includegraphics{FDOJ_Header.png}%
+        }%
+    }%
+}
+
+% ==================================================
+% RODAPÉ HLA
+% ==================================================
+
+\AddToShipoutPictureBG{%
+    \AtPageLowerLeft{%
+        \includegraphics[
+            width=\paperwidth
+        ]{FDOJ_Ender.png}%
+    }%
+}
+
+\author{}
+\date{}
+
+% ==================================================
+% DOCUMENTO
+% ==================================================
+
+\begin{document}
+
+\textbf{SUMÁRIO - BREJO DO CRUZ - CE}\\
+\strut \\
+\textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
+\begin{enumerate}
+    \item Procuração \dotfill 1
+    \item Validação das assinaturas \dotfill 2
+    \item Kit prefeito \dotfill 7
+    \item Contrato Social da Empresa \dotfill 16
+    \item Documento de Identificação do Representante \dotfill 20
+\end{enumerate}
+\textbf{Anexo II -- Documentos contratuais \dotfill 1}
+\begin{enumerate}
+    \item Contrato \dotfill 1
+    \item Publicação do Contrato em Diário Oficial \dotfill 12
+\end{enumerate}
+
+\end{document}

@@ -33,8 +33,15 @@ class MainWindow(QMainWindow):
         self.pasta_municipio = ""
         self.empresa_selecionada = ""
 
-        # Diretório onde o script Main.py está rodando
-        self.diretorio_base = Path(__file__).resolve().parent
+        # Identifica o diretório base (funciona tanto em .py quanto no executável do PyInstaller)
+        if getattr(sys, 'frozen', False):
+            self.diretorio_base = Path(sys.executable).resolve().parent
+        else:
+            self.diretorio_base = Path(__file__).resolve().parent
+
+        # Caminho para o executável do LuaLaTeX dentro da pasta portátil
+        self.caminho_miktex_bin = self.diretorio_base / "miktex" / "texmfs" / "install" / "miktex" / "bin" / "x64"
+        self.caminho_lualatex = self.caminho_miktex_bin / "lualatex.exe"
 
         self.setWindowTitle("Documentaizer")
         self.resize(1400, 800)
@@ -182,13 +189,15 @@ class MainWindow(QMainWindow):
             pasta_empresa=pasta_empresa_path
         )
 
-        # Atualiza a Etapa 3
+        # Atualiza a Etapa 3 passando o caminho do executável do LuaLaTeX portátil
         self.etapa_3.set_dados(
             municipio=self.nome_municipio,
             uf=uf_selecionada,
             empresa=self.empresa_selecionada,
             pasta_municipio=self.pasta_municipio,
-            pasta_empresa=pasta_empresa_path
+            pasta_empresa=pasta_empresa_path,
+            caminho_lualatex=self.caminho_lualatex,
+            caminho_miktex_bin=self.caminho_miktex_bin
         )
 
     def resizeEvent(self, event):

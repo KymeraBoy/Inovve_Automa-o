@@ -28,19 +28,21 @@ except ImportError:
 
 class WorkerCompilacao(QThread):
     """
-    Thread secundária para executar o carregamento, compilação e cópia do PDF
-    sem travar a interface gráfica.
+    Thread secundária para executar a compilação via MiKTeX portátil
+    e movimentação dos arquivos PDF sem travar a interface gráfica.
     """
     progresso = Signal(int, str)
     sucesso = Signal(str)
     erro = Signal(str, str)
 
-    def __init__(self, texto_latex, pasta_empresa, pasta_municipio, nome_municipio):
+    def __init__(self, texto_latex, pasta_empresa, pasta_municipio, nome_municipio, caminho_lualatex=None, caminho_miktex_bin=None):
         super().__init__()
         self.texto_latex = texto_latex
         self.pasta_empresa = pasta_empresa
         self.pasta_municipio = pasta_municipio
         self.nome_municipio = nome_municipio
+        self.caminho_lualatex = caminho_lualatex
+        self.caminho_miktex_bin = caminho_miktex_bin
 
     def limpar_texto(self, texto):
         texto = unicodedata.normalize("NFKD", texto)
@@ -95,14 +97,27 @@ class WorkerCompilacao(QThread):
                 return
 
             self.progresso.emit(60, "Compilando documento via LuaLaTeX...")
+
+            # Define qual executável utilizar (Portátil ou Global)
+            if self.caminho_lualatex and Path(self.caminho_lualatex).exists():
+                executavel_lualatex = str(self.caminho_lualatex)
+            else:
+                executavel_lualatex = "lualatex"
+
             cmd = [
-                "lualatex",
+                executavel_lualatex,
                 "-interaction=nonstopmode",
                 f"-output-directory={pasta_saida}",
                 str(caminho_tex_temp)
             ]
 
             env = os.environ.copy()
+
+            # Adiciona os binários do MiKTeX ao PATH para resolução de DLLs
+            if self.caminho_miktex_bin and Path(self.caminho_miktex_bin).exists():
+                env["PATH"] = f"{Path(self.caminho_miktex_bin).as_posix()};{env.get('PATH', '')}"
+
+            # Define a busca de templates e imagens na pasta da empresa
             env["TEXINPUTS"] = f".;{self.pasta_empresa.as_posix()};;"
 
             processo = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, env=env)
@@ -151,7 +166,7 @@ class WorkerCompilacao(QThread):
         except FileNotFoundError:
             self.erro.emit(
                 "LuaLaTeX não encontrado",
-                "O compilador 'lualatex' não foi encontrado no PATH do sistema."
+                "O compilador do MiKTeX/LuaLaTeX não foi localizado na pasta portátil nem no PATH do sistema."
             )
         except Exception as e:
             self.erro.emit("Erro na Execução", f"Falha ao executar o processo: {e}")
@@ -173,6 +188,8 @@ class Etapa3(QWidget):
         self.empresa_selecionada = ""
         self.pasta_municipio = ""
         self.pasta_empresa = None
+        self.caminho_lualatex = None
+        self.caminho_miktex_bin = None
 
         self.texto_latex_gerado = ""
         self.worker = None
@@ -241,7 +258,7 @@ class Etapa3(QWidget):
         )
         self.layout_principal.addWidget(self.text_preview, 1)
 
-        # BARRA E ROTULO DE PROGRESSO
+        # BARRA E RÓTULO DE PROGRESSO
         self.label_status_progresso = QLabel("")
         self.label_status_progresso.setStyleSheet("font-size: 12px; color: #555555;")
         self.label_status_progresso.setAlignment(Qt.AlignCenter)
@@ -295,12 +312,14 @@ class Etapa3(QWidget):
         self.botao_gerar_pdf.clicked.connect(self.compilar_latex_para_pdf)
         self.layout_principal.addWidget(self.botao_gerar_pdf)
 
-    def set_dados(self, municipio, uf, empresa, pasta_municipio, pasta_empresa):
+    def set_dados(self, municipio, uf, empresa, pasta_municipio, pasta_empresa, caminho_lualatex=None, caminho_miktex_bin=None):
         self.nome_municipio = municipio.strip()
         self.sigla_uf = uf.strip().upper()
         self.empresa_selecionada = empresa.strip()
         self.pasta_municipio = pasta_municipio
         self.pasta_empresa = Path(pasta_empresa) if pasta_empresa else None
+        self.caminho_lualatex = caminho_lualatex
+        self.caminho_miktex_bin = caminho_miktex_bin
 
         self.gerar_codigo_sumario()
 
@@ -528,19 +547,21 @@ class Etapa3(QWidget):
             )
             return
 
-        # Prepara elementos de interface de progresso
+        # Prepara elementos visuais de progresso
         self.botao_gerar_pdf.setEnabled(False)
         self.barra_progresso.setValue(0)
         self.label_status_progresso.setText("Iniciando geração do PDF...")
         self.label_status_progresso.show()
         self.barra_progresso.show()
 
-        # Instancia e executa a Worker Thread
+        # Instancia e inicia a thread WorkerCompilacao
         self.worker = WorkerCompilacao(
             texto_latex=self.texto_latex_gerado,
             pasta_empresa=self.pasta_empresa,
             pasta_municipio=self.pasta_municipio,
-            nome_municipio=self.nome_municipio
+            nome_municipio=self.nome_municipio,
+            caminho_lualatex=self.caminho_lualatex,
+            caminho_miktex_bin=self.caminho_miktex_bin
         )
         self.worker.progresso.connect(self.atualizar_progresso)
         self.worker.sucesso.connect(self.compilacao_sucesso)

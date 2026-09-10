@@ -46,7 +46,7 @@ Leitura de E-mails concluída.
 
 --------------------------------------------------
 
-09:59
+12:57
 
 Retomando a reestruturação do Documentaizer
 
@@ -96,10 +96,64 @@ Documnetaizer
    - RUDA.tex
    - HLA.tex
 
-dentro deles haverá um place holder: <<TEXTO>>, ele deve ser substituído pelo texto que foi gerado na pasrte anterior
+dentro deles haverá um place holder: <<TEXTO>>, ele deve ser substituído pelo texto que foi gerado na parte anterior
+
+A última parte é a geração do pdf a partir do documento látex criado, ele deve ser compilado utilizando LuaLaTex, e o PDF gerado deve ser salvo na Pasta ANEXOS criada na segunda etapa
+O nome do documento deve seguir a seguinte estrutura
+[MUNICIPIO] - SUMÁRIO
+
+Atualizações 01
+a preview do texto que do sumariao está invisível pois a fonte tem a mesma cor do fundo de visualização, ambos são brancos), além disso eu não quero que o texto mostrado na preview seja o mesmo que será posto no documento látex, eu quero que ele seja uma previw de como vai ficar no prpoido pdf, ou seja, uma preview do sumario e não do texto lçatex do sumario.
+Além disso creio estar acontecendo um erro de compilação pois o documento tex esta sendo compilado  dentro da pasta anexos criada na etapa2, isso cria um problema que é a importação de imagens, que estão salvas na pasta látex do Documentaizer, há uma pasta SAIDA no Documentaizer em que o arquivo tex gerado pode ser guardado e compilado, no final do processo uma copia do pdf deve ser salva na pasta anexos do município.
+
+Alteração 02
+Como os template de látex são relativos as empresas, quero que haja uma mudança em onde os template e imagens de importação são buscados pela etapa3, no casoo atualmente ele busca dentro da pasta látex por um documento látex com mesmo nome da empresa selecionada na área incial, a atualização deve fazer com que ele busque na pasta empresas ela terá uma pasta para cada empresa, e dentro de cada uma deve haver o template látex e as imagens de importação, essa mudança é fundamentantada na centralização da organização dos arquivos do programa, dessa forma centralizamos os arquivos de aocrdo com as empresas,
+
+pyinstaller --noconfirm --onedir --windowed --add-data "EMPRESAS;EMPRESAS" --add-data "miktex;miktex" main.py
+
+Finalizei por hora a reestruturação do Documentaizer, eles está operante e a distribuição dele está sobre avaliação
+
+--------------------------------------------------
+
+13:38
+
+Atividade não definida
+
+Eu vou revisar as minhas duas planilhas de teses em busca de atividades para fazer.
+
+Vou fazer logo o oficio de cobrança do pagamento de ajuste de Aguiar
+
+O modelo foi feito especificamente para a REC 004/2025 de Aguiar, baseado no que aconteceu com as REC 012/2025 de São José do Rio do Peixe e REC 029/2025 de Conceição
+
+--------------------------------------------------
+
+14:20
+
+Cobrando comprovante de pagamento REC 017/2025 - Cacimba e Dentro
+
+--------------------------------------------------
+
+14:40
+
+Analise do Memorial de Cálculo de Serra Negra do Norte
+Pausa para fazer outra coisa
+
+--------------------------------------------------
+
+14:48
+
+REC 004/2025 Aguiar cobrado pagamento de ajuste na ANEEL
+
+--------------------------------------------------
+
+15:39
+
+Voltando pra analise de memroial de cálculo
+A análise do Memorial de cálculo foi feita, aprovado e o formulário de pagamento foi feito.
 
 --------------------------------------------------
 
 --------------------------------------------------
 NOVA ATIVIDADE
 --------------------------------------------------
+
