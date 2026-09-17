@@ -1,16 +1,18 @@
 from pathlib import Path
 import subprocess
 
-
 # Pasta onde o próprio script está
-pasta = Path(__file__).resolve().parent
+pasta = Path(__file__).resolve().parent.parent
 
+# Caminho do pdftotext.exe dentro da pasta do programa
+PDFTOTEXT = pasta / "LEITOR DE FATURAS" / "Poppler" / "Library" / "bin" / "pdftotext.exe"
+pasta = Path(__file__).resolve().parent
 
 def converter_pdf(pdf_path):
     txt_path = pdf_path.with_suffix(".txt")
 
     comando = [
-        "pdftotext",
+        str(PDFTOTEXT),
         "-layout",
         str(pdf_path),
         str(txt_path)
@@ -23,7 +25,6 @@ def converter_pdf(pdf_path):
             capture_output=True,
             text=True
         )
-
         print(f"✓ {pdf_path.name} -> {txt_path.name}")
 
     except subprocess.CalledProcessError as erro:
@@ -32,13 +33,14 @@ def converter_pdf(pdf_path):
 
     except FileNotFoundError:
         print(
-            "✗ pdftotext não encontrado. "
-            "Verifique se o Poppler está instalado e no PATH."
+            f"✗ pdftotext não encontrado.\n"
+            f"Procurado em:\n{PDFTOTEXT}\n\n"
+            "Verifique se a pasta do Poppler está no local correto."
         )
 
 
 def main():
-    pdfs = list(pasta.glob("*.pdf"))
+    pdfs = list(pasta.glob("*.pdf")) + list(pasta.glob("*.PDF"))
 
     if not pdfs:
         print("Nenhum PDF encontrado.")
