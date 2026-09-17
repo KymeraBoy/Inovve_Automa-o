@@ -1,0 +1,281 @@
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA14B               Unidade de Leitura: AA17B050                  Referência: 03/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU                                    Endereço:       VELHO PAULO , S/N                                    Bairro: VELHO PAULO
+ Instalação: 2000063566        Município: ANISIO DE ABREU              Complemento:    QUADRA POLIESPORTIVO                                 Fatura: 0202603071327046
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              27/03/2026     30      25/02/2026   27/03/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   5B12.0742.7052.86A2.C1E5.524D.D3E1.9AC4        Nota Fiscal: 071327046                     Apres: 08/04/2026 Vecto:   30/04/2026 Recolhimento: 27/03/2026       Valor:              52.11
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________                _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor                Descrição                             Quantidade                         Preço           Valor
+   ICMS                                     52.11             22,5000                   11.73                Consumo                                    72,00                      0,723750           52.11
+   COFINS                                   40.38              5,9304                    2.40
+   PIS                                      40.38              1,2821                    0.51
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+   CAT    12031067403   1,00      0,00       3.570,00      3.642,00      72,00
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA14B               Unidade de Leitura: AA19B051                  Referência: 03/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU S. EDUCACAO                        Endereço:       BARREIRO DOS DOCAS , S/N                             Bairro: BARREIROS DOS DOCAS
+ Instalação: 2000136212        Município: ANISIO DE ABREU              Complemento:    QUADRA DE ESPORTES                                   Fatura: 0202603071355563
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              30/03/2026     31      27/02/2026   30/03/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   0E2D.3513.2137.BCB6.9E6F.BED6.FF4C.E21B        Nota Fiscal: 071355563                     Apres: 08/04/2026 Vecto:   30/04/2026 Recolhimento: 30/03/2026       Valor:             341.95
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________               _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor               Descrição                             Quantidade                         Preço           Valor
+   ICMS                                    346.10             22,5000                   77.87               Consumo                                   478,00                      0,724059          346.10
+   COFINS                                  268.23              5,9304                   15.91               Tributo a Reter IRPJ                                                                     4.15-
+   PIS                                     268.23              1,2821                    3.44
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+   CAT    12032181080   1,00      0,00       4.507,00      4.985,00     478,00
+
+
+
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                      CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                            Município:   ANISIO DE ABREU                          Bairro:   CENTRO
+Referência: 02/2026                  Vencimento: 30-03-2026                            Documento:   610009038844                  Complemento: ILUM PUBL ANISIO DE ABREU               Valor:          0.00
+
+Empresa:      D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                           Conj.Contrato: AA04B                Unidade de Leitura: AA04B050                 Referência: 02/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU                                         Endereço:           ANA RITA R DE MACEDO , S/N                            Bairro:   CENTRO
+Instalação: 2000176323        Município: ANISIO DE ABREU                   Complemento:        PRACA                                                 Fatura:   0202602068436400
+Classe Principal                               Classe de Consumo                                       Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso     Corte
+06                                             6048411600                                              B4         1,00             06/02/2026      29      08/01/2026   06/02/2026
+Hash Code:     92B1.8A8B.FF41.6F80.550D.78D4.F84C.37F2             Nota Fiscal: 068436400                       Apres: 06/03/2026 Vecto:   30/03/2026   Recolhimento: 06/02/2026    Valor:              785.37
+
+                                            Valores de Tributos                                                                                      Valores Faturados
+   Tributos                           Base de Cálculo              Alíquota                    Valor        Descrição                              Quantidade                         Preço           Valor
+   ICMS                                         785.37              22,5000                   176.71        Consumo                                  1.090,00                      0,720523          785.37
+   COFINS                                       608.66               5,6490                    34.39
+   PIS                                          608.66               1,1079                     6.74
+                                              Valores Medidos
+   Esp.    Medidor       Cte.          %FP Leit. Anterior     Leit. Atual     Medido        Faturado
+   CAT     12032597406   1,00         0,00       14.646,00      15.736,00   1.090,00
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA04B               Unidade de Leitura: AA19B051                  Referência: 02/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU S. EDUCACAO                        Endereço:       BARREIRO DOS DOCAS , S/N                             Bairro: BARREIROS DOS DOCAS
+ Instalação: 2000136212        Município: ANISIO DE ABREU              Complemento:    QUADRA DE ESPORTES                                   Fatura: 0202602069609751
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              27/02/2026     29      29/01/2026   27/02/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   CFEC.E4B5.09E4.274F.4922.BDC9.E873.61F0        Nota Fiscal: 069609751                     Apres: 06/03/2026 Vecto:   30/03/2026 Recolhimento: 27/02/2026       Valor:             189.34
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________               _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor               Descrição                             Quantidade                         Preço           Valor
+   ICMS                                    191.64             22,5000                   43.12               Consumo                                   266,00                      0,720451          191.64
+   COFINS                                  148.52              5,6490                    8.39               Tributo a Reter IRPJ                                                                     2.30-
+   PIS                                     148.52              1,1079                    1.64
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+   CAT    12032181080   1,00      0,00       4.241,00      4.507,00     266,00
+
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                       CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                             Município:   ANISIO DE ABREU                          Bairro:   CENTRO
+Referência: 02/2026                  Vencimento: 30-03-2026                             Documento:   610009038844                  Complemento: ILUM PUBL ANISIO DE ABREU               Valor:          0.00
+
+Empresa:      D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                            Conj.Contrato: AA04B                Unidade de Leitura: AA17B050                 Referência: 02/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU                                         Endereço:            VELHO PAULO , S/N                                     Bairro:   VELHO PAULO
+Instalação: 2000063566        Município: ANISIO DE ABREU                   Complemento:         QUADRA POLIESPORTIVO                                  Fatura:   0202602069522703
+Classe Principal                               Classe de Consumo                                        Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso     Corte
+06                                             6048411600                                               B4         1,00             25/02/2026      29      27/01/2026   25/02/2026
+Hash Code:     487E.C695.2369.6380.B58B.14B3.BC2D.A396             Nota Fiscal: 069522703                        Apres: 06/03/2026 Vecto:   30/03/2026   Recolhimento: 25/02/2026    Valor:                 41.06
+
+                                            Valores de Tributos                                                                                       Valores Faturados
+   Tributos                           Base de Cálculo              Alíquota                     Valor        Descrição                              Quantidade                         Preço           Valor
+   ICMS                                          41.06              22,5000                      9.24        Consumo                                     57,00                      0,720351           41.06
+   COFINS                                        31.82               5,6490                      1.80
+   PIS                                           31.82               1,1079                      0.35
+                                              Valores Medidos
+   Esp.    Medidor       Cte.          %FP Leit. Anterior     Leit. Atual      Medido        Faturado
+   CAT     12031067403   1,00         0,00        3.513,00       3.570,00       57,00
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA04B               Unidade de Leitura: AA20A004                  Referência: 02/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU                                    Endereço:       ANISIO DE ABREU , S/N                                Bairro: PEDRA COMPRIDA
+ Instalação: 0003074951        Município: ANISIO DE ABREU              Complemento:                                                         Fatura: 0202602069614842
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              28/02/2026     28      31/01/2026   28/02/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   10A4.4C9C.6292.F83B.3853.4018.20C9.8AF9        Nota Fiscal: 069614842                     Apres: 06/03/2026 Vecto:   30/03/2026 Recolhimento: 28/02/2026       Valor:           37786.42
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________                _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor                Descrição                             Quantidade                         Preço           Valor
+   ICMS                                  38245.36             22,5000                 8605.21                Consumo                                53.079,46                      0,720530        38245.36
+   COFINS                                29640.15              5,6490                 1674.37                Tributo a Reter IRPJ                                                                   458.94-
+   PIS                                   29640.15              1,1079                  328.38
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+
+
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                      CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                            Município:   ANISIO DE ABREU                          Bairro:   CENTRO
+Referência: 02/2026                  Vencimento: 30-03-2026                            Documento:   610009038844                  Complemento: ILUM PUBL ANISIO DE ABREU               Valor:          0.00
+
+Empresa:     D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                            Conj.Contrato: AA04B                Unidade de Leitura: AA14B050                 Referência: 02/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU                                        Endereço:            LAGOA DOS POTES , S/N                                 Bairro:   ZONA RURAL
+Instalação: 2000063937        Município: ANISIO DE ABREU                  Complemento:                                                               Fatura:   0202602069343585
+Classe Principal                              Classe de Consumo                                        Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso     Corte
+06                                            6048411600                                               B4         1,00             21/02/2026      30      22/01/2026   21/02/2026
+Hash Code:    1787.3C11.6BCD.0203.7FCA.08AF.C65B.3F77             Nota Fiscal: 069343585                        Apres: 06/03/2026 Vecto:   30/03/2026   Recolhimento: 21/02/2026    Valor:                 92.94
+
+                                           Valores de Tributos                                                                                       Valores Faturados
+  Tributos                           Base de Cálculo              Alíquota                     Valor        Descrição                              Quantidade                         Preço           Valor
+  ICMS                                          92.94              22,5000                     20.91        Consumo                                    129,00                      0,720465           92.94
+  COFINS                                        72.03               5,6490                      4.07
+  PIS                                           72.03               1,1079                      0.80
+                                             Valores Medidos
+  Esp.     Medidor       Cte.         %FP Leit. Anterior     Leit. Atual      Medido        Faturado
+  CAT      12031067551   1,00        0,00        4.483,00       4.612,00      129,00
+
+
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                       CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                             Município:   ANISIO DE ABREU                           Bairro:   CENTRO
+Referência: 01/2026                  Vencimento: 28-02-2026                             Documento:   610009038089                   Complemento: ILUM PUBL ANISIO DE ABREU              Valor:          0.00
+
+Empresa:      D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                            Conj.Contrato: AA20A                Unidade de Leitura: AA20A004                 Referência: 01/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU                                         Endereço:            ANISIO DE ABREU , S/N                                 Bairro:   PEDRA COMPRIDA
+Instalação: 0003074951        Município: ANISIO DE ABREU                   Complemento:                                                               Fatura:   0202601067911967
+Classe Principal                               Classe de Consumo                                        Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso     Corte
+06                                             6048411600                                               B4         1,00             31/01/2026      31      31/12/2025   31/01/2026
+Hash Code:     9387.7CD3.55FB.09BA.B0AC.5B43.786B.BB70             Nota Fiscal: 067911967                        Apres: 06/02/2026 Vecto:   28/02/2026   Recolhimento: 31/01/2026    Valor:            40566.25
+
+                                            Valores de Tributos                                                                                       Valores Faturados
+   Tributos                           Base de Cálculo              Alíquota                     Valor        Descrição                              Quantidade                         Preço           Valor
+   ICMS                                      41058.96               22,5000                   9238.27        Consumo                                 58.785,60                      0,698453        41058.96
+   COFINS                                    31820.69                3,1319                    996.59        Tributo a Reter IRPJ                                                                    492.71-
+   PIS                                       31820.69                0,6776                    215.62
+                                              Valores Medidos
+   Esp.    Medidor       Cte.          %FP Leit. Anterior     Leit. Atual      Medido        Faturado
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA20A               Unidade de Leitura: AA14B050                  Referência: 01/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU                                    Endereço:       LAGOA DOS POTES , S/N                                Bairro: ZONA RURAL
+ Instalação: 2000063937        Município: ANISIO DE ABREU              Complemento:                                                         Fatura: 0202601067564273
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              22/01/2026     30      23/12/2025   22/01/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   3F0B.A588.42CD.35EA.8967.A701.75C9.7F4B        Nota Fiscal: 067564273                     Apres: 06/02/2026 Vecto:   28/02/2026 Recolhimento: 22/01/2026       Valor:             100.12
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________                _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor                Descrição                             Quantidade                         Preço           Valor
+   ICMS                                    100.12             22,5000                   22.53                Consumo                                   142,00                      0,698380           99.17
+   COFINS                                   77.59              3,1319                    2.43                Adicional Bandeira                                                                        0.95
+   PIS                                      77.59              0,6776                    0.53
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+   CAT    12031067551   1,00      0,00       4.341,00      4.483,00     142,00
+
+
+
+
+  Usuário: U11727                                                                                Posição do Dia: 10-02-2026 12:12:01                                                                Pág: 1 de     3
+                                                                           RELAÇÃO DE FATURAS AGRUPADORAS/AGRUPADAS
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                       CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                             Município:   ANISIO DE ABREU                           Bairro:   CENTRO
+Referência: 01/2026                  Vencimento: 28-02-2026                             Documento:   610009038089                   Complemento: ILUM PUBL ANISIO DE ABREU                Valor:         0.00
+
+Empresa:      D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                            Conj.Contrato: AA20A                Unidade de Leitura: AA19B051                  Referência: 01/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU S. EDUCACAO                             Endereço:            BARREIRO DOS DOCAS , S/N                              Bairro:   BARREIROS DOS DOCAS
+Instalação: 2000136212        Município: ANISIO DE ABREU                   Complemento:         QUADRA DE ESPORTES                                    Fatura:   0202601067900376
+Classe Principal                               Classe de Consumo                                        Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso      Corte
+06                                             6048411600                                               B4         1,00             29/01/2026      30      30/12/2025   29/01/2026
+Hash Code:     9DD7.D009.4E2F.90D3.606E.9FB5.CBC4.DCE4             Nota Fiscal: 067900376                        Apres: 06/02/2026 Vecto:   28/02/2026   Recolhimento: 29/01/2026     Valor:              136.08
+
+                                            Valores de Tributos                                                                                       Valores Faturados
+   Tributos                           Base de Cálculo              Alíquota                     Valor        Descrição                              Quantidade                           Preço          Valor
+   ICMS                                         137.73              22,5000                     30.99        Consumo                                    197,00                        0,698325         137.57
+   COFINS                                       106.74               3,1319                      3.34        Adicional Bandeira                                                                          0.16
+   PIS                                          106.74               0,6776                      0.72        Tributo a Reter IRPJ                                                                       1.65-
+                                              Valores Medidos
+   Esp.    Medidor       Cte.          %FP Leit. Anterior     Leit. Atual      Medido        Faturado
+   CAT     12032181080   1,00         0,00        4.044,00       4.241,00      197,00
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Empresa:    D003-EQUATORIAL PIAUÍ               Local:   ANISIO DE ABREU                      Conj.Contrato: AA20A               Unidade de Leitura: AA04B050                  Referência: 01/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Nome: MUNICIPIO DE ANISIO DE ABREU                                    Endereço:       ANA RITA R DE MACEDO , S/N                           Bairro: CENTRO
+ Instalação: 2000176323        Município: ANISIO DE ABREU              Complemento:    PRACA                                                Fatura: 0202601066726536
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Classe Principal                          Classe de Consumo                                    Tensão    Fase              Data Fat.    Dias Fat. Dat.Leit.Ant Dat.Leit.Atual Reaviso     Corte
+ 06                                        6048411600                                           B4        1,00              08/01/2026     30      09/12/2025   08/01/2026
+______________________________________________________________________________________________________________________________________________________________________________________________________
+ Hash Code:   001E.EBE1.A8D7.0547.FEBF.D0A0.DC5A.79E1        Nota Fiscal: 066726536                     Apres: 06/02/2026 Vecto:   28/02/2026 Recolhimento: 08/01/2026       Valor:             846.04
+______________________________________________________________________________________________________________________________________________________________________________________________________
+   _____________________________________Valores de Tributos__________________________________                _________________________________________Valores Faturados_____________________________________
+   Tributos                       Base de Cálculo            Alíquota                   Valor                Descrição                             Quantidade                         Preço           Valor
+   ICMS                                    846.04             22,5000                  190.36                Consumo                                 1.180,00                      0,698449          824.17
+   COFINS                                  655.68              3,1319                   20.54                Adicional Bandeira                                                                       21.87
+   PIS                                     655.68              0,6776                    4.44
+   ______________________________________Valores Medidos_____________________________________
+   Esp.   Medidor       Cte.       %FP Leit. Anterior   Leit. Atual     Medido       Faturado
+   CAT    12032597406   1,00      0,00      13.466,00     14.646,00   1.180,00
+
+
+
+
+                                                                          RELAÇÃO DE FATURAS AGRUPADORAS/AGRUPADAS
+
+
+CLIENTE:   3074951 - MUNICIPIO DE ANISIO DE ABREU                                      CONTA CONTRATO:       004000606310
+Endereço: ANA RIBEIRO , 406                                                            Município:   ANISIO DE ABREU                          Bairro:   CENTRO
+Referência: 01/2026                  Vencimento: 28-02-2026                            Documento:   610009038089                  Complemento: ILUM PUBL ANISIO DE ABREU               Valor:          0.00
+
+Empresa:     D003-EQUATORIAL PIAUÍ                 Local:   ANISIO DE ABREU                            Conj.Contrato: AA20A                Unidade de Leitura: AA17B050                 Referência: 01/2026
+
+Nome: MUNICIPIO DE ANISIO DE ABREU                                        Endereço:            VELHO PAULO , S/N                                     Bairro:   VELHO PAULO
+Instalação: 2000063566        Município: ANISIO DE ABREU                  Complemento:         QUADRA POLIESPORTIVO                                  Fatura:   0202601067810000
+Classe Principal                              Classe de Consumo                                        Tensão     Fase             Data Fat.     Dias Fat. Dta.Leit.Ant Dta.Leit.Atual Reaviso     Corte
+06                                            6048411600                                               B4         1,00             27/01/2026      31      27/12/2025   27/01/2026
+Hash Code:    CD63.56DA.C4FC.7654.D456.7A44.499B.C7DB             Nota Fiscal: 067810000                        Apres: 06/02/2026 Vecto:   28/02/2026   Recolhimento: 27/01/2026    Valor:                 72.27
+
+                                           Valores de Tributos                                                                                       Valores Faturados
+  Tributos                           Base de Cálculo              Alíquota                     Valor        Descrição                              Quantidade                         Preço           Valor
+  ICMS                                          72.27              22,5000                     16.27        Consumo                                    103,00                      0,698350           71.93
+  COFINS                                        56.00               3,1319                      1.75        Adicional Bandeira                                                                         0.34
+  PIS                                           56.00               0,6776                      0.38
+                                             Valores Medidos
+  Esp.     Medidor       Cte.         %FP Leit. Anterior     Leit. Atual      Medido        Faturado
+  CAT      12031067403   1,00        0,00        3.410,00       3.513,00      103,00
+
+

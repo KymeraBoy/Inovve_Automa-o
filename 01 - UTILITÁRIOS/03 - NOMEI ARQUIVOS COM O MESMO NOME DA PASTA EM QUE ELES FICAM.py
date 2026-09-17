@@ -5,10 +5,10 @@ from pathlib import Path
 
 PASTAS_PADRAO = [
 	"ANEEL",
-	"DOCUMENTOS_RECEBIDOS",
+	"DOCUMENTOS RECEBIDOS",
 	"PAGAMENTO",
 	"E-MAILS",
-	"RECLAMACAO_FORMAL",
+	"RECLAMAÇÃO FORMAL",
 ]
 
 PASTAS_REQUERIMENTO = [
@@ -127,6 +127,7 @@ class RenomeadorGUI:
 		if self.arquivos_selecionados:
 			self.btn_reclamacao.config(state=tk.NORMAL)
 			self.btn_memorial.config(state=tk.NORMAL)
+			self.btn_comprovante.config(state=tk.NORMAL)
 		else:
 			self.btn_reclamacao.config(state=tk.DISABLED)
 			self.btn_memorial.config(state=tk.DISABLED)
@@ -165,7 +166,7 @@ class RenomeadorGUI:
 											   f"O nome da pasta '{folder_full_name}' não está no formato esperado para renomeação de memorial (ex: '01 - Nome - OutroNome'). Usando o nome completo da pasta com prefixo.")
 						novo_nome_base = f"{prefixo}{folder_full_name}"
 				elif comprovante and not memorial:
-					prefixo = "COMPROVANTE DE PAGAMENTO - "
+					prefixo = "COMPROV PGTO - "
 					folder_name_parts = folder_full_name.split('-')
 					
 					if len(folder_name_parts) >= 3:

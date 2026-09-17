@@ -1,16 +1,16 @@
 [
   {
-    "doc_id": 2,
-    "municipio": "Aguiar",
-    "empresa": "RUDA",
-    "tipo": "OFI",
-    "subtipo": "Pagamento de ajuste(Aguiar)",
-    "numero": "001/2026",
-    "uc": "137004",
-    "origem_tipo": "REC",
-    "origem_codigo": "004_2025",
-    "valor_faturamento": "R$ 318,66",
-    "periodo_qip": "Desembro de 2020",
+    "doc_id": 6,
+    "municipio": "Araruna",
+    "empresa": "HLA",
+    "tipo": "REC",
+    "subtipo": "Custo de disponibilidade",
+    "numero": "",
+    "uc": "5/578520-9",
+    "origem_tipo": "",
+    "origem_codigo": "",
+    "valor_faturamento": "",
+    "periodo_qip": "",
     "numero_comprovante": "",
     "valor_pago": "",
     "data_pagamento": "",
@@ -31,13 +31,10 @@
     "ajuste_numero_processo_aneel": "",
     "ajuste_explicacao_data_inicial": "",
     "ajuste_explicacao_data_final": "",
-    "imagens": {
-      "vapor": "C:\\Users\\Usuário 1\\OneDrive\\00 - Arquivos antigos\\Documentos\\Arthur Castro\\QIP - Itaíba\\Perdas-Vapor.png",
-      "fluorescente": "C:\\Users\\Usuário 1\\OneDrive\\00 - Arquivos antigos\\Documentos\\Arthur Castro\\QIP - Itaíba\\Perdas-Fluorescente.png"
-    },
+    "imagens": {},
     "ofi_item_flags": {},
     "info_adicional": "",
-    "status": "Gerado",
+    "status": "Aguardando",
     "erros": []
   }
 ]

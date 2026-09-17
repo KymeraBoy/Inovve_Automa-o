@@ -1,7 +1,8 @@
-from pathlib import Path
-from datetime import datetime, date
-from calendar import monthrange
-from collections import Counter, defaultdict
+from pathlib        import Path
+from datetime       import datetime, date
+from calendar       import monthrange
+from collections    import Counter, defaultdict
+
 import json
 import os
 import re
@@ -13,10 +14,10 @@ import urllib.error
 import urllib.request
 import warnings
 
-from openpyxl import load_workbook, Workbook
-from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
-from openpyxl.utils import get_column_letter
-from openpyxl.worksheet.table import Table, TableStyleInfo
+from openpyxl                   import load_workbook, Workbook
+from openpyxl.styles            import Font, PatternFill, Alignment, Border, Side
+from openpyxl.utils             import get_column_letter
+from openpyxl.worksheet.table   import Table, TableStyleInfo
 
 warnings.simplefilter("ignore")
 
@@ -25,34 +26,34 @@ OUTPUTS = ROOT / "outputs"
 OUTPUTS.mkdir(parents=True, exist_ok=True)
 
 ONEDRIVE_BASE = Path(r"C:\Users\Usuário 1\Documents\Inovve_Automação\APURAÇÃO")
-FDOJ_CE_FILE = ONEDRIVE_BASE / "FDOJ - Ceará" / "FDOJ RECLAMAÇÕES.xlsm"
-HLA_CE_FILE = ONEDRIVE_BASE / "Municípios HLA - Ceará" / "CONTROLE DE RECLAMAÇÕES - CEARÁ HLA.xlsm"
-GRID_CE_FILE = ONEDRIVE_BASE / "Anderson" / "Acompanhamento diario" / "GRID - controle processos reclamações.xlsm"
-INOVVE_CE_FILE = ONEDRIVE_BASE / "Anderson" / "Acompanhamento diario" / "INOVVE - controle processos reclamações ceara - Editável - Editável.xlsm"
-FDOJ_OUTROS_FILE = ONEDRIVE_BASE / "FDOJ - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - FDOJ.xlsm"
-GRID_OUTROS_FILE = ONEDRIVE_BASE / "Municípios Grid - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - GRID.xlsm"
-HLA_OUTROS_FILE = ONEDRIVE_BASE / "Municípios HLA - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - HLA.xlsm"
-INOVVE_OUTROS_FILE = ONEDRIVE_BASE / "Municípios Inovve - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - INOVVE ESTADOS DE FORA 1.xlsm"
-ABEL_FILE = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Abel Gomes Cunha" / "CONTROLE DE RECLAMAÇÕES - ABEL CUNHA-HLA-ENERGIA-06.xlsm"
-AUGUSTO_FILE = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Augusto Santos" / "CONTROLE DE RECLAMAÇÕES - AUGUSTO SANTOS.xlsm"
-INDYRA_FILE = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Indyra" / "CONTROLE DE RECLAMAÇÕES - INDYRA.xlsm"
-MONTEIRO_FILE = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Monteiro & Monteiro" / "Estados" / "Planilhas de Controle" / "CONTROLE DE RECLAMAÇÕES - MONTEIRO E MONTEIRO.xlsm"
-RUDA_FILE = ONEDRIVE_BASE / "CONTROLE DE RECLAMAÇÕES - THAMIRES E RUDÁ-HLA-ENERGIA-06.xlsm"
-OLIVEIRA_VARELA_FILE = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Wagner (Oliveira e Varela - Advogados)" / "CONTROLE DE RECLAMAÇÕES - OLIVEIRA E VARELA.xlsm"
-PRIVADOS_FILE = ONEDRIVE_BASE / "CLIENTES PRIVADOS" / "CLIENTES PRIVADOS - CONTROLE" / "CONTROLE DE RECLAMAÇÕES - PRIVADOS (USAR ESSE).xlsm"
-NF_FILE = ONEDRIVE_BASE / "COORDENAÇÃO" / "CONTROLE" / "CONTROLE NF" / "PROCESSO ENVIADOS PRA GERAR NF.xlsx"
+FDOJ_CE_FILE            = ONEDRIVE_BASE / "FDOJ - Ceará" / "FDOJ RECLAMAÇÕES.xlsm"
+HLA_CE_FILE             = ONEDRIVE_BASE / "Municípios HLA - Ceará" / "CONTROLE DE RECLAMAÇÕES - CEARÁ HLA.xlsm"
+GRID_CE_FILE            = ONEDRIVE_BASE / "Anderson" / "Acompanhamento diario" / "GRID - controle processos reclamações.xlsm"
+INOVVE_CE_FILE          = ONEDRIVE_BASE / "Anderson" / "Acompanhamento diario" / "INOVVE - controle processos reclamações ceara - Editável - Editável.xlsm"
+FDOJ_OUTROS_FILE        = ONEDRIVE_BASE / "FDOJ - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - FDOJ.xlsm"
+GRID_OUTROS_FILE        = ONEDRIVE_BASE / "Municípios Grid - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - GRID.xlsm"
+HLA_OUTROS_FILE         = ONEDRIVE_BASE / "Municípios HLA - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - HLA.xlsm"
+INOVVE_OUTROS_FILE      = ONEDRIVE_BASE / "Municípios Inovve - Outros Estados" / "CONTROLE DE RECLAMAÇÕES - INOVVE ESTADOS DE FORA 1.xlsm"
+ABEL_FILE               = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Abel Gomes Cunha" / "CONTROLE DE RECLAMAÇÕES - ABEL CUNHA-HLA-ENERGIA-06.xlsm"
+AUGUSTO_FILE            = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Augusto Santos" / "CONTROLE DE RECLAMAÇÕES - AUGUSTO SANTOS.xlsm"
+INDYRA_FILE             = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Indyra" / "CONTROLE DE RECLAMAÇÕES - INDYRA.xlsm"
+MONTEIRO_FILE           = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Monteiro & Monteiro" / "Estados" / "Planilhas de Controle" / "CONTROLE DE RECLAMAÇÕES - MONTEIRO E MONTEIRO.xlsm"
+RUDA_FILE               = ONEDRIVE_BASE / "CONTROLE DE RECLAMAÇÕES - THAMIRES E RUDÁ-HLA-ENERGIA-06.xlsm"
+OLIVEIRA_VARELA_FILE    = ONEDRIVE_BASE / "PARCEIROS" / "Municípios Wagner (Oliveira e Varela - Advogados)" / "CONTROLE DE RECLAMAÇÕES - OLIVEIRA E VARELA.xlsm"
+PRIVADOS_FILE           = ONEDRIVE_BASE / "CLIENTES PRIVADOS" / "CLIENTES PRIVADOS - CONTROLE" / "CONTROLE DE RECLAMAÇÕES - PRIVADOS (USAR ESSE).xlsm"
+NF_FILE                 = ONEDRIVE_BASE / "COORDENAÇÃO" / "CONTROLE" / "CONTROLE NF" / "PROCESSO ENVIADOS PRA GERAR NF.xlsx"
 WEB_TASKS_URL = os.environ.get("TASK_WEB_URL", "https://controle-equipe.onrender.com").rstrip("/")
 EMPRESAS_RECLAMACOES = ["FDOJ", "HLA", "GRID", "INOVVE", "ABEL", "AUGUSTO", "INDYRA", "MONTEIRO", "RUDÁ", "OLIVEIRA E VARELA", "PRIVADOS"]
 
 STANDARD_SOURCE_COLUMNS = {
-    "sheet": "ANDAMENTO TESES",
-    "header_row": 5,
-    "rec_req": 5,
-    "tese": 6,
-    "concessionaria": {"responsavel": 16, "data": 17, "municipio": 3},
-    "ouvidoria": {"responsavel": 24, "data": 25, "municipio": 3},
-    "aneel": {"responsavel": 33, "data": 34, "municipio": 3},
-    "processo_adm": {"responsavel": 40, "data": 41, "municipio": 3},
+    "sheet":            "ANDAMENTO TESES",
+    "header_row":       5,
+    "rec_req":          5,
+    "tese":             6,
+    "concessionaria":   {"responsavel": 16, "data": 17, "municipio": 3},
+    "ouvidoria":        {"responsavel": 24, "data": 25, "municipio": 3},
+    "aneel":            {"responsavel": 33, "data": 34, "municipio": 3},
+    "processo_adm":     {"responsavel": 40, "data": 41, "municipio": 3},
 }
 
 def make_standard_source(empresa, path, processo_adm=True):
@@ -73,13 +74,13 @@ INGRESSOS_SOURCES = [
         "processo_adm": {"responsavel": 42, "data": 43, "municipio": 5},
     },
     {
-        "empresa": "HLA",
-        "path": HLA_CE_FILE,
-        "sheet": "ANDAMENTO TESES",
-        "header_row": 5,
-        "rec_req": 5,
-        "tese": 6,
-        "ouvidoria": {"responsavel": 24, "data": 25, "municipio": 3},
+        "empresa":      "HLA",
+        "path":         HLA_CE_FILE,
+        "sheet":        "ANDAMENTO TESES",
+        "header_row":   5,
+        "rec_req":      5,
+        "tese":         6,
+        "ouvidoria":    {"responsavel": 24, "data": 25, "municipio": 3},
         "processo_adm": None,
     },
     {
@@ -114,15 +115,17 @@ INGRESSOS_SOURCES = [
         "aneel": {"responsavel": 33, "data": 34, "municipio": 3},
         "processo_adm": None,
     },
-    make_standard_source("GRID", GRID_OUTROS_FILE, processo_adm=False),
-    make_standard_source("HLA", HLA_OUTROS_FILE),
-    make_standard_source("INOVVE", INOVVE_OUTROS_FILE, processo_adm=False),
-    make_standard_source("ABEL", ABEL_FILE),
-    make_standard_source("AUGUSTO", AUGUSTO_FILE),
-    make_standard_source("INDYRA", INDYRA_FILE),
-    make_standard_source("MONTEIRO", MONTEIRO_FILE),
-    make_standard_source("RUDÁ", RUDA_FILE),
-    make_standard_source("OLIVEIRA E VARELA", OLIVEIRA_VARELA_FILE),
+
+    make_standard_source("GRID",                GRID_OUTROS_FILE, processo_adm=False),
+    make_standard_source("HLA",                 HLA_OUTROS_FILE),
+    make_standard_source("INOVVE",              INOVVE_OUTROS_FILE, processo_adm=False),
+    make_standard_source("ABEL",                ABEL_FILE),
+    make_standard_source("AUGUSTO",             AUGUSTO_FILE),
+    make_standard_source("INDYRA",              INDYRA_FILE),
+    make_standard_source("MONTEIRO",            MONTEIRO_FILE),
+    make_standard_source("RUDÁ",                RUDA_FILE),
+    make_standard_source("OLIVEIRA E VARELA",   OLIVEIRA_VARELA_FILE),
+
     {
         "empresa": "PRIVADOS",
         "path": PRIVADOS_FILE,
@@ -201,7 +204,6 @@ def clean_text(value, default=""):
     text = re.sub(r"\s+", " ", str(value).strip())
     return text if text else default
 
-
 def clean_name(value):
     text = clean_text(value, "S/I")
     key = text.lower()
@@ -221,13 +223,11 @@ def clean_name(value):
         return "Mayara"
     return text.title()
 
-
 def clean_city(value):
     text = clean_text(value, "S/I")
     if text.upper() in {"S/I", "SI", "N/A", "NA", "-", "0"}:
         return "S/I"
     return text.upper()
-
 
 def clean_state(value):
     text = clean_text(value, "S/I")
@@ -241,7 +241,6 @@ def city_key(value):
     normalized = unicodedata.normalize("NFKD", text)
     normalized = "".join(ch for ch in normalized if not unicodedata.combining(ch))
     return re.sub(r"\s+", " ", normalized).strip().upper()
-
 
 def allowed_city(source, municipio):
     allowed = source.get("municipios_permitidos")
@@ -267,7 +266,6 @@ def parse_date(value):
             pass
     return None
 
-
 def parse_number(value):
     if value is None or value == "":
         return None
@@ -284,11 +282,9 @@ def parse_number(value):
     except ValueError:
         return None
 
-
 def parse_money(value):
     parsed = parse_number(value)
     return parsed if parsed is not None else 0.0
-
 
 def parse_rate(value):
     parsed = parse_number(value)
@@ -1332,12 +1328,12 @@ def apurar_deferimentos_pendentes(end):
     }
 
 
-HEADER_FILL = PatternFill("solid", fgColor="1F4E78")
-HEADER_FONT = Font(color="FFFFFF", bold=True)
-TITLE_FONT = Font(size=14, bold=True, color="1F4E78")
-SUBTITLE_FONT = Font(bold=True, color="444444")
-THIN = Side(style="thin", color="D9E2F3")
-BORDER = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
+HEADER_FILL     = PatternFill("solid", fgColor="1F4E78")
+HEADER_FONT     = Font(color="FFFFFF", bold=True)
+TITLE_FONT      = Font(size=14, bold=True, color="1F4E78")
+SUBTITLE_FONT   = Font(bold=True, color="444444")
+THIN            = Side(style="thin", color="D9E2F3")
+BORDER          = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 
 
 def write_title(ws, title, subtitle=None):
@@ -1346,7 +1342,6 @@ def write_title(ws, title, subtitle=None):
     if subtitle:
         ws["A2"] = subtitle
         ws["A2"].font = SUBTITLE_FONT
-
 
 def write_table(ws, start_row, start_col, headers, rows, table_name):
     for offset, header in enumerate(headers):
@@ -1575,8 +1570,8 @@ def main():
 
     if args and args[0].lower() in {"--periodo", "periodo", "--intervalo", "intervalo"}:
         if len(args) >= 3:
-            start = parse_interval_date(args[1])
-            end = parse_interval_date(args[2])
+            start   = parse_interval_date(args[1])
+            end     = parse_interval_date(args[2])
         else:
             start = parse_interval_date(input("Informe a data inicial (DD/MM/AAAA): "))
             end = parse_interval_date(input("Informe a data final (DD/MM/AAAA): "))

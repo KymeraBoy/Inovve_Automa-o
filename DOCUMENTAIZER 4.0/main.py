@@ -1,8 +1,7 @@
 import sys
-from pathlib import Path
-
-from PySide6.QtCore import Qt
-from PySide6.QtWidgets import (
+from pathlib            import Path
+from PySide6.QtCore     import Qt
+from PySide6.QtWidgets  import (
     QApplication,
     QComboBox,
     QFileDialog,
@@ -16,22 +15,18 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from Etapa1 import Etapa1
-from Etapa2 import Etapa2
-from Etapa3 import Etapa3
-
+from Renomer    import Renomer
+from Anexer     import Anexer
+from Sumarier   import Sumarier
 
 class MainWindow(QMainWindow):
-    """
-    Janela principal do Documentaizer.
-    """
 
     def __init__(self):
         super().__init__()
 
-        self.nome_municipio = ""
-        self.pasta_municipio = ""
-        self.empresa_selecionada = ""
+        self.nome_municipio         = ""
+        self.pasta_municipio        = ""
+        self.empresa_selecionada    = ""
 
         # Identifica o diretório base (funciona tanto em .py quanto no executável do PyInstaller)
         if getattr(sys, 'frozen', False):
@@ -140,20 +135,20 @@ class MainWindow(QMainWindow):
         self.layout_etapas.setSpacing(15)
 
         # Módulos das Etapas
-        self.etapa_1 = Etapa1()
-        self.etapa_2 = Etapa2()
-        self.etapa_3 = Etapa3()
+        self.Renomer    = Renomer()
+        self.Anexer     = Anexer()
+        self.Sumarier   = Sumarier()
 
         # Conecta atualização do Etapa 1 para atualizar a Etapa 2
-        self.etapa_1.arquivo_renomeado.connect(self.etapa_2.atualizar_estrutura)
+        self.Renomer.arquivo_renomeado.connect(self.Anexer.atualizar_estrutura)
 
         # Quando os anexos em PDF forem gerados na Etapa 2, re-sincroniza a Etapa 3
-        self.etapa_2.anexos_gerados.connect(self.atualizar_dados_integracao)
+        self.Anexer.anexos_gerados.connect(self.atualizar_dados_integracao)
 
         # Dividir a largura em 3 partes iguais
-        self.layout_etapas.addWidget(self.etapa_1, 1)
-        self.layout_etapas.addWidget(self.etapa_2, 1)
-        self.layout_etapas.addWidget(self.etapa_3, 1)
+        self.layout_etapas.addWidget(self.Renomer, 1)
+        self.layout_etapas.addWidget(self.Anexer, 1)
+        self.layout_etapas.addWidget(self.Sumarier, 1)
 
         self.layout_principal.addLayout(self.layout_etapas)
 
@@ -165,8 +160,8 @@ class MainWindow(QMainWindow):
             self.pasta_municipio = str(Path(pasta))
             self.input_pasta.setText(self.pasta_municipio)
 
-            self.etapa_1.set_pasta_municipio(self.pasta_municipio)
-            self.etapa_2.set_pasta_municipio(self.pasta_municipio)
+            self.Renomer.set_pasta_municipio(self.pasta_municipio)
+            self.Anexer.set_pasta_municipio(self.pasta_municipio)
             self.atualizar_dados_integracao()
 
     def atualizar_dados_integracao(self):
@@ -175,7 +170,7 @@ class MainWindow(QMainWindow):
         uf_selecionada = self.combo_uf.currentText()
 
         # Atualiza a Etapa 1
-        self.etapa_1.set_nome_municipio(self.nome_municipio)
+        self.Renomer.set_nome_municipio(self.nome_municipio)
 
         pasta_empresa_path = None
         if self.empresa_selecionada:
@@ -184,13 +179,13 @@ class MainWindow(QMainWindow):
             )
 
         # Atualiza a Etapa 2
-        self.etapa_2.set_dados(
+        self.Anexer.set_dados(
             nome_municipio=self.nome_municipio,
             pasta_empresa=pasta_empresa_path
         )
 
         # Atualiza a Etapa 3 passando o caminho do executável do LuaLaTeX portátil
-        self.etapa_3.set_dados(
+        self.Sumarier.set_dados(
             municipio=self.nome_municipio,
             uf=uf_selecionada,
             empresa=self.empresa_selecionada,
@@ -201,7 +196,7 @@ class MainWindow(QMainWindow):
         )
 
     def resizeEvent(self, event):
-        altura_janela = self.central_widget.height()
+        altura_janela       = self.central_widget.height()
         altura_area_inicial = int(altura_janela * 0.10)
         self.area_inicial.setFixedHeight(altura_area_inicial)
         super().resizeEvent(event)

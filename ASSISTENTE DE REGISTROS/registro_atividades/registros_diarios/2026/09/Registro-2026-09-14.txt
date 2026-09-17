@@ -1,0 +1,85 @@
+REGISTRO DO DIA
+2026-09-14
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Passar o requerimento de QIP de Cidade Ocidental para a próxima instância, motivo: Incompleto
+
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+12:48
+
+Leitura de E-mails
+Ruda
+- Faturas de Jericó apenas
+HLA
+- Muitos e-mails para Cidade Oriental
+- REQ 009/2026 - Prazo de resposta postergado para dia 09/10/2026
+- REQ 003/2026 - Prazo de resposta postergado para dia 09/10/2026
+- Recebemos um e-mail avisando que a REQ 008/2026 foi respondida dia 10/09/2026
+- Recebemos um e-mail avisando que a REQ 006/2026 foi respondida dia 10/09/2026
+- Recebemos um e-mail avisando que a REQ 002/2026 foi respondida dia 08/09/2026
+- Recebemos um e-mail avisando que a REQ 005/2026 foi respondida dia 04/09/2026
+- Recebemos um e-mail avisando que a REQ 004/2026 foi respondida dia 08/09/2026
+- Recebemos um e-mail avisando que a REQ 001/2026 foi respondida dia 04/09/2026
+
+Tivemos problemas com a resposta da REQ 006/2026, a resposta consiste em 3 arquivos HTML que contém o link para os arquivos. o problema é que os conteúdos dos links não tem acesso ou já foi excluído. todos apresentam a seguinte mensagem quando acessados:
+"Não é possível processar solicitação
+Não foi possível acessar a entrega de conteúdo.
+Esse conteúdo foi excluído, não existe ou não pode ser visualizado."
+
+Foi solicitado o reenvio dos links
+Finalizado Leitura de E-mails
+
+--------------------------------------------------
+
+13:21
+
+Passar a REC 004/2026 - Araruna (Taxa ADM CIP) para a ANEEL
+O único problema dessa tese é a numeração dela que foi enviado para a concessionária como REC 001/2026, sendo que o correto deveria ser 004/2026, minha solução é pedir para Larissa assinar um documento com numeração corrigida, e enviar para a ANEEL com uma errata dizendo que houve um erro no documento, mas apenas de identificação, e que o documento enviado para a ANEEL já havia corrigido o mesmo, mas que o conteúdo teórico e técnico é o mesmo e que esse erro não deve interferir em nada. Bem a partir de agora é esperar o parecer da Larissa
+
+--------------------------------------------------
+
+13:29
+
+REC 013/2026 Miranda passada pra ANEEL
+
+--------------------------------------------------
+
+15:06
+
+Faxinando a planilha de teses de Ruda em busca do que fazer
+
+--------------------------------------------------
+
+15:14
+
+Tentei passar a REC 003/2026 de Salgado de São Félix pra ANEEL para cobrar o memorial de cálculo, mas o Portal está dando erro então eu vou tentar depois
+
+--------------------------------------------------
+
+15:33
+
+No final das contas o único erro era que eu tinha salvo a reclamação errada de Araruna mas a enviada foi a correta, eu esqueci de salvar a correta, mas isso já foi corrigida
+REC 004/2026 de Araruna na ANEEL
+
+--------------------------------------------------
+
+15:40
+
+Deu certo agora passar a reclamação 003/2026 de Salgado de São Félix na ANEEL
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

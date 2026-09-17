@@ -468,6 +468,417 @@ INFORMAÇÕES
 
 Área destinada para:
 
+- Tentar acessar o link de resposta da REQ 002/2026 de Cidade Ocidental novamente
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:12
+
+Leitura de E-mails
+
+Recebemos mais faturas da Energisa no e-mail do Ruda
+Municípios que receberam faturas
+Aguiar, Cacimbas, Conceição, Condado, Desterro, Malta, Marizópolis, Pombal, Riacho dos Cavalos, São Bentinho, São José de Espinharas, São José de Sabugi, Vista Serrana.
+
+REQ 002/2026 Cidade Ocidental Respondida
+Link da resposta: https://grupoequatorialenergia-my.sharepoint.com/:u:/g/personal/debora_vitor_equatorialenergia_com_br/IQAUkKqkWI4jS7G2H8u9e-SPAdfnQ6mYveeSK_a_DNvP7Mg
+Não consegui acessar o link
+
+Script para guardar as pastas de faturas no Drive
+Contexto: PReciso de um script em python que receba o endereço de duas pastas
+Pasta SALVAR: Nela estarão as pasta das faturas recebidas de cada município
+Pasta da empresa: Nela estarão as pastas dos estados, dentro das pastas dos estados estarão as pastas dos municípios, dentro das pastas dos municípios estarão as pastas de Documentos, Dentro das pastas de documentos estarão as pastas de faturas.
+O objetivo do Script é identificar através do nome, a qual município a pasta de faturas dentro da pasta SALVAR ela pertence. Em seguida ela deve mover as pastas para as pastas de faturas do município.
+Por fins de segurança o Script deve antes de efetuar a movimentação, me apresentar para quais endereços cada pasta será movida
+
+Atualização - 01
+O endereço das pastas são:
+PASTA_SALVAR = Path(r"C:\Users\Usuário 1\Downloads\SALVAR")
+PASTA_EMPRESA = Path(r"C:\Users\Usuário 1\OneDrive\PASTA ENERGIA 1\PARCEIROS\Municípios Thamires e Ruda")
+
+O programa não está identificando o município das pastas da pasta Salvar provavelmente em função da forma como elas são nomeadas, aqui um exemplo: FATURAMENTO ENERGISA VENCT 23-09-2026 - PM Aguiar
+
+Faturas salvas
+Leitura de E-mails concluída.
+
+--------------------------------------------------
+
+12:57
+
+Retomando a reestruturação do Documentaizer
+
+Eu parei na etapa 3 que é a de fazer o sumário, eu pensei e basicamente o programa deve fazer duas coisas, montar o texto do sumário e jogar no template da empresa do município, para isso eu vou ter que ter um template para cada município.
+
+Elaboração da Etapa3
+
+A etapa 3 ela consiste em
+Montar o texto do sumario, colocar ele no template latex da empresa, gerar o pdf do documento. Cada uma desse partes tem suas particularidades.
+
+A montagem do texto do sumário consiste na seguinte estrutura de exemplo:
+
+\textbf{SUMÁRIO - [MUNICÍPIO] - [ESTADO]}\\
+\strut \\
+\textbf{Anexo I -- Instrumentos procuratórios \dotfill 1}
+\begin{enumerate}
+    \item Procuração \dotfill 1
+    \item Validação das assinaturas \dotfill 2
+    \item Kit prefeito \dotfill 6
+    \item Contrato Social da Empresa \dotfill 19
+    \item Documento de Identificação do Representante \dotfill 25
+\end{enumerate}
+\textbf{Anexo II -- Documentos contratuais \dotfill 1}
+\begin{enumerate}
+    \item Contrato \dotfill 1
+    \item Validação das assinaturas \dotfill 12
+    \item Publicação do Contrato em Diário Oficial \dotfill 20
+\end{enumerate}
+\textbf{Anexo III -- 1º Termo Aditivo \dotfill 1}
+\begin{enumerate}
+    \item 1º Aditivo \dotfill 1
+        \item Validação das assinaturas do 1º Aditivo \dotfill 4
+    \item Publicação do 1º Aditivo em Diário Oficial \dotfill 13
+\end{enumerate}
+
+Para isso é claro que deve ser necessário fazer uma contagem das páginas de cada documento que foi utilizado para fazer cada anexo. Além disso essa etapa utiliza também a caixa de seleção do estado na area_inicial,
+
+A seleção do template é feita de acordo com a empresa selecionada na caixa de seleção da área inicial
+os template estão salvos da seguinte forma
+
+Documnetaizer
+ - main
+ - Etapa1
+ - Etapa2
+ - Etapa3
+ - Latex
+   - RUDA.tex
+   - HLA.tex
+
+dentro deles haverá um place holder: <<TEXTO>>, ele deve ser substituído pelo texto que foi gerado na parte anterior
+
+A última parte é a geração do pdf a partir do documento látex criado, ele deve ser compilado utilizando LuaLaTex, e o PDF gerado deve ser salvo na Pasta ANEXOS criada na segunda etapa
+O nome do documento deve seguir a seguinte estrutura
+[MUNICIPIO] - SUMÁRIO
+
+Atualizações 01
+a preview do texto que do sumariao está invisível pois a fonte tem a mesma cor do fundo de visualização, ambos são brancos), além disso eu não quero que o texto mostrado na preview seja o mesmo que será posto no documento látex, eu quero que ele seja uma previw de como vai ficar no prpoido pdf, ou seja, uma preview do sumario e não do texto lçatex do sumario.
+Além disso creio estar acontecendo um erro de compilação pois o documento tex esta sendo compilado  dentro da pasta anexos criada na etapa2, isso cria um problema que é a importação de imagens, que estão salvas na pasta látex do Documentaizer, há uma pasta SAIDA no Documentaizer em que o arquivo tex gerado pode ser guardado e compilado, no final do processo uma copia do pdf deve ser salva na pasta anexos do município.
+
+Alteração 02
+Como os template de látex são relativos as empresas, quero que haja uma mudança em onde os template e imagens de importação são buscados pela etapa3, no casoo atualmente ele busca dentro da pasta látex por um documento látex com mesmo nome da empresa selecionada na área incial, a atualização deve fazer com que ele busque na pasta empresas ela terá uma pasta para cada empresa, e dentro de cada uma deve haver o template látex e as imagens de importação, essa mudança é fundamentantada na centralização da organização dos arquivos do programa, dessa forma centralizamos os arquivos de aocrdo com as empresas,
+
+pyinstaller --noconfirm --onedir --windowed --add-data "EMPRESAS;EMPRESAS" --add-data "miktex;miktex" main.py
+
+Finalizei por hora a reestruturação do Documentaizer, eles está operante e a distribuição dele está sobre avaliação
+
+--------------------------------------------------
+
+13:38
+
+Atividade não definida
+
+Eu vou revisar as minhas duas planilhas de teses em busca de atividades para fazer.
+
+Vou fazer logo o oficio de cobrança do pagamento de ajuste de Aguiar
+
+O modelo foi feito especificamente para a REC 004/2025 de Aguiar, baseado no que aconteceu com as REC 012/2025 de São José do Rio do Peixe e REC 029/2025 de Conceição
+
+--------------------------------------------------
+
+14:20
+
+Cobrando comprovante de pagamento REC 017/2025 - Cacimba e Dentro
+
+--------------------------------------------------
+
+14:40
+
+Analise do Memorial de Cálculo de Serra Negra do Norte
+Pausa para fazer outra coisa
+
+--------------------------------------------------
+
+14:48
+
+REC 004/2025 Aguiar cobrado pagamento de ajuste na ANEEL
+
+--------------------------------------------------
+
+15:39
+
+Voltando pra analise de memroial de cálculo
+A análise do Memorial de cálculo foi feita, aprovado e o formulário de pagamento foi feito.
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-09-14.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-14
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Passar o requerimento de QIP de Cidade Ocidental para a próxima instância, motivo: Incompleto
+
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+12:48
+
+Leitura de E-mails
+Ruda
+- Faturas de Jericó apenas
+HLA
+- Muitos e-mails para Cidade Oriental
+- REQ 009/2026 - Prazo de resposta postergado para dia 09/10/2026
+- REQ 003/2026 - Prazo de resposta postergado para dia 09/10/2026
+- Recebemos um e-mail avisando que a REQ 008/2026 foi respondida dia 10/09/2026
+- Recebemos um e-mail avisando que a REQ 006/2026 foi respondida dia 10/09/2026
+- Recebemos um e-mail avisando que a REQ 002/2026 foi respondida dia 08/09/2026
+- Recebemos um e-mail avisando que a REQ 005/2026 foi respondida dia 04/09/2026
+- Recebemos um e-mail avisando que a REQ 004/2026 foi respondida dia 08/09/2026
+- Recebemos um e-mail avisando que a REQ 001/2026 foi respondida dia 04/09/2026
+
+Tivemos problemas com a resposta da REQ 006/2026, a resposta consiste em 3 arquivos HTML que contém o link para os arquivos. o problema é que os conteúdos dos links não tem acesso ou já foi excluído. todos apresentam a seguinte mensagem quando acessados:
+"Não é possível processar solicitação
+Não foi possível acessar a entrega de conteúdo.
+Esse conteúdo foi excluído, não existe ou não pode ser visualizado."
+
+Foi solicitado o reenvio dos links
+Finalizado Leitura de E-mails
+
+--------------------------------------------------
+
+13:21
+
+Passar a REC 004/2026 - Araruna (Taxa ADM CIP) para a ANEEL
+O único problema dessa tese é a numeração dela que foi enviado para a concessionária como REC 001/2026, sendo que o correto deveria ser 004/2026, minha solução é pedir para Larissa assinar um documento com numeração corrigida, e enviar para a ANEEL com uma errata dizendo que houve um erro no documento, mas apenas de identificação, e que o documento enviado para a ANEEL já havia corrigido o mesmo, mas que o conteúdo teórico e técnico é o mesmo e que esse erro não deve interferir em nada. Bem a partir de agora é esperar o parecer da Larissa
+
+--------------------------------------------------
+
+13:29
+
+REC 013/2026 Miranda passada pra ANEEL
+
+--------------------------------------------------
+
+15:06
+
+Faxinando a planilha de teses de Ruda em busca do que fazer
+
+--------------------------------------------------
+
+15:14
+
+Tentei passar a REC 003/2026 de Salgado de São Félix pra ANEEL para cobrar o memorial de cálculo, mas o Portal está dando erro então eu vou tentar depois
+
+--------------------------------------------------
+
+15:33
+
+No final das contas o único erro era que eu tinha salvo a reclamação errada de Araruna mas a enviada foi a correta, eu esqueci de salvar a correta, mas isso já foi corrigida
+REC 004/2026 de Araruna na ANEEL
+
+--------------------------------------------------
+
+15:40
+
+Deu certo agora passar a reclamação 003/2026 de Salgado de São Félix na ANEEL
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-09-15.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-15
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- observações
+- respostas
+- lembretes
+- correções
+- comunicados
+- qualquer anotação geral
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+09:18
+
+Leitura de E-mails
+
+Temos 3 conclusões de protocolos na ANEEL, e eu acho que são dos que foram  cadastrados ontem.
+
+1. E-mail de conclusão do protocolo 0106473442600, diferente do que eu esperava ele é referente a um cadastro um pouco mais antigo, da reclamação 006/2025 de Pombal. O protocolo foi concluído não constarem elementos materialmente concretos que constituam base de itens necessários para análise da situação ora reclamada.
+2. E-mail de conclusão do protocolo 0106473212604, pelos mesmos motivos do e-mail anterior, e também de Pombal só que dessa vez da reclamação 002/2025
+3. E-mail de conclusão do protocolo 0106472872660, novamente pelos mesmo motivos de "não constam elementos materialmente concretos que constituam base de itens necessários para análise da situação ora reclamada", dessa vez porém da reclamação 013/2025 de Livramento.
+
+Esses foram os únicos e-mail de Ruda, porém eu chequei apenas no outlook novo, vou conferir no clássico pois eu estou tendo problemas nesse novo. No outlook clássico também não tem mais nenhum e-mail novo de Ruda. Vou conferir agora a caixa de entrada do e-mail da HLA.
+
+1. E-mail de resposta a contestação da reclamação 003/2026. Essa situação está realmente confusa, vou organizar uma linha do tempo para entender os fatos
+11/06 - reclamação feita no portal da CELPE
+11/06 - Recebemos o protocolo
+29/06 - Reclamação indeferida pois a unidade já havia sido enquadrada como IP anteriormente. (porém houve inconsistências no e-mail que exigiram alguns esclarecimentos
+01/07 - Entramos na ANEEL já com reclamação de IP já corrigida.
+14/07 - Enviamos um e-mail cobrando esclarecimentos quanto a situação das reclamações devido a erros de troca de números de protocolos
+14/07 - No mesmo dia eles responderam e foi confirmado que a uc 7133320 foi reclassificada no dia 23/04/2026
+18/08 - Recebemos o memorial de cálculo
+20/08 - Contestamos o memorial de cálculo
+21/08 - Eles retificam o deferimento da reclamação pelo motivo de que o reenquadramento foi feito por iniciativa dele
+03/09 - Eles enviam um e-mail em resposta ao ofício que enviamos na ANEEL reforçando o argumento de que a reclamação deve ser indeferida por que foi feita mudança por iniciativa da concessionária.
+08/09 - o protocolo na ANEEL é concluído.
+
+2. Encerramento do protocolo na ANEEL da reclamação 008/2026, era uma reclamação de enquadramento, mas eles enviaram provas por e-mail.
+
+Esses foram os e-mails, a única ponta solta que restou foi a reclamação 003/2026, deixei ela como pendente de análise, pois eu não sei o que fazer com ela ainda.
+
+--------------------------------------------------
+
+10:00
+
+Reclamação 006/2026 de Ribeirão foi concluída na ANEEL, não recebi nenhum e-mail me confirmando isso Fique sabendo disso por meio da Raissa, e estou investigando o caso.
+
+--------------------------------------------------
+
+10:20
+
+Verifiquei a última data de atualização de cada tese na ANEEL da HLA
+
+--------------------------------------------------
+
+10:35
+
+REC 005/2025 de Araruna - Contestação elaborada
+
+--------------------------------------------------
+
+11:09
+
+REC 007/2026 de Pedras de Fogo - o Memorial foi cobrado na ANEEL
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+Tem bastante coisa pra se resolver de Ribeirão
+Itens a serem cobrados  em reunião com a CELPE
+Cobranças de Memorial de Cálculo
+- REC 012/2026 - Ribeirão - Custo Disponibilidade
+- REC 013/2026 - Ribeirão - Custo Disponibilidade
+- REC 026/2026 - Ribeirão - Custo Disponibilidade
+Cobranças por atualizações da contestação do memorial de cálculo
+- REC 007/2026 - Ribeirão - Enquadramento IP
+
+========================================================================
+ARQUIVO: Registro-2026-09-16.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-16
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Fazer um Script para as planilhas de tese que formate elas para o padrão que eu gosto.
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+08:46
+
+Leitura de e-mails:
+
+RUDA:
+- Recebemos vários e-mails de demonstrativo da CIP, os seguinte municípios receberam esse tipo de documento (foram 23 no total):
+Aguiar, Cacimbas, Catolé do Rocha, Conceição, Condado, Coremas, Desterro, Jericó, Malta, Marizópolis, Pombal, Poço José de Moura, Riacho dos Cavalos, Santa Cruz, São Bentinho, São Bento, São, José da Lagoa Tapada, São José de Espinharas, São José do Sabugi, São João do Rio Peixe, São Mamede, Triunfo, Vista Serrana.
+
+HLA:
+Nenhum e-mail novo na caixa de entrada do e-mail da HLA.
+
+--------------------------------------------------
+
+08:55
+
+Back up
+
+--------------------------------------------------
+
+09:10
+
+REC 005/2025 ARARUNA - Passado para a ANEEL
+
+--------------------------------------------------
+
+10:42
+
+Revisando pendências de Vista Serrana
+
+--------------------------------------------------
+
+11:02
+
+REQ 009/2026 - Cidade Ocidental - Recebemos resposta porém eles sofrem do mesmo problema que a última resposta, que é o fato das respostas serem arquivos HTML com links e os links não estarem disponíveis.
+
+--------------------------------------------------
+
+11:45
+
+Ofício 001/2026 ARARUNA - Protocolado na concessionária, é um ofício feito pela Larissa solicitando informações sobre 4 comprovantes de pagamento, para saber de quais teses eles são.
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------
+
+========================================================================
+ARQUIVO: Registro-2026-09-17.txt
+========================================================================
+REGISTRO DO DIA
+2026-09-17
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
 - observações
 - respostas
 - lembretes
