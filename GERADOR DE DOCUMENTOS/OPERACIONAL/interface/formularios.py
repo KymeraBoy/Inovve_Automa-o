@@ -105,8 +105,22 @@ class PainelDetalhesDocumento(QWidget):
         self.txt_valor_faturamento.setPlaceholderText("R$ 0,00")
         self.txt_periodo_qip = QLineEdit()
         self.txt_periodo_qip.setPlaceholderText("Ex: Janeiro de 2024")
+        self._reatores_checks: dict[str, QCheckBox] = {}
+        self._reatores_selecionados: set[str] = set()
         form_reatores.addRow("Valor faturamento", self.txt_valor_faturamento)
         form_reatores.addRow("Periodo/QIP", self.txt_periodo_qip)
+
+        tipos_reatores = [
+            ("sodio", "Lâmpadas de vapor de sódio"),
+            ("metalica", "Lâmpadas de vapor metálico / mercúrio"),
+            ("fluorescente", "Lâmpadas fluorescentes"),
+        ]
+        for chave, rotulo in tipos_reatores:
+            checkbox = QCheckBox(rotulo)
+            checkbox.toggled.connect(lambda checked, chave=chave: self._emitir(f"tipo_perda_reator:{chave}", checked))
+            self._reatores_checks[chave] = checkbox
+            form_reatores.addRow(rotulo, checkbox)
+
         self._img_vapor = self._criar_campo_imagem("vapor")
         self._img_fluorescente = self._criar_campo_imagem("fluorescente")
         form_reatores.addRow("Imagem vapor", self._img_vapor["container"])
@@ -259,6 +273,7 @@ class PainelDetalhesDocumento(QWidget):
             self._set_imagem("comprovacao", "")
             self._set_imagem("consumo", "")
             self._set_imagem("faturamento", "")
+            self._aplicar_tipos_perda_reatores([])
             self._set_visibility("REC", "")
             self._loading = False
             return
@@ -280,6 +295,7 @@ class PainelDetalhesDocumento(QWidget):
         self._set_imagem("comprovacao", documento.imagens.get("comprovacao", ""))
         self._set_imagem("consumo", documento.imagens.get("consumo", ""))
         self._set_imagem("faturamento", documento.imagens.get("faturamento", ""))
+        self._aplicar_tipos_perda_reatores(documento.tipos_perda_reatores)
         self._set_visibility(documento.tipo, documento.subtipo)
         self._aplicar_checklist_ofi(documento.ofi_item_flags)
         self._loading = False
@@ -305,6 +321,14 @@ class PainelDetalhesDocumento(QWidget):
             "faturamento": self._img_faturamento,
         }
         mapa[chave]["line"].setText(valor)
+
+    def _aplicar_tipos_perda_reatores(self, tipos: list[str] | None) -> None:
+        selecionados = {str(item).strip().lower() for item in (tipos or []) if str(item).strip()}
+        self._reatores_selecionados = selecionados
+        for chave, checkbox in self._reatores_checks.items():
+            checkbox.blockSignals(True)
+            checkbox.setChecked(chave in selecionados)
+            checkbox.blockSignals(False)
 
     def _formatar_e_emitir_valor(self) -> None:
         if self._loading:
@@ -356,6 +380,14 @@ class PainelDetalhesDocumento(QWidget):
         if campo.startswith("ofi_flag:"):
             chave = campo.split(":", 1)[1]
             self._ofi_flags_atual[chave] = bool(valor)
+        elif campo.startswith("tipo_perda_reator:"):
+            chave = campo.split(":", 1)[1]
+            if bool(valor):
+                self._reatores_selecionados.add(chave)
+            else:
+                self._reatores_selecionados.discard(chave)
+            self.campoEditado.emit("tipos_perda_reatores", sorted(self._reatores_selecionados))
+            return
         self.campoEditado.emit(campo, valor)
 
     def _set_visibility(self, tipo: str, subtipo: str) -> None:

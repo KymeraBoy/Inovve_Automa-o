@@ -1,0 +1,80 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 008 - 0139 - 500 - 1120
+MATRÍCULA: 1825226-2024-11-7
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO UBS JANIO HELDER DA SILVA
+
+RUA JOSE ALEXANDRE BEZERRA, S/N - 58695000
+
+
+CENTRO
+DESTERRO (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Novembro / 2024   23/12/2024   R$ 882,69
+                                        Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura     Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh               1.041,00       0,777730        809,62       35,31         809,62   20      161,92   0,588270
+Adic. B. Amarela                                             11,11        0,49          11,11   20        2,22
+Adic. B. Vermelha                                            61,96        2,70          61,96   20       12,39
+
+
+
+
+                            TOTAL:                          882,69       38,50         882,69           176,53
+00008847469   Energia ativa em kWh   Ponta   65125   66166   1   1041
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1825226-2024-11-7              23/12/2024      4291361        R$ 882,69
+
+CONTA PAGA - Data de Pagamento: 04/12/2024
+Data de Apresentação: 04/12/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001825226-2
+15/10/2024   12/11/2024   28   13/12/2024
+5/1825226-2
+
+00008847469
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         706,13    0,9725       6,87
+COFINS      706,13    4,4795      31,63
+ICMS        882,69     20,00     176,53
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              NOV/24                28
+              OUT/24                32
+              SET/24                30
+              AGO/24                30
+Consumo kWh
+
+
+
+
+              JUL/24                32
+              JUN/24                30
+              MAI/24                35
+              ABR/24                32
+              MAR/24                30
+              FEV/24                28
+              JAN/24                30
+              DEZ/23                32
+              NOV/23                31
+  882,69                 176,53
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997

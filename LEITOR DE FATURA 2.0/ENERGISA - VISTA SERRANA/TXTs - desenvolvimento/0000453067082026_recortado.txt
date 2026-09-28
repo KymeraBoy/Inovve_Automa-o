@@ -1,0 +1,82 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE VISTA SERRANA
+RUA ABÍLIO GARCIA SN - CEP:58710000 - CENTRO
+VISTA SERRANA PB (AG: 118)
+
+
+
+
+DOM. BANC.:                                    DOM. ENT.: 9999128001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM VISTA SERRANA SEDE DA PREFEITURA
+
+RUA VEREADOR RAIMUNDO GARCIA DE ARAUJO, 25 - 58710000
+
+
+CENTRO
+VISTA SERRANA (AG: 118)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-94
+Insc. Est.:
+Agosto / 2026   23/09/2026   R$ 701,29
+                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)   Unit (R$)
+Consumo em kWh             KWH        742,00       0,930630        690,54       51,09         690,54   20      138,11   0,675650
+Adic. B. Amarela                                                    19,26        1,42          19,26   20        3,85
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                             -8,51       0,00           0,00             0,00
+
+
+
+
+                                    TOTAL:                         701,29       52,51         709,80           141,96
+00000981035   Energia ativa em kWh   Ponta   69682   70424   1   742
+        CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0000453067-1
+           Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 03/09/2026
+
+
+                                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
+  453067-2026-8-7                             23/09/2026                          9144932              R$ 701,29
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 03/09/2026
+24/07/2026   25/08/2026   32   24/09/2026
+271.216.053-99
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         567,82    1,6500       9,36
+COFINS      567,82    7,6000      43,15
+ICMS        709,80     20,00     141,96
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/26                32
+              JUL/26                29
+              JUN/26                31
+              MAI/26                28
+Consumo kWh
+
+
+
+
+              ABR/26                33
+              MAR/26                29
+              FEV/26                29
+              JAN/26                31
+              DEZ/25                30
+              NOV/25                30
+              OUT/25                32
+              SET/25                30
+              AGO/25                32
+  709,80                 141,96
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997

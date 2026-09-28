@@ -1,0 +1,52 @@
+ILUMINACAO PUBLICA - P.M.DESTERRO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.DESTERRO
+RUA CÔNEGO FLORENTINO 01
+DESTERRO (AG: 133)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA / ILUMINAÇÃO PÚBLICA
+ROTEIRO: 088 - 0139 - 099 - 8100                             LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                          DOM. BANC.:
+MATRÍCULA: 135407-2022-6-4                                 DOM. ENT.: 9999139001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230, S/N
+CENTRO
+DESTERRO (AG: 133)
+
+
+
+                                                                         0000135407-5
+5/135407-5
+              R$ 31.921,48
+
+
+              Junho/2022
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+23/07/2022
+             2.339,83 kWh
+             MÉDIA DIÁRIA
+70.195 kWh
+01/07/2022   04/07/2022   31/07/2022
+                                                             TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                                 QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo kWh - Ligação Provisória - Ponta       473,00    0,328310    0,454740      215,09        215,09   25         53,77         161,32       1,08           4,96
+0601 Consumo em kWh                              69.722,00    0,328310    0,454740   31.706,39     31.706,39   25      7.926,60      23.779,78     158,63         730,72
+
+
+
+
+CCI: Código de Classificação do Item                                     TOTAL:      31.921,48     31.921,48           7.980,37      23.941,10     159,71         735,68
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   135407-2022-6-4           23/07/2022         88247051     R$ 31.921,48
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

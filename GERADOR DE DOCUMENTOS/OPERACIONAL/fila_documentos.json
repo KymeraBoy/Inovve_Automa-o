@@ -1,12 +1,12 @@
 [
   {
-    "doc_id": 7,
-    "municipio": "São Mamede",
-    "empresa": "RUDA",
+    "doc_id": 17,
+    "municipio": "Nova Ibiá",
+    "empresa": "ABEL",
     "tipo": "REC",
-    "subtipo": "Custo de disponibilidade",
-    "numero": "",
-    "uc": "454807",
+    "subtipo": "Taxa CIP",
+    "numero": "002/2026",
+    "uc": "3469025",
     "origem_tipo": "",
     "origem_codigo": "",
     "valor_faturamento": "",
@@ -32,9 +32,12 @@
     "ajuste_explicacao_data_inicial": "",
     "ajuste_explicacao_data_final": "",
     "imagens": {},
+    "tipos_perda_reatores": [],
     "ofi_item_flags": {},
     "info_adicional": "",
-    "status": "Aguardando",
-    "erros": []
+    "status": "Erro",
+    "erros": [
+      "Documento montado, mas falhou ao compilar PDF: Comando xelatex -interaction=nonstopmode -halt-on-error REC-002_2026-NOVA_IBIA-TAXA_CIP-3469025.tex falhou.\n(C:\\Users\\Usuário 1\\AppData\\Local\\Programs\\MiKTeX\\tex/latex/titlesec\\titlesec.s\nty))\n(C:\\Users\\Usuário 1\\AppData\\Local\\Programs\\MiKTeX\\tex/latex/float\\float.sty)\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/MUNICIPIOS\n/Dados_Nova_Ibia.tex\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/CONCESSION\nARIAS/NEOENERGIA_BAHIA.tex))\nNo file REC-002_2026-NOVA_IBIA-TAXA_CIP-3469025.aux.\n*geometry* driver: auto-detecting\n*geometry* detected driver: xetex\n\n(C:/Users/Usuário 1/Documents/Inovve_Automação/GERADOR DE DOCUMENTOS/EMPRESAS/A\nBEL/intro.tex\n! Undefined control sequence.\n<inserted text> \\Municipio \n                           \nl.6 ... \\nomeMunicipioMaisculo{} - \\siglaEstado{}}\n                                                  \nNo pages of output.\nTranscript written on REC-002_2026-NOVA_IBIA-TAXA_CIP-3469025.log."
+    ]
   }
 ]

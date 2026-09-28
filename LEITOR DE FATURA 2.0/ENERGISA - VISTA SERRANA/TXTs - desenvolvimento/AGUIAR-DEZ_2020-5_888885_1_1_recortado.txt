@@ -1,0 +1,60 @@
+EMEF JOANA LACERDA LEITE AGUIAR
+
+DOMICÍLIO DE ENTREGA
+EMEF JOANA LACERDA LEITE AGUIAR
+RUA BOA VISTA S/N
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 400 - 0180                       LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008478220                          DOM. BANC.:
+MATRÍCULA: 888885-2020-12-2                          DOM. ENT.: 9999149002
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ANTONIO ALVES DE ALMEIDA, S/N
+CENTRO
+AGUIAR (AG: 144)
+
+
+
+                                                                   0000888885-1
+5/888885-1
+          R$ 250,91
+
+
+          Dezembro/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.: 000XXXXXX
+23/01/2021
+               9,90 kWh
+             MÉDIA DIÁRIA
+297 kWh
+                               FATURAS EM ATRASO
+                              23/12/2020     243,68
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+27/01/2021.
+Regularize seus débitos.
+17/12/2020   12/01/2021   14/01/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
+0601 Consumo em kWh                        297,00    0,562110    0,797710      236,92        236,92   25      59,23         181,21        1,92          8,83
+0601 Adic. B. Vermelha                                                          13,99         13,99   25       3,49          10,70        0,11          0,52
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         250,91        250,91           62,72         191,91        2,03          9,35
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  888885-2020-12-2           23/01/2021         55637579      R$ 250,91
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

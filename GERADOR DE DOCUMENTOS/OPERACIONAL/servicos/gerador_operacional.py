@@ -228,6 +228,17 @@ def _extract_vapor_types_from_info(info: str) -> list[str]:
     return selected
 
 
+def _extract_vapor_types_from_documento(documento: Documento) -> list[str]:
+    tipos = [str(item).strip().lower() for item in documento.tipos_perda_reatores if str(item).strip()]
+    mapped: list[str] = []
+    for tipo in tipos:
+        if tipo == "sodio":
+            mapped.append("sodio")
+        elif tipo in {"metalica", "mercurio"}:
+            mapped.append("metalica")
+    return mapped
+
+
 def _join_pt_br(items: list[str]) -> str:
     if not items:
         return ""
@@ -291,12 +302,16 @@ def _build_vapor_norms_text(selected_vapor_types: list[str]) -> str:
 
 
 def _process_perda_reatores_content(conteudo_tex: str, documento: Documento) -> str:
+    tipos_selecionados = {str(item).strip().lower() for item in documento.tipos_perda_reatores if str(item).strip()}
     perda_vapor = bool((documento.imagens.get("vapor", "") or "").strip())
-    perda_fluorescente = bool((documento.imagens.get("fluorescente", "") or "").strip())
+    perda_fluorescente = "fluorescente" in tipos_selecionados and bool((documento.imagens.get("fluorescente", "") or "").strip())
 
-    vapor_types = _extract_vapor_types_from_info(documento.info_adicional)
+    vapor_types = _extract_vapor_types_from_documento(documento)
     if perda_vapor and not vapor_types:
         vapor_types = ["sodio"]
+
+    if "fluorescente" in tipos_selecionados:
+        perda_fluorescente = True
 
     faturamento_mes = parse_monetario_br(documento.valor_faturamento)
     fatur_10_anos = faturamento_mes * Decimal("120")

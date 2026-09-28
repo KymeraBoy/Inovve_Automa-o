@@ -1,0 +1,55 @@
+ILUMINACAO PUBLICA - P.M.DESTERRO
+
+DOMICÍLIO DE ENTREGA
+ILUMINACAO PUBLICA - P.M.DESTERRO
+RUA CÔNEGO FLORENTINO 01
+DESTERRO (AG: 133)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B4A
+CLASSE/SUBCLS.: ILUMINAÇÃO PÚBLICA/ILUMINAÇÃO
+ROTEIRO: 015 - 0139 - 099 - 8100                        LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 0                                     DOM. BANC.:
+MATRÍCULA: 135407-2021-1-7                            DOM. ENT.: 9999139001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+ROD BR 230
+CENTRO
+DESTERRO (AG: 133)
+
+
+
+                                                                    0000135407-5
+5/135407-5
+          R$ 34.243,63
+
+
+          Janeiro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.: 00XXXXXX
+23/02/2021
+             2.469,66 kWh
+             MÉDIA DIÁRIA
+71.620 kWh
+25/01/2021   05/02/2021   23/02/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.      ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS         (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                     71.620,00    0,309160    0,428510   30.690,54     30.690,54   25      7.672,63      23.419,03     156,23         719,64
+0601 Adic. B. Amarela                                                        1.011,39      1.011,39   25        252,85         771,75       5,15          23,71
+0601 Adic. B. Vermelha                                                       1.495,97      1.495,97   25        373,99       1.141,53       7,61          35,08
+     LANÇAMENTOS E SERVIÇOS
+0806 PARCELAMENTO DE DÉBITO 12/24                                            1.045,73                 0          0,00            0,00        0,00          0,00
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:      34.243,63     33.197,90           8.299,47      25.332,31     168,99         778,43
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   135407-2021-1-7           23/02/2021         58183163     R$ 34.243,63
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

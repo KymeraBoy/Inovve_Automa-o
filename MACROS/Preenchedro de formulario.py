@@ -95,8 +95,8 @@ def preencher_formulario(dados):
 
     # Coordenadas do Município
     inserir_dado("Municipio - Nome Formatado", dados['mun_nome_formatado'], 600, 460)
-    inserir_dado("Municipio - Telefone", dados['mun_telefone'], 600, 570)
     inserir_dado("Municipio - E-mail", dados['mun_email'], 1500, 460)
+    inserir_dado("Municipio - Telefone", dados['mun_telefone'], 600, 570)
     inserir_dado("Municipio - CNPJ", dados['mun_cnpj'], 1500, 570)
 
     # Coordenadas da Empresa (Nome = RepresentanteEmpresa)
@@ -108,13 +108,13 @@ def preencher_formulario(dados):
     pyautogui.press("pagedown")
     time.sleep(0.5)
 
-    inserir_dado("Iluminação Pública", "Iluminação Pública", 600, 320)
+    inserir_dado("Iluminação Pública", "Poder Público", 600, 320)
     inserir_dado("Grupo Tarifário", "B", 1200, 320)
     inserir_dado("Grupo Tarifário", "Manifestar-se por falta de resposta da concessionária", 500, 820)
 
     pyautogui.click(500, 900) # Selecionar Endereço
     time.sleep(0.5)
-    pyautogui.press("S")
+    pyautogui.press("E")
     time.sleep(0.5)
     pyautogui.press("Enter")
     time.sleep(0.5)
@@ -137,7 +137,8 @@ def preencher_formulario(dados):
     time.sleep(0.5)
     pyautogui.press("pagedown")
     time.sleep(0.5)
-    inserir_dado("Iluminação Pública", "Prezado Ouvidor, \nA presente reclamação é direcionada à ENERGISA PARAIBA e refere-se à RECLAMAÇÃO 002/2026, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido. \nRessalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).\nDessa forma, solicita-se a atuação dessa Ouvidoria para que a ENERGISA PARAIBA apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.", 500, 300)
+    # inserir_dado("Iluminação Pública", "Prezado Ouvidor, \nA presente reclamação é direcionada à ENERGISA PARAIBA e refere-se à RECLAMAÇÃO 002/2026, diante da ausência de resposta à solicitação previamente registrada junto à concessionária dentro do prazo estabelecido. \nRessalta-se, ainda, a necessidade de que tanto a distribuidora quanto a ANEEL observem e cumpram integralmente as disposições constantes do Parecer nº 103/2026 (ANEXO).\nDessa forma, solicita-se a atuação dessa Ouvidoria para que a ENERGISA PARAIBA apresente resposta conclusiva à reclamação, adotando as providências necessárias em estrita conformidade com o conteúdo do referido Parecer.", 500, 300)
+    inserir_dado("Iluminação Pública", "Prezado ouvidor, Esta reclamação é direcionada à Energisa Paraíba Referente a REC 00/2026 de Salgado de São Félix, em razão da ausência de resposta à solicitação previamente registrada junto à concessionária, dentro do prazo esperado.", 500, 300)
 
 
     print("\n--- PREENCHIMENTO CONCLUIDO ---")

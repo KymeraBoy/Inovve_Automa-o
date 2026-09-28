@@ -1,0 +1,86 @@
+DOMICÍLIO DE ENTREGA
+P.M.DE VISTA SERRANA - AÇÃO SOCIAL
+RUA ABÍLIO GARCIA S/N - CEP:58710000 - CENTRO
+VISTA SERRANA PB (AG: 118)
+
+
+
+
+DOM. BANC.:                                     DOM. ENT.: 9999128003
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: TRIFASICO
+PM VISTA SERRANA POSTO MEDICO
+
+RUA ABILIO GARCIA DE ARAUJO, S/N - 58710000
+
+
+CENTRO
+VISTA SERRANA (AG: 118)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-94
+Insc. Est.:
+Agosto / 2026   23/09/2026   R$ 537,30
+- Conheça seus direitos e deveres. Acesse: www.energisa.com.br/direitos-e-deveres
+                                                                         Preço unit (R$)                     PIS/   Base Calc. % Alíq.    ICMS        Tarifa
+Itens da Fatura                                      Unid.    Quant.       com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS         (R$)    Unit (R$)
+Consumo em kWh                                      KWH       2.115,00       0,930630      1.968,31      145,65       1.968,31   20      393,66    0,675650
+Energia Atv Injetada GDII oUC 8/2026 mPT            KWH       2.115,00       0,815120      -1.723,99     -145,65       -746,70   20      -149,34   0,675650
+Ajuste GDII - TRF Reduzida(Lei 14.300/22) - Conv.   KWH       2.115,00       0,141600        299,50        0,00           0,00   0         0,00    0,141608
+Subsídio SCEE                                                                                657,79        0,00           0,00   0         0,00
+LANÇAMENTOS E SERVIÇOS
+Devolução Subsídio SCEE                                                                     -657,79        0,00           0,00   0         0,00
+IMPOSTO DE RENDA PPE/PPM                                                                       -6,52       0,00           0,00             0,00
+
+
+
+
+                                                             TOTAL:                          537,30        0,00       1.221,61           244,32
+00009078165   Energia ativa em kWh   Ponta   172892   175007   1   2115
+        CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0000453047-3
+           Esta NOTA FISCAL/CONTA DE ENERGIA fica disponível para pagamento a partir de 03/09/2026
+
+
+                                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA                              VENCIMENTO                            Nº FATURA           TOTAL A PAGAR
+  453047-2026-8-9                             23/09/2026                          9157514              R$ 537,30
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 03/09/2026
+27/07/2026   26/08/2026   30   25/09/2026
+1.049.661.053-26
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS           0,00    1,6500       0,00
+COFINS        0,00    7,6000       0,00
+ICMS      1.221,61     20,00     244,32
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/26                30
+              JUL/26                31
+              JUN/26                31
+              MAI/26                28
+Consumo kWh
+
+
+
+
+              ABR/26                33
+              MAR/26                29
+              FEV/26                29
+              JAN/26                29
+              DEZ/25                32
+              NOV/25                30
+              OUT/25                32
+              SET/25                30
+              AGO/25                30
+1.221,61                 244,32
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997

@@ -1,0 +1,53 @@
+PM DESTERRO CASA DE APOIO
+
+DOMICÍLIO DE ENTREGA
+PM DESTERRO CASA DE APOIO
+RUA CÔNEGO FLORENTINO 01 01
+DESTERRO (AG: 118)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 003 - 0118 - 065 - 1120                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00008419215                            DOM. BANC.:
+MATRÍCULA: 18611-2021-12-3                             DOM. ENT.: 9999139001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA ESC RUI BARBOSA, 85
+CENTRO
+PATOS (AG: 118)
+
+
+
+                                                                     0000018611-4
+5/18611-4
+              R$ 297,82
+
+
+              Dezembro/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+23/01/2022
+               9,09 kWh
+             MÉDIA DIÁRIA
+291 kWh
+08/12/2021   04/01/2022   07/01/2022
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,6671%)     (3,0729%)
+0601 Consumo em kWh                        291,00    0,596920    0,826800      240,60        240,60   25      60,15         180,45        1,21          5,54
+0601 Adic. B. Amarela                                                           44,64         44,64   25      11,16          33,48        0,22          1,03
+0601 Adic. B. Vermelha                                                          12,58         12,58   25       3,14           9,43        0,06          0,29
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         297,82        297,82           74,45         223,36        1,49          6,86
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+   18611-2021-12-3           23/01/2022         75725545      R$ 297,82
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

@@ -83,6 +83,9 @@ def validar_documento(documento: Documento) -> list[str]:
     subtipo = extrair_subtipo_normalizado(documento.subtipo)
 
     if "PERDA_NOS_REATORES" in subtipo:
+        tipos = {str(item).strip().lower() for item in documento.tipos_perda_reatores if str(item).strip()}
+        if not tipos:
+            erros.append("Selecione ao menos um tipo de perda para Perda nos Reatores.")
         if not documento.periodo_qip.strip():
             erros.append("Periodo/QIP nao informado para Perda nos Reatores.")
         if not documento.valor_faturamento.strip():
@@ -92,8 +95,14 @@ def validar_documento(documento: Documento) -> list[str]:
                 parse_monetario_br(documento.valor_faturamento)
             except ValueError:
                 erros.append("Valor de faturamento invalido para Perda nos Reatores.")
-        if not (_campo_imagem_preenchido(documento, "vapor") or _campo_imagem_preenchido(documento, "fluorescente")):
-            erros.append("Informe ao menos uma imagem (vapor ou fluorescente) para Perda nos Reatores.")
+        if "fluorescente" in tipos and not _campo_imagem_preenchido(documento, "fluorescente"):
+            erros.append("Informe a imagem de fluorescentes para Perda nos Reatores.")
+        if "sodio" in tipos and not _campo_imagem_preenchido(documento, "vapor"):
+            erros.append("Informe a imagem de vapor para Perda nos Reatores quando houver perda de sódio.")
+        if "metalica" in tipos and not _campo_imagem_preenchido(documento, "vapor"):
+            erros.append("Informe a imagem de vapor para Perda nos Reatores quando houver perda metálica.")
+        if not tipos.intersection({"sodio", "metalica", "fluorescente"}):
+            erros.append("Tipos de perda em reatores invalidos ou nao selecionados.")
 
     if "PERDA_POR_TRANSFORMACAO" in subtipo:
         obrigatorias = ["identificacao", "comprovacao", "consumo", "faturamento"]

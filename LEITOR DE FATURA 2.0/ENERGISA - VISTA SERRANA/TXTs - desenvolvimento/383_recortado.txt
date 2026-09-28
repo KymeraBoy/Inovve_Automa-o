@@ -1,0 +1,56 @@
+PM DESTERRO UNIDADE EDUCACIONAL ESCOLA
+
+DOMICÍLIO DE ENTREGA
+PM DESTERRO UNIDADE EDUCACIONAL ESCOLA
+RUA CÔNEGO FLORENTINO 01
+DESTERRO (AG: 133)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO / POD. PÚB. MUNICIPAL
+ROTEIRO: 006 - 0139 - 530 - 8761                         LIGAÇÃO: MONOFASICO
+Nº DO MEDIDOR: 00009082914                            DOM. BANC.:
+MATRÍCULA: 1915859-2021-6-2                            DOM. ENT.: 9999139001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+CJ DA GUADALUPE, S/N
+GUADALUPE
+DESTERRO (AG: 133)
+
+
+
+                                                                     0001915859-1
+5/1915859-1
+              R$ 252,51
+
+
+              Junho/2021
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+23/07/2021
+              10,17 kWh
+             MÉDIA DIÁRIA
+295 kWh
+ FATURAS EM ATRASO
+23/04/2021     220,92
+23/05/2021     254,58
+23/06/2021     265,18
+11/06/2021   02/07/2021   12/07/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (0,8621%)     (3,9711%)
+0601 Consumo em kWh                        295,00    0,562110    0,787530      232,32        232,32   25      58,08         174,24        1,50          6,92
+0601 Adic. B. Vermelha                                                          20,19         20,19   25       5,04          15,13        0,13          0,60
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         252,51        252,51           63,12         189,37        1,63          7,52
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  1915859-2021-6-2           23/07/2021         65622863      R$ 252,51
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

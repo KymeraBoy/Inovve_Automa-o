@@ -1,0 +1,143 @@
+\documentclass[12pt,a4paper]{article}
+
+% ============================================================
+% CONFIGURAÇÃO DA PÁGINA
+% ============================================================
+\usepackage[
+    a4paper,
+    left=2cm,
+    right=2cm,
+    top=0.3cm,
+    bottom=0.6cm,
+    includehead,
+    includefoot,
+    headheight=2.5cm,
+    headsep=0.3cm,
+    footskip=1cm
+]{geometry}
+
+
+% ============================================================
+% IDIOMA E CODIFICAÇÃO
+% ============================================================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+
+
+% ============================================================
+% FONTE
+% ============================================================
+\usepackage{iftex}
+
+\ifPDFTeX
+    \usepackage{mathptmx}
+\else
+    \usepackage{fontspec}
+    \setmainfont{Georgia}
+\fi
+
+
+% ============================================================
+% PACOTES
+% ============================================================
+\usepackage{enumitem}       % Configuração de listas
+\usepackage{graphicx}       % Imagens
+\usepackage{fancyhdr}       % Cabeçalho e rodapé
+\usepackage{setspace}       % Espaçamento entre linhas
+\usepackage{titlesec}       % Formatação dos títulos
+\usepackage{booktabs}       % Tabelas
+
+
+% ============================================================
+% CONFIGURAÇÕES GERAIS
+% ============================================================
+\setstretch{1.5}
+
+\setlength{\parindent}{0pt}
+
+
+% ============================================================
+% CAMINHO DAS IMAGENS
+% ============================================================
+\graphicspath{{../}}
+
+
+% ============================================================
+% FORMATAÇÃO DAS SEÇÕES
+% ============================================================
+\titleformat{\section}
+    {\normalfont\bfseries\fontsize{12}{14}\selectfont}
+    {\thesection.}
+    {0.5em}
+    {}
+
+
+% ============================================================
+% CONFIGURAÇÃO DAS LISTAS
+% ============================================================
+\setlist[enumerate]{
+    leftmargin=*,
+    labelsep=0.5em
+}
+
+
+% ============================================================
+% CABEÇALHO E RODAPÉ
+% ============================================================
+\pagestyle{fancy}
+
+\fancyhf{}
+
+% Cabeçalho
+\fancyhead[C]{%
+    \includegraphics[height=2.5cm]{Header_Ruda.png}%
+}
+
+% Rodapé
+\fancyfoot[C]{%
+    \footnotesize
+    \begin{tabular}{c}
+        Fone: (88) 98115.4459 - (88) 2148-1570 /
+        E-mail: rpbsociedade.advocacia@gmail.com \\[2pt]
+        Avenida Francisco Maciel, N° 1659, Centro,
+        CEP: 63430-000 -- ICÓ/CE
+    \end{tabular}%
+}
+
+% Remove a linha do cabeçalho
+\renewcommand{\headrulewidth}{0pt}
+
+% Linha do rodapé
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+% ============================================================
+% VARIÁVEIS
+% ============================================================
+\providecommand{\ExibirUnidadeConsumidora}{1}
+
+
+% ============================================================
+% CITAÇÕES
+% ============================================================
+\newcommand{\Citacao}[1]{%
+    \begin{list}{}{%
+        \setlength{\leftmargin}{4cm}%
+        \setlength{\rightmargin}{0cm}%
+        \setlength{\topsep}{\baselineskip}%
+        \setlength{\partopsep}{0pt}%
+        \setlength{\parsep}{0pt}%
+        \setlength{\itemsep}{0pt}%
+    }
+        \item[]
+        {%
+            \begingroup
+                \scriptsize
+                \setstretch{1}
+                \selectfont
+                #1\par
+            \endgroup
+        }
+    \end{list}%
+}

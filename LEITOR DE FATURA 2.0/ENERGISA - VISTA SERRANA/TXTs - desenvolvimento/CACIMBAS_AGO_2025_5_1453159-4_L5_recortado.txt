@@ -1,0 +1,80 @@
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE DESTERRO
+RUA CÔNEGO FLORENTINO 01 - CEP:58695000 - CENTRO
+DESTERRO PB (AG: 133)
+
+ROTEIRO: 010 - 0140 - 721 - 3290
+MATRÍCULA: 1453159-2025-8-2
+DOM. BANC.:                                   DOM. ENT.: 9999139001
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO / POD. PÚB. MUNICIPAL                             LIGAÇÃO: MONOFASICO
+PM DESTERRO POSTO MEDICO COMUNIDADE
+DE APARECIDA
+SIT APARECIDA, S/N - 58698000
+
+
+SAO SEBASTIAO
+CACIMBAS (AG: 133)
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Agosto / 2025   23/09/2025   R$ 25,71
+                                             Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura            Unid.    Quant.     com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Custo de Disponibilidade                                          23,28        0,97          23,28   20       4,65
+Adic. B. Vermelha                                                  1,55        0,06           1,55   20       0,31
+Adic. B. Vermelha                                                  0,88        0,04           0,88   20       0,18
+
+
+
+
+                                   TOTAL:                         25,71        1,07          25,71            5,14
+W5144011184   Energia ativa em kWh   Ponta   742   768   1   26
+                       NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA          VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+  1453159-2025-8-2      23/09/2025       6208899         R$ 25,71
+
+FATURAMENTO AGRUPADO
+Data de Apresentação: 03/09/2025
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0001453159-4
+15/07/2025   15/08/2025   31   15/09/2025
+5/1453159-4
+
+W5144011184
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS          20,54    0,9383      0,19
+COFINS       20,54    4,3217      0,88
+ICMS         25,71     20,00      5,14
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              AGO/25                31
+              JUL/25                32
+              JUN/25                29
+              MAI/25                30
+Consumo kWh
+
+
+
+
+              ABR/25                28
+              MAR/25                29
+              FEV/25                32
+              JAN/25                30
+              DEZ/24                33
+              NOV/24                28
+              OUT/24                30
+              SET/24                32
+              AGO/24                30
+   25,71                   5,14
+
+
+
+
+Art. 13, Inciso VII do RICMS/PB - 1997

@@ -1,0 +1,135 @@
+--- BLOCO 1 [0.0, 0.0, 195.27, 90.56] ---
+DANF3E - DOCU
+                                       ENERGISA PARAIBA -
+                                       Br 230, Km 25 - Cristo
+                                       CNPJ 09.095.183 / 000
+
+
+
+DOMICÍLIO DE ENTREGA
+PREFEITURA MUNICIPAL DE VISTA SERRANA
+RUA ABÍLIO GARCIA SN - CEP:58710000 - CENTRO
+VISTA SERRANA PB (AG: 118)
+.
+- -Violência contra a mulher é crime. Não se cale. Denuncie. Ligu
+- Imóvel fechado sem acesso ao medidor - Seção V Capitulo IX -
+
+--- BLOCO 2 [0.0, 107.54, 367.9, 608.51] ---
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+         PÚBLICO / POD. PÚB. MUNICIPAL                                          LIGAÇÃO: MONOFASICO
+
+
+         TENSÃO NOMINAL EM VOLTS         DISP:                     Lim. Min.: 202              Lim. Max.: 231
+
+
+         PM VISTA SERRANA ACOUGUE                                                                                                                    27/
+
+         RUA JOAO FRANCISCO FILHO, S/N - 58710000
+
+
+         CENTRO                                                                                271.217.053-84
+         VISTA SERRANA (AG: 118)
+
+
+         CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-94
+         Insc. Est.:
+
+
+
+
+                   Agosto / 2026                         23/09/2026                            R$ 429,08
+
+     - Comunicamos que por falta de acesso ao equipamento de medição, NÃO FOI POSSÍVEL REALIZAR A COLETA DA LEITURA. O acesso ao medidor gara
+     pela média e consumos acumulados. Notificamos a necessidade de liberar o acesso ao local da medição, caso contrário, o fornecimento de energia poder
+     Conheça seus direitos e deveres. Acesse: www.energisa.com.br/direitos-e-deveres
+
+
+
+
+                                                                                Preço unit (R$)                        PIS/     Base Calc. % Alíq.
+Itens da Fatura                                         Unid.         Quant.      com tributos       Valor (R$) COFINS (R$)     ICMS (R$) ICMS
+Consumo em kWh                                        KWH              454,00       0,930630           422,51       31,27           422,51     20
+Adic. B. Amarela                                                                                         11,78       0,86             11,78    20
+LANÇAMENTOS E SERVIÇOS
+IMPOSTO DE RENDA PPE/PPM                                                                                 -5,21       0,00              0,00
+
+
+
+
+                                                                    TOTAL:                             429,08       32,13           434,29
+
+
+
+
+    00000522379        Energia ativa em kWh         Ponta                9799          10253              1         454           Art. 13, Inciso VII do RIC
+
+
+
+
+                               CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 0000453018-4
+    DIC            12,00      0,00   999,00    999,00   AGO/26     454,00 *
+    FIC             4,00      0,00   999,00    999,00   JUL/26     453,00 *
+    DMIC            9,00      0,00                      JUN/26     453,00 *
+    DICRI          13,00                                MAI/26     450,00 *
+                                                        ABR/26     472,00
+    Conjunto:       MALTA                               MAR/26     375,00
+                                                        FEV/26     456,00 *
+    Referência:                             06/2026     JAN/26     480,00
+    Tensão Contratada:                                  DEZ/25     452,00 *
+    Limite Adequado:                    202 a 231       NOV/25     451,00
+                                                        OUT/25     500,00
+                                                        SET/25     447,00 *
+                                                        AGO/25     470,00
+
+
+
+                                                                  *FATURAMENTO PELA MÉDIA/MÍNIMO
+
+
+                                                                                      Leitura Anterior: 27/07/2026      Leitura Atual:
+
+
+
+Serviço de distribuição                       102,10     23,51   KWH    Ponta         10.253,00       9.799,00       1,00
+Compra de energia                             154,56     35,59
+Serviço de transmissão                         19,68      4,53
+Encargos setoriais                             38,97      8,97
+Impostos diretos e encargos                    118,98    27,40
+Outros serviços                                  0,00     0,00
+Total                                         434,29    100,00
+Encargo de Uso do Sistema de Distribuição
+(Ref 06/2026): R$ 106,92
+
+--- BLOCO 3 [0.0, 611.28, 215.08, 716.01] ---
+Esta NOTA FISCAL/CONTA DE ENERGIA fica dispo
+
+
+                                         NOTA FI
+
+
+
+    MATRÍCULA                            VENCIME
+  453018-2026-8-0                           23/09/2
+
+FATURAMENTO AGRUPADO
+
+--- BLOCO 4 [215.08, 611.28, 367.9, 716.01] ---
+onível para pagamento a partir de 03/09/2026
+
+
+ISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+ENTO                      Nº FATURA            TOTAL A
+2026                       9157507               R$ 4
+
+--- BLOCO 5 [0.0, 713.16, 274.51, 826.36] ---
+
+
+--- BLOCO 6 [274.51, 713.16, 367.9, 826.36] ---
+
+
+--- BLOCO 7 [0.0, 832.02, 367.9, 945.22] ---
+
+

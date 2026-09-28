@@ -1,0 +1,60 @@
+PM AGUIAR IGREJA SAO SEBASTIAO
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR IGREJA SAO SEBASTIAO
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 410 - 0120                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000830658                          DOM. BANC.:
+MATRÍCULA: 136687-2020-12-2                          DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA IRINEU LACERDA, S/N
+CENTRO
+AGUIAR (AG: 144)
+
+
+
+                                                                   0000136687-1
+5/136687-1
+          R$ 415,69
+
+
+          Dezembro/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-92
+Insc. Est.: 00XXXXXX
+23/01/2021
+              16,40 kWh
+             MÉDIA DIÁRIA
+492 kWh
+                               FATURAS EM ATRASO
+                              23/12/2020     465,21
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+27/01/2021.
+Regularize seus débitos.
+17/12/2020   12/01/2021   14/01/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.    ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS       (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
+0601 Consumo em kWh                        492,00    0,562110    0,797710      392,48        392,48   25       98,12         300,19        3,17         14,63
+0601 Adic. B. Vermelha                                                          23,21         23,21   25        5,80          17,75        0,19          0,86
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         415,69        415,69           103,92         317,94        3,36         15,49
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  136687-2020-12-2           23/01/2021         55634545      R$ 415,69
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

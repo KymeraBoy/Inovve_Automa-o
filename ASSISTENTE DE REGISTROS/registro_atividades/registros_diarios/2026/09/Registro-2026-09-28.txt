@@ -1,0 +1,70 @@
+REGISTRO DO DIA
+2026-09-28
+
+==================================================
+INFORMAÇÕES
+==================================================
+
+Área destinada para:
+
+- Nenhuma prioridade para hoje: Fluxo comum
+- Nova Ibiá - Deixar data para 07 de agosto - reclamação de taxa da cip
+
+
+==================================================
+ATIVIDADES
+==================================================
+
+Nesta área ficarão armazenadas todas as atividades registradas automaticamente.
+
+12:29
+
+Leitura de e-mails
+
+RUDA
+- Todos os protocolos abertos do município de Pombal na ANEEL, referentes a reclamações que ficaram sem resposta, foram concluídos por uma serie de motivos bem rasos.
+
+HLA
+- Apenas um aviso informando dos prazos de pagamento das reclamações de Custo disponibilidade de Ribeirão
+
+13:09
+Enviando a reclamação de Nova Ibia de Taxa da CIP para o João, corrigida.
+
+--------------------------------------------------
+
+14:13
+
+Pasta de Lagoa Tapada organizada
+
+--------------------------------------------------
+
+14:32
+
+REC 008/2025 - Riacho dos cavalos passado para a ANEEL
+
+--------------------------------------------------
+
+14:45
+
+REc 004/2025 - Pombal - Passada  ANEEL
+
+--------------------------------------------------
+
+16:03
+
+Coisas que faltam na janela principal do teser
+
+Chat adicione os seguintes itens na janela principal:
+
+- Caixa seletora de Teses: Ao lado da caixa seletora do tipo de tese(Reclamação, Requerimento ou Ofício) existe uma caixa seletora, as opções dela devem corresponder a uma lista, essa lista é composta pelos nomes dos arquivos .tex de uma das subpastas da pasta ARQUIVOS, no caso elas correspondem as opções de tipos de tese(Reclamação, Requerimento ou Ofício), ou seja se o tipo de tese escolhido for por exemplo reclamações, o conteúdo da caixa seletores de teses deve ser uma lista com os nomes dos arquivos .tex da subpasta REC (Que esta dentro da pasta ARQUIVOS).
+- Seletor de código: Cada documento possui um código formado por um número de contagem e um ano (Ex: 001/2026) a forma como esse código deve ser inserido na é por meio de um contador ao lado da caixa seletora de tipos de teses, que deve possuir dois botões para manipulação sem que haja necessidade de digitar o número (mas também deve oferecer a opção de poder digitar o número, para o caso dele ser muito grande), o ano deve ser determinado por uma caixa seletora, ela deve possuir uma lista de anos, em ordem decrescente, começando sempre pelo ano atual, como default, e para não haver exagero vamos por apenas 3 anos nela (2026, 2025 e 2024). Só para fins de exclarecimento esses dois itens que formam o código do documento devem estar na mesma linha da caixa seletora dos tipos de tese e demais componentes até então.
+- Caixa para a UC: Ela é uma ciaxa de texto onde será posta a UC que a tese foca, por defalt sempre que a caixa de seleção do município for atualizada, o conteúdo da caixa da UC deve ser atualizado para a UC da IP estimada do município selecionado na caixa seletora do município (A UC da ip estimada é uma ddas informações que vem na planilha de dados que fica na pasta DADOS). Apesar disso ela deve funcionar como uma caixa de texto comum para que o usuário insira o código da UC que será tratada caso não seja a UC da IP estimada.
+- Cabeçalho: Deve haver um cabeçalho acima de todos os elementos da linha de fila de tese indicando o tipo de informação que elas carregam (como município, empresa, concessionária, UC, Tipo de tese, Tese)
+
+Parte 2
+
+--------------------------------------------------
+
+--------------------------------------------------
+NOVA ATIVIDADE
+--------------------------------------------------

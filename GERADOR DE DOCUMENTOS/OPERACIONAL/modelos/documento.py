@@ -47,6 +47,7 @@ class Documento:
     ajuste_explicacao_data_inicial: str = ""
     ajuste_explicacao_data_final: str = ""
     imagens: dict[str, str] = field(default_factory=dict)
+    tipos_perda_reatores: list[str] = field(default_factory=list)
     ofi_item_flags: dict[str, bool] = field(default_factory=dict)
     info_adicional: str = ""
     status: str = STATUS_AGUARDANDO
@@ -86,6 +87,7 @@ class Documento:
             "ajuste_explicacao_data_inicial": self.ajuste_explicacao_data_inicial,
             "ajuste_explicacao_data_final": self.ajuste_explicacao_data_final,
             "imagens": dict(self.imagens),
+            "tipos_perda_reatores": list(self.tipos_perda_reatores),
             "ofi_item_flags": dict(self.ofi_item_flags),
             "info_adicional": self.info_adicional,
             "status": self.status,
@@ -127,6 +129,7 @@ class Documento:
             ajuste_explicacao_data_inicial=str(data.get("ajuste_explicacao_data_inicial", "")),
             ajuste_explicacao_data_final=str(data.get("ajuste_explicacao_data_final", "")),
             imagens=dict(data.get("imagens", {}) or {}),
+            tipos_perda_reatores=[str(item).strip().lower() for item in list(data.get("tipos_perda_reatores", []) or []) if str(item).strip()],
             ofi_item_flags={str(chave): bool(valor) for chave, valor in dict(data.get("ofi_item_flags", {}) or {}).items()},
             info_adicional=str(data.get("info_adicional", "")),
             status=str(data.get("status", STATUS_AGUARDANDO)) or STATUS_AGUARDANDO,

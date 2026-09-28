@@ -1,0 +1,60 @@
+PM AGUIAR
+
+DOMICÍLIO DE ENTREGA
+PM AGUIAR
+RUA BOA VISTA SN
+AGUIAR (AG: 144)
+
+GRUPO/SUBGRP.: MTC-CONVENCIONAL BAIXA TENSÃO / B3
+CLASSE/SUBCLS.: PODER PÚBLICO/POD. PÚB. MUNICI
+ROTEIRO: 009 - 0149 - 400 - 0840                       LIGAÇÃO: TRIFASICO
+Nº DO MEDIDOR: 00000307565                          DOM. BANC.:
+MATRÍCULA: 136378-2020-12-8                          DOM. ENT.: 9999149001
+
+
+
+ENDEREÇO DA UNIDADE CONSUMIDORA
+RUA BOA VISTA, 8
+CENTRO
+AGUIAR (AG: 144)
+
+
+
+                                                                   0000136378-7
+5/136378-7
+          R$ 356,56
+
+
+          Dezembro/2020
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.: 00XXXXXX
+23/01/2021
+              14,07 kWh
+             MÉDIA DIÁRIA
+422 kWh
+                               FATURAS EM ATRASO
+                              23/12/2020     498,44
+Sujeito a corte!
+ Reaviso de vencimento:
+Seu fornecimento poderá ser
+suspenso a partir de
+27/01/2021.
+Regularize seus débitos.
+17/12/2020   12/01/2021   14/01/2021
+                                                    TARIFA SEM TARIFA COM      VALOR     BASE CALC. % ALÍQ.   ICMS      BASE CALC.     PIS (R$)   COFINS (R$)
+CCI   DESCRIÇÃO                        QUANTIDADE     TRIBUTOS   TRIBUTOS   TOTAL (R$)     ICMS (R$) ICMS      (R$) PIS/COFINS (R$)   (1,0578%)     (4,8723%)
+0601 Consumo em kWh                        422,00    0,562110    0,797710      336,63        336,63   25      84,16         257,49        2,72         12,54
+0601 Adic. B. Vermelha                                                          19,93         19,93   25       4,98          15,24        0,16          0,74
+
+
+
+
+CCI: Código de Classificação do Item                            TOTAL:         356,56        356,56           89,14         272,73        2,88         13,28
+                           NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+    MATRÍCULA              VENCIMENTO           Nº FATURA   TOTAL A PAGAR
+  136378-2020-12-8           23/01/2021         55634535      R$ 356,56
+
+>>> CONTA VÁLIDA SOMENTE PARA CONFERÊNCIA <<<

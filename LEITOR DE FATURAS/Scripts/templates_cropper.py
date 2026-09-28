@@ -6,172 +6,171 @@ def recortes(coords):
 TEMPLATES = {
     "ENEL": {
         "RESUMO": [
-            recortes((5.29, 19.41, 81.19, 15.88)),    # DADOS_DO_CLIENTE
-            recortes((5.29, 35.65, 135.90, 70.60)),   # VALORES_DO_FATURAMENTO
-            recortes((84.72, 213.55, 17.65, 10.59)),  # GRUPO
-            recortes((88.25, 19.41, 54.71, 15.88)),   # DATAS
-            recortes((142.96, 19.41, 63.54, 75.89)),  # VALORES
+            [14.9707, 54.9303, 244.7384, 99.8707],     # DADOS_DO_CLIENTE
+            [14.9707, 100.8895, 399.5657, 300.6895],   # VALORES_DO_FATURAMENTO
+            [239.7576, 604.3465, 289.7081, 634.3161],  # GRUPO
+            [249.7455, 54.9303, 404.5713, 99.8707],    # DATAS
+            [404.5868, 54.9303, 584.4066, 269.6993],   # VALORES
         ],
         "INDIVIDUAL_FRENTE": [
-            recortes((15.88, 24.71, 52.95, 8.82)),    # CLASSIFICACAO_DO_CLIENTE
-            recortes((69.89, 24.36, 26.47, 8.82)),    # TIPO_DE_FORNECIMENTO
-            recortes((98.13, 24.71, 97.07, 8.82)),    # DATAS_DE_LEITURA
-            recortes((69.89, 36.00, 26.47, 20.47)),   # UNIDADE_CONSUMIDORA
-            recortes((15.88, 57.89, 80.83, 8.82)),    # TOTAL_A_PAGAR
-            recortes((15.88, 34.59, 52.95, 20.47)),   # LOCALIZACAO
-            recortes((123.54, 109.07, 33.53, 35.30)), # TRIBUTOS
-            recortes((158.14, 109.07, 37.06, 38.83)), # CONSUMO
-            recortes((15.18, 109.42, 106.95, 82.95)), # DADOS_DO_FATURAMENTO
+            [44.9404, 69.9293, 194.7889, 94.8889],     # CLASSIFICACAO_DO_CLIENTE
+            [197.7887, 68.9388, 272.7081, 93.8988],    # TIPO_DE_FORNECIMENTO
+            [277.7079, 69.9293, 552.4161, 94.8889],    # DATAS_DE_LEITURA
+            [197.7887, 101.88, 272.7081, 159.8099],    # UNIDADE_CONSUMIDORA
+            [44.9404, 163.8287, 273.6893, 188.7887],   # TOTAL_A_PAGAR
+            [44.9404, 97.8897, 194.7889, 155.8197],    # LOCALIZACAO
+            [349.6182, 308.6681, 444.5081, 408.5661],  # TRIBUTOS
+            [447.5362, 308.6681, 552.4162, 418.5569],  # CONSUMO
+            [42.9594, 309.6586, 345.6279, 544.4221],   # DADOS_DO_FATURAMENTO
         ],
     },
     "ENERGISA": {
         "L1": [
-            recortes((0, 0, 69, 32)),      # DOMICILIO, CLIENTE, SUBGRUPO, CLASSE, MEDIDOR E FORNECIMENTO
-            recortes((0, 38, 130, 177)),   # BLOCO PRINCIPAL
-            recortes((0, 216, 76, 37)),    # INDICADORES DE QUALIDADE
-            recortes((76, 216, 54, 37)),   # COMPOSICAO DO CONSUMO
-            recortes((0, 252, 97, 40)),    # ATENCAO
-            recortes((97, 252, 33, 40)),   # FATURAS EM ATRASO
-            recortes((0, 294, 130, 40)),   # DADOS FISCAIS
+            [0.0, 0.0, 195.27, 90.56],                 # DOMICILIO, CLIENTE, SUBGRUPO, CLASSE, MEDIDOR E FORNECIMENTO
+            [0.0, 107.54, 367.9, 608.51],              # BLOCO PRINCIPAL
+            [0.0, 611.28, 215.08, 716.01],             # INDICADORES DE QUALIDADE
+            [215.08, 611.28, 367.9, 716.01],           # COMPOSICAO DO CONSUMO
+            [0.0, 713.16, 274.51, 826.36],             # ATENCAO
+            [274.51, 713.16, 367.9, 826.36],            # FATURAS EM ATRASO
+            [0.0, 832.02, 367.9, 945.22],              # DADOS FISCAIS
         ],
         "L2": [
-            recortes((0, 0, 82.81, 31)),            # MUNICIPIO, CLASSIFICACAO E FASES
-            recortes((66.50, 19.78, 56.73, 12)),    # UNIDADE CONSUMIDORA
-            recortes((7.54, 40, 56.61, 26.49)),     # REFERENCIA E VALOR DA FATURA
-            recortes((65, 40, 56.61, 26.49)),       # VENCIMENTO E CONSUMO
-            recortes((0, 68, 127, 25)),             # SITUACAO DE DEBITOS
-            recortes((65, 158, 63, 35)),            # COMPOSICAO DO CONSUMO
-            recortes((0, 158.55, 33.82, 30.41)),    # HISTORICO DE CONSUMO
-            recortes((33.82, 162.41, 30.41, 20)),   # DADOS DE MEDICAO
-            recortes((0, 96.56, 130.23, 57.47)),    # DADOS DO FATURAMENTO
-            recortes((0, 196.23, 100.22, 12.41)),   # INDICADORES DE QUALIDADE
-            recortes((0, 208, 130, 56)),            # ATENCAO
-            recortes((0, 267, 130, 56)),            # DADOS FISCAIS
+            [0.0, 0.0, 234.3523, 87.73],               # MUNICIPIO, CLASSIFICACAO E FASES
+            [188.195, 55.9774, 348.7409, 89.9374],     # UNIDADE CONSUMIDORA
+            [21.3382, 113.2, 181.5345, 188.1167],      # REFERENCIA E VALOR DA FATURA
+            [183.95, 113.2, 344.1463, 188.1167],       # VENCIMENTO E CONSUMO
+            [0.0, 192.44, 359.41, 263.25],             # SITUACAO DE DEBITOS
+            [183.95, 447.14, 362.24, 546.29],          # COMPOSICAO DO CONSUMO
+            [0.0, 448.6965, 95.7106, 534.7568],        # HISTORICO DE CONSUMO
+            [95.7106, 459.6203, 181.7709, 516.2203],   # DADOS DE MEDICAO
+            [0.0, 273.2648, 368.5511, 435.8949],       # DADOS DO FATURAMENTO
+            [0.0, 555.3309, 283.6226, 590.4512],       # INDICADORES DE QUALIDADE
+            [0.0, 588.64, 367.9, 747.12],              # ATENCAO
+            [0.0, 755.61, 367.9, 914.09],              # DADOS FISCAIS
         ],
         "L3": [
-            recortes((0, 0, 67, 33)),               # MUNICIPIO, CNPJ, MEDIDOR, FORNECIMENTO E CLASSE
-            recortes((0, 40, 62, 28)),              # REFERENCIA E VALOR DA FATURA
-            recortes((62, 40, 62, 28)),             # VENCIMENTO E CONSUMO
-            recortes((0, 70, 130, 27)),             # SITUACAO DE DEBITOS
-            recortes((65.55, 20.02, 56.36, 12)),    # UNIDADE CONSUMIDORA
-            recortes((65, 161, 64, 34)),            # COMPOSICAO DO CONSUMO
-            recortes((0, 161.76, 33.37, 31.24)),    # HISTORICO DE CONSUMO
-            recortes((34.31, 165.47, 30.57, 21.04)),# DADOS DE MEDICAO
-            recortes((0, 98.08, 130.06, 58.31)),    # DADOS DO FATURAMENTO
-            recortes((0, 199.80, 98.91, 12.51)),    # INDICADORES DE QUALIDADE
-            recortes((0, 212, 130, 56)),            # ATENCAO
-            recortes((0, 322, 130, 50)),            # DADOS FISCAIS
+            [0.0, 0.0, 189.61, 93.39],                 # MUNICIPIO, CNPJ, MEDIDOR, FORNECIMENTO E CLASSE
+            [0.0, 113.2, 175.46, 192.54],              # REFERENCIA E VALOR DA FATURA
+            [175.46, 113.2, 350.92, 192.54],           # VENCIMENTO E CONSUMO
+            [0.0, 198.1, 367.9, 274.51],               # SITUACAO DE DEBITOS
+            [185.5065, 56.6566, 345.0063, 90.6166],    # UNIDADE CONSUMIDORA
+            [183.95, 455.63, 365.07, 551.95],          # COMPOSICAO DO CONSUMO
+            [0.0, 457.7808, 94.4371, 546.1908],        # HISTORICO DE CONSUMO
+            [97.0973, 468.2801, 183.6102, 527.8201],   # DADOS DE MEDICAO
+            [0.0, 277.5664, 368.0698, 442.6937],       # DADOS DO FATURAMENTO
+            [0.0, 565.434, 279.9153, 600.8373],        # INDICADORES DE QUALIDADE
+            [0.0, 599.96, 367.9, 758.44],              # ATENCAO
+            [0.0, 911.26, 367.9, 1052.7],              # DADOS FISCAIS
         ],
         "L4": [
-            recortes((13.38, 18, 118, 22)),   # DOMICILIO DE ENTREGA
-            recortes((13.38, 39, 118, 9)),    # CLASSIFICACAO E FORNECIMENTO
-            recortes((13.38, 52, 67, 30)),    # CLIENTE
-            recortes((13.38, 82, 102, 13)),   # MES/ANO, VENCIMENTO E VALOR
-            recortes((13.38, 96, 175, 20)),   # INFORMACOES
-            recortes((0, 115, 150, 77)),      # ITENS DA FATURA
-            recortes((0, 191, 111, 21)),      # DADOS DE MEDICAO
-            recortes((0, 211, 188, 56)),      # DADOS FISCAIS
-            recortes((132, 18, 56, 30)),      # APRESENTACAO
-            recortes((116, 50, 72, 14)),      # DATAS DE LEITURA
-            recortes((80, 64, 35, 19)),       # CODIGO DO CLIENTE E INSTALACAO
-            recortes((150, 115, 40, 19)),     # IMPOSTOS
-            recortes((150, 136, 40, 54)),     # HISTORICO DE CONSUMO
-            recortes((111, 190, 77, 21)),     # RESERVADO AO FISCO
+            [37.8654, 50.94, 372.1354, 113.22],        # DOMICILIO DE ENTREGA
+            [37.8654, 110.37, 372.1354, 135.84],       # CLASSIFICACAO E FORNECIMENTO
+            [37.8654, 147.16, 227.4254, 232.06],       # CLIENTE
+            [37.8654, 232.06, 326.5254, 268.85],       # MES/ANO, VENCIMENTO E VALOR
+            [37.8654, 271.68, 533.2154, 328.28],       # INFORMACOES
+            [0.0, 325.45, 424.5, 543.36],              # ITENS DA FATURA
+            [0.0, 540.53, 314.13, 599.96],             # DADOS DE MEDICAO
+            [0.0, 597.13, 532.04, 755.61],             # DADOS FISCAIS
+            [373.56, 50.94, 532.04, 135.84],           # APRESENTACAO
+            [328.28, 141.5, 532.04, 181.12],           # DATAS DE LEITURA
+            [226.4, 181.12, 325.45, 234.89],           # CODIGO DO CLIENTE E INSTALACAO
+            [424.5, 325.45, 537.7, 379.22],            # IMPOSTOS
+            [424.5, 384.88, 537.7, 537.7],             # HISTORICO DE CONSUMO
+            [314.13, 537.7, 532.04, 597.13],           # RESERVADO AO FISCO
         ],
         "L4_VERSO": [
-            recortes((12, 6, 106, 46)),     # ATENCAO
-            recortes((12, 54, 43, 49)),     # INDICADORES DE QUALIDADE
-            recortes((12, 102, 52, 56)),    # COMPOSICAO DO CONSUMO
-            recortes((120, 6, 67, 46)),     # SITUACAO DE DEBITOS
-            recortes((56, 54, 130, 49)),    # CONSUMO DOS ULTIMOS 13 MESES
-            recortes((65, 102, 122, 56)),   # ESTRUTURA DO CONSUMO
+            [33.96, 16.98, 333.94, 147.16],            # ATENCAO
+            [33.96, 152.82, 155.65, 291.49],           # INDICADORES DE QUALIDADE
+            [33.96, 288.66, 181.12, 447.14],           # COMPOSICAO DO CONSUMO
+            [339.6, 16.98, 529.21, 147.16],            # SITUACAO DE DEBITOS
+            [158.48, 152.82, 526.38, 291.49],          # CONSUMO DOS ULTIMOS 13 MESES
+            [183.95, 288.66, 529.21, 447.14],          # ESTRUTURA DO CONSUMO
         ],
         "L5": [
-            recortes((9, 15, 102, 75)),      # DOMICILIO DE ENTREGA E CLIENTE
-            recortes((115, 58, 51, 12)),     # UNIDADE CONSUMIDORA
-            recortes((9, 89, 42, 35)),       # VALOR, REFERENCIA E CNPJ
-            recortes((52, 89, 50, 35)),      # VENCIMENTO, CONSUMO E RESERVADO AO FISCO
-            recortes((100, 89, 83, 21)),     # SITUACAO DE DEBITOS
-            recortes((100, 110, 93, 14)),    # DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA
-            recortes((9, 123, 173, 80)),     # DESCRITIVO
-            recortes((9, 204, 173, 71)),     # INFORMACOES FISCAIS
+            [25.47, 42.45, 314.13, 254.7],             # DOMICILIO DE ENTREGA E CLIENTE
+            [325.45, 164.14, 469.78, 198.1],           # UNIDADE CONSUMIDORA
+            [25.47, 251.87, 144.33, 350.92],           # VALOR, REFERENCIA E CNPJ
+            [147.16, 251.87, 288.66, 350.92],          # VENCIMENTO, CONSUMO E RESERVADO AO FISCO
+            [283.0, 251.87, 517.89, 311.3],            # SITUACAO DE DEBITOS
+            [283.0, 311.3, 546.19, 350.92],            # DATAS DE EMISSAO/APRESENTACAO/PROXIMA LEITURA
+            [25.47, 348.09, 515.06, 574.49],           # DESCRITIVO
+            [25.47, 577.32, 515.06, 778.25],           # INFORMACOES FISCAIS
         ],
         "L5_VERSO": [
-            recortes((12, 6, 100, 46)),     # ATENCAO
-            recortes((12, 54, 41, 49)),     # INDICADORES DE QUALIDADE
-            recortes((12, 102, 48.5, 56)),  # COMPOSICAO DO CONSUMO
-            recortes((110, 6, 67, 46)),     # CANAL DE CONTATO
-            recortes((52, 54, 130, 49)),    # CONSUMO DOS ULTIMOS 13 MESES
-            recortes((60, 102, 122, 56)),   # ESTRUTURA DO CONSUMO
+            [33.96, 16.98, 316.96, 147.16],            # ATENCAO
+            [33.96, 152.82, 150.0, 291.49],            # INDICADORES DE QUALIDADE
+            [33.96, 288.66, 171.215, 447.14],          # COMPOSICAO DO CONSUMO
+            [311.3, 16.98, 500.91, 147.16],            # CANAL DE CONTATO
+            [147.16, 152.82, 515.06, 291.49],          # CONSUMO DOS ULTIMOS 13 MESES
+            [169.8, 288.66, 515.06, 447.14],           # ESTRUTURA DO CONSUMO
         ],
         "L6": [
-            recortes((10, 0, 60, 34)),       # DOMICILIO DE ENTREGA
-            recortes((68, 0, 78, 34)),       # CLIENTE
-            recortes((10, 39, 184, 19)),     # REFERENCIA/APRESENTACAO/PROXIMA LEITURA/UC
-            recortes((10, 60, 184, 81)),     # DEMONSTRATIVO
-            recortes((10, 142, 62, 43)),     # COMPOSICAO DO CONSUMO
-            recortes((69, 142, 121, 43)),    # VENCIMENTO, TOTAL E RESERVADO AO FISCO
-            recortes((10, 190, 184, 76)),    # DADOS FISCAIS
+            [28.3, 0.0, 198.1, 96.22],                 # DOMICILIO DE ENTREGA
+            [192.44, 0.0, 413.18, 96.22],              # CLIENTE
+            [28.3, 110.37, 548.83, 164.14],            # REFERENCIA/APRESENTACAO/PROXIMA LEITURA/UC
+            [28.3, 169.8, 548.83, 399.03],             # DEMONSTRATIVO
+            [28.3, 401.86, 203.76, 523.55],            # COMPOSICAO DO CONSUMO
+            [195.27, 401.86, 537.7, 523.55],           # VENCIMENTO, TOTAL E RESERVADO AO FISCO
+            [28.3, 537.7, 548.83, 752.78],             # DADOS FISCAIS
         ],
         "L6_VERSO": [
-            recortes((10, 0, 69, 51)),      # CANAL DE CONTATO
-            recortes((10, 55, 128, 48)),    # CONSUMO DOS ULTIMOS 12 MESES
-            recortes((10, 108, 129, 48)),   # ESTRUTURA DO CONSUMO
-            recortes((76, 0, 32, 51)),      # FATURAS EM ATRASO
-            recortes((109, 0, 74, 51)),     # ATENCAO
-            recortes((139, 102, 42, 55)),   # INDICADORES DE QUALIDADE
+            [28.3, 0.0, 223.57, 144.33],               # CANAL DE CONTATO
+            [28.3, 155.65, 390.54, 291.49],            # CONSUMO DOS ULTIMOS 12 MESES
+            [28.3, 305.64, 393.37, 441.48],            # ESTRUTURA DO CONSUMO
+            [215.08, 0.0, 305.64, 144.33],             # FATURAS EM ATRASO
+            [308.47, 0.0, 517.89, 144.33],             # ATENCAO
+            [393.37, 288.66, 512.23, 444.31],          # INDICADORES DE QUALIDADE
         ],
         "L7": [
-            recortes((5.44, 34.34, 73.51, 27)),       # MUNICIPIO
-            recortes((7.64, 64.12, 102, 7.43)),       # REFERENCIA, VENCIMENTO E TOTAL
-            recortes((81.11, 38.22, 41.62, 20)),      # UNIDADE CONSUMIDORA E CODIGO DA INSTALACAO
-            recortes((6.40, 24.01, 71.29, 6.40)),     # CLASSIFICACAO
-            recortes((77.58, 24.01, 44.96, 6.40)),    # TIPO DE FORNECIMENTO
-            recortes((0, 109, 130, 37)),              # INFORMACOES
-            recortes((0, 147, 130, 15)),              # DATAS DE LEITURA
-            recortes((3.51, 165.50, 123.06, 47.08)),  # DADOS DO FATURAMENTO
-            recortes((64.15, 214.88, 59.24, 21.64)),  # TRIBUTOS
-            recortes((7.05, 249.74, 116.15, 17.65)),  # DADOS DE MEDICAO
-            recortes((14.01, 218.48, 43.10, 30.04)),  # HISTORICO DE CONSUMO
-            recortes((67, 236, 60, 10)),              # RESERVADO AO FISCO
-            recortes((0, 266, 130, 26)),              # SITUACAO DE DEBITOS
-            recortes((0, 292, 130, 47)),              # DADOS FISCAIS
+            [15.3952, 97.1822, 223.4185, 173.5622],    # MUNICIPIO
+            [21.6212, 181.4596, 310.2812, 202.4865],   # REFERENCIA, VENCIMENTO E TOTAL
+            [229.5413, 108.1626, 347.3269, 164.7626],  # UNIDADE CONSUMIDORA E CODIGO DA INSTALACAO
+            [18.112, 67.9483, 219.8627, 86.0683],      # CLASSIFICACAO
+            [219.5514, 67.9483, 346.7882, 86.0683],    # TIPO DE FORNECIMENTO
+            [0.0, 308.47, 367.9, 413.18],              # INFORMACOES
+            [0.0, 415.99, 367.9, 458.46],              # DATAS DE LEITURA
+            [9.9333, 468.365, 358.2929, 601.5014],     # DADOS DO FATURAMENTO
+            [181.5445, 608.1104, 349.1937, 669.3412],  # TRIBUTOS
+            [19.9515, 706.7642, 348.656, 756.7187],    # DADOS DE MEDICAO
+            [39.6483, 618.2984, 161.6263, 703.3116],   # HISTORICO DE CONSUMO
+            [189.61, 667.88, 359.41, 696.18],          # RESERVADO AO FISCO
+            [0.0, 752.78, 367.9, 826.36],              # SITUACAO DE DEBITOS
+            [0.0, 826.36, 367.9, 959.37],              # DADOS FISCAIS
         ],
         "L7_VERSO": [
-            recortes((0, 0, 100, 100)), # FILL
+            [0.0, 0.0, 283.0, 283.0],                  # FILL
         ],
     },
     "NEOENERGIA": {
         "TESTE": [
-            recortes((5.68, 7.88, 198.99, 6)),
-            recortes((35, 80, 130, 10)),
+            [16.0744, 22.3004, 579.2161, 39.2804],
+            [99.05, 226.4, 467.0, 254.7],
         ],
         "AGRUPADA": [
-            recortes((6.00, 42.85, 83.94, 39.92)),    # DADOS DO CLIENTE
-            recortes((164.70, 71.90, 30.96, 11.22)),  # MES DE REFERENCIA
-            recortes((165.02, 43.03, 30.92, 27.89)),  # CODIGO DA CONTA COMPARTILHADA
+            [16.98, 121.2655, 254.5302, 234.3391],     # DADOS DO CLIENTE
+            [466.101, 203.477, 553.7178, 235.2294],    # MES DE REFERENCIA
+            [467.0066, 121.7749, 554.5102, 200.7242],  # CODIGO DA CONTA COMPARTILHADA
         ],
         "INDIVIDUAL_NEW": [
-            recortes((4.94, 24.71, 69.89, 22.94)),    # DADOS E ENDERECO (VARIAVEL)
-            recortes((5, 48, 25, 7)),                 # MES DE REFERENCIA (CONSTANTE)
-            recortes((74.83, 26.83, 27.89, 19.06)),   # CODIGO (CONSTANTE)
-            recortes((4.94, 54.71, 68.83, 7.06)),     # CLASSIFICACAO (CONSTANTE)
-            recortes((130,56,75,5)),                  # FORNECIMENTO (CONSTANTE)
-            recortes((5,161,115,20)),                 # MEDIDOR
-            recortes((103,161,17,20)),                # CONSUMO
-            recortes((159.90, 106.60, 44.83, 52.95)), # HISTORICO DE CONSUMO
-            recortes((5,82,154,78)),                  # ITENS DA FATURA
+            [13.9802, 69.9293, 211.7689, 134.8495],    # DADOS E ENDERECO (VARIAVEL)
+            [14.15, 135.84, 84.9, 155.65],             # MES DE REFERENCIA (CONSTANTE)
+            [211.7689, 75.9289, 290.6976, 129.8589],   # CODIGO (CONSTANTE)
+            [13.9802, 154.8293, 208.7689, 174.8093],   # CLASSIFICACAO (CONSTANTE)
+            [368.55, 158.48, 580.85, 172.63],          # FORNECIMENTO (CONSTANTE)
+            [14.15, 455.63, 339.6, 512.23],            # MEDIDOR
+            [291.49, 455.63, 339.6, 512.23],           # CONSUMO
+            [452.517, 301.678, 579.3859, 451.5285],    # HISTORICO DE CONSUMO
+            [14.15, 232.06, 450.57, 452.8],            # ITENS DA FATURA
         ],
         "INDIVIDUAL_OLD": [
-            recortes((162.02, 33.89, 27.89, 27.89)),  # CODIGO (CONSTANTE)
-            recortes((3.88, 33.89, 73.77, 19.06)),    # DADOS (VARIAVEL)
-            recortes((3.88, 54.36, 74.13, 18.36)),    # ENDERECO
-            recortes((79.77, 62.83, 109.78, 9.88)),   # CLASSIFICACAO (CONSTANTE)
-            recortes((4,254,115,11)), # DADOS DE COBRANÇA           
-            recortes((4,90,92,82)), # ITENS DA FATURA
-            recortes((103.00, 192.55, 17, 15.5)), # CONSUMO
-            recortes((153.90, 134.49, 35.30, 52.95)), # HISTORICO DE CONSUMO 
-            
+            [458.5166, 95.9087, 537.4453, 174.8087],   # CODIGO (CONSTANTE)
+            [10.9804, 95.9087, 219.7508, 149.8287],    # DADOS (VARIAVEL)
+            [10.9804, 153.8388, 220.7683, 205.7988],   # ENDERECO
+            [225.7491, 177.8089, 536.4263, 205.7695],  # CLASSIFICACAO (CONSTANTE)
+            [11.32, 718.82, 336.77, 749.95],           # DADOS DE COBRANÇA           
+            [11.32, 254.7, 271.68, 486.76],            # ITENS DA FATURA
+            [291.49, 544.9165, 339.6, 588.7815],       # CONSUMO
+            [435.537, 380.6067, 535.436, 530.4552],    # HISTORICO DE CONSUMO 
         ],
     },
 }

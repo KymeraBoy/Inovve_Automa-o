@@ -1,0 +1,67 @@
+ROTEIRO: 005 - 0139 - 561 - 2641
+MATRÍCULA: 7405284-2024-1-2
+DOM. BANC.:                        DOM. ENT.:
+Classificação: MTC-CONVENCIONAL BAIXA TENSÃO / B3 PODER
+PÚBLICO/POD. PÚB. MUNICI                                  LIGAÇÃO: MONOFASICO
+PM DESTERROS ESCOLA JOSE MAMEDES
+FERREIRAS
+SIT PITOMBAS, SN - - 58695000
+
+
+AREA RURAL
+DESTERRO
+
+
+CNPJ/CPF/RANI: 0X.XXX.XXX/XXX1-30
+Insc. Est.:
+Janeiro / 2024   23/03/2024   R$ 529,26
+                                               Preço unit (R$)                     PIS/   Base Calc. % Alíq.   ICMS       Tarifa
+Itens da Fatura             Unid.    Quant.      com tributos    Valor (R$) COFINS (R$)   ICMS (R$) ICMS        (R$)   Unit (R$)
+Consumo em kWh Recuperado             688,00                       529,26       20,28         529,26   18      95,27
+
+
+
+
+                                    TOTAL:                         529,26       20,28         529,26           95,27
+W5145371508   Energia ativa em kWh   Ponta   688
+                               NOTA FISCAL/CONTA DE ENERGIA ELÉTRICA
+
+
+
+     MATRÍCULA                 VENCIMENTO       Nº FATURA     TOTAL A PAGAR
+   7405284-2024-1-2              23/03/2024      2574695        R$ 529,26
+
+CONTA PAGA - Data de Pagamento: 06/03/2024
+Data de Apresentação: 31/01/2024
+Cadastre sua Fatura em Débito Automático.
+Utilize o Código:    0007405284-9
+5/7405284-9
+
+W5145371508
+Tributo   Base de     Alíquota   Valor
+          Cálc.(R$)      (%)      (R$)
+PIS         434,00    0,8336      3,62
+COFINS      434,00    3,8394     16,66
+ICMS        529,26     18,00     95,27
+                                  Nº DIAS
+               CONSUMO FATURADO
+                                    FAT
+              JAN/24
+              DEZ/23
+              NOV/23
+              OUT/23
+Consumo kWh
+
+
+
+
+              SET/23
+              AGO/23
+              JUL/23
+              JUN/23
+              MAI/23
+              ABR/23
+              MAR/23
+              FEV/23
+              JAN/23
+529,26   95,27
